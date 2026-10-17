@@ -1,0 +1,475 @@
+{
+ "slice": 305,
+ "rows_in_slice": 77,
+ "rows_examined": 77,
+ "rows": [
+  {
+   "id": "c21963",
+   "en": "We're counting on you, Claire-senpai.",
+   "flags": [],
+   "notes": "Onegai shimasu: the player handing the orders over to Claire. Male version (c22020 female)."
+  },
+  {
+   "id": "c21964",
+   "en": "Wowww, it looks great on you! You're gorgeous!\nSo sexy, Claire-senpai!!",
+   "flags": [],
+   "notes": "Shared male/female. Said after Claire has left to take orders."
+  },
+  {
+   "id": "c21965",
+   "en": "...Akimizu, I think you should say that\nkind of thing while Claire-senpai is\nactually here.",
+   "flags": [],
+   "notes": "Male version (c22021 female, 'Yuu')."
+  },
+  {
+   "id": "c21966",
+   "en": "No way... Talk to Claire-senpai while she's\nin a china dress? I could never do that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21967",
+   "en": "Well, I'll get back to work too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21968",
+   "en": "Sigh... Claire-senpai is so wonderful......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21969",
+   "en": "(Akimizu really does adore\nClaire-senpai, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21970",
+   "en": "(Huh? Come to think of it,\nwhere did Klan-senpai go?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21971",
+   "en": "(I see...\nShe went to show Michel her china dress.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21972",
+   "en": "Well, Michel? How do I look in this china dress?\nIt suits me exceptionally well, does it not?",
+   "flags": [],
+   "notes": "Klan's stiff register."
+  },
+  {
+   "id": "c21973",
+   "en": "Hmm, let's see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21974",
+   "en": "It suits me so well words fail you, does it not?\nHeh heh. No need to say it aloud.\nYour eyes tell me everything...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21975",
+   "en": "...You're wearing a china dress and still have\nzero sex appeal. That's quite an achievement.\nI really respect you, Klan.",
+   "flags": [],
+   "notes": "Iroke = sex appeal; full strength."
+  },
+  {
+   "id": "c21976",
+   "en": "(Michel didn't have to go out of his way to say\nsomething that'd make Klan-senpai mad...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21977",
+   "en": "...This time, I will NOT let it slide!!\nStay right there, Michel!!",
+   "flags": [],
+   "notes": "Soko ni naore = stay there (and take your punishment), as slice 334."
+  },
+  {
+   "id": "c21978",
+   "en": "(Ahh... Please don't go on a rampage inside\nthe shop like that, Klan-senpai...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21979",
+   "en": "Kyaaaaaaaah! So cuuute!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21980",
+   "en": "(Hm? What now?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21981",
+   "en": "Pino-Pino in a china dress is sooo cute!\nCan I just take her home with me like this?",
+   "flags": [],
+   "notes": "Pinopino: Yui's nickname for Pinon, kept as 'Pino-Pino'. Mochikaeru also means restaurant takeout."
+  },
+  {
+   "id": "c21982",
+   "en": "L-let me go, Yui!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21983",
+   "en": "Seriously, I just wanna keep her\nas my hug pillow~",
+   "flags": [],
+   "notes": "Dakimakura."
+  },
+  {
+   "id": "c21984",
+   "en": "Le~t~~ me~ gooo~~~~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21985",
+   "en": "Hoshimura, Pinon-chan clearly hates this.\nCome on, let her go already.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21986",
+   "en": "Tch...\nYou're such a meanie, \\p!",
+   "flags": [],
+   "notes": "Kechinbo (stingy, spoilsport)."
+  },
+  {
+   "id": "c21987",
+   "en": "Th-that was close...",
+   "flags": [],
+   "notes": "Tasukatta (I'm saved)."
+  },
+  {
+   "id": "c21988",
+   "en": "P-Pinon-chan...\nW-would you like to come over\nto my place today...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21989",
+   "en": "Eek! N-no way!!\nThe way Claire's looking at me is\nscarier than ever...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21990",
+   "en": "Let's do something fun together...\nPinon-chan......",
+   "flags": [],
+   "notes": "x3."
+  },
+  {
+   "id": "c21991",
+   "en": "Nooo~~~ waaaaaaaaaay~~~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21992",
+   "en": "Things are getting kind of rowdy around here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21993",
+   "en": "Why not? It's a festival, after all.\nWe'd be missing out if we didn't have\nas much fun as we can.",
+   "flags": [],
+   "notes": "Kagura (classmate NPC). Shared male/female."
+  },
+  {
+   "id": "c21994",
+   "en": "Come on, we've still got plenty of customers\ncoming, so let's keep at it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21995",
+   "en": "Yeah, let's give it our all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21996",
+   "en": "(Phew, I'm beat...\nI never expected that many customers.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21997",
+   "en": "Good work today,\n\\p-kun.",
+   "flags": [],
+   "notes": "Otsukaresama desu."
+  },
+  {
+   "id": "c21998",
+   "en": "You too, Nanase.\nYou were really efficient. I guess that's\nwhat working at the real Nyan-Nyan does.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21999",
+   "en": "Yes, Nanase-san was absolutely amazing!\nShe looked the best in a china dress, by far!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c22000",
+   "en": "(Luca... Nobody was even talking\nabout the china dresses...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22001",
+   "en": "Finally, it's over.\nI've had it with exhausting stuff like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22002",
+   "en": "For someone saying that, you sure\nlooked like you were having fun.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c22003",
+   "en": "Hmph! You're imagining things...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22004",
+   "en": "(Alto's so contrary.)",
+   "flags": [],
+   "notes": "Amanojaku."
+  },
+  {
+   "id": "c22005",
+   "en": "(And so the fun Culture Fest is over...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c22006",
+   "en": "Wait, what are we doing about\nthe remodeled classroom?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22007",
+   "en": "No worries there! For me, a job like this\nis easy-peasy. It'll be back to normal\nin no time!",
+   "flags": [],
+   "notes": "Chochoi no choi."
+  },
+  {
+   "id": "c22008",
+   "en": "(I'm dying to know how she remodeled it...\nbut I bet I'm better off not asking...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22009",
+   "en": "(Ahh, the Culture Fest was really fun...\nNext year, I hope it'll be just as fun...)",
+   "flags": [],
+   "notes": "Trails into the next row as in the Japanese."
+  },
+  {
+   "id": "c22010",
+   "en": "(No, I hope it's even more fun than this year!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22011",
+   "en": "(Today's the Culture Fest I've been waiting for!)",
+   "flags": [],
+   "notes": "x3, female version."
+  },
+  {
+   "id": "c22012",
+   "en": "Wait... This was just a regular classroom\nuntil yesterday, right...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22013",
+   "en": "\\p-san, Yui,\nwe don't have time for idle chatter.\nHurry up and get ready to open.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22014",
+   "en": "Wait, you even got Nyan-Nyan\nchina dresses ready, huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22015",
+   "en": "(Hee hee, that's Miyuki for you.)",
+   "flags": [],
+   "notes": "The female player calls Shirakawa by her given name."
+  },
+  {
+   "id": "c22016",
+   "en": "(Saotome-kun in a china dress, huh...\nPart of me kind of wants to see that...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22017",
+   "en": "(Whoops, this is no time for daydreaming.\nI need to hurry and get ready to open.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22018",
+   "en": "(Thanks partly to the china dresses,\nbusiness is booming. But that means we're\nso busy we're short on hands...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22019",
+   "en": "Hee hee, how do I look, \\p-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22020",
+   "en": "We're counting on you, Claire-senpai.",
+   "flags": [],
+   "notes": "Onegai shimasu ne."
+  },
+  {
+   "id": "c22021",
+   "en": "...Yuu, I think you should say that\nkind of thing while Claire-senpai is\nactually here.",
+   "flags": [],
+   "notes": "The female player calls Akimizu by her given name."
+  },
+  {
+   "id": "c22022",
+   "en": "(Yuu really does adore\nClaire-senpai, doesn't she.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22023",
+   "en": "(Huh? Come to think of it,\nwhere did Klan-senpai go?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22024",
+   "en": "(I see...\nShe went to show Michel-kun her china dress.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22025",
+   "en": "(Michel-kun didn't have to go out of his way\nto say something that'd make Klan-senpai mad...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22026",
+   "en": "(Hm? What is it now?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22027",
+   "en": "Yui, Pinon-chan clearly hates this.\nThat's enough. Let her go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22028",
+   "en": "Let's do something fun together...\nPinon-chan...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22029",
+   "en": "Things are getting kind of rowdy around here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22030",
+   "en": "You're right. Let's do our best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22031",
+   "en": "(Phew, I'm beat...\nI never expected that many customers.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22032",
+   "en": "Good work today,\n\\p-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22033",
+   "en": "You too, Nanase.\nYou were really efficient. I guess that's\nwhat working at the real Nyan-Nyan does.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22034",
+   "en": "(Luca-kun... Nobody was even talking\nabout the china dresses...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22035",
+   "en": "(Saotome-kun's so contrary.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22036",
+   "en": "Wait, what are we doing about\nthe remodeled classroom?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22037",
+   "en": "(I'm dying to know how she remodeled it...\nbut I bet I'm better off not asking...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22038",
+   "en": "(Ahh, the Culture Fest was really fun...\nNext year, I hope it'll be just as fun...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22039",
+   "en": "(No, I hope it's even more fun than this year!)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

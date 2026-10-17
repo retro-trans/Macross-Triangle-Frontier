@@ -1,0 +1,500 @@
+{
+ "slice": 300,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c21563",
+   "en": "(What should I do for fun in the Shibuya Area today?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21564",
+   "en": "(Oh, it's one of Sheryl's songs...\nThey say nobody in this galaxy goes a day without\nhearing Sheryl sing, and it's really true.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21565",
+   "en": "We're giving away signed Sheryl autograph cards\nin a prize drawing right now!\nEveryone, be sure to enter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21566",
+   "en": "(Huh, I might be able to get\na signed Sheryl autograph card...\nMaybe I'll enter too?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21567",
+   "en": "Enter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21568",
+   "en": "Don't enter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21569",
+   "en": "(Might as well give it a shot.\nUmm, so I have to fill out a survey, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21570",
+   "en": "(And the last one is \"What would you love\nSheryl to do?\" Hmm...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21571",
+   "en": "(I know!\nIt might be fun if Sheryl came to visit\nMihoshi Academy. Umm...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21572",
+   "en": "(\"Please come visit Mihoshi Academy High School\nin the Frontier fleet sometime.\")",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21573",
+   "en": "(\"I'm sure you'll have a great time unlike\nanything even you have experienced, Sheryl.\")",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21574",
+   "en": "(...There, something like that.\nWell, it's not like Sheryl would ever actually come.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21575",
+   "en": "(Okay, I'm done writing, so I'll send it in.\nI hope I win that signed card.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21576",
+   "en": "(Okay, back to my shopping.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21577",
+   "en": "(Hmm... But I'm never gonna win anyway.\nI'll pass.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21578",
+   "en": "(Huh, I might be able to get\na signed Sheryl autograph card...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21579",
+   "en": "(Oh, it's one of Sheryl's songs...\nThey say nobody in this galaxy goes a day without\nhearing Sheryl sing, and it's really true.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21580",
+   "en": "(Huh, I might be able to get\na signed Sheryl autograph card...\nMaybe I'll enter too?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21581",
+   "en": "(...There, something like that.\nWell, it's not like Sheryl would ever actually\ncome, though.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21582",
+   "en": "(Okay, back to my shopping.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21583",
+   "en": "(Hmm... But I'm never going to win anyway.\nMaybe I'll pass.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21584",
+   "en": "(Huh, I might be able to get\na signed Sheryl autograph card...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21585",
+   "en": "(A Christmas party at school...\nMihoshi really is something else.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21586",
+   "en": "(Guess I'll head over to the party venue for now.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21587",
+   "en": "(Man, that was fun~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21588",
+   "en": "(But... if I'd come with someone,\nI bet the party would've been even more fun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21589",
+   "en": "(Well, I still had a fun Christmas.\nI hope next year's a good one too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21590",
+   "en": "(A Christmas party at school...\nMihoshi really is something else.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21591",
+   "en": "(Maybe I'll head over to the party venue for now.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21592",
+   "en": "(But... if I'd come with someone,\nI bet the party would've been even more fun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21593",
+   "en": "(Well, I still had a fun Christmas.\nI hope next year's a good one too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21594",
+   "en": "(I promised Yuuto we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21595",
+   "en": "Merry Christmas,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21596",
+   "en": "Merry Christmas,\nYuuto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21597",
+   "en": "It's a party, after all.\nLet's enjoy it to the fullest.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21598",
+   "en": "Yeah, you're right.\nBut are you sure you want to spend\nChristmas with someone like me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21599",
+   "en": "A Christmas like this sounds fun too, doesn't it?\nCome on, let's hurry to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21600",
+   "en": "Man, that was fun~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21601",
+   "en": "I never expected it to get that lively.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21602",
+   "en": "It really was a great Christmas, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21603",
+   "en": "I think so too.\nI hope we can spend next year like this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21604",
+   "en": "It's getting late, so let's head home.\nSee you next year, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21605",
+   "en": "Yeah, see you next year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21606",
+   "en": "(I'm glad I got to have a fun Christmas.\nI hope next year's a good one too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21607",
+   "en": "(I promised Kagura-kun we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21608",
+   "en": "Merry Christmas,\nKagura-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21609",
+   "en": "Yeah, you're right.\nBut are you sure you want to spend\nChristmas with someone like me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21610",
+   "en": "It really was a great Christmas, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21611",
+   "en": "See you next year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21612",
+   "en": "(I'm glad I got to have a fun Christmas.\nI hope next year's a good one too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21613",
+   "en": "(I promised Gary-sensei we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21614",
+   "en": "Merry Christmas and all that,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21615",
+   "en": "Merry Christmas,\nGary-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21616",
+   "en": "It's a party, after all.\nLet's go raise some hell.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21617",
+   "en": "You're right.\nBut are you sure you want to spend\nChristmas with someone like me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21618",
+   "en": "What're you talking about?\nA Christmas like this is nice once in a while.\nCome on, let's hurry to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21619",
+   "en": "Who'd have thought it'd get that lively.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21620",
+   "en": "It really was a great Christmas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21621",
+   "en": "Yeah, it was.\nIt'd be the best if we could spend next year\nlike this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21622",
+   "en": "Well, it's about time for kids to go home\nand get to bed.\nSee you next year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21623",
+   "en": "Yes, see you next year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21624",
+   "en": "(I'm glad I got to have a fun Christmas.\nI hope next year's a good one too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21625",
+   "en": "You're right.\nBut are you sure you want to spend\nChristmas with someone like me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21626",
+   "en": "(I'm glad I got to have a fun Christmas.\nI hope next year's a good one too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21627",
+   "en": "(I promised Luis-san we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21628",
+   "en": "Meeerry Christmaaas!\nFresh Boy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21629",
+   "en": "Merry Christmas,\nLuis-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21630",
+   "en": "It's a party, after all.\nLet's set our passion ablaze and blow\neveryone away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21631",
+   "en": "Y-yeah, I guess...\nBut are you sure you want to spend\nChristmas with someone like me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21632",
+   "en": "A Christmas like this is nice once in a while,\nright, Fresh Boy?\nCome on, let's hurry to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21633",
+   "en": "Who'd have thought that party would shake\nmy soul like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21634",
+   "en": "Yeah, that's right.\nSpending next year like this too would be\nthe best, that's what.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21635",
+   "en": "I've got my daily gig, so\nI'll be heading home about now.\nSee you next year, Fresh Boy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21636",
+   "en": "Meeerry Christmaaas!\nFresh Girl!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21637",
+   "en": "Y-yeah, I guess...\nBut are you sure you want to spend\nChristmas with someone like me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21638",
+   "en": "A Christmas like this is nice once in a while,\nright, Fresh Girl?\nCome on, let's hurry to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21639",
+   "en": "I've got my daily gig, so\nI'll be heading home about now.\nSee you next year, Fresh Girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21640",
+   "en": "(I promised Shirakawa we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21641",
+   "en": "Merry Christmas,\n\\p-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21642",
+   "en": "Merry Christmas,\nShirakawa.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c21565/c21566: sain shikishi rendered 'signed Sheryl autograph card(s)'; the survey-prize wording is repeated across the scene.",
+   "c21587/c21600: 'iyaa~ tanoshikatta~' rendered 'Man, that was fun~'; c21600 is shared by 30 Christmas variants of both player genders, c21587 by the solo ones of both genders.",
+   "c21614: Gary's 'Merry Christmas tte yatsu da' rendered 'Merry Christmas and all that'.",
+   "c21635/c21639: Luis's 'nikka no raibu' rendered 'my daily gig' (live performance); Luis's occupation not confirmed.",
+   "c21641: shared by Shirakawa, Akimizu and Nanase (male player); 'Merry Christmas, \\p-kun.' fits all three.",
+   "c21617/c21625: shared by the Gary, Hilda, Claire and Klan scenes; the reply 'You're right.' answers each partner's 'let's enjoy the party' line."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

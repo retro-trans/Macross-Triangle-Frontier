@@ -1,0 +1,499 @@
+{
+ "slice": 46,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c03368",
+   "en": "Wait just a moment, will you!",
+   "flags": [],
+   "notes": "Sheryl working as a Nyan-Nyan waitress, to customers; both genders."
+  },
+  {
+   "id": "c03369",
+   "en": "You'd better come back again!",
+   "flags": [],
+   "notes": "Waitress Sheryl to customers; both genders."
+  },
+  {
+   "id": "c03370",
+   "en": "Sorry for dragging you into this mess.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03371",
+   "en": "That was some good exercise after a big meal.",
+   "flags": [],
+   "notes": "Male; also ext_yui_004 (male) after the same work-off-the-bill gag."
+  },
+  {
+   "id": "c03372",
+   "en": "Plus I got to see you in a Nyan-Nyan outfit,\nSheryl!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03373",
+   "en": "I-I hardly ever do favors like this, you know!!",
+   "flags": [],
+   "notes": "Callback to c03349 (same 'konna saabisu' line, rendered 'favors' there); here the 'service' is her wearing the costume. Both genders."
+  },
+  {
+   "id": "c03374",
+   "en": "Hahaha, it looked good on you.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03375",
+   "en": "...W-well, of course it did!?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03376",
+   "en": "Now then, we're going home!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03377",
+   "en": "Sheryl-saaan!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03378",
+   "en": "\\p-chan...\nFancy running into you in a place like this.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03379",
+   "en": "Sheryl-san, what's up? Why are you\nhanging around in front of Nyan-Nyan?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03380",
+   "en": "Why don't you just go in?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03381",
+   "en": "I can go in on my own just fine, though~\nWant to go in with me, then?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03382",
+   "en": "I-isn't that way too many!? Seriously!!",
+   "flags": [],
+   "notes": "Female only; Sheryl just ordered 20 servings."
+  },
+  {
+   "id": "c03383",
+   "en": "You eat a ton too, Sheryl-san.\nYou're so slim, so where does all that food go...?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03384",
+   "en": "I-I don't have that kind of money either!?",
+   "flags": [],
+   "notes": "Female only; matches male c03364."
+  },
+  {
+   "id": "c03385",
+   "en": "That was some good exercise after a big meal.",
+   "flags": [],
+   "notes": "Female only (polite form)."
+  },
+  {
+   "id": "c03386",
+   "en": "Plus I got to see you in a Nyan-Nyan outfit,\nSheryl-san!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03387",
+   "en": "Hahaha, it looked great on you.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03388",
+   "en": "I heard an interesting rumor...\nThat instead of the great Sheryl-sama,\nyou've been hanging out with that guy a lot.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Both genders. 'Ano otoko' ('that guy') is not named in the scene; kept vague."
+  },
+  {
+   "id": "c03389",
+   "en": "(Hoshimura suddenly called me out here,\nbut...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03390",
+   "en": "Is something going on at Nyan-Nyan?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03391",
+   "en": "I've been expecting you,\n\\p!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03392",
+   "en": "...Hey, Hoshimura.\nYou're as hyper as ever today.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03393",
+   "en": "Heh heh heh...\nAct all relaxed while you still can~",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03394",
+   "en": "So why did you call me out here?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03395",
+   "en": "It's a showdown...!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03396",
+   "en": "A showdown?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03397",
+   "en": "Yup! Me 'n' ya, in a no-holds-barred\nNyan-Nyan eating battle!",
+   "flags": [],
+   "notes": "Both genders. Her comic 'chimi' (for kimi) rendered 'ya'."
+  },
+  {
+   "id": "c03398",
+   "en": "...Why?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03399",
+   "en": "Because it sounds fun!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03400",
+   "en": "Now then, here we gooo~!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03401",
+   "en": "But whyyy~!!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03402",
+   "en": "I don't need to explain the rules, right?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03403",
+   "en": "Uh, yes you do!\nI don't know anything about this.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03404",
+   "en": "Oh, last time it was Yuuto, wasn't it...\nMy bad, my bad.",
+   "flags": [],
+   "notes": "Male only; Yuuto Kagura (given name as in the Japanese)."
+  },
+  {
+   "id": "c03405",
+   "en": "(So Yuuto was a victim too...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03406",
+   "en": "Here are the rules:\nWhoever eats the most dim sum in an hour wins!\nThat's all there is to it.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03407",
+   "en": "That's simple enough.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03408",
+   "en": "If there's food left when time's up, you lose\npoints for it, so watch out you don't\norder too much.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03409",
+   "en": "Sounds like timing my orders will matter too...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03410",
+   "en": "The restaurant isn't running this as an event,\nso you'll need luck on your side too!",
+   "flags": [],
+   "notes": "Both genders: the food comes at the kitchen's pace."
+  },
+  {
+   "id": "c03411",
+   "en": "So what happens if I win?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03412",
+   "en": "The loser foots the bill!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03413",
+   "en": "Got it!",
+   "flags": [],
+   "notes": "x3: ext_yui_001 both genders, frd_kgr_109 female (answering Kagura's 'watch me from below')."
+  },
+  {
+   "id": "c03414",
+   "en": "Alrighty, here we go!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03415",
+   "en": "Nyan-Nyan Fight~!!",
+   "flags": [],
+   "notes": "Both genders; 'Fight... Ready... Go!' call split over three rows."
+  },
+  {
+   "id": "c03416",
+   "en": "Ready~!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03417",
+   "en": "Go~!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03418",
+   "en": "Now, what should I order?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03419",
+   "en": "Maguro bun",
+   "flags": [],
+   "notes": "Choice, offered in all three rounds, both genders."
+  },
+  {
+   "id": "c03420",
+   "en": "Xiaolongbao",
+   "flags": [],
+   "notes": "Choice (shouronpou, soup dumplings)."
+  },
+  {
+   "id": "c03421",
+   "en": "Red bean bun",
+   "flags": [],
+   "notes": "Choice (anman)."
+  },
+  {
+   "id": "c03422",
+   "en": "I'll start with maguro buns!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03423",
+   "en": "That's the spirit!\nMaguro buns for me too!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03424",
+   "en": "When it comes to dim sum, it's xiaolongbao!\nI'll beat the heat with sheer guts!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03425",
+   "en": "Yup yup, they're delicious!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03426",
+   "en": "I'm going with the underrated red bean bun!",
+   "flags": [],
+   "notes": "Male only ('jimi ni oishii': quietly tasty)."
+  },
+  {
+   "id": "c03427",
+   "en": "So that's your move!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03428",
+   "en": "*munch munch*...\nThere's still plenty of time!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03429",
+   "en": "*nom nom*...\nI'm not gonna lose!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03430",
+   "en": "Time to pick my second wave!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03431",
+   "en": "Shrimp dumplings",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c03432",
+   "en": "Sesame balls",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c03433",
+   "en": "Shrimp dumplings to switch up the flavor!\nIf I don't mix it up, I'm done for...!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03434",
+   "en": "Ku-ku-ku!\nSpoken like a true rival of mine!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03435",
+   "en": "It's the big crowd-pleaser.\nI'd be crazy not to order it...!",
+   "flags": [],
+   "notes": "Male only; follows the maguro bun choice in round two."
+  },
+  {
+   "id": "c03436",
+   "en": "I can't fall behind!\nExcuse meee, I'll have some too!!",
+   "flags": [],
+   "notes": "Both genders; calling the clerk."
+  },
+  {
+   "id": "c03437",
+   "en": "Sesame balls, the secret fan favorite!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03438",
+   "en": "Heh heh heh, think improvising like that'll work?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03439",
+   "en": "Urp...\nThis is getting rough...\nTime for the final sprint!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03440",
+   "en": "It's been ages since anyone held out this long...\nWhaddaya say we dance to the bitter end!?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03441",
+   "en": "Time to pick my last order!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03442",
+   "en": "Mango pudding",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c03443",
+   "en": "Almond tofu",
+   "flags": [],
+   "notes": "Choice (annin dofu)."
+  },
+  {
+   "id": "c03444",
+   "en": "Meat would be a bad idea now...\nThis'll dodge the leftovers penalty!",
+   "flags": [],
+   "notes": "Male only; follows the mango pudding choice."
+  },
+  {
+   "id": "c03445",
+   "en": "Ngh, I'm not gonna lose~!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03446",
+   "en": "I'll finish off with smooth, refreshing almond tofu!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03447",
+   "en": "Playing it safe to wrap things up, huh...!",
+   "flags": [],
+   "notes": "Both genders."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c03388: Sheryl's 'ano otoko' (that guy) the player supposedly hangs out with is never named; rendered 'that guy' for both genders.",
+   "c03373: same 'konna saabisu' wording as c03349 ('favors'); kept 'favors' as a callback though here it is the costume she means.",
+   "Dim sum choice names (no glossary entries): Xiaolongbao, Red bean bun, Shrimp dumplings, Sesame balls, Mango pudding, Almond tofu."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

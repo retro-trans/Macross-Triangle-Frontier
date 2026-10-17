@@ -1,0 +1,493 @@
+{
+ "slice": 210,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c15365",
+   "en": "(Today she asked me, \"Want to go up\nto the roof for a change?\" but...)",
+   "flags": [],
+   "notes": "x2, player, both genders; 'she' = Yuu (female)."
+  },
+  {
+   "id": "c15366",
+   "en": "\\p-kun!\nOver here, over here~",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15367",
+   "en": "Oh, okay.",
+   "flags": [],
+   "notes": "x3, player; also nml_she_016 (Sheryl: 'wait a moment')."
+  },
+  {
+   "id": "c15368",
+   "en": "Sorry for dragging you to a place like this...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15369",
+   "en": "No, the view's nice.\nThe roof's a great spot.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15370",
+   "en": "Right? Whenever I've got something on my mind,\nI come up here alone and look at the sky,\nand it all just empties out.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15371",
+   "en": "Huh~\nBut then isn't it bad for me to be here?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15372",
+   "en": "No, today I was hoping we could\ntalk about all sorts of things up here...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15373",
+   "en": "Hey, do you have a dream or anything...?",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15374",
+   "en": "Hm?\n...A dream, huh...",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15375",
+   "en": "Me, I've never really been able to think\nabout the future at all...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15376",
+   "en": "I'd vaguely think, \"I want to be\nlike Claire-senpai,\"",
+   "flags": [],
+   "notes": "x2, Akimizu; sentence runs over c15376-c15378."
+  },
+  {
+   "id": "c15377",
+   "en": "or \"I want to become a real operator,\"",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15378",
+   "en": "all kinds of things, but it was all\nkind of hazy, you know?",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15379",
+   "en": "Like, \"Where is this Macross\ngoing to end up?\"",
+   "flags": [],
+   "notes": "x2, Akimizu; sentence runs over c15379-c15382 (the haziness explained by other worries). Macross = the colony ship."
+  },
+  {
+   "id": "c15380",
+   "en": "or \"When will that be?\"",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15381",
+   "en": "or \"Will we even find a planet\nwe can live on?\"",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15382",
+   "en": "I figured it was because I had\nso many other worries like those, you know?",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15383",
+   "en": "But lately, things feel a little different.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15384",
+   "en": "Little by little, I've been trying all kinds\nof things on my own, and it's all so fresh\nand fun that I lose track of time...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15385",
+   "en": "And I feel like I'm sort of starting to see\n\"what I want to do\"...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15386",
+   "en": "Yeah, that's great!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15387",
+   "en": "And I think it's mostly thanks to the two\nyears I've spent here at Mihoshi.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15388",
+   "en": "I see. I've still got a long way to go...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15389",
+   "en": "Maybe it's thanks to you?",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15390",
+   "en": "No, never mind. I hope you find yours too,\n\\p-kun...",
+   "flags": [],
+   "notes": "Akimizu, male scene; 'yours' = a dream."
+  },
+  {
+   "id": "c15391",
+   "en": "Yeah. So what's your dream, Akimizu?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15392",
+   "en": "Hmm~ It's still a secret!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15393",
+   "en": "Whaaat~!",
+   "flags": [],
+   "notes": "x6: player here; also Hoshimura (nml_yui_016) and the player (scd_skl_609)."
+  },
+  {
+   "id": "c15394",
+   "en": "Okay, the wind's picking up,\nso let's head down!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15395",
+   "en": "Huh? Hey, wait~...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15396",
+   "en": "(Akimizu's dream... I wonder what it is...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15397",
+   "en": "\\p-chan!\nOver here, over here~",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c15398",
+   "en": "No, the view's nice.\nThe roof's a great spot.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15399",
+   "en": "Huh~\nBut then isn't it bad for me to be here?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15400",
+   "en": "Wow~ That's great!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15401",
+   "en": "I see~ I've still got a long way to go...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15402",
+   "en": "No, never mind. I hope you find yours too,\n\\p-chan...",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c15403",
+   "en": "Yeah. So what's your dream, Yuu?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15404",
+   "en": "Geez, hang on a sec~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15405",
+   "en": "(Yuu's dream... I wonder what it is.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15406",
+   "en": "(Akimizu called me up to the roof again, but...)",
+   "flags": [],
+   "notes": "Male, frd_yuu_007 second visit."
+  },
+  {
+   "id": "c15407",
+   "en": "What's going on, up here again?",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15408",
+   "en": "Yeah, I just felt like talking a little again...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15409",
+   "en": "Ahh, talking it out made me feel\nso much better!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15410",
+   "en": "I see. That's good, then!",
+   "flags": [],
+   "notes": "Male; as c10772."
+  },
+  {
+   "id": "c15411",
+   "en": "Thanks for listening to me.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15412",
+   "en": "Hey, if that's all it is, anytime.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15413",
+   "en": "Then I'll call you up here every single day!\nJust kidding!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15414",
+   "en": "(I guess I'm glad Akimizu cheered up.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15415",
+   "en": "(Yuu called me up to the roof again, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15416",
+   "en": "I see. I'm glad!",
+   "flags": [],
+   "notes": "Female; as c03958."
+  },
+  {
+   "id": "c15417",
+   "en": "No problem. If that's all it is, anytime.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15418",
+   "en": "(I'm glad Yuu cheered up.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15419",
+   "en": "(Central Park today, huh...\nI'm pretty sure we met up here before, too...)",
+   "flags": [],
+   "notes": "Male, frd_yuu_008; refers to frd_yuu_002 (the park)."
+  },
+  {
+   "id": "c15420",
+   "en": "(Come to think of it, that time...)",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15421",
+   "en": "Whoa, you're early!",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15422",
+   "en": "Huh?! What's wrong?",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15423",
+   "en": "No, I was just thinking about the last time\nwe met here... You showed up pretty late\nthat time, Akimizu~",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15424",
+   "en": "Ahh, right...\nI'm really sorry about that time...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15425",
+   "en": "Nah, that was over a year ago.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15426",
+   "en": "Wow, it's already been over a year\nsince then...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15427",
+   "en": "Time flies, huh.\nWe've moved up a year,\nso graduation's just a year away.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15428",
+   "en": "Isn't it a little early to be talking\nabout graduating?",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15429",
+   "en": "Hahaha, true.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15430",
+   "en": "Oh, I made lunch again today.\nYou'll have some, right?",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15431",
+   "en": "Yeah! It's been a while since I had\nyour home cooking, Akimizu.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15432",
+   "en": "Ahh, delicious as always.\nYou'll make a great wife someday, Akimizu.",
+   "flags": [],
+   "notes": "Male (ii oyome-san)."
+  },
+  {
+   "id": "c15433",
+   "en": "Hehehe, that's the classic line, isn't it?",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15434",
+   "en": "And this is where you say,\n\"Oh? Whose wife?\" Right?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15435",
+   "en": "Then would you answer,\n\"Mine, of course\"?",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15436",
+   "en": "Pfft...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15437",
+   "en": "Heh...",
+   "flags": [],
+   "notes": "Akimizu, male scene (ha...)."
+  },
+  {
+   "id": "c15438",
+   "en": "Ahahahahaha!",
+   "flags": [],
+   "notes": "x2, both the male player and Akimizu."
+  },
+  {
+   "id": "c15439",
+   "en": "Just kidding!",
+   "flags": [],
+   "notes": "x3, Akimizu; as c04678."
+  },
+  {
+   "id": "c15440",
+   "en": "Geez, you don't hold back, Akimizu.",
+   "flags": [],
+   "notes": "Male (Akimizu mo iu naa)."
+  },
+  {
+   "id": "c15441",
+   "en": "But that might be nice too!",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15442",
+   "en": "Oh, I mean the \"great wife\" part!\nYeah, that's it.",
+   "flags": [],
+   "notes": "Akimizu, male scene; backpedals to 'becoming a wife', not 'his'."
+  },
+  {
+   "id": "c15443",
+   "en": "Oh, is that all...",
+   "flags": [],
+   "notes": "Male (na~n da)."
+  },
+  {
+   "id": "c15444",
+   "en": "Oh, but there's something\nI want to do before that.",
+   "flags": [],
+   "notes": "Akimizu, male scene; continues into slice 211."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,408 @@
+{
+ "slice": 74,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c05477",
+   "en": "No, I should be the one saying that...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05478",
+   "en": "I bet you were going on again with\n'my little sister' this, 'my old flame' that...",
+   "flags": [],
+   "notes": "Female only. Hilda to Gary."
+  },
+  {
+   "id": "c05479",
+   "en": "\\p!\nDon't take everything this guy says at face value.\nI checked back in the military. He's got no little sister.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05480",
+   "en": "(Well, I'm glad nobody actually went\nthrough a tragedy.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05481",
+   "en": "(We were meeting at Central Park again today,\nright.)",
+   "flags": [],
+   "notes": "Male only. Repeat visit."
+  },
+  {
+   "id": "c05482",
+   "en": "Hey, you came!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05483",
+   "en": "Yes, Sensei.",
+   "flags": [],
+   "notes": "Shared with Itsuki's frd_itk_006; neutral."
+  },
+  {
+   "id": "c05484",
+   "en": "About last time... uh... y'know...\nSorry about that...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05485",
+   "en": "No, I did get a little worried,\nbut in a way, I'm glad it was a made-up story.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05486",
+   "en": "Yeah? Then good.\nYou were listening so earnestly that...\nI just kinda... y'know...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05487",
+   "en": "No, really, it's fine now. Honestly.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05488",
+   "en": "Thing is...\nnot every bit of it was made up, y'know...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05489",
+   "en": "Hahaha!\nYou really are easy to fool!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05490",
+   "en": "Sensei!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05491",
+   "en": "Well, let's call it a day. See ya!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05492",
+   "en": "Okay. Goodbye, Sensei!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05493",
+   "en": "(Gary-sensei... how much of that was a lie?)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05494",
+   "en": "No, really, it's fine now. Honestly.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05495",
+   "en": "(Gary-sensei... I wonder how much of that\nwas a lie?)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05496",
+   "en": "Sensei~? Where'd you go, Sensei?",
+   "flags": [],
+   "notes": "Gary friendship ending (frd_gry_009/010, frd_gyr_009/010), both genders."
+  },
+  {
+   "id": "c05497",
+   "en": "Phew, that was close. Almost got caught...",
+   "flags": [],
+   "notes": "Gary hiding from work."
+  },
+  {
+   "id": "c05498",
+   "en": "Sensei~!\nIf we don't shear the sheep soon,\nthe sun's gonna go down!",
+   "flags": [],
+   "notes": "'hitsuji no kegawa' (sheep's fleece) rendered 'shear the sheep'."
+  },
+  {
+   "id": "c05499",
+   "en": "Then tomorrow's fine, isn't it? Geez...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05500",
+   "en": "Urk!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05501",
+   "en": "Gary, where are you?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05502",
+   "en": "Come out right now, or I'll shear the mane\noff that precious horse of yours!",
+   "flags": [],
+   "notes": "Hilda (frd_gry_009/010)."
+  },
+  {
+   "id": "c05503",
+   "en": "Geez...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05504",
+   "en": "Yeah, yeah. Guess we'd better get to it, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05505",
+   "en": "Affinity ending.\nGary female filler.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Developer placeholder text ('umeyou' = filler), name plate Alto; probably never shown. Translated literally."
+  },
+  {
+   "id": "c05506",
+   "en": "Affinity ending.\nGary male filler.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Developer placeholder text, as c05505."
+  },
+  {
+   "id": "c05507",
+   "en": "(Oh, Gary-sensei...\nGuess I'll try asking him, just in case...)",
+   "flags": [],
+   "notes": "Male only; all Gary invitation scenes (frd_gry_101-108)."
+  },
+  {
+   "id": "c05508",
+   "en": "Hm, \\p?\nWhat's up?",
+   "flags": [],
+   "notes": "All Gary invitation scenes, both genders."
+  },
+  {
+   "id": "c05509",
+   "en": "Well, I was thinking maybe we could go\nto Nyan-Nyan together after this...",
+   "flags": [],
+   "notes": "Male only; also frd_hld_101 (to Hilda). Neutral."
+  },
+  {
+   "id": "c05510",
+   "en": "Ooh-hoo, the Nyan-Nyan with the cute uniforms...\nNo wait, if I'm gonna go anyway...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05511",
+   "en": "Listen.\nYou go straight home. If you make any detours,\nyou'll be sorry!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05512",
+   "en": "(...Sensei's totally going by himself...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05513",
+   "en": "(Oh, Gary-sensei...\nI'll try asking him, just in case.)",
+   "flags": [],
+   "notes": "Female only; all Gary invitation scenes."
+  },
+  {
+   "id": "c05514",
+   "en": "Yes, I was thinking maybe we could go\nto Nyan-Nyan together after this...",
+   "flags": [],
+   "notes": "Female only; also frd_hld_101. Neutral."
+  },
+  {
+   "id": "c05515",
+   "en": "(...Sensei's totally going by himself...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05516",
+   "en": "Well, I was thinking maybe we could go\nto the Observation Pier together after this...",
+   "flags": [],
+   "notes": "Both genders in frd_gry_102; also frd_hld_102 (Hilda). Place name as in the corpus place list."
+  },
+  {
+   "id": "c05517",
+   "en": "The Observation Pier?\nWhy, of all places, somewhere that boring...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05518",
+   "en": "Oh... okay...",
+   "flags": [],
+   "notes": "Shared with Hilda and Sheryl scenes; neutral."
+  },
+  {
+   "id": "c05519",
+   "en": "Now quit the nonsense and hurry on home,\ngot it?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05520",
+   "en": "(...Well, guess it wasn't his kind of place...)",
+   "flags": [],
+   "notes": "Male only (frd_gry_102/103/108)."
+  },
+  {
+   "id": "c05521",
+   "en": "(...Well, guess it wasn't his kind of place...)",
+   "flags": [],
+   "notes": "Female only (frd_gry_102/103/108)."
+  },
+  {
+   "id": "c05522",
+   "en": "Well, I was wondering if you'd want to go see\nthe Macross Quarter with me this weekend...",
+   "flags": [],
+   "notes": "Male only. 'donichi' = this Saturday/Sunday."
+  },
+  {
+   "id": "c05523",
+   "en": "Ugh~...\nWhy, of all places, somewhere that boring...",
+   "flags": [],
+   "notes": "Gary, both genders (frd_gry_103/108)."
+  },
+  {
+   "id": "c05524",
+   "en": "Oh, I see...",
+   "flags": [],
+   "notes": "Shared by 30+ scenes (Gary, Hilda, Sheryl, Valentine); neutral."
+  },
+  {
+   "id": "c05525",
+   "en": "Well, maybe if there's another chance.",
+   "flags": [],
+   "notes": "Shared by Gary and Hilda; neutral."
+  },
+  {
+   "id": "c05526",
+   "en": "Yes, I was wondering if you'd want to go see\nthe Macross Quarter with me this weekend...",
+   "flags": [],
+   "notes": "Female (Gary), both genders (Hilda frd_hld_103); neutral."
+  },
+  {
+   "id": "c05527",
+   "en": "Well, I was wondering if you'd want to go\nshopping at Folmo with me this weekend...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05528",
+   "en": "Folmo...?\nWhy would I go somewhere like that with you...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05529",
+   "en": "Huh? Sensei?",
+   "flags": [],
+   "notes": "Both genders (frd_gry_104/107)."
+  },
+  {
+   "id": "c05530",
+   "en": "Well, if I'm in the mood...\nAsk me again sometime. See ya.",
+   "flags": [],
+   "notes": "Both genders (frd_gry_104/107)."
+  },
+  {
+   "id": "c05531",
+   "en": "(...He really does go by his moods...)",
+   "flags": [],
+   "notes": "Male only (frd_gry_104/107)."
+  },
+  {
+   "id": "c05532",
+   "en": "Yes, I was wondering if you'd want to go\nshopping at Folmo with me this weekend...",
+   "flags": [],
+   "notes": "Female (Gary); also male in frd_hld_104 (Hilda). Neutral."
+  },
+  {
+   "id": "c05533",
+   "en": "(...He really does go by his moods...)",
+   "flags": [],
+   "notes": "Female only (frd_gry_104/107)."
+  },
+  {
+   "id": "c05534",
+   "en": "Well, I was wondering if you'd want to go\nto Central Park with me this weekend...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05535",
+   "en": "Central Park...?\nWhy somewhere so dull...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05536",
+   "en": "Oh, uh...",
+   "flags": [],
+   "notes": "Shared with frd_gry_106 and frd_she_003; neutral."
+  },
+  {
+   "id": "c05537",
+   "en": "C'mon, invite me somewhere\na little more fun, would ya...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05538",
+   "en": "(Somewhere fun... Like where, I wonder...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05539",
+   "en": "Yes, I was wondering if you'd want to go\nto Central Park with me this weekend...",
+   "flags": [],
+   "notes": "Female (Gary); also male in frd_hld_107 (Hilda). Neutral."
+  },
+  {
+   "id": "c05540",
+   "en": "(Somewhere fun... Like where, I wonder...)",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c05505/c05506: developer placeholder lines ('affinity ending, Gary female/male filler') with the Alto name plate; translated literally, probably never shown.",
+   "c05509/c05516/c05522/c05527/c05534 open with 'iie' and c05514/c05526/c05532/c05539 with 'hai' in answer to Gary's 'What's up?'; rendered 'Well, ...' and 'Yes, ...' to keep the difference.",
+   "c05498: 'hitsuji no kegawa karanai to' (shear the sheep's fleece) rendered 'shear the sheep'.",
+   "c05496-c05504: the Gary friendship ending (Gary hiding from ranch work, Hilda calling him); the player still calls him Sensei."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Observation Pier (tenbou sanbashi): not in the glossary; used as in the corpus place list and earlier campus slices."
+  ],
+  "unfinished": []
+ }
+}

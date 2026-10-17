@@ -1,0 +1,1960 @@
+{
+ "slice": 18,
+ "rows_in_slice": 320,
+ "rows_examined": 320,
+ "rows": [
+  {
+   "id": "u2376",
+   "en": "Barnstormer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2377",
+   "en": "Versus Wins: 25",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2378",
+   "en": "Bandit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2379",
+   "en": "Versus Wins: 30",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2380",
+   "en": "Hotshot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2381",
+   "en": "Versus Wins: 35",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2382",
+   "en": "Versus Wins: 40",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2383",
+   "en": "Battle Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2384",
+   "en": "Versus Wins: 45",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2385",
+   "en": "Yack Deculture!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2386",
+   "en": "Versus Wins: 50",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2387",
+   "en": "Private 2nd Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2388",
+   "en": "Play Time\n1 Hour",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2389",
+   "en": "Private 1st Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2390",
+   "en": "Play Time\n3 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2391",
+   "en": "Team Leader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2392",
+   "en": "Play Time\n5 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2393",
+   "en": "Squad Leader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2394",
+   "en": "Play Time\n10 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2395",
+   "en": "Platoon Leader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2396",
+   "en": "Play Time\n15 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2397",
+   "en": "Company Commander",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2398",
+   "en": "Play Time\n20 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2399",
+   "en": "Battalion Commander",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2400",
+   "en": "Play Time\n25 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2401",
+   "en": "Play Time\n30 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2402",
+   "en": "Supreme Leader",
+   "flags": [],
+   "notes": "sousui (Fuhrer/generalissimo), top of the play-time ladder."
+  },
+  {
+   "id": "u2403",
+   "en": "Play Time\n50 Hours",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2404",
+   "en": "Fireworks Master",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "JP 'Tamaya!' is the cry shouted at fireworks; title for firing over 1,000,000 missiles. Rendered as the idea (missiles as fireworks) since the cry means nothing to English players."
+  },
+  {
+   "id": "u2405",
+   "en": "Missiles Fired\nOver 1,000,000",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2406",
+   "en": "All-Star",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2407",
+   "en": "All Pilots Obtained",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2408",
+   "en": "Compulsive Collector",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2409",
+   "en": "All Units Obtained",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2410",
+   "en": "Top Pilot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2411",
+   "en": "Era Missions\nAll S or Higher",
+   "flags": [],
+   "notes": "Pattern of MUF 'Campaign Missions\\nAll S or Higher'."
+  },
+  {
+   "id": "u2412",
+   "en": "Strongest in the Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2413",
+   "en": "Era Missions\nAll SS",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2414",
+   "en": "Triangle Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2415",
+   "en": "Earn All of the\nPrevious 5 Titles",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2416",
+   "en": "Conqueror of All",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2417",
+   "en": "Missions: All S\nAll Affinity Endings",
+   "flags": [],
+   "notes": "tomokoudo = Affinity (glossary). 'tassei' (achieved) folded into the list form."
+  },
+  {
+   "id": "u2418",
+   "en": "Shin\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2419",
+   "en": "Scandalous",
+   "flags": [],
+   "notes": "Title for Focker (Zero)."
+  },
+  {
+   "id": "u2420",
+   "en": "Focker (Zero)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2421",
+   "en": "Protector",
+   "flags": [],
+   "notes": "Title for Sara."
+  },
+  {
+   "id": "u2422",
+   "en": "Sara\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2423",
+   "en": "Grim Reaper",
+   "flags": [],
+   "notes": "shinigami; title for Sara (Bird Human)."
+  },
+  {
+   "id": "u2424",
+   "en": "Sara (Bird Human)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2425",
+   "en": "Avenger",
+   "flags": [],
+   "notes": "JP loanword 'revenger'; title for Nora."
+  },
+  {
+   "id": "u2426",
+   "en": "Nora\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2427",
+   "en": "Daisy",
+   "flags": [],
+   "notes": "Title for D.D. Ivanov (glossary alias gives his name as Daisy Ivanov)."
+  },
+  {
+   "id": "u2428",
+   "en": "Ivanov\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2429",
+   "en": "Hero",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2430",
+   "en": "Hikaru Ichijyo\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2431",
+   "en": "Skull Leader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2432",
+   "en": "Focker\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2433",
+   "en": "Brains and Brawn",
+   "flags": [],
+   "notes": "bunbu ryoudou: excels at both study and martial arts; title for Max."
+  },
+  {
+   "id": "u2434",
+   "en": "Max\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2435",
+   "en": "Extra-Large Sirloin, Medium",
+   "flags": [],
+   "notes": "Kakizaki's steak order."
+  },
+  {
+   "id": "u2436",
+   "en": "Kakizaki\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2437",
+   "en": "Fighting Bride",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2438",
+   "en": "Milia (U.N. Forces)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2439",
+   "en": "Woman Warrior",
+   "flags": [],
+   "notes": "joketsu: heroic, formidable woman; title for Milia."
+  },
+  {
+   "id": "u2440",
+   "en": "Milia\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2441",
+   "en": "Cute",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2442",
+   "en": "Minmay (Swimsuit)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2443",
+   "en": "Savior",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2444",
+   "en": "Minmay (Love Drifts Away)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2445",
+   "en": "Pre-Debut",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2446",
+   "en": "Minmay (Casual)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2447",
+   "en": "Young Lady",
+   "flags": [],
+   "notes": "goreijou (someone's well-bred daughter); title for Misa Hayase."
+  },
+  {
+   "id": "u2448",
+   "en": "Misa Hayase\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2449",
+   "en": "Tyrant",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2450",
+   "en": "Quamzin\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2451",
+   "en": "Pure Heart",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2452",
+   "en": "Zentradi Soldier\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2453",
+   "en": "No Holds Barred",
+   "flags": [],
+   "notes": "gachinko: all-out, for real; title for Vrlitwhai."
+  },
+  {
+   "id": "u2454",
+   "en": "Vrlitwhai\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2455",
+   "en": "Popular Idol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2456",
+   "en": "Minmay (Medley)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2457",
+   "en": "Legendary Diva",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2458",
+   "en": "Minmay (Final Battle)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2459",
+   "en": "Incognito",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2460",
+   "en": "Minmay (Pilot Suit)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2461",
+   "en": "Love Conquers All",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2462",
+   "en": "Max (Giant)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2463",
+   "en": "Supreme Commander",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2464",
+   "en": "Golg Boddole Zer\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2465",
+   "en": "Mr. Freedom",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2466",
+   "en": "Isamu\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2467",
+   "en": "Heart and Soul",
+   "flags": [],
+   "notes": "seishin seii: with total sincerity; title for Guld."
+  },
+  {
+   "id": "u2468",
+   "en": "Guld\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2469",
+   "en": "School Queen",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2470",
+   "en": "Myung\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2471",
+   "en": "The Idol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2472",
+   "en": "Sharon\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2473",
+   "en": "Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2474",
+   "en": "Basara\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2475",
+   "en": "Spitfire",
+   "flags": [],
+   "notes": "jajauma: unruly filly / headstrong girl; title for Mylene."
+  },
+  {
+   "id": "u2476",
+   "en": "Mylene\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2477",
+   "en": "Muscle-Bound",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2478",
+   "en": "Ray\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2479",
+   "en": "Powerful",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2480",
+   "en": "Veffidas\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2481",
+   "en": "Dead Serious",
+   "flags": [],
+   "notes": "kimajime: earnest to a fault; title for Gamlin."
+  },
+  {
+   "id": "u2482",
+   "en": "Gamlin\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2483",
+   "en": "Stargazer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2484",
+   "en": "Max (7)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2485",
+   "en": "Fleet Commander",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2486",
+   "en": "Max (Captain)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2487",
+   "en": "Active for Life",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2488",
+   "en": "Milia (7)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2489",
+   "en": "Brilliant Mind",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2490",
+   "en": "Exsedol\nUnlocked",
+   "flags": [],
+   "notes": "Glossary Exsedol Folmo; short form as the other unlock lines."
+  },
+  {
+   "id": "u2491",
+   "en": "Black Hole",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2492",
+   "en": "Gigile\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2493",
+   "en": "Assault Beauty",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "totsugekibi, one of Gavil's 'beauty' coinages; no established English form."
+  },
+  {
+   "id": "u2494",
+   "en": "Gavil\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2495",
+   "en": "Ruler of the Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2496",
+   "en": "Gepelnitchi\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2497",
+   "en": "Vampire",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2498",
+   "en": "Sivil\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2499",
+   "en": "Acoustic",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2500",
+   "en": "Basara (Shirt)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2501",
+   "en": "Bomber",
+   "flags": [],
+   "notes": "Basara's catchphrase."
+  },
+  {
+   "id": "u2502",
+   "en": "Basara (Pilot Suit)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2503",
+   "en": "Whaler",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2504",
+   "en": "Graham\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2505",
+   "en": "Aspiring Singer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2506",
+   "en": "Elma\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2507",
+   "en": "Princess Sakura",
+   "flags": [],
+   "notes": "sakurahime: Alto's kabuki role."
+  },
+  {
+   "id": "u2508",
+   "en": "Alto\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2509",
+   "en": "Michael\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2510",
+   "en": "Tech Type",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2511",
+   "en": "Luca\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2512",
+   "en": "Big Bro",
+   "flags": [],
+   "notes": "aniki; title for Ozma. Kinship word translated as the brief says."
+  },
+  {
+   "id": "u2513",
+   "en": "Ozma\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2514",
+   "en": "Violent",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2515",
+   "en": "Klan\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2516",
+   "en": "Small but Full-Fledged",
+   "flags": [],
+   "notes": "MUF rendered ichininmae as 'Full-Fledged'."
+  },
+  {
+   "id": "u2517",
+   "en": "Klan (Micronian)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2518",
+   "en": "Vendetta",
+   "flags": [],
+   "notes": "katakiuchi: avenging someone; title for Klan (Pilot Suit)."
+  },
+  {
+   "id": "u2519",
+   "en": "Klan (Pilot Suit)\nUnlocked",
+   "flags": [],
+   "notes": "P-suit abbreviation written out as in the tm rows ('Ranka (Pilot Suit)')."
+  },
+  {
+   "id": "u2520",
+   "en": "Fighting Mom",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2521",
+   "en": "Canaria\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2522",
+   "en": "Maiden at Heart",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2523",
+   "en": "Bobby\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2524",
+   "en": "Silver Fox",
+   "flags": [],
+   "notes": "naisu middle: attractive middle-aged man; title for Jeffrey."
+  },
+  {
+   "id": "u2525",
+   "en": "Jeffrey\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2526",
+   "en": "Art Type",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2527",
+   "en": "Nanase\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2528",
+   "en": "On Tour",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2529",
+   "en": "Ranka (Pilot Suit)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2530",
+   "en": "Princess",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2531",
+   "en": "Ranka (Kira☆)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2532",
+   "en": "Mr. Giant Salamander",
+   "flags": [],
+   "notes": "Ranka's song 'Ooh! Giant Salamander'; JP has the -san ('Mr.')."
+  },
+  {
+   "id": "u2533",
+   "en": "Ranka (Dress)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2534",
+   "en": "Ranka (Hypnotized) Survival\n\"Macross Frontier\"\nClear at S Rank or Above",
+   "flags": [],
+   "notes": "Pattern of MUF 'Ranka (Hypnotized)\\nClear Enemy \"Koi no Uta\"\\nat S Rank or Higher'."
+  },
+  {
+   "id": "u2535",
+   "en": "Fairy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2536",
+   "en": "Sheryl (Pilot Suit)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2537",
+   "en": "Queen",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2538",
+   "en": "Sheryl (Uniform)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2539",
+   "en": "Taiyaki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2540",
+   "en": "Sheryl (Final Battle)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2541",
+   "en": "Brains and Beauty",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2542",
+   "en": "Cathy\nUnlocked",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "JP uses the nickname 'Kyashii'; glossary en is Catherine Glass (Cathy not in avoid)."
+  },
+  {
+   "id": "u2543",
+   "en": "Tsuchinoko",
+   "flags": [],
+   "notes": "Mythical snake-like cryptid; title for the small Vajra."
+  },
+  {
+   "id": "u2544",
+   "en": "Vajra (S)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2545",
+   "en": "Rhino Beetle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2546",
+   "en": "Vajra (L)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2547",
+   "en": "Bodyguard",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2548",
+   "en": "Brera\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2549",
+   "en": "Code Q-1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2550",
+   "en": "Ranka (Movie)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2551",
+   "en": "Bunny White",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "JP mixes 'usagi no' + 'White'; title for Sheryl (White Rabbit). Literal shape kept; may allude to a lyric."
+  },
+  {
+   "id": "u2552",
+   "en": "Sheryl (White Rabbit)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2553",
+   "en": "Fairy 9",
+   "flags": [],
+   "notes": "Sheryl's callsign in the movie. Not the Macross II 'Faerie' squadron."
+  },
+  {
+   "id": "u2554",
+   "en": "Sheryl (Obelisk)\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2555",
+   "en": "Kidnapper",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2556",
+   "en": "Hound Vajra\nUnlocked",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary en, status provisional."
+  },
+  {
+   "id": "u2557",
+   "en": "Battle Maiden",
+   "flags": [],
+   "notes": "ikusa otome (= valkyrie); 'Valkyrie' avoided to not clash with the fighters."
+  },
+  {
+   "id": "u2558",
+   "en": "Silvie\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2559",
+   "en": "SNN Reporter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2560",
+   "en": "Hibiki\nUnlocked",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary Hibiki Kanzaki, status needs_check."
+  },
+  {
+   "id": "u2561",
+   "en": "Ishtar (Song Priestess)\nUnlocked",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u2184."
+  },
+  {
+   "id": "u2562",
+   "en": "Envoy of Peace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2563",
+   "en": "Ishtar\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2564",
+   "en": "Impulsive",
+   "flags": [],
+   "notes": "chokujou-gata: acts on raw feeling; title for Yuuto Kagura."
+  },
+  {
+   "id": "u2565",
+   "en": "Yuuto Kagura\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2566",
+   "en": "Hustle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2567",
+   "en": "Gary Murdoch\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2568",
+   "en": "Wild",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2569",
+   "en": "Luis Fernando\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2570",
+   "en": "Proper Lady",
+   "flags": [],
+   "notes": "ojousama; title for Miyuki Shirakawa. Kept distinct from 'Young Lady' (u2447)."
+  },
+  {
+   "id": "u2571",
+   "en": "Miyuki Shirakawa\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2572",
+   "en": "Cool Beauty",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2573",
+   "en": "Hilda V. Bergen\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2574",
+   "en": "Bright and Cheerful",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2575",
+   "en": "Yui Hoshimura\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2576",
+   "en": "Mystery",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2577",
+   "en": "Itsuki Yamashiro\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2578",
+   "en": "Hard Worker",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2579",
+   "en": "Yuu Akimizu\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2580",
+   "en": "Big Sister",
+   "flags": [],
+   "notes": "oneesama; title for Claire Stanford."
+  },
+  {
+   "id": "u2581",
+   "en": "Claire Stanford\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2582",
+   "en": "Little Genius",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2583",
+   "en": "Pinon Colette\nUnlocked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2584",
+   "en": "I Love Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2585",
+   "en": "Nyan-Nyan Shop Exclusive",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2586",
+   "en": "{lFixed-pilot unit restrictions} have been lifted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2587",
+   "en": "{lEra restrictions} have been lifted.\nUnits you have obtained can now\nsortie in any era.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2588",
+   "en": "{lThe lower limit on unit base stats} has been lifted.\nTuning a unit below its base stats\nnow refunds Tune Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2589",
+   "en": "{lUnit performance limits} have been lifted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2590",
+   "en": "{lOperator selection} is\nnow available.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2591",
+   "en": "{lNyan-Nyan Shop line selection} has\nbeen unlocked.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2592",
+   "en": "The Nyan-Nyan Shop is now at max level.\nAll Nyan-Nyan Shop items are now free.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2593",
+   "en": "{lBGM selection} is now available.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2594",
+   "en": "{lUnit size restrictions} have been lifted.\nPilots can now board any unit\nregardless of their body size.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2595",
+   "en": "Training Completion Bonus\nAll units receive\n%d Tune Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2596",
+   "en": "Era Clear Bonus\nUnits from the cleared era\nreceive %d Tune Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2597",
+   "en": "New mission added.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2598",
+   "en": "New mission added to Versus Mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2599",
+   "en": "New mission added to Co-op Mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2600",
+   "en": "{k%s} is\nnow available.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2601",
+   "en": "{p%s} is\nnow available.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2602",
+   "en": "%s has been promoted\nfrom %s to {c%s}.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2603",
+   "en": "The performance limit of\n{l%s} has been lifted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2604",
+   "en": "You have earned the title\n{t［%s］}.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2605",
+   "en": "You have obtained the Add-on Equipment\n{s［%s］}.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2606",
+   "en": "All Missions Cleared Bonus\nAll units receive %d Tune Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2607",
+   "en": "All Missions S-Ranked Bonus\nAll units receive %d Tune Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2608",
+   "en": "When selecting units and characters in the Hangar,\npress the analog stick left/right to switch between each era's factions.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2609",
+   "en": "Survival Mode has been unlocked.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2610",
+   "en": "Select the unit you will fly\nas a test pilot\n(YF-19 or YF-21).",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2611",
+   "en": "Checking password...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2612",
+   "en": "Password accepted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2613",
+   "en": "Incorrect password.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2614",
+   "en": "This password has\nalready been accepted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2615",
+   "en": "[%s]\nhas been added.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2616",
+   "en": "Please enter a password.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2617",
+   "en": "Player",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2618",
+   "en": "Partner",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2619",
+   "en": "Replay Data\n",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2620",
+   "en": "Save the screenshot to the Memory Stick Duo?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2621",
+   "en": "Delete the screenshot?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2622",
+   "en": "Save Data Transfer Bonus\nYou got the \"Ultimate\" medal,\n500 Tune Points for all units,\nand 500 Nyan-Nyan Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2623",
+   "en": "Save Data Transfer Bonus\nYou got the \"Ace\" and \"Ultimate\" medals,\n1000 Tune Points for all units,\nand 1000 Nyan-Nyan Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2624",
+   "en": "Carry over data from\nMacross Ultimate Frontier?",
+   "flags": [],
+   "notes": "English order differs from the JP line split; line count kept."
+  },
+  {
+   "id": "u2625",
+   "en": "Start without carrying over data?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2626",
+   "en": "Loading failed.\nStart without carrying over data?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2627",
+   "en": "The Macross Ultimate Frontier\nsave data is corrupted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2628",
+   "en": "You already own this item.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2629",
+   "en": "Tune Points are at maximum.\nCannot purchase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2630",
+   "en": "Not enough Nyan-Nyan Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2631",
+   "en": "Buy Tune Points for\n\"%s\"?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2632",
+   "en": "Buy\n\"%s\"?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2633",
+   "en": "\"%s\"\nreceived %d\nTune Points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2634",
+   "en": "\n\nPurchased\n\"%s\".\nFrom now on, you can buy\nTune Points for it.\n",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2635",
+   "en": "\"%s\" (character) was\npurchased as a set.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2636",
+   "en": "Purchased\n\"%s\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2637",
+   "en": "Nyan-Nyan Level increased to %d.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2638",
+   "en": "Leave the Nyan-Nyan Shop?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2639",
+   "en": "Sold Out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2640",
+   "en": "- %s",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2641",
+   "en": "NP",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2642",
+   "en": "Timed out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2643",
+   "en": "Waiting for connection.\nPress the × button to cancel\nand end wireless play.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2644",
+   "en": "Install the game data?\nIf install data already exists,\nit will be deleted and reinstalled.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2645",
+   "en": "Install Data",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2646",
+   "en": "Macross Triangle Frontier install data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2647",
+   "en": "/",
+   "flags": [],
+   "notes": "Date unit (character creation?). If the game prints it after a number, 'Y' would read better. Fix after 0.1.0 test: Shown after the year in dates (2042/1/1): the game appends it to the number."
+  },
+  {
+   "id": "u2648",
+   "en": "/",
+   "flags": [],
+   "notes": "See u2647. Fix after 0.1.0 test: Shown after the month in dates."
+  },
+  {
+   "id": "u2649",
+   "en": " ",
+   "flags": [],
+   "notes": "See u2647. Fix after 0.1.0 test: Shown after the day in dates; a space, since an empty row would fall back to the Japanese."
+  },
+  {
+   "id": "u2650",
+   "en": "Male",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2651",
+   "en": "Female",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2652",
+   "en": "Type A",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2653",
+   "en": "Type B",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2654",
+   "en": "Type C",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2655",
+   "en": "\"%s\"\nIs that OK?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2656",
+   "en": "Bandai Namco",
+   "flags": [],
+   "notes": "Company name."
+  },
+  {
+   "id": "u2657",
+   "en": "Trial Enrollment",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "taiken nyuugaku: the Academy-mode tutorial course; no glossary term yet."
+  },
+  {
+   "id": "u2658",
+   "en": "Extras",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2659",
+   "en": "Fire Valkyrie (Song Weapon 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2660",
+   "en": "Mylene Valkyrie (Song Weapon 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2661",
+   "en": "Do You Remember Love? (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2662",
+   "en": "Mylene Valkyrie (Song Weapon 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2663",
+   "en": "Sharon (Skill: Sharon's Temptation)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2664",
+   "en": "Dog Fighter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2665",
+   "en": "Zentradian Great Fortress (Part 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2666",
+   "en": "Zentradian Great Fortress (Part 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2667",
+   "en": "My Boyfriend is a Pilot (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2668",
+   "en": "My Boyfriend is a Pilot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2669",
+   "en": "INFORMATION HIGH (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2670",
+   "en": "Battle Frontier (Part 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2671",
+   "en": "Totsugeki Love Heart (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2672",
+   "en": "Totsugeki Love Heart",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2673",
+   "en": "HOLY LONELY LIGHT (Basara)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2674",
+   "en": "HOLY LONELY LIGHT (Mylene)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2675",
+   "en": "MY FRIENDS (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2676",
+   "en": "Ace Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2677",
+   "en": "Ranka (Skill: Kira☆)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2678",
+   "en": "TRY AGAIN (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2679",
+   "en": "Lion (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2680",
+   "en": "Lion",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2681",
+   "en": "Aimo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2682",
+   "en": "Sheryl (Skill: Galactic Fairy 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2683",
+   "en": "Sagittarius ☆ 9 PM Don't be late (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2684",
+   "en": "Sagittarius ☆ 9 PM Don't be late",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2685",
+   "en": "Prologue (Zero)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2686",
+   "en": "Sheryl (Skill: Galactic Fairy 3)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2687",
+   "en": "Blitzkrieg",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2688",
+   "en": "GERWALK Strikes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2689",
+   "en": "Bowels of War",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2690",
+   "en": "Roar of the Giants",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2691",
+   "en": "Formation Takeoff",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2692",
+   "en": "Minmay (Skill: Do You Remember Love?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2693",
+   "en": "Mission Continues (SDF Macross)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2694",
+   "en": "VS Mode Victory Jingle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2695",
+   "en": "VS Mode Draw Jingle",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u2404: 'Tamaya!' (fireworks cry) rendered 'Fireworks Master'.",
+   "u2493: 'Assault Beauty' for Gavil's coinage.",
+   "u2542: 'Cathy' for the JP nickname; glossary en is Catherine Glass.",
+   "u2551: 'Bunny White' for the mixed JP/English title.",
+   "u2556 Hound Vajra (provisional), u2560 Hibiki (needs_check), u2561 Ishtar (Song Priestess).",
+   "u2647-u2649: Year/Month/Day - unknown whether label or suffix after a number.",
+   "u2657: 'Trial Enrollment' for the Academy-mode tutorial course; no glossary term.",
+   "Title-name width warnings: same reasoning as slice 17. Other warnings are on MUF-shipped tm rows with placeholders (u2600-u2655), kept."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Trial Enrollment (taiken nyuugaku) has no glossary term."
+  ],
+  "unfinished": []
+ }
+}

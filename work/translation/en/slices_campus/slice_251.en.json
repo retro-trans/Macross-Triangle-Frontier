@@ -1,0 +1,395 @@
+{
+ "slice": 251,
+ "rows_in_slice": 63,
+ "rows_examined": 63,
+ "rows": [
+  {
+   "id": "c18125",
+   "en": "(Maybe I'll have Galaxy Ramen at Nyan-Nyan\nfor lunch today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18126",
+   "en": "(Wait, is that Michel coming out of the shop?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18127",
+   "en": "Heeey, Michel~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18128",
+   "en": "Oh, it's \\p.\nCame to Nyan-Nyan for some Galaxy Ramen?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18129",
+   "en": "Yeah, that's right.\nDo you come to Nyan-Nyan a lot, Michel?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18130",
+   "en": "Yeah, I come here a lot with the crew\nfrom my part-time job.",
+   "flags": [],
+   "notes": "baito-saki no yatsura: 'the crew from my part-time job', kept gender-neutral; Michel's job (S.M.S.) is a secret in this arc."
+  },
+  {
+   "id": "c18131",
+   "en": "Well, I'd better get going.\nSee ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18132",
+   "en": "(Come to think of it, where does Michel\nwork part-time, anyway?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18133",
+   "en": "(Maybe I'll have Galaxy Ramen at Nyan-Nyan\nfor lunch today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18134",
+   "en": "(Wait, is that Michel-kun coming out of the shop?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18135",
+   "en": "Heeey, Michel-kun~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18136",
+   "en": "Yeah, that's right.\nDo you come to Nyan-Nyan a lot, Michel-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18137",
+   "en": "(Come to think of it, where does Michel-kun\nwork part-time, I wonder?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18138",
+   "en": "(A hot day like this is perfect pool weather.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18139",
+   "en": "Michel, you're not even getting in the pool.\nWhat are you staring at so intently?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18140",
+   "en": "I figured it'd be rude not to take a good,\nlong look at Nanase and Akimizu\nin their swimsuits.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18141",
+   "en": "Geez, obviously I'm kidding...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18142",
+   "en": "Come on, let's hurry up and swim.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18143",
+   "en": "(Michel, that did NOT sound like a joke\nat all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18144",
+   "en": "(A hot day like this is perfect pool weather.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18145",
+   "en": "Michel-kun, you're not even getting in the pool.\nWhat are you staring at so intently?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18146",
+   "en": "(Michel-kun, that did NOT sound like a joke\nat all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18147",
+   "en": "(I'd better hurry to the next classroom...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18148",
+   "en": "(Wait, Michel? What's he doing?\nIf he doesn't hurry, class is gonna start.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18149",
+   "en": "You look a lot like Sheryl, Senpai.\nHas anyone ever told you that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18150",
+   "en": "Ehh~ I don't look anything like Sheryl~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18151",
+   "en": "Looking closer...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18152",
+   "en": "You're right. It seems I was mistaken...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18153",
+   "en": "Because you're far more beautiful\nthan Sheryl, Senpai...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18154",
+   "en": "Oh, stop it. Smooth talker as always...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18155",
+   "en": "Not at all. I was merely stating the facts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18156",
+   "en": "......",
+   "flags": [],
+   "notes": "Four-ellipsis silence shared by many speakers; rendered '......' like the five-ellipsis c00059."
+  },
+  {
+   "id": "c18157",
+   "en": "(Watching that just now, it hit me all over again:\nI could never be like Michel...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18158",
+   "en": "(Wait, Michel-kun? What's he doing?\nIf he doesn't hurry, class is gonna start.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18159",
+   "en": "(Okay, I'd better hurry to the next classroom...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18160",
+   "en": "(Okay, it's lunchtime.\nWho should I eat with today?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18161",
+   "en": "(Oh, there's Michel.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18162",
+   "en": "Heeey, Michel~!\nWanna go get lunch together?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18163",
+   "en": "Hm? Oh, it's just you, \\p...\nWell, I don't mind, I guess...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18164",
+   "en": "You sound kind of let down that it's me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18165",
+   "en": "It's not that I'm let down...\nIt's just, I'd rather eat with a beautiful woman.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18166",
+   "en": "...Well, sorry for being a guy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18167",
+   "en": "Haha, I'm kidding.\nCome on, if we don't hurry,\nall the cafeteria seats'll be taken.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18168",
+   "en": "Yeah, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18169",
+   "en": "(For all his talk, Michel always ends up\neating with me anyway.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18170",
+   "en": "(Okay, it's lunchtime.\nWho should I eat with today?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18171",
+   "en": "(Oh, there's Michel-kun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18172",
+   "en": "Heeey, Michel-kun~!\nWanna go get lunch together?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18173",
+   "en": "You sound kind of let down that it's me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18174",
+   "en": "Haha, I'm kidding.\nAllow me to escort you properly,\nmy lady.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18175",
+   "en": "Come on, if we don't hurry,\nall the cafeteria seats'll be taken.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18176",
+   "en": "Yeah, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18177",
+   "en": "(For all his talk, Michel-kun always ends up\neating with me anyway.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18178",
+   "en": "(Whoa, I was doing research in the library,\nand now look how late it is.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18179",
+   "en": "Oh, if it isn't \\p.\nWhat've you been up to this late?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18180",
+   "en": "Research in the library.\nWhat about you, Michel? What've you been doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18181",
+   "en": "One of the upperclassmen called me over,\nso I just got back from enjoying some tea.",
+   "flags": [],
+   "notes": "senpai as a common noun: 'one of the upperclassmen', gender left open (the player later calls them onee-sama-gata, 'the older girls')."
+  },
+  {
+   "id": "c18182",
+   "en": "Being this popular sure is rough on a guy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18183",
+   "en": "Well, I'd better go, or I'll be late\nfor my part-time job. See ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18184",
+   "en": "(Michel sure is popular with the older girls.)",
+   "flags": [],
+   "notes": "onee-sama-gata: 'the older girls'."
+  },
+  {
+   "id": "c18185",
+   "en": "(Whoa, I was doing research in the library,\nand now look how late it is.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18186",
+   "en": "Research in the library.\nWhat about you, Michel-kun?\nWhat've you been doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18187",
+   "en": "(Michel-kun sure is popular with the older girls.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18130: 'the crew from my part-time job' (gender-neutral for baito-saki no yatsura).",
+   "c18181: senpai kept gender-neutral as 'one of the upperclassmen'.",
+   "c18156: four-ellipsis silence (x11, many speakers) given as '......' to match c00059."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

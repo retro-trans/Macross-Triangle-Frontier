@@ -1,0 +1,498 @@
+{
+ "slice": 25,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o0_of1/2291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, cleared. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, you are cleared to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Kurinaniku' read as Kuridaniku (Kridanik)."
+  },
+  {
+   "id": "of_ktr/2291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, cleared. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, launch approved. Do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2293",
+   "en": "VF-11 Thunderbolt, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2293",
+   "en": "VF-11 Thunderbolt, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2293",
+   "en": "VF-11 Thunderbolt, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2293",
+   "en": "VF-11 Thunderbolt, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2293",
+   "en": "VF-11 Thunderbolt, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2293",
+   "en": "VF-11 Thunderbolt, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2294",
+   "en": "YF-19 Excalibur, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2294",
+   "en": "YF-19 Excalibur, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2294",
+   "en": "YF-19 Excalibur, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2294",
+   "en": "YF-19 Excalibur, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2294",
+   "en": "YF-19 Excalibur, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2294",
+   "en": "YF-19 Excalibur, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2295",
+   "en": "YF-21 Sturmvogel, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2295",
+   "en": "YF-21 Sturmvogel, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2295",
+   "en": "YF-21 Sturmvogel, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2295",
+   "en": "YF-21 Sturmvogel, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2295",
+   "en": "YF-21 Sturmvogel, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2295",
+   "en": "YF-21 Sturmvogel, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2296",
+   "en": "X-9 Ghost, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2296",
+   "en": "X-9 Ghost, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2296",
+   "en": "X-9 Ghost, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2296",
+   "en": "X-9 Ghost, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2296",
+   "en": "X-9 Ghost, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2296",
+   "en": "X-9 Ghost, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2297",
+   "en": "VF-17 Nightmare, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2297",
+   "en": "VF-17 Nightmare, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2297",
+   "en": "VF-17 Nightmare, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2297",
+   "en": "VF-17 Nightmare, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2297",
+   "en": "VF-17 Nightmare, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2297",
+   "en": "VF-17 Nightmare, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2298",
+   "en": "VF-19 Excalibur, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2298",
+   "en": "VF-19 Excalibur, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2298",
+   "en": "VF-19 Excalibur, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2298",
+   "en": "VF-19 Excalibur, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2298",
+   "en": "VF-19 Excalibur, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2298",
+   "en": "VF-19 Excalibur, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2299",
+   "en": "Mylene Valkyrie, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2299",
+   "en": "Mylene Valkyrie, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2299",
+   "en": "Mylene Valkyrie, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2299",
+   "en": "Mylene Valkyrie, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2299",
+   "en": "Mylene Valkyrie, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2299",
+   "en": "Mylene Valkyrie, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2300",
+   "en": "Fire Valkyrie, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2300",
+   "en": "Fire Valkyrie, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2300",
+   "en": "Fire Valkyrie, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2300",
+   "en": "Fire Valkyrie, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2300",
+   "en": "Fire Valkyrie, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2300",
+   "en": "Fire Valkyrie, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2301",
+   "en": "Storm Valkyrie, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2301",
+   "en": "Storm Valkyrie, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2301",
+   "en": "Storm Valkyrie, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2301",
+   "en": "Storm Valkyrie, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2301",
+   "en": "Storm Valkyrie, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2301",
+   "en": "Storm Valkyrie, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2302",
+   "en": "Sound Force, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2302",
+   "en": "Sound Force, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2302",
+   "en": "Sound Force, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2302",
+   "en": "Sound Force, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2302",
+   "en": "Sound Force, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2302",
+   "en": "Sound Force, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2303",
+   "en": "VF-22 Sturmvogel II, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2303",
+   "en": "VF-22 Sturmvogel II, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2303",
+   "en": "VF-22 Sturmvogel II, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2303",
+   "en": "VF-22 Sturmvogel II, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2303",
+   "en": "VF-22 Sturmvogel II, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2303",
+   "en": "VF-22 Sturmvogel II, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2304",
+   "en": "Battle 7, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2304",
+   "en": "Battle 7, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2304",
+   "en": "Battle 7, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 1924 (o7_exd/2291): 'Kurinaniku' read as Kuridaniku (Kridanik)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

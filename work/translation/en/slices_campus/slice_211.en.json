@@ -1,0 +1,389 @@
+{
+ "slice": 211,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c15445",
+   "en": "Oh yeah? Like what?",
+   "flags": [],
+   "notes": "Male; answers Akimizu's 'there's something I want to do before that'."
+  },
+  {
+   "id": "c15446",
+   "en": "You know, I've been thinking\nI might become a schoolteacher...",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c15447",
+   "en": "Oh, really?!",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c15448",
+   "en": "Yeah. But it's not that I want to teach a subject.\nI'd like to help students who are anxious\nabout all sorts of things, or lost, like me...",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c15449",
+   "en": "I see. That could be really good.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15450",
+   "en": "Akimizu-sensei! I don't get this problem...",
+   "flags": [],
+   "notes": "Male; the player plays the student."
+  },
+  {
+   "id": "c15451",
+   "en": "\\p-kun!\nI explained that problem in class the other day!\nWhat were you even listening to?!",
+   "flags": [],
+   "notes": "Male; Akimizu plays the teacher."
+  },
+  {
+   "id": "c15452",
+   "en": "Haha!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15453",
+   "en": "And once that comes true, then next...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15454",
+   "en": "Next?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15455",
+   "en": "Well, there's no point thinking about\nthings that far ahead, right?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15456",
+   "en": "Well, I guess that's true.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15457",
+   "en": "Well, let's call it a day...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15458",
+   "en": "Yeah. See you at school, then!",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c15459",
+   "en": "(Akimizu's kind of changed from how\nshe used to be.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15460",
+   "en": "(Central Park today, huh?\nWe met up here before too, I think...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15461",
+   "en": "No, I was just thinking about the last time\nwe met up here... Come to think of it, Yuu,\nyou showed up pretty late that time~...",
+   "flags": [],
+   "notes": "Female; answers 'Huh?! What's wrong?' after 'Whoa, you're early!'."
+  },
+  {
+   "id": "c15462",
+   "en": "No, no, that was over a year ago.",
+   "flags": [],
+   "notes": "Female; answers Akimizu's apology for being late back then."
+  },
+  {
+   "id": "c15463",
+   "en": "Time flies, huh?\nWe've moved up a year, and in one more year\nwe graduate...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15464",
+   "en": "Hahaha, you've got a point.",
+   "flags": [],
+   "notes": "Female; answers 'isn't it too early to talk about graduation?'."
+  },
+  {
+   "id": "c15465",
+   "en": "Yeah! It's been a while since I had\nyour home cooking, Yuu.",
+   "flags": [],
+   "notes": "Female; answers 'I made lunch again today, you'll eat, right?'."
+  },
+  {
+   "id": "c15466",
+   "en": "Mmm, delicious as always.\nYou'll make a great wife someday, Yuu.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15467",
+   "en": "Hehehe, thank you.",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c15468",
+   "en": "\\p-chan, about our talk on the roof\nthe other day, about our dreams\nfor the future...",
+   "flags": [],
+   "notes": "Female scene; refers to an earlier rooftop scene (not yet translated, slice 209-210 range)."
+  },
+  {
+   "id": "c15469",
+   "en": "Oh, yeah. Are you going to tell me?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15470",
+   "en": "I see. That would be absolutely great.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15471",
+   "en": "Yuu-sensei! I don't get this problem...",
+   "flags": [],
+   "notes": "Female; Japanese uses Yuu-sensei here (the male twin says Akimizu-sensei)."
+  },
+  {
+   "id": "c15472",
+   "en": "\\p-san!\nI explained that problem in class the other day!\nWhat were you even listening to?!",
+   "flags": [],
+   "notes": "Female scene; Akimizu as teacher switches to -san."
+  },
+  {
+   "id": "c15473",
+   "en": "Well, let's call it a day.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15474",
+   "en": "(Yuu's kind of changed from how\nshe used to be...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15475",
+   "en": "(Today I'm meeting Akimizu at Central Park.)",
+   "flags": [],
+   "notes": "Male; second, shorter visit. Quote marks around the place name dropped."
+  },
+  {
+   "id": "c15476",
+   "en": "\\p-kun, over here, over here!",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c15477",
+   "en": "Wow, you've already got lunch all set up!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15478",
+   "en": "Ahaha, maybe I went a little overboard.",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c15479",
+   "en": "Phew~, that was delicious~",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c15480",
+   "en": "It was nothing special, really.",
+   "flags": [],
+   "notes": "x2, both genders; 'osomatsusama deshita', the modest reply after a meal. The player's next line picks up 'nothing special'."
+  },
+  {
+   "id": "c15481",
+   "en": "No way, it was not 'nothing special'!",
+   "flags": [],
+   "notes": "Male; echoes c15480."
+  },
+  {
+   "id": "c15482",
+   "en": "Ehehe, thank you.",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c15483",
+   "en": "(Akimizu really is a great cook!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15484",
+   "en": "(Today I'm meeting Yuu at Central Park.)",
+   "flags": [],
+   "notes": "Female; quote marks around the place name dropped."
+  },
+  {
+   "id": "c15485",
+   "en": "\\p-chan, over here, over here!",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c15486",
+   "en": "Wow, you've already got lunch all set up!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15487",
+   "en": "Come on, 'nothing special' is being way\ntoo modest!",
+   "flags": [],
+   "notes": "Female; echoes c15480."
+  },
+  {
+   "id": "c15488",
+   "en": "(Yuu really is a great cook!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15489",
+   "en": "Since then, I've been the same as ever, but...",
+   "flags": [],
+   "notes": "Male ending narration (inner voice, no brackets in the Japanese)."
+  },
+  {
+   "id": "c15490",
+   "en": "Akimizu seems to be studying all sorts of things\nfor her dream of becoming a \"schoolteacher.\"",
+   "flags": [],
+   "notes": "Male; quotes kept as in the Japanese."
+  },
+  {
+   "id": "c15491",
+   "en": "Even so, we still go out together on days off,\nand school life goes on just like before...",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c15492",
+   "en": "If there's one big thing that's changed...",
+   "flags": [],
+   "notes": "x2, both genders; continues into c15493 / c15503."
+  },
+  {
+   "id": "c15493",
+   "en": "it's that Akimizu has gotten more responsible...\nor rather,",
+   "flags": [],
+   "notes": "Male; sentence runs on into c15494, cut at the matching point."
+  },
+  {
+   "id": "c15494",
+   "en": "she's gotten a little naggy... or something...",
+   "flags": [],
+   "notes": "Male; ends the sentence begun in c15492."
+  },
+  {
+   "id": "c15495",
+   "en": "Hey, \\p-kun!",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c15496",
+   "en": "Hm? Oh, uh...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15497",
+   "en": "Did you just say something bad about me?",
+   "flags": [],
+   "notes": "x2, both genders; Akimizu in teacher-polite mode."
+  },
+  {
+   "id": "c15498",
+   "en": "N-no, not at all, Akimizu-sensei!",
+   "flags": [],
+   "notes": "x2, player, both genders (the Japanese says Akimizu-sensei in both)."
+  },
+  {
+   "id": "c15499",
+   "en": "Very well, then!",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c15500",
+   "en": "Affinity ending.\nFiller for Akimizu (female).",
+   "flags": [],
+   "notes": "Developer placeholder, translated literally like c04107 and c12399. Plate says Alto; used in frd_yuu_009 (female) and frd_yuu_010 (male)."
+  },
+  {
+   "id": "c15501",
+   "en": "Since then, I've been the same as ever, but...",
+   "flags": [],
+   "notes": "Female ending narration."
+  },
+  {
+   "id": "c15502",
+   "en": "Yuu seems to be studying all sorts of things\nfor her dream of becoming a schoolteacher.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15503",
+   "en": "it's that Yuu has gotten more responsible...\nor rather,",
+   "flags": [],
+   "notes": "Female; runs on into c15504."
+  },
+  {
+   "id": "c15504",
+   "en": "she's gotten a little naggy... or something.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15505",
+   "en": "Hey, \\p-chan!",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c15506",
+   "en": "Hm? What, what?",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c15480/c15481/c15487: 'osomatsusama deshita' rendered 'It was nothing special, really.' so both player replies can echo it ('it was not \"nothing special\"').",
+   "c15500: developer placeholder (plate Alto) translated literally, following c04107.",
+   "c15468: refers to a rooftop talk about future dreams in an earlier Yuu scene not yet translated; 'our dreams for the future' assumes both talked about their dreams."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

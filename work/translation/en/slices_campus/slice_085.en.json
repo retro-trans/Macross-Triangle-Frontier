@@ -1,0 +1,499 @@
+{
+ "slice": 85,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c06285",
+   "en": "(I invited Yamashiro-sensei to the pool,\nbut...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06286",
+   "en": "Nice weather today, isn't it,\nYamashiro-sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06287",
+   "en": "Sorry for inviting you out of the blue.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06288",
+   "en": "What is there to apologize for?\nKeeping students company in training\nis only natural for a teacher.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06289",
+   "en": "Though inviting Hilda or Gary instead\nof me might have been more useful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06290",
+   "en": "No, I wanted to ask you,\nYamashiro-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06291",
+   "en": "I see. Then that's fine.\nNow, stop dawdling. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06292",
+   "en": "Ah, wait for me!",
+   "flags": [],
+   "notes": "Shared with the Christmas party scene (scd_com_618, Yamashiro route), after 'Come on, let's go.'"
+  },
+  {
+   "id": "c06293",
+   "en": "Changing took me longer than I thought.\nI wonder if Sensei's waiting...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06294",
+   "en": "So you've come out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06295",
+   "en": "Sorry to keep you waiting.",
+   "flags": [],
+   "notes": "Shared: the player here, Luca (frd_luk_115) and Shirakawa (frd_myk_001). Neutral."
+  },
+  {
+   "id": "c06296",
+   "en": "No, don't worry about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06297",
+   "en": "Th-that's quite a swimsuit, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06298",
+   "en": "Is it?\nI'd say it's perfectly normal...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06299",
+   "en": "Warm up properly.\nSwimming is harder work than you'd think.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06300",
+   "en": "Well then, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06301",
+   "en": "(Phew, I'm beat... How many kilometers\ndid I swim...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06302",
+   "en": "That was good training.\nYou kept up well, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06303",
+   "en": "I pushed you hard, expecting you to\nwear out sooner... You're not bad at all.\nI'm impressed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06304",
+   "en": "You must have built up plenty of lactic\nacid. Loosen up your body well and get\nto bed early.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06305",
+   "en": "Well then, I'll see you later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06306",
+   "en": "Okay. Goodbye, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06307",
+   "en": "Ah, I forgot to mention...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06308",
+   "en": "I enjoyed today.\nInvite me again when you're free.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06309",
+   "en": "(Maybe I'll invite Yamashiro-sensei again.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06310",
+   "en": "(I invited Yamashiro-sensei to the pool,\nbut...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06311",
+   "en": "Huh? So this is training?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06312",
+   "en": "Now, stop dawdling. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06313",
+   "en": "Changing took me forever.\nI wonder if Sensei's waiting...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06314",
+   "en": "Um, don't you have anything to say\nabout my swimsuit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06315",
+   "en": "Hm, let's see...\nWouldn't you be better off wearing\nsomething more focused on function?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06316",
+   "en": "What's wrong?",
+   "flags": [],
+   "notes": "Shared: Yamashiro here and the male player to Hoshimura (frd_yui_108). Neutral."
+  },
+  {
+   "id": "c06317",
+   "en": "No, it's nothing, really...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06318",
+   "en": "(Phew, I'm worn out... How many\nkilometers did I swim...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06319",
+   "en": "(I'll invite Yamashiro-sensei again!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06320",
+   "en": "(Training at the pool with\nYamashiro-sensei again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06321",
+   "en": "You're early, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06322",
+   "en": "Hello, Sensei!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06323",
+   "en": "Full of fighting spirit, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06324",
+   "en": "Then let's get right to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06325",
+   "en": "That's a lovely swimsuit again today...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06326",
+   "en": "Low water resistance,\nand truly comfortable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06327",
+   "en": "Come on, no slacking. Keep stretching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06328",
+   "en": "(Yamashiro-sensei is strict,\nbut he's a good teacher.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06329",
+   "en": "(Today I'm supposed to take\nYamashiro-sensei out for a meal.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06330",
+   "en": "\\p, you're early.\nAlready here, are you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06331",
+   "en": "Hello. You're early too, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06332",
+   "en": "Being five minutes early is the most\nbasic of basics for a working adult.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06333",
+   "en": "Still, you have odd tastes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06334",
+   "en": "Surely there are others you could\ninvite out for a meal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06335",
+   "en": "I'm curious about what kind of person\nyou are, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06336",
+   "en": "Heh. You're a strange one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06337",
+   "en": "So, what are we going to eat?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06338",
+   "en": "...What's your favorite food, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06339",
+   "en": "What, you haven't thought about it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06340",
+   "en": "You're hopeless.\nAnd you're the one who invited me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06341",
+   "en": "I like Japanese food.\nI'd prefer fish over meat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06342",
+   "en": "Huh~ That kind of fits my image of you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06343",
+   "en": "And what image would that be?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06344",
+   "en": "Light and simple, more calm than\nactive... Something like that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06345",
+   "en": "Hm, so that's the image I give off...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06346",
+   "en": "You're always so composed,\nYamashiro-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06347",
+   "en": "In my line of work, I have to\nplay support to Gary and the others.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06348",
+   "en": "Wow~ I'd love to hear more about that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06349",
+   "en": "Then I'll tell you over our meal.\nIf you haven't picked a place,\nis my usual spot all right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06350",
+   "en": "Thanks for the meal.\nThe fish was really delicious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06351",
+   "en": "It's a fine place that serves rare\nwild-caught fish at low prices.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06352",
+   "en": "And it costs no more than\nwhat I usually eat...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06353",
+   "en": "There are plenty of places that are\npricey and bad, but few that are\ncheap and good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06354",
+   "en": "Finding one of those brings\na special kind of joy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06355",
+   "en": "It makes me want to try out\nall kinds of places.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06356",
+   "en": "Mm, indeed.\nWell, it's getting late.\nShall we head home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06357",
+   "en": "Don't stay up late. Get to bed early.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06358",
+   "en": "(Yamashiro-sensei's stories were fun,\nand the food was delicious.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06359",
+   "en": "(Today's the day I invited\nYamashiro-sensei out for a meal.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06360",
+   "en": "I enjoy talking with you, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06361",
+   "en": "(Yamashiro-sensei's stories were fun,\nand the food was so good~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06362",
+   "en": "(I'm going to Yamashiro-sensei's\nusual spot again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06363",
+   "en": "Are you sure it's all right for me\nto pick the place again today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06364",
+   "en": "Yes, I don't know any places at all...",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c06297/c06325: Yamashiro's swimsuit is never described ('sugoi mizugi', 'suteki na mizugi'); rendered 'quite a swimsuit' and 'a lovely swimsuit', both teasing, as the player's reactions suggest.",
+   "c06311 (female) 'n? kore wa toreeningu?': she had thought of the pool trip as an outing; 'Huh? So this is training?'.",
+   "c06351 'tennenmono' read as wild-caught (not farmed) fish, rare on the fleet.",
+   "c06289/c06347: Yamashiro names his colleagues bare ('Hilda', 'Gary'), as the Japanese does.",
+   "c06305 'sore de wa, mata na' rendered 'Well then, I'll see you later.' to keep it apart from c00339 'Well then, see you.' (sore ja a na)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

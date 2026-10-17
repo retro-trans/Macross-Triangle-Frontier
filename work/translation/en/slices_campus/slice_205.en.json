@@ -1,0 +1,501 @@
+{
+ "slice": 205,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c14995",
+   "en": "(Huh? What's going on?\nYuu's late...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14996",
+   "en": "(I'll wait just a little longer...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14997",
+   "en": "(She's not coming... I wonder why...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14998",
+   "en": "(If she's not coming, I guess there's nothing\nfor it. Maybe I'll go on my own.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14999",
+   "en": "...m sor... ...ryyy",
+   "flags": [],
+   "notes": "Female. Twin of c14970 (different long-vowel mark)."
+  },
+  {
+   "id": "c15000",
+   "en": "I was just about to give up and go out\non my own, so I'm glad you made it.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15001",
+   "en": "No, I totally understand why.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15002",
+   "en": "Um, I get it now, so let's head out.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15003",
+   "en": "Things were hectic, but we managed\nto finish the errand somehow~...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15004",
+   "en": "No, don't worry about it.\nI'm not bothered either.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15005",
+   "en": "Yeah, see you tomorrow.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15006",
+   "en": "(Is Yuu surprisingly... maybe...?)",
+   "flags": [],
+   "notes": "Female. The Japanese deliberately leaves out the adjective; kept unfinished."
+  },
+  {
+   "id": "c15007",
+   "en": "(Another errand dumped on me...\nBut Akimizu says she'll come along again...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15008",
+   "en": "(Still, I've got a bad feeling about this...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15009",
+   "en": "I'm sorryyy!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15010",
+   "en": "Ah, I knew it...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15011",
+   "en": "No, it's fine. I already get it.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15012",
+   "en": "Anyway, never mind. Let's head right out.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15013",
+   "en": "(Akimizu really is... huh...)",
+   "flags": [],
+   "notes": "Male. Deliberate gap kept."
+  },
+  {
+   "id": "c15014",
+   "en": "(Another errand dumped on me...\nBut Yuu says she'll come along again...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15015",
+   "en": "(Still, I've got a bad feeling about this...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15016",
+   "en": "Yeah, it's fine. I already get it.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15017",
+   "en": "Never mind. Let's head right out.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15018",
+   "en": "(Yuu really is... huh...)",
+   "flags": [],
+   "notes": "Female. Deliberate gap kept."
+  },
+  {
+   "id": "c15019",
+   "en": "(Akimizu told me, \"I want to make up\nfor the other day...\" so I asked her\nto meet up, but...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15020",
+   "en": "(Who'd have thought I'd be meeting Akimizu\noff campus on a day off.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15021",
+   "en": "(We agreed to meet here at noon,\nbut maybe I'm a little early?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15022",
+   "en": "(Did I get the meeting place wrong?\nEven so, I've got no idea where else to go...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15023",
+   "en": "(Wait, why do I have this feeling\nof deja vu...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15024",
+   "en": "(She's not coming... What's going on...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15025",
+   "en": "(Don't tell me she got into an accident\nor something...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15026",
+   "en": "(Oh...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15027",
+   "en": "No, I sort of figured you might be late.",
+   "flags": [],
+   "notes": "Male. Answers her apology (c14972)."
+  },
+  {
+   "id": "c15028",
+   "en": "Before I knew it, it was this late...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15029",
+   "en": "No... I wanted to make up for the other day,\nso I was making a lunch all morning, and\nbefore I knew it, so much time had gone by...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15030",
+   "en": "Oh, I see. Come to think of it, I'm hungry.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15031",
+   "en": "Then I'll get it ready right away,\nso please eat!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15032",
+   "en": "Munch, munch... Mm, this is delicious.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15033",
+   "en": "Really? I'm so glad!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15034",
+   "en": "Like this rolled omelet:\nnot too sweet, not too salty...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15035",
+   "en": "That's because I mix in\na little hippo-cow milk.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15036",
+   "en": "Huh, a secret ingredient.\nOh yeah, and this fried stuff is\nsurprisingly light, too...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15037",
+   "en": "And the rice balls look ordinary at first,\nbut they've got just the right fluffiness...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15038",
+   "en": "Zzz~...............",
+   "flags": [],
+   "notes": "Shared male/female. kuu: sleeping breath."
+  },
+  {
+   "id": "c15039",
+   "en": "Hm... Akimizu?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15040",
+   "en": "Zzz~............... zzz~...............",
+   "flags": [],
+   "notes": "Shared male/female. suu, suu: sleeping breath."
+  },
+  {
+   "id": "c15041",
+   "en": "Akimizu? Akimizu-san~? Ms. Akimizu~?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male. -shi (joking formal title) rendered \"Ms.\"; Akimizu is female (glossary)."
+  },
+  {
+   "id": "c15042",
+   "en": "Mm~ mumble, mumble...............",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15043",
+   "en": "Ah, she's totally asleep...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15044",
+   "en": "Hah! Huh? What happened to me...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15045",
+   "en": "Oh, you're finally awake.",
+   "flags": [],
+   "notes": "Male. Matches female twin c15075."
+  },
+  {
+   "id": "c15046",
+   "en": "\\p-kun!\n...Did I... fall asleep, by any chance...?",
+   "flags": [],
+   "notes": "Male. Matches female twin c15076."
+  },
+  {
+   "id": "c15047",
+   "en": "Yep, you were out like a light...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15048",
+   "en": "I'm sorry, I'm so, so sorry!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15049",
+   "en": "No, the lunch was delicious,\nso I don't mind at all...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15050",
+   "en": "This isn't how it was supposed to go...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15051",
+   "en": "Maybe I got up a little too early today...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15052",
+   "en": "What time did you get up?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15053",
+   "en": "Um, I think it was around\nfour in the morning...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15054",
+   "en": "Why so early!?\n...Oh, the lunch...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15055",
+   "en": "Well, then it can't be helped.",
+   "flags": [],
+   "notes": "Male. Matches female twin c15079."
+  },
+  {
+   "id": "c15056",
+   "en": "I'm sorry.\nI'll make it up to you properly next time...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15057",
+   "en": "No, no, I don't mind at all.\nBesides, this lunch was supposed to be\nyour apology for last time in the first place...",
+   "flags": [],
+   "notes": "Male. Matches female twin c15080."
+  },
+  {
+   "id": "c15058",
+   "en": "Hmm, I need to get my act together...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15059",
+   "en": "You don't need to worry about it that much...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15060",
+   "en": "Yeah, see you at school.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c15061",
+   "en": "(Maybe Akimizu's more of an airhead\nthan I thought?)",
+   "flags": [],
+   "notes": "Male. Matches female twin c15081."
+  },
+  {
+   "id": "c15062",
+   "en": "(Yuu told me, \"I want to make up\nfor the other day...\" so I asked her\nto meet up, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15063",
+   "en": "(Who'd have thought I'd be meeting Yuu\noff campus on a day off.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15064",
+   "en": "(We agreed to meet here at noon,\nbut maybe I'm a little early?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15065",
+   "en": "(Wait, why do I have this feeling\nof deja vu...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15066",
+   "en": "(She's not coming... What could be wrong...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15067",
+   "en": "(Ah...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15068",
+   "en": "No, I sort of figured you might be late.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15069",
+   "en": "Oh, I see. Come to think of it, I'm hungry.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15070",
+   "en": "Then I'll get it ready right away,\nso please eat.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15071",
+   "en": "Munch, munch... Mm, this is delicious.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15072",
+   "en": "Hm... Yuu?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15073",
+   "en": "Yuu? Yuu-san~? Ms. Akimizu~?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female. -shi rendered \"Ms.\", as c15041."
+  },
+  {
+   "id": "c15074",
+   "en": "Ah, looks like she's totally asleep...",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c15041/c15073: Akimizu-shi (mock-formal title) rendered \"Ms. Akimizu\"; -shi is not in the honorific table.",
+   "c15038/c15040: sleeping sounds kuu and suu both rendered \"Zzz\".",
+   "c15006/c15013/c15018: deliberate gaps in the Japanese kept as gaps."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

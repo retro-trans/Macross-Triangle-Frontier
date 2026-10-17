@@ -1,0 +1,927 @@
+{
+ "slice": 19,
+ "rows_in_slice": 149,
+ "rows_examined": 149,
+ "rows": [
+  {
+   "id": "u2696",
+   "en": "VS Mode Defeat Jingle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2697",
+   "en": "Fire Valkyrie (Song SPA)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2698",
+   "en": "Little Wonder",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2699",
+   "en": "Sheryl (Skill: Galactic Fairy 5)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2700",
+   "en": "Sheryl (Skill: Galactic Fairy 4)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2701",
+   "en": "Mission Continues (The False Songstress)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2702",
+   "en": "Fire Valkyrie (Song Weapon 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2703",
+   "en": "Sheryl (Skill: Galactic Fairy 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2704",
+   "en": "Mission Continues (Macross Plus)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2705",
+   "en": "Mission Continues (Macross 7)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2706",
+   "en": "Mission Continues (Macross Frontier)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2707",
+   "en": "Seikan Hikou (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2708",
+   "en": "Northern Cross (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2709",
+   "en": "Remember Queadluun",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2710",
+   "en": "Air Beat",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2711",
+   "en": "DYNAMITE EXPLOSION (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2712",
+   "en": "Encounter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2713",
+   "en": "Infinity #7 (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2714",
+   "en": "Saturn Conflict",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2715",
+   "en": "VF-19P (Song Weapon 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2716",
+   "en": "Mission Continues (Do You Remember Love?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2717",
+   "en": "Nyan-Nyan Shop",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2718",
+   "en": "Mission Continues (Macross Zero)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2719",
+   "en": "Mission Continues (Macross Dynamite 7)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2720",
+   "en": "Mission Continues (Macross II)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2721",
+   "en": "The Power to Reject",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2722",
+   "en": "Battle Frontier (Part 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2723",
+   "en": "Sara (Skill: Song of Destruction)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2724",
+   "en": "Ishtar (Skill: Emulator)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2725",
+   "en": "Myung (Skill: VOICES)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2726",
+   "en": "Fold Speaker (Song Weapon 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2727",
+   "en": "Fold Speaker (Song Weapon 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2728",
+   "en": "Epilogue (Zero)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2729",
+   "en": "Storm Valkyrie (Song Weapon 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2730",
+   "en": "MY FRIENDS (Drums)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2731",
+   "en": "Storm Valkyrie (Song SPA)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2732",
+   "en": "Quiet, Like 200 Million Years Ago",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2733",
+   "en": "Burning Fire (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2734",
+   "en": "All Alone",
+   "flags": [],
+   "notes": "Game-original track (hitoribocchi)."
+  },
+  {
+   "id": "u2735",
+   "en": "Universal Bunny (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2736",
+   "en": "Obelisk (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2737",
+   "en": "Inumimi Ranka",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "OST track title (dog-eared Ranka); romanized as the Seikan Hikou precedent."
+  },
+  {
+   "id": "u2738",
+   "en": "Aimo O.C. (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2739",
+   "en": "Get it on-flying rock (Vocal)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2740",
+   "en": "Queadluun-Quilqua (Song SPA)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2741",
+   "en": "Maiden in Love, Season of Dreams",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2742",
+   "en": "Let's Go Home Together",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2743",
+   "en": "Take Responsibility!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2744",
+   "en": "Lovers",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2745",
+   "en": "Triangle Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2746",
+   "en": "Triumphant Return",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2747",
+   "en": "Obelisk (Staff Roll Ver.)",
+   "flags": [],
+   "notes": "Staff-roll version of Obelisk."
+  },
+  {
+   "id": "u2748",
+   "en": "",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Not text: a stray byte sequence in the EBOOT decoded as a single kanji. Do not insert anything here."
+  },
+  {
+   "id": "u2749",
+   "en": "",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Not text: binary data decoded as Shift-JIS. Do not insert anything here."
+  },
+  {
+   "id": "u2750",
+   "en": "",
+   "flags": [
+    "unfinished"
+   ],
+   "notes": "Not text: binary data decoded as Shift-JIS. Do not insert anything here."
+  },
+  {
+   "id": "u2751",
+   "en": "HOLY LONELY LIGHT (Fire Valkyrie: Song Weapon 2)\nVocals: FIRE BOMBER\nLyrics: K.Inojo\nMusic: Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2752",
+   "en": "HOLY LONELY LIGHT (Mylene Valkyrie: Song Weapon 2)\nVocals: FIRE BOMBER\nLyrics: K.Inojo\nMusic: Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2753",
+   "en": "Do You Remember Love?\nVocals: Mari Iijima\nLyrics: Kazumi Yasui\nMusic: Kazuhiko Kato",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2754",
+   "en": "Do You Remember Love?\nMusic: Kazuhiko Kato",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2755",
+   "en": "MY FRIENDS (Mylene Valkyrie: Song Weapon 1)\nVocals: FIRE BOMBER\nLyrics: M.MEG\nMusic: Miki Kawano",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2756",
+   "en": "INFORMATION HIGH (Skill: Sharon's Temptation)\nLyrics: DAI&KEN=GO→\nMusic: CMJK",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2757",
+   "en": "Dog Fighter\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2758",
+   "en": "Zentradian Great Fortress (Part 1)\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2759",
+   "en": "Zentradian Great Fortress (Part 2)\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2760",
+   "en": "My Boyfriend is a Pilot\nVocals: Mari Iijima\nLyrics: Akane Asa  Music: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2761",
+   "en": "My Boyfriend is a Pilot\nMusic: Kentaro Haneda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2762",
+   "en": "INFORMATION HIGH\nLyrics: DAI&KEN=GO→  Music: CMJK",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2763",
+   "en": "INFORMATION HIGH\nMusic: CMJK",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2764",
+   "en": "After, in the dark\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": "MUF shipped 'After, in the dark' (JP has the comma)."
+  },
+  {
+   "id": "u2765",
+   "en": "Battle Frontier (Part 1)\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2766",
+   "en": "Totsugeki Love Heart\nVocals: FIRE BOMBER\nLyrics: K.Inojo\nMusic: Atsutaka Kawauchi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2767",
+   "en": "Totsugeki Love Heart\nMusic: Atsutaka Kawauchi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2768",
+   "en": "HOLY LONELY LIGHT (Basara)\nVocals: FIRE BOMBER\nLyrics: K.Inojo\nMusic: Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2769",
+   "en": "HOLY LONELY LIGHT (Mylene)\nVocals: FIRE BOMBER\nLyrics: K.Inojo\nMusic: Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2770",
+   "en": "HOLY LONELY LIGHT\nMusic: Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2771",
+   "en": "MY FRIENDS\nVocals: FIRE BOMBER\nLyrics: M.MEG\nMusic: Miki Kawano",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2772",
+   "en": "MY FRIENDS\nMusic: Miki Kawano",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2773",
+   "en": "Ace Frontier\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2774",
+   "en": "Seikan Hikou (Skill: Kira☆)\nVocals: Ranka Lee=Megumi Nakajima\nLyrics: Takashi Matsumoto\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2775",
+   "en": "TRY AGAIN\nVocals: FIRE BOMBER\nLyrics: K.Inojo, Kyoko Fukuyama\nMusic: Yoshiki Fukuyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2776",
+   "en": "TRY AGAIN\nMusic: Yoshiki Fukuyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2777",
+   "en": "Lion\nVocals: Sheryl Nome starring May'n\n        & Ranka Lee=Megumi Nakajima\nLyrics: Gabriela Robin  Music: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2778",
+   "en": "Lion\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2779",
+   "en": "Aimo\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2780",
+   "en": "Sagittarius ☆ 9 PM Don't be late (Skill: Galactic Fairy 1)\nVocals: Sheryl Nome starring May'n\nLyrics: Dai Sato, hal, Mike Sugiyama, Gabriela Robin\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2781",
+   "en": "Sagittarius ☆ 9 PM Don't be late\nVocals: Sheryl Nome starring May'n\nLyrics: Dai Sato, hal, Mike Sugiyama, Gabriela Robin\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2782",
+   "en": "Sagittarius ☆ 9 PM Don't be late\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2783",
+   "en": "The Target\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2784",
+   "en": "Prologue (Zero)\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2785",
+   "en": "Northern Cross (Skill: Galactic Fairy 3)\nVocals: Sheryl Nome starring May'n\nLyrics: Yuho Iwasato, Gabriela Robin\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2786",
+   "en": "Blitzkrieg\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2787",
+   "en": "root 2045\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2788",
+   "en": "Stratosphere Diver\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2789",
+   "en": "GERWALK Strikes\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2790",
+   "en": "Central Paranoia Unit\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2791",
+   "en": "Bowels of War\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2792",
+   "en": "Roar of the Giants\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2793",
+   "en": "Formation Takeoff\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2794",
+   "en": "Do You Remember Love? (Skill: Do You Remember Love?)\nVocals: Mari Iijima\nLyrics: Kazumi Yasui\nMusic: Kazuhiko Kato",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2795",
+   "en": "TRY AGAIN (Fire Valkyrie: Song SPA)\nVocals: FIRE BOMBER\nLyrics: K.Inojo, Kyoko Fukuyama\nMusic: Yoshiki Fukuyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2796",
+   "en": "Little Wonder\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2797",
+   "en": "Obelisk (Skill: Galactic Fairy 5)\nVocals: Sheryl Nome starring May'n\nLyrics: Gabriela Robin\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2798",
+   "en": "Universal Bunny (Skill: Galactic Fairy 4)\nVocals: Sheryl Nome starring May'n\nLyrics: Shihori, PA-NON, Gabriela Robin\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2799",
+   "en": "Totsugeki Love Heart (Fire Valkyrie: Song Weapon 1)\nVocals: FIRE BOMBER\nLyrics: K.Inojo\nMusic: Atsutaka Kawauchi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2800",
+   "en": "Infinity #7 (Skill: Galactic Fairy 2)\nVocals: Sheryl Nome starring May'n\n        & Ranka Lee=Megumi Nakajima\nLyrics: Yuho Iwasato  Music: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2801",
+   "en": "Seikan Hikou\nVocals: Ranka Lee=Megumi Nakajima\nLyrics: Takashi Matsumoto\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2802",
+   "en": "Northern Cross\nVocals: Sheryl Nome starring May'n\nLyrics: Yuho Iwasato, Gabriela Robin\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2803",
+   "en": "Remember Queadluun\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2804",
+   "en": "Air Beat\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2805",
+   "en": "DYNAMITE EXPLOSION\nVocals: FIRE BOMBER\nLyrics: Toshiyuki Furuya\nMusic: Yoshiki Fukuyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2806",
+   "en": "Encounter\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2807",
+   "en": "Infinity #7\nVocals: Sheryl Nome starring May'n\n        & Ranka Lee=Megumi Nakajima\nLyrics: Yuho Iwasato  Music: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2808",
+   "en": "Saturn Conflict\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2809",
+   "en": "DYNAMITE EXPLOSION (VF-19P: Song Weapon 1)\nVocals: FIRE BOMBER\nLyrics: Toshiyuki Furuya\nMusic: Yoshiki Fukuyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2810",
+   "en": "Nyan-Nyan Shop\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2811",
+   "en": "Hacking Deathtrap Device\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2812",
+   "en": "The Power to Reject\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2813",
+   "en": "Battle Frontier (Part 2)\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2814",
+   "en": "Flashing \"Fire-V\"\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2815",
+   "en": "Sara (Skill: Song of Destruction)\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2816",
+   "en": "Ishtar (Skill: Emulator)\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2817",
+   "en": "Myung (Skill: VOICES)\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2818",
+   "en": "Seikan Hikou (Fold Speaker: Song Weapon 1)\nVocals: Ranka Lee=Megumi Nakajima\nLyrics: Takashi Matsumoto\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2819",
+   "en": "Lion (Fold Speaker: Song Weapon 2)\nVocals: Sheryl Nome starring May'n\n        & Ranka Lee=Megumi Nakajima\nLyrics: Gabriela Robin  Music: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2820",
+   "en": "Epilogue (Zero)\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2821",
+   "en": "Totsugeki Love Heart (Storm Valkyrie: Song Weapon 1)\nMusic: Atsutaka Kawauchi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2822",
+   "en": "TRY AGAIN (Storm Valkyrie: Song SPA)\nMusic: Yoshiki Fukuyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2823",
+   "en": "Quiet, Like 200 Million Years Ago\nMusic: Nobuhiko Kashihara",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2824",
+   "en": "Burning Fire\nMacross Ultimate Frontier Opening Theme\nVocals: FIRE BOMBER  Lyrics: Yuna Katsuki  Music: indy\nArrangement: Son Rui, Yuna Katsuki, Keisuke Iizuka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2825",
+   "en": "High School Life\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2826",
+   "en": "All Alone\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2827",
+   "en": "TestFlightDelight\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2828",
+   "en": "Universal Bunny\nVocals: Sheryl Nome starring May'n\nLyrics: Shihori, PA-NON, Gabriela Robin\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2829",
+   "en": "Obelisk\nVocals: Sheryl Nome starring May'n\nLyrics: Gabriela Robin\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2830",
+   "en": "Inumimi Ranka\nMusic: Yoko Kanno",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u2737."
+  },
+  {
+   "id": "u2831",
+   "en": "Aimo O.C.\nVocals: Ranka Lee=Megumi Nakajima\nLyrics: Maaya Sakamoto, Gabriela Robin\nMusic: Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2832",
+   "en": "Vajra\nMusic: Yoko Kanno",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "OST track title is written in Latin letters in the JP with the glossary avoid spelling; glossary 'Vajra' used."
+  },
+  {
+   "id": "u2833",
+   "en": "Get it on-flying rock\nVocals: Sheryl Nome starring May'n\n        & Ranka Lee=Megumi Nakajima  Music: Yoko Kanno\nLyrics: tim jensen, Gabriela Robin",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2834",
+   "en": "Emilia (Queadluun-Quilqua: Song SPA)\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2835",
+   "en": "Maiden in Love, Season of Dreams\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2836",
+   "en": "Let's Go Home Together\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2837",
+   "en": "Take Responsibility!\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2838",
+   "en": "Lovers\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2839",
+   "en": "Festival\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2840",
+   "en": "Triangle Force\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2841",
+   "en": "Triumphant Return\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2842",
+   "en": "Examinee Score Report\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2843",
+   "en": "Green Wind\nGame Original",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2844",
+   "en": "Snowy Town\nGame Original",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u2737, u2830: 'Inumimi Ranka' kept romanized (OST track title).",
+   "u2832: OST track (Latin-letter JP title uses the glossary avoid spelling) written as 'Vajra'.",
+   "Song titles not in the glossary, translated by me: All Alone, Universal Bunny, Obelisk, Aimo O.C., Get it on-flying rock, Maiden in Love, Season of Dreams, Let's Go Home Together, Take Responsibility!, Lovers, Triangle Force, Triumphant Return, Festival; English-letter titles kept as written."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Songs not in terms.json songs: Obelisk, Universal Bunny, Aimo O.C., Get it on-flying rock, Inumimi Ranka and the TF game-original tracks."
+  ],
+  "unfinished": [
+   "u2748, u2749, u2750: not text (binary bytes decoded as Shift-JIS); left empty on purpose, nothing should be inserted."
+  ]
+ }
+}

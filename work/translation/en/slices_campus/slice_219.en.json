@@ -1,0 +1,404 @@
+{
+ "slice": 219,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c15990",
+   "en": "(I went a bit farther out while I was shopping,\nbut the damage has spread all the way out here...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15991",
+   "en": "\\p-kun...\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15992",
+   "en": "I could ask you the same, Senpai.\nIt's dangerous around here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15993",
+   "en": "I wanted to see the damage with my own eyes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15994",
+   "en": "This is our city, after all...\nWe have to protect it...",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15995",
+   "en": "Right, let's do our best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15996",
+   "en": "Mm, it's good to stay positive.\nSee you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15997",
+   "en": "(Our city, huh... I don't know what I can do,\nbut I've got to do whatever I can...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15998",
+   "en": "(I went a bit farther out while I was shopping,\nbut the damage has spread all the way out here...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15999",
+   "en": "\\p-chan...\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16000",
+   "en": "I could ask you the same, Senpai.\nIt's dangerous around here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16001",
+   "en": "(Our city, huh... I don't know what I can do,\nbut I've got to do whatever I can...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16002",
+   "en": "(Tests are finally over...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16003",
+   "en": "You look totally wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16004",
+   "en": "Claire-senpai...\nTests are finally over, so I'm all deflated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16005",
+   "en": "How did you do?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16006",
+   "en": "So-so, I guess...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16007",
+   "en": "You have to study properly every day, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16008",
+   "en": "I can't argue with that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16009",
+   "en": "Hehe... Don't look so down.\nJust do better next time, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16010",
+   "en": "...Oh, okay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16011",
+   "en": "(Claire-senpai is so kind.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16012",
+   "en": "(Phew, tests are finally over...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16013",
+   "en": "So-so?\n...Kinda?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16014",
+   "en": "Ugh, I can't argue with that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16015",
+   "en": "(Maybe I'll splurge and eat out today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16016",
+   "en": "Oh, \\p-kun.\nHeading home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16017",
+   "en": "Yes. I was just thinking\nI might splurge on a meal out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16018",
+   "en": "Ooh, sounds nice...\nSo what are you planning to eat?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16019",
+   "en": "A lavish yakiniku feast!\nAt the very least, I want a hamburger steak.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16020",
+   "en": "Meat, huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16021",
+   "en": "You don't like it, Claire-senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16022",
+   "en": "I don't dislike it... but I'm not especially fond of it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16023",
+   "en": "O-Oh, really... But it's so good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16024",
+   "en": "Don't worry about me.\nGo eat whatever you like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16025",
+   "en": "(I'll shake it off and go for pasta, I guess.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16026",
+   "en": "Oh, \\p-chan.\nHeading home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16027",
+   "en": "A lavish yakiniku feast!\nAt the very least, I want a hamburger steak!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16028",
+   "en": "Huh, you don't like it, Claire-senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16029",
+   "en": "(I'll shake it off and go for pasta, I guess.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16030",
+   "en": "(Argh, I went to the bathroom and now I'm late...\nThe teacher's gonna chew me out if I'm tardy!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16031",
+   "en": "Kyaa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16032",
+   "en": "Geez, watch where you're going...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16033",
+   "en": "I-I'm sorry...\nClaire-senpai...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16034",
+   "en": "Are you hurt?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16035",
+   "en": "I'm fine, so don't make that face!\nIt's my fault too for not looking where I was going...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16036",
+   "en": "Okay.\nClass is about to start, so let's hurry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16037",
+   "en": "(...Claire-senpai is so soft...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16038",
+   "en": "(Argh, I went to the restroom and now I'm late...\nThe teacher's gonna scold me if I'm tardy!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16039",
+   "en": "(What should I have for lunch...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16040",
+   "en": "Oh, \\p-kun.\nOff to eat?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16041",
+   "en": "Yes, I'm starving.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16042",
+   "en": "I'm starving too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16043",
+   "en": "What are you having, Senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16044",
+   "en": "Let's see... Pasta, maybe?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16045",
+   "en": "Do you like pasta?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16046",
+   "en": "Mm~, I like Italian food in general.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16047",
+   "en": "It's so good, right? Like carbonara...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16048",
+   "en": "Mm... Ah, now I'm getting hungry...!\nSee you later!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16049",
+   "en": "(I'll have carbonara today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16050",
+   "en": "(Lunch break, huh... What should I eat...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16051",
+   "en": "Oh, \\p-chan.\nOff to eat?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16052",
+   "en": "What are you having, Senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16053",
+   "en": "Do you like pasta?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c16036 (Claire, \"un\"): answers the player's \"Are you hurt?\" after her reassurance; rendered \"Okay.\" as a wrap-up before hurrying to class.",
+   "c16037 (shared m/f): \"(...Claire-senpai is so soft...)\" after bumping into her; kept as is for both genders, as in the Japanese.",
+   "c16002: also used in nml_kgr_006 and nml_rnk_006 (male); generic, fits all.",
+   "c16019/c16027: yakiniku kept as \"yakiniku\" (Japanese grilled meat), hambagu as \"hamburger steak\"."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

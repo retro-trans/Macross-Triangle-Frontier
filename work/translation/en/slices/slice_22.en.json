@@ -1,0 +1,522 @@
+{
+ "slice": 22,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u3005",
+   "en": "Destroy the giant Vajra ship believed\nto be commanding the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3006",
+   "en": "The Frontier fleet is now in crisis under organized Vajra attacks. Head for the giant Vajra ship believed to be giving the orders and destroy it at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3007",
+   "en": "Wipe out the Vajra so they can't disrupt\nthe experiment using Ranka Lee's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3008",
+   "en": "Top-secret mission: you will now guard an experiment using Ranka Lee's song. Until the experiment begins, wipe out the Vajra so they can't interfere.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3009",
+   "en": "Defend the Macross Quarter and wipe out\nthe Vajra or survive for 5 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3010",
+   "en": "Evolved Vajra have appeared that even reaction weapons can't harm. They'll be hard to destroy: put defending the Macross Quarter and survival first.",
+   "flags": [],
+   "notes": "Shortened: briefing lines hold 78 bytes (2 lines). Shortened: briefing lines hold 78 bytes (2 lines)."
+  },
+  {
+   "id": "u3011",
+   "en": "Defend the Battle Frontier for 5 minutes\nas it prepares a super-long-distance fold.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3012",
+   "en": "To end the war with the Vajra, a super-long-distance fold has been decided on. Defend the Battle Frontier until the super-long-distance fold begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3013",
+   "en": "Wipe out the Vajra rampaging\ninside the Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3014",
+   "en": "A Vajra nest was apparently built inside Macross Frontier, and swarms of Vajra are rampaging inside. Wipe out the Vajra that have emerged in the Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3015",
+   "en": "Stop the deserters who stole the Macross\nQuarter from escaping.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3016",
+   "en": "Some S.M.S. members have hijacked the Macross Quarter to flee. If they fold out, they'll get away. Stop the deserters from escaping.",
+   "flags": [],
+   "notes": "Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3017",
+   "en": "To test the VF-171EX, hold a mock battle\nwith the Sagittarius Squadron.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sagittarius Squadron (glossary provisional)."
+  },
+  {
+   "id": "u3018",
+   "en": "A mock battle will now be held to test the VF-171EX, built to fight the Vajra. Defeat the Sagittarius Squadron in this combined machine test and training.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sagittarius Squadron (glossary provisional)."
+  },
+  {
+   "id": "u3019",
+   "en": "To make the Vajra homeworld ours,\nwipe out the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3020",
+   "en": "At last we've found the Vajra homeworld; our only hope is to make it our new home. With the Galactic Fairy's song, wipe out the Vajra.",
+   "flags": [],
+   "notes": "TM 'Wipe out the Vajra, powered by the Galactic Fairy's song' read as if the Vajra were powered by the song; the Japanese means 'using the Galactic Fairy's singing voice as our strength'. Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3021",
+   "en": "For the peace of the galaxy,\ndefeat Grace O'Connor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3022",
+   "en": "Grace O'Connor's group, who'd use even the Vajra to seize the galaxy, were the true masterminds. For the peace of the galaxy, defeat Grace O'Connor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3023",
+   "en": "Wipe out the unknown lifeforms\nthat have invaded Island 1.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3024",
+   "en": "Capt. Gilliam has gone ahead in pursuit of the unknown enemy that invaded the Frontier. Back him up at once and annihilate the unknown enemy.",
+   "flags": [],
+   "notes": "Giriamu taii in a Frontier mission (MK_020, invasion of Island 1) = Henry Gilliam, S.M.S. captain (glossary, male)."
+  },
+  {
+   "id": "u3025",
+   "en": "As part of training, fight the Vajra\nin a simulator battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3026",
+   "en": "Simulator training for Vajra attacks begins. The data recreates Vajra combat exactly, so treat this drill as real and wipe out the Vajra.",
+   "flags": [],
+   "notes": "Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3027",
+   "en": "Beat the expert gamers at the smash-hit\ngame \"Battroid Attack F\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3028",
+   "en": "Head-to-Head Valkyrie Simulation  ~BATTROID ATTACK!! F~\n                                  PLEASE INSERT COIN(S)",
+   "flags": [],
+   "notes": "Arcade attract-screen layout kept as MUF shipped the original Battroid Attack line (u2891)."
+  },
+  {
+   "id": "u3029",
+   "en": "Ozma: \"As of now, we at S.M.S. launch the rescue operation for the Galaxy\n      fleet's refugee ships! Mission code......\"",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker-label briefing in MUF's speaker layout (label, quote, indented second line)."
+  },
+  {
+   "id": "u3030",
+   "en": "Wipe out the Vajra that\nappeared in the Frontier fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3031",
+   "en": "The Vajra have followed the Galaxy refugee ship we rescued and appeared at the Frontier. Wipe them out at once so they get no closer to the Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3032",
+   "en": "Wipe out the Vajra while\nguarding the concert venue.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3033",
+   "en": "The Vajra have broken into the Frontier and are attacking a concert venue full of civilians. Protect the venue and wipe out the Vajra at once.",
+   "flags": [],
+   "notes": "Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3034",
+   "en": "Wipe out the rogue Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3035",
+   "en": "Unidentified units, likely rogue Zentradi, are near Jupiter. Break their will to fight with Operation Minmay, then annihilate them.",
+   "flags": [],
+   "notes": "Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3036",
+   "en": "Wipe out the mysterious mecha\nrampaging through the city.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3037",
+   "en": "Mecha from a mysterious fleet slipped through our defenses and invaded Earth. Wipe out the mobile weapons ravaging the city as if seeking something. Now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3038",
+   "en": "Escort Lt. Silvie to the target area\nand annihilate the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3039",
+   "en": "At the Moon Festival, the Mardook forces abducted Lt. Silvie. Escort Lt. Silvie as she escapes, then annihilate the Mardook forces.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Moon Festival (Macross II event) is not in the glossary. Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3040",
+   "en": "We've rescued the civilians held captive on a Mardook battleship, but we haven't escaped the enemy ship yet. Get out of it at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3041",
+   "en": "Wipe out the Mardook forces seeking\nto destroy Earth's culture.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3042",
+   "en": "The Mardook forces have launched an all-out assault to destroy Earth's culture. Protect Earth's culture at all costs and wipe out the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3043",
+   "en": "The Mardook advance won't stop, and the U.N. Forces are now in dire straits. To break out of this, the Macross will fire its main gun. Escort the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3044",
+   "en": "As part of the event, fight a\nmock battle against Capt. Nexx.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Nekkusu taii = Nexx Gilbert (glossary needs_check); the Japanese uses the short name."
+  },
+  {
+   "id": "u3045",
+   "en": "As part of the Moon Festival events, a mock battle now begins. Win the mock battle against U.N. Forces ace pilot Capt. Nexx.",
+   "flags": [
+    "name_missing",
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "u3046",
+   "en": "As part of training, fight a mock\nbattle against the Faerie Squadron.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Fearii Riidaa-tai = Faerie Squadron (glossary provisional)."
+  },
+  {
+   "id": "u3047",
+   "en": "To prepare for battle with the rogue Zentradi, a mock battle now begins. Win the mock battle against the Faerie Squadron, led by Lt. Silvie Gena.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Faerie Squadron (glossary provisional)."
+  },
+  {
+   "id": "u3048",
+   "en": "As part of conversion training,\nfight a mock battle on the ground.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3049",
+   "en": "As part of conversion training, a mock battle on the ground now begins. It may be training, but stay sharp: wipe out the enemy and win the mock battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3050",
+   "en": "As part of conversion training,\nfight a mock battle in the air.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3051",
+   "en": "As part of conversion training, a mock battle in the air now begins. It may be training, but stay sharp: wipe out the enemy and win the mock battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3052",
+   "en": "As part of conversion training,\nfight a mock battle at sea.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3053",
+   "en": "As part of conversion training, a mock battle at sea now begins. It may be training, but stay sharp: wipe out the enemy and win the mock battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3054",
+   "en": "As part of conversion training,\nfight a mock battle in space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3055",
+   "en": "As part of conversion training, a mock battle in space now begins. It may be training, but stay sharp: wipe out the enemy and win the mock battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3056",
+   "en": "Believe in the power of culture\nand destroy Boddole Zer's fleet.",
+   "flags": [],
+   "notes": "Boddole Zer kantai: Boddole Zer's fleet (not the glossary's 'Boddole Zer Main Fleet', which is a different Japanese term)."
+  },
+  {
+   "id": "u3057",
+   "en": "A huge Zentradi horde has appeared and is about to invade Earth again. Annihilate the Zentradi forces at all costs to protect Earth from this crisis.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3058",
+   "en": "Support Basara in his song\nbattle with an unknown unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3059",
+   "en": "A Song Energy experiment detected abnormal Song Energy from a remote planet. Investigate it with Basara, who has already rushed ahead.",
+   "flags": [],
+   "notes": "Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3060",
+   "en": "Wipe out the Vajra\nto defend Macross City.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3061",
+   "en": "Vajra controlled by Grace have suddenly appeared in Macross City on Earth. We can't let Macross City come to harm. Wipe out the Vajra at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3062",
+   "en": "To retake the communications relay base,\nwipe out Vindirance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3063",
+   "en": "We move to retake the relay base seized by the anti-U.N. group Vindirance. Enter via the canyon and wipe out the Vindirance guards.",
+   "flags": [],
+   "notes": "'communications' dropped from 'relay base' to fit two lines (the objective row u3062 names it in full). Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3064",
+   "en": "Wipe out Vindirance, who are scheming\nto fold to Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3065",
+   "en": "Vindirance is plotting a fold to Earth. It must be stopped at all costs, so reaction weapons are authorized for this operation. Wipe out Vindirance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3066",
+   "en": "To shatter Latence's ambitions,\ndestroy the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3067",
+   "en": "We'll now descend to Earth and infiltrate Macross City. To shatter Latence's ambitions, destroy the jamming system mounted in the Macross's head.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3068",
+   "en": "Shake off the oncoming Nightmares!",
+   "flags": [],
+   "notes": "Akumu = Nightmare, the VF-17's nickname (cf. u0314 'Nightmare Assault Operation')."
+  },
+  {
+   "id": "u3069",
+   "en": "The VF-17 series: variable fighters nicknamed \"Nightmare.\" Wipe out the VF-17 series to shake off the swarm of Nightmares bearing down on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3070",
+   "en": "Win the battle against the units\nwith \"Red\" as their main color.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3071",
+   "en": "\"Red\": the color said to stand for passion... Win the battle against these hot-blooded guys, who let that very feeling blaze wildly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3072",
+   "en": "Win the battle against the units\nwith \"Blue\" as their main color.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3073",
+   "en": "\"Blue\": the color said to stand for calm... Win the battle against these cool guys, who are never swayed by that kind of feeling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3074",
+   "en": "Destroy every generation of Queadluun\nas you head for the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3075",
+   "en": "While you toured a base storing every generation of Queadluun, the Queadluuns somehow went on a rampage. Destroy them as you escape to the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3076",
+   "en": "Win the battle against every\ngeneration of Destroid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3077",
+   "en": "Overshadowed by variable fighters, the Destroids rarely got to shine. Now they have revolted to show what they can do. Put them down.",
+   "flags": [],
+   "notes": "Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3078",
+   "en": "Win the mock battle against the special\nforces unit Moon Island Platoon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3079",
+   "en": "A mock battle now begins vs. the special forces unit codenamed \"Moon Island\". They're all problem children, but reportedly skilled. Defeat Moon Island.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3080",
+   "en": "Annihilate the large battleships.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3081",
+   "en": "An observation ship reports a horde of large battleships advancing on Earth. We can't let them get any closer to Earth. Annihilate them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3082",
+   "en": "Surpass the Super Dimension Fortress!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Choujikuu yousai = Super Dimension Fortress, as in the glossary work title. 240 px against a ~175 px estimate; the name cannot be shortened, and shipped objective lines reach 274 px."
+  },
+  {
+   "id": "u3083",
+   "en": "The Macross ended the interstellar war, and colony ships across the galaxy took its name. Beat them and surpass the Super Dimension Fortress!",
+   "flags": [],
+   "notes": "Imin-sen = colony (emigrant) ships, the Macross-named fleets. Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3084",
+   "en": "Win the dogfight against variable\nfighters of every generation.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "Mission objective rows: TM lines over the per-line estimate kept as MUF shipped them (widest shipped objective line in the corpus: 274 px); new objective lines kept at or under ~274 px.",
+   "u3017, u3018: Sagittarius Squadron is provisional in the glossary.",
+   "u3044, u3045: Capt. Nexx = Nexx Gilbert, glossary status needs_check.",
+   "u3046, u3047: Faerie Squadron (Fairy Leader-tai) is provisional in the glossary.",
+   "u3029: Ozma's speaker-label briefing written in MUF's speaker layout rather than one paragraph.",
+   "u3071, u3073: 'yatsura' rendered 'guys' (opponent units, no specific people).",
+   "u3083: rendered 'Beat the ships that bear the Macross name' for the Japanese 'win the battle against the ships bearing the Macross name'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Moon Festival (Muun Fesutibaru, Macross II event; u3039, u3045)"
+  ],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,497 @@
+{
+ "slice": 36,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c02592",
+   "en": "Brera, my drink.",
+   "flags": [],
+   "notes": "Grace to Brera; shared by ext_oth_903/904, both player genders."
+  },
+  {
+   "id": "c02593",
+   "en": "Yes, Grace-sama.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02594",
+   "en": "What's on my schedule after this?",
+   "flags": [],
+   "notes": "Speaker's own schedule (Grace)."
+  },
+  {
+   "id": "c02595",
+   "en": "Yes.\nAt 14:00, a meeting with the record company.\nAt 14:30, picking up Sheryl-sama.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02596",
+   "en": "At 14:45, a meeting about a TV program.\nAt 15:00, a magazine interview.\n...............",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02597",
+   "en": "...............\n...That is the schedule.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02598",
+   "en": "I see... Thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02599",
+   "en": "(Just what's going on between\nGrace-san and Brera-san...?)",
+   "flags": [],
+   "notes": "Inner monologue, both genders."
+  },
+  {
+   "id": "c02600",
+   "en": "(Huh... Isn't that...?)",
+   "flags": [],
+   "notes": "Also opens ext_rnk_003 (both genders)."
+  },
+  {
+   "id": "c02601",
+   "en": "Oh, \\p.\nWhat are you doing here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02602",
+   "en": "I was just wandering around.\nWhat about you, Ozma-san?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02603",
+   "en": "M-me?\nI'm, uh... here for that thing...",
+   "flags": [],
+   "notes": "'Ore wa da na, are da': deliberately vague 'that thing'."
+  },
+  {
+   "id": "c02604",
+   "en": "That thing, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02605",
+   "en": "Yeah, that thing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02606",
+   "en": "\\p,\nyou're free right now, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02607",
+   "en": "Huh?\nMe?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02608",
+   "en": "(Umm...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02609",
+   "en": "Sure, I'm free.",
+   "flags": [],
+   "notes": "Choice and also the spoken line after it."
+  },
+  {
+   "id": "c02610",
+   "en": "I just remembered something I have to do!!",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c02611",
+   "en": "Sorry, but I need you to come with me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02612",
+   "en": "...and help me pick out a present for Ranka...",
+   "flags": [],
+   "notes": "Continues c02611."
+  },
+  {
+   "id": "c02613",
+   "en": "Oh, sure. Roger that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02614",
+   "en": "(Glad it wasn't anything weird.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02615",
+   "en": "You really helped me out,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02616",
+   "en": "Did I? I'm honored I could be of use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02617",
+   "en": "You show real promise, you know that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02618",
+   "en": "I-I don't think that's really true...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02619",
+   "en": "...Keep on being a good friend to Ranka, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02620",
+   "en": "Yes, absolutely!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02621",
+   "en": "But don't push your luck... Got it?",
+   "flags": [],
+   "notes": "'Choushi ni wa noru na yo': don't get cocky / get ideas."
+  },
+  {
+   "id": "c02622",
+   "en": "Well then, get home safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02623",
+   "en": "Bye~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02624",
+   "en": "(Ozma-san's scary, but he's a good big brother\nwho really cares about Ranka.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02625",
+   "en": "I-I just remembered something I have to do!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02626",
+   "en": "Don't you lie to me!\nYou damn idiot!!",
+   "flags": [],
+   "notes": "Bakayarou at full strength; shared by both genders."
+  },
+  {
+   "id": "c02627",
+   "en": "Forget it!\nJust go! Go wherever you want!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02628",
+   "en": "I-I'b sooorry...!!",
+   "flags": [],
+   "notes": "Japanese is a tearful, slurred 'sumimasen'; kept the slur."
+  },
+  {
+   "id": "c02629",
+   "en": "(Ozma-san is way too scary!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02630",
+   "en": "I was doing some window shopping.\nWhat about you, Ozma-san?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02631",
+   "en": "Huh?\nMe?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02632",
+   "en": "(Glad it wasn't anything weird~)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02633",
+   "en": "(Ozma-san's scary, but he's a good big brother\nwho really cares about Ranka-chan.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02634",
+   "en": "(Oh right, today's the day of S.M.S.\nspecial training...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02635",
+   "en": "\\p.\nSo you finally showed up...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02636",
+   "en": "Captain Ozma! Thanks for having me!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Otsukaresama desu' as a greeting to a superior; no exact English. Shared by both genders."
+  },
+  {
+   "id": "c02637",
+   "en": "Looks like you're fired up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02638",
+   "en": "Then let's get started.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02639",
+   "en": "...Huh?\nWhere are Alto and the others?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02640",
+   "en": "Today it's a special program just for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02641",
+   "en": "Um, my stomach hurts. Can I leave early?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02642",
+   "en": "You damn idiot!!!!!!",
+   "flags": [],
+   "notes": "Bakayarou; shared by both genders."
+  },
+  {
+   "id": "c02643",
+   "en": "Today's training is to whip that slack\nattitude of yours back into shape!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02644",
+   "en": "You got that?!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02645",
+   "en": "Y-yiiikes!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02646",
+   "en": "Even I'm not a demon.\nI'll let you choose your own training menu.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02647",
+   "en": "(I've got nothing but a bad feeling about this~)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02648",
+   "en": "1. 50 km march wearing EX-Gear",
+   "flags": [],
+   "notes": "Spoken by Ozma and also a choice."
+  },
+  {
+   "id": "c02649",
+   "en": "2. 100 sets of 100 push-ups, sit-ups\nand back extensions",
+   "flags": [],
+   "notes": "Spoken by Ozma and also a choice."
+  },
+  {
+   "id": "c02650",
+   "en": "3. 50-hour Valkyrie simulator endurance test",
+   "flags": [],
+   "notes": "Spoken by Ozma and also a choice."
+  },
+  {
+   "id": "c02651",
+   "en": "Now, pick whichever one you like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02652",
+   "en": "Th-that's impossible!\nAny of those would kill me for sure!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02653",
+   "en": "You can't do it 'cause you keep saying you can't!\nIf you put your mind to it, you can do any of 'em!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02654",
+   "en": "Now, choose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02655",
+   "en": "(Ngh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02656",
+   "en": "Number 1, then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02657",
+   "en": "The march, huh...\nComplete it, and you'll become a true warrior.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02658",
+   "en": "(More like a war casualty...)",
+   "flags": [],
+   "notes": "Pun on senshi (warrior) / senshi (killed in action)."
+  },
+  {
+   "id": "c02659",
+   "en": "Then let's go!\nFollow me!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02660",
+   "en": "Huh, you're coming too, Captain Ozma?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02661",
+   "en": "Of course I am!\nAs if I'd send a subordinate out alone!",
+   "flags": [],
+   "notes": "Shared by both genders: neutral 'a subordinate'."
+  },
+  {
+   "id": "c02662",
+   "en": "(...What's gonna happen to me...)",
+   "flags": [],
+   "notes": "x6: every branch, both genders."
+  },
+  {
+   "id": "c02663",
+   "en": "Tch, I forgot to get the EX-Gear overhauled...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02664",
+   "en": "Phew.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02665",
+   "en": "Clean the garage instead!\nGot it?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02666",
+   "en": "(Th-that was a close one...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02667",
+   "en": "Number 2, then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02668",
+   "en": "Basic training, huh. Your weakness is that\nyou lean on cheap tricks. Relearn the basics\nand turn them into an even bigger leap!!",
+   "flags": [],
+   "notes": "Generic basic training (not the class name)."
+  },
+  {
+   "id": "c02669",
+   "en": "Then let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02670",
+   "en": "Huh, you're doing it too, Captain Ozma?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02671",
+   "en": "Of course!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c02636: 'Otsukaresama desu' (greeting to a superior on arrival) rendered 'Thanks for having me!'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

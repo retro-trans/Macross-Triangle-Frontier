@@ -1,0 +1,529 @@
+{
+ "slice": 50,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p2_hbk/195",
+   "en": "Like hell I'll miss this scoop!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/320",
+   "en": "I was an idiot to expect anything from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/321",
+   "en": "Can't believe I, of all people, picked such a lousy subject.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/322",
+   "en": "Honestly, I'm amazed you made it back alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/323",
+   "en": "Good work! I'm counting on you next time too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/324",
+   "en": "Glad you made it back in one piece.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/325",
+   "en": "I'm shooting the moment of success. Give me a good face!",
+   "flags": [],
+   "notes": "toru heard in the wrong kanji (take vs film)."
+  },
+  {
+   "id": "p2_hbk/326",
+   "en": "Picking you as my subject was the right call.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/327",
+   "en": "You're the subject I picked! Of course you can pull this off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/328",
+   "en": "You saved me! Thanks to you, I got some great footage!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/329",
+   "en": "Man, you're something. I'm moved to tears by our friendship!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"an-ato-san\" unclear, probably \"anta (tte yatsu) wa\". otoko no yuujou (friendship between men): 320-331 are the male-partner lines."
+  },
+  {
+   "id": "p2_hbk/330",
+   "en": "With you, I feel like I can land even bigger scoops.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"tokudane\" (scoop) written with wrong kanji."
+  },
+  {
+   "id": "p2_hbk/331",
+   "en": "You're the best partner I could ask for!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/360",
+   "en": "Figures. With you, I couldn't get any footage the viewers would like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/361",
+   "en": "Choosing you as my subject was a mistake from the start.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"ana kara\" is \"hana kara\" (from the start)."
+  },
+  {
+   "id": "p2_hbk/362",
+   "en": "I'm amazed you made it back alive, flying like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/363",
+   "en": "Not bad at all! Good work!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/364",
+   "en": "Get me a scoop next time too. I'm counting on you.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"tokudane\" (scoop) written with wrong kanji."
+  },
+  {
+   "id": "p2_hbk/365",
+   "en": "Your skills weren't bad at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/366",
+   "en": "Thanks to you, I got some great footage. Thanks a lot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/367",
+   "en": "I don't mind that reckless streak of yours.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/368",
+   "en": "Skilled as ever. Let's keep working together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/369",
+   "en": "You really are a picture-perfect subject. I'm in awe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/370",
+   "en": "To thank you for the great footage, let me buy you a meal.",
+   "flags": [],
+   "notes": "rei (thanks) written with the wrong kanji in the transcript."
+  },
+  {
+   "id": "p2_hbk/371",
+   "en": "A behind-the-scenes documentary about you could be fun too.",
+   "flags": [],
+   "notes": "micchaku dokyumento: an up-close documentary."
+  },
+  {
+   "id": "p2_hbk/600",
+   "en": "Why do the Zentradi have songs?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/601",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/602",
+   "en": "Stop it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/603",
+   "en": "I'll land that scoop, no matter what.",
+   "flags": [],
+   "notes": "Polite form (to a superior); tokudane."
+  },
+  {
+   "id": "p2_hbk/604",
+   "en": "My report will stop this war! All right, let's do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/605",
+   "en": "Silvie, are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/606",
+   "en": "Yeah, I came to rescue you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/607",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Gasp (\"a!\")."
+  },
+  {
+   "id": "p2_hbk/608",
+   "en": "Thanks, Silvie. You believed in me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/609",
+   "en": "What's that...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/610",
+   "en": "Yeah.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "0.8 s \"aa\"; could be a reply or a gasp. Read as a reply."
+  },
+  {
+   "id": "p2_hbk/611",
+   "en": "We open every comm channel on the Macross. Let's try it, Silvie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/612",
+   "en": "Aren't we here because we believe in the Macross's power too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/613",
+   "en": "Why not take one more chance? On Ars's ship.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ars: glossary entry is provisional. kakeru read as \"gamble on\". Could also be a mishearing."
+  },
+  {
+   "id": "p2_hbk/614",
+   "en": "Ishtar's kindness is reaching everyone's hearts.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"Ishitaru\" = Ishtar."
+  },
+  {
+   "id": "p2_hbk/615",
+   "en": "I came to catch Silvie in action on camera!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/000",
+   "en": "Silvie Gena, launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/001",
+   "en": "Ready to sortie. Here we go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/002",
+   "en": "I'm launching too. Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/003",
+   "en": "Look out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/004",
+   "en": "Not good enough.",
+   "flags": [],
+   "notes": "amai wa ne (too naive / too soft)."
+  },
+  {
+   "id": "p2_slv/005",
+   "en": "No problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/006",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream."
+  },
+  {
+   "id": "p2_slv/007",
+   "en": "You'll pay for that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/008",
+   "en": "You're the worst.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/009",
+   "en": "And this one too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/010",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Battle shout (taa)."
+  },
+  {
+   "id": "p2_slv/011",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Shout (ha)."
+  },
+  {
+   "id": "p2_slv/012",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Cry (aa)."
+  },
+  {
+   "id": "p2_slv/013",
+   "en": "No!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/014",
+   "en": "This is bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/015",
+   "en": "Tch!",
+   "flags": [],
+   "notes": "As Ozma 124."
+  },
+  {
+   "id": "p2_slv/016",
+   "en": "I can't dodge it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/017",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt (ku)."
+  },
+  {
+   "id": "p2_slv/018",
+   "en": "Here's a little extra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/019",
+   "en": "You're wide open.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/020",
+   "en": "You won't get away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/100",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/101",
+   "en": "I'll show you what I can do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/102",
+   "en": "Failure isn't an option! I'll pull this off, no matter what!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/103",
+   "en": "I'll be your opponent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/104",
+   "en": "Enemy acquired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/105",
+   "en": "Come and get me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/106",
+   "en": "This ends now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/107",
+   "en": "I'm betting everything on this strike!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/108",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/109",
+   "en": "Give it up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/110",
+   "en": "You still want more?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/111",
+   "en": "Is that your best?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/112",
+   "en": "Sorry about this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/113",
+   "en": "You're no match for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/114",
+   "en": "How weak.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/115",
+   "en": "Target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/116",
+   "en": "If I can take that down...",
+   "flags": [],
+   "notes": "Trails off in Japanese."
+  },
+  {
+   "id": "p2_slv/117",
+   "en": "I'll take down the target.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3956 p2_hbk/610: 0.8 s \"aa\"; could be a reply or a gasp. Read as a reply.",
+   "row 3959 p2_hbk/613: Ars: glossary entry is provisional. kakeru read as \"gamble on\". Could also be a mishearing."
+  ],
+  "whisper_doubt": [
+   "row 3931 p2_hbk/329: Transcript \"an-ato-san\" unclear, probably \"anta (tte yatsu) wa\". otoko no yuujou (friendship between men): 320-331 are the male-partner lines.",
+   "row 3932 p2_hbk/330: Transcript \"tokudane\" (scoop) written with wrong kanji.",
+   "row 3935 p2_hbk/361: Transcript \"ana kara\" is \"hana kara\" (from the start).",
+   "row 3938 p2_hbk/364: Transcript \"tokudane\" (scoop) written with wrong kanji.",
+   "row 3960 p2_hbk/614: Transcript \"Ishitaru\" = Ishtar."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

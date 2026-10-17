@@ -1,0 +1,507 @@
+{
+ "slice": 297,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c21327",
+   "en": "Don't mention it. Feel free to rely on me\nanytime. Hehe, see you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21328",
+   "en": "(Claire-senpai's so caring and grown-up...\nKlan-senpai, on the other hand, looks younger\nthan me no matter how you look at it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21329",
+   "en": "(Claire-senpai and Klan-senpai...\nI'll probably be counting on them a lot,\nso I'd better make sure we get along.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21330",
+   "en": "(Ugh, this is bad...\nI was only trying to get to the library,\nand now I'm lost inside my own school...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21331",
+   "en": "I'm \\p.\nIt's nice to meet you too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21332",
+   "en": "Sorry, \\p-chan...\nWould you mind waiting a little\nbefore I show you to the library?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21333",
+   "en": "(Michel-kun, what on earth did you do\nto this kid...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21334",
+   "en": "I'm \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21335",
+   "en": "(Claire-senpai's so caring and grown-up...\nKlan-senpai, on the other hand, looks younger\nthan me no matter how you look at it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21336",
+   "en": "(Claire-senpai and Klan-senpai...\nI'll probably be counting on them a lot,\nso I'd better make sure we get along.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21337",
+   "en": "(All this shopping's made me hungry...)",
+   "flags": [],
+   "notes": "Also used with variant 'single' and in a non-dialogue entry (speaker '-'); gender-neutral."
+  },
+  {
+   "id": "c21338",
+   "en": "(I know, I'll grab lunch at the Super\nDimension Restaurant, Nyan-Nyan.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Choujikuu Hanten 'Nyan-Nyan': 'Super Dimension Restaurant' not in the glossary (Nyan-Nyan is). Shared male/female."
+  },
+  {
+   "id": "c21339",
+   "en": "Welcome to Nyan-Nyan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21340",
+   "en": "Wait, huh? Nanase?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21341",
+   "en": "Oh, if it isn't \\p-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21342",
+   "en": "Oh right, Nanase, you work part-time\nat Nyan-Nyan, don't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21343",
+   "en": "Yes, that's right.\nThis is the first time we've run into each other\nwhile I'm at work here, isn't it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21344",
+   "en": "Oops, I'd better cut the chatter,\nor the manager will scold me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21345",
+   "en": "What would you like to order?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21346",
+   "en": "Let's see... Then I'll have the Galaxy Ramen.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ginga Raamen -> 'Galaxy Ramen'; menu item not in the glossary."
+  },
+  {
+   "id": "c21347",
+   "en": "Certainly.\nPlease wait just a moment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21348",
+   "en": "(Haah, I can't wait for my Galaxy Ramen...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21349",
+   "en": "Here you are! One Fried Dragon Chicken\nset meal, sorry for the wait!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ranka ('??? (woman)') bringing the wrong order. okyakusama (customer) not rendered as sir/ma'am: shared by both player genders. 'Fried Dragon Chicken' not in the glossary."
+  },
+  {
+   "id": "c21350",
+   "en": "Huh?\nBut I only ordered the Galaxy Ramen...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21351",
+   "en": "Ranka-san,\nthe Fried Dragon Chicken set goes to Table 3.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21352",
+   "en": "...Ah!\nI-I'm so sorry about that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21353",
+   "en": "You'd better hurry and serve Table 3.\nThe manager's watching, too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21354",
+   "en": "R-right! Thanks, Nana-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21355",
+   "en": "Sorry, \\p-kun.\nRanka-san can be a bit of a scatterbrain\nsometimes...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21356",
+   "en": "I'm so sorry about earlier.",
+   "flags": [],
+   "notes": "To the player as a customer (okyakusama)."
+  },
+  {
+   "id": "c21357",
+   "en": "Nah, don't worry about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21358",
+   "en": "\\p-kun says it's fine,\nso don't worry, Ranka-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21359",
+   "en": "Huh?\nNana-chan, you know this customer?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21360",
+   "en": "Yes, we're classmates.",
+   "flags": [],
+   "notes": "Kurasumeito as in the Japanese, though c21168 had Nanase in a different course."
+  },
+  {
+   "id": "c21361",
+   "en": "Ohh, I see.\nThen I'd better introduce myself too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21362",
+   "en": "I'm Ranka Lee.\nI go to St. Maria Academy, so we're at different\nschools, but it's nice to meet you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21363",
+   "en": "Nice to meet you too, Ranka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21364",
+   "en": "St. Maria Academy... That's the famous\nprestigious school for young ladies, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21365",
+   "en": "My big bro kept nagging me,\n\"You're going to St. Maria for high school,\nno matter what!\"",
+   "flags": [],
+   "notes": "Onii-chan -> 'big bro' (brief: kinship words translated)."
+  },
+  {
+   "id": "c21366",
+   "en": "Huh, so you have an older brother, Ranka?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21367",
+   "en": "Yes. He's a kind, great big brother, but\nhe's a little too overprotective of me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21368",
+   "en": "I'm not a little kid anymore...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21369",
+   "en": "That just shows how much he cares\nabout you, Ranka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21370",
+   "en": "Of course I know that.\nFor my sake, he even quit being a pilot\nbecause it's dangerous, and took a desk job.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21371",
+   "en": "He really is a good brother, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21372",
+   "en": "He is, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21373",
+   "en": "I kinda wish he'd stop bragging about me\nand showing my pictures off to the people\nat his company...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21374",
+   "en": "Y-yeah, that's definitely a bit much...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21375",
+   "en": "I'm sure Ozma-san just wanted to show lots\nof people how cute you are, Ranka-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21376",
+   "en": "I understand exactly how Ozma-san feels...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21377",
+   "en": "I'd do the same...!",
+   "flags": [],
+   "notes": "watashi datte...! = 'me too / I would too'."
+  },
+  {
+   "id": "c21378",
+   "en": "C-cut it out, Nana-chan...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21379",
+   "en": "(Nanase really does adore Ranka, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21380",
+   "en": "(And this Ozma-san, Ranka's brother,\nseems to dote on her a whole lot too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21381",
+   "en": "(I hope I can become good friends\nwith Ranka too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21382",
+   "en": "(Hmm, but I feel like I'm forgetting\nsomething important...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21383",
+   "en": "(...Ah!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21384",
+   "en": "Sorry to interrupt when you're all\nhaving such a good chat, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21385",
+   "en": "Huh?\nWhat's wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21386",
+   "en": "When's my Galaxy Ramen coming?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21387",
+   "en": "...Ah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21388",
+   "en": "Aaah! I'm so sorry!\nJust a moment, please,\n\\p-kun!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21389",
+   "en": "R-Ranka-san!\nThe manager will get mad if you run\nin the restaurant!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21390",
+   "en": "(Haha, Ranka sure is an energetic girl.\nShe's never boring to watch...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21391",
+   "en": "(I kinda get why everyone likes Ranka.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21392",
+   "en": "(All this shopping's\nmade me hungry...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21393",
+   "en": "Oh, if it isn't \\p-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21394",
+   "en": "Oh right, Nanase, you work part-time\nat Nyan-Nyan, don't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21395",
+   "en": "Let's see... Then I'll have the Galaxy Ramen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21396",
+   "en": "(Haah,\nI can't wait for my Galaxy Ramen...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21397",
+   "en": "Huh?\nBut I only ordered the Galaxy Ramen...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21398",
+   "en": "Sorry, \\p-san.\nRanka-san can be a bit of a scatterbrain\nsometimes...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21399",
+   "en": "Oh, don't worry about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21400",
+   "en": "\\p-san says it's fine,\nso don't worry, Ranka-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21401",
+   "en": "Nice to meet you too, Ranka-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21402",
+   "en": "St. Maria Academy... That's the famous\nprestigious school for young ladies, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21403",
+   "en": "Oh, so you have an older brother, Ranka-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21404",
+   "en": "That just shows how much he cares\nabout you, Ranka-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21405",
+   "en": "He really is a good brother, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21406",
+   "en": "(Nanase really does adore Ranka-chan, huh.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c21338: Choujikuu Hanten -> 'Super Dimension Restaurant' (not in the glossary).",
+   "c21346 etc.: menu items Ginga Raamen 'Galaxy Ramen' and Furaido Doragon Chikin teishoku 'Fried Dragon Chicken set meal' (c21349/c21351) are not in the glossary.",
+   "c21360: Nanase calls the player a classmate although she said in c21168 she is in a different course; kept as written."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Choujikuu Hanten 'Super Dimension Restaurant'",
+   "Ginga Raamen 'Galaxy Ramen'",
+   "Fried Dragon Chicken set meal"
+  ],
+  "unfinished": []
+ }
+}

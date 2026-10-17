@@ -1,0 +1,1958 @@
+{
+ "slice": 17,
+ "rows_in_slice": 320,
+ "rows_examined": 320,
+ "rows": [
+  {
+   "id": "u2056",
+   "en": "1 Respawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2057",
+   "en": "2 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2058",
+   "en": "3 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2059",
+   "en": "4 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2060",
+   "en": "5 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2061",
+   "en": "6 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2062",
+   "en": "7 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2063",
+   "en": "8 Respawns",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2064",
+   "en": "Unlimited",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2065",
+   "en": "Force 100",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2066",
+   "en": "Force 200",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2067",
+   "en": "Force 300",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2068",
+   "en": "Force 400",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2069",
+   "en": "Force 500",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2070",
+   "en": "Force 600",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2071",
+   "en": "Force 700",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2072",
+   "en": "Force 800",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2073",
+   "en": "Force 900",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2074",
+   "en": "Force 1000",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2075",
+   "en": "Force 2000",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2076",
+   "en": "Force 3000",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2077",
+   "en": "Free Battle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2078",
+   "en": "Force Battle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2079",
+   "en": "Campaign",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2080",
+   "en": "Free Mission",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2081",
+   "en": "Versus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2082",
+   "en": "Co-op",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2083",
+   "en": "An error has occurred.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2084",
+   "en": "No Title",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2085",
+   "en": "Not enough players have joined the match.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2086",
+   "en": "A match can't have everyone on the same team.",
+   "flags": [],
+   "notes": "tm was 373 px > 315; reworded, same meaning."
+  },
+  {
+   "id": "u2087",
+   "en": "\nWaiting for other players.\nPlease wait a moment.\n×: Cancel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2088",
+   "en": "\nStart wireless play with this many players.\nAre you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2089",
+   "en": "Stop recruiting opponents.\nAre you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2090",
+   "en": "\nCurrent players (%d/%d)\n",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2091",
+   "en": "No units can sortie under the current\n\"Unit\" rule setting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2092",
+   "en": "The connection was refused.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2093",
+   "en": "Disconnected from the host.",
+   "flags": [],
+   "notes": "tm 'You were disconnected from the host.' was 237 px > 227."
+  },
+  {
+   "id": "u2094",
+   "en": "Returning to the mission select screen.\nAre you sure?",
+   "flags": [],
+   "notes": "tm line 1 was 273 px > 262."
+  },
+  {
+   "id": "u2095",
+   "en": "The selected pilot cannot sortie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2096",
+   "en": "The player and support cannot sortie\nas the same character.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2097",
+   "en": "Due to the \"Unit\" rule setting, the current unit\ncannot sortie with this add-on equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2098",
+   "en": "The selected pilot cannot sortie\nin this unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2099",
+   "en": "The mission will be aborted.\nAre you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2100",
+   "en": "The mission will be aborted and retried.\nAre you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2101",
+   "en": "The screenshots you took will not be\nsaved. Are you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2102",
+   "en": "Add-on Equipment",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tm kept (glossary term used by all the add-on messages); 117 px vs ~70 px estimate for a lone label. 'Add-ons' (50 px) is the fallback if the box really is that narrow."
+  },
+  {
+   "id": "u2103",
+   "en": "Player %d has left, so\nwireless play will now end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2104",
+   "en": "Not enough players.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2105",
+   "en": "Connecting.\nPlease wait a moment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2106",
+   "en": "The mission will be retried.\nAre you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2107",
+   "en": "No replay data has been recorded.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2108",
+   "en": "Save the replay data?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2109",
+   "en": "Play the replay data?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2110",
+   "en": "Replay Data",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2111",
+   "en": "This is a special mission, so\nreplays cannot be saved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2112",
+   "en": "Unsaved screenshots will be\ndeleted. Are you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2113",
+   "en": "Add-on equipment not allowed in this mission is selected.\nIt will be removed automatically when you sortie.\nStart the mission\n\"%s\"?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2114",
+   "en": "Start the mission\n\"%s\"?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2115",
+   "en": "Resume the operation in progress?\n",
+   "flags": [],
+   "notes": "tm 'Resume the operation from where you left off?' was 295 px > 240."
+  },
+  {
+   "id": "u2116",
+   "en": "Loading was interrupted.\nTry loading again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2117",
+   "en": "Saving was interrupted.\nTry saving again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2118",
+   "en": "Data transfer complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2119",
+   "en": "Save complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2120",
+   "en": "Try saving the data again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2121",
+   "en": "New Data",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2122",
+   "en": "Save Data",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2123",
+   "en": "Macross Triangle Frontier save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2124",
+   "en": "Macross Triangle Frontier replay data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2125",
+   "en": "Installation failed because the system entered sleep mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2126",
+   "en": "The install data is corrupted.\nThe install data setting has been turned OFF.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2127",
+   "en": "There is no install data on the storage media.\nThe install data setting has been turned OFF.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2128",
+   "en": "The storage media was not inserted during the check.\nThe install data setting has been turned OFF.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2129",
+   "en": "The storage media was removed while loading.\nThe install data setting has been turned OFF.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2130",
+   "en": "Failed to load the install data.\nThe install data setting has been turned OFF.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2131",
+   "en": "Cpl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2132",
+   "en": "Sgt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2133",
+   "en": "Sgt. Maj.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2134",
+   "en": "WO",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2135",
+   "en": "2nd Lt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2136",
+   "en": "Lt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2137",
+   "en": "Capt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2138",
+   "en": "Major",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2139",
+   "en": "Lt. Col.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2140",
+   "en": "Col.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2141",
+   "en": "Civilian",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2142",
+   "en": "Div. Cmdr.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2143",
+   "en": "Ldg. Airman",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2144",
+   "en": "Cmdr.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2145",
+   "en": "C-in-C",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2146",
+   "en": "Chief",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2147",
+   "en": "Capt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2148",
+   "en": "Mayor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2149",
+   "en": "Mayan Island",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2150",
+   "en": "Sara Nome (Bird Human)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2151",
+   "en": "Milia Fallyna (Micronian)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2152",
+   "en": "Lynn Minmay (Swimsuit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2153",
+   "en": "Nyan-Nyan Chinese Restaurant",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2154",
+   "en": "Lynn Minmay (Love Drifts Away)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2155",
+   "en": "Lynn Minmay (Casual)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2156",
+   "en": "Lynn Minmay (Final Battle)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2157",
+   "en": "Lynn Minmay (Medley)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2158",
+   "en": "Lynn Minmay (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2159",
+   "en": "Meltrandi Forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2160",
+   "en": "Maximilian Jenius (Giant)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2161",
+   "en": "General Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2162",
+   "en": "Basara Nekki (7)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2163",
+   "en": "Maximilian Jenius (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2164",
+   "en": "Maximilian Jenius (Captain)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2165",
+   "en": "City 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2166",
+   "en": "Basara Nekki (Shirt)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2167",
+   "en": "Basara Nekki (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2168",
+   "en": "Planet Zola",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2169",
+   "en": "Ranka Lee (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2170",
+   "en": "Vector Productions",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2171",
+   "en": "Ranka Lee (Kira☆)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2172",
+   "en": "Ranka Lee (Dress)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2173",
+   "en": "Macross Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2174",
+   "en": "Ranka Lee (Hypnotized)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2175",
+   "en": "Ranka Lee (Movie)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2176",
+   "en": "Sheryl Nome (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2177",
+   "en": "Macross Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2178",
+   "en": "Sheryl Nome (Military Uniform)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2179",
+   "en": "Sheryl Nome (Final Battle)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2180",
+   "en": "Sheryl Nome (White Rabbit)",
+   "flags": [],
+   "notes": "Costume name, literal (shiro usagi)."
+  },
+  {
+   "id": "u2181",
+   "en": "Sheryl Nome (Obelisk)",
+   "flags": [],
+   "notes": "Obelisk = Sheryl's song in The False Songstress; not in the songs glossary."
+  },
+  {
+   "id": "u2182",
+   "en": "Grace O'Connor (Vajra Queen)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2183",
+   "en": "Grace O'Connor (Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2184",
+   "en": "Ishtar (Song Priestess)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "JP descriptor 'uta miko' (song shrine maiden). Glossary calls her a Mardook Emulator; 'Song Priestess' is a literal rendering of the costume/variant label."
+  },
+  {
+   "id": "u2185",
+   "en": "Gary Murdoch (Tracksuit)",
+   "flags": [],
+   "notes": "jaaji = school tracksuit."
+  },
+  {
+   "id": "u2186",
+   "en": "Hilda V. Bergen (Tracksuit)",
+   "flags": [],
+   "notes": "jaaji = school tracksuit."
+  },
+  {
+   "id": "u2187",
+   "en": "VF-0D (Standard)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2188",
+   "en": "Multipurpose Carrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2189",
+   "en": "Missile Destroyer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2190",
+   "en": "AFOS Fragment",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2191",
+   "en": "VF-1A (Kakizaki, TV)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2192",
+   "en": "VF-1A (Kakizaki, Movie)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2193",
+   "en": "VF-1A (Milia)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2194",
+   "en": "Cat's Eye",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2195",
+   "en": "Liaison Shuttle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2196",
+   "en": "ARMD Space Carrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2197",
+   "en": "Nousjadeul-Ger (Purple)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2198",
+   "en": "Nousjadeul-Ger (Green)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2199",
+   "en": "Queadluun-Rau (Green)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2200",
+   "en": "Air Combat Pod",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2201",
+   "en": "Quel-Quallie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2202",
+   "en": "Heavy Attack Craft",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2203",
+   "en": "Thuverl-Salan (Green)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2204",
+   "en": "Thuverl-Salan (Brown)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2205",
+   "en": "Thuverl-Salan (Purple)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2206",
+   "en": "Vrlitwhai's Flagship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2207",
+   "en": "Milia's Ship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2208",
+   "en": "Drone",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2209",
+   "en": "Bomber",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2210",
+   "en": "Laser Satellite",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2211",
+   "en": "Varauta Ship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2212",
+   "en": "Gigile's Ship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2213",
+   "en": "Varauta Fleet Flagship Carrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2214",
+   "en": "Queadluun-Rau (Rogue Meltrandi)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2215",
+   "en": "VF-11C (Purple)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2216",
+   "en": "Galaxy Whale",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2217",
+   "en": "Galaxy Whale (White)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2218",
+   "en": "Reaction Weapon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2219",
+   "en": "Poachers' Mothership",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2220",
+   "en": "VF-25 (Standard)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2221",
+   "en": "Queadluun-Rhea (Temjin)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2222",
+   "en": "Ghost (Luca)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2223",
+   "en": "Ghost V-9",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2224",
+   "en": "Dalfim",
+   "flags": [
+    "name_missing",
+    "uncertain"
+   ],
+   "notes": "Glossary entry exists with empty en, status needs_research. Phonetic rendering of 'Darufimu' until someone identifies the unit."
+  },
+  {
+   "id": "u2225",
+   "en": "Sheryl's Concert Ship",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary (provisional): 'Concert Ship', its note gives 'Sheryl's Concert Ship' for this form."
+  },
+  {
+   "id": "u2226",
+   "en": "Vajra Cocoon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2227",
+   "en": "Vajra Larva",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2228",
+   "en": "Vajra Carrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2229",
+   "en": "Vajra Sub-Queen Mothership",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2230",
+   "en": "Giant Ranka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2231",
+   "en": "Vajra Destroyer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2232",
+   "en": "Vajra Battleship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2233",
+   "en": "Battle Pod",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2234",
+   "en": "Battle Pod (Commander Type)",
+   "flags": [],
+   "notes": "Glossary en."
+  },
+  {
+   "id": "u2235",
+   "en": "Mardook Mothership",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary en (provisional)."
+  },
+  {
+   "id": "u2236",
+   "en": "Thuverl-Salan (Blue)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2237",
+   "en": "Base 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2238",
+   "en": "Base 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2239",
+   "en": "Generator",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2240",
+   "en": "Micronization Device",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2241",
+   "en": "Target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2242",
+   "en": "Minmay Doll",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2243",
+   "en": "EX-Gear (Male)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "EX-Gear has no glossary entry; standard Macross Frontier spelling used."
+  },
+  {
+   "id": "u2244",
+   "en": "EX-Gear (Female)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "EX-Gear has no glossary entry; standard Macross Frontier spelling used."
+  },
+  {
+   "id": "u2245",
+   "en": "Please enter a message.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2246",
+   "en": "Not Acquired",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2247",
+   "en": "This ID Card will be deleted.\nAre you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2248",
+   "en": "Increases weapon attack power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2249",
+   "en": "Improves accuracy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2250",
+   "en": "Power",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2251",
+   "en": "Accuracy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2252",
+   "en": "Raises the weapon's attack power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2253",
+   "en": "Increases the weapon's accuracy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2254",
+   "en": "Raises the weapon's rate of fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2255",
+   "en": "Extends the weapon's range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2256",
+   "en": "Raises the weapon's bullet speed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2257",
+   "en": "Shortens the reload time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2258",
+   "en": "Increases the weapon's ammo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2259",
+   "en": "Rapid Fire",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2260",
+   "en": "Range",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2261",
+   "en": "Bullet Speed",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2262",
+   "en": "Reload",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2263",
+   "en": "Ammo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2264",
+   "en": "Increases the unit's durability.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2265",
+   "en": "Raises defense vs. shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2266",
+   "en": "Raises defense vs. melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2267",
+   "en": "Raises the unit's movement speed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2268",
+   "en": "Extends how long you can boost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2269",
+   "en": "Increases the unit's stability.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2270",
+   "en": "Increases the unit's turning speed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2271",
+   "en": "Widens the lock-on range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2272",
+   "en": "Shooting Def.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2273",
+   "en": "Melee Def.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2274",
+   "en": "Speed",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2275",
+   "en": "Boost",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2276",
+   "en": "Balancer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2277",
+   "en": "Turning",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2278",
+   "en": "Radar",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2279",
+   "en": "The color settings will be reset to default. Are you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2280",
+   "en": "Rapid Fire:%d Ammo:%d",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2281",
+   "en": "There is no save data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2282",
+   "en": "There is no pilot data, so\nCo-op cannot be selected.\nContinue anyway?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2283",
+   "en": "Remove Tune Lower Limit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2284",
+   "en": "Remove Tune Upper Limit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2285",
+   "en": "Remove Boarding Size Limit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2286",
+   "en": "Remove Fixed-Pilot Unit Limit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2287",
+   "en": "Remove Era Limit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2288",
+   "en": "Unlock Operator Select",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2289",
+   "en": "Unlock BGM Select",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2290",
+   "en": "Unlock Nyan-Nyan Shop Line Select",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2291",
+   "en": "Nyan-Nyan Shop: Everything Free",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2292",
+   "en": "This data will be overwritten.\nAre you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2293",
+   "en": "Resume the game with this data.\nAre you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2294",
+   "en": "This data has already cleared Academy Mode.\nIt cannot be resumed.",
+   "flags": [],
+   "notes": "gakuen mode = 'Academy Mode' (brief: campus/Academy mode)."
+  },
+  {
+   "id": "u2295",
+   "en": "First Flight",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2296",
+   "en": "Owned at Start",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2297",
+   "en": "Rookie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2298",
+   "en": "Experienced",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2299",
+   "en": "First-Timer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2300",
+   "en": "Mission Clear Rate\n5%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2301",
+   "en": "Beginner",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2302",
+   "en": "Mission Clear Rate\n10%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2303",
+   "en": "Greenhorn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2304",
+   "en": "Mission Clear Rate\n15%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2305",
+   "en": "Intermediate",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2306",
+   "en": "Mission Clear Rate\n20%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2307",
+   "en": "Enthusiast",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2308",
+   "en": "Mission Clear Rate\n25%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2309",
+   "en": "Fan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2310",
+   "en": "Mission Clear Rate\n30%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2311",
+   "en": "Advanced",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2312",
+   "en": "Mission Clear Rate\n35%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2313",
+   "en": "Hooked",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2314",
+   "en": "Mission Clear Rate\n40%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2315",
+   "en": "Maniac",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2316",
+   "en": "Mission Clear Rate\n45%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2317",
+   "en": "Otaku",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2318",
+   "en": "Mission Clear Rate\n50%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2319",
+   "en": "Freak",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2320",
+   "en": "Mission Clear Rate\n60%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2321",
+   "en": "Professor",
+   "flags": [],
+   "notes": "hakase: slang for a know-it-all expert; part of the clear-rate ladder."
+  },
+  {
+   "id": "u2322",
+   "en": "Mission Clear Rate\n70%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2323",
+   "en": "Charisma",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2324",
+   "en": "Mission Clear Rate\n80%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2325",
+   "en": "Specialist",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2326",
+   "en": "Mission Clear Rate\n90%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2327",
+   "en": "No-Lifer",
+   "flags": [],
+   "notes": "haijin: gamer slang for someone wrecked by play; kept at full strength."
+  },
+  {
+   "id": "u2328",
+   "en": "Mission Clear Rate\n100%",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2329",
+   "en": "Wimp",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2330",
+   "en": "Versus Matches: 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2331",
+   "en": "Sonny Boy",
+   "flags": [],
+   "notes": "bouya: condescending 'boy' (versus-count ladder, 3 matches)."
+  },
+  {
+   "id": "u2332",
+   "en": "Versus Matches: 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2333",
+   "en": "Amateur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2334",
+   "en": "Versus Matches: 5",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2335",
+   "en": "Still Shaky",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2336",
+   "en": "Versus Matches: 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2337",
+   "en": "Fledgling No More",
+   "flags": [],
+   "notes": "MUF rendered hiyokko as 'Fledgling'."
+  },
+  {
+   "id": "u2338",
+   "en": "Versus Matches: 10",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2339",
+   "en": "Can Fly Solo",
+   "flags": [],
+   "notes": "Literally 'can do it even alone'."
+  },
+  {
+   "id": "u2340",
+   "en": "Versus Matches: 15",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2341",
+   "en": "Best in the Unit",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2342",
+   "en": "Versus Matches: 20",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2343",
+   "en": "Lone Warrior",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2344",
+   "en": "Versus Matches: 25",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2345",
+   "en": "Most Impressive",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2346",
+   "en": "Versus Matches: 30",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2347",
+   "en": "Instructor-Level",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2348",
+   "en": "Versus Matches: 35",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2349",
+   "en": "Master's Touch",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2350",
+   "en": "Versus Matches: 40",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2351",
+   "en": "Professional",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2352",
+   "en": "Versus Matches: 45",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2353",
+   "en": "Valkyrie Master",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2354",
+   "en": "Versus Matches: 50",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2355",
+   "en": "Second to None",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2356",
+   "en": "Versus Matches: 60",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2357",
+   "en": "Titan of the Skies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2358",
+   "en": "Versus Matches: 70",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2359",
+   "en": "Emperor of the Galaxy",
+   "flags": [],
+   "notes": "MUF rendered teiou as 'Emperor'."
+  },
+  {
+   "id": "u2360",
+   "en": "Versus Matches: 80",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2361",
+   "en": "Living Legend",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2362",
+   "en": "Versus Matches: 100",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2363",
+   "en": "Nugget",
+   "flags": [],
+   "notes": "Fighter-pilot slang for a rookie, as in the JP loanword."
+  },
+  {
+   "id": "u2364",
+   "en": "Versus Wins: 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2365",
+   "en": "Versus Wins: 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2366",
+   "en": "Wingman",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2367",
+   "en": "Versus Wins: 5",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2368",
+   "en": "Blockhead",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2369",
+   "en": "Versus Wins: 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2370",
+   "en": "Hound Dog",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2371",
+   "en": "Versus Wins: 10",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2372",
+   "en": "Scout",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2373",
+   "en": "Versus Wins: 15",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2374",
+   "en": "Killer Fang",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2375",
+   "en": "Versus Wins: 20",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u2102: tm 'Add-on Equipment' kept though 117 px vs ~70 px estimate.",
+   "u2184: 'Ishtar (Song Priestess)' for the 'uta miko' variant.",
+   "u2224: 'Dalfim' - glossary entry has no en (needs_research).",
+   "u2225 'Sheryl's Concert Ship' and u2235 'Mardook Mothership' use provisional glossary entries.",
+   "Player titles (u2295-u2374) are new to TF; renderings are mine. Their width warnings use 3-4-kanji estimates; MUF shipped titles up to ~175 px ('Super Dimension Cinderella') in the same list, so they were not cut.",
+   "Remaining width warnings on tm rows (u2087, u2096-u2098, u2113-u2114, u2142-u2229 names, u2283-u2291) are MUF-shipped text, kept."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Dalfim (JP Darufimu): glossary en empty, needs research.",
+   "EX-Gear: no glossary entry (u2243, u2244)."
+  ],
+  "unfinished": []
+ }
+}

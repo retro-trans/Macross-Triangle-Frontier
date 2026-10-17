@@ -1,0 +1,481 @@
+{
+ "slice": 63,
+ "rows_in_slice": 77,
+ "rows_examined": 77,
+ "rows": [
+  {
+   "id": "c04676",
+   "en": "What about you? Do you... like me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04677",
+   "en": "I-I...\nThe way I feel about you, Senpai, is...",
+   "flags": [],
+   "notes": "Male only. Deliberately cut off before the confession."
+  },
+  {
+   "id": "c04678",
+   "en": "Just kidding!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04679",
+   "en": "Wha-a-a??",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04680",
+   "en": "Ahahahahaha!\nHey, were you surprised?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04681",
+   "en": "Hey, hey!?",
+   "flags": [],
+   "notes": "Consistent with c01890."
+  },
+  {
+   "id": "c04682",
+   "en": "Surprised? More like that was just cruel...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04683",
+   "en": "Hehehe, sorry, sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04684",
+   "en": "But you know, there are women out there\nwho'll toy with you like this, so you need\nto keep your guard up, okay?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04685",
+   "en": "(Isn't she t-talking about herself...?)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04686",
+   "en": "Besides, you're my very own junior,\nso no wandering off, got it!?",
+   "flags": [],
+   "notes": "Male only. Kouhai-kun: 'my very own junior'."
+  },
+  {
+   "id": "c04687",
+   "en": "Mm, good answer.",
+   "flags": [],
+   "notes": "Male only. Reacts to a reply not in the text."
+  },
+  {
+   "id": "c04688",
+   "en": "Well then, shall we call it a day and go home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04689",
+   "en": "(I wonder how much of that Senpai meant...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04690",
+   "en": "(I got to spend another fun day\nwith Claire-senpai.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04691",
+   "en": "I'm glad to hear you say that.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04692",
+   "en": "(That might have been a close one...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04693",
+   "en": "Not as my underclassman,\nbut as a girl.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04694",
+   "en": "Um, w-well, I...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04695",
+   "en": "Huh?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04696",
+   "en": "Hehe, someday you'll get to fluster\nthe boys like this too, okay?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04697",
+   "en": "(I don't know if I could ever pull that off...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04698",
+   "en": "(I wonder how much of that Senpai meant...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04699",
+   "en": "(I'm out with Senpai,\nbut what should we do after this?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04700",
+   "en": "Hey, why don't we stop by Griffith Park\nagain today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04701",
+   "en": "Sounds good.\nIt's my \"special spot\" too, after all.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04702",
+   "en": "Hehehe, it makes me really happy\nto hear you say that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04703",
+   "en": "The breeze feels nice, doesn't it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04704",
+   "en": "Can we stay like this for a while?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04705",
+   "en": "Well then, let's head home.",
+   "flags": [],
+   "notes": "x4: also frd_cla_114."
+  },
+  {
+   "id": "c04706",
+   "en": "I'll walk you home.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04707",
+   "en": "Thank you, as always.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04708",
+   "en": "(I hope days like this go on forever.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04709",
+   "en": "Sounds good.\nIt's my \"special spot\" too, after all.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04710",
+   "en": "Can I walk home with you?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04711",
+   "en": "Of course.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04712",
+   "en": "(I hope days like this go on forever.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04713",
+   "en": "(We arrived on a new planet\nand started a new life.)",
+   "flags": [],
+   "notes": "Male ending."
+  },
+  {
+   "id": "c04714",
+   "en": "(I've been running nonstop, swept along\nby how busy life was, but she was\nalways there by my side.)",
+   "flags": [],
+   "notes": "Both endings (frd_cla_009 male, frd_cla_010 female); 'she' = Claire."
+  },
+  {
+   "id": "c04715",
+   "en": "(She never gave up on someone like me\nand always supported me.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04716",
+   "en": "Come on!\nWake uuup!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04717",
+   "en": "How long are you gonna sleep!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04718",
+   "en": "Mmm, mm~\nClaire, five more minutes...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04719",
+   "en": "How many 'five more minutes' is that now...?\nBreakfast is getting cold, so get. up. now!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04720",
+   "en": "You start at your new job today, right?\nPull yourself together!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04721",
+   "en": "Yeah, I'm coming, Claire.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04722",
+   "en": "(From now on, together forever.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04723",
+   "en": "(I want to spend the rest of my life\nwith Claire.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04724",
+   "en": "Affinity Ending.\nClaire, female (does this one show??)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Developer placeholder text (name plate Alto); translated literally."
+  },
+  {
+   "id": "c04725",
+   "en": "Affinity Ending.\nClaire, male (this isn't the dummy, right?)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Developer placeholder text (name plate Alto); translated literally."
+  },
+  {
+   "id": "c04726",
+   "en": "(We arrived on a new planet\nand started a new life.)",
+   "flags": [],
+   "notes": "Female ending."
+  },
+  {
+   "id": "c04727",
+   "en": "(She never gave up on someone like me\nand always supported me.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04728",
+   "en": "Mmm, mm~\nClaire-san, five more minutes...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04729",
+   "en": "Okaaay...",
+   "flags": [],
+   "notes": "Female only; sleepy yawned reply."
+  },
+  {
+   "id": "c04730",
+   "en": "Okay, I'm coming, Claire-san.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04731",
+   "en": "(I want to spend the rest of my life\nwith Claire-san.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04732",
+   "en": "Why, \\p-kun.\nFancy running into you in a place like this.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04733",
+   "en": "Say, if you're free, why don't we have a chat?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04734",
+   "en": "Sure, I'd love to!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04735",
+   "en": "Then let's go over there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04736",
+   "en": "We really got caught up talking, didn't we...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04737",
+   "en": "That was really fun.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04738",
+   "en": "I'm glad to hear it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04739",
+   "en": "Well then, see you later.",
+   "flags": [],
+   "notes": "Consistent with c01557."
+  },
+  {
+   "id": "c04740",
+   "en": "(Claire-senpai is great at talking\nand at listening.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04741",
+   "en": "Why, \\p-chan.\nFancy running into you in a place like this.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04742",
+   "en": "That was so much fun!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04743",
+   "en": "(Claire-senpai is great at talking\nand at listening.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04744",
+   "en": "(I ended up at school again.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04745",
+   "en": "Why, \\p-kun.\nWe meet again.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04746",
+   "en": "We sure do~",
+   "flags": [],
+   "notes": "Answers 'we meet again'."
+  },
+  {
+   "id": "c04747",
+   "en": "Say, if you're free, why don't we have\na chat again today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04748",
+   "en": "I always learn so much from talking\nwith you, Senpai!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04749",
+   "en": "It makes me happy to hear you say that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04750",
+   "en": "Well then, let's talk again sometime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04751",
+   "en": "Why, \\p-chan.\nWe meet again.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04752",
+   "en": "(Claire-senpai is great at talking\nand at listening.)",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c04724, c04725: developer placeholder lines (affinity-ending test notes, name plate Alto) translated literally; probably never shown"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

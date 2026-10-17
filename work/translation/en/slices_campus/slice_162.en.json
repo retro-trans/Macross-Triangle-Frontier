@@ -1,0 +1,391 @@
+{
+ "slice": 162,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c11860",
+   "en": "Geez, you're late!\nYou need to show up on time, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11861",
+   "en": "Sorry, sorry. Class ran long...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11862",
+   "en": "We're in the same class!\nThat excuse won't work on me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11863",
+   "en": "Oops...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11864",
+   "en": "I can't get anything done if my model\ndoesn't show up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11865",
+   "en": "Okay, okay, I'm sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11866",
+   "en": "Come on, don't move!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11867",
+   "en": "Geez, that's not the pose you had before!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11868",
+   "en": "Sorry, sorry. Was it like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11869",
+   "en": "Yes, now hold it right there!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11870",
+   "en": "Affinity ending.\nFiller for Nanase (female).",
+   "flags": [],
+   "notes": "Developer placeholder under Alto's name plate (female branch of frd_nns_009, male branch of frd_nns_010: the branches each scene does not use). Translated literally in the format of c04107/c06032."
+  },
+  {
+   "id": "c11871",
+   "en": "Sorryyy, class ran long...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11872",
+   "en": "Oh, whoops...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11873",
+   "en": "Okaaay, I'm sorryyy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11874",
+   "en": "Oh, sorry. Was it like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11875",
+   "en": "(Oh, there's Nanase. Perfect timing.\nI'll ask her.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11876",
+   "en": "Oh, \\p-kun?\nWhat is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11877",
+   "en": "Oh, I'm sorry...\nI'll be at Nyan-Nyan anyway, but for my part-time job...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11878",
+   "en": "Please ask me again sometime. See you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11879",
+   "en": "Oh, \\p-san?\nWhat is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11880",
+   "en": "(We're still not that close, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11881",
+   "en": "Huh? The Observation Pier...?\nUm, well... maybe some other time...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11882",
+   "en": "I'm sorry. Please invite me again, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11883",
+   "en": "The Macross Quarter...?\nI'm just not that interested in it, I guess...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11884",
+   "en": "Folmo? That sounds nice~\nOh, but I just remembered, I have plans\nthis weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11885",
+   "en": "\"199\"? That's not bad at all!\nOh, but I just remembered, I have plans\nthis weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11886",
+   "en": "The artificial island...?\nIt's not a bad idea, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11887",
+   "en": "Central Park... That sounds nice~\nOh, but I just remembered, I have plans\nthis weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11888",
+   "en": "The Battle Frontier...?\nI'm just not that interested in it, I guess...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11889",
+   "en": "(Okay, that's it for classes...\nMaybe I'll invite Nanase to stop off\nsomewhere on the way home...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11890",
+   "en": "Hey, Nanase. You wanna stop off somewhere\non the way home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11891",
+   "en": "Oh, \\p-kun.\nHmm, that doesn't sound bad...\n...Oh!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11892",
+   "en": "I'm sorry, I have something to do after this...\nUm, please ask me again, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11893",
+   "en": "Okay. That's too bad, but it can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11894",
+   "en": "(Okay, that's it for classes...\nMaybe I'll invite Nanase to stop off\nsomewhere on the way home...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11895",
+   "en": "Hey, Nanase. You wanna stop off somewhere\non the way home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11896",
+   "en": "Oh, \\p-san.\nHmm, that doesn't sound bad...\n...Oh!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11897",
+   "en": "Okay. That's too bad, but it can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11898",
+   "en": "(Well, I can always ask her again.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11899",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Nanase to Griffith Park\nand just take it easy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11900",
+   "en": "Oh, \\p-kun.\nWhat is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11901",
+   "en": "Griffith Park? That sounds lovely.\n...Oh!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11902",
+   "en": "Um, I've got something else to do this weekend...\nI'm sorry! Please ask me again!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11903",
+   "en": "Oh, \\p-san.\nWhat is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11904",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Nanase to go shopping\nin Deep Akihabara...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11905",
+   "en": "Deep Akihabara? That sounds kind of fun.\n...Oh!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11906",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Nanase to go see a concert\nat the Sky Gate...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11907",
+   "en": "Sure, that might be nice once in a while.\n...Oh!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11908",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Nanase to Nyan-Nyan...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11909",
+   "en": "Sure, it'd be nice to go as a customer\nfor once...\n...Oh!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11910",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Nanase to go sketching\nin Central Park...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11911",
+   "en": "Well, I was wondering if you'd want to go\nsketching in Central Park with me this weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11912",
+   "en": "Huh?!\nYou draw, \\p-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11913",
+   "en": "Well, that's... um...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11914",
+   "en": "You don't have to go out of your way\nto match my interests, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11915",
+   "en": "(Guess that was a little off the mark...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11916",
+   "en": "Yeah, I was wondering if you'd want to go\nsketching in Central Park with me this weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11917",
+   "en": "Huh?!\nYou draw, \\p-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11918",
+   "en": "(Guess that was way off the mark...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11919",
+   "en": "(A new life on a new planet...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11920",
+   "en": "(I'll do my best to get closer to everyone\nand make school life even more fun!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11921",
+   "en": "(I've gotta do my best to get closer to everyone\nand make school life even more fun!)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c11862: Nanase says 'onaji kurasu ja nai desu ka' (we're in the same class) although she is in the Art Course; translated as written.",
+   "c11870: developer placeholder under Alto's name plate, translated literally as the earlier fillers (c04107).",
+   "c11889: male-worded inner line (da na) also tagged for the female branch in frd_nns_109; the English is gender-neutral.",
+   "c11881: Nanase's flustered refusal of the Observation Pier read as embarrassment (a date spot), kept as hesitant 'Um, well... maybe some other time...'.",
+   "c11898: 'ask her again' (female branch only; Nanase is known female)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

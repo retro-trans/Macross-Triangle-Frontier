@@ -1,0 +1,498 @@
+{
+ "slice": 108,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c07963",
+   "en": "You look exactly like a Nyan-Nyan waitress,\nso as everyday clothes, it's a bit...",
+   "flags": [],
+   "notes": "Both genders. Klan is female, so 'waitress'."
+  },
+  {
+   "id": "c07964",
+   "en": "Wha-?!",
+   "flags": [],
+   "notes": "x5: Klan here (both genders), player in nml_hld_014. Sudden realization/surprise; works for both."
+  },
+  {
+   "id": "c07965",
+   "en": "Next!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07966",
+   "en": "Y-yes...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07967",
+   "en": "How about this!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07968",
+   "en": "This is all the rage these days, right?\nWhat was it called......",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07969",
+   "en": "Right! It's that \"moe\" thing, isn't it?",
+   "flags": [],
+   "notes": "Both genders. moe kept as the otaku loanword (maid outfit, c07976)."
+  },
+  {
+   "id": "c07970",
+   "en": "Well?! Are you feeling the moe?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07971",
+   "en": "It suits you really well, and I do feel\nthe moe, but...",
+   "flags": [],
+   "notes": "Both genders. Mirrors c07961."
+  },
+  {
+   "id": "c07972",
+   "en": "Isn't that just cosplay at this point...?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07973",
+   "en": "Senpai, I'll come along with you,\nso how about we go buy some clothes\ntogether now...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07974",
+   "en": "Ugh... I'm counting on you......",
+   "flags": [],
+   "notes": "Both genders. Klan relies on the player."
+  },
+  {
+   "id": "c07975",
+   "en": "(Klan-senpai's road to becoming a grown woman\nlooks like it's going to be a rough one...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07976",
+   "en": "(Still, where did Klan-senpai even buy\na China dress and a maid outfit...?)",
+   "flags": [],
+   "notes": "Male. chaina-fuku = China dress (the Nyan-Nyan uniform)."
+  },
+  {
+   "id": "c07977",
+   "en": "(Klan-senpai called me out, saying there was\nsomething she wanted me to see.\nWhat could it be?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07978",
+   "en": "(So, what kind of clothes\ndid Klan-senpai buy?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07979",
+   "en": "Senpai, I'll come along with you,\nso how about we go buy some clothes\ntogether now...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07980",
+   "en": "(Klan-senpai's road to becoming a grown woman\nlooks like it's going to be a rough one...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07981",
+   "en": "(Still, where did Klan-senpai even buy\na China dress and a maid outfit...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07982",
+   "en": "(Classes are over, and all that's left\nis to go home. Where should I stop off\non the way today...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07983",
+   "en": "Oh, if it isn't \\p.\nHeading home now?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07984",
+   "en": "Klan-senpai? What are you doing at Mihoshi...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07985",
+   "en": "Wait, why are you dressed like that?!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07986",
+   "en": "Hm? Dressed like what, exactly?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07987",
+   "en": "I mean that Nyan-Nyan China dress!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07988",
+   "en": "Ah, this?\nIt's surprisingly easy to move in,\nso I've taken a liking to wearing it lately.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07989",
+   "en": "Well? It suits me after all, doesn't it?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07990",
+   "en": "Yes, very much...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07991",
+   "en": "(It does suit you, but you still look\nexactly like a Nyan-Nyan waitress,\nKlan-senpai...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07992",
+   "en": "(Classes are over, and all that's left\nis to go home. Where should I stop off\non the way today...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07993",
+   "en": "(Klan-senpai's late...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07994",
+   "en": "(She said she bought a new swimsuit and wanted\nme to check it out, so we promised to hang out\non the artificial island......)",
+   "flags": [],
+   "notes": "Both genders. jinkoutou = the artificial island (terms.json); the scene later calls it Island 3."
+  },
+  {
+   "id": "c07995",
+   "en": "Sorry I'm late, kid.",
+   "flags": [],
+   "notes": "Male only (female variant is c08027). shounen = boy/kid."
+  },
+  {
+   "id": "c07996",
+   "en": "Oh, Klan-senpai...\nNo, it's no proble......",
+   "flags": [],
+   "notes": "Both genders. Cut off mid-word, as the Japanese."
+  },
+  {
+   "id": "c07997",
+   "en": "...............Wait!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07998",
+   "en": "Why did you come here macronized?!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07999",
+   "en": "I told you I wanted you to see\nmy new swimsuit, didn't I?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08000",
+   "en": "Well, yes, but...\nI thought you meant your Micronian swimsuit.",
+   "flags": [],
+   "notes": "Both genders. Micronian (terms.json)."
+  },
+  {
+   "id": "c08001",
+   "en": "So, how do I look in my swimsuit?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08002",
+   "en": "O-of course it looks good on you...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08003",
+   "en": "Mm, good to hear.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08004",
+   "en": "(When she macronizes, a lot of her parts\nget bigger, after all...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08005",
+   "en": "Now then, we came all the way to Island 3.\nLet's play till we drop.",
+   "flags": [],
+   "notes": "Both genders. Island 3 (locations.json)."
+  },
+  {
+   "id": "c08006",
+   "en": "Okay!\nWait, how are we supposed to play?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08007",
+   "en": "Are you an idiot? We came to the sea.\nWe could race each other swimming or play\nbeach volleyball. There's plenty to do.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08008",
+   "en": "Well, that's true, but...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08009",
+   "en": "Let's see... How about beach volleyball first?\nTry and take my killer serve!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08010",
+   "en": "Um, Klan-senpai...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08011",
+   "en": "If I play beach volleyball with you\nat Zentradi size, Senpai, I think I'd...\nactually die......?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08012",
+   "en": "Ah?!",
+   "flags": [],
+   "notes": "Both genders. Klan realizes."
+  },
+  {
+   "id": "c08013",
+   "en": "And here I went to the trouble\nof macronizing. Honestly...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08014",
+   "en": "Sorry, Klan-senpai...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08015",
+   "en": "Well, there's no point in coming to the sea\nwith you if we can't play together.",
+   "flags": [],
+   "notes": "Both genders. Implies she micronizes (c08025)."
+  },
+  {
+   "id": "c08016",
+   "en": "Today we play until we can't move~!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08017",
+   "en": "Klan-senpai... I can't go on......",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08018",
+   "en": "Wiped out after just this? Pathetic.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08019",
+   "en": "You've just got too much energy, Senpai...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08020",
+   "en": "Fine, I'll let you off the hook for today.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08021",
+   "en": "Th-thank you...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08022",
+   "en": "Next time you won't get off this lightly,\nso get yourself in shape!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08023",
+   "en": "Right, let's head home.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08024",
+   "en": "(I never expected Klan-senpai to show up\nmacronized, so that really surprised me...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08025",
+   "en": "(Well, in the end I got to have fun with\nMicronian-sized Klan-senpai, so I guess\ntoday was a good day.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08026",
+   "en": "(Klan-senpai's late...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08027",
+   "en": "Sorry I'm late.",
+   "flags": [],
+   "notes": "Female variant of c07995 (no 'kid')."
+  },
+  {
+   "id": "c08028",
+   "en": "(When she macronizes, a lot of her parts\nget bigger, after all...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08029",
+   "en": "Well, that's true, but...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08030",
+   "en": "If I play beach volleyball with you\nat Zentradi size, Senpai, I think I'd...\nactually die......?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08031",
+   "en": "(I never expected Klan-senpai to show up\nmacronized, so that really surprised me...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08032",
+   "en": "(Well, in the end I got to have fun with\nMicronian-sized Klan-senpai, so I guess\ntoday was a good day.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08033",
+   "en": "Come on, let's play till we drop again today!\n\\p!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08034",
+   "en": "Too bad for you, though, \\p.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08035",
+   "en": "Huh? What is?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08036",
+   "en": "Today I came Micronian-sized for your sake,\nbut that means you didn't get to see\nmy knockout body, right?",
+   "flags": [],
+   "notes": "Both genders. naisu badi = knockout body."
+  },
+  {
+   "id": "c08037",
+   "en": "Next time we get the chance,\nI'll come macronized!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08038",
+   "en": "...But then we couldn't play together,\ncould we?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08039",
+   "en": "Hm, now that you mention it...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08040",
+   "en": "Dammit, and here I wanted to show off\nmy knockout body to you again...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08041",
+   "en": "(She doesn't have to be so bitter\nabout something like that...)",
+   "flags": [],
+   "notes": "Both genders. Klan is female."
+  },
+  {
+   "id": "c08042",
+   "en": "Oh well. Let's hurry up and play!",
+   "flags": [],
+   "notes": "Both genders."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c07995 shounen rendered 'kid' (Klan addressing the male player; the female branch has no address, c08027).",
+   "c07994 says the artificial island, c08005 says Island 3; kept both as written.",
+   "c08004/c08028 'iron na bubun ga ookiku naru' kept as the innuendo ('a lot of her parts get bigger').",
+   "c07969-c07971 moe kept as a loanword."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

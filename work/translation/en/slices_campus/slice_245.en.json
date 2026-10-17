@@ -1,0 +1,394 @@
+{
+ "slice": 245,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c17739",
+   "en": "(School's finally out... I'm starving...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17740",
+   "en": "Luca, let's stop somewhere on the way home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17741",
+   "en": "Where should we go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17742",
+   "en": "How about curry?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17743",
+   "en": "Curry, huh...\nI'm fine with it as long as it isn't spicy...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17744",
+   "en": "So you can't handle spicy food, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17745",
+   "en": "(Just like he looks, or...\nhow should I put it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17746",
+   "en": "Aren't you kind of smirking?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17747",
+   "en": "N-No, I'm noooot?",
+   "flags": [],
+   "notes": "The Japanese writes 'nai yo' in katakana for a stiff, obviously fake denial."
+  },
+  {
+   "id": "c17748",
+   "en": "...Forget it. I'm going home.\nGo eat curry by yourself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17749",
+   "en": "Ah, wait up, Lucaaa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17750",
+   "en": "(Did I tease him a little too much?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17751",
+   "en": "(School's finally out...\nI'm kinda hungry~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17752",
+   "en": "Luca-kun, let's stop somewhere on the way home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17753",
+   "en": "How about a Chili-Chili Dog?\nIt's nice and spicy and delicious!",
+   "flags": [],
+   "notes": "chirichiri doggu: shortened form of the Super Chili-Chili Dog."
+  },
+  {
+   "id": "c17754",
+   "en": "A chili dog...?\nI'm fine with it as long as it isn't spicy...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17755",
+   "en": "Like THAT'S gonna happen!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17756",
+   "en": "...Forget it. I'm going home.\nGo eat a chili dog by yourself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17757",
+   "en": "Ah, wait up, Luca-kuuun!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Name plate in the data says Luca, but this is the female player calling after Luca (twin of male c17749). Translated as the player's line."
+  },
+  {
+   "id": "c17758",
+   "en": "(Did I tease him a little too much?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17759",
+   "en": "(I went to the bathroom,\nand now I'm running late...!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17760",
+   "en": "Whoa!",
+   "flags": [],
+   "notes": "Shared by Luca, Pinon and the player (scd_ciz_802)."
+  },
+  {
+   "id": "c17761",
+   "en": "S-Sorry, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17762",
+   "en": "No, I wasn't watching where I was going either...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17763",
+   "en": "Can you get up?",
+   "flags": [],
+   "notes": "Shared with nml_rnk_008 (male)."
+  },
+  {
+   "id": "c17764",
+   "en": "Y-Yes!\nThank you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17765",
+   "en": "You didn't hit anything, did you?",
+   "flags": [],
+   "notes": "Shared with nml_rnk_008 (male)."
+  },
+  {
+   "id": "c17766",
+   "en": "W-Well then, I'll be going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17767",
+   "en": "Oh, uh, sure...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17768",
+   "en": "(Why was Luca so embarrassed...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17769",
+   "en": "(A teacher called me over,\nand now I'm running late...!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17770",
+   "en": "Eek!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17771",
+   "en": "S-Sorry, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17772",
+   "en": "Can you get up?",
+   "flags": [],
+   "notes": "Shared with nml_rnk_008 (female)."
+  },
+  {
+   "id": "c17773",
+   "en": "You didn't hit anything, did you?",
+   "flags": [],
+   "notes": "Shared with nml_rnk_008 (female)."
+  },
+  {
+   "id": "c17774",
+   "en": "(...I was the one who knocked HIM over...\nThat's kind of a shock...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17775",
+   "en": "(Phew, I flew really well\nin EX-Gear training today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17776",
+   "en": "\\p-san,\nyou're pretty good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17777",
+   "en": "R-Really?\nHearing that from you gives me confidence, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17778",
+   "en": "If you'd like, shall we fly one more time?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17779",
+   "en": "I'm fine, but don't you need\nto do maintenance on Samson?",
+   "flags": [],
+   "notes": "Samson: Luca's EX-Gear (glossary)."
+  },
+  {
+   "id": "c17780",
+   "en": "It'll double as a durability test for the parts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17781",
+   "en": "(Is that really okay...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17782",
+   "en": "Is something wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17783",
+   "en": "A-Anyway, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17784",
+   "en": "(...I want to get better and better.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17785",
+   "en": "(Phew, I flew really well\nin EX-Gear training today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17786",
+   "en": "R-Really?\nHearing that from you gives me confidence,\nLuca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17787",
+   "en": "I'm fine, but don't you need\nto do maintenance on Samson?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17788",
+   "en": "(Is that really okay...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17789",
+   "en": "(...What should I do this weekend...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17790",
+   "en": "\\p-san,\nyou look tired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17791",
+   "en": "Not really.\nI was just thinking it's been a long week.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17792",
+   "en": "It's the weekend, so let's perk up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17793",
+   "en": "...Are you doing anything this weekend, Luca?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17794",
+   "en": "I'm thinking I might do some\nadjustments on my EX-Gear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17795",
+   "en": "Huh~ I see.",
+   "flags": [],
+   "notes": "Shared by eight scenes (Luca, Michel, Ranka, Yui), both genders; neutral."
+  },
+  {
+   "id": "c17796",
+   "en": "I want to go buy parts today,\nso if you'll excuse me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17797",
+   "en": "Not really?\nI was just thinking it's been a long week~",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Name plate data says Luca (male scene), but the line is the female player's twin of c17791 (one occurrence is labelled PLAYER, female). Translated as the player's reply to Luca."
+  },
+  {
+   "id": "c17798",
+   "en": "(Luca really loves machines, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17799",
+   "en": "Hey, Luca-kun,\ndo you have any plans this weekend?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17800",
+   "en": "(Luca-kun really loves machines, huh.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c17757: speaker data says Luca, but it is the female player's 'wait up, Luca-kun' (twin of c17749); translated as the player.",
+   "c17797: speaker data says Luca (x3, one occurrence PLAYER female); it is the female player's twin of c17791 ('a long week'); translated as the player.",
+   "c17755: 'sonna wake nai jaan' after Luca hopes it isn't spicy: read as the player teasing that of course it is ('Like THAT'S gonna happen!').",
+   "c17745: mikake doori to iu ka: the player thinks Luca's dislike of spicy food matches his (boyish) looks; kept as 'Just like he looks'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

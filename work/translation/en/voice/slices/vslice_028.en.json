@@ -1,0 +1,569 @@
+{
+ "slice": 28,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o0_of1/2331",
+   "en": "Queadluun-Quilqua, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": "Re-recorded with a different unit than the sister clip (MUF MUF:vo0_of1_2331: VT-1 Valkyrie, you're cleared to launch. Give it your all.); translated what this clip says."
+  },
+  {
+   "id": "o0_of2/2331",
+   "en": "Queadluun-Quilqua, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": "Re-recorded with a different unit than the sister clip (MUF MUF:vo0_of2_2331: VT-1 Valkyrie, I'm clearing you to launch. Now go get 'em!); translated what this clip says."
+  },
+  {
+   "id": "o0_om0/2331",
+   "en": "Queadluun-Quilqua, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": "Re-recorded with a different unit than the sister clip (MUF MUF:vo0_om0_2331: VT-1 Valkyrie, launch approved. Go give it your best!); translated what this clip says."
+  },
+  {
+   "id": "os_mis/2331",
+   "en": "Queadluun-Quilqua, you're cleared to launch.",
+   "flags": [],
+   "notes": "Re-recorded with a different unit than the sister clip (MUF MUF:vos_mis_2331: VT-1 Valkyrie, you're cleared to launch.); translated what this clip says."
+  },
+  {
+   "id": "o7_exd/2331",
+   "en": "Queadluun-Quilqua, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2331",
+   "en": "Queadluun-Quilqua, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2332",
+   "en": "YF-25 Prophecy, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2332",
+   "en": "YF-25 Prophecy, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2332",
+   "en": "YF-25 Prophecy, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2332",
+   "en": "YF-25 Prophecy, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/2332",
+   "en": "YF-25 Prophecy, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2332",
+   "en": "YF-25 Prophecy, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2332",
+   "en": "YF-25 Prophecy, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2333",
+   "en": "Vajra, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2333",
+   "en": "Vajra, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2333",
+   "en": "Vajra, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2333",
+   "en": "Vajra, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/2333",
+   "en": "Vajra, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2333",
+   "en": "Vajra, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2333",
+   "en": "Vajra, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2334",
+   "en": "VA-1SS Metal Siren, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2334",
+   "en": "VA-1SS Metal Siren, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2334",
+   "en": "VA-1SS Metal Siren, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2334",
+   "en": "VA-1SS Metal Siren, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/2334",
+   "en": "VA-1SS Metal Siren, you're cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2334",
+   "en": "VA-1SS Metal Siren, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2334",
+   "en": "VA-1SS Metal Siren, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2335",
+   "en": "Proto Metal Siren, you're cleared to launch. Please do your best!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "o0_of1/2335",
+   "en": "Proto Metal Siren, cleared to launch. Give it your all.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "o0_of2/2335",
+   "en": "Proto Metal Siren, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "o0_om0/2335",
+   "en": "Proto Metal Siren, launch approved. Go give it your best!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "os_mis/2335",
+   "en": "Proto Metal Siren, you're cleared to launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "o7_exd/2335",
+   "en": "Proto Metal Siren, you are cleared to launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "of_ktr/2335",
+   "en": "Proto Metal Siren, you're cleared for launch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "o0_of0/2336",
+   "en": "VT-1 Ostrich, you're cleared to launch. Please do your best!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "o0_of1/2336",
+   "en": "VT-1 Ostrich, cleared to launch. Give it your all.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "o0_of2/2336",
+   "en": "VT-1 Ostrich, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "o0_om0/2336",
+   "en": "VT-1 Ostrich, launch approved. Go give it your best!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "os_mis/2336",
+   "en": "VT-1 Ostrich, you're cleared to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "o7_exd/2336",
+   "en": "VT-1 Ostrich, you are cleared to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "of_ktr/2336",
+   "en": "VT-1 Ostrich, you're cleared for launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "o0_of0/2337",
+   "en": "VA-3 Invader, you're cleared to launch. Please do your best!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "o0_of1/2337",
+   "en": "VA-3 Invader, cleared to launch. Give it your all.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "o0_of2/2337",
+   "en": "VA-3 Invader, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "o0_om0/2337",
+   "en": "VA-3 Invader, launch approved. Go give it your best!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "os_mis/2337",
+   "en": "VA-3 Invader, you're cleared to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "o7_exd/2337",
+   "en": "VA-3 Invader, you are cleared to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "of_ktr/2337",
+   "en": "VA-3 Invader, you're cleared for launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "o0_of0/2338",
+   "en": "SNN Valkyrie, you're cleared to launch. Please do your best!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'."
+  },
+  {
+   "id": "o0_of1/2338",
+   "en": "SNN Valkyrie, cleared to launch. Give it your all.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'."
+  },
+  {
+   "id": "o0_of2/2338",
+   "en": "SNN Valkyrie, I'm clearing you to launch. Now go get 'em!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'."
+  },
+  {
+   "id": "o0_om0/2338",
+   "en": "SNN Valkyrie, launch approved. Go give it your best!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'."
+  },
+  {
+   "id": "os_mis/2338",
+   "en": "SNN Valkyrie, you're cleared to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'."
+  },
+  {
+   "id": "o7_exd/2338",
+   "en": "SNN Valkyrie, you are cleared to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'."
+  },
+  {
+   "id": "of_ktr/2338",
+   "en": "SNN Valkyrie, you're cleared for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'."
+  },
+  {
+   "id": "o7_exd/3271",
+   "en": "Destroid Cheyenne, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3271",
+   "en": "Destroid Cheyenne, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3272",
+   "en": "VF-0 Phoenix, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3272",
+   "en": "VF-0 Phoenix, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3273",
+   "en": "SV-51, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3273",
+   "en": "SV-51, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3274",
+   "en": "Octos, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3274",
+   "en": "Octos, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3275",
+   "en": "Prototype Monster, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3275",
+   "en": "Prototype Monster, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3276",
+   "en": "AFOS, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3276",
+   "en": "AFOS, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3277",
+   "en": "Destroid Defender, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3277",
+   "en": "Destroid Defender, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3278",
+   "en": "Destroid Spartan, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3278",
+   "en": "Destroid Spartan, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3279",
+   "en": "Destroid Phalanx, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3279",
+   "en": "Destroid Phalanx, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3280",
+   "en": "Destroid Tomahawk, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3280",
+   "en": "Destroid Tomahawk, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3281",
+   "en": "Destroid Monster, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3281",
+   "en": "Destroid Monster, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3282",
+   "en": "Destroid Squad, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3282",
+   "en": "Destroid Squad, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3283",
+   "en": "VF-1 Valkyrie, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 2188 (o0_of0/2335): Proto Metal Siren is a provisional glossary name.",
+   "row 2189 (o0_of1/2335): Proto Metal Siren is a provisional glossary name.",
+   "row 2190 (o0_of2/2335): Proto Metal Siren is a provisional glossary name.",
+   "row 2191 (o0_om0/2335): Proto Metal Siren is a provisional glossary name.",
+   "row 2192 (os_mis/2335): Proto Metal Siren is a provisional glossary name.",
+   "row 2193 (o7_exd/2335): Proto Metal Siren is a provisional glossary name.",
+   "row 2194 (of_ktr/2335): Proto Metal Siren is a provisional glossary name."
+  ],
+  "whisper_doubt": [
+   "row 2209 (o0_of0/2338): All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'.",
+   "row 2210 (o0_of1/2338): All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'.",
+   "row 2211 (o0_of2/2338): All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'.",
+   "row 2212 (o0_om0/2338): All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'.",
+   "row 2213 (os_mis/2338): All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'.",
+   "row 2214 (o7_exd/2338): All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'.",
+   "row 2215 (of_ktr/2338): All operators heard 'hasshin' as hasshin 'transmit'; read as hasshin 'launch'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "VT-1 Ostrich",
+   "VA-3 Invader"
+  ],
+  "unfinished": []
+ }
+}

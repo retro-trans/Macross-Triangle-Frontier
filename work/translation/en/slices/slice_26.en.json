@@ -1,0 +1,296 @@
+{
+ "slice": 26,
+ "rows_in_slice": 44,
+ "rows_examined": 44,
+ "rows": [
+  {
+   "id": "u3325",
+   "en": "VF-17D Nightmare (Liza)\nThe unit Liza stole while fleeing smugglers. Whether the bill for it ever reached the Zolan Star Patrol is anybody's guess.",
+   "flags": [],
+   "notes": "tm reviewed; added 'while' so Liza is the one fleeing, not stealing from fleeing smugglers."
+  },
+  {
+   "id": "u3326",
+   "en": "VF-5000T-G Star Mirage\nA two-seat VF-5000 of the Zolan Star Patrol. With a Super\nBooster fitted, it played a key role in arresting the poachers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3327",
+   "en": "VF-5000G Star Mirage\nA VF-5000 of the Zolan Star Patrol. Liza complained that\nit carried nothing but non-lethal weapons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3328",
+   "en": "VF-19P Excalibur\nThe unit Basara forced his way into to sing to the Galaxy\nWhale. Whether Ray was billed the rental is anybody's guess.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3329",
+   "en": "VF-22S Sturmvogel II (Gamlin)\nGamlin's own unit in his signature black. To let Basara's song\nbe heard, he fought the poachers without quite knowing why.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3330",
+   "en": "VA-C-3 Invader\nThe poachers' main variable attacker, with harpoon launcher\npods to catch Galaxy Whales and whaling mods all over it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3331",
+   "en": "Diving Suit\nThe suit Graham Hoilie wore to fight the Galaxy Whale.\nHarpoon in hand, he fought the white whale to the death.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3332",
+   "en": "Cheyenne II\nAn anti-air interceptor Destroid, a redesign of the Cheyenne.\nIt put its firepower to full use in the Macross Attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3333",
+   "en": "VF-171 Nightmare Plus\nMain variable fighter of the Frontier fleet. Weaker than its base\nVF-17, but easier for ordinary pilots to handle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3334",
+   "en": "VF-171EX Nightmare Plus (Standard)\nA VF-171 refit to fight the Vajra. Mainly flown by rank-and-file\nU.N. Forces pilots, it fought to defend the Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3335",
+   "en": "VF-171EX Nightmare Plus (Alto)\nAlto's unit as Sagittarius Squadron leader. Hardly a poor\nperformer, but it couldn't keep up with Alto's skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3336",
+   "en": "RVF-171EX Nightmare Plus (Luca)\nThe unit Luca flew when Jeffrey and the others deserted.\nFor electronic warfare, it is fitted with a radome and Ghosts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3337",
+   "en": "VF-25F Messiah (Alto)\nCutting-edge unit sent to military provider S.M.S., partly for\ntesting. Alto's F type is built for high-mobility combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3338",
+   "en": "VF-25S Messiah (Ozma)\nThe gray unit of Ozma, S.M.S. Skull Squadron's leader. It beats\nthe standard model, and is formidable with Armored Parts on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3339",
+   "en": "VF-25G Messiah (Michael)\nThe VF-25's long-range combat custom, painted blue for Michael. Its sniper rifle and long-range head stand out.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Japanese has Mihaeru (not Mishel), so 'Michael' per the brief. Note: u1069 (VF-25G short label) renders the same name as 'Michel'."
+  },
+  {
+   "id": "u3340",
+   "en": "RVF-25 Messiah (Luca)\nThe VF-25's electronic-warfare custom. Luca's is light green.\nHas a big back radome and carries remote-piloted drones.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3341",
+   "en": "Queadluun-Rhea (Standard)\nEvolved Queadluun-Rau with a back beam cannon and better\narm weapons. Deployed mainly as the Pixie Team's mainstay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3342",
+   "en": "Queadluun-Rhea (Klan)\nKlan's own unit, in her signature crimson. With Klan's great combat skill, it held its own against even the VF-25 in battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3343",
+   "en": "Klan Klang\nPixie Team leader Captain Klan Klang, in her macronized form.\nRaging and grieving at Michel's death, she mowed down Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3344",
+   "en": "VB-6 Konig Monster\nA variable bomber based on the Monster. It excels at mobile\nhit-and-run attacks and boasts awesome, unrivaled firepower.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3345",
+   "en": "Macross Quarter\nOnly ARMD-class in size, yet it bears the Macross name.\nThis agile, hard-hitting ship was once seized by pirates.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3346",
+   "en": "Battle Frontier\nThe linchpin of Frontier's defense: a huge multirole stealth\nattack space carrier. In a crisis, it houses the government.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3347",
+   "en": "Vajra (S)\nSmall type of an insect-like alien life form. Its head fires\nenergy blasts and homing missiles. Its tail blade allows melee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3348",
+   "en": "Vajra (L)\nOver 5 times the small type's size, with great firepower: a big\nback beam that smashes battleships in one hit, missiles, guns.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3349",
+   "en": "VF-27 Lucifer (Standard)\nBuilt from the YF-24 exclusively for cyborg soldiers. Its\nmobility is too extreme for a flesh-and-blood body to endure.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3350",
+   "en": "VF-27 Lucifer (Brera)\nBrera's personal VF-27, in his signature color, purple.\nIts high performance troubled Alto's team time and again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3351",
+   "en": "Battle Galaxy\nMacross Galaxy's Battle-class carrier. Thought lost in a Vajra\nattack, it was in fact part of a plot by Grace and her allies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3352",
+   "en": "YF-25 Prophecy\nThe VF-25's test model, developed from the YF-24. Its head carries multiple sensors so it can record data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3353",
+   "en": "VF-25A Messiah (Standard)\nThe basic VF-25, able to take on many tactical roles with optional gear. S.M.S. flies it, partly for performance evaluation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3354",
+   "en": "VF-25S Messiah (Klan)\nThe commander unit of Klan, S.M.S. Pixie Team leader. Like her Queadluun-Rhea, it bears her signature crimson.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3355",
+   "en": "Macross Quarter\nOnly ARMD-class in size, yet it bears the Macross name. It mounts the Quarter Cannon, with overwhelming destructive power.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Quarter Cannon' is not a glossary entry (plain rendering of the katakana)."
+  },
+  {
+   "id": "u3356",
+   "en": "Hound Vajra\nA mantis-like Vajra with scythes on both arms. It caught Ranka in its abdomen to carry her off, but why remains unknown.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hound Vajra is a provisional glossary entry."
+  },
+  {
+   "id": "u3357",
+   "en": "VF-2SS Valkyrie II\nThe U.N. Forces' main Valkyrie, built with Zentradi technology.\nSilvie and others flew it with distinction against the Mardook.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3358",
+   "en": "VA-1SS Metal Siren\nBuilt as the U.N. Forces' next main unit. On top of the usual 3 modes, it has a 4th, Gundroid mode, which excels in melee.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Gunroid' (gandoroido) mode is not in the glossary; romanized as in Macross II sources. Review: 'Gundroid' (glossary)."
+  },
+  {
+   "id": "u3359",
+   "en": "Proto Metal Siren\nThe Metal Siren prototype shown to the public at the Moon Festival. The Mardook, appearing out of nowhere, nearly seized it.",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Proto Metal Siren is provisional; 'Moon Festival' is not in the glossary. The prototype itself is what the Mardook nearly carried off (rachi = abduct)."
+  },
+  {
+   "id": "u3360",
+   "en": "SNN Valkyrie\nA civilian variable craft owned by SNN. Unarmed and unable to turn into a Battroid, yet it flew every bit as well as military craft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3361",
+   "en": "Gigamesh (Standard)\nThe Mardook's main mobile weapon, made for melee, with\nclaws all over its body and wing cutters on its shoulders.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3362",
+   "en": "Gigamesh (Feff)\nPersonal unit of the Mardook forces' Feff, in his signature red. It fought Silvie fiercely inside the ship as she tried to escape.",
+   "flags": [],
+   "notes": "Review: restored 'Mardook forces' (in the Japanese, dropped in English). Compressed to keep 2 wrapped lines."
+  },
+  {
+   "id": "u3363",
+   "en": "VF-1S Valkyrie (Barnrose)\nPersonal unit of Mariafokina Barnrose, leader of Vindirance.\nPilot skill or specs? Old as it is, it rivaled the newest units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3364",
+   "en": "VF-19A Excalibur Ravens Type\nThe VF-19 of special forces unit VF-X Ravens. High-performing\nbut twitchy, it takes great skill to master.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3365",
+   "en": "VF-22 Sturmvogel II (Wilbur)\nPersonal unit of Wilbur Garland, VF-X Ravens commander.\nIt showed off its might in purging the rebellious Vindirance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3366",
+   "en": "VF-9 Cutlass (Standard)\nGeneral Galaxy's first mass-produced variable fighter. Small and light, it has superb combat mobility.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3367",
+   "en": "VF-9 Cutlass (Max)\nA unit of the Dancing Skull team. Max's, in his signature blue, tore across the battlefield alongside Milia's.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3368",
+   "en": "VF-9 Cutlass (Milia)\nA unit of the Dancing Skull team. Milia's, in her signature red, tore across the battlefield alongside Max's.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u3339: Japanese uses Mihaeru, so the title says 'Michael' per the brief; u1069 (another VF-25G label, slice 12) says 'Michel' - one of the two should be aligned at proofreading.",
+   "u3356: Hound Vajra (provisional glossary entry).",
+   "u3359: Proto Metal Siren (provisional glossary entry)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Quarter Cannon (kuwota kyanon, u3355; also u0830)",
+   "Gunroid mode (gandoroido modo, u3358; also u1098)",
+   "Moon Festival (mun fesutibaru, u3359; also u3039, u3045)"
+  ],
+  "unfinished": []
+ }
+}

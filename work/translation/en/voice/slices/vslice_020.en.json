@@ -1,0 +1,660 @@
+{
+ "slice": 20,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "os_mis/1506",
+   "en": "Galaxy refugee fleet detected at 02, ahead of this ship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone). \"02\" kept as a position code."
+  },
+  {
+   "id": "o7_exd/1506",
+   "en": "I detect the Galaxy refugee fleet at 02, ahead of this ship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone). \"02\" kept as a position code."
+  },
+  {
+   "id": "of_ktr/1506",
+   "en": "Galaxy refugee fleet detected at 02, ahead of this ship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone). \"02\" kept as a position code."
+  },
+  {
+   "id": "o0_of0/1507",
+   "en": "Please escort the refugee fleet to safe fold range.",
+   "flags": [],
+   "notes": "\"fold anzenken\" = the zone where the fleet can fold away safely."
+  },
+  {
+   "id": "o0_of1/1507",
+   "en": "Escort the refugee fleet to safe fold range.",
+   "flags": [],
+   "notes": "\"fold anzenken\" = the zone where the fleet can fold away safely."
+  },
+  {
+   "id": "o0_of2/1507",
+   "en": "Escort the refugee fleet to safe fold range!",
+   "flags": [],
+   "notes": "\"fold anzenken\" = the zone where the fleet can fold away safely."
+  },
+  {
+   "id": "o0_om0/1507",
+   "en": "Escort the refugee fleet to safe fold range.",
+   "flags": [],
+   "notes": "\"fold anzenken\" = the zone where the fleet can fold away safely."
+  },
+  {
+   "id": "os_mis/1507",
+   "en": "Escort the refugee fleet to safe fold range.",
+   "flags": [],
+   "notes": "\"fold anzenken\" = the zone where the fleet can fold away safely."
+  },
+  {
+   "id": "o7_exd/1507",
+   "en": "Escort the refugee fleet to safe fold range.",
+   "flags": [],
+   "notes": "\"fold anzenken\" = the zone where the fleet can fold away safely."
+  },
+  {
+   "id": "of_ktr/1507",
+   "en": "Escort the refugee fleet to safe fold range.",
+   "flags": [],
+   "notes": "\"fold anzenken\" = the zone where the fleet can fold away safely."
+  },
+  {
+   "id": "o0_of0/1508",
+   "en": "The refugee ships are under attack.",
+   "flags": [],
+   "notes": "Plural: the mission escorts a refugee fleet, and later clips count ships sunk."
+  },
+  {
+   "id": "o0_of1/1508",
+   "en": "The refugee ships are under attack!",
+   "flags": [],
+   "notes": "Plural: the mission escorts a refugee fleet, and later clips count ships sunk."
+  },
+  {
+   "id": "o0_of2/1508",
+   "en": "The refugee ships are under attack!",
+   "flags": [],
+   "notes": "Plural: the mission escorts a refugee fleet, and later clips count ships sunk."
+  },
+  {
+   "id": "o0_om0/1508",
+   "en": "The refugee ships are under attack!",
+   "flags": [],
+   "notes": "Plural: the mission escorts a refugee fleet, and later clips count ships sunk."
+  },
+  {
+   "id": "os_mis/1508",
+   "en": "The refugee ships are under attack!",
+   "flags": [],
+   "notes": "Plural: the mission escorts a refugee fleet, and later clips count ships sunk."
+  },
+  {
+   "id": "o7_exd/1508",
+   "en": "The refugee ships are under attack!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone). Plural: the mission escorts a refugee fleet, and later clips count ships sunk."
+  },
+  {
+   "id": "of_ktr/1508",
+   "en": "The refugee ships are under attack!",
+   "flags": [],
+   "notes": "Plural: the mission escorts a refugee fleet, and later clips count ships sunk."
+  },
+  {
+   "id": "o0_of0/1509",
+   "en": "Refugee ship damage rising.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"nanmin sendou\": read as nanmin-sen no (refugee ships')"
+  },
+  {
+   "id": "o0_of1/1509",
+   "en": "Refugee ship damage rising.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "o0_of2/1509",
+   "en": "Refugee ship damage rising.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "o0_om0/1509",
+   "en": "Refugee ship damage rising.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "os_mis/1509",
+   "en": "Refugee ship damage rising.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "o7_exd/1509",
+   "en": "Refugee ship damage rising.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "of_ktr/1509",
+   "en": "Refugee ship damage rising.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "o0_of0/1510",
+   "en": "Refugee ships can't hold much longer.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "o0_of1/1510",
+   "en": "Refugee ships can't hold much longer.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "o0_of2/1510",
+   "en": "Refugee ships can't hold much longer!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "o0_om0/1510",
+   "en": "Refugee ships can't hold much longer!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "os_mis/1510",
+   "en": "Refugee ships can't hold much longer.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"namizen\": read as nanmin-sen (refugee ships)"
+  },
+  {
+   "id": "o7_exd/1510",
+   "en": "The refugee ships will not hold out much longer.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "of_ktr/1510",
+   "en": "Refugee ships can't hold much longer.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "o0_of0/1511",
+   "en": "One refugee ship has been sunk!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)"
+  },
+  {
+   "id": "o0_of1/1511",
+   "en": "One refugee ship sunk!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)"
+  },
+  {
+   "id": "o0_of2/1511",
+   "en": "One refugee ship sunk!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)"
+  },
+  {
+   "id": "o0_om0/1511",
+   "en": "One refugee ship sunk!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)"
+  },
+  {
+   "id": "os_mis/1511",
+   "en": "One refugee ship sunk!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)"
+  },
+  {
+   "id": "o7_exd/1511",
+   "en": "One refugee ship has been sunk.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)"
+  },
+  {
+   "id": "of_ktr/1511",
+   "en": "One refugee ship sunk!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)"
+  },
+  {
+   "id": "o0_of0/1512",
+   "en": "Two refugee ships have been sunk!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk"
+  },
+  {
+   "id": "o0_of1/1512",
+   "en": "Two refugee ships sunk!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk"
+  },
+  {
+   "id": "o0_of2/1512",
+   "en": "Two refugee ships sunk!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk"
+  },
+  {
+   "id": "o0_om0/1512",
+   "en": "Two refugee ships sunk!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk"
+  },
+  {
+   "id": "os_mis/1512",
+   "en": "Two refugee ships sunk!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk"
+  },
+  {
+   "id": "o7_exd/1512",
+   "en": "Two refugee ships have been sunk.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk"
+  },
+  {
+   "id": "of_ktr/1512",
+   "en": "Two refugee ships sunk!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk"
+  },
+  {
+   "id": "o0_of0/1513",
+   "en": "Three refugee ships have been sunk... Any survivors...?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\""
+  },
+  {
+   "id": "o0_of1/1513",
+   "en": "Three refugee ships sunk... Any survivors...?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\""
+  },
+  {
+   "id": "o0_of2/1513",
+   "en": "Three refugee ships sunk... Any survivors...?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\""
+  },
+  {
+   "id": "o0_om0/1513",
+   "en": "Three refugee ships sunk... Any survivors...?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\""
+  },
+  {
+   "id": "os_mis/1513",
+   "en": "Three refugee ships sunk... Any survivors...?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\""
+  },
+  {
+   "id": "o7_exd/1513",
+   "en": "Three refugee ships have been sunk... Are there survivors...?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\""
+  },
+  {
+   "id": "of_ktr/1513",
+   "en": "Three refugee ships sunk... Any survivors...?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\""
+  },
+  {
+   "id": "o0_of0/1514",
+   "en": "The refugee ships have left the combat zone for safe fold range.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone); nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "o0_of1/1514",
+   "en": "The refugee ships have left the combat zone for safe fold range.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone); nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "o0_of2/1514",
+   "en": "The refugee ships have left the combat zone for safe fold range!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone)"
+  },
+  {
+   "id": "o0_om0/1514",
+   "en": "The refugee ships have left the combat zone for safe fold range!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone)"
+  },
+  {
+   "id": "os_mis/1514",
+   "en": "The refugee ships have left the combat zone for safe fold range.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone); nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "o7_exd/1514",
+   "en": "The refugee ships have left the combat zone for safe fold range.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone); nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "of_ktr/1514",
+   "en": "The refugee ships have left the combat zone for safe fold range.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone); nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)"
+  },
+  {
+   "id": "o0_of0/1515",
+   "en": "A Vajra fleet has defolded in the space around the Frontier.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone)"
+  },
+  {
+   "id": "o0_of1/1515",
+   "en": "A Vajra fleet has defolded in the space around the Frontier!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone)"
+  },
+  {
+   "id": "o0_of2/1515",
+   "en": "A Vajra fleet has defolded in the space around the Frontier!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone)"
+  },
+  {
+   "id": "o0_om0/1515",
+   "en": "A Vajra fleet has defolded in the space around the Frontier!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki (space zone) heard as chiiki (region)"
+  },
+  {
+   "id": "os_mis/1515",
+   "en": "A Vajra fleet has defolded in the space around the Frontier!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone)"
+  },
+  {
+   "id": "o7_exd/1515",
+   "en": "A Vajra fleet has defolded in the space around the Frontier.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone)"
+  },
+  {
+   "id": "of_ktr/1515",
+   "en": "A Vajra fleet has defolded in the space around the Frontier.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone)"
+  },
+  {
+   "id": "o0_of0/1516",
+   "en": "Cruiser-class warships appear to be present as well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1516",
+   "en": "Looks like there are cruiser-class warships too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1516",
+   "en": "Looks like there are cruiser-class warships too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1516",
+   "en": "Cruiser-class warships appear to be present too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1516",
+   "en": "Looks like there are cruiser-class warships too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1516",
+   "en": "There appear to be cruiser-class warships as well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1516",
+   "en": "There seem to be cruiser-class warships too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1517",
+   "en": "This is a large Vajra ship! Please be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1517",
+   "en": "This is a large Vajra ship! Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1517",
+   "en": "This is a large Vajra ship! Watch out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1517",
+   "en": "This is a large Vajra ship. Watch out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1517",
+   "en": "This is a large Vajra ship! Be careful!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled (\"kore wo ... -you\"): read as kore wa ... da yo, as the other operators"
+  },
+  {
+   "id": "o7_exd/1517",
+   "en": "This is a large Vajra ship! Take care!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1517",
+   "en": "This is a large Vajra ship. Be careful.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1531-1579: \"nanmin-sen\" rendered as plural refugee ships (the fleet loses one, two, three ships); Whisper wrote \"refugee war\" in most clips.",
+   "rows 1517-1523: \"zenpou 02\" kept as a position code (\"at 02\")."
+  ],
+  "whisper_doubt": [
+   "row 1521: sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone). \"02\" kept as a position code.",
+   "row 1522: sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone). \"02\" kept as a position code.",
+   "row 1523: sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone). \"02\" kept as a position code.",
+   "row 1536: nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone). Plural: the mission escorts a refugee fleet, and later clips count ships sunk.",
+   "row 1538: Transcript \"nanmin sendou\": read as nanmin-sen no (refugee ships')",
+   "row 1539: nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1540: nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1541: nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1542: nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1543: nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1544: nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1545: nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1546: nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1547: nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1548: nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1549: Transcript \"namizen\": read as nanmin-sen (refugee ships)",
+   "row 1550: nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1551: nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1552: Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)",
+   "row 1553: Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)",
+   "row 1554: Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)",
+   "row 1555: Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)",
+   "row 1556: Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)",
+   "row 1557: Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)",
+   "row 1558: Transcript garbled (\"isseki ...\"): read as nanmin-sen isseki gouchin, one refugee ship sunk, as the next clips (two, three ships sunk)",
+   "row 1559: Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk",
+   "row 1560: Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk",
+   "row 1561: Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk",
+   "row 1562: Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk",
+   "row 1563: Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk",
+   "row 1564: Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk",
+   "row 1565: Transcript garbled (\"niseki ...\"): read as nanmin-sen niseki gouchin, two refugee ships sunk",
+   "row 1566: Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\"",
+   "row 1567: Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\"",
+   "row 1568: Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\"",
+   "row 1569: Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\"",
+   "row 1570: Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\"",
+   "row 1571: Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\"",
+   "row 1572: Transcript garbled (\"sanseki ...\"): read as sanseki gouchin, three ships sunk; the line trails off on \"survivors...\"",
+   "row 1573: chuuiki written as \"middle area\" instead of \"space zone\" (homophone); nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1574: chuuiki written as \"middle area\" instead of \"space zone\" (homophone); nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1575: chuuiki written as \"middle area\" instead of \"space zone\" (homophone)",
+   "row 1576: chuuiki written as \"middle area\" instead of \"space zone\" (homophone)",
+   "row 1577: chuuiki written as \"middle area\" instead of \"space zone\" (homophone); nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1578: chuuiki written as \"middle area\" instead of \"space zone\" (homophone); nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1579: chuuiki written as \"middle area\" instead of \"space zone\" (homophone); nanmin-sen: \"refugee ship\" written as \"refugee war\" (homophone)",
+   "row 1580: chuuiki written as \"middle area\" instead of \"space zone\" (homophone)",
+   "row 1581: chuuiki written as \"middle area\" instead of \"space zone\" (homophone)",
+   "row 1582: chuuiki written as \"middle area\" instead of \"space zone\" (homophone)",
+   "row 1583: chuuiki (space zone) heard as chiiki (region)",
+   "row 1584: chuuiki written as \"middle area\" instead of \"space zone\" (homophone)",
+   "row 1585: chuuiki written as \"middle area\" instead of \"space zone\" (homophone)",
+   "row 1586: chuuiki written as \"middle area\" instead of \"space zone\" (homophone)",
+   "row 1598: Transcript garbled (\"kore wo ... -you\"): read as kore wa ... da yo, as the other operators"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "slice": 44,
+ "rows_in_slice": 24,
+ "rows_examined": 24,
+ "rows": [
+  {
+   "id": "u5538",
+   "en": "As for \"Outing\"[speed:40]...[speed:100] um,[wait:100] that's a secret[speed:40]...",
+   "flags": [],
+   "notes": "Operator Yuu Akimizu explains the three monthly actions; this is the third. Japanese 'kibun tenkan' (change of pace) rendered 'Outing' (the action is going out with someone/somewhere); the term is not in the glossary yet."
+  },
+  {
+   "id": "u5539",
+   "en": "Here you spend your \"Mind/Technique/Body\" EXP[wait:100]",
+   "flags": [],
+   "notes": "Shin/Gi/Tai stats rendered Mind/Technique/Body (not in the glossary yet; 'Skill' avoided because skills are a separate system). Refit: this window neither wraps nor squeezes (docs/vwf.md); 333 px box."
+  },
+  {
+   "id": "u5540",
+   "en": "to raise your abilities or learn skills.[wait:300]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5541",
+   "en": "Just be careful not to waste your EXP!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5542",
+   "en": "Depending on last week's choices, the lower right[wait:100]",
+   "flags": [],
+   "notes": "Sentence runs over u5542-u5543; cut kept at the same point (the screen corner is in the first row). Refit: this window neither wraps nor squeezes (docs/vwf.md); 333 px box."
+  },
+  {
+   "id": "u5543",
+   "en": "of the screen will sometimes show a character icon.[wait:100]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5544",
+   "en": "This is a \"Chara Boost.\"[wait:100]",
+   "flags": [],
+   "notes": "Game term 'kyara boosuto' kept as 'Chara Boost' (not in the glossary yet)."
+  },
+  {
+   "id": "u5545",
+   "en": "While the icon is displayed, you get all kinds of[wait:100]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5546",
+   "en": "effects, so make good use of them![wait:100]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5547",
+   "en": "Please choose the characters you'll use.[wait:300]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5548",
+   "en": "\"Pilot\" is the character you control yourself.[wait:300]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5549",
+   "en": "\"Partner\" is the wingman who sorties alongside you.[wait:300]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5550",
+   "en": "\"Support\" is a character who gives you all sorts of[wait:100]",
+   "flags": [],
+   "notes": "Sentence runs over u5550-u5551."
+  },
+  {
+   "id": "u5551",
+   "en": "help in battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5552",
+   "en": "On this screen, you can[wait:100]",
+   "flags": [],
+   "notes": "List over u5552-u5555: 'On this screen, you can' + three quoted menu actions + 'and more'."
+  },
+  {
+   "id": "u5553",
+   "en": "\"Choose a mission to sortie on\",[wait:300]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5554",
+   "en": "\"Set the units you and your partner fly\",[wait:300]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5555",
+   "en": "\"View your battle record\" and more.[wait:300]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5556",
+   "en": "Pick the menu that fits what you want to do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5557",
+   "en": "The Nyan-Nyan Shop sells all sorts of things[wait:100]",
+   "flags": [],
+   "notes": "Refit: this window neither wraps nor squeezes (docs/vwf.md); 333 px box."
+  },
+  {
+   "id": "u5558",
+   "en": "for Nyan-Nyan Points, but my number one pick is[wait:100]",
+   "flags": [],
+   "notes": "Refit: this window neither wraps nor squeezes (docs/vwf.md); 333 px box."
+  },
+  {
+   "id": "u5559",
+   "en": "\"Tune Points\"![wait:300]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5560",
+   "en": "If you try to buy a unit you already own,[wait:100]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5561",
+   "en": "you can buy Tune Points instead!",
+   "flags": [],
+   "notes": "'instead' makes explicit that Tune Points are offered in place of the duplicate unit."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "Campus action and stat names are not in the glossary; chosen here: Class (jugyou), Day Off (kyuuka), Outing (kibun tenkan), Mind/Technique/Body (shin/gi/tai), Chara Boost. Slices 38/43/45 use the same words and should be aligned with whatever the glossary settles.",
+   "u5542-u5543: one sentence split over two rows at the same point as the Japanese (the screen corner in the first row)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "kibun tenkan (Outing)",
+   "shin/gi/tai (Mind/Technique/Body)",
+   "kyara boosuto (Chara Boost)"
+  ],
+  "unfinished": []
+ }
+}

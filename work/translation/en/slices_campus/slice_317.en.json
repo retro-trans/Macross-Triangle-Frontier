@@ -1,0 +1,549 @@
+{
+ "slice": 317,
+ "rows_in_slice": 69,
+ "rows_examined": 69,
+ "rows": [
+  {
+   "id": "c22906",
+   "en": "(Homemade chocolate from Pinon-chan...\nI'd better savor every bite.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22907",
+   "en": "(I bought chocolate for Saotome-kun, since we\nalways get along so well, but now that it's time\nto give it to him, I'm nervous after all...)",
+   "flags": [],
+   "notes": "Female player."
+  },
+  {
+   "id": "c22908",
+   "en": "(I wanted to give Saotome-kun the chocolate,\nbut the timing never worked out...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22909",
+   "en": "Hey, \\p.\nWhat are you doing over there?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22910",
+   "en": "Huh, Saotome-kun?! You're still here?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22911",
+   "en": "What, is there a problem with that?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22912",
+   "en": "No, I was just looking for you.\nHere, this chocolate's for you.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22913",
+   "en": "Yeah, I'm glad I managed to give it to you.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22914",
+   "en": "Then I'll have to pay you back on White Day.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22915",
+   "en": "Oh, you don't have to worry about that...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22916",
+   "en": "It'd feel wrong to just take it and give nothing.\nBesides, it's to thank you for everything, too...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22917",
+   "en": "Wow, so you can be thoughtful like that, huh?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22918",
+   "en": "Tch, forget it! I'm not giving you anything back!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22919",
+   "en": "I was just kidding~",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22920",
+   "en": "(Is Saotome-kun just a stickler for returning\nfavors... or...?)",
+   "flags": [],
+   "notes": "Giri-gatai."
+  },
+  {
+   "id": "c22921",
+   "en": "(I feel bad for Saotome-kun, but it's too\nembarrassing after all. I can't give him\nthe chocolate...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The Japanese line lacks its opening bracket (source typo: only the closing one is there). Opening parenthesis added since it is clearly the player's inner monologue, as in the matching lines for the other boys."
+  },
+  {
+   "id": "c22922",
+   "en": "(Hmm, I wanted to give Michel-kun the chocolate,\nbut the timing never worked out...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22923",
+   "en": "Whoa, what are you doing in a place like this,\n\\p?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22924",
+   "en": "Huh? Oh, um, well...\nI was hoping to give you some chocolate,\nMichel-kun...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22925",
+   "en": "Well, what do you know.\nI was bummed, thinking I wouldn't get any\nfrom you, but you had some ready for me.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22926",
+   "en": "Sorry it's so late...\nHere, Michel-kun.\nThis Valentine's chocolate is for you.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22927",
+   "en": "Thanks, \\p.\nI'll be sure to enjoy it later.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22928",
+   "en": "And I'll pay you back properly on White Day,\nso look forward to it.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22929",
+   "en": "(It was a bit late, but I'm glad I managed\nto give Michel-kun the chocolate. I wonder\nwhat he'll give me back on White Day?)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22930",
+   "en": "(I wanted to give Luca-kun the chocolate,\nbut the timing never worked out...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22931",
+   "en": "Luca-kun! I've been looking for you all over~",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22932",
+   "en": "You were?\nIs something wrong?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22933",
+   "en": "Here, Luca-kun. It's late, but\nthis is your Valentine's chocolate.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22934",
+   "en": "Oh, thank you very much.\nI'll be sure to enjoy it later.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22935",
+   "en": "Oh, and I'll be sure to return the favor on\nWhite Day, so look forward to it!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22936",
+   "en": "(It was a bit late, but I'm glad I managed\nto give Luca-kun the chocolate. I wonder\nwhat he'll give me back on White Day?)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22937",
+   "en": "Oh, \\p-kun!",
+   "flags": [],
+   "notes": "Nanase, male player."
+  },
+  {
+   "id": "c22938",
+   "en": "Here. I thought I'd give this to you,\n\\p-kun...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22939",
+   "en": "Huh? This is for me?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22940",
+   "en": "You always help me out, so I thought maybe...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22941",
+   "en": "Wow, thank you!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22942",
+   "en": "I gave it a Chinese-style twist, so I can't\npromise how it'll taste, though.",
+   "flags": [],
+   "notes": "Chuuka-fuu: Nanase works at the Chinese restaurant Nyan-Nyan."
+  },
+  {
+   "id": "c22943",
+   "en": "Ch-Chinese-style...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22944",
+   "en": "Well then, I'll be heading home.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22945",
+   "en": "(If she put her own twist on it, that means\nit's homemade chocolate, right...?)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22946",
+   "en": "H-heeey!\n\\p-kun!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22947",
+   "en": "Huh, Ranka?\nWeren't you working today?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22948",
+   "en": "...Yeah, but I got a little time off,\nand there was something I wanted to give you.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22949",
+   "en": "Something for me?",
+   "flags": [],
+   "notes": "Ranka and Klan scenes."
+  },
+  {
+   "id": "c22950",
+   "en": "Geez~ Today's Valentine's Day, isn't it?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22951",
+   "en": "Here! Take it!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22952",
+   "en": "Huh? Oh, th-thanks!\nI hadn't gotten any from anyone,\nso I'm really happy!!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22953",
+   "en": "So mine's the only one, huh?\nThat makes me kinda happy.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22954",
+   "en": "Well, I'd better get back!\nThat chocolate's homemade, by the way!!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22955",
+   "en": "(Homemade chocolate from Ranka...\nI'd better savor every bite.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22956",
+   "en": "Huh, Sheryl?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22957",
+   "en": "Why the gloomy face?\nI know, you didn't get any chocolate!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22958",
+   "en": "Sh-shut up...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22959",
+   "en": "Oh, did I hit the nail on the head...? Sorry...",
+   "flags": [],
+   "notes": "Zuboshi."
+  },
+  {
+   "id": "c22960",
+   "en": "Nah, it's fine...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22961",
+   "en": "Oh, it can't be helped. Then I, Sheryl,\nwill give you some chocolate!",
+   "flags": [],
+   "notes": "Kono Sheryl ga: Sheryl referring to herself by name."
+  },
+  {
+   "id": "c22962",
+   "en": "Don't get the wrong idea. I'm only doing it\nout of pity for you!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22963",
+   "en": "Don't mention it. But you owe me big for this,\nso don't you forget it!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22964",
+   "en": "(It doesn't look great, but it's tasty...\nWait, is this homemade?)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22965",
+   "en": "H-hey! \\p!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22966",
+   "en": "Oh, Klan-senpai!\nWhat brings you to Mihoshi?\nDo you need something?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22967",
+   "en": "...I have something to give you!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22968",
+   "en": "T-today's Valentine's Day, after all!\nSo I, in my great kindness, shall give\nyou some chocolate!",
+   "flags": [],
+   "notes": "Kokoro yasashii watashi ga: Klan's grand self-description kept."
+  },
+  {
+   "id": "c22969",
+   "en": "Here! Take it!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22970",
+   "en": "Huh? Oh, th-thank you so much!\nI hadn't gotten any from anyone,\nso I'm really happy!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22971",
+   "en": "Listen, it's just obligation chocolate! Obligation!\nDon't get any weird ideas.",
+   "flags": [],
+   "notes": "Giri = 'obligation chocolate', as c22807."
+  },
+  {
+   "id": "c22972",
+   "en": "Mm, good.\nI-it's chocolate I made myself, so savor it well!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22973",
+   "en": "S-see you!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22974",
+   "en": "(Homemade chocolate from Klan-senpai...\nI'd better savor every bite.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c22921: The Japanese line lacks its opening bracket (source typo: only the closing one is there). Opening parenthesis added since it is clearly the player's inner monologue, as in the matching lines for the other boys."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

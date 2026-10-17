@@ -1,0 +1,627 @@
+{
+ "slice": 316,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c22826",
+   "en": "(Or so I hoped, but in the end\nI didn't get a single one from anyone...)",
+   "flags": [],
+   "notes": "x3: Shirakawa, Claire and Ranka Valentine scenes (male player). Follows c21769 'I hope I get at least one from someone'."
+  },
+  {
+   "id": "c22827",
+   "en": "U-um...!\n\\p-kun!!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22828",
+   "en": "Shirakawa...\nWhat are you doing here?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22829",
+   "en": "...I had something to give you...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22830",
+   "en": "Something for me?\nYou could've just given it to me in class.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22831",
+   "en": "I-in class would be a little... you know?\nUm, here... It's chocolate...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22832",
+   "en": "...P-please accept it!!",
+   "flags": [],
+   "notes": "Sashiagemasu: stiff, over-polite."
+  },
+  {
+   "id": "c22833",
+   "en": "Huh? Oh, th-thanks!\nI hadn't gotten any from anyone,\nso I'm really happy!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22834",
+   "en": "I'm giving it to you to thank you for everything,\nso th-there's no deeper meaning, okay?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22835",
+   "en": "O-okay, got it.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22836",
+   "en": "Um, just so you know... I made it myself...!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22837",
+   "en": "Huh? Homemade?",
+   "flags": [],
+   "notes": "x3: Shirakawa, Ranka, Klan scenes."
+  },
+  {
+   "id": "c22838",
+   "en": "(Homemade chocolate from Shirakawa...\nI'd better savor every bite.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22839",
+   "en": "(It's Valentine's Day, huh...\nI wonder if I'll get any...)",
+   "flags": [],
+   "notes": "x4: Hilda, Akimizu, Nanase, Sheryl scenes (male player)."
+  },
+  {
+   "id": "c22840",
+   "en": "(Hmm, a total wipeout this year...\nThat's rough...)",
+   "flags": [],
+   "notes": "x4, as c22839."
+  },
+  {
+   "id": "c22841",
+   "en": "Hey, \\p, what's wrong?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22842",
+   "en": "Oh, Hilda-sensei...\nNo, it's nothing...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22843",
+   "en": "I see. You had a gloomy look on your face...\nI'd guess you didn't get any chocolate\non Valentine's Day. Something like that?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22844",
+   "en": "Sensei, you don't have to put it so bluntly...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22845",
+   "en": "So that's what it is...\nHonestly, you're young. Quit moping around.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22846",
+   "en": "But, Sensei...!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22847",
+   "en": "Here. Make do with this.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22848",
+   "en": "Sensei, what's this...?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22849",
+   "en": "I made it myself. Be grateful.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22850",
+   "en": "Th-thank you very much!\nDid you prepare this ahead of time?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22851",
+   "en": "Well, every year there's someone like you,\nso just in case...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22852",
+   "en": "You're the best, Sensei! Thank you so much!",
+   "flags": [],
+   "notes": "Sasuga sensei, kansha shimasu."
+  },
+  {
+   "id": "c22853",
+   "en": "Mm. Well then, get home safely.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22854",
+   "en": "(...Wait, this chocolate has my name on it...\nDid Hilda-sensei make this for me\nahead of time...?)",
+   "flags": [],
+   "notes": "The name on it shows she prepared it for him in particular, not 'just in case'."
+  },
+  {
+   "id": "c22855",
+   "en": "(Or so I hoped, but in the end\nI didn't get any from anyone...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22856",
+   "en": "Heeey, \\p~!!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22857",
+   "en": "What's up, Hoshimura?\nDo you need something from me?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22858",
+   "en": "W-well, actually, there's something\nI want to give you...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22859",
+   "en": "Something you want to give me?",
+   "flags": [],
+   "notes": "Hoshimura and Pinon scenes."
+  },
+  {
+   "id": "c22860",
+   "en": "It's Valentine's Day, right?\nSo, uhh, I was thinking I might go ahead\nand give you some chocolate from me...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22861",
+   "en": "So yeah, here! It's yours!!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22862",
+   "en": "Huh?! Oh, th-thanks!\nI hadn't gotten any from anyone,\nso I'm really happy.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22863",
+   "en": "I made it myself, but it might not suit\nyour taste, \\p, so don't force\nyourself to eat it, okay...?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22864",
+   "en": "You made it yourself, Hoshimura?\nThen I'll make sure to savor every bite.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22865",
+   "en": "Then savor it properly, and tell me\nwhat you thought later!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22866",
+   "en": "S-see ya!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22867",
+   "en": "Yeah, thanks, Hoshimura.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22868",
+   "en": "(Homemade chocolate from Hoshimura...\nI'd better savor every bite.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22869",
+   "en": "(I wanted to give Yamashiro-sensei the\nchocolate, but the timing never worked out...)",
+   "flags": [],
+   "notes": "Female player."
+  },
+  {
+   "id": "c22870",
+   "en": "\\p.\nSo this is where you were.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22871",
+   "en": "Y-Yamashiro-sensei?! What brings you here?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22872",
+   "en": "You've been acting all day as though you\nhad business with me, so I was looking for you.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22873",
+   "en": "Sorry you had to go to the trouble.\nThis is Valentine's chocolate.\nPlease take it, if you'd like!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22874",
+   "en": "I see... Thank you.\nI'll be sure to enjoy it later.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22875",
+   "en": "Hmm, I'll need to return the favor on White Day.\nI'll give it some thought.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22876",
+   "en": "(It was a bit late, but I'm glad I managed\nto give Yamashiro-sensei the chocolate.\nI wonder what he'll give me back on White Day?)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22877",
+   "en": "Oh, \\p-kun!\nYou're still here. Thank goodness~",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22878",
+   "en": "Hm? What's up, Akimizu?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22879",
+   "en": "Um, I wanted to give you this...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22880",
+   "en": "Wait, is this...?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22881",
+   "en": "...Um, well...\nIt's a thank-you for always looking out for me!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22882",
+   "en": "You don't have to stress the \"thank-you\" part...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22883",
+   "en": "Oh, sorry...\nBut it's not only that, either...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22884",
+   "en": "Oh, no, never mind!\nWell, see you tomorrow!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22885",
+   "en": "Ah! Akimizu!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22886",
+   "en": "(That chocolate looked cute and tasted great...\nIt was obviously homemade, too.\nThat's Akimizu for you.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22887",
+   "en": "Oh, Claire-senpai!\nWhat brings you to Mihoshi?\nDo you need something?",
+   "flags": [],
+   "notes": "Claire comes from outside the school; Bisei = Mihoshi."
+  },
+  {
+   "id": "c22888",
+   "en": "...Listen to you. You know perfectly well why...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22889",
+   "en": "Oh, could it be...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22890",
+   "en": "Yes... Homemade chocolate for Valentine's.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22891",
+   "en": "Please take it.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22892",
+   "en": "Huh? Oh, th-thank you so much!\nI hadn't gotten any from anyone, so I'm really\nhappy! And it's homemade, too!!",
+   "flags": [],
+   "notes": "Three Japanese lines kept as three lines, rebalanced."
+  },
+  {
+   "id": "c22893",
+   "en": "Seeing you this happy makes it worth the effort.\nMake sure you savor it, okay?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22894",
+   "en": "Thank you, Senpai!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22895",
+   "en": "(Homemade chocolate from Claire-senpai...\nI'd better savor every bite.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22896",
+   "en": "Hey, \\p, got a minute...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22897",
+   "en": "Hm? Pinon-chan?\nDo you need something from me?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22898",
+   "en": "Actually, I've got something to give you...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22899",
+   "en": "T-today's Valentine's Day, see.\nSo I figured I'd let you have some chocolate...",
+   "flags": [],
+   "notes": "Kurete yaru: condescending giving."
+  },
+  {
+   "id": "c22900",
+   "en": "Here... take it!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22901",
+   "en": "Huh? Oh, th-thanks!\nI hadn't gotten any from anyone,\nso I'm really happy.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22902",
+   "en": "I-I made it myself, you know...\nI bet it's ridiculously delicious!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22903",
+   "en": "Whoa, you made it yourself, Pinon-chan?\nI'll make sure to savor it.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22904",
+   "en": "Of course you will!\nCareful it's not so good it knocks you flat!\nS-see ya!",
+   "flags": [],
+   "notes": "Koshi wo nukasu = be floored."
+  },
+  {
+   "id": "c22905",
+   "en": "Yeah, thanks, Pinon-chan.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

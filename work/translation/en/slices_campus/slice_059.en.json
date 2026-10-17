@@ -1,0 +1,499 @@
+{
+ "slice": 59,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c04388",
+   "en": "Mmm~!\nThe sun's so dazzling~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04389",
+   "en": "(You're the dazzling one, Senpai!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04390",
+   "en": "Hey, why don't we go down to the water's edge?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04391",
+   "en": "Yes! I'll come with you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04392",
+   "en": "That was fun again today~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04393",
+   "en": "I had fun too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04394",
+   "en": "Invite me again, okay?\nI'll keep my schedule open.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04395",
+   "en": "Of course!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04396",
+   "en": "(That was another nice change of pace!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04397",
+   "en": "(Another beach vacation with Claire-senpai today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04398",
+   "en": "Together, that is...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04399",
+   "en": "Y-yesss~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04400",
+   "en": "(I think you're the dazzling one, Senpai!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04401",
+   "en": "Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04402",
+   "en": "I had fun too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04403",
+   "en": "(That was another nice change of pace today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04404",
+   "en": "(I've been goofing off way too much lately,\nso I'm gonna study really hard!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04405",
+   "en": "Hmmm...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04406",
+   "en": "Sigh... I don't get this at all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04407",
+   "en": "What's wrong?\nSighing like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04408",
+   "en": "Oh, Claire-senpai...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04409",
+   "en": "Hello.\nStudying all by yourself? How admirable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04410",
+   "en": "I'm not admirable at all.\nI've just goofed off so much that I'm in\nbig trouble for the test...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04411",
+   "en": "Hmm, so the subject is math.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04412",
+   "en": "If you'd like, how about I give you\na little lecture?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04413",
+   "en": "Huh?! Really?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04414",
+   "en": "I was thinking of brushing up on my own\nstudies anyway.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04415",
+   "en": "Are you trying to get some kind of\nqualification?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04416",
+   "en": "I've been thinking maybe I'll try\nchasing a dream, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04417",
+   "en": "Whoa~!! That's amazing!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04418",
+   "en": "It's not amazing at all...\nAnyway, that's how it is, so let's study together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04419",
+   "en": "Hey, you're being too loud!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04420",
+   "en": "Sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04421",
+   "en": "Look, here you just substitute it for X\nand you get the answer, see?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04422",
+   "en": "Got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04423",
+   "en": "Umm...\nCould you go over it one more time?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04424",
+   "en": "Oh, come on!\nLook, there's an X, right? That X right there!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04425",
+   "en": "S-Senpai, your voice...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04426",
+   "en": "Hey, are you even listening?\n\\p-kun!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04427",
+   "en": "I can't see properly from across the table!\nI'm coming over there, so wait right there!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04428",
+   "en": "(Is Claire-senpai secretly hot-blooded?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04429",
+   "en": "Once more, from the beginning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04430",
+   "en": "Whoa!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04431",
+   "en": "What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04432",
+   "en": "Please don't suddenly whisper in my ear...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04433",
+   "en": "Well, you're the one who told me\nnot to talk so loud.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04434",
+   "en": "That tickles, Senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04435",
+   "en": "Come on, hurry up and do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04436",
+   "en": "Y-yesss!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04437",
+   "en": "Thank you for today...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04438",
+   "en": "Make sure you prepare and review regularly, okay?\nYou're the one who'll suffer later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04439",
+   "en": "(She's kind of like a teacher...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04440",
+   "en": "No, it's nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04441",
+   "en": "I'll help you study again when I'm free,\nso keep at it, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04442",
+   "en": "Yes, I'll work super hard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04443",
+   "en": "(Phew... Claire-senpai sure seems different\nwhen it comes to studying.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04444",
+   "en": "(I've been goofing off too much lately,\nso I'm gonna study really hard!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04445",
+   "en": "Sigh...... I don't get this at all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04446",
+   "en": "Hello.\nWhat's this, studying all by yourself?\nHow admirable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04447",
+   "en": "I'm not admirable at all.\nI was just studying for the upcoming test.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04448",
+   "en": "He~y, you're being too loud!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04449",
+   "en": "I'm sorry~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04450",
+   "en": "Are you listening?\n\\p-chan!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04451",
+   "en": "That tickles, Senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04452",
+   "en": "(She's kind of like a teacher......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04453",
+   "en": "(Phew... Claire-senpai sure seems different\nwhen it comes to studying.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04454",
+   "en": "(I'm gonna knock out my homework fast!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04455",
+   "en": "Oh, studying again today?\nMind if I join you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04456",
+   "en": "If it's you, Claire-senpai, I'd be glad to!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04457",
+   "en": "You've gotten awfully smooth-talking.\nWhat am I going to do with you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04458",
+   "en": "I'm telling the truth...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04459",
+   "en": "Yes, yes.\nNow, let's study~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04460",
+   "en": "Thanks again for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04461",
+   "en": "Was I any help?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04462",
+   "en": "You sure were.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04463",
+   "en": "I can't look after you forever, you know.\nYou need to get your act together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04464",
+   "en": "Geez... Don't make such a lonely face.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04465",
+   "en": "Let's grab something sweet on the way home.\nMy treat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04466",
+   "en": "I'll leave you behind~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04467",
+   "en": "Ah! Please wait!!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c04412: rekuchaa rendered 'a little lecture' (tutoring offer).",
+   "c04415: shikaku rendered 'qualification'.",
+   "c04462: 'bacchiri desu yo' (answer to 'Was I any help?') rendered 'You sure were.'",
+   "c04422 is shared with Hoshimura (frd_yui_008): 'Got it?' is neutral enough for her old-fashioned voice.",
+   "c04440 is shared with frd_hld_005: 'No, it's nothing!' fits both."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,471 @@
+{
+ "slice": 13,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c00906",
+   "en": "Well then, do try to keep your wits about you!",
+   "flags": [],
+   "notes": "Refusal path of ext_gra_002 (the player was lost); 'shikkari suru' = pull yourself together. Echoes gra_001's parting jab."
+  },
+  {
+   "id": "c00907",
+   "en": "(This goes way beyond refreshed! I can see not just\nthe Macross, but the whole galaxy!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00908",
+   "en": "(I'll grab some hippo-cow ice cream on the way home!)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "kabagyuu (hippo-cow): Frontier food animal, not in the glossary."
+  },
+  {
+   "id": "c00909",
+   "en": "(My head feels clear, which is great, but...\nsomething's still missing...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00910",
+   "en": "Oh my, it's you again...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'ara ara, anata wa...': she recognizes the player from earlier encounters; 'again' added for the repeat meeting."
+  },
+  {
+   "id": "c00911",
+   "en": "Oh, hello!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00912",
+   "en": "So, is something troubling you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00913",
+   "en": "It's not really what I'd call trouble, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00914",
+   "en": "Wait!\nYou don't have to say it. I know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00915",
+   "en": "You want to get... refreshed, don't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00916",
+   "en": "Yes, a refresh that reaches every corner of your body...\nthe Full-Body Refresh.",
+   "flags": [],
+   "notes": "Product-style name 'furu bodii sukkiri' rendered 'Full-Body Refresh'; sukkiri = 'refresh' throughout the ext_gra scenes."
+  },
+  {
+   "id": "c00917",
+   "en": "Full-Body... Refresh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00918",
+   "en": "I want my whole body refreshed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00919",
+   "en": "Well then, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00920",
+   "en": "Oh my, how unusual...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Muttered after the treatment; what is unusual is not said (the next line brushes it off)."
+  },
+  {
+   "id": "c00921",
+   "en": "It's nothing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00922",
+   "en": "Well then, goodbye...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00923",
+   "en": "(I'll grab a hippo-cow beef bowl on the way home!)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "kabagyuu-don."
+  },
+  {
+   "id": "c00924",
+   "en": "Wh-what the...? My body feels weird...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00925",
+   "en": "I c-can't lift my arms...\nI'm even worn out just standing here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00926",
+   "en": "Hmm, so this time it really did fail...",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Subject of 'shippai' (the treatment / her people) left implicit as 'it', as in gra_001 where she lets slip 'those guys failed'."
+  },
+  {
+   "id": "c00927",
+   "en": "Well then, get well soon~♪",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00928",
+   "en": "Waaait for meee~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00929",
+   "en": "Okay, I'll just walk home somehow.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Refusal path; 'tekitou ni aruite kaerimasu' = find my own way home on foot."
+  },
+  {
+   "id": "c00930",
+   "en": "Well then, bye!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00931",
+   "en": "(My head feels clear, which is great, but...\nsomething's still missing...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00932",
+   "en": "(I'll grab a hippo-cow beef bowl on the way home!)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "kabagyuu-don."
+  },
+  {
+   "id": "c00933",
+   "en": "(Gary-sensei called me in...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00934",
+   "en": "(Supposedly it's for remedial P.E., but...)",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Who said so is not stated ('tte hanashi'); used in 10 places, kept impersonal."
+  },
+  {
+   "id": "c00935",
+   "en": "Hey, \\p.\nSo you finally showed up...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00936",
+   "en": "H-hello, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00937",
+   "en": "I can't hear you!",
+   "flags": [],
+   "notes": "'koe ga chiisai zo' = your voice is too quiet; drill-sergeant idiom."
+  },
+  {
+   "id": "c00938",
+   "en": "...Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00939",
+   "en": "Don't make me repeat myself!\nI can't hear you!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00940",
+   "en": "Y-yes, sir!!\nHELLO!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00941",
+   "en": "...Good.\nYou know why you were called in today, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00942",
+   "en": "I heard it was for remedial P.E., but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00943",
+   "en": "That's right, you beansprout!",
+   "flags": [],
+   "notes": "moyashikko = scrawny weakling ('beansprout kid')."
+  },
+  {
+   "id": "c00944",
+   "en": "You barely show up to P.E., and you think\nyou can graduate from Mihoshi like that?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00945",
+   "en": "Eeeek...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00946",
+   "en": "Answer me,\n\\p!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00947",
+   "en": "I-I might not be able to~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00948",
+   "en": "Not \"might\"! I won't LET you graduate!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00949",
+   "en": "But I'm not a monster...",
+   "flags": [],
+   "notes": "'oni de wa nai' = I'm not a demon / not heartless."
+  },
+  {
+   "id": "c00950",
+   "en": "You're free to pick your own special training!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00951",
+   "en": "S-special training?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00952",
+   "en": "Umm... w-well then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00953",
+   "en": "Large (100 push-ups)",
+   "flags": [],
+   "notes": "Choices parody a food order: oomori / tokumori / A-set."
+  },
+  {
+   "id": "c00954",
+   "en": "Extra Large (1000 sit-ups)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00955",
+   "en": "Set A (50 laps of the field)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00956",
+   "en": "Here we go! 100 push-ups!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00957",
+   "en": "Let the training begiiin!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00958",
+   "en": "Nnngghhh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00959",
+   "en": "Here we go! 1000 sit-ups!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00960",
+   "en": "G-gonna di... can't...",
+   "flags": [],
+   "notes": "'shimu' = slurred 'shinu' (I'll die)."
+  },
+  {
+   "id": "c00961",
+   "en": "50 laps of the field!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00962",
+   "en": "Hff... hff...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00963",
+   "en": "Not bad, you kept up with me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00964",
+   "en": "Keep this up and move your body every day!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00965",
+   "en": "O-okay...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00966",
+   "en": "See ya!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00967",
+   "en": "(I did just as much exercise as he did...\nIs Gary-sensei immortal or something...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00968",
+   "en": "(Gary-sensei called me in...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00969",
+   "en": "I heard it was for remedial P.E., though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00970",
+   "en": "That's right, you beansprout girl!",
+   "flags": [],
+   "notes": "moyashikko written with the 'girl' kanji in the female version."
+  },
+  {
+   "id": "c00971",
+   "en": "Large (50 push-ups)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00972",
+   "en": "Extra Large (100 sit-ups)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00973",
+   "en": "Set A (25 laps of the field)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00974",
+   "en": "Here we go! 50 push-ups!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00975",
+   "en": "Here we go! 100 sit-ups!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00976",
+   "en": "Here we go! 25 laps of the field!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00977",
+   "en": "(He did twice as much exercise as me...\nIs Gary-sensei immortal or what...?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c00910: 'ara ara, anata wa...': she recognizes the player from earlier encounters; 'again' added for the repeat meeting.",
+   "c00920: Muttered after the treatment; what is unusual is not said (the next line brushes it off).",
+   "c00929: Refusal path; 'tekitou ni aruite kaerimasu' = find my own way home on foot.",
+   "ext_gra scenes: the woman's name plate is '???'; she is never named in the text (glossary suggests Grace O'Connor from the scene label), so no name is used."
+  ],
+  "kept_omission": [
+   "c00926: Subject of 'shippai' (the treatment / her people) left implicit as 'it', as in gra_001 where she lets slip 'those guys failed'.",
+   "c00934: Who said so is not stated ('tte hanashi'); used in 10 places, kept impersonal."
+  ],
+  "missing_glossary": [
+   "kabagyuu (hippo-cow, Frontier food animal): rendered 'hippo-cow' (c00908, c00923, c00932)"
+  ],
+  "unfinished": []
+ }
+}

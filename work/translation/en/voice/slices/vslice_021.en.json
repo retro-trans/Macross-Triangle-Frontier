@@ -1,0 +1,573 @@
+{
+ "slice": 21,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o0_of0/1518",
+   "en": "The Vajra have broken into the Island.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1518",
+   "en": "The Vajra have broken into the Island!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1518",
+   "en": "The Vajra have broken into the Island!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1518",
+   "en": "The Vajra have broken into the Island!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1518",
+   "en": "The Vajra have broken into the Island!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1518",
+   "en": "The Vajra have broken into the Island!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1518",
+   "en": "The Vajra have broken into the Island.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1519",
+   "en": "Please protect the concert venue full of civilians.",
+   "flags": [],
+   "notes": "\"live kaijou\" = concert venue, as in the corpus."
+  },
+  {
+   "id": "o0_of1/1519",
+   "en": "Protect the concert venue full of civilians.",
+   "flags": [],
+   "notes": "\"live kaijou\" = concert venue, as in the corpus."
+  },
+  {
+   "id": "o0_of2/1519",
+   "en": "Protect the concert venue full of civilians!",
+   "flags": [],
+   "notes": "\"live kaijou\" = concert venue, as in the corpus."
+  },
+  {
+   "id": "o0_om0/1519",
+   "en": "Protect the concert venue full of civilians.",
+   "flags": [],
+   "notes": "\"live kaijou\" = concert venue, as in the corpus."
+  },
+  {
+   "id": "os_mis/1519",
+   "en": "Protect the concert venue full of civilians.",
+   "flags": [],
+   "notes": "\"live kaijou\" = concert venue, as in the corpus."
+  },
+  {
+   "id": "o7_exd/1519",
+   "en": "Protect the concert venue where the civilians are gathered.",
+   "flags": [],
+   "notes": "\"live kaijou\" = concert venue, as in the corpus."
+  },
+  {
+   "id": "of_ktr/1519",
+   "en": "Protect the concert venue full of civilians.",
+   "flags": [],
+   "notes": "\"live kaijou\" = concert venue, as in the corpus."
+  },
+  {
+   "id": "o0_of0/1520",
+   "en": "The concert venue has been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1520",
+   "en": "The concert venue's been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1520",
+   "en": "The concert venue has been destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1520",
+   "en": "The concert venue has been destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1520",
+   "en": "The concert venue's been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1520",
+   "en": "The concert venue has been destroyed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "raibu (live) heard as naibu (inside); read as the concert venue, as the other operators"
+  },
+  {
+   "id": "of_ktr/1520",
+   "en": "The concert venue's been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1521",
+   "en": "Please wipe out the Vajra that broke into the Island.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1521",
+   "en": "Wipe out the Vajra that broke into the Island.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1521",
+   "en": "Wipe out the Vajra that broke into the Island!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1521",
+   "en": "Wipe out the Vajra that broke into the Island!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1521",
+   "en": "Wipe out the Vajra that broke into the Island.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1521",
+   "en": "Annihilate the Vajra that have broken into the Island.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1521",
+   "en": "Wipe out the Vajra that broke into the Island.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1523",
+   "en": "Please cover the Metal Siren until it leaves the combat area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1523",
+   "en": "Cover the Metal Siren until it leaves the combat area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1523",
+   "en": "Cover the Metal Siren until it leaves the combat area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1523",
+   "en": "Cover the Metal Siren until it leaves the combat area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1523",
+   "en": "Cover the Metal Siren until it leaves the combat area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1523",
+   "en": "Cover the Metal Siren until it leaves the combat area.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "engo seyo (cover it) heard as \"en wo suteyo\" (cast off ties)"
+  },
+  {
+   "id": "of_ktr/1523",
+   "en": "Cover the Metal Siren until it leaves the combat area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1524",
+   "en": "Please escape without downing any enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1524",
+   "en": "Escape without shooting down any enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1524",
+   "en": "Escape without shooting down any enemies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1524",
+   "en": "Escape without shooting down any enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1524",
+   "en": "Escape without shooting down any enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1524",
+   "en": "Would you be so kind as to escape without shooting down any enemy aircraft?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1524",
+   "en": "Escape without shooting down any enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1525",
+   "en": "Defense target confirmed. Hold the Macross Cannon at all costs until it fires.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "shishu (defend to the death) written with wrong kanji"
+  },
+  {
+   "id": "o0_of1/1525",
+   "en": "Defense target confirmed. Hold the Macross Cannon at all costs until it fires.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1525",
+   "en": "Defense target confirmed! Hold the Macross Cannon at all costs until it fires!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1525",
+   "en": "Defense target confirmed. Hold the Macross Cannon at all costs until it fires.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "shishu (defend to the death) written with wrong kanji"
+  },
+  {
+   "id": "os_mis/1525",
+   "en": "Defense target confirmed. Hold the Macross Cannon at all costs until it fires.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "shishu (defend to the death) written with wrong kanji"
+  },
+  {
+   "id": "o7_exd/1525",
+   "en": "Defense target confirmed. Hold the Macross Cannon at all costs until it fires.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "shishu seyo (defend to the death) heard as shuushuu seyo (collect)"
+  },
+  {
+   "id": "of_ktr/1525",
+   "en": "Defense target confirmed. Hold the Macross Cannon at all costs until it fires.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "shishu (defend to the death) written with wrong kanji"
+  },
+  {
+   "id": "o0_of0/1526",
+   "en": "Mock battle now vs. the U.N. Forces' newest unit, the Metal Siren.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Metal Siren heard as \"metaru sairento\"; saishin-ei (state of the art) written as saishin eki (newest station). Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon)."
+  },
+  {
+   "id": "o0_of1/1526",
+   "en": "Mock battle now vs. the U.N. Forces' newest weapon, the Metal Siren.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Metal Siren heard as \"metaru sairento\". Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon)."
+  },
+  {
+   "id": "o0_of2/1526",
+   "en": "Mock battle now vs. the U.N. Forces' newest unit, the Metal Siren!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Metal Siren heard as \"metaru sairento\". Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon)."
+  },
+  {
+   "id": "o0_om0/1526",
+   "en": "Mock battle now vs. the U.N. Forces' newest unit, the Metal Siren!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Metal Siren heard as \"metaru sairento\"; saishin-ei (state of the art) written as saishin eki (newest station). Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon)."
+  },
+  {
+   "id": "os_mis/1526",
+   "en": "Mock battle now vs. the U.N. Forces' newest unit, the Metal Siren.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Metal Siren heard as \"metaru sairento\"; saishin-ei (state of the art) written as saishin eki (newest station). Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon)."
+  },
+  {
+   "id": "o7_exd/1526",
+   "en": "We shall now hold a mock battle against the U.N. Forces' newest unit, the Metal Siren.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Metal Siren heard as \"metaru sairento\". Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon)."
+  },
+  {
+   "id": "of_ktr/1526",
+   "en": "Mock battle now vs. the U.N. Forces' newest unit, the Metal Siren.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Metal Siren heard as \"metaru sairento\"; saishin-ei (state of the art) written as saishin eki (newest station). Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon)."
+  },
+  {
+   "id": "o0_of0/1527",
+   "en": "The opposing side is commanded by Captain Nexx.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission"
+  },
+  {
+   "id": "o0_of1/1527",
+   "en": "Captain Nexx is in command of the other side.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission"
+  },
+  {
+   "id": "o0_of2/1527",
+   "en": "Captain Nexx is commanding the other side!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission"
+  },
+  {
+   "id": "o0_om0/1527",
+   "en": "The other side's commander is Captain Nexx.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission"
+  },
+  {
+   "id": "os_mis/1527",
+   "en": "Captain Nexx is in command of the opposing side.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission"
+  },
+  {
+   "id": "o7_exd/1527",
+   "en": "The opposing side is commanded by Captain Nexx.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission"
+  },
+  {
+   "id": "of_ktr/1527",
+   "en": "Captain Nexx is commanding the other side.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission"
+  },
+  {
+   "id": "o0_of0/1528",
+   "en": "Now, a mock battle vs. the Faerie Squadron.",
+   "flags": [],
+   "notes": "Fearii Riidaa-tai = Faerie Squadron (glossary)."
+  },
+  {
+   "id": "o0_of1/1528",
+   "en": "Mock battle vs. the Faerie Squadron.",
+   "flags": [],
+   "notes": "Fearii Riidaa-tai = Faerie Squadron (glossary)."
+  },
+  {
+   "id": "o0_of2/1528",
+   "en": "Mock battle vs. the Faerie Squadron!",
+   "flags": [],
+   "notes": "Fearii Riidaa-tai = Faerie Squadron (glossary)."
+  },
+  {
+   "id": "o0_om0/1528",
+   "en": "Mock battle vs. the Faerie Squadron!",
+   "flags": [],
+   "notes": "Fearii Riidaa-tai = Faerie Squadron (glossary)."
+  },
+  {
+   "id": "os_mis/1528",
+   "en": "Mock battle vs. the Faerie Squadron.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Fairy Leader heard as \"fearii diidaa\". Fearii Riidaa-tai = Faerie Squadron (glossary)."
+  },
+  {
+   "id": "o7_exd/1528",
+   "en": "We shall now hold a mock battle against the Faerie Squadron.",
+   "flags": [],
+   "notes": "Fearii Riidaa-tai = Faerie Squadron (glossary)."
+  },
+  {
+   "id": "of_ktr/1528",
+   "en": "Mock battle vs. the Faerie Squadron.",
+   "flags": [],
+   "notes": "Fearii Riidaa-tai = Faerie Squadron (glossary)."
+  },
+  {
+   "id": "o0_of0/1529",
+   "en": "The Faerie Squadron's leader is Lieutenant Silvie: No. 1 in SNN's 'Most Wanted Bride' fan poll, and the picture of purity.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "seijun (pure) heard as seiji (politics). \"oyome-san ni shitai hito\" fan poll = who fans would most like to marry; rendered \"Most Wanted Bride\". Silvie per glossary (avoid Sylvie)."
+  },
+  {
+   "id": "o0_of1/1529",
+   "en": "The Faerie Squadron's leader is Lieutenant Silvie: No. 1 in SNN's 'Most Wanted Bride' fan poll, and the picture of purity.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Silvie chuui (Lt.) heard as \"shirubi chuu\". \"oyome-san ni shitai hito\" fan poll = who fans would most like to marry; rendered \"Most Wanted Bride\". Silvie per glossary (avoid Sylvie)."
+  },
+  {
+   "id": "o0_of2/1529",
+   "en": "The Faerie Squadron's leader is Lieutenant Silvie: No. 1 in SNN's 'Most Wanted Bride' fan poll, and the picture of purity!",
+   "flags": [],
+   "notes": "\"oyome-san ni shitai hito\" fan poll = who fans would most like to marry; rendered \"Most Wanted Bride\". Silvie per glossary (avoid Sylvie)."
+  },
+  {
+   "id": "o0_om0/1529",
+   "en": "The Faerie Squadron's leader is Lieutenant Silvie: No. 1 in SNN's 'Most Wanted Bride' fan poll, and the picture of purity.",
+   "flags": [],
+   "notes": "\"oyome-san ni shitai hito\" fan poll = who fans would most like to marry; rendered \"Most Wanted Bride\". Silvie per glossary (avoid Sylvie)."
+  },
+  {
+   "id": "os_mis/1529",
+   "en": "The Faerie Squadron's leader is Lieutenant Silvie: No. 1 in SNN's 'Most Wanted Bride' fan poll, and the picture of purity.",
+   "flags": [],
+   "notes": "\"oyome-san ni shitai hito\" fan poll = who fans would most like to marry; rendered \"Most Wanted Bride\". Silvie per glossary (avoid Sylvie)."
+  },
+  {
+   "id": "o7_exd/1529",
+   "en": "The Faerie Squadron's leader is Lieutenant Silvie: No. 1 in SNN's 'Most Wanted Bride' fan poll, and the picture of purity.",
+   "flags": [],
+   "notes": "\"oyome-san ni shitai hito\" fan poll = who fans would most like to marry; rendered \"Most Wanted Bride\". Silvie per glossary (avoid Sylvie)."
+  },
+  {
+   "id": "of_ktr/1529",
+   "en": "The Faerie Squadron's leader is Lieutenant Silvie: No. 1 in SNN's 'Most Wanted Bride' fan poll, and the picture of purity.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "seijun (pure) heard as seijin (adult). \"oyome-san ni shitai hito\" fan poll = who fans would most like to marry; rendered \"Most Wanted Bride\". Silvie per glossary (avoid Sylvie)."
+  },
+  {
+   "id": "o0_of0/1533",
+   "en": "It's Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1533",
+   "en": "That's Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1533",
+   "en": "It's Code Victor!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1650-1656: mock battle \"against\" the Metal Siren (mission M2_070 has the player fight Capt. Nexx's Metal Sirens).",
+   "rows 1671-1677: \"Most Wanted Bride\" fan poll is a free rendering of oyome-san ni shitai hito."
+  ],
+  "whisper_doubt": [
+   "row 1620: raibu (live) heard as naibu (inside); read as the concert venue, as the other operators",
+   "row 1634: engo seyo (cover it) heard as \"en wo suteyo\" (cast off ties)",
+   "row 1643: shishu (defend to the death) written with wrong kanji",
+   "row 1646: shishu (defend to the death) written with wrong kanji",
+   "row 1647: shishu (defend to the death) written with wrong kanji",
+   "row 1648: shishu seyo (defend to the death) heard as shuushuu seyo (collect)",
+   "row 1649: shishu (defend to the death) written with wrong kanji",
+   "row 1650: Metal Siren heard as \"metaru sairento\"; saishin-ei (state of the art) written as saishin eki (newest station). Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon).",
+   "row 1651: Metal Siren heard as \"metaru sairento\". Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon).",
+   "row 1652: Metal Siren heard as \"metaru sairento\". Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon).",
+   "row 1653: Metal Siren heard as \"metaru sairento\"; saishin-ei (state of the art) written as saishin eki (newest station). Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon).",
+   "row 1654: Metal Siren heard as \"metaru sairento\"; saishin-ei (state of the art) written as saishin eki (newest station). Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon).",
+   "row 1655: Metal Siren heard as \"metaru sairento\". Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon).",
+   "row 1656: Metal Siren heard as \"metaru sairento\"; saishin-ei (state of the art) written as saishin eki (newest station). Mission M2_070: the player fights Metal Sirens led by Capt. Nexx, so \"against\". Claire says saishin heiki (newest weapon).",
+   "row 1657: Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission",
+   "row 1658: Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission",
+   "row 1659: Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission",
+   "row 1660: Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission",
+   "row 1661: Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission",
+   "row 1662: Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission",
+   "row 1663: Nexx taii (Captain Nexx) heard as Nexx-tai / taiin / taai; corpus has \"Capt. Nexx\" for this mission",
+   "row 1668: Fairy Leader heard as \"fearii diidaa\". Fearii Riidaa-tai = Faerie Squadron (glossary).",
+   "row 1671: seijun (pure) heard as seiji (politics). \"oyome-san ni shitai hito\" fan poll = who fans would most like to marry; rendered \"Most Wanted Bride\". Silvie per glossary (avoid Sylvie).",
+   "row 1672: Silvie chuui (Lt.) heard as \"shirubi chuu\". \"oyome-san ni shitai hito\" fan poll = who fans would most like to marry; rendered \"Most Wanted Bride\". Silvie per glossary (avoid Sylvie).",
+   "row 1677: seijun (pure) heard as seijin (adult). \"oyome-san ni shitai hito\" fan poll = who fans would most like to marry; rendered \"Most Wanted Bride\". Silvie per glossary (avoid Sylvie)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

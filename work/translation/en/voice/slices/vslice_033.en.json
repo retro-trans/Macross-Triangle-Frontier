@@ -1,0 +1,498 @@
+{
+ "slice": 33,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p__mv1/107",
+   "en": "This ends now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/107",
+   "en": "This ends now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/107",
+   "en": "Let's end this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/107",
+   "en": "Let's end this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/107",
+   "en": "Let's end this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/108",
+   "en": "Don't get in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/108",
+   "en": "Stay out of my way!",
+   "flags": [],
+   "notes": "jama wo shinaide kure: softer request form"
+  },
+  {
+   "id": "p__mv2/108",
+   "en": "Don't get in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/108",
+   "en": "Then take this!",
+   "flags": [],
+   "notes": "kore demo kurainasai"
+  },
+  {
+   "id": "p__fv1/108",
+   "en": "Then take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/108",
+   "en": "Then take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/109",
+   "en": "You're not getting away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/109",
+   "en": "You won't get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/109",
+   "en": "You're not getting away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/109",
+   "en": "You won't get away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/109",
+   "en": "You won't get away!",
+   "flags": [],
+   "notes": "Whisper flags nospeech, but the transcript matches the other voices; kept."
+  },
+  {
+   "id": "p__fv2/109",
+   "en": "You won't get away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/110",
+   "en": "You're in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/110",
+   "en": "You're in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/110",
+   "en": "You're in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/110",
+   "en": "Don't get in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/110",
+   "en": "Don't get in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/110",
+   "en": "Don't get in my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/111",
+   "en": "You're an eyesore!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/111",
+   "en": "You're an eyesore!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/111",
+   "en": "You're an eyesore!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/111",
+   "en": "Out of my way!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'tokinasai' (untie) read as dokinasai (move aside), as fv2 says."
+  },
+  {
+   "id": "p__fv1/111",
+   "en": "Move it!",
+   "flags": [],
+   "notes": "doite yo"
+  },
+  {
+   "id": "p__fv2/111",
+   "en": "Out of my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/112",
+   "en": "Okay, next!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/112",
+   "en": "Okay, next!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/112",
+   "en": "Okay, next!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/112",
+   "en": "Next!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/112",
+   "en": "Next!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/112",
+   "en": "Okay, next!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/113",
+   "en": "Yes, I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/113",
+   "en": "I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/113",
+   "en": "Did I get it?",
+   "flags": [],
+   "notes": "yatta ka: checking whether the kill landed"
+  },
+  {
+   "id": "p__fv0/113",
+   "en": "I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/113",
+   "en": "I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/113",
+   "en": "I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/114",
+   "en": "Enemy destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/114",
+   "en": "Enemy destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/114",
+   "en": "Enemy destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/114",
+   "en": "I took it out.",
+   "flags": [],
+   "notes": "gekiha shita wa"
+  },
+  {
+   "id": "p__fv1/114",
+   "en": "I took it out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/114",
+   "en": "I took it out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/115",
+   "en": "Target confirmed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/115",
+   "en": "Target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/115",
+   "en": "Target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/115",
+   "en": "Target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/115",
+   "en": "Target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/115",
+   "en": "Target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/116",
+   "en": "That's the one!",
+   "flags": [],
+   "notes": "Whisper flags nospeech, but the transcript (aitsu da na) matches mv1; kept."
+  },
+  {
+   "id": "p__mv1/116",
+   "en": "That's the one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/116",
+   "en": "That one?!",
+   "flags": [],
+   "notes": "aitsu ka"
+  },
+  {
+   "id": "p__fv0/116",
+   "en": "I've found it.",
+   "flags": [],
+   "notes": "Whisper flags nospeech, but the transcript matches fv1/fv2; kept."
+  },
+  {
+   "id": "p__fv1/116",
+   "en": "I've found it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/116",
+   "en": "I've found it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/117",
+   "en": "I've confirmed the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/117",
+   "en": "I've confirmed the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/117",
+   "en": "I've confirmed the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/117",
+   "en": "So that's the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/117",
+   "en": "So that's the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/117",
+   "en": "So that's the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/118",
+   "en": "Looking good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/118",
+   "en": "Looking good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/118",
+   "en": "Looking good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/118",
+   "en": "Looking good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/118",
+   "en": "Looking good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/118",
+   "en": "Looking good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/119",
+   "en": "Target destruction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/119",
+   "en": "Target destruction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/119",
+   "en": "Target destruction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/119",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/119",
+   "en": "Target destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/119",
+   "en": "I destroyed the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/120",
+   "en": "Let's keep this up!",
+   "flags": [],
+   "notes": "kono choushi de"
+  },
+  {
+   "id": "p__mv1/120",
+   "en": "Let's keep this up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/120",
+   "en": "This is going well.",
+   "flags": [],
+   "notes": "ii choushi da"
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 2587 (p__fv0/111): Transcript 'tokinasai' (untie) read as dokinasai (move aside), as fv2 says."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

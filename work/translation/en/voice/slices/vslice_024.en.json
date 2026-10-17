@@ -1,0 +1,498 @@
+{
+ "slice": 24,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "of_ktr/2277",
+   "en": "Destroid Defender, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2278",
+   "en": "Destroid Spartan, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2278",
+   "en": "Destroid Spartan, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2278",
+   "en": "Destroid Spartan, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2278",
+   "en": "Destroid Spartan, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2278",
+   "en": "Destroid Spartan, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2278",
+   "en": "Destroid Spartan, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2279",
+   "en": "Destroid Phalanx, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2279",
+   "en": "Destroid Phalanx, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2279",
+   "en": "Destroid Phalanx, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2279",
+   "en": "Destroid Phalanx, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2279",
+   "en": "Destroid Phalanx, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2279",
+   "en": "Destroid Phalanx, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2280",
+   "en": "Destroid Tomahawk, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2280",
+   "en": "Destroid Tomahawk, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2280",
+   "en": "Destroid Tomahawk, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2280",
+   "en": "Destroid Tomahawk, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2280",
+   "en": "Destroid Tomahawk, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2280",
+   "en": "Destroid Tomahawk, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2281",
+   "en": "Destroid Monster, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2281",
+   "en": "Destroid Monster, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2281",
+   "en": "Destroid Monster, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2281",
+   "en": "Destroid Monster, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2281",
+   "en": "Destroid Monster, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2281",
+   "en": "Destroid Monster, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2282",
+   "en": "Destroid Squad, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2282",
+   "en": "Destroid Squad, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2282",
+   "en": "Destroid Squad, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2282",
+   "en": "Destroid Squad, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2282",
+   "en": "Destroid Squad, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2282",
+   "en": "Destroid Squad, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2283",
+   "en": "VF-1 Valkyrie, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2283",
+   "en": "VF-1 Valkyrie, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2283",
+   "en": "VF-1 Valkyrie, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2283",
+   "en": "VF-1 Valkyrie, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2283",
+   "en": "VF-1 Valkyrie, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2283",
+   "en": "VF-1 Valkyrie, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2284",
+   "en": "SDF-1 Macross, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2284",
+   "en": "SDF-1 Macross, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2284",
+   "en": "SDF-1 Macross, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2284",
+   "en": "SDF-1 Macross, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2284",
+   "en": "SDF-1 Macross, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2284",
+   "en": "SDF-1 Macross, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2285",
+   "en": "VT-1 Super Ostrich, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2285",
+   "en": "VT-1 Super Ostrich, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2285",
+   "en": "VT-1 Super Ostrich, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2285",
+   "en": "VT-1 Super Ostrich, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2285",
+   "en": "VT-1 Super Ostrich, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2285",
+   "en": "VT-1 Super Ostrich, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2286",
+   "en": "VF-4 Lightning III, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2286",
+   "en": "VF-4 Lightning III, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2286",
+   "en": "VF-4 Lightning III, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2286",
+   "en": "VF-4 Lightning III, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2286",
+   "en": "VF-4 Lightning III, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2286",
+   "en": "VF-4 Lightning III, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2287",
+   "en": "Regult, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2287",
+   "en": "Regult, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2287",
+   "en": "Regult, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2287",
+   "en": "Regult, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2287",
+   "en": "Regult, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2287",
+   "en": "Regult, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2288",
+   "en": "Glaug, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2288",
+   "en": "Glaug, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2288",
+   "en": "Glaug, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2288",
+   "en": "Glaug, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2288",
+   "en": "Glaug, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2288",
+   "en": "Glaug, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2289",
+   "en": "Nousjadeul-Ger, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2289",
+   "en": "Nousjadeul-Ger, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2289",
+   "en": "Nousjadeul-Ger, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2289",
+   "en": "Nousjadeul-Ger, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2289",
+   "en": "Nousjadeul-Ger, you are cleared to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Nuujateruna' read as Nuujaderugaa (Nousjadeul-Ger)."
+  },
+  {
+   "id": "of_ktr/2289",
+   "en": "Nousjadeul-Ger, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2290",
+   "en": "All squad members, cleared to launch. Do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2290",
+   "en": "All squad members, cleared. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2290",
+   "en": "All squad members, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": "Re-recorded with a different unit than the sister clip (MUF MUF:vo0_of2_2290: All squad members, cleared to launch. Go get 'em!); translated what this clip says."
+  },
+  {
+   "id": "o0_om0/2290",
+   "en": "All squad members, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2290",
+   "en": "All squad members, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2290",
+   "en": "All squad members, cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 1912 (o7_exd/2289): 'Nuujateruna' read as Nuujaderugaa (Nousjadeul-Ger)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

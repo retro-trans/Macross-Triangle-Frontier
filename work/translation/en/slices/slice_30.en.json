@@ -1,0 +1,493 @@
+{
+ "slice": 30,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u3587",
+   "en": "EX-Gear Basics: Supply Transport\nThese explanations assume the default\ncontroller settings. Please keep this in mind.",
+   "flags": [],
+   "notes": "Title line names the drill (basic EX-Gear controls: supply transport). EX-Gear modes rendered Walk / Hover / Flight mode."
+  },
+  {
+   "id": "u3588",
+   "en": "Lock on to a container and move close\nto it, and you can\npick it up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3589",
+   "en": "Press the □ button to set\nthe container down where you are.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3590",
+   "en": "You can only carry containers\nin Walk mode or Hover mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3591",
+   "en": "Also, be careful: you can't\nattack while you're\ncarrying a container.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3592",
+   "en": "Lock on to a door switch and move close\nto it, and you can\noperate the switch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3593",
+   "en": "Hold Down on the D-pad while locking on\nto lock on to containers and\nswitches first.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3594",
+   "en": "Now practice transporting supplies.\nLeaving the room ends the training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3595",
+   "en": "EX-Gear Basics: Switching Modes\nThese explanations assume the default\ncontroller settings. Please keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3596",
+   "en": "You can switch the EX-Gear's mode\nwith the analog stick.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3597",
+   "en": "Push the analog stick down for Walk mode,\nleft or right for Hover mode,\nand up for Flight mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3598",
+   "en": "In every mode, you can move\nyour unit with the D-pad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3599",
+   "en": "In Walk mode, press Up, Down, Left or Right\non the D-pad to move that way.",
+   "flags": [],
+   "notes": "Japanese: Up/Down/Left/Right move forward/back/left/right; compressed to 'move that way' for width."
+  },
+  {
+   "id": "u3600",
+   "en": "Now go ahead and begin your\nmode-switching training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3601",
+   "en": "Leaving this room\nends the training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3602",
+   "en": "Sample obtained.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3603",
+   "en": "Force enemy surrender\n(destroy only their mechs)",
+   "flags": [],
+   "notes": "Mission objective: make enemy soldiers surrender (destroy only their machines). TM line was too wide; reworded."
+  },
+  {
+   "id": "u3604",
+   "en": "Let's go over the basics of Fighter mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3605",
+   "en": "During training, flight mode is set to\nNormal Flight, and controller settings are\nreset to defaults. Please keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3606",
+   "en": "Press Up on the D-pad to nose down and\ndescend, and Down to nose up and climb.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3607",
+   "en": "Press Left or Right on the D-pad to turn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3608",
+   "en": "Hold the L button and press Left or Right\non the D-pad to yaw.\n(Real Flight only)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3609",
+   "en": "Press the × button to boost.\nYou can keep boosting until the\nboost gauge is full.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3610",
+   "en": "Quickly press Down on the D-pad twice\nto fire reverse thrust and decelerate sharply.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3611",
+   "en": "Hold the △ button to\nbrake and slow down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3612",
+   "en": "Push the analog stick up\nto transform into Fighter mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3613",
+   "en": "That covers the basics of Fighter mode.\nNote: in this training you can't transform\ninto any mode other than Fighter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3614",
+   "en": "Now go ahead and begin your\nFighter mode flight training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3615",
+   "en": "Training ends when you reach\nthe target area or time runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3616",
+   "en": "Let's go over the basics of Battroid mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3617",
+   "en": "During training, the controller settings\nare reset to their defaults.\nPlease keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3618",
+   "en": "Press Up, Down, Left or Right on the D-pad\nto move forward, back, left or right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3619",
+   "en": "At the end of a step, keep holding\nthe D-pad to dash.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3620",
+   "en": "Quickly press the × button twice\nand keep holding it to boost downward\nand lose altitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3621",
+   "en": "Push the analog stick down\nto transform into Battroid mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3622",
+   "en": "That covers the basics of Battroid mode.\nNote: in this training you can't transform\ninto any mode other than Battroid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3623",
+   "en": "Now go ahead and begin your\nBattroid mode training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3624",
+   "en": "Let's go over the basics of GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3625",
+   "en": "Press Left or Right on the D-pad to turn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3626",
+   "en": "In GERWALK mode, you hold your altitude\nand hover.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3627",
+   "en": "Quickly press the × button twice\nand keep holding it to boost downward\nand lose altitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3628",
+   "en": "Push the analog stick left or right\nto transform into GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3629",
+   "en": "That covers the basics of GERWALK mode.\nNote: in this training you can't transform\ninto any other mode.",
+   "flags": [],
+   "notes": "TM ended 'into any mode other than GERWALK'; shortened to 'any other mode' for the short third line."
+  },
+  {
+   "id": "u3630",
+   "en": "Now go ahead and begin your\nGERWALK mode training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3631",
+   "en": "Let's go over shooting attack basics.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3632",
+   "en": "Hold Down on the D-pad while locking on\nto switch your lock to containers\nor switches.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3633",
+   "en": "While locked on, hold the L button\nand quickly tap the R button\nto release the lock-on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3634",
+   "en": "Press the □ button to attack the locked-on\nenemy with your main weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3635",
+   "en": "Press the ○ button to attack the locked-on\nenemy with your special weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3636",
+   "en": "If your unit has several special weapons,\nhold the L button and press the □ button\nto switch between them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3637",
+   "en": "Some special weapons are capable of\nmulti-lock-on, which locks on to\nseveral enemies at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3638",
+   "en": "To multi-lock-on, hold the ○ button\nto lock on to multiple enemies\nwithin range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3639",
+   "en": "Release the ○ button during multi-lock-on\nto hit every enemy locked at that moment\nwith your special weapon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3640",
+   "en": "While the locked-on enemy is ahead of you,\nyour lock-on level goes up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3641",
+   "en": "Shooting with a raised lock-on level\ngives you bonuses to attack power\nand accuracy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3642",
+   "en": "These shooting controls are the same\nin Fighter, Battroid\nand GERWALK modes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3643",
+   "en": "That covers shooting attack basics.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3644",
+   "en": "Let's go over melee attack basics.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3645",
+   "en": "In GERWALK and Battroid modes,\npress the △ button to make a melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3646",
+   "en": "The number of hits in a combo varies\nby unit and mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3647",
+   "en": "The higher your pilot's melee stat,\nthe more hits your combos get.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3648",
+   "en": "Hold the △ button for a moment, then\nrelease it to perform a\ncharged melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3649",
+   "en": "Press the △ button while dashing\nto perform a dash melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3650",
+   "en": "In Battroid mode, chain melee attacks\nwhile holding Down on the D-pad\nto perform a launching melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3651",
+   "en": "A launched enemy is left defenseless\nfor a short time.\nYou can attack it further during that time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3652",
+   "en": "In Battroid mode, press the △ button\nto hit a downed enemy with a down attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3653",
+   "en": "Please note that Fighter mode\nhas no melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3654",
+   "en": "That covers melee attack basics.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3655",
+   "en": "Now I'll explain Special Maneuvers 1.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3656",
+   "en": "In Fighter mode, while locked on,\nhold the R button to turn\nand bring the enemy dead ahead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3657",
+   "en": "In Battroid mode, hold the L button\nto guard.\nGuarding reduces the damage you take.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3658",
+   "en": "Guarding while no enemy is locked on\nresets the camera angle\nto face forward.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3659",
+   "en": "While guarding, press Up, Left or Right\non the D-pad to move\nwithout dropping your guard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3660",
+   "en": "You can also step left or right and dash\nwhile moving on guard. Be careful:\nyour guard drops while you do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3661",
+   "en": "In GERWALK mode, hold the L button\nto hover and hold\nyour position.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3662",
+   "en": "While hovering, press Left or Right on the\nD-pad to strafe while facing forward.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3663",
+   "en": "You can also step left or right and dash\nwhile strafing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3664",
+   "en": "In Battroid or GERWALK mode, press the\n× button right after taking a knockdown hit\nto avoid getting knocked down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3665",
+   "en": "And even if you do get knocked down,\nmashing the × button lets you recover\nfrom being down faster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3666",
+   "en": "If you have a wingman, press the SELECT\nbutton together with the D-pad\nto issue tactical commands.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

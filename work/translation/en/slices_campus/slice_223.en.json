@@ -1,0 +1,457 @@
+{
+ "slice": 223,
+ "rows_in_slice": 73,
+ "rows_examined": 73,
+ "rows": [
+  {
+   "id": "c16245",
+   "en": "(Phew, the tests are finally over...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16246",
+   "en": "Hey, \\p!\nWhat's with that face?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16247",
+   "en": "Oh, Gary-sensei.\nThe tests are finally over, so I'm kind of\nrunning on empty...",
+   "flags": [],
+   "notes": "Male scene. ki ga nukeru: the tension has gone out of him."
+  },
+  {
+   "id": "c16248",
+   "en": "I see. Students sure have it rough.\nThen for the next P.E. class, let's take a\nbreather and hold a joint swim meet with the girls!",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16249",
+   "en": "...Hilda-sensei's going to chew you out again...",
+   "flags": [],
+   "notes": "Male scene. 'again' as in the Japanese."
+  },
+  {
+   "id": "c16250",
+   "en": "...Well... I guess you've got a point...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16251",
+   "en": "(Gary-sensei never stands a chance against\nHilda-sensei...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16252",
+   "en": "(Whew, the tests are finally done...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16253",
+   "en": "Oh, Gary-sensei.\nThe tests are finally over, so I'm kind of\nzoned out...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16254",
+   "en": "I see. Students sure have it rough.\nThen for the next P.E. class, let's take a\nbreather and hold a joint swim meet with the boys!",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16255",
+   "en": "Isn't that just something YOU want, Sensei...?\nHilda-sensei's going to chew you out again...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16256",
+   "en": "(Gary-sensei really never stands a chance\nagainst Hilda-sensei...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16257",
+   "en": "(Lunchtime, huh. I wonder what's in\nmy lunch today...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16258",
+   "en": "(Th... This is... Don't tell me, in my lunch...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16259",
+   "en": "Oh, \\p.\nWhat, a packed lunch? Geez, aren't you\nliving the good life!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16260",
+   "en": "Oh, Gary-sensei.",
+   "flags": [],
+   "notes": "x5: also nml_gry_016 and scd_com_722 (Gary)."
+  },
+  {
+   "id": "c16261",
+   "en": "Lemme just have a little taste...\nHm!? What's that smell...?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16262",
+   "en": "Um, well, that's my lunch for today...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16263",
+   "en": "Th... That sticky stuff... Is that...?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16264",
+   "en": "Oh, yes, it's Starlight Natto...\nWant some?",
+   "flags": [],
+   "notes": "Shared male/female. Product name sutaraito natto, not in the glossary: 'Starlight Natto'."
+  },
+  {
+   "id": "c16265",
+   "en": "No, uh, well, y'see...\nMy stomach's acting up today, so I'll pass...\nSee ya!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16266",
+   "en": "Ah! Sensei!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16267",
+   "en": "(So Sensei can't stand Starlight Natto...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16268",
+   "en": "(Lunchtime! I wonder what my lunch is today...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16269",
+   "en": "(Huh!? Th... This is...\nDon't tell me, in my lunch...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16270",
+   "en": "(So Sensei can't stand Starlight Natto...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16271",
+   "en": "(Whoa~ I've gotta hurry to the\nPractical Training building!)",
+   "flags": [],
+   "notes": "Shared male/female. jitsugi kunren-tou: the building for Practical Training classes."
+  },
+  {
+   "id": "c16272",
+   "en": "Whoa there!",
+   "flags": [],
+   "notes": "x5: also the player in nml_kln_007 and Michel in nml_mcl_007; kept generic."
+  },
+  {
+   "id": "c16273",
+   "en": "S-sorry, Gary-sensei.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16274",
+   "en": "Geez, where are you rushing off to?\nIf you got hurt, it'd be a real disaster!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16275",
+   "en": "I'm really sorry.\nMy next class is Practical Training,\nso I've gotta hurry...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16276",
+   "en": "I see. But listen, being late for class versus...\nHm!? Next class... Practical Training?\nThat's MY class?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16277",
+   "en": "Gah, I completely forgot...\nSee ya, I'm going on ahead!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16278",
+   "en": "Sensei... It's dangerous to rush like that...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16279",
+   "en": "(Sensei sure doesn't practice what he preaches...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16280",
+   "en": "I'm really sorry.\nMy next class is Practical Training,\nso I thought I'd better hurry...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16281",
+   "en": "Sensei... Rushing like that is dangerous...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16282",
+   "en": "(Sensei never practices what he preaches...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16283",
+   "en": "(Lunch break, huh. Now, what should I eat...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16284",
+   "en": "(Huh, it's Gary-sensei...\nLooks like he's eating something.\nIs he having lunch?)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x3: player monologue (male); in both variants it also sits under Gary's name plate after c16292 (likely a script slip). Kept as the player's monologue, gender-neutral."
+  },
+  {
+   "id": "c16285",
+   "en": "Gary-sensei, are you having lunch out here?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16286",
+   "en": "Hey, \\p.\nWanna eat with me?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16287",
+   "en": "Sure, why not... Wait...\nWhat is that you're eating?",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16288",
+   "en": "A bagel sandwich with chicken breast\nand egg whites...",
+   "flags": [],
+   "notes": "Shared male/female. sasami: lean chicken breast."
+  },
+  {
+   "id": "c16289",
+   "en": "Th... That sounds like it'd taste of nothing...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16290",
+   "en": "You think? It's more edible than you'd expect.\nAnd it's no trouble to make. Here, want some?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16291",
+   "en": "No, I'll pass...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16292",
+   "en": "Alright. If you ever want some, come by anytime!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16293",
+   "en": "(Is Gary-sensei watching his health\nor something...?)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16294",
+   "en": "(Lunch break! Now, what should I eat...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16295",
+   "en": "(Oh, Gary-sensei...\nLooks like he's eating something.\nHaving lunch, maybe?)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16296",
+   "en": "Hmm, sure... Wait...\nWhat is that you're eating?",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16297",
+   "en": "Th... That sounds kinda... bland...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16298",
+   "en": "Um... I'll pass...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16299",
+   "en": "(Is Gary-sensei watching his health\nor something, I wonder...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16300",
+   "en": "(Okay, that's it for today's EX-Gear training.)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16301",
+   "en": "\\p, hold it!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16302",
+   "en": "Gary-sensei? Is something wrong?",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16303",
+   "en": "Listen, were you paying proper attention\nin class just now?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16304",
+   "en": "Yes, of course!\nIn this class, if you slack off, you won't just\nget hurt. It could cost you your life!",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16305",
+   "en": "I see... Then let me ask you...\nAbout two minutes ago, a woman walked past\nthe main gate. Which way did she go?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16306",
+   "en": "Huh!? What?",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16307",
+   "en": "Just answer the question!\nYou should've been able to see from the sky!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16308",
+   "en": "Well, I guess I'd have seen her\nif I'd been watching for her...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16309",
+   "en": "Dammit! I should've ditched class and\ngone after her! You're useless too!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16310",
+   "en": "Sensei, that has nothing to do with class...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16311",
+   "en": "(Where is Gary-sensei even looking during class...?)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16312",
+   "en": "(Okay, that wraps up today's EX-Gear training.)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16313",
+   "en": "Yes? Gary-sensei? Is something wrong?",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16314",
+   "en": "Yes, of course!\nIn this class, slack off and you won't just get hurt.\nIt could cost you your life, after all!",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16315",
+   "en": "Well, I suppose I'd have seen her\nif I'd been watching for her...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16316",
+   "en": "Sensei, that has absolutely nothing\nto do with class...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16317",
+   "en": "(Just where is Gary-sensei looking during class...?)",
+   "flags": [],
+   "notes": "Female scene."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c16284: player monologue that also appears under Gary's name plate after c16292 in both variants; kept as the player's monologue, gender-neutral."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Starlight Natto (sutaraito natto, product in c16264, c16267, c16270)"
+  ],
+  "unfinished": []
+ }
+}

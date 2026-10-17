@@ -1,0 +1,466 @@
+{
+ "slice": 292,
+ "rows_in_slice": 75,
+ "rows_examined": 75,
+ "rows": [
+  {
+   "id": "c20950",
+   "en": "(Looks like we somehow managed to wipe out\nthe Vajra.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20951",
+   "en": "(But the damage is way too heavy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20952",
+   "en": "(In a situation like this, what are we\nsupposed to do...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20953",
+   "en": "(The journey of our Frontier fleet\nis finally coming to an end...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20954",
+   "en": "Those monsters have made us suffer bitterly\ntime and again, and the Frontier fleet\nis now in a desperate situation...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20955",
+   "en": "But at last, we have located those insects'\nhome world! We must wipe them out\nand survive, whatever the cost!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20956",
+   "en": "Our objective: break the Vajra defense net,\ndefeat the Queen at its core, and meanwhile land\nIsland 1 on the planet to make it our new home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20957",
+   "en": "May the voice of the Galactic Fairy, Sheryl Nome,\nlead us to victory!\nGood luck to you all!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20958",
+   "en": "(This is going to be the final battle with the\nVajra. There's no way I can lose...!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20959",
+   "en": "Oh, hey, Alto...\nWhere are you going right before the sortie?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20960",
+   "en": "I've got something important to take care of...\nGo on ahead. I'll catch up soon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20961",
+   "en": "(Going to see Sheryl, huh...)",
+   "flags": [],
+   "notes": "Subject (Alto) implied by 'going to'; Japanese is just 'Sheryl's place, huh'."
+  },
+  {
+   "id": "c20962",
+   "en": "Luca, don't you want to go see Nanase?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20963",
+   "en": "No, I've already been to see her...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20964",
+   "en": "Nanase-san...\nI'll protect you, no matter what.\nEven if it costs me my life...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20965",
+   "en": "(Alto and Luca...\nEveryone on Frontier is staking everything\non this battle...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20966",
+   "en": "(That's right, and so am I...!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20967",
+   "en": "This is the final battle with the Vajra!\nAll of you, make damn sure you come back alive!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20968",
+   "en": "Let's gooooooo, you lot!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20969",
+   "en": "(We're going to survive this, no matter what!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20970",
+   "en": "(The journey of our Frontier fleet\nis finally coming to an end...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20971",
+   "en": "(This is going to be the final battle with the\nVajra. There's no way I can lose...!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20972",
+   "en": "Oh, Saotome-kun...\nWhere are you going right before the sortie?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20973",
+   "en": "(Going to see Sheryl-san, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20974",
+   "en": "Luca-kun, don't you want to go see Nanase?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20975",
+   "en": "(Saotome-kun and Luca-kun...\nEveryone on Frontier is staking everything\non this battle...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20976",
+   "en": "(That's right, and so am I...!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20977",
+   "en": "(We're going to make it out alive,\nno matter what!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20978",
+   "en": "(That was a close call, but it looks like\nAlto settled things.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20979",
+   "en": "(Now we've put a stop to Grace's ambition\nto rule the galaxy by using Ranka\nand the Vajra!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20980",
+   "en": "(All right! Looks like Alto settled things.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20981",
+   "en": "(Thanks to the \"Super Dimension Cinderella\" and\nthe \"Galactic Fairy,\" we were able to win.)",
+   "flags": [],
+   "notes": "Same as the finished twins c02439 / c02446."
+  },
+  {
+   "id": "c20982",
+   "en": "(That was a close call, but it looks like\nSaotome-kun settled things.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20983",
+   "en": "(Now we've put a stop to Grace's ambition\nto rule the galaxy by using Ranka-chan\nand the Vajra!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20984",
+   "en": "(All right! Looks like Saotome-kun\nsettled things.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20985",
+   "en": "Alto!! What was that performance just now!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20986",
+   "en": "What's the problem...\nThe audience loved it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20987",
+   "en": "Your one-man show nearly caused\na major accident!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20988",
+   "en": "Nobody got hurt.\nSo what's the big deal...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20989",
+   "en": "Alto!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20990",
+   "en": "Calm down, you two.\nThe concert isn't over yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20991",
+   "en": "Luca's right.\nYou're both getting way too worked u...",
+   "flags": [],
+   "notes": "Cut off mid-word as in the Japanese (interrupted by the explosion)."
+  },
+  {
+   "id": "c20992",
+   "en": "Let's go, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20993",
+   "en": "H-hey! Michael, Luca!",
+   "flags": [],
+   "notes": "Alto uses the full name Mihaeru here: 'Michael'."
+  },
+  {
+   "id": "c20994",
+   "en": "What the hell is going on...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20995",
+   "en": "(Where did Michel and the others go\nin an emergency like this...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20996",
+   "en": "(...No use worrying about it.\nI have to follow the evacuation alert\nand get to a shelter!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20997",
+   "en": "(I somehow made it safely to the shelter,\nbut sure enough, everyone here looks\nanxious too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20998",
+   "en": "(If there were explosions, that means\nsomething attacked Frontier, right?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20999",
+   "en": "(Why... Why would anything attack Frontier...)",
+   "flags": [],
+   "notes": "Attacker unknown to the player: 'anything'."
+  },
+  {
+   "id": "c21000",
+   "en": "(Okay, it's been a good while since the\nexplosions stopped. I'll go take a look outside.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21001",
+   "en": "(No way......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21002",
+   "en": "(The city's been wrecked...\nThis... this can't be happening......!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21003",
+   "en": "(Alto!?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21004",
+   "en": "Alto! What are you doing in a place like this!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21005",
+   "en": "\\p...\nSo you're okay...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21006",
+   "en": "Hey! Are you all right, Alto?\nWhat on earth happened to Frontier!?\nWhat...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21007",
+   "en": "Something like a giant bug\nsuddenly appeared on Island 1...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21008",
+   "en": "An S.M.S. machine showed up chasing it,\nbut that pilot, to protect us...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21009",
+   "en": "...I'm not the one who deserves thanks......!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21010",
+   "en": "H-hey... Alto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21011",
+   "en": "(What's up with Alto?\nHe looked like he was really hurting...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21012",
+   "en": "(What in the world happened to Frontier...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21013",
+   "en": "Luca-kun's right.\nYou're both getting way too worked u...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21014",
+   "en": "(Where did Michel-kun and the others go\nin an emergency like this...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21015",
+   "en": "(...No use worrying about it.\nI have to follow the evacuation alert\nand get to a shelter!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21016",
+   "en": "(I somehow made it safely to the shelter,\nbut sure enough, everyone here looks\nanxious too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21017",
+   "en": "(If there were explosions, that means\nsomething attacked Frontier, right?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21018",
+   "en": "(No way......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21019",
+   "en": "(Saotome-kun!?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21020",
+   "en": "Saotome-kun! What are you doing in a place\nlike this!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21021",
+   "en": "Hey! Are you all right, Saotome-kun?\nWhat on earth happened to Frontier!?\nWhat...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21022",
+   "en": "H-hey... Saotome-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21023",
+   "en": "(What's up with Saotome-kun?\nHe looked like he was really hurting...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21024",
+   "en": "(What in the world happened to Frontier...?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c21008: the S.M.S. pilot who protected Alto is kept as 'that pilot' (gender not stated in the scene).",
+   "c20968: Gary's battle cry 'omaera, iku zooo' as 'Let's gooooooo, you lot!!'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,498 @@
+{
+ "slice": 115,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c08474",
+   "en": "(When I wander around like this\nwith nothing in particular to do...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08475",
+   "en": "(Sure enough, I ran into Luis-san...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08476",
+   "en": "I was just taking a little walk.\nWhat are you up to, Luis-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08477",
+   "en": "Me?\nI was just about to go get some grub.\nThere's a tasty hot dog joint around here, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08478",
+   "en": "Oh, that place that's famous for being good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08479",
+   "en": "Running into you here must be fate or somethin'.\nYou're hungry, right? It's on me, so come along.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08480",
+   "en": "Huh? Oh, okay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08481",
+   "en": "Thanks for the treat, Luis-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08482",
+   "en": "What're you being so polite for!\nDon't sweat it. Eat up and grow big!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08483",
+   "en": "Okay!\n...Wait, what's that hot dog?\nIt looks ridiculously spicy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08484",
+   "en": "*munch munch*... Hm, this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08485",
+   "en": "This is......\nthe Super Chili-Chili Dog Infinity!!",
+   "flags": [],
+   "notes": "'Infinity' written out for the infinity sign (glyph not in the ASCII set; the Japanese glosses it as infinitii)."
+  },
+  {
+   "id": "c08486",
+   "en": "Super Chili-Chili Dog Infinity.........",
+   "flags": [],
+   "notes": "'Infinity' written out for the infinity sign (glyph not in the ASCII set; the Japanese glosses it as infinitii)."
+  },
+  {
+   "id": "c08487",
+   "en": "It's so hot it makes the blood in your whole\nbody run backward. Wanna try a bite?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08488",
+   "en": "Uh, no, I'll pass.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08489",
+   "en": "Don't be shy, just try it!\nCome on, say 'aah'!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08490",
+   "en": "Huh, wait, don't... Not by force......\nPlease sto...! Mmph!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08491",
+   "en": "Spiiiiiiicyyyyyy!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08492",
+   "en": "W-W-W-W-W-W-W-Water!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08493",
+   "en": "Ugh... That was so spicy......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08494",
+   "en": "If somethin' like this throws you off,\nit proves your passion ain't proportional\nto your volume yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08495",
+   "en": "(My passion isn't proportional to my volume...?\nI have no idea what that means,\nLuis-san...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08496",
+   "en": "Train your tongue so you can eat it right\nnext time! Daily effort never lets you down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08497",
+   "en": "(How do you even train a tongue?\nIs this a passion thing too?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08498",
+   "en": "Now that my belly's full, guess I'll head home.\nSee ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08499",
+   "en": "Oh, okay.\nThanks for the meal today, Luis-san!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08500",
+   "en": "(Come to think of it, whenever I meet Luis-san,\nit's always just by chance around town.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08501",
+   "en": "(Hmm, I'd like to get to know\nLuis-san a little better...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08502",
+   "en": "(Sure enough, I ran into Luis-san...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08503",
+   "en": "(How do you even train a tongue?\nIs this a passion thing too?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08504",
+   "en": "(Come to think of it, whenever I meet Luis-san,\nit's always just by chance around town.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08505",
+   "en": "(Hmm, I'd like to get to know\nLuis-san a little better...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08506",
+   "en": "(I suddenly got a craving for a chili dog\nand came here, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08507",
+   "en": "(Sure enough, Luis-san's here.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08508",
+   "en": "Kaaah, that's good!!\nA chili dog's gotta be at least this spicy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08509",
+   "en": "(Super Chili-Chili Dog Infinity...)",
+   "flags": [],
+   "notes": "'Infinity' written out for the infinity sign (glyph not in the ASCII set; the Japanese glosses it as infinitii)."
+  },
+  {
+   "id": "c08510",
+   "en": "All right! Belly's full, so let's go do a show!\nEverybody! Listen to my sooong!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08511",
+   "en": "(I can't believe he can actually eat\nthat spicy chili dog...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08512",
+   "en": "(If my passion overflowed like Luis-san's,\ncould I eat it with no problem too...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08513",
+   "en": "(Wait, what does it even mean\nfor passion to overflow?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08514",
+   "en": "(Sure enough, Luis-san's here.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08515",
+   "en": "(I can't believe he can actually eat\nthat spicy chili dog...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08516",
+   "en": "(If my passion overflowed like Luis-san's,\ncould I eat it with no problem too...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08517",
+   "en": "(Wait, what does it even mean\nfor passion to overflow?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08518",
+   "en": "(Wow, Sky Gate really is huge...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08519",
+   "en": "(Hm? Isn't that Luis-san?\nHe seems kind of different from usual...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08520",
+   "en": "U-Um, Luis-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08521",
+   "en": "Hm? Oh, if it isn't Fresh Boy.\nWhat are you doing here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08522",
+   "en": "Oh, nothing in particular...\nWhat are you doing here, Luis-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08523",
+   "en": "Nah, just... a little something...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08524",
+   "en": "(Luis-san really does seem\nkind of down today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08525",
+   "en": "Come to think of it, I made a promise\nto do a show here with 'em...",
+   "flags": [],
+   "notes": "aitsu = Luis's late friend, gender unknown: 'em/they."
+  },
+  {
+   "id": "c08526",
+   "en": "Huh? With who?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08527",
+   "en": "...Somebody who used to be my pal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08528",
+   "en": "(...'Used to be'......?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08529",
+   "en": "Lookin' at you closely, you kinda\ngot the same vibe as 'em...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08530",
+   "en": "Um... Is something wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08531",
+   "en": "Nah, it's nothin'. Forget it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08532",
+   "en": "This ain't like me...\nWallowing in sorrow, of all things...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08533",
+   "en": "All right, let's sing for a change of pace!\nYou sing too! Let's move that mountain!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08534",
+   "en": "Listen to our sooooooong!!!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08535",
+   "en": "Come on, you shout too!!\nLike you want it to ring across the galaxy!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08536",
+   "en": "Listen to our song!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08537",
+   "en": "Not enough! It's not enough!!\nSatisfy meeeee!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08538",
+   "en": "(Just shouting before we even sang\nhas wrecked my throat...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08539",
+   "en": "You were shining brighter than usual today...\nSee ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08540",
+   "en": "(Luis-san seemed like he was forcing\nhimself to be cheerful today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08541",
+   "en": "(The pal he 'used to' have...\ndon't tell me they're already......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08542",
+   "en": "(Wow, Sky Gate really is huge...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08543",
+   "en": "(Hm? Isn't that Luis-san?\nHe seems kind of different from usual...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08544",
+   "en": "Hm? Oh, if it isn't Fresh Girl.\nWhat are you doing here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08545",
+   "en": "Listen to our song!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08546",
+   "en": "Listen to our sooooooong!!!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08547",
+   "en": "(Just shouting before we even sang\nhas wrecked my throat...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08548",
+   "en": "(Luis-san seemed like he was forcing\nhimself to be cheerful today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08549",
+   "en": "(The last time I ran into Luis-san here,\nhe seemed really down, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08550",
+   "en": "(Oh, it's Luis-san.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08551",
+   "en": "(...He does seem down compared to usual...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08552",
+   "en": "I know I can't keep moping around forever!\nI know that, but...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08553",
+   "en": "Dammit!!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c08485/c08486/c08509: the dish name has an infinity sign glossed 'infinitii'; written 'Super Chili-Chili Dog Infinity' (base name per glossary) since the sign is outside the ASCII set.",
+   "c08525-c08529/c08541: aitsu/dachi = Luis's (apparently late) friend, gender unknown; neutral 'em/they/somebody/pal'.",
+   "c08534 (Luis and male player) and c08546 (female player) differ only in ore-tachi/watashi-tachi, both 'our': same English. Echoes Basara's line; c08510 'Listen to my sooong!!' matches c08787 in a finished slice.",
+   "c08549/c08552 worded to match their female twins c08556/c08557 already translated in slice 116."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

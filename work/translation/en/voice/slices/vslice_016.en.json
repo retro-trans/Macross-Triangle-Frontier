@@ -1,0 +1,527 @@
+{
+ "slice": 16,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o0_of2/1391",
+   "en": "Heat signature confirmed. It's the Mardook forces!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1391",
+   "en": "Heat signature confirmed. It's the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1391",
+   "en": "Heat signature confirmed. That's the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1391",
+   "en": "Heat signature confirmed. It is the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1391",
+   "en": "Heat signature confirmed. It's the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1392",
+   "en": "Heat signature confirmed. It's a battle pod.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1392",
+   "en": "Heat signature confirmed. That's a battle pod.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1392",
+   "en": "Heat signature confirmed. It's a battle pod!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1392",
+   "en": "Heat signature confirmed. It's a battle pod.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "poddo (pod) heard as potto"
+  },
+  {
+   "id": "os_mis/1392",
+   "en": "Heat signature confirmed. That's a battle pod.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1392",
+   "en": "Heat signature confirmed. It is a battle pod.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1392",
+   "en": "Heat signature confirmed. It's a battle pod.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "poddo (pod) heard as botto"
+  },
+  {
+   "id": "o0_of0/1393",
+   "en": "Many heat signatures confirmed. It's Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1393",
+   "en": "Many heat signatures confirmed. That's Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1393",
+   "en": "Many heat signatures confirmed. It's Code Victor!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1393",
+   "en": "Many heat signatures confirmed. It's Code Victor.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "kodo (code) written as koudo (altitude)"
+  },
+  {
+   "id": "os_mis/1393",
+   "en": "Many heat signatures confirmed. That's Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1393",
+   "en": "Many heat signatures confirmed. It is Code Victor.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "kodo (code) written as koudo (altitude)"
+  },
+  {
+   "id": "of_ktr/1393",
+   "en": "Many heat signatures confirmed. It's Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1394",
+   "en": "Many heat signatures confirmed. It's the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1394",
+   "en": "Many heat signatures confirmed. That's the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1394",
+   "en": "Many heat signatures confirmed. It's the Mardook forces!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1394",
+   "en": "Many heat signatures confirmed. It's the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1394",
+   "en": "Many heat signatures confirmed. That's the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1394",
+   "en": "Many heat signatures confirmed. It is the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1394",
+   "en": "Many heat signatures confirmed. It's the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1395",
+   "en": "Many heat signatures confirmed. They're battle pods.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1395",
+   "en": "Many heat signatures confirmed. Those are battle pods.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1395",
+   "en": "Many heat signatures confirmed. They're battle pods!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1395",
+   "en": "Many heat signatures confirmed. They're battle pods.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "poddo (pod) heard as potto"
+  },
+  {
+   "id": "os_mis/1395",
+   "en": "Many heat signatures confirmed. Those are battle pods.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1395",
+   "en": "Many heat signatures confirmed. They are battle pods.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1395",
+   "en": "Many heat signatures confirmed. They're battle pods.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "poddo (pod) heard as botto"
+  },
+  {
+   "id": "o0_of0/1396",
+   "en": "It's Code Victor. Please intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1396",
+   "en": "That's Code Victor! Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1396",
+   "en": "It's Code Victor! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1396",
+   "en": "That's Code Victor. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1396",
+   "en": "It is Code Victor. Intercept at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1396",
+   "en": "It's Code Victor. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1397",
+   "en": "It's the Mardook forces. Please intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1397",
+   "en": "That's the Mardook forces! Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1397",
+   "en": "It's the Mardook forces! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1397",
+   "en": "That's the Mardook forces. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1397",
+   "en": "It is the Mardook forces! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1397",
+   "en": "It's the Mardook forces. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1398",
+   "en": "They're battle pods. Please intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1398",
+   "en": "Those are battle pods! Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1398",
+   "en": "They're battle pods! Intercept immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1398",
+   "en": "Those are battle pods. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1398",
+   "en": "They are battle pods! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1398",
+   "en": "They're battle pods. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1400",
+   "en": "Heat signature confirmed. It is the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1400",
+   "en": "Heat signature confirmed. It's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1401",
+   "en": "Heat signature confirmed. It is a Regult.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1401",
+   "en": "Heat signature confirmed. It's a Regult.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1402",
+   "en": "Heat signature confirmed. It is a Glaug.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1402",
+   "en": "Heat signature confirmed. It's a Glaug.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Glaug + yo heard as \"gurajio\""
+  },
+  {
+   "id": "o7_exd/1403",
+   "en": "Heat signature confirmed. It is a Nousjadeul-Ger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1403",
+   "en": "Heat signature confirmed. It's a Nousjadeul-Ger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1404",
+   "en": "Heat signature confirmed. It is a Queadluun-Rau.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1404",
+   "en": "Heat signature confirmed. It's a Queadluun-Rau.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Queadluun-Rau + yo heard as \"kuadoran roio\""
+  },
+  {
+   "id": "o7_exd/1405",
+   "en": "Heat signature confirmed. It is a Destroid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1405",
+   "en": "Heat signature confirmed. It's a Destroid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1406",
+   "en": "Heat signature confirmed. It is the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1406",
+   "en": "Heat signature confirmed. It's the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1407",
+   "en": "Heat signature confirmed. It is a Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1407",
+   "en": "Heat signature confirmed. It's a Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1408",
+   "en": "Heat signature confirmed. It is an Elgersoln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1408",
+   "en": "Heat signature confirmed. It's an Elgersoln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1409",
+   "en": "Heat signature confirmed. It is a Panzersoln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1409",
+   "en": "Heat signature confirmed. It's a Panzersoln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1410",
+   "en": "Heat signature confirmed. It is a Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1410",
+   "en": "Heat signature confirmed. It's a Vajra.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Vajra heard as \"majira\""
+  },
+  {
+   "id": "o7_exd/1411",
+   "en": "Heat signature confirmed. It is an enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1411",
+   "en": "Heat signature confirmed. It's an enemy.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "teki yo (enemy) heard as tekiyou (apply)"
+  },
+  {
+   "id": "o7_exd/1412",
+   "en": "Heat signature confirmed. It is an enemy unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1412",
+   "en": "Heat signature confirmed. It's an enemy unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1413",
+   "en": "Many heat signatures confirmed. It is the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1413",
+   "en": "Many heat signatures confirmed. It's the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1414",
+   "en": "Many heat signatures confirmed. They are Regults.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1192-1251: \"kodo bikutaa\" rendered \"Code Victor\" (glossary has Victor = codename for a Vajra group; MUF voice used \"It's Victor\")."
+  ],
+  "whisper_doubt": [
+   "row 1209: poddo (pod) heard as potto",
+   "row 1212: poddo (pod) heard as botto",
+   "row 1216: kodo (code) written as koudo (altitude)",
+   "row 1218: kodo (code) written as koudo (altitude)",
+   "row 1230: poddo (pod) heard as potto",
+   "row 1233: poddo (pod) heard as botto",
+   "row 1257: Glaug + yo heard as \"gurajio\"",
+   "row 1261: Queadluun-Rau + yo heard as \"kuadoran roio\"",
+   "row 1273: Vajra heard as \"majira\"",
+   "row 1275: teki yo (enemy) heard as tekiyou (apply)"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

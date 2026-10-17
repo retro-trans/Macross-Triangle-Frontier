@@ -1,0 +1,443 @@
+{
+ "slice": 156,
+ "rows_in_slice": 71,
+ "rows_examined": 71,
+ "rows": [
+  {
+   "id": "c11410",
+   "en": "I-If you get cold, please tell me, okay?",
+   "flags": [],
+   "notes": "Male, frd_myk_114. Miyuki hinting she would lend her jacket (cf. the female version c11418)."
+  },
+  {
+   "id": "c11411",
+   "en": "Yeah, I'm fine.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11412",
+   "en": "Geez... You're so dense...",
+   "flags": [],
+   "notes": "Male; Miyuki mutters at the player (donkan)."
+  },
+  {
+   "id": "c11413",
+   "en": "(I came to Folmo with Miyuki again today~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11414",
+   "en": "When we come to Folmo, there's only one place\nto hit first, right~!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11415",
+   "en": "...Soft serve, right!",
+   "flags": [],
+   "notes": "Female; Miyuki guesses the place."
+  },
+  {
+   "id": "c11416",
+   "en": "Is it really okay to eat so much soft serve\nthat you're stuffed?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11417",
+   "en": "My stomach's the one part of me that's tough!",
+   "flags": [],
+   "notes": "Female (ichou dake wa joubu)."
+  },
+  {
+   "id": "c11418",
+   "en": "If you get cold, please tell me, okay?\nI'll lend you my jacket.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11419",
+   "en": "Okay, I'll be counting on you if I do.",
+   "flags": [],
+   "notes": "Female (sono toki wa yoroshiku)."
+  },
+  {
+   "id": "c11420",
+   "en": "(Today I came swimming with Shirakawa.)",
+   "flags": [],
+   "notes": "Male, frd_myk_115."
+  },
+  {
+   "id": "c11421",
+   "en": "Nah, girls need time to get ready.\nIt can't be helped.",
+   "flags": [],
+   "notes": "Male; answers Miyuki's 'Sorry to keep you waiting'."
+  },
+  {
+   "id": "c11422",
+   "en": "Th-Then, shall we go swimming?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11423",
+   "en": "Phew, let's rest a bit...",
+   "flags": [],
+   "notes": "x2, Miyuki, both genders."
+  },
+  {
+   "id": "c11424",
+   "en": "Here, have a drink.",
+   "flags": [],
+   "notes": "x2, Miyuki hands the player a drink."
+  },
+  {
+   "id": "c11425",
+   "en": "Thanks. Coming here always gets me\nall hyped up.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11426",
+   "en": "The ocean really is fun, isn't it?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11427",
+   "en": "Oh, but don't get so hyped up\nthat something terrible happens, okay?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x2, player, both genders. taihen na koto kept vague; Miyuki's embarrassed reaction suggests a swimsuit mishap is implied."
+  },
+  {
+   "id": "c11428",
+   "en": "~~~~~!!!",
+   "flags": [],
+   "notes": "x2, Miyuki; as c07645."
+  },
+  {
+   "id": "c11429",
+   "en": "Hmph! I don't care!!",
+   "flags": [],
+   "notes": "x2, Miyuki (shiranai, pouting)."
+  },
+  {
+   "id": "c11430",
+   "en": "(Today I came swimming with Miyuki~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11431",
+   "en": "Yep, I'm all set over here!",
+   "flags": [],
+   "notes": "Female; answers 'Sorry to keep you waiting'."
+  },
+  {
+   "id": "c11432",
+   "en": "Well then, let's go swimming.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11433",
+   "en": "Thanks. This place always gets you\nall hyped up, right?",
+   "flags": [],
+   "notes": "Female (yo ne, seeks agreement)."
+  },
+  {
+   "id": "c11434",
+   "en": "Yes, the ocean really is fun...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11435",
+   "en": "(I came swimming with Shirakawa again today.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11436",
+   "en": "Yeah, I've got the parasol and stuff all set up.",
+   "flags": [],
+   "notes": "Male; answers 'Sorry to keep you waiting'."
+  },
+  {
+   "id": "c11437",
+   "en": "Well then, shall we go swimming?",
+   "flags": [],
+   "notes": "x2, Miyuki, both genders."
+  },
+  {
+   "id": "c11438",
+   "en": "Phew, time for a little break...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11439",
+   "en": "I'm glad you're having fun, Shirakawa.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11440",
+   "en": "...I like the ocean, after all.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11441",
+   "en": "B-Besides...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11442",
+   "en": "Besides?",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11443",
+   "en": "I-It's nothing!",
+   "flags": [],
+   "notes": "x2, Miyuki (nan demo arimasen)."
+  },
+  {
+   "id": "c11444",
+   "en": "I-I'm... going for a swim!!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11445",
+   "en": "(I came swimming with Miyuki again today~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11446",
+   "en": "I've got the parasol and our stuff all set up.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11447",
+   "en": "I'm relieved you're having fun, Miyuki.",
+   "flags": [],
+   "notes": "Female (anshin shita)."
+  },
+  {
+   "id": "c11448",
+   "en": "(Today I was supposed to go see a movie\nwith Shirakawa.)",
+   "flags": [],
+   "notes": "x2, male, frd_myk_116 (both sub-scenes; in one the player is late)."
+  },
+  {
+   "id": "c11449",
+   "en": "\\p-kun,\nyou're late... I thought you weren't coming...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11450",
+   "en": "S-Sorry.\nI hurried, but I ended up a little late...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11451",
+   "en": "...It's fine. You came, after all.",
+   "flags": [],
+   "notes": "x2, Miyuki, both genders."
+  },
+  {
+   "id": "c11452",
+   "en": "Sh-Shirakawa...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11453",
+   "en": "That was a lovely movie, wasn't it?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11454",
+   "en": "That romance was so sweet it gave me heartburn.\nDo you dream of a love like that too, Shirakawa?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11455",
+   "en": "M-M-M-Me? N-N-N-N-N-Not particularly!!!",
+   "flags": [],
+   "notes": "x2, Miyuki; stutter kept (watashi wa betsu ni)."
+  },
+  {
+   "id": "c11456",
+   "en": "It was a good movie! That's all!!\nN-Now then, let's go get f-f-food!!!",
+   "flags": [],
+   "notes": "Male; the stutter is on gohan."
+  },
+  {
+   "id": "c11457",
+   "en": "(Today I was supposed to go see a movie\nwith Miyuki.)",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c11458",
+   "en": "\\p-san,\nyou're late... I thought you weren't coming...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11459",
+   "en": "S-Sorry!\nI hurried, but I ended up a little late...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11460",
+   "en": "Miyuki...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11461",
+   "en": "That romance just melted my heart.\nDo you dream of a love like that too, Miyuki?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11462",
+   "en": "...Now, about that panic.\nCare to tell me all about it...?",
+   "flags": [],
+   "notes": "Female, teasing Miyuki."
+  },
+  {
+   "id": "c11463",
+   "en": "I-It's nothing, really!",
+   "flags": [],
+   "notes": "Female; Miyuki drops into casual speech here (nan demo nai kara)."
+  },
+  {
+   "id": "c11464",
+   "en": "Let's go get something to eat~!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11465",
+   "en": "(...Today was a nice change of pace~)",
+   "flags": [],
+   "notes": "Female; as c04966 / c07448."
+  },
+  {
+   "id": "c11466",
+   "en": "We showed up at the same time today.\nMaybe we've got good chemistry, huh?",
+   "flags": [],
+   "notes": "Male; Miyuki greeted him with '\\p-san, hello' (c02229)."
+  },
+  {
+   "id": "c11467",
+   "en": "Wh-Wh-Wh-Wh-What are you SAYING?!",
+   "flags": [],
+   "notes": "Male; katakana desuka = voice cracking."
+  },
+  {
+   "id": "c11468",
+   "en": "The only joke allowed here is your face!!",
+   "flags": [],
+   "notes": "Male (joudan wa kao dake ni shite kudasai), insult kept."
+  },
+  {
+   "id": "c11469",
+   "en": "O-Only my face? That's harsh...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11470",
+   "en": "Geez! We're going!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11471",
+   "en": "That movie was nothing but macho guys...\nDo you like muscle-bound guys like that too,\nShirakawa?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11472",
+   "en": "Huh? N-No, I-I'm... w-well...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11473",
+   "en": "...It's a secret!\nN-Now then, let's go get f-f-food!!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11474",
+   "en": "We showed up at the same time today.\nMaybe we've got good chemistry?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11475",
+   "en": "Hehehe, you're right. We're such good friends,\nafter all.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11476",
+   "en": "Then let's head to the theater!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11477",
+   "en": "That movie was nothing but macho guys...\nDo you like muscle-bound guys like that, Miyuki?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11478",
+   "en": "Huh? N-No, I-I'd rather go for\nsomeone more slender...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11479",
+   "en": "Got it, so you'd take a skinny beansprout\nover a big lump of meat.",
+   "flags": [],
+   "notes": "Female (moyashikko vs niku daruma)."
+  },
+  {
+   "id": "c11480",
+   "en": "I didn't say beansprout~!\nGeez! Let's just go eat, okay!?",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c11427 (x2): taihen na koto ni naranai you ni kept vague as 'something terrible happens'; Miyuki's flustered reaction suggests a swimsuit mishap is implied."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

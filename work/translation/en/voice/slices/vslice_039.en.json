@@ -1,0 +1,507 @@
+{
+ "slice": 39,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p__mv1/190",
+   "en": "Superb skill!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/190",
+   "en": "Superb skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/190",
+   "en": "Your skills are amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/190",
+   "en": "Your skills are amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/190",
+   "en": "Your skills are amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/191",
+   "en": "Superb skill!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/191",
+   "en": "Superb skill!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/191",
+   "en": "Superb skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/191",
+   "en": "Your skills are amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/191",
+   "en": "Your skills are amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/191",
+   "en": "Your skills are amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/197",
+   "en": "It's not over yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/197",
+   "en": "It's not over yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/197",
+   "en": "It's not over yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/197",
+   "en": "I'm not just going to keep taking hits!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/197",
+   "en": "I'm not just going to keep taking hits!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/197",
+   "en": "I'm not just going to keep taking hits!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/198",
+   "en": "I'm just getting started!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/198",
+   "en": "I'm just getting started!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/198",
+   "en": "I'm just getting started!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/198",
+   "en": "Time for a fresh start.",
+   "flags": [],
+   "notes": "shikiri-naoshi: regroup and start over."
+  },
+  {
+   "id": "p__fv1/198",
+   "en": "Time for a fresh start.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/198",
+   "en": "Time for a fresh start.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/600",
+   "en": "This test checks the EX-Gear's hover function.",
+   "flags": [],
+   "notes": "600-643 (Gary, Hilda): EX-Gear exam instructions at the Academy; Luis (om2 600-604) is the player's sparring opponent."
+  },
+  {
+   "id": "p0_om2/600",
+   "en": "So I'm your opponent today. Come on, show me your passion!",
+   "flags": [],
+   "notes": "The MUF ref clip with this id is a different recording (a Miss Macross contest announcement); ignored."
+  },
+  {
+   "id": "p0_of1/600",
+   "en": "This test checks walking in the EX-Gear.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has ekusukia; read as EX-Gear (ekusugia)."
+  },
+  {
+   "id": "p0_om1/601",
+   "en": "Hover mode lets you move fast, and climb and descend too. Master it and it'll help you out in all kinds of situations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om2/601",
+   "en": "Let's see what you've got. Come at me!",
+   "flags": [],
+   "notes": "The MUF ref clip with this id is a different recording (a Miss Macross contest announcement); ignored."
+  },
+  {
+   "id": "p0_of1/601",
+   "en": "Walking in an EX-Gear is nothing like walking on your own two feet. Get cocky and you'll get hurt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/602",
+   "en": "It may be a bit hard to get into, but it's not that difficult. With the basics, practice beats theory.",
+   "flags": [],
+   "notes": "narau yori narero: 'learn by doing'."
+  },
+  {
+   "id": "p0_om2/602",
+   "en": "Your skills aren't bad. But you're seriously lacking in passion.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/602",
+   "en": "Reach the goal, the room at the far end, and the test is over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/603",
+   "en": "Same as last time: the test is to reach the goal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om2/603",
+   "en": "My machine was restricted, sure, but to think I got shot down... I definitely felt your passion.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/603",
+   "en": "It's a straight path to the goal. You won't get lost. There's a time limit just in case, but no need to rush.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/604",
+   "en": "I've floated checkpoint markers too, so if you're confident, go for the bonus points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om2/604",
+   "en": "Geez, skills like that won't make my soul tremble.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/604",
+   "en": "There are also checkpoint markers floating along the way.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has mada ('still'); read as mata ('also')."
+  },
+  {
+   "id": "p0_om1/605",
+   "en": "If you're not used to high speed, you can lose track of where you are. Then it's fine to switch to Walk mode and land.",
+   "flags": [],
+   "notes": "Mode names as in the corpus EX-Gear tutorial: Walk / Hover / Flight mode."
+  },
+  {
+   "id": "p0_of1/605",
+   "en": "Go around the markers before the goal and you get bonus points. Well, whether you go for them is your call.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/606",
+   "en": "Calm down, look around you, then head for the goal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/606",
+   "en": "As you can see, this test course is a narrow passage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/607",
+   "en": "This test checks the EX-Gear's flight maneuvers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/607",
+   "en": "In Flight or Hover mode you could hit a wall and get hurt. Don't switch modes carelessly. Got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/608",
+   "en": "With this test, you'll have mastered all the EX-Gear's basic movement.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/608",
+   "en": "Moving on from the basics, this test applies them: we'll test shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/609",
+   "en": "As before, the test ends once you reach the goal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/609",
+   "en": "It's called shooting, but this isn't the military. You won't be firing guns, so relax.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/610",
+   "en": "There are markers at the checkpoints. Go around them before the goal and you'll get bonus points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/610",
+   "en": "You'll use paintballs. Just throw them and hit the targets. Well, it's more throwing than shooting.",
+   "flags": [],
+   "notes": "touteki: throwing."
+  },
+  {
+   "id": "p0_om1/611",
+   "en": "You're done once you reach the goal in time. If you hit a wall and lose your bearings, land once and calm down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/611",
+   "en": "Anyway, if you can't control your EX-Gear precisely, you won't even hit a target with a ball.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/612",
+   "en": "Flying straight shouldn't be that hard. Go after those markers aggressively.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/612",
+   "en": "The test: hit as many of the targets in the room as you can with balls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/613",
+   "en": "The trick is using boost and brake well. If you're about to hit something, rolling away is one technique too. Remember that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/613",
+   "en": "There are targets in the air too. Watch you don't miss them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/614",
+   "en": "This test is about melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/614",
+   "en": "Don't just throw balls around wildly. Don't forget to lock on properly before you throw.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/615",
+   "en": "The EX-Gear's a powered suit. Get used to using it like this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/615",
+   "en": "For this test, you'll be hauling containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/616",
+   "en": "The test is to take down training targets. One will do, but take down as many as you like within the time limit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript ends kamau ('mind'); read as kamawanai ('it's fine')."
+  },
+  {
+   "id": "p0_of1/616",
+   "en": "It may be plain, simple work, but steady training like this is what leads to precise control. Remember that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/617",
+   "en": "There's a volleyball machine set up with the targets. Balls fly out of it now and then. Dodge or block them, but deal with them.",
+   "flags": [],
+   "notes": "Hilda (row 3190) says the machine was borrowed from the volleyball club."
+  },
+  {
+   "id": "p0_of1/617",
+   "en": "The test: bring the containers in each room back here. Set one down here and that delivery is done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/618",
+   "en": "In melee you tend to focus on the enemy in front of you, but sometimes backing off to check around you matters. Remember that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/618",
+   "en": "Some rooms have closed doors, but you can open them by working the switch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/619",
+   "en": "This test takes place in the gravity control section.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/619",
+   "en": "Bring back at least one container to pass, but bring as many as you like within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/620",
+   "en": "The room's at zero G, with footage of space projected. Well? Feels like you're really out in space, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/620",
+   "en": "Every container you bring back adds bonus points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/621",
+   "en": "Reach the goal and this test is over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/621",
+   "en": "This test has no particularly tricky rules.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/622",
+   "en": "Targets are floating as markers to the goal. Follow them and you'll get there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/622",
+   "en": "The point is to see how well you each can handle an EX-Gear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/623",
+   "en": "There are a few checkpoint markers again. If you're confident, go around them before the goal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/623",
+   "en": "The test is to reach the goal beyond the hill before time runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/624",
+   "en": "Space has no up or down, so everyone's thrown at first.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes kankaku as 'interval'; read as kankaku 'sense (of up and down)'."
+  },
+  {
+   "id": "p0_of1/624",
+   "en": "Take whatever route you like. Fly or walk, it doesn't matter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/625",
+   "en": "Normally, you'd never head out into space without any guidance in the first place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/625",
+   "en": "There are checkpoint markers floating here and there.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 3066 (p0_of1/600): Transcript has ekusukia; read as EX-Gear (ekusugia).",
+   "row 3078 (p0_of1/604): Transcript has mada ('still'); read as mata ('also').",
+   "row 3101 (p0_om1/616): Transcript ends kamau ('mind'); read as kamawanai ('it's fine').",
+   "row 3117 (p0_om1/624): Transcript writes kankaku as 'interval'; read as kankaku 'sense (of up and down)'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

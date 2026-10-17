@@ -1,0 +1,497 @@
+{
+ "slice": 166,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c12143",
+   "en": "Well, since we already know where we're headed,\nlet's go straight to that shop.",
+   "flags": [],
+   "notes": "Female, frd_pnn_004."
+  },
+  {
+   "id": "c12144",
+   "en": "We should be there any minute now...",
+   "flags": [],
+   "notes": "Pinon, female scene; she is being swept along by the crowd."
+  },
+  {
+   "id": "c12145",
+   "en": "Then let's hurry a little.\nWith this many people around,\nwe could easily get separated...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12146",
+   "en": "(So it's MY fault...)",
+   "flags": [],
+   "notes": "Female. Answers Pinon scolding the player for wandering off and getting lost, when she was the one who got lost."
+  },
+  {
+   "id": "c12147",
+   "en": "So I have no choice... No choice at all, got it?!\nI suppose I could hold your hand\nso we don't get separated...",
+   "flags": [],
+   "notes": "Pinon, female scene. Grudging offer (te o tsunaide yatte mo ii)."
+  },
+  {
+   "id": "c12148",
+   "en": "(Umm, I can take that to mean\nshe wants me to hold her hand, right?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12149",
+   "en": "Yeah, good idea.\nThen maybe I'll have you hold my hand\nso we don't get separated.",
+   "flags": [],
+   "notes": "Female; plays along with Pinon's face-saving framing."
+  },
+  {
+   "id": "c12150",
+   "en": "Hehe, come on, let's go.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12151",
+   "en": "I'm so glad you got a cute ribbon,\nPinon-chan.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12152",
+   "en": "For something like this,\nI'll tag along anytime.",
+   "flags": [],
+   "notes": "Female; answers Pinon's thanks."
+  },
+  {
+   "id": "c12153",
+   "en": "(Looks like Pinon-chan got what she wanted,\nso I'm glad today turned into a fun shopping trip.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12154",
+   "en": "(If we ever go shopping again,\nI'll have to hold the princess's hand tight\nso I don't lose her.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female. himesama: the player called Pinon 'Princess' earlier in the scene ('Then, Princess, may I have your hand'); 'the princess' should match the male twin c12140 (slice 165)."
+  },
+  {
+   "id": "c12155",
+   "en": "(Today I'm going to have fun shopping\nwith Pinon-chan in the Shibuya Area!)",
+   "flags": [],
+   "notes": "Male, second visit."
+  },
+  {
+   "id": "c12156",
+   "en": "The Shibuya Area really is crowded\non days off...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12157",
+   "en": "So, uh, \\p...",
+   "flags": [],
+   "notes": "Pinon, both genders; awkward lead-in to asking to hold hands."
+  },
+  {
+   "id": "c12158",
+   "en": "Hm? What's wrong, Pinon-chan?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12159",
+   "en": "So...\nso we don't get separated like last time,\nI suppose I could hold your hand...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12160",
+   "en": "Heh, good idea.\nLet's hold hands, then.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12161",
+   "en": "It's only because I have to, got it?!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12162",
+   "en": "Haha, okay, okay.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12163",
+   "en": "(Shopping hand in hand with Pinon-chan\nlike this isn't so bad.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12164",
+   "en": "(Today I'm going to have fun shopping\nwith Pinon-chan in the Shibuya Area!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12165",
+   "en": "Hehe, good idea.\nLet's hold hands, then.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12166",
+   "en": "Hehe, okay, okay.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12167",
+   "en": "(Shopping hand in hand with Pinon-chan\nlike this isn't so bad.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12168",
+   "en": "(Pinon-chan wants to take a walk in Central Park?\nThat's an unusual invitation, coming from her.)",
+   "flags": [],
+   "notes": "Male, frd_pnn_005."
+  },
+  {
+   "id": "c12169",
+   "en": "(Well, the weather's nice today,\nso I'm glad it turned out to be perfect\nfor a walk...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12170",
+   "en": "(Huh? Pinon-chan's already here?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12171",
+   "en": "Heyyy, Pino...",
+   "flags": [],
+   "notes": "Player, both genders; cut off mid-name."
+  },
+  {
+   "id": "c12172",
+   "en": "Ooh, there, there~",
+   "flags": [],
+   "notes": "Pinon, both genders; petting a cat."
+  },
+  {
+   "id": "c12173",
+   "en": "(Hm? Oh, she's playing with a cat.\nThen I'll join in too...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12174",
+   "en": "Where did you come from, nya~?",
+   "flags": [],
+   "notes": "Pinon, both genders; cat talk (nya)."
+  },
+  {
+   "id": "c12175",
+   "en": "Did you come here all by yourself, nya~?\nWhat did you come here for, nya~?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12176",
+   "en": "(Huh... Uhh...\nThat IS Pinon-chan, right...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12177",
+   "en": "(Y-yeah...\nFor some reason I'm seeing phantom cat ears\non her head, but that's definitely Pinon-chan...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12178",
+   "en": "You're... just so cute, nya~~!!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12179",
+   "en": "(For now, I'll pretend I didn't see this...)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12180",
+   "en": "(Ah!)",
+   "flags": [],
+   "notes": "Player, both genders; gives themselves away."
+  },
+  {
+   "id": "c12181",
+   "en": "Who's there, nya?!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12182",
+   "en": "......H-hey there, Pinon-chan...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12183",
+   "en": "\\p?!",
+   "flags": [],
+   "notes": "x4: Pinon here (both genders), Hoshimura on the phone in frd_yui_006 (both genders)."
+  },
+  {
+   "id": "c12184",
+   "en": "......How much did you see?",
+   "flags": [],
+   "notes": "Pinon, both genders. dokokara mite ta = from what point were you watching."
+  },
+  {
+   "id": "c12185",
+   "en": "Wow, the weather's really nice today, huh?\nA walk on a day like this is just...",
+   "flags": [],
+   "notes": "Male; changing the subject."
+  },
+  {
+   "id": "c12186",
+   "en": "How much did you see?!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12187",
+   "en": "I-I just got here!!",
+   "flags": [],
+   "notes": "Player, both genders (polite desu in a panic)."
+  },
+  {
+   "id": "c12188",
+   "en": ".........................Nya~",
+   "flags": [],
+   "notes": "x4: the player here (lets it slip, both genders) and in frd_pnn_008, where the player teases Pinon with it."
+  },
+  {
+   "id": "c12189",
+   "en": "Th-that's not it! This is, um,\nnyow do I put it...!!",
+   "flags": [],
+   "notes": "Pinon, both genders. Pun: nyante iu ka (nante iu ka with nya); kept as 'nyow'."
+  },
+  {
+   "id": "c12190",
+   "en": "J-just calm down for a sec,\nPinon-chan!",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12191",
+   "en": "Uuu.........",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12192",
+   "en": "Pinon-chan...\nThere's no need to be so embarrassed.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12193",
+   "en": "You were super cute going 'nya~, nya~',\nPinon-chan. So don't be shy,\nhave more confidence in yourself...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12194",
+   "en": "Uuu...............",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12195",
+   "en": "Pinon-chan?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12196",
+   "en": "Waaaaaaaaaaaaaah!!!",
+   "flags": [],
+   "notes": "Pinon, both genders; runs off crying."
+  },
+  {
+   "id": "c12197",
+   "en": "Ah! Pinon-chan...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12198",
+   "en": "(She ran off like a shot...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12199",
+   "en": "(She didn't have to be THAT embarrassed, nya~)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12200",
+   "en": "(Whoops, I caught Pinon-chan's habit...)",
+   "flags": [],
+   "notes": "Male; the nya rubbed off."
+  },
+  {
+   "id": "c12201",
+   "en": "(Pinon-chan wants to take a walk in Central Park?\nThat's an unusual invitation, coming from her.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12202",
+   "en": "(Well, the weather's nice today,\nso I'm glad it turned out to be perfect\nfor a walk...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12203",
+   "en": "(Huh? Pinon-chan's already here?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12204",
+   "en": "(Hm? Oh, she's playing with a cat.\nThen I'll join in too...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12205",
+   "en": "(Huh... Uhh...\nThat IS Pinon-chan, right...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12206",
+   "en": "(Y-yeah...\nFor some reason I'm seeing phantom cat ears\non her head, but that's definitely Pinon-chan...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12207",
+   "en": "Wow, the weather's really nice today, isn't it?\nA walk on a day like this is just...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12208",
+   "en": "Pinon-chan...\nThere's no need to be so embarrassed.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12209",
+   "en": "You were super cute going 'nya~, nya~',\nPinon-chan. So don't be shy,\nhave more confidence in yourself...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12210",
+   "en": "(She ran off like a shot...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12211",
+   "en": "(Whoops, I caught Pinon-chan's habit...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12212",
+   "en": "(Hmm, I came to Central Park by myself,\nbut there's nothing to do. I'm bored...)",
+   "flags": [],
+   "notes": "Male, frd_pnn_005 later visit."
+  },
+  {
+   "id": "c12213",
+   "en": "(I know, maybe I'll call Pinon-chan.)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12214",
+   "en": "Hello, this is Pinon.",
+   "flags": [],
+   "notes": "Pinon on the phone, both genders."
+  },
+  {
+   "id": "c12215",
+   "en": "Oh, Pinon-chan.",
+   "flags": [],
+   "notes": "x6: the player here, and in nml_pnn_015 and nml_pnn_021 (both genders) as a reaction to Pinon."
+  },
+  {
+   "id": "c12216",
+   "en": "Oh, it's \\p...\nWhat on earth do you want with me?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12217",
+   "en": "I'm at Central Park right now, so I was\nwondering if you'd like to come too,\nif you're free...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12218",
+   "en": "Central Park?!\nI am NOT going! Absolutely not!!\nBye!",
+   "flags": [],
+   "notes": "Pinon, both genders; still mortified about the cat scene."
+  },
+  {
+   "id": "c12219",
+   "en": "Ah, Pinon-chan...",
+   "flags": [],
+   "notes": "x6: the player as Pinon hangs up or leaves; also nml_pnn_001 and nml_pnn_007 (both genders)."
+  },
+  {
+   "id": "c12220",
+   "en": "(Maybe she's still hung up\non what happened last time...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12221",
+   "en": "(Hmm, I came to Central Park by myself,\nbut there's nothing to do. I'm bored...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12222",
+   "en": "I'm at Central Park right now, so I was\nwondering if you'd like to come too,\nif you're free...",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c12154: 'the princess' for himesama (the player's teasing name for Pinon earlier in frd_pnn_004); should match the male twin c12140 in slice 165."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

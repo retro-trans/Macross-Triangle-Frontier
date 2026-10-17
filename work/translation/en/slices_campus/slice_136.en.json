@@ -1,0 +1,425 @@
+{
+ "slice": 136,
+ "rows_in_slice": 68,
+ "rows_examined": 68,
+ "rows": [
+  {
+   "id": "c09996",
+   "en": "(Taking a walk in the park like this\nonce in a while isn't bad.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09997",
+   "en": "(Huh, wait, is that Michel?\nWhat's he doing in a place like this?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09998",
+   "en": "Hey, Michel!",
+   "flags": [],
+   "notes": "x5: male player calling out in frd_mcl_005/006/114 and nml_mcl_016."
+  },
+  {
+   "id": "c09999",
+   "en": "Hm, \\p?\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10000",
+   "en": "It was nice out, so I came for a little walk.\nWhat about you, Michel? What are you doing here?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10001",
+   "en": "I'm out for a walk too.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10002",
+   "en": "Huh~, I see.\nDo you come to Central Park a lot, Michel?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10003",
+   "en": "Now and then. When I was little,\nI used to play here with Klan a lot.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10004",
+   "en": "So you and Klan-senpai have been close\nsince way back, huh.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10005",
+   "en": "Hmph. Well, we're childhood friends, after all.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10006",
+   "en": "(He just won't admit it.)",
+   "flags": [],
+   "notes": "Both genders; sunao ja nai = not honest about his feelings for Klan."
+  },
+  {
+   "id": "c10007",
+   "en": "Man, this really takes me back...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10008",
+   "en": "Klan and I would play until the sun went down,\nand then Sis would come to pick us up...",
+   "flags": [],
+   "notes": "Both genders. nesan = Michel's own older sister; kinship word -> 'Sis' per brief."
+  },
+  {
+   "id": "c10009",
+   "en": "Sis...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10010",
+   "en": "Um... What's wrong, Michel?",
+   "flags": [],
+   "notes": "Male. As c22369."
+  },
+  {
+   "id": "c10011",
+   "en": "No, it's nothing... Don't worry about it.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10012",
+   "en": "(Nothing, he says...\nIt sure doesn't look like nothing......)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10013",
+   "en": "(Isn't there some way\nI can cheer Michel up...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10014",
+   "en": "(Oh, I know!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10015",
+   "en": "Michel!\nLet's play here right now,\nlike you did when you were little!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10016",
+   "en": "Huh? Where's this coming from all of a sudden?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10017",
+   "en": "You used to play here a lot, right?\nBeing a kid again once in a while isn't so bad.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10018",
+   "en": "I-is that a no...? Michel?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10019",
+   "en": "...Geez, I guess you leave me no choice......",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10020",
+   "en": "But if we're doing this, I'm going all out!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10021",
+   "en": "Ahh~, I'm beat~",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10022",
+   "en": "You said it...\nBut just playing around without a thought\nin my head like this isn't half bad.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10023",
+   "en": "Yeah, you're right.",
+   "flags": [],
+   "notes": "Male; agrees with Michel's line."
+  },
+  {
+   "id": "c10024",
+   "en": "Today was a really nice change of pace.",
+   "flags": [],
+   "notes": "Both genders. 'change of pace' as finished slices."
+  },
+  {
+   "id": "c10025",
+   "en": "I had a lot of fun too.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10026",
+   "en": "Sorry... for making you go to all that\ntrouble for me...",
+   "flags": [],
+   "notes": "Both genders. Said half to himself; the player does not catch it (c10027)."
+  },
+  {
+   "id": "c10027",
+   "en": "Hm? What?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10028",
+   "en": "Nah, it's nothing.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10029",
+   "en": "Well then...\nThe sun's about to go down, so I'll head home.\nSee you.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10030",
+   "en": "Yeah, see you.",
+   "flags": [],
+   "notes": "x7, all the male player (frd_mcl, frd_myk, frd_yui, nml_mcl). As c08128."
+  },
+  {
+   "id": "c10031",
+   "en": "(Phew~ I never imagined I'd end up\nplaying in the park with Michel...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10032",
+   "en": "(Michel seemed to have fun too,\nso maybe I'll invite him out again sometime?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10033",
+   "en": "(Taking a walk in the park like this\nonce in a while isn't bad.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10034",
+   "en": "(Wait, is that Michel-kun?\nI wonder what he's doing in a place like this.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10035",
+   "en": "Hey, Michel-kun!",
+   "flags": [],
+   "notes": "x5: female player in frd_mcl_005/006/114 and nml_mcl_016."
+  },
+  {
+   "id": "c10036",
+   "en": "It was nice out, so I came for a little walk.\nWhat about you, Michel-kun?\nWhat are you doing here?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10037",
+   "en": "Huh~, I see.\nDo you come to Central Park a lot, Michel-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10038",
+   "en": "So you and Klan-senpai have been close\nsince way back.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10039",
+   "en": "Um... What's wrong, Michel-kun?",
+   "flags": [],
+   "notes": "Female. As c22380."
+  },
+  {
+   "id": "c10040",
+   "en": "(Nothing, he says...\nIt sure doesn't look like nothing......)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10041",
+   "en": "(Isn't there some way\nI can cheer Michel-kun up...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10042",
+   "en": "(Oh, I know!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10043",
+   "en": "Michel-kun!\nLet's play here right now,\nlike you did when you were little!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10044",
+   "en": "You used to play here a lot, right?\nBeing a kid again once in a while\nisn't bad at all.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10045",
+   "en": "I-is that a no...? Michel-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10046",
+   "en": "Ahh~, I'm so tired~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10047",
+   "en": "I had a lot of fun too.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10048",
+   "en": "(Phew~ I never imagined I'd end up\nplaying in the park with Michel-kun...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10049",
+   "en": "(Michel-kun seemed to have fun too,\nso maybe I'll invite him out again sometime?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10050",
+   "en": "(Phew~ Central Park really is\nthe best place to unwind.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10051",
+   "en": "Yo, \\p.\nFancy meeting you at Central Park again.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10052",
+   "en": "Oh, did you come for a walk again too, Michel?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10053",
+   "en": "Yeah, something like that.",
+   "flags": [],
+   "notes": "Both genders. As c00765."
+  },
+  {
+   "id": "c10054",
+   "en": "Hey, since we're here,\nwant to play around here like last time?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10055",
+   "en": "I've got my part-time job after this.\nSorry, but I'll have to pass.",
+   "flags": [],
+   "notes": "Both genders. baito = part-time job."
+  },
+  {
+   "id": "c10056",
+   "en": "Okay, see you.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10057",
+   "en": "(Maybe it's just me, but Michel seemed more\ncheerful than when we met here last time...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10058",
+   "en": "(Did he finally sort out whatever\nwas bothering him?)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10059",
+   "en": "(Phew~ Central Park really is\nthe best place to unwind.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10060",
+   "en": "Oh, did you come for a walk again too,\nMichel-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10061",
+   "en": "Hey, since we're here,\nwant to play around here like last time?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10062",
+   "en": "Okay, see you.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10063",
+   "en": "(Maybe it's just me, but Michel-kun seemed more\ncheerful than when we met here last time...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c10008/c10009: nesan = Michel's own late older sister; rendered 'Sis' (kinship word, per brief).",
+   "c10026: Michel's apology is half to himself (the player asks 'What?' next); rendered as thanks-for-the-trouble apology.",
+   "c10030 'Yeah, see you.' (x7) serves the male player in frd_myk/frd_yui/nml_mcl too; as c08128."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

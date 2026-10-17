@@ -1,0 +1,481 @@
+{
+ "slice": 274,
+ "rows_in_slice": 78,
+ "rows_examined": 78,
+ "rows": [
+  {
+   "id": "c19653",
+   "en": "(Phew~ The morning air feels great...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19654",
+   "en": "Oh? \\p?",
+   "flags": [],
+   "notes": "Sheryl, both genders (bare name in the Japanese for both)."
+  },
+  {
+   "id": "c19655",
+   "en": "Huh, Sheryl?!\nWhat are you doing out at this hour?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19656",
+   "en": "Nothing in particular.\nI woke up, so I came out for a little fresh air.",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19657",
+   "en": "Huh, so even you do that sometimes...",
+   "flags": [],
+   "notes": "Male. 'sonna koto mo aru n da': surprised the superstar is up early for fresh air."
+  },
+  {
+   "id": "c19658",
+   "en": "Frontier's air is nicer than the Galaxy fleet's.\nEspecially in the morning. It's something else!",
+   "flags": [],
+   "notes": "Sheryl, both genders. 'Galaxy' = the Galaxy fleet, as settled."
+  },
+  {
+   "id": "c19659",
+   "en": "Oh, is that so...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19660",
+   "en": "Well, if you've always lived on Frontier,\nyou wouldn't know. You'll understand someday,\nwhen we reach a new planet. I'm sure of it.",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19661",
+   "en": "Yeah, maybe so.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19662",
+   "en": "(Sheryl's been all over the place on tour,\nafter all...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19663",
+   "en": "(Phew~ The morning air feels great...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19664",
+   "en": "Huh, Sheryl-san?!\nWhat are you doing out at this hour?",
+   "flags": [],
+   "notes": "Female (polite)."
+  },
+  {
+   "id": "c19665",
+   "en": "Huh, so even you do that sometimes...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19666",
+   "en": "Oh, is that so...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19667",
+   "en": "Yes, maybe so.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19668",
+   "en": "(Sheryl-san's been all over the place\non tour, after all...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19669",
+   "en": "(The damage to the city... It's just too awful...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19670",
+   "en": "I know this is a shock, things turning out\nlike this. But facts are facts.\nWe have to accept them.",
+   "flags": [],
+   "notes": "Sheryl, both genders (twice per version)."
+  },
+  {
+   "id": "c19671",
+   "en": "And right now, we each do everything we can.\nThat's all we can do right now...",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19672",
+   "en": "I'll do what I can do. See you.",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19673",
+   "en": "(Sheryl's really strong...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19674",
+   "en": "(The damage to the city... It's just too awful...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19675",
+   "en": "Yes, you're right...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19676",
+   "en": "(Sheryl-san's really strong...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19677",
+   "en": "(The tests are finally over. I'm beat~)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19678",
+   "en": "Ugh, what IS this?!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19679",
+   "en": "(Huh? What's up with Sheryl?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19680",
+   "en": "Sheryl? What's wrong?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19681",
+   "en": "Don't \"what's wrong\" me! What is with this test?!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19682",
+   "en": "Meaning...?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19683",
+   "en": "Nothing I studied came up at all!\nThese questions have to be a mistake!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19684",
+   "en": "(She must've studied the wrong material...\nI bet...)",
+   "flags": [],
+   "notes": "Male. shiken han'i machigaeta = got the test range wrong."
+  },
+  {
+   "id": "c19685",
+   "en": "Oh, whatever!\nThis kind of thing is worthless to me anyway!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19686",
+   "en": "That's... Sheryl for you...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19687",
+   "en": "(I guess schoolwork doesn't really matter\nto someone like Sheryl.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19688",
+   "en": "(The tests are finally over. I'm beat~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19689",
+   "en": "(Huh? What's up with Sheryl-san?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19690",
+   "en": "Sheryl-san? Is something wrong?",
+   "flags": [],
+   "notes": "Female (polite)."
+  },
+  {
+   "id": "c19691",
+   "en": "What do you mean...?",
+   "flags": [],
+   "notes": "Female (polite)."
+  },
+  {
+   "id": "c19692",
+   "en": "(She must've studied the wrong material...\nI bet...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19693",
+   "en": "That's... Sheryl-san for you...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19694",
+   "en": "(I guess schoolwork doesn't really matter\nto someone like Sheryl-san.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19695",
+   "en": "(Whoa, I dawdled and now look at the time!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19696",
+   "en": "Ah, sorry, Sheryl!",
+   "flags": [],
+   "notes": "Male; he just bumped into her."
+  },
+  {
+   "id": "c19697",
+   "en": "Geez... Watch where you're going!\nYou're 300 million light-years too early\nto bump into me!",
+   "flags": [],
+   "notes": "Sheryl, both genders. Kept the mixed-up unit: the player's next line points it out."
+  },
+  {
+   "id": "c19698",
+   "en": "...Pretty sure light-years aren't a unit of time...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19699",
+   "en": "What? Did you say something?",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19700",
+   "en": "No, nothing!\nMore importantly, are you hurt? You okay?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19701",
+   "en": "I'm fine. If I got hurt over something like this,\nI'd never cut it as the \"Galactic Fairy\"!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19702",
+   "en": "...I don't think that has much to do\nwith getting hurt...\nOh, right, I've gotta hurry!",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c19703",
+   "en": "Hey, wait just a minute!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19704",
+   "en": "(There's so much to call Sheryl out on...)",
+   "flags": [],
+   "notes": "Male. tsukkomi-dokoro."
+  },
+  {
+   "id": "c19705",
+   "en": "(Aaah, I dawdled and now look at the time!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19706",
+   "en": "Ah, I'm so sorry, Sheryl-san!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19707",
+   "en": "...Light-years aren't a unit of time, right...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19708",
+   "en": "No, nothing!\nMore importantly, aren't you hurt?",
+   "flags": [],
+   "notes": "Female (polite)."
+  },
+  {
+   "id": "c19709",
+   "en": "(There's so much to call Sheryl-san out on...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19710",
+   "en": "(Lunch break already? I'm starving.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19711",
+   "en": "(Oh, it's Sheryl. Looks like she's having lunch.\nI wonder what she's eating...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19712",
+   "en": "Mmm~ So cold and yummy~!!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19713",
+   "en": "Wha?! Soft serve, of all things?!",
+   "flags": [],
+   "notes": "PLAYER, both genders. Callback to nml_she_001."
+  },
+  {
+   "id": "c19714",
+   "en": "Who's there?!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19715",
+   "en": "Oh, sorry.\nI was just passing by...",
+   "flags": [],
+   "notes": "Male (caught, slips into polite speech)."
+  },
+  {
+   "id": "c19716",
+   "en": "You saw, didn't you...",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19717",
+   "en": "Uh, um... Saw what?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19718",
+   "en": "Me eating hippo-cow soft serve for lunch!",
+   "flags": [],
+   "notes": "Sheryl, both genders. hippo-cow per glossary."
+  },
+  {
+   "id": "c19719",
+   "en": "Well, I did see it, but what about it?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19720",
+   "en": "Well, since you saw, it can't be helped...\nYou'd better keep this a secret from Grace.",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19721",
+   "en": "If you tell her, I'll never forgive you!",
+   "flags": [],
+   "notes": "Sheryl, both genders. 'her' = Grace (female in glossary)."
+  },
+  {
+   "id": "c19722",
+   "en": "Okay, got it~",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19723",
+   "en": "(I see, Grace-san must have banned her\nfrom sweets...)",
+   "flags": [],
+   "notes": "Male. Grace-san as the player calls her (c19741)."
+  },
+  {
+   "id": "c19724",
+   "en": "(Lunch break already~ I'm starving~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19725",
+   "en": "(Oh, it's Sheryl-san. Looks like she's having\nlunch. I wonder what she's eating...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19726",
+   "en": "Oh, I'm sorry.\nI was just passing by...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19727",
+   "en": "Uh, um... Saw what?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19728",
+   "en": "Yes, I saw it, but...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19729",
+   "en": "Oh, um, okay...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19730",
+   "en": "(I see, Grace-san must have banned her\nfrom sweets...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

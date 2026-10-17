@@ -1,0 +1,404 @@
+{
+ "slice": 67,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c04955",
+   "en": "(Today I came to the ranch with Claire-senpai!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04956",
+   "en": "Wow... They're so big...",
+   "flags": [],
+   "notes": "x6: Claire x4; twice with no name plate (after the player's 'N-nothing!'), so kept neutral."
+  },
+  {
+   "id": "c04957",
+   "en": "So they're raised by Zentradi people.\nI had no idea.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04958",
+   "en": "With a size like that, the amount of milk\nthey give must be on a whole other level.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04959",
+   "en": "It had a real pastoral feel to it.\nThat was fun, wasn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04960",
+   "en": "Yes. I had fun getting to see you\nso excited, Senpai.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04961",
+   "en": "Geez, the things this kid says...",
+   "flags": [],
+   "notes": "Claire refers to the player as 'kono ko'."
+  },
+  {
+   "id": "c04962",
+   "en": "Well then, let's head home~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04963",
+   "en": "(Today I came to the ranch with Claire-senpai.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04964",
+   "en": "So they're raised by Zentradi people.\nI had no idea at all.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04965",
+   "en": "I had fun too, getting to see you\nso excited, Senpai.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04966",
+   "en": "(Today was a nice change of pace~)",
+   "flags": [],
+   "notes": "x78 (77 female, 1 male): neutral."
+  },
+  {
+   "id": "c04967",
+   "en": "(Today I came to the ranch with Claire-senpai again!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04968",
+   "en": "Wow... They're so big...\nSo that's the hippo-cow the milk comes from...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04969",
+   "en": "I wonder how much milk you get from just one.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04970",
+   "en": "I wonder how much that'd be in soft serve...",
+   "flags": [],
+   "notes": "Soft-cream equivalent of the milk. Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c04971",
+   "en": "(Senpai can't resist sweets either, huh...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04972",
+   "en": "You look like you want to say something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04973",
+   "en": "Today was fun too.\nLet's come out here again sometime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04974",
+   "en": "Yes, I had fun spending time with you, Senpai.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c04975",
+   "en": "Same here. Flattery or not, that makes me happy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04976",
+   "en": "Well then, shall we head home?",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c04977",
+   "en": "(Today I came to the ranch with Claire-senpai again.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04978",
+   "en": "I wonder how much milk you get from just one?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04979",
+   "en": "(Senpai can't resist sweets either...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04980",
+   "en": "(Today I came to study with Claire-senpai!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04981",
+   "en": "All right, no chitchat. Let's work hard, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04982",
+   "en": "There's no time for goofing off~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04983",
+   "en": "(Senpai's in fired-up mode again today...)",
+   "flags": [],
+   "notes": "Both genders; 'nekketsu mode'."
+  },
+  {
+   "id": "c04984",
+   "en": "Come on, come on, quit spacing out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04985",
+   "en": "Mmm~ Nothing beats tea after studying.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04986",
+   "en": "What's with you... going all limp like that.\nSit up straight, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04987",
+   "en": "After our tea, we're going shopping~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04988",
+   "en": "(Senpai sure is full of energy...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c04989",
+   "en": "(Today I came to study with Claire-senpai.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04990",
+   "en": "(I'm studying with Claire-senpai again today.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04991",
+   "en": "Stop chitchatting and let's get started already~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04992",
+   "en": "(Senpai's in fired-up mode again today, huh...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04993",
+   "en": "Come on, come on, keep those hands moving!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04994",
+   "en": "Mmm~ Tea after studying is something special.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04995",
+   "en": "What's with you... after just a little studying...\nYou're such a slacker, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04996",
+   "en": "Okaaay, sorryyy.",
+   "flags": [],
+   "notes": "Consistent with 'Okaaay.' for haai."
+  },
+  {
+   "id": "c04997",
+   "en": "After our tea we're going shopping, you know.\nSo get your strength back, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04998",
+   "en": "(Senpai really is full of energy...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c04999",
+   "en": "(I'm studying with Claire-senpai again today.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05000",
+   "en": "(Senpai's in fired-up mode again today, huh...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05001",
+   "en": "(Today I came out shopping with Claire-senpai, but...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05002",
+   "en": "\\p-kun,\ndid you find anything?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Nanika atta kashira' read as 'found anything (in the shops)?'; the player answers he is just wandering."
+  },
+  {
+   "id": "c05003",
+   "en": "I'm just wandering around, but...\nSenpai, is there anywhere you want to go?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05004",
+   "en": "I followed you because you were walking this way...\nDon't tell me you had no plan at all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05005",
+   "en": "Honestly, what am I going to do with you...",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c05006",
+   "en": "That hot dog was delicious, wasn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05007",
+   "en": "Just the thing after a nice walk.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05008",
+   "en": "Well then, shall we keep shopping?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05009",
+   "en": "(Today I came out shopping with Claire-senpai, but...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05010",
+   "en": "\\p-chan,\ndid you find anything?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same reading as c05002."
+  },
+  {
+   "id": "c05011",
+   "en": "(I came out shopping with Claire-senpai again\ntoday, but...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05012",
+   "en": "Um... where should we go today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05013",
+   "en": "You mean you were walking around without a plan?\nThat's no good. You need to escort me properly.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05014",
+   "en": "No matter how many times I eat them,\nI never get tired of the hot dogs here.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05015",
+   "en": "They're good, but make sure you decide\nwhere we're going next, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05016",
+   "en": "O-okaaay...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05017",
+   "en": "(I had fun hanging out with Claire-senpai\nall day today.)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05018",
+   "en": "No matter how many times I eat them,\nthe hot dogs here never get old, right?",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c05002/c05010: Claire's 'nanika atta kashira' read as 'did you find anything?' (they are out shopping and the player replies he/she is just wandering); could also be 'is something up?'.",
+   "c04956 (x6): two occurrences have no name plate (likely Claire with a missing plate); 'Wow... They're so big...' works for either speaker."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

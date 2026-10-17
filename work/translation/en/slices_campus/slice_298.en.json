@@ -1,0 +1,498 @@
+{
+ "slice": 298,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c21407",
+   "en": "(And this Ozma-san, Ranka-chan's brother,\nseems to dote on her a whole lot too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21408",
+   "en": "(I hope I can become good friends\nwith Ranka-chan too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21409",
+   "en": "I wonder when my Galaxy Ramen will be coming?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21410",
+   "en": "Aaah! I'm so sorry!\nJust a moment, please,\n\\p-chan!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21411",
+   "en": "(Hee hee, Ranka-chan really is an energetic girl.\nShe's never boring to watch...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21412",
+   "en": "(I kind of get why everyone likes Ranka-chan.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21413",
+   "en": "\\p-kun, be sure to come back again~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21414",
+   "en": "(Nyan-Nyan's maguro buns were amazing,\njust like I expected.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21415",
+   "en": "(Okay, what should I do now...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21416",
+   "en": "Hey! You over there!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21417",
+   "en": "Yeah, you.\nShut up and come with me a sec.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21418",
+   "en": "(I-is this a shakedown...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21419",
+   "en": "Ozma, you're being way too scary with a kid.\nLook, you've got the poor boy trembling.",
+   "flags": [],
+   "notes": "??? plate; the next rows show it is Bobby. Bobby's camp voice."
+  },
+  {
+   "id": "c21420",
+   "en": "Tch, getting scared over something like this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21421",
+   "en": "(Huh?! Ozma... Could he be...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21422",
+   "en": "I've got no intention of hurting you.\nI just have some business with you,\nas Ranka's big brother...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21423",
+   "en": "Oh, so you really are Ranka's big brother.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21424",
+   "en": "That's right. I'm Ranka's beloved big brother,\nOzma Lee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21425",
+   "en": "And I'm the love of Ozma's life,\nBobby Margot.\nNice to meet you, kiddo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21426",
+   "en": "My name's \\p.\nSo what exactly do you want with me...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21427",
+   "en": "There's something I absolutely\nhave to tell you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21428",
+   "en": "........................................\n........................................\nKeep on being good friends with Ranka...",
+   "flags": [],
+   "notes": "The two lines of Japanese ellipses kept as ASCII dot lines. Ozma asking the player (direction: request to the listener)."
+  },
+  {
+   "id": "c21429",
+   "en": "Huh? Wha?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21430",
+   "en": "What's with you, punk...\nYou saying you can't be friends with Ranka? Huh?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21431",
+   "en": "O-of course not!\nI'd be honored to be her friend!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21432",
+   "en": "I see... That's all I needed to hear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21433",
+   "en": "(H-he stopped me in a back alley like this\njust to tell me that...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21434",
+   "en": "But if you ever lay a hand on Ranka...",
+   "flags": [],
+   "notes": "Male version; the female version (c21456) says 'make Ranka cry' instead."
+  },
+  {
+   "id": "c21435",
+   "en": "You know what'll happen to you, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21436",
+   "en": "Good, that'll do.\nThat's all I wanted to say.\nSee ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21437",
+   "en": "Sorry, kiddo.\nJust think of today as getting bitten by a dog\nand let it go. Hee hee, bye now.",
+   "flags": [],
+   "notes": "Japanese idiom (bitten by a dog = bad luck you just shrug off) kept literal; Bobby's voice."
+  },
+  {
+   "id": "c21438",
+   "en": "(Phew, I thought he was going to kill me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21439",
+   "en": "Are you all right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21440",
+   "en": "Ah, yes...\nWait, who are you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21441",
+   "en": "I am Canaria Berstein,\na colleague of Ozma's.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21442",
+   "en": "Sorry about that.\nHe has a tendency to be a bit overprotective\nof his little sister Ranka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21443",
+   "en": "I just experienced that firsthand...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21444",
+   "en": "I hold a medical license, you see.\nIf you get a minor injury, I'll treat it myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21445",
+   "en": "Huh? You're assuming I'll get hurt someday?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21446",
+   "en": "Heh, I'm joking.\nIf you're still alive, we'll meet again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21447",
+   "en": "(Ozma-san must be a good guy who cares about\nhis sister, but that's way too overprotective,\nno matter how you look at it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21448",
+   "en": "(I'd better be careful not to get hurt, at least...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21449",
+   "en": "\\p-chan, be sure to come back again~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21450",
+   "en": "(Nyan-Nyan's maguro buns were amazing,\njust like I expected.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21451",
+   "en": "Ozma, you're being way too scary with a kid.\nLook, you've got the poor girl trembling.",
+   "flags": [],
+   "notes": "??? plate; Bobby (female variant, ojou-chan = the poor girl)."
+  },
+  {
+   "id": "c21452",
+   "en": "Oh, so you really are Ranka-chan's\nbig brother.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21453",
+   "en": "And I'm the love of Ozma's life,\nBobby Margot.\nNice to meet you, missy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21454",
+   "en": "My name's \\p.\nSo what exactly do you want with me...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21455",
+   "en": "(H-he stopped me in a back alley like this\njust to tell me that...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21456",
+   "en": "But if you ever make Ranka cry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21457",
+   "en": "Sorry, missy.\nJust think of today as getting bitten by a dog\nand let it go. Hee hee, bye now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21458",
+   "en": "(Ozma-san must be a good guy who cares about\nhis sister, but that's way too overprotective,\nno matter how you look at it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21459",
+   "en": "(All right, today's Sports Day!\nI'm gonna do my best to shine too!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21460",
+   "en": "Geez, events like this are nothing but a drag...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21461",
+   "en": "How can you say that, Alto?!\nNot getting fired up for an event this hot...\nAre you even a man?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21462",
+   "en": "Hey, Kagura! What did you just say?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21463",
+   "en": "Yuuto, Alto, both of you calm down...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21464",
+   "en": "Well, since we're doing it anyway,\nwinning beats losing. Guess I'll take it\na little seriously.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21465",
+   "en": "I've gotta look good in front of Nanase-san too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21466",
+   "en": "Huh? Did you need something from me, Luca-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21467",
+   "en": "N-Nanase-san!\nN-no! It's nothing at all!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21468",
+   "en": "(This team sure is a mess...\nAre we really gonna be okay?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21469",
+   "en": "(Well, whatever happens, happens...\nNow, time to start my warm-up stret...)",
+   "flags": [],
+   "notes": "Interrupted mid-word, as the Japanese trails off."
+  },
+  {
+   "id": "c21470",
+   "en": "Whoa, whoa...\nAt an event as passion-boiling as Sports Day,\naren't you forgetting someone important?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21471",
+   "en": "Me, it's me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21472",
+   "en": "Huh... You're...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21473",
+   "en": "Wh-who are you...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21474",
+   "en": "Geez, you don't know who I am?\nJust how far behind the times are you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21475",
+   "en": "(What am I supposed to say to that...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21476",
+   "en": "Listen... Carve my name into your soul!\nMy name is Luis Fernando!\nA burning man overflowing with passion!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21477",
+   "en": "(...He doesn't look like a Mihoshi teacher...\nC-could he be some kind of creep...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21478",
+   "en": "(Maybe I'd better report this to a teacher\nafter all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21479",
+   "en": "What, you heard my name and you still\ndon't know me? Just how fresh are you...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21480",
+   "en": "But inside that freshness of yours,\nI can feel a burning passion...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21481",
+   "en": "Hey, kid, what's your name?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21482",
+   "en": "M-my name's \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21483",
+   "en": "\\p, huh...\nI've carved your name deep into my soul...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21484",
+   "en": "Heh, see you around,\nFresh Boy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21485",
+   "en": "Huh? Fresh Boy...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21486",
+   "en": "(Who on earth is this Luis-san guy?\nHe might even be someone dangerous...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c21419/c21451: speaker plate is '??? (man)' but the line is Bobby's (he introduces himself two rows later); written in Bobby's camp voice.",
+   "c21428: Ozma's two lines of Japanese ellipses rendered as two ASCII dot lines (40 dots each); shorten if they look too long in game.",
+   "c21437/c21457: Bobby's idiom 'think of it as being bitten by a dog' kept literal (meaning: shrug off bad luck).",
+   "c21431: humble 'nakayoku sasete itadakimasu' rendered 'I'd be honored to be her friend!' (shared by both player genders)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

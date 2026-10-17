@@ -1,0 +1,472 @@
+{
+ "slice": 175,
+ "rows_in_slice": 76,
+ "rows_examined": 76,
+ "rows": [
+  {
+   "id": "c12829",
+   "en": "Well then, invite me again!",
+   "flags": [],
+   "notes": "Ranka, both genders, frd_rnk_004."
+  },
+  {
+   "id": "c12830",
+   "en": "(Hanging out at the beach is pretty nice too, huh.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12831",
+   "en": "(Today I invited Ranka-chan out\nto the artificial island~)",
+   "flags": [],
+   "notes": "Female; as c12820."
+  },
+  {
+   "id": "c12832",
+   "en": "\\p-chan, you're late!\nIf we don't hurry, it'll get crowded!",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c12833",
+   "en": "You've just got too much energy, Ranka-chan.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12834",
+   "en": "But it was super fun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12835",
+   "en": "(Hanging out at the beach is great, huh.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12836",
+   "en": "(Ranka and I made plans to hang out today...)",
+   "flags": [],
+   "notes": "Male, frd_rnk_005."
+  },
+  {
+   "id": "c12837",
+   "en": "(I haven't planned anything, though.\nSo, where should we go...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12838",
+   "en": "Sorry to keep you waiting!\n\\p-kun!",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c12839",
+   "en": "Hey, you're early.\nSo, where should we go today?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12840",
+   "en": "Um, let me see...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12841",
+   "en": "Isn't there anywhere you want to go, Ranka?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12842",
+   "en": "Hmm~, there are just too many...\nBut maybe a movie... or shopping?",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12843",
+   "en": "I see. But we don't have to pick just one, right?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12844",
+   "en": "Hehe!\nThen let's do both!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12845",
+   "en": "Oh my, you two seem awfully chummy.\nOff on a date, are we?",
+   "flags": [],
+   "notes": "Michel, male; mock-polite, sneaking up on them."
+  },
+  {
+   "id": "c12846",
+   "en": "Heh, what're you panicking for? It's me.",
+   "flags": [],
+   "notes": "Michel, male."
+  },
+  {
+   "id": "c12847",
+   "en": "Michel-san!",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c12848",
+   "en": "Hello, Ranka-chan.",
+   "flags": [],
+   "notes": "Michel, male."
+  },
+  {
+   "id": "c12849",
+   "en": "Hello!",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c12850",
+   "en": "Don't I get a hello?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12851",
+   "en": "Oh, \\p.\nYou were here too?",
+   "flags": [],
+   "notes": "Michel, male."
+  },
+  {
+   "id": "c12852",
+   "en": "What a way to treat me...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12853",
+   "en": "That's right!\nPoor \\p-kun!",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c12854",
+   "en": "Wh-what is it, Michel?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12855",
+   "en": "I see, I see...\nWell, I'm impressed, \\p.",
+   "flags": [],
+   "notes": "Michel, male (minaoshita: you went up in my estimation)."
+  },
+  {
+   "id": "c12856",
+   "en": "...Impressed by what?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12857",
+   "en": "Well, he may be like this,\nbut take good care of him, Ranka-chan.",
+   "flags": [],
+   "notes": "Michel, male."
+  },
+  {
+   "id": "c12858",
+   "en": "Huh? Oh, yes!",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c12859",
+   "en": "See ya, Ranka-chan.",
+   "flags": [],
+   "notes": "Michel, male."
+  },
+  {
+   "id": "c12860",
+   "en": "H-hey!\nNothing for me?!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12861",
+   "en": "I've got nothing to say to an idiot. Later!",
+   "flags": [],
+   "notes": "Michel, male."
+  },
+  {
+   "id": "c12862",
+   "en": "I wonder what Michel was trying to say...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12863",
+   "en": "Uh, yeah, I wonder.",
+   "flags": [],
+   "notes": "Ranka, male; flustered agreement."
+  },
+  {
+   "id": "c12864",
+   "en": "N-nothing at all!",
+   "flags": [],
+   "notes": "Ranka, male; answers 'What's the matter?'."
+  },
+  {
+   "id": "c12865",
+   "en": "Well, let's shake that off and get going!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12866",
+   "en": "Man, that was fun.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12867",
+   "en": "Yes!\nPlease invite me again if you'd like!!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12868",
+   "en": "Of course!\nWell then, shall we head home?",
+   "flags": [],
+   "notes": "Male; cf. c01795."
+  },
+  {
+   "id": "c12869",
+   "en": "(We got interrupted a little, but it was fun.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12870",
+   "en": "(Ranka-chan and I made plans to hang out today...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12871",
+   "en": "(I haven't planned anything, though.\nWhere should we go...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12872",
+   "en": "Sorry to keep you waiting!\n\\p-chan!",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c12873",
+   "en": "Not at all, you're early.\nSo, where should we go today?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12874",
+   "en": "Isn't there anywhere you want to go, Ranka-chan?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12875",
+   "en": "I see. But we don't have to pick just one, right?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12876",
+   "en": "What kind of movies do you like, Ranka-chan?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12877",
+   "en": "I'll watch anything...\nBut right now I'm in the mood for an action movie!",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c12878",
+   "en": "Then there's a good one showing.\nIf I remember right, it's a revival screening\nof \"Shao Pai Long\". Shall we go see it?",
+   "flags": [],
+   "notes": "Female. Title as glossary 'Shao Pai Long' (written with the variant dragon kanji here)."
+  },
+  {
+   "id": "c12879",
+   "en": "Yaaay!",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c12880",
+   "en": "Huh?! Ranka-chan!\nWhat's gotten into you?! Linking arms\nall of a sudden...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12881",
+   "en": "Ehehe~!",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c12882",
+   "en": "I kind of wish I'd had a big sister\ninstead of a big brother.",
+   "flags": [],
+   "notes": "Ranka, female (generic kinship, not Big Bro as a name)."
+  },
+  {
+   "id": "c12883",
+   "en": "Oh, come on~",
+   "flags": [],
+   "notes": "Female (matamata)."
+  },
+  {
+   "id": "c12884",
+   "en": "Just kidding.\nBig Bro would get mad at me if I said that.",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c12885",
+   "en": "Hehe, then let's go see the movie!",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c12886",
+   "en": "Haah~, that was fun~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12887",
+   "en": "Of course!\nWell then, shall we head home?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12888",
+   "en": "(Yep, I really enjoyed my day off with Ranka-chan!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12889",
+   "en": "(Ranka and I are going out today, but...)",
+   "flags": [],
+   "notes": "Male, frd_rnk_005 second visit."
+  },
+  {
+   "id": "c12890",
+   "en": "Hey, Ranka,\nis there anywhere you want to go?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12891",
+   "en": "There's a movie I want to see...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12892",
+   "en": "Alright, let's see a movie.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12893",
+   "en": "Huh, are you sure?",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12894",
+   "en": "I was fine with anything, so.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12895",
+   "en": "That's no good~\nYou've got to take the lead more with a girl.",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c12896",
+   "en": "Yes, you do!",
+   "flags": [],
+   "notes": "Ranka, both genders; answers 'You think so?'."
+  },
+  {
+   "id": "c12897",
+   "en": "That movie was fun, huh.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12898",
+   "en": "I could watch it again and again~",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12899",
+   "en": "Well then, let's go get something to eat somewhere.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12900",
+   "en": "(The movie was fun, the food was good...\nThat was a perfect change of pace!)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12901",
+   "en": "(Ranka-chan and I are going out today, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12902",
+   "en": "Hey, Ranka-chan,\nis there anywhere you want to go?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12903",
+   "en": "I was fine with anything, so.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12904",
+   "en": "That's no good~\nYou've got to take the lead more yourself.",
+   "flags": [],
+   "notes": "Ranka, female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c12878: the film title is written with the variant kanji of Shao Pai Long; used the glossary title 'Shao Pai Long' in double quotes.",
+   "c12855/c12856: Michel's minaoshita ('you went up in my estimation', implying he approves of the player dating Ranka) rendered 'I'm impressed' / 'Impressed by what?'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

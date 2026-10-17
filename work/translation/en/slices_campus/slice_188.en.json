@@ -1,0 +1,503 @@
+{
+ "slice": 188,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c13744",
+   "en": "Well, every now and then, it's nice to take it\neasy and spend some ordinary time like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13745",
+   "en": "Yeah? I'm glad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13746",
+   "en": "Now, where to next time? You'd better think it over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13747",
+   "en": "Hahaha, that's a tough one...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13748",
+   "en": "(Sheryl's just a girl my age after all, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13749",
+   "en": "(Today I'll try taking her to \"Silver Moon\"...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in the glossary."
+  },
+  {
+   "id": "c13750",
+   "en": "\\p-chan,\nyou took your time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13751",
+   "en": "Whoa, you got here before me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13752",
+   "en": "Today it's a place we Mihoshi students go a lot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13753",
+   "en": "Oh, really? Then let's just go and see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13754",
+   "en": "Well, it's just an ordinary cafe, but it's a\nmust for any Mihoshi student, so I thought\nI'd show you around, just in case...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13755",
+   "en": "Thank goodness~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13756",
+   "en": "Sheryl-san...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13757",
+   "en": "Oh, that's right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13758",
+   "en": "Really? I'm glad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13759",
+   "en": "Now, where to next time? Think it over, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13760",
+   "en": "Hmm, what should I do...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13761",
+   "en": "(Sheryl-san's just a girl my age after all.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13762",
+   "en": "(Okay, I promised to go to \"Silver Moon\"\nwith Sheryl again today...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in the glossary."
+  },
+  {
+   "id": "c13763",
+   "en": "\\p, you're late!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13764",
+   "en": "You're early again today, Sheryl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13765",
+   "en": "Well, of course!\nCome on, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13766",
+   "en": "Phew, I really like it here.\nIt's open, there are just enough people around...\nIt's relaxing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13767",
+   "en": "This is student life, all right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13768",
+   "en": "Well, it actually IS student life...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13769",
+   "en": "N-no, nothing... at all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13770",
+   "en": "(Sheryl seems to be really enjoying school life.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13771",
+   "en": "(Okay, I promised to go to \"Silver Moon\"\nwith Sheryl-san again today...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in the glossary."
+  },
+  {
+   "id": "c13772",
+   "en": "\\p-chan, you're late!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13773",
+   "en": "You're early again today, Sheryl-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13774",
+   "en": "Well, it actually IS student life...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13775",
+   "en": "(Sheryl-san seems to be really enjoying school life.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13776",
+   "en": "(I've pretty much shown her everything around\nthe school... That place is all that's left...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13777",
+   "en": "Hi~, \\p.\nSo... what about today?\nAre you going to show me a proper good time?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13778",
+   "en": "Today we're going to the best place in school\nto unwind...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13779",
+   "en": "What!? There's still a place like that left?\nHonestly, I thought we'd already been everywhere\nin the school...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13780",
+   "en": "There's still a spot you can enjoy precisely\nbecause Island 1 has no seasons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13781",
+   "en": "No way, I can't even imagine it...\nWhere on earth is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13782",
+   "en": "Then just be good and follow me.",
+   "flags": [],
+   "notes": "otonashiku tsuite kite: 'be good and follow me' (teasing, keeps the surprise)."
+  },
+  {
+   "id": "c13783",
+   "en": "Wait, it's just the pool! I got my hopes up\nfor nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13784",
+   "en": "But for unwinding, there's no better place\nleft in the school.\nDoesn't being near water kind of calm you down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13785",
+   "en": "Well, that's true. There may be no other place\nin the school this open and relaxing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13786",
+   "en": "And so, my school tour is now officially over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13787",
+   "en": "Sheryl?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13788",
+   "en": "It's hot today. Shall we go for a little swim?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13789",
+   "en": "Come on, the changing rooms have swimsuits\nfor class, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13790",
+   "en": "They do, but...\nif the teachers catch us...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13791",
+   "en": "Now that that's decided, let's get going!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13792",
+   "en": "(Hey, nobody decided anything...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13793",
+   "en": "Let's swiiim!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13794",
+   "en": "Sigh... Why do I have to swim too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13795",
+   "en": "Come on, what's with that face?\nWhen it's time to have fun, have fun properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13796",
+   "en": "Well, now that it's come to this...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13797",
+   "en": "That's it, that's the spirit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13798",
+   "en": "(Phew, I ended up having a blast anyway...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13799",
+   "en": "See? Aren't you glad we went for it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13800",
+   "en": "Plus, you got to see me in a swimsuit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13801",
+   "en": "Huh... Ah... Well...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13802",
+   "en": "Hee hee, I'm joking.\nCome on, let's get changed. You'll catch a cold.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13803",
+   "en": "Okay, okay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13804",
+   "en": "(We did something surprisingly bold, right\nhere at school...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13805",
+   "en": "(I've pretty much shown her everything around\nthe school... I guess that place is all that's left...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13806",
+   "en": "Hi~, \\p-chan.\nSo... what about today?\nAre you going to show me a good time?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13807",
+   "en": "Well, today we're going to the best place in\nschool to unwind...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13808",
+   "en": "There's still a spot you can enjoy precisely\nbecause Island 1 has no seasons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13809",
+   "en": "Then please just be good and follow me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13810",
+   "en": "But for unwinding, there's no better place\nleft in the school.\nDon't you find being near water kind of calming?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13811",
+   "en": "And so, my school tour is now over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13812",
+   "en": "Sheryl-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13813",
+   "en": "They do, but...\nif the teachers catch us...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13814",
+   "en": "(Oh, geez, Sheryl-saaan...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13815",
+   "en": "Sigh... I can't believe I'm swimming too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13816",
+   "en": "You're right. Now that it's come to this...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13817",
+   "en": "(Phew, I ended up having a blast anyway...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13818",
+   "en": "Okay, time to get changed. You'll catch a cold.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13819",
+   "en": "(We did something surprisingly bold, right\nhere at school...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13820",
+   "en": "(Now, where should I take Sheryl today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13821",
+   "en": "\\p!\nCome on, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13822",
+   "en": "Huh!? Go where?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13823",
+   "en": "To the pool, obviously!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c13749: Silver Moon is provisional in the glossary.",
+   "c13762: Silver Moon is provisional in the glossary.",
+   "c13771: Silver Moon is provisional in the glossary."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

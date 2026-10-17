@@ -1,0 +1,401 @@
+{
+ "slice": 55,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c04086",
+   "en": "(I wonder if Saotome-kun has some special feelings\nabout the sky...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04087",
+   "en": "Oh, it's you, \\p.\nYou're a weird one too, coming up to the roof again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04088",
+   "en": "That's rich, coming from you, Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04089",
+   "en": "Haha, fair enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04090",
+   "en": "A new planet... Maybe it won't be long\nbefore we find one...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04091",
+   "en": "Hm, maybe so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04092",
+   "en": "(Is Alto sensing something?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04093",
+   "en": "(Looks like Saotome-kun's up on the roof again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04094",
+   "en": "Hi, Saotome-kun. You're here again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04095",
+   "en": "That's rich, coming from you, Saotome-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04096",
+   "en": "Hm, maybe so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04097",
+   "en": "(Is Saotome-kun sensing something?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04098",
+   "en": "Come on, what are you dawdling for?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04099",
+   "en": "Hold on, it's not going anywhere, is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04100",
+   "en": "\\p.\nDo you even want to do this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04101",
+   "en": "Of course!\nSee, I'm ready. Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04102",
+   "en": "Whew~ The sky really does feel amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04103",
+   "en": "Yeah. The horizon, white clouds...\nA real, free sky!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04104",
+   "en": "Come on, let's go!\nIf you keep trailing behind me like that,\nyou won't even get the chance to be in my way!",
+   "flags": [],
+   "notes": "Callback to c04069 ('just don't get in my way'): lagging behind, the player would not even get in Alto's way."
+  },
+  {
+   "id": "c04105",
+   "en": "Whoa, whoa, you're going way too fast...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04106",
+   "en": "This is nothing yet!\nNow, let's gooooo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04107",
+   "en": "Affinity ending.\nFiller for Alto (female).",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Developer placeholder under Alto's name plate (frd_alt_009 female branch and frd_alt_010 male branch, the gender branches that each scene does not use). Translated literally; Affinity as in terms.json."
+  },
+  {
+   "id": "c04108",
+   "en": "Hold on, it's not going anywhere, is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04109",
+   "en": "Yeah. The horizon, white clouds...\nA real, free sky!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04110",
+   "en": "Geez! You're going way too fast...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04111",
+   "en": "(Okay, school's over. Maybe I'll unwind and go\nto Nyan-Nyan with someone...)",
+   "flags": [],
+   "notes": "Shared by six characters' invitation scenes, both genders."
+  },
+  {
+   "id": "c04112",
+   "en": "(Oh, there's Alto. Perfect timing.\nI'll go ask him.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04113",
+   "en": "Hm, \\p?\nWhat's up?",
+   "flags": [],
+   "notes": "Used 54 times, all Alto."
+  },
+  {
+   "id": "c04114",
+   "en": "Well, want to go to Nyan-Nyan with me\nafter this? I was just wondering...",
+   "flags": [],
+   "notes": "Shared by the Alto, Nanase, Sheryl and Yuu scenes (male player): no pronoun for the listener."
+  },
+  {
+   "id": "c04115",
+   "en": "Hm? Ah, sorry.\nI've got something to do after this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04116",
+   "en": "Oh, I see...",
+   "flags": [],
+   "notes": "Used 97 times by both player genders."
+  },
+  {
+   "id": "c04117",
+   "en": "Ask me again some other time. See ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04118",
+   "en": "(Guess we're still not that close...)",
+   "flags": [],
+   "notes": "Shared by the Alto, Nanase and Yuu scenes: no pronoun for the other person."
+  },
+  {
+   "id": "c04119",
+   "en": "(Oh, there's Saotome-kun. Perfect timing.\nI'll go ask him.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04120",
+   "en": "Well, want to go to Nyan-Nyan with me\nafter this? I was just wondering...",
+   "flags": [],
+   "notes": "Shared by the Alto, Nanase and Yuu scenes (female player)."
+  },
+  {
+   "id": "c04121",
+   "en": "(Okay, school's over. Maybe I'll unwind and go\nto the Observation Pier with someone...)",
+   "flags": [],
+   "notes": "Observation Pier as in the campus place list (u4355)."
+  },
+  {
+   "id": "c04122",
+   "en": "Well, want to go to the Observation Pier with me\nafter this? I was just wondering...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04123",
+   "en": "Hm, there of all places?\nI'm not really feeling it. I'll pass.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04124",
+   "en": "Sorry. Invite me again sometime. See ya.",
+   "flags": [],
+   "notes": "Used 24 times, all Alto."
+  },
+  {
+   "id": "c04125",
+   "en": "(Maybe I picked the wrong place...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04126",
+   "en": "Well, want to go to the Observation Pier with me\nafter this? I was just wondering...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04127",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite someone to go see\nthe Macross Quarter.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04128",
+   "en": "Well, I was wondering if you'd want to go see\nthe Macross Quarter with me this weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04129",
+   "en": "The Macross Quarter, huh...\nIt's not that I'm not interested...\nBut I'll pass this time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04130",
+   "en": "(Guess the Macross Quarter was a bit much...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04131",
+   "en": "Well, I was wondering if you'd want to go see\nthe Macross Quarter with me this weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04132",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite someone to go shopping at Folmo.)",
+   "flags": [],
+   "notes": "Folmo as in the campus place list (u4332)."
+  },
+  {
+   "id": "c04133",
+   "en": "Well, I was wondering if you'd want to go\nshopping at Folmo with me this weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04134",
+   "en": "Folmo, huh? Not bad.\nBut I've got something to do this weekend.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04135",
+   "en": "(Maybe my timing was bad...)",
+   "flags": [],
+   "notes": "Used 44 times by both player genders."
+  },
+  {
+   "id": "c04136",
+   "en": "Well, I was wondering if you'd want to go\nshopping at Folmo with me this weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04137",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite someone to go shopping at \"199.\")",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Store name written with full-width digits in quotes; not in the glossary or the campus place list. Kept as \"199\"."
+  },
+  {
+   "id": "c04138",
+   "en": "Well, I was wondering if you'd want to go\nto \"199\" with me this weekend...",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "See c04137."
+  },
+  {
+   "id": "c04139",
+   "en": "\"199,\" huh? Not bad.\nBut I've got something to do this weekend.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "See c04137."
+  },
+  {
+   "id": "c04140",
+   "en": "Well, I was wondering if you'd want to go\nto \"199\" with me this weekend...",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "See c04137."
+  },
+  {
+   "id": "c04141",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite someone to the artificial island.)",
+   "flags": [],
+   "notes": "Aligned: 'the artificial island' lowercase in dialogue (glossary)."
+  },
+  {
+   "id": "c04142",
+   "en": "Well, I was wondering if you'd want to go\nto the artificial island with me this weekend...",
+   "flags": [],
+   "notes": "Aligned: 'the artificial island' lowercase in dialogue (glossary)."
+  },
+  {
+   "id": "c04143",
+   "en": "The Artificial Island, huh...\nIt's not bad, but I dunno...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04144",
+   "en": "(Maybe I should wait until we're\na little closer...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04145",
+   "en": "Well, I was wondering if you'd want to go\nto the Artificial Island with me this weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04146",
+   "en": "(Maybe I should wait until we're\na little closer...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04147",
+   "en": "I see...",
+   "flags": [],
+   "notes": "Shared by both player genders and Yamashiro."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c04107: developer placeholder text under Alto's name plate ('affinity end / filler for Alto female'), sitting in the unused gender branch of frd_alt_009/010. Translated literally as 'Affinity ending. / Filler for Alto (female).'",
+   "c04104: 'jama ni sura naranai' read as a callback to Alto's 'don't get in my way' (c04069): rendered 'you won't even get the chance to be in my way!'.",
+   "c04111-c04146: invitation rows shared with the Gary, Hilda, Nanase, Sheryl and Yuu scenes; written without pronouns for the person invited."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "\"199\" (store name in quotes, full-width digits; c04137-c04140): kept as \"199\"."
+  ],
+  "unfinished": []
+ }
+}

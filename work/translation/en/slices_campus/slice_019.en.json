@@ -1,0 +1,499 @@
+{
+ "slice": 19,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c01341",
+   "en": "Huh, Yuuto... What's up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01342",
+   "en": "...I was waiting for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01343",
+   "en": "...Isn't there something you should be telling me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01344",
+   "en": "Sigh... I guess it can't be helped...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01345",
+   "en": "I heard the rumors...\nYou've been hanging out with that girl a lot, huh...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "ano onna = 'that woman': rendered 'that girl' (school setting); slightly milder than the Japanese."
+  },
+  {
+   "id": "c01346",
+   "en": "I thought you were a better friend than that...\nWell, remember me once in a while, okay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01347",
+   "en": "Huh, Kagura-kun... What's wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01348",
+   "en": "...Isn't there something you ought to tell me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01349",
+   "en": "I heard the rumors...\nYou've been hanging out with that girl a lot, huh...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "ano onna = 'that woman': rendered 'that girl'."
+  },
+  {
+   "id": "c01350",
+   "en": "Honestly, it came as a shock...\nWell, pay some attention to me once in a while too, okay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01351",
+   "en": "I heard the rumors...\nYou've been hanging out with that guy a lot, huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01352",
+   "en": "I heard the rumors...\nYou've been hanging out with that guy a lot, huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01353",
+   "en": "(Well, guess I'll give it my all today, too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01354",
+   "en": "Hey, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01355",
+   "en": "Good morning!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01356",
+   "en": "You seem lively this early.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01357",
+   "en": "Aren't you, Klan-senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01358",
+   "en": "I went to bed late, so I'm sleepy...\n*yaaawn*",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01359",
+   "en": "I bet you were up late watching anime on TV, weren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01360",
+   "en": "Th-That's not true!\nI was just glued to a shopping channel!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01361",
+   "en": "That's no different, honestly...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01362",
+   "en": "It's completely different! With a shopping\nchannel, the goods arrive after you watch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01363",
+   "en": "And you actually bought something...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01364",
+   "en": "A-Anyway, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01365",
+   "en": "Hey, don't pull me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01366",
+   "en": "Huh? Klan-senpai, where are you going?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01367",
+   "en": "Hm? To the third-year classroom, obviously.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01368",
+   "en": "Because I'm a third-year!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01369",
+   "en": "Who is?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01370",
+   "en": "I am!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01371",
+   "en": "Oh, right, now that you mention it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01372",
+   "en": "You call me \"Senpai\" and look up to me, don't you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01373",
+   "en": "(She's so tiny, I thought she was a year below me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01374",
+   "en": "...Honestly, what a rude one you are.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01375",
+   "en": "Ahahaha...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01376",
+   "en": "Whatever. I'm going on ahead!\nThe third-year classroom is a long way off!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01377",
+   "en": "Ah! Senpai, no running in the hall...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01378",
+   "en": "Hey, Klan Klang!\nNo running in the halls!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01379",
+   "en": "S-Sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01380",
+   "en": "No matter how many times I tell you, you never learn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01381",
+   "en": "Go on, get moving!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01382",
+   "en": "Grrr...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01383",
+   "en": "Wh-What are you looking at...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01384",
+   "en": "I-I didn't see anything! I didn't hear anything!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01385",
+   "en": "Hmph!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01386",
+   "en": "(W-Well, guess I'll do my best too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01387",
+   "en": "That's no different, geez...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01388",
+   "en": "And you actually bought something...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01389",
+   "en": "Oh, right, now that you mention it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01390",
+   "en": "(W-Well, guess I'll do my best too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01391",
+   "en": "(Ugh, I got stuck with math homework...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01392",
+   "en": "(I wanted to do it before I forgot, but...\nhmm, factoring, derivatives, integrals...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01393",
+   "en": "Oh, Klan-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01394",
+   "en": "What are you doing in a place like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01395",
+   "en": "I got stuck with math homework...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01396",
+   "en": "I see.\nCan't you just do it at home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01397",
+   "en": "W-Well, yes, but I wanted to get it done before I forgot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01398",
+   "en": "And yet you seemed to be groaning \"hnnn, hnnn\" over it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01399",
+   "en": "Ahaha... It's so hard I can't make heads or tails of it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01400",
+   "en": "Ah! I know!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01401",
+   "en": "I'm going home. Good luck.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01402",
+   "en": "Wai-! Klan-senpai!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01403",
+   "en": "What is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01404",
+   "en": "Senpai, please teach me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01405",
+   "en": "Teach you what?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01406",
+   "en": "My homework.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01407",
+   "en": "Wh-Why?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01408",
+   "en": "Klan-senpai, you learned this last year, didn't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01409",
+   "en": "...I did, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01410",
+   "en": "Then you understand it, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01411",
+   "en": "O-Of course I do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01412",
+   "en": "Please teach me!\nIt's the favor of a lifetime!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01413",
+   "en": "You're the only one I can count on, Klan-senpai!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01414",
+   "en": "Th-The only one you can count on is me...\n*so touched*...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01415",
+   "en": "Please!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01416",
+   "en": "V-Very well.\nA problem like this is a piece of cake for me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01417",
+   "en": "I knew I could count on you!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01418",
+   "en": "I just remembered something I have to do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01419",
+   "en": "S-Senpai!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01420",
+   "en": "(Don't tell me she couldn't do it either?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c01345/c01349: ano onna rendered 'that girl' (slightly milder than 'that woman')"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

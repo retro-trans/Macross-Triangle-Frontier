@@ -1,0 +1,1942 @@
+{
+ "slice": 15,
+ "rows_in_slice": 320,
+ "rows_examined": 320,
+ "rows": [
+  {
+   "id": "u1416",
+   "en": "Revert parameters tuned beyond their initial limits.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1417",
+   "en": "Configure the partner's settings.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1418",
+   "en": "Select the partner's unit.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1419",
+   "en": "Select the partner pilot's skill.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1420",
+   "en": "Change the unit color.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1421",
+   "en": "View your battle records.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1422",
+   "en": "View your overall records.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1423",
+   "en": "View your campaign records.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1424",
+   "en": "View your co-op mission records.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1425",
+   "en": "View records by unit.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1426",
+   "en": "View your Versus and Co-op records.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1427",
+   "en": "Check the Affinity between characters.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1428",
+   "en": "Adjust the sound settings.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1429",
+   "en": "View and edit ID Cards.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1430",
+   "en": "Set Auto Save and enter passwords.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1431",
+   "en": "Set the in-game BGM volume.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1432",
+   "en": "Set the in-game voice volume.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1433",
+   "en": "Set the in-game sound effect volume.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1434",
+   "en": "Show the list of ID Cards.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1435",
+   "en": "Check the player's ID Card.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1436",
+   "en": "Edit the contents of the ID Card.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1437",
+   "en": "Change the icon used on the ID Card.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1438",
+   "en": "Enter the message shown on the ID Card.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1439",
+   "en": "Change the title shown on the ID Card.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1440",
+   "en": "Select the title shown on the ID Card.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1441",
+   "en": "Turn Auto Save ON/OFF.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1442",
+   "en": "Enter a password.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1443",
+   "en": "Play back replay data.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1444",
+   "en": "View character information.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1445",
+   "en": "Select a character to view.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1446",
+   "en": "View unit information.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1447",
+   "en": "Select a unit to view.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1448",
+   "en": "View wallpapers.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1449",
+   "en": "Select a wallpaper to view.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1450",
+   "en": "Play BGM, movies and demos.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1451",
+   "en": "Select BGM, a movie or a demo to play.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1452",
+   "en": "Create a room to recruit players for wireless play.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1453",
+   "en": "Select a room to join for wireless play.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1454",
+   "en": "Select the number of players for wireless play.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1455",
+   "en": "Recruiting players for wireless play.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1456",
+   "en": "Join wireless play in this room.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1457",
+   "en": "Start the game with these players.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1458",
+   "en": "Choose the game mode: \"Versus\" or \"Co-op\".",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1459",
+   "en": "Select the match type.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1460",
+   "en": "Select the detailed rules for the match type.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1461",
+   "en": "Select the match time.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1462",
+   "en": "Choose whether BGM selection is allowed.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1463",
+   "en": "Choose whether tuned parameters apply.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1464",
+   "en": "Choose whether Special Attacks are allowed.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1465",
+   "en": "Choose whether skills are allowed.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1466",
+   "en": "Set restrictions on unit modes.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1467",
+   "en": "Confirm the settings above.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1468",
+   "en": "Configure the player's settings.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1469",
+   "en": "Select a team.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1470",
+   "en": "Select a unit.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1471",
+   "en": "Select a pilot.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1472",
+   "en": "Set the handicap.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1473",
+   "en": "Configure the COM's settings.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1474",
+   "en": "Set the COM's team.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1475",
+   "en": "Select the COM's unit.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1476",
+   "en": "Select the COM's pilot.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1477",
+   "en": "Set the COM's handicap.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1478",
+   "en": "Select the COM pilot.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1479",
+   "en": "Select the COM pilot's skill.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1480",
+   "en": "Choose whether large units are allowed.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1481",
+   "en": "Check the unit's appearance.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1482",
+   "en": "Keep this COM from sortieing.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1483",
+   "en": "Sortie.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1484",
+   "en": "Playing BGM continuously.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1485",
+   "en": "View the unit's 3D model.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1486",
+   "en": "Select a support character.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1487",
+   "en": "Set the support character's age.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1488",
+   "en": "Enter the support character's name.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1489",
+   "en": "Finish setting up the support character.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1490",
+   "en": "Select the era of \"Macross Zero\".",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1491",
+   "en": "Select the era of \"Do You Remember Love?\".",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1492",
+   "en": "Select the era of \"Macross Dynamite 7\".",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1493",
+   "en": "Select the flight control type.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1494",
+   "en": "Turn the Custom Soundtrack ON/OFF.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1495",
+   "en": "Select the player unit's add-on equipment.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1496",
+   "en": "Select the part of the add-on equipment to tune.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1497",
+   "en": "Select the support character's skill.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1498",
+   "en": "Select the partner unit's add-on equipment.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1499",
+   "en": "Select the add-on equipment type.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1500",
+   "en": "Start the mission.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1501",
+   "en": "~Welcome to the Nyan-Nyan Shop~",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1502",
+   "en": "Spend Nyan-Nyan Pts to get \"Characters\".",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1503",
+   "en": "Spend Nyan-Nyan Pts to get \"Units/Tune Pts\".",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1504",
+   "en": "Spend Nyan-Nyan Pts to get \"Mode Unlocks\".",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1505",
+   "en": "Spend Nyan-Nyan Pts to get \"BGM\".",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1506",
+   "en": "Spend Nyan-Nyan Pts to get \"Movies\".",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1507",
+   "en": "Spend Nyan-Nyan Pts to get \"Wallpapers\".",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1508",
+   "en": "Spend Nyan-Nyan Pts to get \"Titles\".",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1509",
+   "en": "Spend Nyan-Nyan Pts to get \"Icons\".",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1510",
+   "en": "~ Please come again! ~",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1511",
+   "en": "This room is already full.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1512",
+   "en": "Select add-on equipment for the COM.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1513",
+   "en": "Select a support character for the COM.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1514",
+   "en": "Select the partner's add-on equipment.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1515",
+   "en": "Create a character and start Academy Mode.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1516",
+   "en": "Continue Academy Mode with your created data.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1517",
+   "en": "Select the student data to load.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1518",
+   "en": "Select the era of \"The False Songstress\".",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1519",
+   "en": "Select the era of \"Super Dimension Fortress Macross II\".",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "new; full title as the Japanese has it, parallel to u1404; glossary works lists only 'Macross II' and 'Macross II: Lovers Again'"
+  },
+  {
+   "id": "u1520",
+   "en": "View character portraits.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1521",
+   "en": "View event pictures you have already seen.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "new; 'event pictures' for ibento-e (event CG); no glossary term"
+  },
+  {
+   "id": "u1522",
+   "en": "View event pictures.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1523",
+   "en": "Turn Install Data ON/OFF.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1524",
+   "en": "Select the ID Card to view.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1525",
+   "en": " \n \nStanding by.\nPlease wait a moment.\n",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1526",
+   "en": "Current players (%d/%d)\n",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1527",
+   "en": "×:Cancel",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1528",
+   "en": "Connection interrupted.",
+   "flags": [],
+   "notes": "tm revised: shortened to fit 192 px"
+  },
+  {
+   "id": "u1529",
+   "en": "The connection timed out.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1530",
+   "en": "Zero: Capture 001",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1531",
+   "en": "Zero: Capture 002",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1532",
+   "en": "Zero: Capture 003",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1533",
+   "en": "Zero: Capture 004",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1534",
+   "en": "Zero: Capture 005",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1535",
+   "en": "Zero: Capture 006",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1536",
+   "en": "Zero: Capture 007",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1537",
+   "en": "Zero: Capture 008",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1538",
+   "en": "Zero: Capture 009",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1539",
+   "en": "Zero: Capture 010",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1540",
+   "en": "Zero: Capture 011",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1541",
+   "en": "Zero: Capture 012",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1542",
+   "en": "Zero: Capture 013",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1543",
+   "en": "Zero: Capture 014",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1544",
+   "en": "Zero: Capture 015",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1545",
+   "en": "Zero: Capture 016",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1546",
+   "en": "Zero: Capture 017",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1547",
+   "en": "Zero: Capture 018",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1548",
+   "en": "Zero: Capture 019",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1549",
+   "en": "Zero: Capture 020",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1550",
+   "en": "SDF: Capture 001",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1551",
+   "en": "SDF: Capture 002",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1552",
+   "en": "SDF: Capture 003",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1553",
+   "en": "SDF: Capture 004",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1554",
+   "en": "SDF: Capture 005",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1555",
+   "en": "SDF: Capture 006",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1556",
+   "en": "SDF: Capture 007",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1557",
+   "en": "SDF: Capture 008",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1558",
+   "en": "SDF: Capture 009",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1559",
+   "en": "SDF: Capture 010",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1560",
+   "en": "SDF: Capture 011",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1561",
+   "en": "SDF: Capture 012",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1562",
+   "en": "SDF: Capture 013",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1563",
+   "en": "SDF: Capture 014",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1564",
+   "en": "SDF: Capture 015",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1565",
+   "en": "SDF: Capture 016",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1566",
+   "en": "SDF: Capture 017",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1567",
+   "en": "SDF: Capture 018",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1568",
+   "en": "SDF: Capture 019",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1569",
+   "en": "SDF: Capture 020",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1570",
+   "en": "SDF: Capture 021",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1571",
+   "en": "SDF: Capture 022",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1572",
+   "en": "SDF: Capture 023",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1573",
+   "en": "SDF: Capture 024",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1574",
+   "en": "DYRL: Capture 001",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1575",
+   "en": "DYRL: Capture 002",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1576",
+   "en": "DYRL: Capture 003",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1577",
+   "en": "DYRL: Capture 004",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1578",
+   "en": "DYRL: Capture 005",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1579",
+   "en": "DYRL: Capture 006",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1580",
+   "en": "DYRL: Capture 007",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1581",
+   "en": "DYRL: Capture 008",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1582",
+   "en": "DYRL: Capture 009",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1583",
+   "en": "DYRL: Capture 010",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1584",
+   "en": "DYRL: Capture 011",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1585",
+   "en": "DYRL: Capture 012",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1586",
+   "en": "DYRL: Capture 013",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1587",
+   "en": "DYRL: Capture 014",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1588",
+   "en": "DYRL: Capture 015",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1589",
+   "en": "DYRL: Capture 016",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1590",
+   "en": "DYRL: Capture 017",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1591",
+   "en": "DYRL: Capture 018",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1592",
+   "en": "DYRL: Capture 019",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1593",
+   "en": "DYRL: Capture 020",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1594",
+   "en": "FB2012: Capture 001",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1595",
+   "en": "FB2012: Capture 002",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1596",
+   "en": "FB2012: Capture 003",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1597",
+   "en": "FB2012: Capture 004",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1598",
+   "en": "FB2012: Capture 005",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1599",
+   "en": "FB2012: Capture 006",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1600",
+   "en": "FB2012: Capture 007",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1601",
+   "en": "FB2012: Capture 008",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1602",
+   "en": "FB2012: Capture 009",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1603",
+   "en": "FB2012: Capture 010",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1604",
+   "en": "Plus: Capture 001",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1605",
+   "en": "Plus: Capture 002",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1606",
+   "en": "Plus: Capture 003",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1607",
+   "en": "Plus: Capture 004",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1608",
+   "en": "Plus: Capture 005",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1609",
+   "en": "Plus: Capture 006",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1610",
+   "en": "Plus: Capture 007",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1611",
+   "en": "Plus: Capture 008",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1612",
+   "en": "Plus: Capture 009",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1613",
+   "en": "Plus: Capture 010",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1614",
+   "en": "Plus: Capture 011",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1615",
+   "en": "Plus: Capture 012",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1616",
+   "en": "Plus: Capture 013",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1617",
+   "en": "Plus: Capture 014",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1618",
+   "en": "Plus: Capture 015",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1619",
+   "en": "Plus: Capture 016",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1620",
+   "en": "Plus: Capture 017",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1621",
+   "en": "Plus: Capture 018",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1622",
+   "en": "Plus: Capture 019",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1623",
+   "en": "Plus: Capture 020",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1624",
+   "en": "Plus: Capture 021",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1625",
+   "en": "Plus: Capture 022",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1626",
+   "en": "Plus: Capture 023",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1627",
+   "en": "Plus: Capture 024",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1628",
+   "en": "Macross 7: Capture 001",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1629",
+   "en": "Macross 7: Capture 002",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1630",
+   "en": "Macross 7: Capture 003",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1631",
+   "en": "Macross 7: Capture 004",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1632",
+   "en": "Macross 7: Capture 005",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1633",
+   "en": "Macross 7: Capture 006",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1634",
+   "en": "Macross 7: Capture 007",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1635",
+   "en": "Macross 7: Capture 008",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1636",
+   "en": "Macross 7: Capture 009",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1637",
+   "en": "Macross 7: Capture 010",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1638",
+   "en": "Macross 7: Capture 011",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1639",
+   "en": "Macross 7: Capture 012",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1640",
+   "en": "Macross 7: Capture 013",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1641",
+   "en": "Macross 7: Capture 014",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1642",
+   "en": "Macross 7: Capture 015",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1643",
+   "en": "Macross 7: Capture 016",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1644",
+   "en": "Macross 7: Capture 017",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1645",
+   "en": "Macross 7: Capture 018",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1646",
+   "en": "Macross 7: Capture 019",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1647",
+   "en": "Macross 7: Capture 020",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1648",
+   "en": "Macross 7: Capture 021",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1649",
+   "en": "Macross 7: Capture 022",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1650",
+   "en": "Macross 7: Capture 023",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1651",
+   "en": "Macross 7: Capture 024",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1652",
+   "en": "Macross 7: Capture 025",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1653",
+   "en": "Macross 7: Capture 026",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1654",
+   "en": "Macross 7: Capture 027",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1655",
+   "en": "Macross 7: Capture 028",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1656",
+   "en": "Macross 7: Capture 029",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1657",
+   "en": "Macross 7: Capture 030",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1658",
+   "en": "Macross 7: Capture 031",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1659",
+   "en": "Macross 7: Capture 032",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1660",
+   "en": "Macross 7: Capture 033",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1661",
+   "en": "Macross 7: Capture 034",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1662",
+   "en": "Macross 7: Capture 035",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1663",
+   "en": "Macross 7: Capture 036",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1664",
+   "en": "Macross 7: Capture 037",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1665",
+   "en": "Macross 7: Capture 038",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1666",
+   "en": "Macross 7: Capture 039",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1667",
+   "en": "Macross 7: Capture 040",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1668",
+   "en": "D7: Capture 001",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1669",
+   "en": "D7: Capture 002",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1670",
+   "en": "D7: Capture 003",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1671",
+   "en": "D7: Capture 004",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1672",
+   "en": "D7: Capture 005",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1673",
+   "en": "D7: Capture 006",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1674",
+   "en": "D7: Capture 007",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1675",
+   "en": "D7: Capture 008",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1676",
+   "en": "D7: Capture 009",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1677",
+   "en": "D7: Capture 010",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1678",
+   "en": "D7: Capture 011",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1679",
+   "en": "D7: Capture 012",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1680",
+   "en": "D7: Capture 013",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1681",
+   "en": "D7: Capture 014",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1682",
+   "en": "D7: Capture 015",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1683",
+   "en": "D7: Capture 016",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1684",
+   "en": "D7: Capture 017",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1685",
+   "en": "D7: Capture 018",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1686",
+   "en": "D7: Capture 019",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1687",
+   "en": "D7: Capture 020",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1688",
+   "en": "Frontier: Capture 001",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1689",
+   "en": "Frontier: Capture 002",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1690",
+   "en": "Frontier: Capture 003",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1691",
+   "en": "Frontier: Capture 004",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1692",
+   "en": "Frontier: Capture 005",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1693",
+   "en": "Frontier: Capture 006",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1694",
+   "en": "Frontier: Capture 007",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1695",
+   "en": "Frontier: Capture 008",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1696",
+   "en": "Frontier: Capture 009",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1697",
+   "en": "Frontier: Capture 010",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1698",
+   "en": "Frontier: Capture 011",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1699",
+   "en": "Frontier: Capture 012",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1700",
+   "en": "Frontier: Capture 013",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1701",
+   "en": "Frontier: Capture 014",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1702",
+   "en": "Frontier: Capture 015",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1703",
+   "en": "Frontier: Capture 016",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1704",
+   "en": "Frontier: Capture 017",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1705",
+   "en": "Frontier: Capture 018",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1706",
+   "en": "Frontier: Capture 019",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1707",
+   "en": "Frontier: Capture 020",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1708",
+   "en": "Frontier: Capture 021",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1709",
+   "en": "Frontier: Capture 022",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1710",
+   "en": "Frontier: Capture 023",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1711",
+   "en": "Frontier: Capture 024",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1712",
+   "en": "Frontier: Capture 025",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1713",
+   "en": "Frontier: Capture 026",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1714",
+   "en": "Frontier: Capture 027",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1715",
+   "en": "Frontier: Capture 028",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1716",
+   "en": "Frontier: Capture 029",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1717",
+   "en": "Frontier: Capture 030",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1718",
+   "en": "Frontier: Capture 031",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1719",
+   "en": "Frontier: Capture 032",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1720",
+   "en": "Frontier: Capture 033",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1721",
+   "en": "Frontier: Capture 034",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1722",
+   "en": "Frontier: Capture 035",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1723",
+   "en": "Frontier: Capture 036",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1724",
+   "en": "F Movie: Capture 001",
+   "flags": [],
+   "notes": "new; F-geki = the Frontier movie (The False Songstress), named like 'Frontier: Capture NNN' Review: collection prefix is 'F Movie:' as in slices 16 and 27."
+  },
+  {
+   "id": "u1725",
+   "en": "F Movie: Capture 002",
+   "flags": [],
+   "notes": "new; F-geki = the Frontier movie (The False Songstress), named like 'Frontier: Capture NNN' Review: collection prefix is 'F Movie:' as in slices 16 and 27."
+  },
+  {
+   "id": "u1726",
+   "en": "F Movie: Capture 003",
+   "flags": [],
+   "notes": "new; F-geki = the Frontier movie (The False Songstress), named like 'Frontier: Capture NNN' Review: collection prefix is 'F Movie:' as in slices 16 and 27."
+  },
+  {
+   "id": "u1727",
+   "en": "F Movie: Capture 004",
+   "flags": [],
+   "notes": "new; F-geki = the Frontier movie (The False Songstress), named like 'Frontier: Capture NNN' Review: collection prefix is 'F Movie:' as in slices 16 and 27."
+  },
+  {
+   "id": "u1728",
+   "en": "F Movie: Capture 005",
+   "flags": [],
+   "notes": "new; F-geki = the Frontier movie (The False Songstress), named like 'Frontier: Capture NNN' Review: collection prefix is 'F Movie:' as in slices 16 and 27."
+  },
+  {
+   "id": "u1729",
+   "en": "F Movie: Capture 006",
+   "flags": [],
+   "notes": "new; F-geki = the Frontier movie (The False Songstress), named like 'Frontier: Capture NNN' Review: collection prefix is 'F Movie:' as in slices 16 and 27."
+  },
+  {
+   "id": "u1730",
+   "en": "F Movie: Capture 007",
+   "flags": [],
+   "notes": "new; F-geki = the Frontier movie (The False Songstress), named like 'Frontier: Capture NNN' Review: collection prefix is 'F Movie:' as in slices 16 and 27."
+  },
+  {
+   "id": "u1731",
+   "en": "F Movie: Capture 008",
+   "flags": [],
+   "notes": "new; F-geki = the Frontier movie (The False Songstress), named like 'Frontier: Capture NNN' Review: collection prefix is 'F Movie:' as in slices 16 and 27."
+  },
+  {
+   "id": "u1732",
+   "en": "F Movie: Capture 009",
+   "flags": [],
+   "notes": "new; F-geki = the Frontier movie (The False Songstress), named like 'Frontier: Capture NNN' Review: collection prefix is 'F Movie:' as in slices 16 and 27."
+  },
+  {
+   "id": "u1733",
+   "en": "F Movie: Capture 010",
+   "flags": [],
+   "notes": "new; F-geki = the Frontier movie (The False Songstress), named like 'Frontier: Capture NNN' Review: collection prefix is 'F Movie:' as in slices 16 and 27."
+  },
+  {
+   "id": "u1734",
+   "en": "F Movie: Capture 011",
+   "flags": [],
+   "notes": "new; F-geki = the Frontier movie (The False Songstress), named like 'Frontier: Capture NNN' Review: collection prefix is 'F Movie:' as in slices 16 and 27."
+  },
+  {
+   "id": "u1735",
+   "en": "F Movie: Capture 012",
+   "flags": [],
+   "notes": "new; F-geki = the Frontier movie (The False Songstress), named like 'Frontier: Capture NNN' Review: collection prefix is 'F Movie:' as in slices 16 and 27."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u1724-u1735 (and u1736-u1763 in slice 16): F-geki capture labels rendered 'Frontier Movie: Capture NNN', following MUF's 'Frontier: Capture NNN'; slice 16 should match",
+   "u1519 'Super Dimension Fortress Macross II' (full title, parallel to u1404)",
+   "u1521/u1522 'event pictures' for ibento-e; u1520 'character portraits' for tachi-e",
+   "u1503 shop category 'Units/Tune Pts', u1504 'Mode Unlocks': category names not cross-checked with the shop tab labels elsewhere"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,493 @@
+{
+ "slice": 307,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c22120",
+   "en": "(Yamashiro-sensei actually remembered\nabout the return gift...\nThat alone makes me happy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22121",
+   "en": "(Today's White Day. I bought a return gift\nfor Akimizu, but now that it's time\nto give it, I'm nervous...)",
+   "flags": [],
+   "notes": "x2, male player."
+  },
+  {
+   "id": "c22122",
+   "en": "Give Akimizu a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22123",
+   "en": "Don't give Akimizu a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22124",
+   "en": "Akimizu, got a minute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22125",
+   "en": "What is it, \\p-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22126",
+   "en": "Huh?!\n...Oh, come to think of it, today's White Day,\nisn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22127",
+   "en": "Oh, no. I'm happy that you\nremembered at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22128",
+   "en": "Same here,\nAkimizu.",
+   "flags": [],
+   "notes": "Answers c22082 (shared row)."
+  },
+  {
+   "id": "c22129",
+   "en": "(I managed to give the return gift, and\nAkimizu was happy with it. I guess\nthat turned out well.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22130",
+   "en": "(I feel bad for Akimizu, but it's just too\nembarrassing. I can't give her the return gift...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22131",
+   "en": "(Today's White Day. I bought a return gift\nfor Claire-senpai, but now that it's time\nto give it, I'm nervous...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22132",
+   "en": "Give Claire-senpai a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22133",
+   "en": "Don't give Claire-senpai a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22134",
+   "en": "Claire-senpai, do you have a minute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22135",
+   "en": "Did you need something from me,\n\\p-kun?",
+   "flags": [],
+   "notes": "x2: Claire, Ranka."
+  },
+  {
+   "id": "c22136",
+   "en": "Huh?!\n...Oh, that's right. Today's White Day,\nisn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22137",
+   "en": "I'm happy you even remembered.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22138",
+   "en": "Hee hee. Let's keep getting along,\n\\p-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22139",
+   "en": "I hope so too,\nClaire-senpai.",
+   "flags": [],
+   "notes": "Kochira koso yoroshiku onegai shimasu (polite)."
+  },
+  {
+   "id": "c22140",
+   "en": "(I managed to give the return gift, and\nClaire-senpai was happy with it. I guess\nthat turned out well.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22141",
+   "en": "(I feel bad for Claire-senpai, but it's just too\nembarrassing. I can't give her the return gift...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22142",
+   "en": "(Today's White Day. I bought a return gift\nfor Pinon-chan, but now that it's time\nto give it, I'm nervous...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22143",
+   "en": "Give Pinon-chan a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22144",
+   "en": "Don't give Pinon-chan a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22145",
+   "en": "Pinon-chan, got a minute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22146",
+   "en": "...Come to think of it, today's White Day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22147",
+   "en": "No, I'm glad you even remembered.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22148",
+   "en": "L-let's keep getting along,\n\\p.",
+   "flags": [],
+   "notes": "Pinon's stiff 'yoroshiku onegai suru zo', flustered."
+  },
+  {
+   "id": "c22149",
+   "en": "Same here,\nPinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22150",
+   "en": "(I managed to give the return gift, and\nPinon-chan was happy with it. I guess\nthat turned out well.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22151",
+   "en": "(I feel bad for Pinon-chan, but it's just too\nembarrassing. I can't give her the return gift...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22152",
+   "en": "(Today's White Day... I wonder if\nSaotome-kun remembered?)",
+   "flags": [],
+   "notes": "Female player."
+  },
+  {
+   "id": "c22153",
+   "en": "Morning, Saotome-kun.\nDid you need me for something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22154",
+   "en": "It's White Day, isn't it?\nI brought you a proper return gift.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22155",
+   "en": "Sorry it's just candy, the usual return gift,\nbut I'd appreciate it if you'd take it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22156",
+   "en": "Thanks, Saotome-kun.",
+   "flags": [],
+   "notes": "x3: also in two female-version scenes elsewhere."
+  },
+  {
+   "id": "c22157",
+   "en": "Come on, class is starting.\nLet's hurry to the classroom.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22158",
+   "en": "(Saotome-kun actually remembered\nabout the return gift...\nThat alone makes me happy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22159",
+   "en": "(Today's White Day... I wonder if\nMichel-kun remembered?)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22160",
+   "en": "Morning, Michel-kun.\nDid you need me for something?",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22161",
+   "en": "Well, today's White Day.\nSo I brought you a proper return gift.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22162",
+   "en": "Sorry it's just candy, the usual return gift,\nbut here, take it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22163",
+   "en": "Thanks, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22164",
+   "en": "It's just a return gift.\nBut I'm glad you like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22165",
+   "en": "Come on, class is starting.\nLet's hurry to the classroom.",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22166",
+   "en": "(Michel-kun actually remembered\nabout the return gift...\nThat alone makes me happy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22167",
+   "en": "(Today's White Day... I wonder if\nLuca-kun remembered?)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22168",
+   "en": "Oh, \\p-san.\nYou're just in time.",
+   "flags": [],
+   "notes": "Chotto ii tokoro ni (the verb is left off in the Japanese; restored)."
+  },
+  {
+   "id": "c22169",
+   "en": "Morning, Luca-kun.\nDid you need me for something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22170",
+   "en": "Since it's White Day today,\nI brought you a return gift, but...",
+   "flags": [],
+   "notes": "Trails off as in the Japanese."
+  },
+  {
+   "id": "c22171",
+   "en": "I'm sorry it's just candy, the usual return gift.\nWould you accept it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22172",
+   "en": "Thanks, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22173",
+   "en": "It's just a return gift.\nI'm glad you like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22174",
+   "en": "Now, class is about to start.\nLet's hurry to the classroom.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22175",
+   "en": "(Luca-kun actually remembered\nabout the return gift...\nThat alone makes me happy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22176",
+   "en": "(Today's White Day. I bought a return gift\nfor Nanase, but now that it's time\nto give it, I'm nervous...)",
+   "flags": [],
+   "notes": "x2, male player."
+  },
+  {
+   "id": "c22177",
+   "en": "Give Nanase a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22178",
+   "en": "Don't give Nanase a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22179",
+   "en": "Nanase, got a minute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22180",
+   "en": "What is it, \\p-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22181",
+   "en": "Huh?!\n...Oh, that's right. Today's White Day,\nisn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22182",
+   "en": "Oh, no. I'm happy that you\nremembered at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22183",
+   "en": "Same here,\nNanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22184",
+   "en": "(I managed to give the return gift, and\nNanase was happy with it. I guess\nthat turned out well.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22185",
+   "en": "(I feel bad for Nanase, but it's just too\nembarrassing. I can't give her the return gift...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22186",
+   "en": "(Today's White Day. I bought a return gift\nfor Ranka, but now that it's time\nto give it, I'm nervous...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22187",
+   "en": "Give Ranka a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22188",
+   "en": "Don't give Ranka a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22189",
+   "en": "Ranka, got a minute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22190",
+   "en": "Oh, come to think of it, today's White Day!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22191",
+   "en": "Sorry it's just candy, the usual return gift.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22192",
+   "en": "Wow~ I'm so happy you even remembered!\nThank you so much!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22193",
+   "en": "Let's keep getting along,\n\\p-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22194",
+   "en": "Same here,\nRanka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22195",
+   "en": "(I managed to give the return gift, and\nRanka was happy with it. I guess\nthat turned out well.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22196",
+   "en": "(I feel bad for Ranka, but it's just too\nembarrassing. I can't give her the return gift...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22197",
+   "en": "(Today's White Day. I bought a return gift\nfor Sheryl, but now that it's time\nto give it, I'm nervous...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22198",
+   "en": "Give Sheryl a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22199",
+   "en": "Don't give Sheryl a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,420 @@
+{
+ "slice": 220,
+ "rows_in_slice": 65,
+ "rows_examined": 65,
+ "rows": [
+  {
+   "id": "c16054",
+   "en": "(I'm getting pretty used to the EX-Gear...\nGotta keep it up like this.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16055",
+   "en": "Looks like you've been working hard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16056",
+   "en": "Claire-senpai,\nyou were watching? That's embarrassing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16057",
+   "en": "What's wrong with that?\nIt's not like watching wears you out.",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c16058",
+   "en": "I'm bad at it, so it's embarrassing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16059",
+   "en": "No need to be modest.\nYou were riding the wind pretty well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16060",
+   "en": "It makes me happy to hear you say that, Senpai...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16061",
+   "en": "But never get careless or cocky.\nStay focused and nail every single flight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16062",
+   "en": "Yes! Got it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16063",
+   "en": "Hehe... What a good kid~\nAs a reward, I'll treat you to a juice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16064",
+   "en": "(...I'll do my best next time too!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16065",
+   "en": "(I'm getting pretty used to the EX-Gear...\nI'll keep it up like this.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16066",
+   "en": "(...I'll do my best next time too!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16067",
+   "en": "(This week was tiring too...\nI'm gonna take it easy this weekend~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16068",
+   "en": "\\p-kun,\nyou seem to be in a good mood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16069",
+   "en": "Oh, Claire-senpai!\nAre you heading home now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16070",
+   "en": "Mm-hm, that's right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16071",
+   "en": "Do you have any plans for the weekend, Senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16072",
+   "en": "Plans for the weekend?\nHmm, let's see... Nothing in particular right now, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16073",
+   "en": "But if a certain someone asked me out on a date,\nI'd have plans...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16074",
+   "en": "A-A certain someone?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16075",
+   "en": "*sigh*... I'm saying call me if you're free.\nSee you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16076",
+   "en": "Ah, Senpai!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16077",
+   "en": "(...Maybe I should ask Senpai to hang out\nthis weekend?)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c16078",
+   "en": "(This week was tiring too~\nI'm gonna take it easy this weekend~!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16079",
+   "en": "\\p-chan,\nyou seem to be in a good mood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16080",
+   "en": "But if someone asked me out on a date,\nI'd have plans...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16081",
+   "en": "S-Someone?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16082",
+   "en": "(...Ugh, I can't focus when it's this hot.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16083",
+   "en": "Mmph!\nCl-Claire-senpai, I'm sorry...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16084",
+   "en": "Oh, \\p-kun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16085",
+   "en": "Do you like gym clothes that much...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16086",
+   "en": "N-No, I was just spacing out...\nI'm really sorry!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16087",
+   "en": "Watch where you're going, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16088",
+   "en": "(......That was soft...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16089",
+   "en": "(...Ugh, I can't focus when it's this hot...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16090",
+   "en": "Oh, \\p-chan...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16091",
+   "en": "(......That was soft...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16092",
+   "en": "(I wandered into town for no real reason...\nWas there something I needed to buy...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16093",
+   "en": "Claire-senpai! What a coincidence.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16094",
+   "en": "It is.\nAre you out shopping too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16095",
+   "en": "No, I was just wandering around.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16096",
+   "en": "Then this is perfect.\nThere's something I'd like you to help me with...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16097",
+   "en": "Sure, I'll help.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16098",
+   "en": "Okay then, first stop, that department store~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16099",
+   "en": "(Before I knew it, I'd been turned\ninto Senpai's bag carrier...)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c16100",
+   "en": "(I wandered into town for no real reason...\nWas there something I needed to buy...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16101",
+   "en": "\\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16102",
+   "en": "No, I was just out for a little stroll...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16103",
+   "en": "(Before I knew it, I'd been turned\ninto Senpai's bag carrier...)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c16104",
+   "en": "(Next class is in another room...\nWhat a pain, but oh well...)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c16105",
+   "en": "Cl-Claire-senpai!\nWhat's with that outfit...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16106",
+   "en": "My next class is swimming.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16107",
+   "en": "I can see that, but...\nwhy are you inside the school building?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16108",
+   "en": "I forgot something,\nso I rushed back to get it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16109",
+   "en": "I'm sensing a rather pervy stare here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16110",
+   "en": "I-I'm not looking!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16111",
+   "en": "Just kidding! See you~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16112",
+   "en": "(...Okay, I'd better head to class too!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16113",
+   "en": "(Next class is in another room...\nWhat a pain...)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c16114",
+   "en": "Oh, \\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16115",
+   "en": "O-Oh, I see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16116",
+   "en": "I'm sensing a rather pervy stare here...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16117",
+   "en": "I-I'm not looking, okay!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16118",
+   "en": "(...Okay, I'd better head to class too!)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c16084/c16090/c16101: generic greetings also used by Grace (scd_fes_807) and Sheryl (nml_she_020, nml_she_005); wording neutral enough for all speakers.",
+   "c16083 (shared m/f): \"wafu\" is the muffled noise of the player bumping face-first into Claire (she then asks if the player likes gym clothes that much); rendered \"Mmph!\".",
+   "c16057: \"heru mono ja arumai shi\" (it won't wear out) rendered \"It's not like watching wears you out.\"",
+   "c16073/c16080: male version \"dareka-san\" (a certain someone, pointed) vs female \"dareka\" (someone); kept the difference."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

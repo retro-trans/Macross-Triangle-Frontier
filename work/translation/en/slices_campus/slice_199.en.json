@@ -1,0 +1,495 @@
+{
+ "slice": 199,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c14574",
+   "en": "A Challenge!\nI challenge you to a duel today at Griffith Park!!\nFace me, and do not run away!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders. frd_yui_008; her message (hatashijou, a formal challenge letter)."
+  },
+  {
+   "id": "c14575",
+   "en": "P.S.\nI'll be waiting until you come,\nso you'd better show up!!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14576",
+   "en": "(After getting a message like that,\nI can hardly not show up...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14577",
+   "en": "Heh heh heh heh!\nI've been expecting you! You did well not to run!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders. x3."
+  },
+  {
+   "id": "c14578",
+   "en": "Well, after getting a message like that...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14579",
+   "en": "I summoned you here today, knave,\nfor one reason alone! There is something\nI simply must tell you!!",
+   "flags": [],
+   "notes": "Hoshimura, male scene. Mock-duel diction (kisama) rendered as \"knave\"."
+  },
+  {
+   "id": "c14580",
+   "en": "Uh... I see......",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14581",
+   "en": "Oh, come on! Where's your energy~?\nAnd here I am, mustering up\nall my courage and trying so hard~!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14582",
+   "en": "I don't really get it, but sorry...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14583",
+   "en": "(I think it's just that Hoshimura's\nenergy is way too high...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14584",
+   "en": "Come on, you've gotta get it together.\nOkay, I'm starting over from the top!",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14585",
+   "en": "(Oh, she has to start over...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14586",
+   "en": "Uh, okay......",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14587",
+   "en": "I can't do it!\nAt least today, I'm in no state to say it!",
+   "flags": [],
+   "notes": "Hoshimura, male scene. Her restart is not a row here; she gives up."
+  },
+  {
+   "id": "c14588",
+   "en": "Once again, I don't really get it,\nbut I'm sorry......",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14589",
+   "en": "I lose this duel~!\nBoil me, roast me, do with me as you will~!!",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14590",
+   "en": "Um, so in the end, what were you\ntrying to say, Hoshimura?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14591",
+   "en": "Well, to put it simply...\nWhat I wanted to say is that I want us\nto keep being close from here on, see.",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14592",
+   "en": "Oh, is that all? Of course we will.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14593",
+   "en": "Really!? You really mean that?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14594",
+   "en": "Yeah, of course.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14595",
+   "en": "...Well, I guess that'll do for today.\nYeah, I'll just leave it at that.",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14596",
+   "en": "(She seems to have settled it all on her own...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14597",
+   "en": "Phew~ Now that I've relaxed, I'm starving.\nI know! Let's go eat steak and pineapple salad~!",
+   "flags": [],
+   "notes": "Hoshimura, male scene. Steak and pineapple salad as c14102."
+  },
+  {
+   "id": "c14598",
+   "en": "That's out of nowhere, as usual.\nOh well, let's go.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14599",
+   "en": "What! Why!?",
+   "flags": [],
+   "notes": "Player, both genders. Reacts to being made to pay (her line is not in this slice); as c14208."
+  },
+  {
+   "id": "c14600",
+   "en": "...Call it punishment for toying with\na maiden's feelings, or whatever...",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14601",
+   "en": "Anyway, you HAVE to treat me!\nUnderstood?",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14602",
+   "en": "I don't really get it, but understood...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14603",
+   "en": "Very well, then!\nAlll right, away we gooo!!",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14604",
+   "en": "Yeah, yeah, away we go!!",
+   "flags": [],
+   "notes": "Male; as c14170."
+  },
+  {
+   "id": "c14605",
+   "en": "(Haaah... The steak's really gonna hurt\nmy wallet, but if it cheers Hoshimura up,\nI guess that's fine.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14606",
+   "en": "(After all, a Hoshimura without her energy\njust isn't Hoshimura.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14607",
+   "en": "(Yeah! Here's to many more good times\nwith you, Hoshimura.)",
+   "flags": [],
+   "notes": "Male (kore kara mo yoroshiku tanomu)."
+  },
+  {
+   "id": "c14608",
+   "en": "(After getting a message like that,\nI can hardly not show up...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14609",
+   "en": "I summoned you here today, knave,\nfor one reason alone! There is something\nI simply must tell you!!",
+   "flags": [],
+   "notes": "Hoshimura, female scene. As c14579."
+  },
+  {
+   "id": "c14610",
+   "en": "Uh... I see......",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14611",
+   "en": "I don't really get it, but sorry...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14612",
+   "en": "(I think it's just that Yui's\nenergy is way too high...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14613",
+   "en": "Eh, whatever. Joking aside,\nthanks a lot for coming today.",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14614",
+   "en": "No, thank you for inviting me.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14615",
+   "en": "Like I said, I called you out here because\nthere's something I really have to tell you.",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14616",
+   "en": "Something to tell me...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14617",
+   "en": "Yeah... Um, well, uh... Okay!",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14618",
+   "en": "Please keep being close with me from now on!!",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14619",
+   "en": "Huh? Well, of course I will.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14620",
+   "en": "Of course I do. That goes without saying.",
+   "flags": [],
+   "notes": "Female; answers the shared \"Really!? You really mean that?\" (c14593)."
+  },
+  {
+   "id": "c14621",
+   "en": "I see... Yeah... Thank you......",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14622",
+   "en": "Y'know, 'cause I'm always so hyper,\npeople sometimes kinda avoid me...",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14623",
+   "en": "But you stick around with someone like me,\nand hanging out with you is so much fun,\nso I got a little too carried away.",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14624",
+   "en": "Haaah~, I'm so relieved~\nNow that I've relaxed, I'm getting hungry~",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14625",
+   "en": "Then want to go eat steak and pineapple salad?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14626",
+   "en": "Sounds great. Your treat, of course, right?",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14627",
+   "en": "For toying with an innocent maiden's feelings.",
+   "flags": [],
+   "notes": "Hoshimura, female scene. Answers the player's \"Why?\" (c14599)."
+  },
+  {
+   "id": "c14628",
+   "en": "Ehhh~ What's that supposed to mean?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14629",
+   "en": "Hehe, alll right, away we gooo!!",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14630",
+   "en": "Geez, you're impossible...",
+   "flags": [],
+   "notes": "Female (shou ga nai wa ne)."
+  },
+  {
+   "id": "c14631",
+   "en": "(Haaah... The steak's really gonna hurt\nmy wallet, but if it cheers Yui up,\nI guess that's okay.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14632",
+   "en": "(After all, a Yui without her energy\njust isn't Yui.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14633",
+   "en": "(Yeah! Here's to many more good times\nwith you, Yui.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14634",
+   "en": "And then! And then!\nMiyuki, she...",
+   "flags": [],
+   "notes": "Hoshimura, both genders. frd_yui_008 second visit; Miyuki = Miyuki Shirakawa."
+  },
+  {
+   "id": "c14635",
+   "en": "Wow~ So that happened, huh.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14636",
+   "en": "(Walking home from school chatting\nwith Hoshimura like this really is fun.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14637",
+   "en": "...Totally changing the subject, but don't\nyou feel like right now we're, like,\n'totally living our youth to the max!'?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14638",
+   "en": "Huh? What do you mean?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14639",
+   "en": "What! You don't get it?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14640",
+   "en": "C'mon, get it~\nIt's you and me we're talking about,\nso get it, even if you have to fake it~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14641",
+   "en": "S-sorry...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14642",
+   "en": "...Like, talking and goofing around together\nlike this on the way home is super fun!\nThat's what I mean!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14643",
+   "en": "I see.\nYou might be right...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14644",
+   "en": "Very well, so long as you understand!",
+   "flags": [],
+   "notes": "Hoshimura, both genders. (wakatta no nara yoroshii); cf. c14144."
+  },
+  {
+   "id": "c14645",
+   "en": "So, back to what I was saying, actually Yuu also...",
+   "flags": [],
+   "notes": "Hoshimura, both genders. Yuu = Yuu Akimizu (bare given name, as c00625)."
+  },
+  {
+   "id": "c14646",
+   "en": "(Yeah, just like Hoshimura says,\nmaybe this is what they call youth.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14647",
+   "en": "Geez, \\p!\nAre you even listening to me?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14648",
+   "en": "Of course I'm listening.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14649",
+   "en": "(I hope peaceful days like these\nkeep going on from here.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14650",
+   "en": "(Walking home from school chatting\nwith Yui like this really is fun.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14651",
+   "en": "(Yeah, just like Yui says,\nmaybe this is what they call youth.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14652",
+   "en": "Of course I'm listening.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14653",
+   "en": "(I hope peaceful days like these\nkeep going on from here.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c14599 (x2): in the male scene no 'your treat' line from Yui precedes the player's 'What! Why!?' (female has c14626); translated as the reaction to being made to pay."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,4300 @@
+{
+ "_meta": {
+  "version": "0.1.0",
+  "updated": "2026-10-16",
+  "spelling_policy": "English spellings follow the Macross Wiki (macross.fandom.com) article title, or the infobox 'english' field where the wiki contradicts itself. Japanese names are given given-name-first in English. Variants in 'avoid' must not appear in the translation; the proofreading script replaces them with 'en'.",
+  "fields": {
+   "en": "Canonical English spelling to use in the translation",
+   "ja": "Japanese name as written in Japanese media (in-game form when known)",
+   "aliases": "Other legitimate names, callsigns or nicknames that may appear in dialogue",
+   "avoid": "Wrong or non-canonical romanizations that must be replaced with 'en'",
+   "gender": "From the wiki. Never infer gender from a name",
+   "status": "verified = English spelling and facts taken from the wiki page; needs_check = conflicting or thin sources, see notes",
+   "af_uses": "How many Ace Frontier text entries (EBOOT, mission scripts, unit lists) contain the Japanese name or one of its ja_aliases. 0 = not in the dumped text; the name can still be heard in voice clips",
+   "muf_role": "Role in Macross Ultimate Frontier, kept from the MUF glossary",
+   "af_role": "Role in Ace Frontier: pilot (playable) / pilot table (AI or enemy) / operator / player pilot slot / mentioned / not seen",
+   "tf_uses": "How many Triangle Frontier text entries outside the campus mode (EBOOT, menu CSVs, mission scripts, unit lists) contain the Japanese name or a ja_aliases form. 0 = not in the dumped text; it can still be heard in voice clips",
+   "tf_campus_uses": "How many campus event script lines contain the name",
+   "tf_role": "Role in Triangle Frontier: pilot table / operator / campus / mentioned. Empty = not set yet"
+  },
+  "ja_caveat": "'ja' and 'ja_aliases' come from the MUF glossary and were checked against the AF text dump (af_uses). Entries for series that are not in AF (Macross Zero apart from names, Macross II, VF-X2, Dynamite 7) were dropped when AF never names them.",
+  "game_source": "https://ja.wikipedia.org/wiki/マクロスエースフロンティア",
+  "game_source_en": "https://macross.fandom.com/wiki/Macross_Ace_Frontier",
+  "seeded_from": "Macross Ultimate Frontier glossary (base) + Macross Ace Frontier glossary, merged by tools/glossary_seed.py"
+ },
+ "characters": [
+  {
+   "id": "yuuto_kagura",
+   "en": "Yuuto Kagura",
+   "ja": "カグラ・ユウト",
+   "aliases": [
+    "Kagura"
+   ],
+   "avoid": [
+    "Yuto Kagura",
+    "Kagura Yuuto"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "MUF original"
+   ],
+   "position": "Pilot, New U.N. Spacy Special Forces 'Moon Island Platoon'",
+   "affiliation": [
+    "New United Nations Spacy",
+    "Moon Island Platoon"
+   ],
+   "personality": "High-spirited and earnest; hides self-doubt behind a confident front that can tip into cockiness. Loves training.",
+   "notes": "Was the unnamed 'Pilot Male A' in Ace Frontier. The player can rename this character, so dialogue may use a name placeholder instead.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Yuuto_Kagura"
+   ],
+   "status": "verified",
+   "muf_role": "pilot (player character option; default age 18)",
+   "af_role": "player pilot, no default name in AF: the game calls this slot 'Male Pilot A'",
+   "af_uses": 0,
+   "ja_aliases": [
+    "ユウト",
+    "カグラ"
+   ],
+   "tf_added": true,
+   "tf_uses": 17,
+   "tf_campus_uses": 345,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "miyuki_shirakawa",
+   "en": "Miyuki Shirakawa",
+   "ja": "シラカワ・ミユキ",
+   "aliases": [
+    "Shirakawa"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "MUF original"
+   ],
+   "position": "Pilot, Moon Island Platoon",
+   "affiliation": [
+    "New United Nations Spacy",
+    "Moon Island Platoon"
+   ],
+   "personality": "From an elite military family. Charming, down-to-earth and caring, which men often misread as interest.",
+   "notes": "Was 'Pilot Female A' in Ace Frontier. Renamable by the player.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Miyuki_Shirakawa"
+   ],
+   "status": "verified",
+   "muf_role": "pilot (player character option; default age 18)",
+   "af_role": "player pilot, no default name in AF: the game calls this slot 'Female Pilot A'",
+   "af_uses": 0,
+   "ja_aliases": [
+    "ミユキ",
+    "シラカワ"
+   ],
+   "tf_added": true,
+   "tf_uses": 18,
+   "tf_campus_uses": 398,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "gary_murdoch",
+   "en": "Gary Murdoch",
+   "ja": "ゲイリー・マードック",
+   "aliases": [
+    "Murdoch"
+   ],
+   "avoid": [
+    "Gary Murdock"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "MUF original"
+   ],
+   "position": "Pilot and commander, Moon Island Platoon",
+   "affiliation": [
+    "New United Nations Spacy",
+    "Moon Island Platoon"
+   ],
+   "personality": "Veteran of many war zones. Likable, rough-spoken, a big-brother type.",
+   "notes": "Was 'Pilot Male B' in Ace Frontier. Renamable. Rough speech: keep it casual and blunt in English.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gary_Murdoch"
+   ],
+   "status": "verified",
+   "muf_role": "pilot (player character option; default age 24)",
+   "af_role": "player pilot, no default name in AF: the game calls this slot 'Male Pilot B'",
+   "af_uses": 0,
+   "ja_aliases": [
+    "ゲイリー"
+   ],
+   "tf_added": true,
+   "tf_uses": 39,
+   "tf_campus_uses": 320,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "hilda_v_bergen",
+   "en": "Hilda V. Bergen",
+   "ja": "ヒルダ・V・ベルゲン",
+   "aliases": [
+    "Hilda",
+    "Bergen"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "MUF original"
+   ],
+   "position": "Pilot and second-in-command, Moon Island Platoon",
+   "affiliation": [
+    "New United Nations Spacy",
+    "Moon Island Platoon"
+   ],
+   "personality": "Cool beauty, strict and demanding, but praises people who meet her standards. Raised by a mercenary father; rough-edged but highly skilled.",
+   "notes": "Was 'Pilot Female B' in Ace Frontier. Renamable.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Hilda_V._Bergen",
+    "https://ja.wikipedia.org/wiki/マクロスエースフロンティア"
+   ],
+   "status": "verified",
+   "muf_role": "pilot (player character option; default age 26)",
+   "af_role": "player pilot, no default name in AF: the game calls this slot 'Female Pilot B'",
+   "af_uses": 0,
+   "ja_aliases": [
+    "ヒルダ"
+   ],
+   "tf_added": true,
+   "tf_uses": 39,
+   "tf_campus_uses": 294,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "yui_hoshimura",
+   "en": "Yui Hoshimura",
+   "ja": "ホシムラ・ユイ",
+   "aliases": [
+    "Hoshimura"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human (one-quarter Zentradi)",
+   "series": [
+    "MUF original"
+   ],
+   "position": "Pilot, Moon Island Platoon (originally enlisted as maintenance crew)",
+   "affiliation": [
+    "New United Nations Spacy",
+    "Moon Island Platoon"
+   ],
+   "personality": "Energetic machine-lover who tinkers whether allowed or not. Big appetite. Speaks in an old-fashioned style that makes her sound like an old man. Superstitious about pilot jinxes.",
+   "notes": "Old-man speech style is a character trait: render it with old-fashioned English diction, not standard teen speech.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Yui_Hoshimura"
+   ],
+   "status": "verified",
+   "muf_role": "pilot (new in MUF; default age 17)",
+   "ja_aliases": [
+    "ユイ"
+   ],
+   "tf_added": true,
+   "tf_uses": 18,
+   "tf_campus_uses": 321,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "luis_fernando",
+   "en": "Luis Fernando",
+   "ja": "ルイス・フェルナンド",
+   "aliases": [
+    "Luis"
+   ],
+   "avoid": [
+    "Louis Fernando",
+    "Ruisu"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "MUF original"
+   ],
+   "position": "Pilot, Moon Island Platoon",
+   "affiliation": [
+    "New United Nations Spacy",
+    "Moon Island Platoon"
+   ],
+   "personality": "Long-haired, mustached passionate type who loves the sky; burning, almost limitless passion for life.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Luis_Fernando"
+   ],
+   "status": "verified",
+   "muf_role": "pilot (new in MUF; default age 31)",
+   "ja_aliases": [
+    "ルイス"
+   ],
+   "tf_added": true,
+   "tf_uses": 18,
+   "tf_campus_uses": 450,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "yuu_akimizu",
+   "en": "Yuu Akimizu",
+   "ja": "アキミズ・ユウ",
+   "aliases": [
+    "Yuu"
+   ],
+   "avoid": [
+    "Yu Akimizu"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "MUF original"
+   ],
+   "position": "CIC operator, Moon Island Platoon (rookie)",
+   "affiliation": [
+    "New United Nations Spacy",
+    "Moon Island Platoon"
+   ],
+   "personality": "Cheerful, tries her hardest at everything. Self-conscious about looking young; wants to be cool and mature like Claire.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Yuu_Akimizu"
+   ],
+   "status": "verified",
+   "muf_role": "operator",
+   "af_role": "operator",
+   "af_uses": 1,
+   "ja_aliases": [
+    "アキミズ"
+   ],
+   "tf_added": true,
+   "tf_uses": 3,
+   "tf_campus_uses": 218,
+   "tf_role": "operator, campus"
+  },
+  {
+   "id": "claire_stanford",
+   "en": "Claire Stanford",
+   "ja": "クレア・スタンフォード",
+   "aliases": [
+    "Claire"
+   ],
+   "avoid": [
+    "Clare Stanford",
+    "Crea"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "MUF original"
+   ],
+   "position": "CIC operator, Moon Island Platoon",
+   "affiliation": [
+    "New United Nations Spacy",
+    "Moon Island Platoon"
+   ],
+   "personality": "Big-sister figure who looks after juniors. Frank to the point of cruelty with some pilots on the job; has a playful side and dotes on Pinon.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Claire_Stanford"
+   ],
+   "status": "verified",
+   "muf_role": "operator",
+   "af_role": "operator",
+   "af_uses": 1,
+   "ja_aliases": [
+    "クレア"
+   ],
+   "tf_added": true,
+   "tf_uses": 3,
+   "tf_campus_uses": 309,
+   "tf_role": "operator, campus"
+  },
+  {
+   "id": "itsuki_yamashiro",
+   "en": "Itsuki Yamashiro",
+   "ja": "ヤマシロ・イツキ",
+   "aliases": [
+    "Itsuki"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "MUF original"
+   ],
+   "position": "CIC operator, Moon Island Platoon",
+   "affiliation": [
+    "New United Nations Spacy",
+    "Moon Island Platoon"
+   ],
+   "personality": "Serious, calm analyst with an unreadable face that gets him mistaken for cold. Explains things in long, detailed lectures.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Itsuki_Yamashiro"
+   ],
+   "status": "verified",
+   "muf_role": "operator",
+   "af_role": "operator",
+   "af_uses": 1,
+   "ja_aliases": [
+    "イツキ",
+    "ヤマシロ"
+   ],
+   "tf_added": true,
+   "tf_uses": 3,
+   "tf_campus_uses": 216,
+   "tf_role": "operator, campus"
+  },
+  {
+   "id": "pinon_colette",
+   "en": "Pinon Colette",
+   "ja": "ピノン・コレット",
+   "aliases": [
+    "Pino-Pino"
+   ],
+   "avoid": [
+    "Pinon Collette"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "MUF original"
+   ],
+   "position": "CIC operator, Moon Island Platoon (youngest ever to enlist, age 16)",
+   "affiliation": [
+    "New United Nations Spacy",
+    "Moon Island Platoon"
+   ],
+   "personality": "Hates being treated like a child. Talks down to pilots in a grown-up tone and gets foul-mouthed under stress.",
+   "notes": "Foul mouth is intentional: do not soften.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Pinon_Colette"
+   ],
+   "status": "verified",
+   "muf_role": "operator (new in MUF)",
+   "ja_aliases": [
+    "ピノン"
+   ],
+   "tf_added": true,
+   "tf_uses": 3,
+   "tf_campus_uses": 628,
+   "tf_role": "operator, campus"
+  },
+  {
+   "id": "shin_kudo",
+   "en": "Shin Kudo",
+   "ja": "工藤シン",
+   "aliases": [
+    "Kudo"
+   ],
+   "avoid": [
+    "Shin Kudou",
+    "Kudo Shin"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Zero"
+   ],
+   "position": "Second Lieutenant, U.N. Forces VF pilot (later Skull Squadron)",
+   "affiliation": [
+    "U.N. Forces",
+    "Skull Squadron"
+   ],
+   "personality": "Taciturn, slow to trust; puts mission focus above all. Softens after meeting the Nome sisters.",
+   "notes": "Wiki title is 'Shin Kudō'. Use plain 'Kudo' unless the game font has ō.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Shin_Kudō"
+   ],
+   "status": "needs_check",
+   "ja_aliases": [
+    "シン"
+   ],
+   "muf_role": "pilot",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 8,
+   "tf_uses": 39,
+   "tf_campus_uses": 34,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "sara_nome",
+   "en": "Sara Nome",
+   "ja": "サラ・ノーム",
+   "aliases": [],
+   "avoid": [
+    "Sarah Nome"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Zero"
+   ],
+   "position": "Shaman (priestess) of Mayan Island",
+   "affiliation": [
+    "Mayan Island"
+   ],
+   "personality": "Devout and serious guardian of the island's traditions; distrustful of outsiders and their technology at first.",
+   "notes": "Older sister of Mao Nome; great-aunt of Sheryl Nome.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Sara_Nome"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "サラ"
+   ],
+   "muf_role": "sub",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 28,
+   "tf_uses": 97,
+   "tf_campus_uses": 12,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "mao_nome",
+   "en": "Mao Nome",
+   "ja": "マオ・ノーム",
+   "aliases": [],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Zero",
+    "Macross Frontier (mentioned)"
+   ],
+   "position": "Mayan Island girl (later Dr. Mao Nome, Sheryl's grandmother)",
+   "affiliation": [
+    "Mayan Island"
+   ],
+   "personality": "Cheerful, curious and modern-minded younger sister; fascinated by the outside world.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Mao_Nome"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "マオ"
+   ],
+   "muf_role": "unknown (not in roster; may be mentioned)",
+   "tf_uses": 2,
+   "tf_campus_uses": 3,
+   "tf_role": "campus"
+  },
+  {
+   "id": "roy_focker",
+   "en": "Roy Focker",
+   "ja": "ロイ・フォッカー",
+   "aliases": [
+    "Skull Leader",
+    "Focker-senpai"
+   ],
+   "avoid": [
+    "Roy Fokker"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Zero",
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Major (the game's Zero-era briefings already call him Major); Skull Squadron leader",
+   "affiliation": [
+    "U.N. Forces",
+    "U.N. Spacy",
+    "Skull Squadron"
+   ],
+   "personality": "Ace and big-brother figure to Hikaru; easygoing playboy off duty, a mentor in the air.",
+   "notes": "'Roy Fokker' is the Robotech spelling: never use it. Hikaru calls him 'senpai'; render as 'Roy' or 'big bro' by context, not 'senpai'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Roy_Focker"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "フォッカー"
+   ],
+   "muf_role": "pilot (both Zero-era and SDF-era versions)",
+   "af_role": "pilot (playable)",
+   "af_uses": 31,
+   "tf_uses": 56,
+   "tf_campus_uses": 7,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "nora_polyansky",
+   "en": "Nora Polyansky",
+   "ja": "ノーラ・ポリャンスキー",
+   "aliases": [
+    "Schwalbe Deux"
+   ],
+   "avoid": [
+    "Nora Polianski"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Zero"
+   ],
+   "position": "Captain, Anti-U.N. ace pilot (wine-red SV-51γ), Ivanov's wingmate",
+   "affiliation": [
+    "Anti-U.N. Forces"
+   ],
+   "personality": "Vengeful and sadistic in combat; hates U.N. soldiers, who massacred her family. Merciless.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Nora_Polyansky"
+   ],
+   "status": "verified",
+   "muf_role": "pilot (enemy-side)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 5,
+   "tf_uses": 12,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "dd_ivanov",
+   "en": "D.D. Ivanov",
+   "ja": "D.D.イワノフ",
+   "aliases": [
+    "Ivanov",
+    "Daisy Ivanov",
+    "Schwalbe Un"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Zero"
+   ],
+   "position": "Anti-U.N. ace pilot and squadron leader (SV-51); Roy Focker's former instructor",
+   "affiliation": [
+    "Anti-U.N. Forces"
+   ],
+   "personality": "Ruthless and calculating, disillusioned with the U.N.; cares only for his partner Nora.",
+   "notes": "Wiki writes 'D.D.Ivanov' with no space; use 'D.D. Ivanov' for readability.",
+   "sources": [
+    "https://macross.fandom.com/wiki/D.D.Ivanov"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "イワノフ",
+    "デイジー・イワノフ"
+   ],
+   "muf_role": "pilot (enemy-side)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 10,
+   "tf_added": true,
+   "tf_uses": 24,
+   "tf_campus_uses": 6,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "edgar_lasalle",
+   "en": "Edgar LaSalle",
+   "ja": "エドガー・ラサール",
+   "aliases": [
+    "Edgar"
+   ],
+   "avoid": [
+    "Edgar Lasalle"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Zero"
+   ],
+   "position": "Radar intercept officer, Shin's back-seater",
+   "affiliation": [
+    "U.N. Forces"
+   ],
+   "personality": "Easygoing, loyal foil to Shin's coldness.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Edgar_LaSalle"
+   ],
+   "status": "verified",
+   "muf_role": "unknown (not in roster; may appear in dialogue)",
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "aries_turner",
+   "en": "Aries Turner",
+   "ja": "アリエス・ターナー",
+   "aliases": [],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Zero"
+   ],
+   "position": "Cultural anthropologist researching the Bird Human",
+   "affiliation": [
+    "U.N. Forces (CVN-99 Asuka II)"
+   ],
+   "personality": "Zealous scientist driven to prove the Protoculture intervention hypothesis.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Aries_Turner"
+   ],
+   "status": "verified",
+   "muf_role": "unknown (not in roster; may appear in dialogue)",
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "nutouk",
+   "en": "Nutouk",
+   "ja": "ヌトゥク",
+   "aliases": [],
+   "avoid": [
+    "Notouk"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Zero"
+   ],
+   "position": "Elder priest of Mayan Island",
+   "affiliation": [
+    "Mayan Island"
+   ],
+   "personality": "Wise village elder, keeper of island legends.",
+   "notes": "Japanese spelling not confirmed from a source.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Nutouk"
+   ],
+   "status": "needs_check",
+   "muf_role": "unknown (not in roster)",
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "hikaru_ichijyo",
+   "en": "Hikaru Ichijyo",
+   "ja": "一条輝",
+   "aliases": [
+    "Hikaru",
+    "Vermillion 1",
+    "Skull 1",
+    "Skull Leader"
+   ],
+   "avoid": [
+    "Hikaru Ichijo",
+    "Rick Hunter"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Civilian stunt flyer turned U.N. Spacy VF-1 pilot; Vermillion Flight leader, later Skull Squadron leader",
+   "affiliation": [
+    "U.N. Spacy",
+    "Vermillion Flight",
+    "Skull Squadron"
+   ],
+   "personality": "Impulsive, earnest young pilot torn between Minmay and Misa.",
+   "notes": "Wiki title uses 'Ichijyo' (also lists 'Ichijo' as alias). Robotech names (Rick Hunter etc.) must never be used.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Hikaru_Ichijyo"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "一条",
+    "輝"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 33,
+   "tf_uses": 67,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "lynn_minmay",
+   "en": "Lynn Minmay",
+   "ja": "リン・ミンメイ",
+   "aliases": [
+    "Minmay",
+    "Miss Macross"
+   ],
+   "avoid": [
+    "Lin Minmay",
+    "Lynn Minmei"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Nyan-Nyan waitress turned idol singer (Miss Macross)",
+   "affiliation": [
+    "Nyan-Nyan"
+   ],
+   "personality": "Bright, upbeat, a little unreliable and self-centred; her songs move the Zentradi.",
+   "notes": "Family name first in Chinese order: 'Lynn' is the surname. Address her as 'Minmay'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Lynn_Minmay"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "ミンメイ"
+   ],
+   "muf_role": "sub",
+   "af_role": "pilot table (AI or enemy, not playable)",
+   "af_uses": 7,
+   "tf_uses": 70,
+   "tf_campus_uses": 4,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "misa_hayase",
+   "en": "Misa Hayase",
+   "ja": "早瀬未沙",
+   "aliases": [
+    "Misa",
+    "Lt. Hayase"
+   ],
+   "avoid": [
+    "Lisa Hayes"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "SDF-1 Macross bridge officer. The game uses army-style ranks: 中尉 'Lieutenant', 大尉 'Captain' (decided in dialogue review 2026-10-15).",
+   "affiliation": [
+    "U.N. Spacy"
+   ],
+   "personality": "Stern, by-the-book officer with a strong sense of duty; clashes with free-wheeling pilots, especially Hikaru.",
+   "notes": "Later Misa Ichijyo; use Hayase for the 2009 story.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Misa_Hayase"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "早瀬",
+    "早瀬中尉",
+    "未沙"
+   ],
+   "muf_role": "pilot/sub",
+   "af_role": "operator (unlockable)",
+   "af_uses": 9,
+   "tf_uses": 35,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table, operator"
+  },
+  {
+   "id": "maximilian_jenius",
+   "en": "Maximilian Jenius",
+   "ja": "マクシミリアン・ジーナス",
+   "aliases": [
+    "Max",
+    "Max Jenius",
+    "Vermillion 3",
+    "Skull 3",
+    "Captain Max"
+   ],
+   "avoid": [
+    "Maximillian Jenius",
+    "Max Sterling"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "SDF Macross",
+    "DYRL",
+    "Macross 7",
+    "Macross M3"
+   ],
+   "position": "2009: genius VF-1 pilot, Vermillion Flight. 2045: Captain of the Macross 7 / Battle 7",
+   "affiliation": [
+    "U.N. Spacy",
+    "37th Long Distance Colony Fleet"
+   ],
+   "personality": "Reserved, gentlemanly genius ace who never brags. As captain he is calm and composed.",
+   "notes": "Called 'Max' by friends. In Macross 7 he is the fleet captain ('Captain Max'/'Kancho').",
+   "sources": [
+    "https://macross.fandom.com/wiki/Maximilian_Jenius"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "ジーナス艦長",
+    "マックス",
+    "マックス艦長",
+    "マックス（７）"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 53,
+   "af_notes": "Called 'Max' by friends. In Macross 7 he is the fleet captain ('Captain Max'/'Kancho'). AF has the SDF-era pilot and 'Max (7)', the Macross 7 fleet commander.",
+   "tf_uses": 136,
+   "tf_campus_uses": 3,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "hayao_kakizaki",
+   "en": "Hayao Kakizaki",
+   "ja": "柿崎速雄",
+   "aliases": [
+    "Kakizaki",
+    "Vermillion 2"
+   ],
+   "avoid": [
+    "Ben Dixon"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "VF-1 pilot, Vermillion Flight",
+   "affiliation": [
+    "U.N. Spacy",
+    "Vermillion Flight"
+   ],
+   "personality": "Happy-go-lucky joker who joined up to be popular with girls; rushes in to rack up kills.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Hayao_Kakizaki"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "柿崎"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 11,
+   "tf_uses": 53,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "milia_fallyna_jenius",
+   "en": "Milia Fallyna Jenius",
+   "ja": "ミリア・ファリーナ・ジーナス",
+   "aliases": [
+    "Milia",
+    "Milia Fallyna",
+    "Milia 639",
+    "Crimson Skull",
+    "Mayor Milia"
+   ],
+   "avoid": [
+    "Miria",
+    "Milia Farina",
+    "Miriya Sterling"
+   ],
+   "gender": "female",
+   "species": "Zentradi (Meltrandi)",
+   "series": [
+    "SDF Macross",
+    "DYRL",
+    "Macross 7",
+    "Macross M3"
+   ],
+   "position": "2009: Zentradi ace pilot (Queadluun-Rau), defects and marries Max. 2045: Mayor of City 7",
+   "affiliation": [
+    "Zentradi",
+    "U.N. Spacy",
+    "37th Long Distance Colony Fleet"
+   ],
+   "personality": "Proud warrior who refuses to lose; remains strong-willed after defecting.",
+   "notes": "Spelling confirmed by user 2026-10-15. Called 'Milia 639' in DYRL. Before marriage (2009 TV) she is 'Milia Fallyna'. Wiki article title is 'Milia Farina Jenius' but the wiki body, game roster page and series sources use 'Fallyna': using 'Fallyna'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Milia_Farina_Jenius"
+   ],
+   "status": "decided",
+   "ja_aliases": [
+    "ミリア",
+    "ミリア・ファリーナ",
+    "ミリア639",
+    "ミリア市長",
+    "ミリア（マイクローン）",
+    "ミリア（７）"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 79,
+   "af_notes": "Spelling confirmed by user 2026-10-15. Called 'Milia 639' in DYRL. Before marriage (2009 TV) she is 'Milia Fallyna'. Wiki article title is 'Milia Farina Jenius' but the wiki body, game roster page and series sources use 'Fallyna': using 'Fallyna'. AF has three playable versions: SDF-era pilot 'Milia Fallyna' (before marriage), 'Milia (Micronian)' and Macross 7 mayor 'Milia (7)'.",
+   "tf_uses": 177,
+   "tf_campus_uses": 2,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "quamzin_kravshera",
+   "en": "Quamzin Kravshera",
+   "ja": "カムジン・クラヴシェラ",
+   "aliases": [
+    "Quamzin",
+    "Quamzin 03350"
+   ],
+   "avoid": [
+    "Kamjin",
+    "Khyron"
+   ],
+   "gender": "male",
+   "species": "Zentradi",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Zentradi pilot and squadron commander in Vrlitwhai's fleet",
+   "affiliation": [
+    "Zentradi"
+   ],
+   "personality": "Brilliant but unstable; violent temper, kills his own troops ('Ally Killer').",
+   "notes": "Spelling confirmed by user 2026-10-15. Official Bigwest spelling. 'Kamjin' is a fan romanization; 'Khyron' is Robotech. Wiki wins.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Quamzin_Kravshera"
+   ],
+   "status": "decided",
+   "ja_aliases": [
+    "カムジン",
+    "カムジン03350"
+   ],
+   "muf_role": "pilot (enemy-side)",
+   "af_role": "pilot (playable)",
+   "af_uses": 21,
+   "tf_uses": 49,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "vrlitwhai_kridanik",
+   "en": "Vrlitwhai Kridanik",
+   "ja": "ブリタイ・クリダニク",
+   "aliases": [
+    "Vrlitwhai",
+    "Vrlitwhai 7018"
+   ],
+   "avoid": [
+    "Britai",
+    "Breetai"
+   ],
+   "gender": "male",
+   "species": "Zentradi",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Zentradi fleet commander (Adoclass branch fleet)",
+   "affiliation": [
+    "Zentradi"
+   ],
+   "personality": "Brave, honourable veteran commander; later allies with the SDF-1.",
+   "notes": "Spelling confirmed by user 2026-10-15. Official Bigwest spelling. 'Britai' is common in fan subs; 'Breetai' is Robotech. Wiki wins.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Vrlitwhai_Kridanik"
+   ],
+   "status": "decided",
+   "ja_aliases": [
+    "ブリタイ",
+    "ブリタイ7018"
+   ],
+   "muf_role": "pilot (enemy-side)",
+   "af_role": "pilot (playable)",
+   "af_uses": 19,
+   "tf_uses": 19,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "exsedol_folmo",
+   "en": "Exsedol Folmo",
+   "ja": "エキセドル・フォルモ",
+   "aliases": [
+    "Exsedol",
+    "Exsedol 4970"
+   ],
+   "avoid": [
+    "Exedore",
+    "Exedol"
+   ],
+   "gender": "male",
+   "species": "Zentradi",
+   "series": [
+    "SDF Macross",
+    "DYRL",
+    "Macross 7"
+   ],
+   "position": "Chief archivist and advisor to Vrlitwhai; later Battle 7 staff advisor",
+   "affiliation": [
+    "Zentradi",
+    "37th Long Distance Colony Fleet"
+   ],
+   "personality": "Scholarly, analytical, unflappable.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Exsedol_Folmo"
+   ],
+   "status": "verified",
+   "muf_role": "npc (listed on the English wiki game page)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "ja_aliases": [
+    "エキセドル4970"
+   ],
+   "tf_added": true,
+   "tf_uses": 4,
+   "tf_campus_uses": 1,
+   "tf_role": "pilot table, operator, campus"
+  },
+  {
+   "id": "golg_boddole_zer",
+   "en": "Golg Boddole Zer",
+   "ja": "ゴル・ボドルザー",
+   "aliases": [
+    "Boddole Zer",
+    "Supreme Commander Boddole Zer"
+   ],
+   "avoid": [
+    "Dolza",
+    "Bodolza",
+    "Bodolzaa"
+   ],
+   "gender": "male",
+   "species": "Zentradi",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Supreme commander of the Zentradi Main Fleet",
+   "affiliation": [
+    "Zentradi",
+    "Boddole Zer Main Fleet"
+   ],
+   "personality": "Ancient, imperious warlord; sees Culture as a threat to be destroyed.",
+   "notes": "Wiki intro also writes 'Gol Boddole Zer'; using the article title 'Golg'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Golg_Boddole_Zer"
+   ],
+   "status": "needs_check",
+   "ja_aliases": [
+    "ボドルザー",
+    "ボドルザー司令長官",
+    "ボドル・ザー",
+    "ゴルグ・ボドルザー"
+   ],
+   "muf_role": "pilot (enemy-side; also a playable unit)",
+   "af_role": "pilot table (AI or enemy, not playable)",
+   "af_uses": 24,
+   "tf_uses": 37,
+   "tf_campus_uses": 2,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "moruk_lap_lamiz",
+   "en": "Moruk Lap Lamiz",
+   "ja": "ラプラミズ",
+   "aliases": [
+    "Lap Lamiz"
+   ],
+   "avoid": [
+    "Azonia",
+    "Laplamiz"
+   ],
+   "gender": "female",
+   "species": "Zentradi (Meltrandi)",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Commander of the Meltrandi direct defense fleet; Milia's superior",
+   "affiliation": [
+    "Meltrandi",
+    "Zentradi"
+   ],
+   "personality": "Typical proud Zentradi warrior.",
+   "notes": "Japanese form not confirmed from a source.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Moruk_Lap_Lamiz"
+   ],
+   "status": "needs_check",
+   "muf_role": "unknown (not in roster)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 5,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "warera_nantes",
+   "en": "Warera Nantes",
+   "ja": "ワレラ・ナンテス",
+   "aliases": [
+    "Warera 25258"
+   ],
+   "avoid": [
+    "Wario"
+   ],
+   "gender": "male",
+   "species": "Zentradi",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Zentradi spy (micronized) aboard the SDF-1",
+   "affiliation": [
+    "Zentradi"
+   ],
+   "personality": "Comic-relief spy trio member.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Warera_Nantes"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "ワレラ25258"
+   ],
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 5,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "loli_dosel",
+   "en": "Loli Dosel",
+   "ja": "ロリー・ドセル",
+   "aliases": [
+    "Loli 28356"
+   ],
+   "avoid": [
+    "Rori",
+    "Rico"
+   ],
+   "gender": "male",
+   "species": "Zentradi",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Leader of the Zentradi spy trio",
+   "affiliation": [
+    "Zentradi"
+   ],
+   "personality": "Comic-relief spy; later marries Vanessa Laird.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Loli_Dosel"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "ロリー28356"
+   ],
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 5,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "conda_bromco",
+   "en": "Conda Bromco",
+   "ja": "コンダ・ブロムコ",
+   "aliases": [],
+   "avoid": [
+    "Konda",
+    "Konda Bromco"
+   ],
+   "gender": "male",
+   "species": "Zentradi",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Zentradi spy trio member",
+   "affiliation": [
+    "Zentradi"
+   ],
+   "personality": "Comic-relief spy.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Conda_Bromco"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "コンダ88333"
+   ],
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 4,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "bruno_j_global",
+   "en": "Bruno J. Global",
+   "ja": "ブルーノ・J・グローバル",
+   "aliases": [
+    "Captain Global",
+    "Global"
+   ],
+   "avoid": [
+    "Gloval",
+    "Henry Gloval"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Captain of the SDF-1 Macross (Brigadier General)",
+   "affiliation": [
+    "U.N. Spacy"
+   ],
+   "personality": "Old warrior with a broad view; pipe-smoking, steady, pushes for peace with the Zentradi.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bruno_J._Global"
+   ],
+   "status": "verified",
+   "muf_role": "unknown (not in roster; likely in dialogue)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 1,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "claudia_lasalle",
+   "en": "Claudia LaSalle",
+   "ja": "クローディア・ラサール",
+   "aliases": [
+    "Claudia"
+   ],
+   "avoid": [
+    "Claudia Grant"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Bridge officer of the SDF-1 Macross",
+   "affiliation": [
+    "U.N. Spacy"
+   ],
+   "personality": "Mature, composed and warm; Roy Focker's lover.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Claudia_LaSalle"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "vanessa_laird",
+   "en": "Vanessa Laird",
+   "ja": "ヴァネッサ・レイアード",
+   "aliases": [
+    "Vanessa"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Macross bridge operator (radar)",
+   "affiliation": [
+    "U.N. Spacy"
+   ],
+   "personality": "Level-headed operator.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Vanessa_Laird"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "kim_kabirov",
+   "en": "Kim Kabirov",
+   "ja": "キム・キャビロフ",
+   "aliases": [
+    "Kim"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Macross bridge operator",
+   "affiliation": [
+    "U.N. Spacy"
+   ],
+   "personality": "Boyish, forward, gossipy; teases Shammy.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Kim_Kabirov"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "shammy_milliome",
+   "en": "Shammy Milliome",
+   "ja": "シャミー・ミリオム",
+   "aliases": [
+    "Shammy"
+   ],
+   "avoid": [
+    "Sammie"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Macross bridge operator (youngest)",
+   "affiliation": [
+    "U.N. Spacy"
+   ],
+   "personality": "Naive, sensitive, childish but rule-abiding.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Shammy_Milliome"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "lynn_kaifun",
+   "en": "Lynn Kaifun",
+   "ja": "リン・カイフン",
+   "aliases": [
+    "Kaifun"
+   ],
+   "avoid": [
+    "Lynn Kyle"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "SDF Macross",
+    "DYRL"
+   ],
+   "position": "Minmay's cousin; martial artist, actor, later her manager",
+   "affiliation": [],
+   "personality": "Anti-war, arrogant, resentful of the military.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Lynn_Kaifun"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "カイフン"
+   ],
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 2,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "isamu_alva_dyson",
+   "en": "Isamu Alva Dyson",
+   "ja": "イサム・ダイソン",
+   "aliases": [
+    "Isamu",
+    "Isamu Dyson",
+    "Alpha 1"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Plus"
+   ],
+   "position": "U.N. Spacy test pilot of the YF-19 (Project Super Nova)",
+   "affiliation": [
+    "U.N. Spacy",
+    "Shinsei Industries (test team)"
+   ],
+   "personality": "Reckless, carefree hotshot; 'luck is one of my skills'.",
+   "notes": "Japanese sources often drop 'Alva'. Use 'Isamu' in dialogue.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Isamu_Alva_Dyson"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "イサム"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 19,
+   "tf_uses": 24,
+   "tf_campus_uses": 2,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "guld_goa_bowman",
+   "en": "Guld Goa Bowman",
+   "ja": "ガルド・ゴア・ボーマン",
+   "aliases": [
+    "Guld"
+   ],
+   "avoid": [
+    "Gald",
+    "Garudo"
+   ],
+   "gender": "male",
+   "species": "Human/Zentradi half-blood",
+   "series": [
+    "Macross Plus"
+   ],
+   "position": "Test pilot of the YF-21 (General Galaxy)",
+   "affiliation": [
+    "General Galaxy"
+   ],
+   "personality": "Serious, controlled perfectionist with suppressed Zentradi rage; Isamu's estranged friend and rival.",
+   "notes": "AF: one mission unit list misspells him ガルド・ボア・ボーマン; translate as Guld Goa Bowman.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Guld_Goa_Bowman"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "ガルド",
+    "ガルド・ボア・ボーマン"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 16,
+   "tf_uses": 23,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "myung_fang_lone",
+   "en": "Myung Fang Lone",
+   "ja": "ミュン・ファン・ローン",
+   "aliases": [
+    "Myung"
+   ],
+   "avoid": [
+    "Myun"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Plus"
+   ],
+   "position": "Producer of virtual idol Sharon Apple (secretly her singing voice/emotions)",
+   "affiliation": [],
+   "personality": "Withdrawn former dreamer who gave up singing; childhood friend of Isamu and Guld.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Myung_Fang_Lone"
+   ],
+   "status": "verified",
+   "muf_role": "sub (skill 'VOICES')",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 5,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "sharon_apple",
+   "en": "Sharon Apple",
+   "ja": "シャロン・アップル",
+   "aliases": [
+    "Sharon"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Virtual idol / AI",
+   "series": [
+    "Macross Plus"
+   ],
+   "position": "Holographic virtual idol whose AI goes rogue",
+   "affiliation": [],
+   "personality": "Seductive, eerie, increasingly obsessive AI.",
+   "notes": "AI, not human. Refer to her as 'she' (wiki gender: female).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Sharon_Apple"
+   ],
+   "status": "verified",
+   "muf_role": "sub",
+   "af_role": "pilot table (AI or enemy, not playable)",
+   "af_uses": 11,
+   "tf_uses": 21,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "lucy_mcmillan",
+   "en": "Lucy McMillan",
+   "ja": "ルーシー・マックミラン",
+   "aliases": [
+    "Lucy"
+   ],
+   "avoid": [
+    "Lucy MacMillan"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Plus"
+   ],
+   "position": "Shinsei Industries staff",
+   "affiliation": [
+    "Shinsei Industries"
+   ],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Lucy_McMillan"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "yang_neumann",
+   "en": "Yang Neumann",
+   "ja": "ヤン・ノイマン",
+   "aliases": [
+    "Yang"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Plus"
+   ],
+   "position": "YF-19 chief engineer / hacker",
+   "affiliation": [
+    "Shinsei Industries"
+   ],
+   "personality": "Cocky young genius.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Yang_Neumann"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 1,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "millard_johnson",
+   "en": "Millard Johnson",
+   "ja": "ミラード・ジョンソン",
+   "aliases": [
+    "Millard"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Plus"
+   ],
+   "position": "Commander of New Edwards test flight center",
+   "affiliation": [
+    "U.N. Spacy"
+   ],
+   "personality": "",
+   "notes": "Gender not in the wiki infobox; male per the series.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Millard_Johnson"
+   ],
+   "status": "needs_check",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "marge_gueldoa",
+   "en": "Marge Gueldoa",
+   "ja": "マージ・ゲイルドア",
+   "aliases": [
+    "Marge"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Plus"
+   ],
+   "position": "Sharon Apple's technical manager (conspirator)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Japanese form not confirmed.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Marge_Gueldoa"
+   ],
+   "status": "needs_check",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "basara_nekki",
+   "en": "Basara Nekki",
+   "ja": "熱気バサラ",
+   "aliases": [
+    "Basara"
+   ],
+   "avoid": [
+    "Nekki Basara"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross 7",
+    "Macross Dynamite 7"
+   ],
+   "position": "Lead vocalist/guitarist of Fire Bomber; pilots the VF-19 Kai Fire Valkyrie but refuses to fire weapons",
+   "affiliation": [
+    "Fire Bomber",
+    "Sound Force"
+   ],
+   "personality": "Hot-blooded, stubborn free spirit who believes his songs can reach anyone ('Listen to my song!').",
+   "notes": "Catchphrases like 俺の歌を聴けぇ → 'Listen to my song!' (standard fan rendering).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Basara_Nekki"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "バサラ"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 24,
+   "tf_uses": 64,
+   "tf_campus_uses": 3,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "mylene_flare_jenius",
+   "en": "Mylene Flare Jenius",
+   "ja": "ミレーヌ・ジーナス",
+   "aliases": [
+    "Mylene"
+   ],
+   "avoid": [
+    "Mirene",
+    "Milene"
+   ],
+   "gender": "female",
+   "species": "Human/Zentradi",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Bassist/vocalist of Fire Bomber; youngest daughter of Max and Milia",
+   "affiliation": [
+    "Fire Bomber",
+    "Sound Force"
+   ],
+   "personality": "Spirited, headstrong 14-year-old; argues with Basara and her parents but cares deeply.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Mylene_Flare_Jenius"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "ミレーヌ"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 17,
+   "tf_uses": 32,
+   "tf_campus_uses": 3,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "ray_lovelock",
+   "en": "Ray Lovelock",
+   "ja": "レイ・ラブロック",
+   "aliases": [
+    "Ray"
+   ],
+   "avoid": [
+    "Ray Loverock"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Fire Bomber leader and keytarist; ex-U.N. Spacy pilot",
+   "affiliation": [
+    "Fire Bomber",
+    "Sound Force"
+   ],
+   "personality": "Calm, mature older-brother figure who manages the band.",
+   "notes": "Wiki game page links 'Ray Loverock', but the article title is 'Ray Lovelock'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Ray_Lovelock"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "レイ"
+   ],
+   "muf_role": "pilot (new in MUF)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 52,
+   "tf_uses": 119,
+   "tf_campus_uses": 53,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "veffidas_feaze",
+   "en": "Veffidas Feaze",
+   "ja": "ビヒーダ・フィーズ",
+   "aliases": [
+    "Veffidas"
+   ],
+   "avoid": [
+    "Vihida",
+    "Bihida"
+   ],
+   "gender": "female",
+   "species": "Zentradi",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Fire Bomber drummer",
+   "affiliation": [
+    "Fire Bomber",
+    "Sound Force"
+   ],
+   "personality": "Silent; speaks only through her drumming.",
+   "notes": "Almost never speaks.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Veffidas_Feaze"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "ビヒーダ"
+   ],
+   "muf_role": "pilot (new in MUF)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 19,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "gamlin_kizaki",
+   "en": "Gamlin Kizaki",
+   "ja": "ガムリン木崎",
+   "aliases": [
+    "Gamlin",
+    "D2",
+    "D1"
+   ],
+   "avoid": [
+    "Gamlin Kisaki"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross 7",
+    "Macross Dynamite 7"
+   ],
+   "position": "Lieutenant, Diamond Force pilot (later leader)",
+   "affiliation": [
+    "U.N. Spacy",
+    "Diamond Force"
+   ],
+   "personality": "Earnest, disciplined soldier; initially scorns Basara; secretly smitten with Mylene.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gamlin_Kizaki"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "ガムリン"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 17,
+   "tf_uses": 45,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "docker",
+   "en": "Docker",
+   "ja": "ドッカー",
+   "aliases": [
+    "D3",
+    "E1"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Diamond Force pilot, later Emerald Force leader (VF-19S)",
+   "affiliation": [
+    "U.N. Spacy",
+    "Diamond Force",
+    "Emerald Force"
+   ],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Docker"
+   ],
+   "status": "verified",
+   "muf_role": "npc (his VF-19S is a playable unit)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 1,
+   "tf_uses": 10,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "kinryu",
+   "en": "Kinryu",
+   "ja": "金龍",
+   "aliases": [
+    "D1"
+   ],
+   "avoid": [
+    "Kinryuu"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Captain, Diamond Force leader",
+   "affiliation": [
+    "U.N. Spacy",
+    "Diamond Force"
+   ],
+   "personality": "",
+   "notes": "TF's pilot table writes 金竜.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Kinryu"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 3,
+   "ja_aliases": [
+    "金竜"
+   ],
+   "tf_added": true,
+   "tf_uses": 11,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "sally_saint_ford",
+   "en": "Sally Saint Ford",
+   "ja": "サリー・S・セントフォード",
+   "aliases": [
+    "Sally"
+   ],
+   "avoid": [
+    "Sally S. Saint-Clair"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Battle 7 bridge operator",
+   "affiliation": [
+    "37th Long Distance Colony Fleet"
+   ],
+   "personality": "",
+   "notes": "Japanese form not confirmed.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Sally_Saint_Ford"
+   ],
+   "status": "needs_check",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "miho_miho",
+   "en": "Miho Miho",
+   "ja": "美保美穂",
+   "aliases": [
+    "Miho"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Battle 7 bridge operator",
+   "affiliation": [
+    "37th Long Distance Colony Fleet"
+   ],
+   "personality": "",
+   "notes": "Japanese form not confirmed.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Miho_Miho"
+   ],
+   "status": "needs_check",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 1,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "gadget_m_chiba",
+   "en": "Gadget M. Chiba",
+   "ja": "Dr.千葉",
+   "aliases": [
+    "Dr. Chiba"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Scientist studying Song Energy / music therapy",
+   "affiliation": [
+    "37th Long Distance Colony Fleet"
+   ],
+   "personality": "Eccentric scientist obsessed with Basara's songs.",
+   "notes": "Japanese form not confirmed.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gadget_M._Chiba"
+   ],
+   "status": "needs_check",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "gubaba",
+   "en": "Gubaba",
+   "ja": "グババ",
+   "aliases": [
+    "Guvava"
+   ],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Gyarashi (alien pet)",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Mylene's furball pet",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Wiki uses 'his' in text but the infobox has no gender; use 'it'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gubaba"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 2,
+   "tf_role": "campus"
+  },
+  {
+   "id": "gigile",
+   "en": "Gigile",
+   "ja": "ギギル",
+   "aliases": [],
+   "avoid": [
+    "Gigil"
+   ],
+   "gender": "male",
+   "species": "Protodeviln",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Protodeviln warrior (pilots the Fz-109F Elgersoln)",
+   "affiliation": [
+    "Protodeviln",
+    "Varauta Army"
+   ],
+   "personality": "Brash, hot-headed, obsessed with Basara's song.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gigile"
+   ],
+   "status": "verified",
+   "muf_role": "pilot (enemy-side)",
+   "af_role": "pilot (playable)",
+   "af_uses": 13,
+   "tf_uses": 22,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "gavil",
+   "en": "Gavil",
+   "ja": "ガビル",
+   "aliases": [],
+   "avoid": [
+    "Gabil"
+   ],
+   "gender": "male",
+   "species": "Protodeviln",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Protodeviln commander",
+   "affiliation": [
+    "Protodeviln"
+   ],
+   "personality": "Theatrical; frames everything as an aesthetic (e.g. 'beauty of ...!').",
+   "notes": "Catchphrase pattern '<X>美' → '<X> Beauty!' (see terms.json).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gavil"
+   ],
+   "status": "verified",
+   "muf_role": "pilot (enemy-side)",
+   "af_role": "pilot (playable)",
+   "af_uses": 9,
+   "tf_uses": 16,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "glavil",
+   "en": "Glavil",
+   "ja": "グラビル",
+   "aliases": [],
+   "avoid": [
+    "Grabil"
+   ],
+   "gender": "unknown",
+   "species": "Protodeviln",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Gavil's monstrous partner (one body)",
+   "affiliation": [
+    "Protodeviln"
+   ],
+   "personality": "Bestial; only roars.",
+   "notes": "Gender unknown on wiki: use 'it'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Glavil"
+   ],
+   "status": "verified",
+   "muf_role": "unit (playable mecha)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 15,
+   "tf_uses": 17,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "sivil",
+   "en": "Sivil",
+   "ja": "シビル",
+   "aliases": [
+    "G3"
+   ],
+   "avoid": [
+    "Sybil"
+   ],
+   "gender": "female",
+   "species": "Protodeviln",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Protodeviln who becomes enamoured of Basara's song",
+   "affiliation": [
+    "Protodeviln"
+   ],
+   "personality": "Wild, nearly wordless; speaks in fragments.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Sivil"
+   ],
+   "status": "verified",
+   "muf_role": "pilot (enemy-side, new in MUF)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 1,
+   "tf_uses": 12,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "emilia_jenius",
+   "en": "Emilia Jenius",
+   "ja": "エミリア・ジーナス",
+   "aliases": [
+    "Emilia"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human/Zentradi",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Mylene's older sister",
+   "affiliation": [],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Emilia_Jenius"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 4,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "elma_hoilie",
+   "en": "Elma Hoilie",
+   "ja": "エルマ・ホイリー",
+   "aliases": [
+    "Elma"
+   ],
+   "avoid": [
+    "Elma Hoyly",
+    "Elma Hollie"
+   ],
+   "gender": "female",
+   "species": "Zolan",
+   "series": [
+    "Macross Dynamite 7"
+   ],
+   "position": "Zolan girl who befriends Basara and loves the Galaxy Whales",
+   "affiliation": [],
+   "personality": "Gentle, earnest young girl.",
+   "notes": "Wiki writes both 'Hoilie' and 'Hollie'; using the article title 'Hoilie'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Elma_Hoilie"
+   ],
+   "status": "needs_check",
+   "muf_role": "sub",
+   "tf_uses": 5,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "graham_hoilie",
+   "en": "Graham Hoilie",
+   "ja": "グラハム・ホイリー",
+   "aliases": [
+    "Graham"
+   ],
+   "avoid": [
+    "Graham Hoyly",
+    "Graham Hollie"
+   ],
+   "gender": "male",
+   "species": "Zolan",
+   "series": [
+    "Macross Dynamite 7"
+   ],
+   "position": "Elma's father; former whaler",
+   "affiliation": [],
+   "personality": "Gruff, troubled father.",
+   "notes": "No wiki article; spelling follows Elma/Liza's family field ('Hoilie'). Game page links 'Graham Hollie'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Elma_Hoilie",
+    "https://macross.fandom.com/wiki/Macross_Ultimate_Frontier"
+   ],
+   "status": "needs_check",
+   "muf_role": "pilot",
+   "tf_uses": 8,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "liza_hoilie",
+   "en": "Liza Hoilie",
+   "ja": "ライザ・ホイリー",
+   "aliases": [
+    "Liza"
+   ],
+   "avoid": [
+    "Raiza",
+    "Liza Hollie"
+   ],
+   "gender": "female",
+   "species": "Zolan",
+   "series": [
+    "Macross Dynamite 7"
+   ],
+   "position": "Officer, Zolan Star Patrol; Elma's older sister",
+   "affiliation": [
+    "Zolan Star Patrol"
+   ],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Liza_Hoilie"
+   ],
+   "status": "verified",
+   "muf_role": "npc (her VF-17D is a unit)",
+   "tf_uses": 8,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "aegis_focker",
+   "en": "Aegis Focker",
+   "ja": "エイジス・フォッカー",
+   "aliases": [
+    "Aegis",
+    "Angel Ace"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross VF-X2"
+   ],
+   "position": "Rookie ace of the VF-X Ravens",
+   "affiliation": [
+    "VF-X Ravens"
+   ],
+   "personality": "Gifted, free-wheeling, prideful and temperamental, devilish humour.",
+   "notes": "Japanese form not confirmed.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Aegis_Focker"
+   ],
+   "status": "needs_check",
+   "muf_role": "unknown (VF-X2 units appear; character presence unconfirmed)",
+   "tf_uses": 7,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "wilbur_garland",
+   "en": "Wilbur Garland",
+   "ja": "ウィルバー・ガーランド",
+   "aliases": [
+    "Wilbur"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross VF-X2"
+   ],
+   "position": "Colonel, commander of VF-X special forces including the Ravens",
+   "affiliation": [
+    "VF-X Ravens"
+   ],
+   "personality": "Silent, calm, excellent judgment.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Wilbur_Garland"
+   ],
+   "status": "verified",
+   "muf_role": "npc (his VF-22 is a unit)",
+   "tf_uses": 6,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "mariafokina_barnrose",
+   "en": "Mariafokina Barnrose",
+   "ja": "マリアフォキナ・バンローズ",
+   "aliases": [
+    "Barnrose"
+   ],
+   "avoid": [
+    "Vanrose",
+    "Van Rose"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross VF-X2"
+   ],
+   "position": "Ace pilot and leader of Vindirance",
+   "affiliation": [
+    "Vindirance"
+   ],
+   "personality": "",
+   "notes": "In-game unit name is バンローズ機 → 'Barnrose's' / 'Barnrose Custom'. No character wiki page fetched.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Vindirance"
+   ],
+   "status": "needs_check",
+   "muf_role": "npc (her VF-1S custom is a unit)",
+   "tf_uses": 3,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "gilliam_angreat",
+   "en": "Gilliam Angreat",
+   "ja": "ギリアム・アングレート",
+   "aliases": [
+    "Gilliam"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross VF-X2"
+   ],
+   "position": "Major, VF-X Ravens",
+   "affiliation": [
+    "VF-X Ravens"
+   ],
+   "personality": "",
+   "notes": "Japanese form not confirmed.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gilliam_Angreat"
+   ],
+   "status": "needs_check",
+   "muf_role": "unknown",
+   "tf_uses": 6,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "alto_saotome",
+   "en": "Alto Saotome",
+   "ja": "早乙女アルト",
+   "aliases": [
+    "Alto",
+    "Skull 4",
+    "Princess (teasing nickname)"
+   ],
+   "avoid": [
+    "Saotome Alto"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Mihoshi Academy pilot-course student, joins S.M.S. Skull Squadron (VF-25F)",
+   "affiliation": [
+    "S.M.S.",
+    "Skull Squadron",
+    "Mihoshi Academy"
+   ],
+   "personality": "Aloof and standoffish; former kabuki actor who longs for the real sky. Hates being called 'princess'.",
+   "notes": "Male despite feminine looks and nickname 'Hime'/'Princess'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Alto_Saotome"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "アルト"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 23,
+   "tf_uses": 100,
+   "tf_campus_uses": 423,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "ranka_lee",
+   "en": "Ranka Lee",
+   "ja": "ランカ・リー",
+   "aliases": [
+    "Ranka",
+    "Super Dimension Cinderella"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human (Zentradi quarter)",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Nyan-Nyan waitress turned idol singer",
+   "affiliation": [
+    "Nyan-Nyan",
+    "Mihoshi Academy"
+   ],
+   "personality": "Lively, upbeat, optimistic; has a crush on Alto; past trauma.",
+   "notes": "Ozma is her adoptive brother; Brera her biological brother.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Ranka_Lee"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "ランカ"
+   ],
+   "muf_role": "sub (also tutorial host)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 3,
+   "tf_uses": 117,
+   "tf_campus_uses": 728,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "sheryl_nome",
+   "en": "Sheryl Nome",
+   "ja": "シェリル・ノーム",
+   "aliases": [
+    "Sheryl",
+    "Galactic Fairy"
+   ],
+   "avoid": [
+    "Cheryl Nome"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Galactic superstar singer from the Macross Galaxy fleet",
+   "affiliation": [
+    "Macross Galaxy"
+   ],
+   "personality": "Beautiful, proud and self-assured; confident through her music.",
+   "notes": "銀河の妖精 → 'Galactic Fairy'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Sheryl_Nome"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "シェリル"
+   ],
+   "muf_role": "sub (also tutorial host)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 2,
+   "tf_uses": 111,
+   "tf_campus_uses": 646,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "michael_blanc",
+   "en": "Michael Blanc",
+   "ja": "ミハエル・ブラン",
+   "aliases": [
+    "Michel",
+    "Mikhail",
+    "Skull 2"
+   ],
+   "avoid": [
+    "Mihael",
+    "Michael Blank"
+   ],
+   "gender": "male",
+   "species": "Human (Zolan descent)",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Second Lieutenant, S.M.S. Skull Squadron sniper (VF-25G)",
+   "affiliation": [
+    "S.M.S.",
+    "Skull Squadron",
+    "Mihoshi Academy"
+   ],
+   "personality": "Brilliant sniper and ladies' man; teasing but loyal; Klan's childhood friend.",
+   "notes": "Friends call him 'Michel' (ミシェル). Use 'Michel' where the Japanese has ミシェル.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Michael_Blanc"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "ミシェル",
+    "ミハエル"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 15,
+   "tf_uses": 63,
+   "tf_campus_uses": 831,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "luca_angeloni",
+   "en": "Luca Angeloni",
+   "ja": "ルカ・アンジェローニ",
+   "aliases": [
+    "Luca",
+    "Skull 3"
+   ],
+   "avoid": [
+    "Luca Angelloni",
+    "Ruka"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "S.M.S. Skull Squadron electronic-warfare pilot (RVF-25); heir to L.A.I.",
+   "affiliation": [
+    "S.M.S.",
+    "Skull Squadron",
+    "Mihoshi Academy"
+   ],
+   "personality": "Thoughtful, mature for his age, polite; crush on Nanase.",
+   "notes": "Wiki also links 'Angelloni'; article title is 'Angeloni'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Luca_Angeloni"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "ルカ"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 28,
+   "tf_uses": 106,
+   "tf_campus_uses": 442,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "ozma_lee",
+   "en": "Ozma Lee",
+   "ja": "オズマ・リー",
+   "aliases": [
+    "Ozma",
+    "Skull Leader",
+    "Major Ozma"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Major, S.M.S. Skull Squadron leader (VF-25S)",
+   "affiliation": [
+    "S.M.S.",
+    "Skull Squadron"
+   ],
+   "personality": "Strict but fair, hot-blooded; overprotective of Ranka; huge Fire Bomber fan.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Ozma_Lee"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "オズマ"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 16,
+   "tf_uses": 61,
+   "tf_campus_uses": 99,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "klan_klang",
+   "en": "Klan Klang",
+   "ja": "クラン・クラン",
+   "aliases": [
+    "Klan",
+    "Pixie Leader"
+   ],
+   "avoid": [
+    "Clan Clang",
+    "Kuran Kuran"
+   ],
+   "gender": "female",
+   "species": "Zentradi (Meltrandi)",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Captain/leader of S.M.S. Pixie Team (Queadluun-Rhea)",
+   "affiliation": [
+    "S.M.S.",
+    "Pixie Team"
+   ],
+   "personality": "Serious professional ace when macronized; child-like when micronized; hides her feelings for Michel.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Klan_Klang"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "クラン",
+    "クラン・クラン（マイクローン）",
+    "クラン（マイクローン）"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 21,
+   "tf_uses": 80,
+   "tf_campus_uses": 540,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "nene_rora",
+   "en": "Nene Rora",
+   "ja": "ネネ・ローラ",
+   "aliases": [
+    "Nene"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Zentradi",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Pixie Team pilot",
+   "affiliation": [
+    "S.M.S.",
+    "Pixie Team"
+   ],
+   "personality": "Calm, gentle, kind.",
+   "notes": "Japanese form not confirmed.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Nene_Rora"
+   ],
+   "status": "needs_check",
+   "muf_role": "unknown",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 5,
+   "tf_uses": 12,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "raramia_rerenia",
+   "en": "Raramia Rerenia",
+   "ja": "ララミア・レレニア",
+   "aliases": [
+    "Raramia"
+   ],
+   "avoid": [
+    "Lalamia Lelenia"
+   ],
+   "gender": "female",
+   "species": "Zentradi",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Pixie Team pilot",
+   "affiliation": [
+    "S.M.S.",
+    "Pixie Team"
+   ],
+   "personality": "Tomboyish, speaks with her gaze rather than words.",
+   "notes": "Wiki title is 'Raramia Rerenia' (notes 'Lalamia Lelenia' as alternate).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Raramia_Rerenia"
+   ],
+   "status": "needs_check",
+   "muf_role": "unknown",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 5,
+   "tf_uses": 9,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "jeffrey_wilder",
+   "en": "Jeffrey Wilder",
+   "ja": "ジェフリー・ワイルダー",
+   "aliases": [
+    "Captain Wilder",
+    "Wilder"
+   ],
+   "avoid": [
+    "Jeffery Wilder"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Captain of the Macross Quarter (S.M.S.)",
+   "affiliation": [
+    "S.M.S."
+   ],
+   "personality": "Gruff, expert tactician on the bridge; ex-surfer with a sense of humour; cares for his crew.",
+   "notes": "Spelling confirmed by user 2026-10-15. Wiki article title is 'Jeffery Wilder' but its infobox 'english' field and the katakana ジェフリー give 'Jeffrey'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Jeffery_Wilder"
+   ],
+   "status": "decided",
+   "muf_role": "pilot (new in MUF)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 27,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "monica_lang",
+   "en": "Monica Lang",
+   "ja": "モニカ・ラング",
+   "aliases": [
+    "Monica"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Chief bridge operator, Macross Quarter",
+   "affiliation": [
+    "S.M.S."
+   ],
+   "personality": "Openly smitten with Captain Wilder.",
+   "notes": "Gender implied by wiki text.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Monica_Lang"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "mina_roshan",
+   "en": "Mina Roshan",
+   "ja": "ミーナ・ローシャン",
+   "aliases": [
+    "Mina"
+   ],
+   "avoid": [
+    "Mina Rojo"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Bridge operator, Macross Quarter",
+   "affiliation": [
+    "S.M.S."
+   ],
+   "personality": "Genius (IQ 180), proud of it, a little out of step with others.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Mina_Roshan"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "ram_hoa",
+   "en": "Ram Hoa",
+   "ja": "ラム・ホア",
+   "aliases": [
+    "Ram"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Bridge operator (comms and main weapons), Macross Quarter",
+   "affiliation": [
+    "S.M.S."
+   ],
+   "personality": "Youngest of the bridge officers, terse, can be catty.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Ram_Hoa"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "bobby_margot",
+   "en": "Bobby Margot",
+   "ja": "ボビー・マルゴ",
+   "aliases": [
+    "Bobby"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Helmsman of the Macross Quarter",
+   "affiliation": [
+    "S.M.S."
+   ],
+   "personality": "Flamboyant, camp, joke-loving; gives relationship advice; hot-headed in battle.",
+   "notes": "Speaks in feminine Japanese (onee-kotoba). Keep the flamboyance; do not change his gender.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bobby_Margot"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 6,
+   "tf_campus_uses": 3,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "catherine_glass",
+   "en": "Catherine Glass",
+   "ja": "キャサリン・グラス",
+   "aliases": [
+    "Cathy",
+    "Lt. Glass"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Lieutenant, N.U.N.S. liaison, later Macross Quarter bridge officer; President's daughter",
+   "affiliation": [
+    "New United Nations Spacy",
+    "S.M.S."
+   ],
+   "personality": "Initially stiff and hostile, softens over time; Ozma's ex.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Catherine_Glass"
+   ],
+   "status": "verified",
+   "muf_role": "npc (listed on English wiki game page)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "ja_aliases": [
+    "キャシー",
+    "キャサリン"
+   ],
+   "tf_added": true,
+   "tf_uses": 3,
+   "tf_campus_uses": 34,
+   "tf_role": "operator, campus"
+  },
+  {
+   "id": "howard_glass",
+   "en": "Howard Glass",
+   "ja": "ハワード・グラス",
+   "aliases": [
+    "President Glass"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "President of the Macross Frontier fleet",
+   "affiliation": [
+    "New United Nations Government"
+   ],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Howard_Glass"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 2,
+   "tf_role": "campus"
+  },
+  {
+   "id": "leon_mishima",
+   "en": "Leon Mishima",
+   "ja": "レオン・三島",
+   "aliases": [
+    "Leon"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Presidential chief of staff; conspirator",
+   "affiliation": [
+    "New United Nations Government"
+   ],
+   "personality": "Ambitious schemer.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Leon_Mishima"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "grace_oconnor",
+   "en": "Grace O'Connor",
+   "ja": "グレイス・オコナー",
+   "aliases": [
+    "Grace"
+   ],
+   "avoid": [
+    "Grace O'Conner"
+   ],
+   "gender": "female",
+   "species": "Human (cyborg)",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Sheryl's manager; secretly a Macross Galaxy conspirator",
+   "affiliation": [
+    "Macross Galaxy"
+   ],
+   "personality": "Gentle on the surface, cold and calculating underneath.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Grace_O'Connor"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "グレイス"
+   ],
+   "muf_role": "npc (not playable as a player pilot)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 1,
+   "tf_uses": 32,
+   "tf_campus_uses": 52,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "brera_sterne",
+   "en": "Brera Sterne",
+   "ja": "ブレラ・スターン",
+   "aliases": [
+    "Brera"
+   ],
+   "avoid": [
+    "Burera"
+   ],
+   "gender": "male",
+   "species": "Human (cyborg)",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Major, Macross Galaxy cyborg pilot (VF-27γ Lucifer); Ranka's brother",
+   "affiliation": [
+    "Macross Galaxy"
+   ],
+   "personality": "Cold, emotionless, controlled by Grace; protective of Ranka.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Brera_Sterne"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "ブレラ"
+   ],
+   "muf_role": "pilot",
+   "af_role": "pilot (playable)",
+   "af_uses": 15,
+   "tf_uses": 48,
+   "tf_campus_uses": 39,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "nanase_matsuura",
+   "en": "Nanase Matsuura",
+   "ja": "松浦ナナセ",
+   "aliases": [
+    "Nanase",
+    "Nana-chan"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Nyan-Nyan waitress, Ranka's best friend",
+   "affiliation": [
+    "Nyan-Nyan",
+    "Mihoshi Academy"
+   ],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Nanase_Matsuura"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "ja_aliases": [
+    "ナナセ"
+   ],
+   "tf_added": true,
+   "tf_uses": 6,
+   "tf_campus_uses": 388,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "elmo_kridanik",
+   "en": "Elmo Kridanik",
+   "ja": "エルモ・クリダニク",
+   "aliases": [
+    "Elmo"
+   ],
+   "avoid": [
+    "Elmo Kirdanik"
+   ],
+   "gender": "male",
+   "species": "Zentradi",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "President of Vector Productions, Ranka's agent",
+   "affiliation": [
+    "Vector Productions"
+   ],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Elmo_Kridanik"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "richard_bilrer",
+   "en": "Richard Bilrer",
+   "ja": "リチャード・ビルラー",
+   "aliases": [
+    "Mr. Bilrer"
+   ],
+   "avoid": [
+    "Birler"
+   ],
+   "gender": "male",
+   "species": "Zentradi",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Founder of S.M.S.",
+   "affiliation": [
+    "S.M.S."
+   ],
+   "personality": "",
+   "notes": "Wiki article title is 'Richard Birler' but the text says 'Bilrer'; needs a decision.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Richard_Birler"
+   ],
+   "status": "needs_check",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "ai_kun",
+   "en": "Ai-kun",
+   "ja": "アイくん",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Vajra (larva)",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Ranka's pet",
+   "affiliation": [],
+   "personality": "Affectionate, clingy.",
+   "notes": "Wiki gender unknown: use 'it'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Ai-kun"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "ranshe_mei",
+   "en": "Ranshe Mei",
+   "ja": "ランシェ・メイ",
+   "aliases": [],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human/Zentradi",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Ranka and Brera's late mother",
+   "affiliation": [],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Ranshe_Mei"
+   ],
+   "status": "verified",
+   "muf_role": "unknown",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "ishtar",
+   "en": "Ishtar",
+   "ja": "イシュタル",
+   "aliases": [],
+   "avoid": [],
+   "gender": "female",
+   "species": "Mardook (Emulator)",
+   "series": [
+    "Macross II"
+   ],
+   "position": "Mardook Emulator (war singer) who defects to humanity",
+   "affiliation": [
+    "Mardook"
+   ],
+   "personality": "Innocent and curious about human culture.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Ishtar"
+   ],
+   "status": "verified",
+   "muf_role": "sub",
+   "tf_uses": 23,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "hibiki_kanzaki",
+   "en": "Hibiki Kanzaki",
+   "ja": "神崎ヒビキ",
+   "aliases": [
+    "Hibiki"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross II"
+   ],
+   "position": "SNN reporter",
+   "affiliation": [
+    "Scramble News Network"
+   ],
+   "personality": "",
+   "notes": "Japanese form not confirmed.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Hibiki_Kanzaki"
+   ],
+   "status": "needs_check",
+   "muf_role": "unknown",
+   "ja_aliases": [
+    "ヒビキ"
+   ],
+   "tf_added": true,
+   "tf_uses": 19,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "silvie_gena",
+   "en": "Silvie Gena",
+   "ja": "シルビー・ジーナ",
+   "aliases": [
+    "Silvie"
+   ],
+   "avoid": [
+    "Sylvie"
+   ],
+   "gender": "female",
+   "species": "Human (Meltrandi descent)",
+   "series": [
+    "Macross II"
+   ],
+   "position": "Ace VF-2SS pilot, Faerie Squadron commander",
+   "affiliation": [
+    "U.N. Spacy"
+   ],
+   "personality": "Reckless fighter but disciplined; no patience for fools.",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Silvie_Gena"
+   ],
+   "status": "verified",
+   "muf_role": "npc (listed on English wiki game page)",
+   "ja_aliases": [
+    "シルビー"
+   ],
+   "tf_added": true,
+   "tf_uses": 25,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "nexx_gilbert",
+   "en": "Nexx Gilbert",
+   "ja": "ネックス・ギルバート",
+   "aliases": [
+    "Nexx"
+   ],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross II"
+   ],
+   "position": "U.N. Spacy ace pilot",
+   "affiliation": [
+    "U.N. Spacy"
+   ],
+   "personality": "",
+   "notes": "Japanese form not confirmed.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Nexx_Gilbert"
+   ],
+   "status": "needs_check",
+   "muf_role": "npc (listed on English wiki game page)",
+   "tf_uses": 8,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "feff",
+   "en": "Feff",
+   "ja": "フェフ",
+   "aliases": [],
+   "avoid": [],
+   "gender": "male",
+   "species": "Mardook",
+   "series": [
+    "Macross II"
+   ],
+   "position": "Mardook commander (Gigamesh Feff Type)",
+   "affiliation": [
+    "Mardook"
+   ],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Feff"
+   ],
+   "status": "verified",
+   "muf_role": "npc (his Gigamesh is a unit)",
+   "tf_uses": 14,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "gepelnitchi",
+   "en": "Gepelnitchi",
+   "ja": "ゲペルニッチ",
+   "aliases": [
+    "Lord Gepelnitchi"
+   ],
+   "avoid": [
+    "Geperuniti",
+    "Geppelnich",
+    "Geperunichi"
+   ],
+   "gender": "male",
+   "species": "Protodeviln",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Leader of the Protodeviln",
+   "affiliation": [
+    "Protodeviln",
+    "Varauta Army"
+   ],
+   "personality": "Grandiose, dreams of 'Spiritia Farm' to end their hunger.",
+   "notes": "The wiki page 'Geperuniti' is a vandalised stub; the real article is 'Gepelnitchi'. Infobox gender: male. Rank: Lord.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gepelnitchi"
+   ],
+   "status": "verified",
+   "ja_aliases": [
+    "ゲペルニッチ"
+   ],
+   "muf_role": "pilot (enemy-side)",
+   "af_role": "pilot table (AI or enemy, not playable)",
+   "af_uses": 16,
+   "tf_uses": 27,
+   "tf_campus_uses": 0,
+   "tf_role": "pilot table"
+  },
+  {
+   "id": "canaria_berstein",
+   "en": "Canaria Berstein",
+   "ja": "カナリア・ベルシュタイン",
+   "aliases": [],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "S.M.S. medical officer and VB-6 Konig Monster pilot",
+   "affiliation": [],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Canaria_Berstein"
+   ],
+   "status": "verified",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "ja_aliases": [
+    "カナリア"
+   ],
+   "tf_added": true,
+   "tf_uses": 29,
+   "tf_campus_uses": 25,
+   "tf_role": "pilot table, campus"
+  },
+  {
+   "id": "henry_gilliam",
+   "en": "Henry Gilliam",
+   "ja": "ヘンリー・ギリアム",
+   "aliases": [],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "S.M.S. Skull Squadron pilot",
+   "affiliation": [],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Henry_Gilliam"
+   ],
+   "status": "verified",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 1,
+   "tf_uses": 3,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "manfred_brando",
+   "en": "Manfred Brando",
+   "ja": "マンフレート・ブランド",
+   "aliases": [],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross VF-X2"
+   ],
+   "position": "President of Critical Path Corporation (villain)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Manfred_Brando"
+   ],
+   "status": "verified",
+   "muf_role": "npc (mission unit label / profile)",
+   "tf_uses": 1,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "physica_s_fulcrum",
+   "en": "Physica S. Fulcrum",
+   "ja": "フィジカ・S・ファルクラム",
+   "aliases": [],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Diamond Force pilot",
+   "affiliation": [],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Physica_S._Fulcrum"
+   ],
+   "status": "verified",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 1,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "suzie_newtlet",
+   "en": "Suzie Newtlet",
+   "ja": "スージー・ニュートレット",
+   "aliases": [],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross VF-X2"
+   ],
+   "position": "VF-X Ravens member",
+   "affiliation": [],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Suzie_Newtlet"
+   ],
+   "status": "verified",
+   "muf_role": "npc (mission unit label / profile)",
+   "tf_uses": 2,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "shun_toma",
+   "en": "Shun Toma",
+   "ja": "トーマ・シュン",
+   "aliases": [],
+   "avoid": [],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross VF-X2"
+   ],
+   "position": "Lieutenant, VF-X Ravens",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Game writes family name first (トーマ・シュン).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Shun_Toma"
+   ],
+   "status": "verified",
+   "muf_role": "npc (mission unit label / profile)",
+   "tf_uses": 1,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "irina_hayakawa",
+   "en": "Irina Hayakawa",
+   "ja": "イリーナ 早川",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Leader of the Irina Squad (Ixen Unit)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "",
+   "sources": [
+    "https://macross.fandom.com/wiki/Irina_Hayakawa"
+   ],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 2,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "matthew_langley",
+   "en": "Matthew Langley",
+   "ja": "マシュー・ラングレー",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross Zero?"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "tf_uses": 1,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "maria_velazquez_hoilie",
+   "en": "Maria Velasquez Hoilie",
+   "ja": "マリア・ベラスケス・ホイリー",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross Dynamite 7"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "tf_uses": 1,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "chlore",
+   "en": "Chlore",
+   "ja": "クロレ",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 10,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "temjin",
+   "en": "Temjin",
+   "ja": "テムジン",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 1,
+   "tf_uses": 5,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "ortek",
+   "en": "Ortek",
+   "ja": "オルテック",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 2,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "matthews",
+   "en": "Matthews",
+   "ja": "マシューズ",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 1,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "dick",
+   "en": "Dick",
+   "ja": "ディック",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 3,
+   "tf_uses": 2,
+   "tf_campus_uses": 2,
+   "tf_role": "campus"
+  },
+  {
+   "id": "molly",
+   "en": "Molly",
+   "ja": "モーリー",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 3,
+   "tf_uses": 1,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "scott",
+   "en": "Scott",
+   "ja": "スコット",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 2,
+   "tf_campus_uses": 3,
+   "tf_role": "campus"
+  },
+  {
+   "id": "kannara",
+   "en": "Kannara",
+   "ja": "神楢",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 2,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "nepias",
+   "en": "Nepias",
+   "ja": "ネピアス",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 2,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "kariba",
+   "en": "Kariba",
+   "ja": "カリバ",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross Dynamite 7"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "mentioned (mission text or unit list)",
+   "af_uses": 2,
+   "tf_uses": 8,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "oigul",
+   "en": "Oigul",
+   "ja": "オイグル",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross 7"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 3,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "maruyama",
+   "en": "Maruyama",
+   "ja": "マルヤマ",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 3,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "jun",
+   "en": "Jun",
+   "ja": "ジュン",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Minor unit pilot (mission unit list)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Spelling from the UI translation; not confirmed on the wiki. Gender unknown: use neutral wording.",
+   "sources": [],
+   "status": "needs_check",
+   "muf_role": "npc (mission unit label / profile)",
+   "af_role": "not seen in AF text",
+   "af_uses": 0,
+   "tf_uses": 3,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "saori_kujo",
+   "en": "Saori Kujo",
+   "ja": "九條 沙織",
+   "aliases": [
+    "Saori"
+   ],
+   "avoid": [
+    "Saori Kujou",
+    "Saori Kujyo"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross II"
+   ],
+   "position": "Valkyrie II pilot, Faerie Squadron",
+   "affiliation": [
+    "U.N. Spacy",
+    "Faerie Squadron"
+   ],
+   "personality": "Interested in Nexx Gilbert and always looking for a way to get closer to him.",
+   "notes": "Macross II calls her only Saori; the surname 九條 comes from TF's unit lists. Romanised without the long vowel (Kujo), as Shin Kudo.",
+   "sources": [
+    "https://myanimelist.net/character/70269"
+   ],
+   "status": "provisional",
+   "tf_role": "allied / enemy pilot in the Macross II missions (m2_010, m2_080)",
+   "tf_added": true,
+   "tf_uses": 2,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "amy_rock",
+   "en": "Amy Rock",
+   "ja": "エイミー・ロック",
+   "aliases": [
+    "Amy"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross II"
+   ],
+   "position": "Valkyrie II pilot, Faerie Squadron",
+   "affiliation": [
+    "U.N. Spacy",
+    "Faerie Squadron"
+   ],
+   "personality": "",
+   "notes": "Macross II calls her only Amy; the surname ロック comes from TF's unit lists. 'Rock' is the plain reading; no source spelling found.",
+   "sources": [
+    "https://myanimelist.net/character/37441"
+   ],
+   "status": "provisional",
+   "tf_role": "allied / enemy pilot in the Macross II missions",
+   "tf_added": true,
+   "tf_uses": 3,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "nastasha_toto",
+   "en": "Nastasha Toto",
+   "ja": "ナスターシャ・トート",
+   "aliases": [
+    "Nastasha"
+   ],
+   "avoid": [
+    "Natasha"
+   ],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross II"
+   ],
+   "position": "Pilot (Faerie Squadron in TF; also flies the Proto Metal Siren at the Moon Festival)",
+   "affiliation": [
+    "U.N. Spacy"
+   ],
+   "personality": "",
+   "notes": "Macross II credits a Nastasha (voice: Yumi Hikita). The surname トート comes from TF; the reading Toto / Tote / Thoth is a guess. Decide before translating the Macross II missions.",
+   "sources": [],
+   "status": "needs_check",
+   "tf_role": "allied / enemy pilot in the Macross II missions (m2_010, m2_030, m2_080, me_430, me_520)",
+   "tf_added": true,
+   "tf_uses": 6,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "ingues",
+   "en": "Ingues",
+   "ja": "イングス",
+   "aliases": [],
+   "avoid": [],
+   "gender": "male",
+   "species": "Mardook",
+   "series": [
+    "Macross II"
+   ],
+   "position": "Mardook commander",
+   "affiliation": [
+    "Mardook"
+   ],
+   "personality": "",
+   "notes": "Listed on the Macross Wiki Macross II page under Mardook. Gender from the anime; check the wiki page if it is created.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Super_Dimensional_Fortress_Macross_II:_Lovers_Again"
+   ],
+   "status": "wiki",
+   "tf_role": "enemy (Mardook flagship, m2_061, me_720)",
+   "tf_added": true,
+   "tf_uses": 2,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "luca_ghost_simon",
+   "en": "Simon",
+   "ja": "シモン",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "QF-4000 Ghost drone",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Luca's Ghost drone",
+   "affiliation": [
+    "S.M.S."
+   ],
+   "personality": "",
+   "notes": "Luca names his three Ghosts after apostles: Simon, John and Peter (wiki). MUF shipped the same three names.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Luca_Angeloni"
+   ],
+   "status": "wiki",
+   "tf_role": "allied unit label",
+   "tf_added": true,
+   "tf_uses": 3,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "luca_ghost_john",
+   "en": "John",
+   "ja": "ヨハネ",
+   "aliases": [],
+   "avoid": [
+    "Johannes",
+    "Johanne"
+   ],
+   "gender": "unknown",
+   "species": "QF-4000 Ghost drone",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Luca's Ghost drone",
+   "affiliation": [
+    "S.M.S."
+   ],
+   "personality": "",
+   "notes": "See Simon. Wiki and MUF: John.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Luca_Angeloni"
+   ],
+   "status": "wiki",
+   "tf_role": "allied unit label",
+   "tf_added": true,
+   "tf_uses": 3,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "luca_ghost_peter",
+   "en": "Peter",
+   "ja": "ペテロ",
+   "aliases": [],
+   "avoid": [
+    "Petro"
+   ],
+   "gender": "unknown",
+   "species": "QF-4000 Ghost drone",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Luca's Ghost drone",
+   "affiliation": [
+    "S.M.S."
+   ],
+   "personality": "",
+   "notes": "See Simon.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Luca_Angeloni"
+   ],
+   "status": "wiki",
+   "tf_role": "allied unit label",
+   "tf_added": true,
+   "tf_uses": 3,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "yasaburo",
+   "en": "Yasaburo",
+   "ja": "矢三郎",
+   "aliases": [],
+   "avoid": [
+    "Yasaburou"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Kabuki actor of the Saotome school, Alto's elder disciple-brother",
+   "affiliation": [
+    "Saotome kabuki school"
+   ],
+   "personality": "Calm, devoted to Alto's father.",
+   "notes": "No long vowel in romaji, as Kudo.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Alto_Saotome"
+   ],
+   "status": "provisional",
+   "tf_role": "campus speaker",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "ranzo_saotome",
+   "en": "Ranzo Saotome",
+   "ja": "嵐蔵",
+   "aliases": [
+    "Ranzo"
+   ],
+   "avoid": [
+    "Ranzou"
+   ],
+   "gender": "male",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Kabuki master, Alto's father",
+   "affiliation": [
+    "Saotome kabuki school"
+   ],
+   "personality": "Strict, traditional.",
+   "notes": "The campus name plate says 嵐蔵 only: 'Ranzo'.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Alto_Saotome"
+   ],
+   "status": "provisional",
+   "tf_role": "campus speaker",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "ars",
+   "en": "Ars",
+   "ja": "アルス",
+   "aliases": [],
+   "avoid": [],
+   "gender": "unknown",
+   "species": "Mardook",
+   "series": [
+    "Macross II"
+   ],
+   "position": "Mardook (his ship is a mission target)",
+   "affiliation": [
+    "Mardook"
+   ],
+   "personality": "",
+   "notes": "No wiki page found; spelling from the prefilled MUF profile translation. Neutral wording until checked.",
+   "sources": [],
+   "status": "provisional",
+   "tf_added": true,
+   "tf_uses": 5,
+   "tf_campus_uses": 0,
+   "tf_role": ""
+  },
+  {
+   "id": "jessica_blanc",
+   "en": "Jessica",
+   "ja": "ジェシカ",
+   "aliases": [
+    "Jessica Blanc"
+   ],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Michel's late elder sister, a sniper",
+   "affiliation": [
+    "S.M.S."
+   ],
+   "personality": "",
+   "notes": "Named in Klan's childhood memory (campus).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Michael_Blanc"
+   ],
+   "status": "wiki",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 2,
+   "tf_role": "campus"
+  },
+  {
+   "id": "janice_merin",
+   "en": "Janice Merin",
+   "ja": "ジャニス・メリン",
+   "aliases": [],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Actress; subject of a book in Akimizu's scenes (c15174)",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Mentioned only. Added 2026-10-17 (campus batch 11); unverified.",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 2,
+   "tf_role": "campus"
+  },
+  {
+   "id": "miranda_merin",
+   "en": "Miranda Merin",
+   "ja": "ミランダ",
+   "aliases": [],
+   "avoid": [],
+   "gender": "female",
+   "species": "Human",
+   "series": [
+    "Macross Frontier"
+   ],
+   "position": "Mihoshi Academy Performing Arts Course student (Macross Frontier); related to Janice Merin",
+   "affiliation": [],
+   "personality": "",
+   "notes": "Mentioned only. Added 2026-10-17 (campus batch 11); unverified.",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 2,
+   "tf_role": "campus"
+  }
+ ]
+}

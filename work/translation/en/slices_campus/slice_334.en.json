@@ -1,0 +1,480 @@
+{
+ "slice": 334,
+ "rows_in_slice": 77,
+ "rows_examined": 77,
+ "rows": [
+  {
+   "id": "c24197",
+   "en": "Never slack off on your efforts. Work hard!",
+   "flags": [],
+   "notes": "Hilda, end of the trial-course extra lesson."
+  },
+  {
+   "id": "c24198",
+   "en": "(I'd better review this properly later\nso I don't forget what I learned today.)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c24199",
+   "en": "(I can't believe it's already been over a year\nsince I started at Mihoshi Academy High School.)",
+   "flags": [],
+   "notes": "x18: the player's monologue in both versions (and a 'single' copy). The extractor also files 14 pushes of this pool string under '???' speakers between their lines; it reads as the player's line, so it is kept gender-neutral and in the player's voice."
+  },
+  {
+   "id": "c24200",
+   "en": "(Sigh... Time really flies...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24201",
+   "en": "(This past year I even ended up joining S.M.S.\nIt's been one whirlwind of a year...\nNo wonder the time seems to have flown by.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24202",
+   "en": "Hey, what's with that spaced-out look,\n\\p?",
+   "flags": [],
+   "notes": "??? (man) = Alto (his caption follows; the player answers him)."
+  },
+  {
+   "id": "c24203",
+   "en": "Alto Saotome\nA former kabuki prodigy who played female roles.\nHis looks earned him the nickname 'Princess Alto.'",
+   "flags": [],
+   "notes": "Commentary caption. Arutohime = 'Princess Alto' (u4247)."
+  },
+  {
+   "id": "c24204",
+   "en": "I was just thinking it's really been over\na year since I started at Mihoshi.",
+   "flags": [],
+   "notes": "Player to Alto."
+  },
+  {
+   "id": "c24205",
+   "en": "Now that you mention it...\nIt's already been a year since I switched\nto the Pilot Course, huh...",
+   "flags": [],
+   "notes": "Alto. Tenka = transferring course (Pilot Course per glossary)."
+  },
+  {
+   "id": "c24206",
+   "en": "Whoa, whoa.\nWhy are you getting all nostalgic too, Alto?",
+   "flags": [],
+   "notes": "??? (man) = Michel (his caption follows)."
+  },
+  {
+   "id": "c24207",
+   "en": "Michael Blanc\nAn honor student with the top grades in the Pilot\nCourse. Loves teasing Alto until he blows up.",
+   "flags": [],
+   "notes": "Full name as in the Japanese (Mihaeru), glossary 'Michael Blanc'."
+  },
+  {
+   "id": "c24208",
+   "en": "Well, it really has gone by fast, though.\nI remember starting at Mihoshi\nlike it was only yesterday.",
+   "flags": [],
+   "notes": "??? (man) = Luca (his caption follows)."
+  },
+  {
+   "id": "c24209",
+   "en": "Luca Angeloni\nHeir to the major corporation L.A.I.\nSkipped grades and is a whiz with computers.",
+   "flags": [],
+   "notes": "Onzoushi = son and heir of a big company."
+  },
+  {
+   "id": "c24210",
+   "en": "There were so many fun events, like the Culture\nFest, that the time just flew by, didn't it?",
+   "flags": [],
+   "notes": "Bunkasai = Culture Fest (glossary)."
+  },
+  {
+   "id": "c24211",
+   "en": "I go to a different school from all of you...\nI wish I'd gone to Mihoshi with everyone~",
+   "flags": [],
+   "notes": "??? (woman) = Ranka (her caption follows)."
+  },
+  {
+   "id": "c24212",
+   "en": "Ranka Lee\nA girl who loves to sing and dreams of becoming\na singer. A huge fan of top idol Sheryl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24213",
+   "en": "Going to a different school doesn't matter,\nRanka-san! Just having tea with you like this\nis a big event for me!!",
+   "flags": [],
+   "notes": "??? (woman) = Nanase (her caption follows)."
+  },
+  {
+   "id": "c24214",
+   "en": "Nanase Matsuura\nA classmate in the Mihoshi Academy Art Course.\nAdores Ranka and works with her at Nyan-Nyan.",
+   "flags": [],
+   "notes": "Geijutsuka = 'Art Course' (glossary, decided 2026-10-17)."
+  },
+  {
+   "id": "c24215",
+   "en": "Th-that's right!\nFor me too, having tea with Michel and everyone...",
+   "flags": [],
+   "notes": "??? (woman) = Klan, micronized (her caption follows). Trails off as in the Japanese."
+  },
+  {
+   "id": "c24216",
+   "en": "Klan Klang\nHas a 'clumsy gene' that makes her childlike when\nmicronized. Michel's childhood friend.",
+   "flags": [],
+   "notes": "Bukiyou idenshi = 'clumsy gene' (cf. u3214)."
+  },
+  {
+   "id": "c24217",
+   "en": "...Personally, I'd rather be enjoying tea\nwith some more beautiful older ladies.",
+   "flags": [],
+   "notes": "Michel teasing Klan."
+  },
+  {
+   "id": "c24218",
+   "en": "Grr... Michel!\nYou two-timing cad! Stay right there!!",
+   "flags": [],
+   "notes": "Futei = unfaithful; soko ni naore = stay there and take your punishment."
+  },
+  {
+   "id": "c24219",
+   "en": "Heh heh. Those two\nare the same as ever.",
+   "flags": [],
+   "notes": "Luca."
+  },
+  {
+   "id": "c24220",
+   "en": "They never get tired of it, do they...",
+   "flags": [],
+   "notes": "Alto."
+  },
+  {
+   "id": "c24221",
+   "en": "Seems to me Alto and Michel are always\ndoing the same kind of thing, though.",
+   "flags": [],
+   "notes": "Muttered aside, names in the third person as in the Japanese; Alto catches it next row."
+  },
+  {
+   "id": "c24222",
+   "en": "Did you say something... \\p?",
+   "flags": [],
+   "notes": "Alto."
+  },
+  {
+   "id": "c24223",
+   "en": "Nothing at all...",
+   "flags": [],
+   "notes": "Shared male/female; sheepish polite form."
+  },
+  {
+   "id": "c24224",
+   "en": "Hee hee.\nI hope we can all have fun together\nlike this again this year.",
+   "flags": [],
+   "notes": "Ranka."
+  },
+  {
+   "id": "c24225",
+   "en": "(Like Ranka said, I hope we can\nall have fun together this year too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24226",
+   "en": "(Well, with a fun crowd like this around,\nit's bound to be a blast.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24227",
+   "en": "(All right! This year too, I'm giving it my all\nat both school and my S.M.S. work!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24228",
+   "en": "(Sigh... Time really flies...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24229",
+   "en": "(This past year I even ended up joining S.M.S.\nIt's been one whirlwind of a year...\nNo wonder the time seems to have flown by.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24230",
+   "en": "I was just thinking it's really been over\na year since I started at Mihoshi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24231",
+   "en": "There were so many fun events, like the Culture\nFest, that the time just flew by, didn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24232",
+   "en": "Seems to me Saotome-kun and Michel-kun are\nalways doing the same kind of thing, though.",
+   "flags": [],
+   "notes": "See c24221."
+  },
+  {
+   "id": "c24233",
+   "en": "(Like Ranka-chan said, I hope we can\nall have fun together this year too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24234",
+   "en": "(With a fun crowd like this around,\nit's bound to be a blast.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24235",
+   "en": "(All right! This year too, I'm giving it my all\nat both school and my S.M.S. work!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24236",
+   "en": "All right! That's it for today's class!",
+   "flags": [],
+   "notes": "??? (woman) = Hilda (her caption follows)."
+  },
+  {
+   "id": "c24237",
+   "en": "(Today was the first class of the new year,\nso I'm glad it was just orientation.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24238",
+   "en": "Hilda V. Bergen\nMihoshi Academy High teacher in charge of\n'Basic Training.' A cool beauty, strict with students.",
+   "flags": [],
+   "notes": "Class names as in the campus help text (u5460 basic training, u5459 practical training)."
+  },
+  {
+   "id": "c24239",
+   "en": "From the next class on, I'll be as strict as ever!\nBrace yourselves!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24240",
+   "en": "Harsh as ever, isn't she...\nWell, hang in there, you guys.",
+   "flags": [],
+   "notes": "??? (man) = Gary (his caption follows)."
+  },
+  {
+   "id": "c24241",
+   "en": "Gary Murdoch\nMihoshi Academy High teacher in charge of\n'Practical Training.' A big brother to his students.",
+   "flags": [],
+   "notes": "Yoki aniki-teki sonzai."
+  },
+  {
+   "id": "c24242",
+   "en": "And what are you doing, coming to watch my class?",
+   "flags": [],
+   "notes": "Hilda to Gary."
+  },
+  {
+   "id": "c24243",
+   "en": "I don't have a class this period.\nI was bored, so I came by to watch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24244",
+   "en": "Bored... you say......?\nI believe I asked you to set up the equipment\nwe're using in the next class?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24245",
+   "en": "......Oh, I just remembered I've got something to do.\nSee ya!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24246",
+   "en": "Get back here, Gary!\nWhy, you...!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24247",
+   "en": "(Gary-sensei's getting chewed out\nby Hilda-sensei again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24248",
+   "en": "Haha, Gary-sensei never changes, huh.",
+   "flags": [],
+   "notes": "??? (man) = Kagura (his caption follows)."
+  },
+  {
+   "id": "c24249",
+   "en": "Yuuto Kagura\nA classmate in the Mihoshi Academy Pilot Course.\nLoves to train.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24250",
+   "en": "But it kind of looks like they're both\nenjoying it, don't you think...",
+   "flags": [],
+   "notes": "??? (woman) = Shirakawa (her caption follows)."
+  },
+  {
+   "id": "c24251",
+   "en": "Miyuki Shirakawa\nPilot Course classmate at Mihoshi Academy. An elite\nfrom a military family, and Kagura's childhood friend.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24252",
+   "en": "Mm-hmm, mm-hmm. One of those shady\ngrown-up affairs, I'd wager.",
+   "flags": [],
+   "notes": "??? (woman) = Hoshimura (her caption follows); old-man diction (-desu naa) per glossary."
+  },
+  {
+   "id": "c24253",
+   "en": "Yui Hoshimura\nA classmate in the Mihoshi Academy Pilot Course.\nAn energetic girl who loves tinkering with machines.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24254",
+   "en": "Hoshimura...\nDon't you ever say that in front of Hilda-sensei.\nNot even nine lives would be enough...",
+   "flags": [],
+   "notes": "Inochi ga ikutsu atte mo tarinai."
+  },
+  {
+   "id": "c24255",
+   "en": "Heh. Truth is, those two, back in the day...",
+   "flags": [],
+   "notes": "??? (man) = Luis (his caption follows); cut off."
+  },
+  {
+   "id": "c24256",
+   "en": "Luis Fernando\nA mysterious figure who often shows up at Mihoshi\nAcademy. A hot-blooded man overflowing with passion.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24257",
+   "en": "Y-you sure showed up out of nowhere...\nLuis-san...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c24258",
+   "en": "I can't quite explain it, but my passion told me\nI'd better make an appearance right about now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24259",
+   "en": "So? So? What happened in Hilda-sensei and\nGary-sensei's past? Tell me, Luis-cchi~",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Luisu-cchi: Hoshimura's cutesy nickname suffix, kept in romaji like the honorifics; not in the honorific table."
+  },
+  {
+   "id": "c24260",
+   "en": "Heh, if you're gonna beg like that, I can't refuse.\nIt happened some years back, on Gallia 4...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24261",
+   "en": "\\p, Hoshimura,\nwe'd better head back to the classroom\nor we'll be late for the next class.",
+   "flags": [],
+   "notes": "Kagura."
+  },
+  {
+   "id": "c24262",
+   "en": "Awww!\nAnd just when the story was getting good~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24263",
+   "en": "Yui, don't be difficult.\nCome on, let's hurry back to class.",
+   "flags": [],
+   "notes": "Shirakawa."
+  },
+  {
+   "id": "c24264",
+   "en": "Well, Luis-san, sorry to leave in the middle\nof your story, but we have to go.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c24265",
+   "en": "Heh, hit the books hard,\nboys & girls!",
+   "flags": [],
+   "notes": "Luis, male version (boizu & gaaruzu)."
+  },
+  {
+   "id": "c24266",
+   "en": "(Okay, I'd better hurry back to the classroom\nand get ready for the next class...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c24267",
+   "en": "(Still, Luis-san...\nHow does he know about Hilda-sensei\nand Gary-sensei's past?)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c24268",
+   "en": "(Now I'm curious...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24269",
+   "en": "(Today was the first class of the new year,\nso I'm glad it was just orientation.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24270",
+   "en": "(Gary-sensei's getting chewed out\nby Hilda-sensei again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24271",
+   "en": "Yui...\nDon't you ever say that in front of Hilda-sensei.\nNot even nine lives would be enough...",
+   "flags": [],
+   "notes": "Female player calls her Yui, the male player Hoshimura (c24254)."
+  },
+  {
+   "id": "c24272",
+   "en": "Heh, hit the books hard,\nboy & girls!",
+   "flags": [],
+   "notes": "Female version: the Japanese says 'boi & gaaruzu' (one boy, Kagura, with three girls); kept deliberately."
+  },
+  {
+   "id": "c24273",
+   "en": "(Now I'm curious...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c24259: Luisu-cchi kept as 'Luis-cchi'.",
+   "c24199: extractor attributes extra pushes of this string to ??? speakers; treated as the player's monologue."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

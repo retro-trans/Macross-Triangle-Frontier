@@ -1,0 +1,503 @@
+{
+ "slice": 293,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c21025",
+   "en": "(Oh, it's Ranka's song...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21026",
+   "en": "(Ever since she played Mao Nome in the movie\n\"BIRD HUMAN,\" she's gotten really famous.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Film title 'BIRD HUMAN -Tori no Hito-': the Japanese subtitle just repeats the title, so only 'BIRD HUMAN' is kept."
+  },
+  {
+   "id": "c21027",
+   "en": "(I'm going to Ranka's concert tomorrow too,\nso I'd better enjoy it to the fullest.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21028",
+   "en": "(Now then, maybe I'll pick up a little gift\nto congratulate Ranka on the w......)",
+   "flags": [],
+   "notes": "Cut off by the broadcast, as in the Japanese ('...kaitte iko')."
+  },
+  {
+   "id": "c21029",
+   "en": "(An evacuation alert...! The Vajra again!?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21030",
+   "en": "(I somehow made it to the shelter...\nWhen are these Vajra attacks ever going to stop?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21031",
+   "en": "Oh, Nanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21032",
+   "en": "I felt so uneasy all alone,\nso I'm glad I ran into you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21033",
+   "en": "Yeah, me too......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21034",
+   "en": "(That impact was way bigger than usual...\nWas that a direct hit...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21035",
+   "en": "Saotome-kun and the others aren't here...\nWill Luca-kun be all right...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21036",
+   "en": "Luca will pull it off, I'm sure.\nLet's believe in him and wait.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21037",
+   "en": "(All I can do is believe in everyone\nand wait...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21038",
+   "en": "This is the Macross Frontier Administrative Bureau.\nThe evacuation alert issued to all ships\nhas been lifted. Repeat...",
+   "flags": [],
+   "notes": "Aligned with c20693: gyouseifu 'Administrative Bureau' (organizations.json)."
+  },
+  {
+   "id": "c21039",
+   "en": "(Looks like the battle's over...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21040",
+   "en": "(Still, today's battle went on longer than usual...\nI guess that means the Vajra attacks are getting\nthat much fiercer...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21041",
+   "en": "(Alto and the others are giving it their all.\nWe're bound to be fine from here on, too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21042",
+   "en": "(Oh, it's Ranka-chan's song...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21043",
+   "en": "(Ever since she played Mao Nome in the movie\n\"BIRD HUMAN,\" she's gotten really famous.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Film title 'BIRD HUMAN -Tori no Hito-': the Japanese subtitle just repeats the title, so only 'BIRD HUMAN' is kept."
+  },
+  {
+   "id": "c21044",
+   "en": "(I'm going to Ranka-chan's concert tomorrow too,\nso I'd better enjoy it to the fullest.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21045",
+   "en": "(Now then, maybe I'll pick up a little gift\nto congratulate Ranka-chan on the w......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21046",
+   "en": "(I somehow made it to the shelter...\nWhen are these Vajra attacks ever going to stop?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21047",
+   "en": "Yeah, me too......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21048",
+   "en": "Wah!",
+   "flags": [],
+   "notes": "Female twin of c17760 'uwa' (Whoa!); this is the shorter 'wa'."
+  },
+  {
+   "id": "c21049",
+   "en": "(That impact was way bigger than usual...\nWas that a direct hit...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21050",
+   "en": "Luca-kun will pull it off, I'm sure.\nLet's believe in him and wait.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21051",
+   "en": "(All I can do is believe in everyone\nand wait...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21052",
+   "en": "(Looks like the battle's over...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21053",
+   "en": "(Still, today's battle went on longer than usual...\nI guess that means the Vajra attacks are getting\nthat much fiercer...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21054",
+   "en": "(Saotome-kun and the others are giving it their\nall. We're bound to be fine from here on, too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21055",
+   "en": "(But will this super-long-distance fold\nreally let Frontier escape the Vajra?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21056",
+   "en": "(There's no point in me worrying about it.\nFor now, I'll just enjoy the Everything-Must-Go\nFold Clearance Sale......)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Shop sale name (zaiko issou nageuri fold sale) translated as a title; not in the glossary."
+  },
+  {
+   "id": "c21057",
+   "en": "(An evacuation alert!? Could it be...!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21058",
+   "en": "(No way... The Vajra showing up right before\nthe super-long-distance fold...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21059",
+   "en": "(Ranka's song is supposed to work on the Vajra,\nbut who knows how long that'll last...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21060",
+   "en": "(Sooner or later, the Vajra are going to get us\nand......)",
+   "flags": [],
+   "notes": "Trails off as in the Japanese."
+  },
+  {
+   "id": "c21061",
+   "en": "We will now perform an emergency\nsuper-long-distance fold.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21062",
+   "en": "All citizens, please take cover at home or in\nthe nearest shelter and prepare for the fold.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21063",
+   "en": "(A fold, in this situation!?\nIs it really going to be okay?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21064",
+   "en": "(...No, it'll be fine.\nRanka, the Super Dimension Cinderella, is singing.\nIt's bound to succeed!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21065",
+   "en": "(Not just Ranka...\nAlto, everyone, you hang in there too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21066",
+   "en": "This is the Macross Frontier Administrative Bureau.",
+   "flags": [],
+   "notes": "Aligned with c20693: gyouseifu 'Administrative Bureau' (organizations.json)."
+  },
+  {
+   "id": "c21067",
+   "en": "The Frontier fleet has successfully completed\nthe super-long-distance fold. Repeat...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21068",
+   "en": "(We did it... We did it!\nNow the fight with the Vajra is over!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21069",
+   "en": "(Thanks for protecting us, Ranka,\nand Alto and the others too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21070",
+   "en": "(But will this super-long-distance fold\nreally let Frontier escape the Vajra?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21071",
+   "en": "(There's no point in me worrying about it.\nFor now, I'll just enjoy the Everything-Must-Go\nFold Clearance Sale......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21072",
+   "en": "(Ranka-chan's song is supposed to work on the\nVajra, but who knows how long that'll last...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21073",
+   "en": "(Sooner or later, the Vajra are going to get us\nand......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21074",
+   "en": "(A fold, in this situation!?\nIs it really going to be okay?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21075",
+   "en": "(...No, it'll be fine.\nRanka-chan, the Super Dimension Cinderella,\nis singing. It's bound to succeed!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21076",
+   "en": "(Not just Ranka-chan...\nSaotome-kun, everyone, you hang in there too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21077",
+   "en": "(We did it... We did it!\nNow the fight with the Vajra is over!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21078",
+   "en": "(Thanks for protecting us, Ranka-chan,\nand Saotome-kun and the others too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21079",
+   "en": "(Damn it! It's dangerous here!\nI need to get to a shelter right away!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21080",
+   "en": "(I somehow made it to the shelter... but it's\nfull of injured people. It's horrible.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21081",
+   "en": "(If there were Vajra inside the ship,\nthen in the end we never got away\nfrom them at all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21082",
+   "en": "What happened to Ranka Lee!?\nI thought the Vajra would stop if that girl sang...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21083",
+   "en": "They said we'd get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21084",
+   "en": "It's hopeless... We're all gonna die......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21085",
+   "en": "(Everyone's reached their mental limit...\nAt this rate......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21086",
+   "en": "(...A song......?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21087",
+   "en": "Yeah, it's Sheryl...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21088",
+   "en": "Sheryl......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21089",
+   "en": "(Even on the brink of despair like this,\nSheryl hasn't given up...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21090",
+   "en": "(Yeah...\nThe Galactic Fairy herself is singing\nfor everyone here.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21091",
+   "en": "(It'll be okay... It's bound to be okay......!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21092",
+   "en": "(Looks like the Vajra were somehow\nwiped out...)",
+   "flags": [],
+   "notes": "Civilian branch: the player did not fight, so the line says the Vajra were wiped out rather than 'we wiped them out'."
+  },
+  {
+   "id": "c21093",
+   "en": "(It's all thanks to Alto and the others,\nRanka... and Sheryl too.)",
+   "flags": [],
+   "notes": "Phrased like the finished female twin c21105."
+  },
+  {
+   "id": "c21094",
+   "en": "(But......)",
+   "flags": [],
+   "notes": "Shared male/female; the finished female next row c21106 also opens with 'But', so the thought restarts."
+  },
+  {
+   "id": "c21095",
+   "en": "(But no matter how you look at it, Frontier\ntook way too much damage this time...!)",
+   "flags": [],
+   "notes": "Matches the finished female twin c21106."
+  },
+  {
+   "id": "c21096",
+   "en": "(The ship's in tatters, and the ecosystem can't\nbe sustained anymore... What are we supposed\nto do in a situation like this......?)",
+   "flags": [],
+   "notes": "Matches the finished female twin c21107; also used in scd_sms_809 (male)."
+  },
+  {
+   "id": "c21097",
+   "en": "(Ugh! It's dangerous here!\nI need to get to a shelter right away!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21098",
+   "en": "(I somehow made it to the shelter... but it's\nfull of injured people. It's horrible.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21099",
+   "en": "(If there were Vajra inside the ship,\nthen in the end we never got away\nfrom them at all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21100",
+   "en": "Sheryl-san......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21101",
+   "en": "(Even on the brink of despair like this,\nSheryl-san hasn't given up...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21102",
+   "en": "(Yeah...\nThe Galactic Fairy herself is singing\nfor everyone here.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21103",
+   "en": "(It'll be okay... It's bound to be okay......!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21104",
+   "en": "(Looks like the Vajra were somehow\nwiped out...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c21026/c21043: film title given as 'BIRD HUMAN' only (Japanese subtitle repeats it).",
+   "c21056/c21071: in-universe sale name rendered 'Everything-Must-Go Fold Clearance Sale'.",
+   "c21094/c21095: male '(But......)' followed by '(But no matter how...)' to match the finished female twin c21106; the double 'But' reads as a restart."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

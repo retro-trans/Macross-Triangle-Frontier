@@ -1,0 +1,494 @@
+{
+ "slice": 36,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p__mv1/150",
+   "en": "Let's start our counterattack from here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/150",
+   "en": "Time to strike back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/150",
+   "en": "Let's push through in one go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/150",
+   "en": "Let's push through in one go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/150",
+   "en": "We're pushing through in one go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/151",
+   "en": "What have they done...",
+   "flags": [],
+   "notes": "nante koto wo: dismay as an ally falls; the TF line differs from the MUF pilots' 'couldn't protect them'."
+  },
+  {
+   "id": "p__mv1/151",
+   "en": "What have they done!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/151",
+   "en": "How could this happen?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/151",
+   "en": "This can't be happening...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/151",
+   "en": "This can't be happening...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/151",
+   "en": "This can't be happening...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/152",
+   "en": "I wasn't good enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/152",
+   "en": "I just wasn't good enough!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/152",
+   "en": "I wasn't good enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/152",
+   "en": "I wasn't good enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/152",
+   "en": "I wasn't good enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/152",
+   "en": "I wasn't good enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/153",
+   "en": "Was it destroyed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/153",
+   "en": "So it was destroyed...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/153",
+   "en": "Was it destroyed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/153",
+   "en": "Was it destroyed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/153",
+   "en": "Was it destroyed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/153",
+   "en": "It got destroyed?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/154",
+   "en": "Operation complete. I'm returning to base at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/154",
+   "en": "Operation complete. I'm returning to base at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/154",
+   "en": "Operation over. I'm heading back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/154",
+   "en": "Operation complete. I'm returning to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/154",
+   "en": "Operation complete. I'm returning to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/154",
+   "en": "Operation over. I'm heading back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/155",
+   "en": "Phew, it's finally over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/155",
+   "en": "Phew, it's finally over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/155",
+   "en": "Phew, it's finally over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/155",
+   "en": "Phew, I managed somehow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/155",
+   "en": "Whew, I managed it somehow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/155",
+   "en": "Phew, it worked out somehow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/156",
+   "en": "Well, time to head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/156",
+   "en": "I'm returning to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/156",
+   "en": "Well, time to head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/156",
+   "en": "Well, let's head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/156",
+   "en": "Well, let's head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/156",
+   "en": "Well, let's head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/157",
+   "en": "Was it too late?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/157",
+   "en": "Was it too late?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/157",
+   "en": "Was it too late?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/157",
+   "en": "Out of time? No way...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/157",
+   "en": "Out of time? No way...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/157",
+   "en": "Out of time? No way...",
+   "flags": [],
+   "notes": "Whisper flags nospeech, but the transcript matches fv0/fv1; kept."
+  },
+  {
+   "id": "p__mv0/158",
+   "en": "No! We didn't make it in time?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/158",
+   "en": "No! We didn't make it in time?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/158",
+   "en": "No... we didn't make it in time?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/158",
+   "en": "No! We didn't make it in time?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/158",
+   "en": "No... we didn't make it in time?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/158",
+   "en": "No... we didn't make it in time?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/159",
+   "en": "Damn! If only we'd had more time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/159",
+   "en": "If only we'd had more time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/159",
+   "en": "Damn! If only we'd had more time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/159",
+   "en": "Ugh, if only we'd had more time...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/159",
+   "en": "Ugh! If only we'd had more time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/159",
+   "en": "If only we'd had more time...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/160",
+   "en": "We failed?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/160",
+   "en": "We failed...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/160",
+   "en": "We failed?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/160",
+   "en": "We failed? No...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/160",
+   "en": "We failed? No...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/160",
+   "en": "We failed? No...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/161",
+   "en": "No good! I'm pulling back for now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/161",
+   "en": "No good! I'm pulling back for now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/161",
+   "en": "No good! I'm pulling back for now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/161",
+   "en": "It's no good. I'm pulling back for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/161",
+   "en": "It's no good. I'm pulling back for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/161",
+   "en": "It's no good. I'm pulling back for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/162",
+   "en": "Mission failed. I'm withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/162",
+   "en": "Mission failed. I'm withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/162",
+   "en": "Mission failed. I'm pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/162",
+   "en": "Mission failed? I'm withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/162",
+   "en": "Mission failed. I'm withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/162",
+   "en": "Mission failed. I'm pulling out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/163",
+   "en": "Please keep your distance as you fight.",
+   "flags": [],
+   "notes": "Partner order (163-174). The TF lines differ from the MUF pilots' versions; translated from the TF transcripts."
+  },
+  {
+   "id": "p__mv1/163",
+   "en": "Please keep your distance as you fight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/163",
+   "en": "Keep your distance and fight!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

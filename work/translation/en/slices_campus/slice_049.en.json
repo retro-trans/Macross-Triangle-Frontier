@@ -1,0 +1,504 @@
+{
+ "slice": 49,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c03608",
+   "en": "Yeah, yeah, you looked super cute!",
+   "flags": [],
+   "notes": "Female only; answers Hoshimura's 'did it look good on me?'."
+  },
+  {
+   "id": "c03609",
+   "en": "You've been getting close with that guy\nlately, huh... I heard the rumors...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "ext_yui_005, both genders. 'Ano otoko no hito' is not named."
+  },
+  {
+   "id": "c03610",
+   "en": "Akimizu!",
+   "flags": [],
+   "notes": "Male; also frd_yuu_003/004."
+  },
+  {
+   "id": "c03611",
+   "en": "Akimizu, what are you doing in the schoolyard?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03612",
+   "en": "Um, I'm carrying some materials the teacher\nasked me to take to the classroom.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03613",
+   "en": "Which classroom?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03614",
+   "en": "Ours, of course.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03615",
+   "en": "Then why are you in the schoolyard?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03616",
+   "en": "Hmm, why am I?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03617",
+   "en": "(Is Akimizu kind of an airhead?)",
+   "flags": [],
+   "notes": "Male only ('tennen')."
+  },
+  {
+   "id": "c03618",
+   "en": "Ahaha, I'd better get to the classroom...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03619",
+   "en": "H-hey, wait!\nThe classroom's not that way!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03620",
+   "en": "Isn't it?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03621",
+   "en": "...Akimizu, you're an operator, right...?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03622",
+   "en": "Yes, I am.\nWhy do you ask?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03623",
+   "en": "Can you really direct missions when you've\ngot no sense of direction?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03624",
+   "en": "No sense of direction? Who?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03625",
+   "en": "...You, Akimizu.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03626",
+   "en": "No way, that's so silly!\nOh, stop it!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03627",
+   "en": "Now I'm getting worried...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03628",
+   "en": "Ahahaha...\nBut really, I'm fine.",
+   "flags": [],
+   "notes": "Male version."
+  },
+  {
+   "id": "c03629",
+   "en": "I can read the data... and I call things out...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03630",
+   "en": "(...I bet everyone around her is worried sick!)",
+   "flags": [],
+   "notes": "Both genders; inner thought about Yuu."
+  },
+  {
+   "id": "c03631",
+   "en": "Well, I'll get going.",
+   "flags": [],
+   "notes": "Male version."
+  },
+  {
+   "id": "c03632",
+   "en": "Bye-bye.",
+   "flags": [],
+   "notes": "x10: Akimizu here, Claire in frd_cla_102/105."
+  },
+  {
+   "id": "c03633",
+   "en": "(Akimizu... I'm worried about her...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03634",
+   "en": "Yuu!",
+   "flags": [],
+   "notes": "Female; also frd_yuu_003/004."
+  },
+  {
+   "id": "c03635",
+   "en": "Yuu, what are you doing in the schoolyard?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03636",
+   "en": "(Is Yuu kind of an airhead?)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03637",
+   "en": "...Yuu, you're an operator, right...?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03638",
+   "en": "...You, Yuu.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03639",
+   "en": "Ahahaha...\nI'm totally fine.",
+   "flags": [],
+   "notes": "Female version."
+  },
+  {
+   "id": "c03640",
+   "en": "Well, I'll get going!",
+   "flags": [],
+   "notes": "Female version."
+  },
+  {
+   "id": "c03641",
+   "en": "(Yuu... Is she going to be okay...?)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03642",
+   "en": "(Swimming today, huh~)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03643",
+   "en": "(Oh, it's Akimizu... So the girls are\nwith us today too.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03644",
+   "en": "Now that's... a fine view...",
+   "flags": [],
+   "notes": "Gary; both genders."
+  },
+  {
+   "id": "c03645",
+   "en": "G-Gary-sensei, when did you get here...?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03646",
+   "en": "Since about when you started making eyes\nat Akimizu.",
+   "flags": [],
+   "notes": "Both genders (also said to the female player)."
+  },
+  {
+   "id": "c03647",
+   "en": "I-I was not!\nDon't say weird stuff like that!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03648",
+   "en": "Don't be shy, don't be shy...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03649",
+   "en": "Akimizu's got that innocent face, and then\nshe's got *that*... If I were ten years younger,\nI'd make a move on her myself...",
+   "flags": [],
+   "notes": "Both genders; Gary means her figure ('are')."
+  },
+  {
+   "id": "c03650",
+   "en": "That's rude to Akimizu, and that's not\nsomething a teacher should be saying...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03651",
+   "en": "What about me?",
+   "flags": [],
+   "notes": "Both genders; Akimizu walks up."
+  },
+  {
+   "id": "c03652",
+   "en": "A-Akimizu!!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03653",
+   "en": "Hm? What's wrong? You look flustered...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03654",
+   "en": "'...Looks like she didn't hear.'",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Both genders. Whispered aside in double corner brackets: kept as single quotes."
+  },
+  {
+   "id": "c03655",
+   "en": "'Looks like it...'",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Both genders; whispered aside, as c03654."
+  },
+  {
+   "id": "c03656",
+   "en": "Hee hee...\nYou and Gary-sensei sure are close.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03657",
+   "en": "N-no, we're not!!\nWho'd ever be close with Gary-sensei...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03658",
+   "en": "You don't have to deny it! That kinda hurts!",
+   "flags": [],
+   "notes": "Male version."
+  },
+  {
+   "id": "c03659",
+   "en": "You two are so close~",
+   "flags": [],
+   "notes": "Male version."
+  },
+  {
+   "id": "c03660",
+   "en": "Tch!\nQuit slacking off, you two, and swim properly!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03661",
+   "en": "Goodbye, Gary-sensei.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03662",
+   "en": "A-are you taking a break, Akimizu?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03663",
+   "en": "Yeah... I got a little tired.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03664",
+   "en": "Oh, I see...",
+   "flags": [],
+   "notes": "x5: ext_yuu_002 both genders, nml_kgr_005 female, nml_myk_010 both genders."
+  },
+  {
+   "id": "c03665",
+   "en": "(Akimizu in a swimsuit... You can't tell\nwhen she's in uniform, but wow, this is...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03666",
+   "en": "...Is something wrong?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03667",
+   "en": "(If she gets th-that close...!)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03668",
+   "en": "N-nothing, it's nothing...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03669",
+   "en": "Your face is red...\nDo you have a fever or something?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03670",
+   "en": "Wh-whoaaa!!\nI'm fine, really!!\nYou don't have to touch me!!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03671",
+   "en": "You're acting weird, \\p-kun...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03672",
+   "en": "(Being that oblivious is downright dangerous!!)",
+   "flags": [],
+   "notes": "Male only ('mujikaku': unaware of her own appeal)."
+  },
+  {
+   "id": "c03673",
+   "en": "W-well, I'm gonna go swim!\nSee you!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03674",
+   "en": "Okay, see you...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03675",
+   "en": "(Phew, that was close...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03676",
+   "en": "(Oh, it's Yuu... Her figure's as great as ever...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03677",
+   "en": "Saying stuff like that... It's rude to Yuu, and\nthat's not something a teacher should say...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03678",
+   "en": "Y-Yuu!!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03679",
+   "en": "N-no, we're not!!\nAs if I'd be close with Gary-sensei of all people...",
+   "flags": [],
+   "notes": "Female only ('nanka')."
+  },
+  {
+   "id": "c03680",
+   "en": "You don't have to deny it that hard!\nThat kinda hurts!",
+   "flags": [],
+   "notes": "Female version."
+  },
+  {
+   "id": "c03681",
+   "en": "Hehe, you two are so close~",
+   "flags": [],
+   "notes": "Female version."
+  },
+  {
+   "id": "c03682",
+   "en": "Taking a break, Yuu?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03683",
+   "en": "(Akimizu in a swimsuit...\nEven to another girl, she's... whoa...)",
+   "flags": [],
+   "notes": "Female only; the Japanese uses her surname here."
+  },
+  {
+   "id": "c03684",
+   "en": "I'm fine, really!!\nYou don't have to touch me!!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03685",
+   "en": "You're acting weird, \\p-chan...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03686",
+   "en": "(Being that oblivious is downright dangerous!!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03687",
+   "en": "W-well, I'm gonna go swim!\nSee you!",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c03609: 'ano otoko no hito' (that guy) unnamed, both genders in ext_yui_005.",
+   "c03654/c03655: whispered asides marked with double corner brackets in the Japanese; rendered in single quotes.",
+   "c03629: Akimizu's 'koe kaketeru shi' rendered 'I call things out' (she talks the pilots through).",
+   "c03611/c03615/c03635: koutei rendered 'schoolyard' (finished slices use 'the field' for running laps)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

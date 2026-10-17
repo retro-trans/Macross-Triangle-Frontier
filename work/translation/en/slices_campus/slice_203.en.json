@@ -1,0 +1,448 @@
+{
+ "slice": 203,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c14843",
+   "en": "(Okay, school's over, so time to head home.)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14844",
+   "en": "(Oh, it's Hoshimura.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14845",
+   "en": "Hey, Hoshimura. Heading home now?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14846",
+   "en": "Huh! How'd you know I was about\nto go home, \\p!?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14847",
+   "en": "C-could it be... you like me...?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14848",
+   "en": "(Well, she's walking out the school gate\nright now, so anyone would figure that...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14849",
+   "en": "Well, jokes aside...\nYou're heading home too, right, \\p?\nThen how about walking home with me?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14850",
+   "en": "Sure, I'd love to......",
+   "flags": [],
+   "notes": "Shared male/female. Cut off by Yui."
+  },
+  {
+   "id": "c14851",
+   "en": "Wait, aaaaaaah!!\nToday's junk sale day in Deep Akihabara!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14852",
+   "en": "Sorry, \\p!\nI'm going on ahead!!\nDefinitely ask me again sometime! Bye!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14853",
+   "en": "(Hoshimura took off like a shot...\nOh well, guess I'll head home alone today...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14854",
+   "en": "(Oh, it's Yui.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14855",
+   "en": "Yui, are you heading home now?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14856",
+   "en": "(Well, she's walking out the school gate\nright now, so of course anyone would think that...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14857",
+   "en": "(Yui took off like a shot...\nOh well, I'll just have to head home\nalone today...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14858",
+   "en": "(Whoa~, the Sky Gate sure is big.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14859",
+   "en": "(For a concert by the Galactic Fairy,\neven a place this big would probably\nfill up in no time.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14860",
+   "en": "Whatcha doin' in a place like thiiis,\n\\p?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14861",
+   "en": "Oh, hey, Hoshimura.\nI was just passing by.\nWhat about you, Hoshimura?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14862",
+   "en": "Mm~, I was in the neighborhood too,\nso I just stopped by.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14863",
+   "en": "Whew~, but this really brings back memories.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14864",
+   "en": "Brings back memories?\nDo you have some memory of the Sky Gate?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14865",
+   "en": "Yup. This was back when I was a hugely\npopular idol who could sing and dance...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14866",
+   "en": "I held my farewell concert here at the Sky Gate.\nAnd then I retired from show business...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14867",
+   "en": "Y-you don't have to look at me so coldly!\nIt was just a little joke!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14868",
+   "en": "Geez, this person really can't take a joke...\nHmph! I've got nothing to do here,\nso I'm going home.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14869",
+   "en": "Yeah, see you,\nself-proclaimed former superstar idol.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14870",
+   "en": "Ahh... All this cruelty,\njust because I told one lame joke......",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14871",
+   "en": "Oh well. See ya, then.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14872",
+   "en": "(Haha, just talking nonsense with Hoshimura\nis a nice change of pace.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14873",
+   "en": "(Wow~, the Sky Gate sure is big.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14874",
+   "en": "(For a concert by the Galactic Fairy,\neven a place this big would\nfill up in no time.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14875",
+   "en": "Oh, Yui.\nI was just passing by.\nWhat about you, Yui?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14876",
+   "en": "Brings back memories?\nDo you have some memory of the Sky Gate?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14877",
+   "en": "Yeah, see you,\nself-proclaimed former superstar idol.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14878",
+   "en": "(Heh, just talking nonsense with Yui\nis a nice change of pace.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14879",
+   "en": "(Sigh... Hilda-sensei's class was\nas brutal as ever...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14880",
+   "en": "Fwaaah~, that water felt great~\nOho? If it isn't \\p!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14881",
+   "en": "Heh heh heh, well? What do you think of me,\nfresh from the shower and oozing sex appeal?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14882",
+   "en": "Uh, you look pretty much the same as always...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14883",
+   "en": "Mmph~, what a boring reaction~!\nSeems I need to show you just how much\nsex appeal I've got hidden away!!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14884",
+   "en": "See, I just shampooed, so\nI smell super nice, right?\nTake a sniff, take a sniff.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14885",
+   "en": "Whoa, you're too close! Hoshimura!?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14886",
+   "en": "Fweh?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14887",
+   "en": "Wha! Ah...... Sorry!\nS-see ya!!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14888",
+   "en": "(Hoshimura got embarrassed and ran off...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14889",
+   "en": "(Usually she has fun watching me panic.\nWhat on earth got into her?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14890",
+   "en": "(Sigh... Hilda-sensei's class was\nas brutal as ever...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14891",
+   "en": "Whoa, you're too close! Yui!?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14892",
+   "en": "(Yui got embarrassed and ran off...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14893",
+   "en": "(Usually she has fun watching me panic.\nWhat on earth got into her?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14894",
+   "en": "(I'm getting hungry anyway,\nso maybe I'll grab a hot dog.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14895",
+   "en": "Well, well, fancy meeting you here,\n\\p.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14896",
+   "en": "Hey, Hoshimura.\nDid you come for a hot dog too?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14897",
+   "en": "You got it~\nThe hot dogs here are top-notch,\nso I come by every now and then.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14898",
+   "en": "Huh~\nCome to think of it, you like junk food,\ndon't you, Hoshimura?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14899",
+   "en": "I can eat it while I tinker with machines.\nIt's easy, so what's not to like?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14900",
+   "en": "That's such a Hoshimura reason.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14901",
+   "en": "Right, right?\nOkay, once we've finished these, shall we\nbe off to Deep Akihabara or someplace?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14902",
+   "en": "That's pretty sudden...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14903",
+   "en": "Well, of course!\nI only just thought of it myself.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14904",
+   "en": "All right! Away we go!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14905",
+   "en": "(As usual, the moment she thinks of something,\nshe's off doing it.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14906",
+   "en": "(Well, tagging along with Hoshimura\nshould be a nice change of pace too.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14907",
+   "en": "(I'm getting hungry anyway,\nso maybe I'll grab a hot dog.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14908",
+   "en": "Oh, Yui.\nDid you come for a hot dog too?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14909",
+   "en": "Huh~\nCome to think of it, you like junk food,\ndon't you, Yui?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14910",
+   "en": "That's such a Yui reason.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14911",
+   "en": "That's pretty sudden...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14912",
+   "en": "(As usual, the moment she thinks of something,\nshe's off doing it.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14913",
+   "en": "(Well, tagging along with Yui\nshould be a nice change of pace too.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14914",
+   "en": "(As usual, the moment she thinks of something,\nshe's off doing it.)",
+   "flags": [],
+   "notes": "Male. Spelling variant of c14905 (soku in kana)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c14880: ii oyu datta (said after a bath) rendered \"that water felt great\" since she has just showered after class.",
+   "c14869/c14877: jishou moto dai-ninki aidoru-san rendered \"self-proclaimed former superstar idol\" (the -san here is mock-polite, not a name honorific, so dropped)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

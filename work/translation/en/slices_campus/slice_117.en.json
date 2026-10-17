@@ -1,0 +1,492 @@
+{
+ "slice": 117,
+ "rows_in_slice": 78,
+ "rows_examined": 78,
+ "rows": [
+  {
+   "id": "c08624",
+   "en": "(Luis-san asked me to come\nto Arlington Cemetery, but...)",
+   "flags": [],
+   "notes": "Arlington Cemetery is provisional in locations.json."
+  },
+  {
+   "id": "c08625",
+   "en": "(Come to think of it, this is the first time\nLuis-san has ever called me out somewhere.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08626",
+   "en": "(Or rather,\nit's the first time we've even arranged to meet...\nUntil now, we only ever ran into each other.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08627",
+   "en": "(When I think about it, we really have\nbumped into each other a lot...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08628",
+   "en": "Hey, Fresh Boy.\nSorry for dragging you all the way out here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08629",
+   "en": "Oh, Luis-san...\nWhy Arlington Cemetery today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08630",
+   "en": "There's someone I really want you to meet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08631",
+   "en": "Someone you want me to meet?\nYou don't mean...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08632",
+   "en": "Yeah, that's right. This here's my old\nbrother-in-arms...",
+   "flags": [],
+   "notes": "moto senyuu = former comrade-in-arms."
+  },
+  {
+   "id": "c08633",
+   "en": "(So Luis-san's friend really is gone...)",
+   "flags": [],
+   "notes": "Japanese has no subject ('already passed away...'); restored as 'Luis-san's friend' to stay gender-neutral."
+  },
+  {
+   "id": "c08634",
+   "en": "We joined the military at the same time.\nWe clicked, and pulled a lot of dumb stunts\ntogether.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08635",
+   "en": "He was always mouthing off, but he was a damn\ngood pilot. He was a lot younger than me, too,\nso I treated him like my own kid brother.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Gender of the late friend: the Japanese never states it; 'he' rests on Luis loving him 'like a real younger brother' (jitsu no otouto mitai ni)."
+  },
+  {
+   "id": "c08636",
+   "en": "He always gave me the happiest smile...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'He' as c08635."
+  },
+  {
+   "id": "c08637",
+   "en": "He was such a great pilot... So why......!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08638",
+   "en": "Something went wrong while he was testing\na plane for the military...\nA freak accident, as they say.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08639",
+   "en": "I couldn't accept what happened. I was lost,\nand I stopped letting myself get close to people.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08640",
+   "en": "I didn't want to feel that kind of grief again,\nlike when I lost my comrade...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08641",
+   "en": "It's a joke. Before I knew it, my soul\nhad turned into a gutless chicken.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08642",
+   "en": "But that ends today!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08643",
+   "en": "Let me introduce you, buddy...",
+   "flags": [],
+   "notes": "Luis speaks to the dead friend (senyuu) at the grave."
+  },
+  {
+   "id": "c08644",
+   "en": "This here's my new soulmate!!",
+   "flags": [],
+   "notes": "soulmeitsu (Luis's pseudo-English plural) rendered 'soulmate' throughout."
+  },
+  {
+   "id": "c08645",
+   "en": "(He thinks that highly of me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08646",
+   "en": "Well... introductions are done.\nLet's head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08647",
+   "en": "Luis-san!\nI'll keep working hard to become a red-hot man\noverflowing with passion!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08648",
+   "en": "Sure you can. You're a man I've recognized,\nafter all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08649",
+   "en": "(Luis-san recognized me as his soulmate...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08650",
+   "en": "(I'll be a man worthy of being Luis-san's\nsoulmate... I'll give it my all!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08651",
+   "en": "(Come to think of it, this is the first time\nLuis-san has ever called me out somewhere.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08652",
+   "en": "(Or rather, it's the first time we've even\narranged to meet... Until now, we only ever\nran into each other.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08653",
+   "en": "(When I think about it, we really have\nbumped into each other a lot...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08654",
+   "en": "Hey, Fresh Girl.\nSorry for dragging you all the way out here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08655",
+   "en": "He always gave me the happiest smile.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'He' as c08635."
+  },
+  {
+   "id": "c08656",
+   "en": "(He thinks that highly of me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08657",
+   "en": "Luis-san!\nI'll keep working hard to become a red-hot woman\noverflowing with passion!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08658",
+   "en": "Sure you can. You're a woman I've recognized,\nafter all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08659",
+   "en": "(Luis-san recognized me as his soulmate...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08660",
+   "en": "(I'll be a woman worthy of being Luis-san's\nsoulmate... I'll give it my all!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08661",
+   "en": "(I just sort of ended up at Arlington Cemetery...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08662",
+   "en": "Yo, Fresh Boy...\nNo, I mean... if it ain't my soulmate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08663",
+   "en": "Oh, Luis-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08664",
+   "en": "You came to visit his grave too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08665",
+   "en": "I'm sure he's happy about it, too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08666",
+   "en": "Whoa, if he saw me getting all sentimental,\nhe'd laugh at me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08667",
+   "en": "Well, guess I'll head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08668",
+   "en": "(Please watch over me...\nI'll do my best too, so I can be worthy\nof being Luis-san's soulmate!)",
+   "flags": [],
+   "notes": "Addressed to the late friend at the grave."
+  },
+  {
+   "id": "c08669",
+   "en": "(I just sort of ended up at Arlington Cemetery...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08670",
+   "en": "Yo, Fresh Girl...\nNo, I mean... if it ain't my soulmate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08671",
+   "en": "(Please watch over me...\nI'll do my best too, so I can be worthy\nof being Luis-san's soulmate!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08672",
+   "en": "(Pinon-chan gave me a letter...\nC-could it be a love letter?!)",
+   "flags": [],
+   "notes": "The letter was handed over by Pinon (Luis's letter, delivered)."
+  },
+  {
+   "id": "c08673",
+   "en": "(Well, I'd better check what's inside first...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08674",
+   "en": "(Let's see...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08675",
+   "en": "(Wait, this letter's from Luis-san?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08676",
+   "en": "(A letter? What's going on?\nLet's see...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08677",
+   "en": "By the time you read this letter...\nI probably won't be around anymore......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08678",
+   "en": "(Huh?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08679",
+   "en": "Forgive me for leaving without a word to you.\nIf you tried to stop me, my resolve would waver...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08680",
+   "en": "(No way...\nDon't shut me out like that, Luis-san!!)",
+   "flags": [],
+   "notes": "mizukusai = keeping your friend in the dark."
+  },
+  {
+   "id": "c08681",
+   "en": "I wandered in a whirlpool of loneliness\nand found a single ray of light.\nThat was you, my soulmate!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08682",
+   "en": "At times that light burns hot\nand gives off a flash too bright to look at.\nHonestly, right now I'm not sure I can take it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08683",
+   "en": "To become a man worthy of you,\nI need to polish my mind and body\njust a little more.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08684",
+   "en": "So I'm setting out on a journey. I don't know\nwhen I'll be back. I thought long and hard\nabout this... Please forgive me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08685",
+   "en": "It's too late now, and it'll only sound like\nan excuse, but I'll tell you anyway...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08686",
+   "en": "I'm sure that radiance of yours\nshouldn't keep shining on me alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08687",
+   "en": "There must be lots of people who need you now.\nWith those hands of yours, save as many\nof them as you can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08688",
+   "en": "That will be the cornerstone of a peaceful\nfuture for the Frontier... no, for the\nwhole galaxy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08689",
+   "en": "Don't worry, you can do it.\nAfter all, you saved me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08690",
+   "en": "Hey, don't worry about me.\nI'm just gonna go cool down at high altitude\nfor a bit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08691",
+   "en": "When you look up and see a contrail in the sky,\nmaybe it'll be the trail I left behind...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08692",
+   "en": "Last of all, I promise you this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08693",
+   "en": "Once I can take your radiance\nhead-on...\nI'll come back to you for sure! I swear it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08694",
+   "en": "(Luis-san...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08695",
+   "en": "P.S.\nI'm leaving my bandana in your care.\nTake good care of it like it was me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08696",
+   "en": "And finally, I leave you with these words...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08697",
+   "en": "MY SOUL FOR YOU!",
+   "flags": [],
+   "notes": "English in the original (full-width letters)."
+  },
+  {
+   "id": "c08698",
+   "en": "Thank you, Luis-san...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08699",
+   "en": "I'll treasure this bandana\nas if it were you, Luis-san...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08700",
+   "en": "And you'd better... you'd better come back!\nCome back and show me your lively,\npassion-filled self again, Luis-san!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08701",
+   "en": "Affinity ending.\nLuis female filler.",
+   "flags": [],
+   "notes": "Developer placeholder text (umeyou = filler) under Alto's name plate; translated literally in the format of c05505."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c08635/c08636/c08655 (and the 'he' in c08637-c08666): Luis's late friend is never gendered in the Japanese; 'he' rests on Luis treating him 'like my own younger brother' (c08635). c08633 kept neutral ('Luis-san's friend').",
+   "c08644 etc.: soulmeitsu (Luis's pseudo-English plural) rendered as plain 'soulmate'.",
+   "c08624/c08629/c08661/c08669: Arlington Cemetery is 'provisional' in locations.json.",
+   "c08701: developer placeholder (Alto name plate), translated literally like c05505."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

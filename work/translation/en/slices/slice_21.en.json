@@ -1,0 +1,501 @@
+{
+ "slice": 21,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u2925",
+   "en": "This test assesses your aptitude as a test pilot for Project Super Nova, the next main VF contest. Win the mock battle against the Valkyrie squad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2926",
+   "en": "Collect as many of the targets placed\naround the area as you can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2927",
+   "en": "A flight test of the prototype's thrust, mobility and flight performance begins. Collect more of the area's targets than the rival model.",
+   "flags": [],
+   "notes": "Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u2928",
+   "en": "Destroy the targets as you\nhead for the target area at speed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2929",
+   "en": "To test the prototype's agility, we'll fly it in a confined space like a base. Run a time trial: destroy all targets and reach the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2930",
+   "en": "Destroy as many enemies as you can\nwithin the 5-minute time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2931",
+   "en": "To gauge the prototype's combat ability, we'll now stage an arena mock battle. Battle a large number of targets, simulating combat against multiple enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2932",
+   "en": "Stop the bombers escorted by VF-11s\nfrom reaching the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2933",
+   "en": "For prototype combat data in varied settings, a mock air battle now begins. Destroy the VF-11 and drone-escorted bombers short of the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2934",
+   "en": "Defeat the rival aircraft in the competition.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2935",
+   "en": "For head-to-head prototype data, we now hold a mock battle against the rival. Needless to say, it's the most crucial test for selection. Win at any cost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2936",
+   "en": "Destroy the auto-defense satellite\nand descend to Earth amid its debris.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2937",
+   "en": "U.N. soldiers have run amok in Macross City during the memorial ceremony. Destroy the orbital auto-defense satellite and descend amid its debris.",
+   "flags": [],
+   "notes": "The ceremony (kinen shikiten) is the commemoration in Macross City (Macross Plus finale); 'run amok' for bousou (the soldiers are under Sharon's control). Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u2938",
+   "en": "Intercept the YF-21\nalongside the YF-19.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2939",
+   "en": "The joy of reaching Earth is short-lived: the YF-21 is blocking your path. There's no more time to waste. Intercept the YF-21 alongside the YF-19.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2940",
+   "en": "To stop Sharon's rampage,\ndestroy Sharon immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2941",
+   "en": "Sharon Apple has run out of control and seized U.N. Forces central command. To free the people her song is manipulating, destroy Sharon immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2942",
+   "en": "Wipe out the unknowns that just appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2943",
+   "en": "A vanguard craft reports to Battle 7 a surprise attack by an unknown force. Annihilate the unknown units to keep them off the Macross 7 fleet.",
+   "flags": [],
+   "notes": "zenei-tei = a small vanguard craft of the fleet. Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u2944",
+   "en": "As part of training,\nfight a mock battle against Gamlin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2945",
+   "en": "Danger always lurks on a journey through vast space. To prepare for the worst, beat Diamond Force member Lt. Gamlin Kizaki in a training mock battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2946",
+   "en": "Recover the containers holding citizens\nand annihilate the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2947",
+   "en": "Citizens kidnapped by the Varauta Army are being carried off in containers. Annihilate the Varauta escort and bring the containers to the designated area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2948",
+   "en": "Retake the fold generator, then defend\nit and annihilate the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2949",
+   "en": "The Varauta Army is trying to re-fold City 7, now cut off from Battle 7. Retake the generator, annihilate the Varauta Army and stop the re-fold.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2950",
+   "en": "Protect as many civilian craft as\npossible while wiping out the Varauta Army.",
+   "flags": [],
+   "notes": "Re-broken to the Japanese line sizes (40 / 44 bytes)."
+  },
+  {
+   "id": "u2951",
+   "en": "The Varauta Army suddenly appeared during the crowded Battroid Carnival. Keep citizens safe: guard the Monsters while annihilating the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2952",
+   "en": "To protect the citizens of City 7,\nannihilate the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2953",
+   "en": "Battle 7's relief escorts were wiped out instantly by a mysterious Varauta foe. Annihilate the Varauta Army to protect the citizens of City 7.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2954",
+   "en": "Annihilate the Varauta Army that's\nblocking the escape from the blazing star.",
+   "flags": [],
+   "notes": "Re-broken to the Japanese line sizes (40 / 44 bytes)."
+  },
+  {
+   "id": "u2955",
+   "en": "City 7 is being pulled toward a blazing star, and the Varauta Army has struck amid the crisis. Annihilate the Varauta Army and escape the star.",
+   "flags": [],
+   "notes": "Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u2956",
+   "en": "Annihilate the Varauta Army, which has\nlaunched a large-scale attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2957",
+   "en": "Varauta forces struck suddenly near Lux. Macross 7 faces its worst crisis yet. Sink the Varauta flagship to break their chain of command and end this crisis.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2958",
+   "en": "Destroy the Protodeviln,\nor survive for 5 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2959",
+   "en": "We've spotted a likely Protodeviln, approx. 300 m long, unlike any foe so far. Make survival your top priority, and destroy the Protodeviln if possible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2960",
+   "en": "Stop the Protodeviln coming to save\ntheir comrade from reaching the target area.",
+   "flags": [],
+   "notes": "Re-broken to the Japanese line sizes (40 / 44 bytes)."
+  },
+  {
+   "id": "u2961",
+   "en": "We captured a Protodeviln, but let its would-be rescuers break into Battle 7. Annihilate the intruders and stop them from seizing the Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2962",
+   "en": "Annihilate the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2963",
+   "en": "The Protodeviln have gotten serious and are attacking the Macross 7 fleet. We can't let the Protodeviln beat us here. Annihilate the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2964",
+   "en": "As part of training,\nfight a mock battle with the legendary duo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2965",
+   "en": "Ahead of the escalating Protodeviln war, a mock battle will now be held. Beat the married duo: a genius pilot of old in the latest model, and an ex-ace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2966",
+   "en": "Annihilate the Varauta Army to carry\nout Operation Stargazer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2967",
+   "en": "We now launch Operation Stargazer, a surprise assault by a small elite force. Wipe out the Varauta Army at all costs to fire reaction weapons into the cave.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2968",
+   "en": "Shoot down Gamlin, who is being\ncontrolled by the Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2969",
+   "en": "Capt. Gamlin, possessed by the Protodeviln, is on a rampage, wrecking bases. We can't allow more damage. You're authorized to shoot down Capt. Gamlin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2970",
+   "en": "To protect the peace of the galaxy,\ndestroy Gepelnitchi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2971",
+   "en": "To thwart Gepelnitchi's ambition, the \"Spiritia Farm Project,\" and to protect galactic peace, destroy Varauta Army commander Gepelnitchi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2972",
+   "en": "Annihilate the rogue Meltrandi fleet\nthat has launched an attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2973",
+   "en": "A vanguard ship has been wiped out by a large rogue Meltrandi fleet. They mustn't get any closer to the Macross 7 fleet. Annihilate the rogue fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2974",
+   "en": "Arrest the poachers trying\nto poach the Galaxy Whales.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2975",
+   "en": "Galaxy Whales are nearing orbit; we've detected likely poachers hunting them. Arrest them once confirmed. You may ignore the civilian craft also spotted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2976",
+   "en": "As part of training,\nfight a mock battle against Patrol officers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2977",
+   "en": "When the Galaxy Whales near Zola, poachers flock to the planet in droves. To prepare, the Zolan Star Patrol holds its regular training: a mock battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2978",
+   "en": "The Galaxy Whales are nearing Zola again: prime hunting season for poachers. We can't ignore their poaching any longer. Take the poachers into custody.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2979",
+   "en": "Escort Officer Liza to the target area\nand arrest the poachers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2980",
+   "en": "Undercover with the poachers, Officer Liza is fleeing in a stolen VF-17. Escort her to the target area, then arrest the poachers and black marketeers.",
+   "flags": [],
+   "notes": "Shortened: briefing lines hold 78 characters (2 lines)."
+  },
+  {
+   "id": "u2981",
+   "en": "Protect the Galaxy Whale from the\nreaction weapon and arrest the poachers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2982",
+   "en": "Poachers aim a reaction weapon at the white Galaxy Whale hampering their hunt. Protect the whale from the weapon at all costs and arrest the poachers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2983",
+   "en": "To stop them from entering Island 1,\nannihilate the unknown lifeforms.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2984",
+   "en": "An unknown enemy downed a New U.N. aircraft. Its heavy EM jamming seems to hide the details. Head to the scene at once and annihilate the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2985",
+   "en": "As part of training, fight a mock\nbattle against the New U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2986",
+   "en": "A mock battle now begins as our regular joint drill with the New U.N. Forces. Show them what S.M.S. can really do, and win the mock battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2987",
+   "en": "Annihilate the Vajra that have reappeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2988",
+   "en": "The enemy that hit Macross Frontier never left; it lurks in Island 3's base block. Wipe out the Vajra to keep them away from Island 1.",
+   "flags": [],
+   "notes": "Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u2989",
+   "en": "As part of the S.M.S. applicants' final\ntest, fight Pixie Team in a mock battle.",
+   "flags": [],
+   "notes": "Re-broken to the Japanese line sizes (40 / 44 bytes)."
+  },
+  {
+   "id": "u2990",
+   "en": "The final test for S.M.S. applicants begins now. To help out, join the applicants in a mock battle against Pixie Team, led by Capt. Klan Klang.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2991",
+   "en": "Scout the thieves' hideout, and if they\nattack, annihilate the thieves.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2992",
+   "en": "The New U.N. Forces have asked us to scout a thieves' hideout. If the thieves attack once you're there, you are authorized to engage them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2993",
+   "en": "As part of training, fight a mock battle\nagainst S.M.S. Skull Squadron.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2994",
+   "en": "To prepare for Vajra attacks, a mock battle begins now. Beat Maj. Ozma Lee's Skull Squadron, one of the finest elite units in all of S.M.S.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2995",
+   "en": "To save the Galaxy fleet's surviving\nships, wipe out the Vajra.",
+   "flags": [],
+   "notes": "Re-broken to the Japanese line sizes (40 / 44 bytes)."
+  },
+  {
+   "id": "u2996",
+   "en": "We'll now rescue the surviving Macross Galaxy ships under Vajra attack. Wipe out the Vajra blocking the survivors' escape from the combat zone, now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2997",
+   "en": "Wipe out the Vajra together\nwith the Macross Quarter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2998",
+   "en": "Jeffrey: \"Attention, all units in the field. This ship will now engage the Vajra carrier\n          in close-quarters combat. All hands! Transformation!!\"",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Speaker-label briefing laid out like MUF's shipped Ranka/Sheryl briefings (label, quote, indented second line). 'Vajra carrier' for the Japanese 'Vajra kuubokan' (glossary unit: Carrier-class Vajra). 'All hands!' for zenkan."
+  },
+  {
+   "id": "u2999",
+   "en": "Wipe out the Vajra that appeared\nwhile surveying their nest.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3000",
+   "en": "We found a Vajra nest and began a survey, aiming to grab a cocoon if possible, but the Vajra spotted us almost at once. Move swiftly to wipe them out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3001",
+   "en": "Quell the Zentradi riot\nthat broke out on Gallia 4.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3002",
+   "en": "A performance crew on a morale tour of planet Gallia 4 has been taken hostage by rioting Zentradi. Put down the riot to rescue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3003",
+   "en": "Clear out all the Vajra cocoons\naboard the Global.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3004",
+   "en": "The Global, 117th Research Fleet flagship found on planet Gallia 4, has become a Vajra lair. To stop the Vajra breeding, clear out every Vajra cocoon aboard.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "Mission objective rows: several TM lines exceed the per-line estimate as MUF shipped them (widest shipped objective line in the corpus: 274 px); kept.",
+   "u2998: Jeffrey's speaker-label briefing written in MUF's speaker layout (label + indented second line) rather than one paragraph; the build re-wrap joins the lines anyway. 'Zenkan! Transformation!!' rendered 'All hands! Transformation!!' (zenkan could also be read 'all ships').",
+   "u2937: 'memorial ceremony' assumed to be the Macross City commemoration from Macross Plus."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "automated defense satellite (jidou bouei satellite, Macross Plus) is not in the glossary; written as a common noun."
+  ],
+  "unfinished": []
+ }
+}

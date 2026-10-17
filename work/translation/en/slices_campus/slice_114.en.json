@@ -1,0 +1,395 @@
+{
+ "slice": 114,
+ "rows_in_slice": 63,
+ "rows_examined": 63,
+ "rows": [
+  {
+   "id": "c08411",
+   "en": "(Now, what should I buy at Folmo today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08412",
+   "en": "I just came to do a little shopping.\nWhat are you up to, Luis-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08413",
+   "en": "Whoa, whoa, just how fresh are you?\nYou're killin' me... Can't you tell by looking?\nIt's a gig! A G-I-G!",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c08414",
+   "en": "Huh!?\nYou do street concerts, Luis-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08415",
+   "en": "Oh YES!\nLive is my LIFE!!",
+   "flags": [],
+   "notes": "English in the Japanese."
+  },
+  {
+   "id": "c08416",
+   "en": "The best way to get my overflowing passion\nacross... is song!\nNow let's see if we can move a mountain!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08417",
+   "en": "(M-Move a mountain...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08418",
+   "en": "The crowd's picking up, perfect timing.\nTime to get started!\nSince you're here, stick around and listen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08419",
+   "en": "Okay, then I'll do that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08420",
+   "en": "No, wait...\nYou look like just listening won't cut it for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08421",
+   "en": "I know, you sing with me!\nLet's move that mountain together!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08422",
+   "en": "Huh!?\nWait, you can't just spring that on me......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08423",
+   "en": "Don't be shy!\nNo need to be embarrassed, it's your debut!",
+   "flags": [],
+   "notes": "'Don't be shy!' is English in the Japanese."
+  },
+  {
+   "id": "c08424",
+   "en": "Ahh, ahh, mic check, one, two...\nAll right, let's start!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08425",
+   "en": "Whaaaaaaaaaaaaat!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08426",
+   "en": "Ugh... That was so embarrassing......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08427",
+   "en": "I've seen your passion, loud and clear...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08428",
+   "en": "Luis-san...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08429",
+   "en": "It wasn't bad...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08430",
+   "en": "But! However!!!\nThat's not enough to move the mountain\ncalled Luis Fernando!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08431",
+   "en": "All right, one more song!\nFollow me!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08432",
+   "en": "(Ugh... Please, give me a break already......\nLuis-san...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08433",
+   "en": "(I came to Folmo, but there's nothing\nin particular to do. Hmm, what should I do...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08434",
+   "en": "(Oh, it's Luis-san.\nIs he about to do a gig or something?)",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c08435",
+   "en": "(Huh? He went off somewhere...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08436",
+   "en": "(Wait, why am I disappointed...?\nWas I looking forward to Luis-san's show?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08437",
+   "en": "(Well, even if I was, I'd rather not\njoin in myself ever again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08438",
+   "en": "(I came to Folmo, but there's nothing\nin particular to do. Hmm, what should I do...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08439",
+   "en": "(Oh, it's Luis-san.\nIs he about to do a gig or something?)",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c08440",
+   "en": "(Wait, why am I disappointed...?\nWas I looking forward to Luis-san's show?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08441",
+   "en": "(Okay, classes are over,\nso I guess I'll head home soon...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08442",
+   "en": "Well, I'm a Mihoshi student, so...\nWhat are you doing here, Luis-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08443",
+   "en": "Got nostalgic for this thing called school.\nCame to soak in some memories for a bit.\nCouldn't help it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08444",
+   "en": "Huh? Did you graduate from Mihoshi, Luis-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08445",
+   "en": "The answer is NO, Fresh Boy.",
+   "flags": [],
+   "notes": "'NO' is English in the Japanese."
+  },
+  {
+   "id": "c08446",
+   "en": "(Huh! Oh, s-so he didn't...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08447",
+   "en": "The school I went to was called\nDalmatian High School, on planet Eden.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08448",
+   "en": "Huh, is that right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08449",
+   "en": "Don't know why, but I was famous\nin high school. Back then, I got called\nby a nickname I never saw coming.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08450",
+   "en": "(Well, it wouldn't be strange for Luis-san\nto be famous, in more ways than one...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08451",
+   "en": "What kind of nickname was it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08452",
+   "en": "Heh, you must've heard it too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08453",
+   "en": "The Hummingbird of Dalmatian High School...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08454",
+   "en": "...is me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08455",
+   "en": "(Yeah, never heard it...\nThat nickname......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08456",
+   "en": "High school life is one of life's precious\nmemories. Enjoy every day to the fullest\nso you have no regrets, OK?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08457",
+   "en": "Guess I got a little too lost in nostalgia.\nNot like me at all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08458",
+   "en": "Guess I'll head home.\nSee ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08459",
+   "en": "Okay, see you later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08460",
+   "en": "(High school life is one of life's precious\nmemories, huh... I'll do my best\nto make them all good ones!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08461",
+   "en": "(Still, Luis-san... he's always just hanging\naround inside the school like it's normal.\nIsn't that a problem...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08462",
+   "en": "Well, I'm a Mihoshi student, so...\nWhat are you doing here, Luis-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08463",
+   "en": "The answer is NO, Fresh Girl.",
+   "flags": [],
+   "notes": "'NO' is English in the Japanese."
+  },
+  {
+   "id": "c08464",
+   "en": "(Well, it wouldn't be strange for Luis-san\nto be famous, in more ways than one...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08465",
+   "en": "What kind of nickname was it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08466",
+   "en": "(High school life is one of life's precious\nmemories, huh... I'll do my best\nto make them all good ones!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08467",
+   "en": "(Phew, today's classes were exhausting.\nI just want to go home and sleep...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08468",
+   "en": "(Oh, it's Luis-san.\nHe's got kind of a wistful look...\nIs he remembering the old days again?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08469",
+   "en": "Ahh, I'm starving.\nAll right, let's go grab a chili dog!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08470",
+   "en": "(So he was just hungry...\nSigh... Guess I'll go home too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08471",
+   "en": "(Phew, today's classes were exhausting.\nI just want to go home and sleep...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08472",
+   "en": "(Oh, it's Luis-san.\nHe's got kind of a wistful look...\nIs he remembering the old days again?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08473",
+   "en": "(So he was just hungry...\nSigh... Guess I'll go home too......)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c08442/c08462: the player's line answers Luis's shared greeting c08308/c08353 ('What on earth are you doing here?'): 'Well, I'm a Mihoshi student, so...'.",
+   "c08413: ra-i-bu spelled out rendered 'A L-I-V-E show!'.",
+   "c08453: 'The Hummingbird of Dalmatian High School' (hamingubaado) - literal nickname."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

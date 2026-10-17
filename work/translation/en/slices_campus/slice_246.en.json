@@ -1,0 +1,430 @@
+{
+ "slice": 246,
+ "rows_in_slice": 69,
+ "rows_examined": 69,
+ "rows": [
+  {
+   "id": "c17801",
+   "en": "(...Okay, so P.E.'s over, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17802",
+   "en": "\\p-san,\nyou were really giving it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17803",
+   "en": "You're pretty athletic too, Luca.\nHard to believe you're a year younger than me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17804",
+   "en": "I can't afford to fall behind, after all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17805",
+   "en": "Oh, that's the spirit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17806",
+   "en": "Shall we head back and change?\nI'm all sticky with sweat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17807",
+   "en": "(...I'd better make sure I don't fall asleep\nin the next class.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17808",
+   "en": "You're pretty athletic too, Luca-kun.\nHard to believe you're a year younger than me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17809",
+   "en": "Yeah, me too!",
+   "flags": [],
+   "notes": "Female player answering Luca's 'I'm all sticky with sweat, let's go change'."
+  },
+  {
+   "id": "c17810",
+   "en": "(...All this wandering around made me hungry...\nMaybe I'll grab something to eat.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17811",
+   "en": "\\p-san!\nIt's rare to run into you in a place like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17812",
+   "en": "Hey, Luca. Out shopping?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17813",
+   "en": "Yes, I came to buy a new-model stabilizer\nfor Samson.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17814",
+   "en": "A new model... You never change, do you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17815",
+   "en": "Samson's my partner, after all.\nI don't want to cut any corners.",
+   "flags": [],
+   "notes": "Japanese 'boku no aibou desu kara ne' with Samson (Luca's EX-Gear) as the dropped subject; named it rather than pick a pronoun."
+  },
+  {
+   "id": "c17816",
+   "en": "Well then, I have maintenance to do on Samson,\nso if you'll excuse me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17817",
+   "en": "(Where does Luca's passion even come from...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17818",
+   "en": "(...I'm hungry...\nMaybe I'll grab something to eat.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17819",
+   "en": "Oh, Luca-kun. Out shopping?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17820",
+   "en": "A new model... You never change, huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17821",
+   "en": "(Where does Luca-kun's passion even come from...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17822",
+   "en": "(I'd better warm up properly before swimming...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17823",
+   "en": "\\p-san, if you're on your own,\nwould you like to warm up together?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17824",
+   "en": "Sure, let's do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17825",
+   "en": "I-I don't know where to look...",
+   "flags": [],
+   "notes": "The girls around them are in swimsuits."
+  },
+  {
+   "id": "c17826",
+   "en": "Y-Yeah, tell me about it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17827",
+   "en": "They're all cute, huh...\nSo, Luca, for you it's gotta be......",
+   "flags": [],
+   "notes": "Trails off before naming Nanase, as the Japanese."
+  },
+  {
+   "id": "c17828",
+   "en": "N-Nanase-san has nothing to do with it, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17829",
+   "en": "I didn't even say anything...\nYou're so easy to read.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17830",
+   "en": "\\p-san, stretch your legs out.\nIt'd be awful if you got a cramp in the water!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17831",
+   "en": "O-Okay, I get it, so stop pushing so hard!!",
+   "flags": [],
+   "notes": "Shown as the male player's line (the Luca-plate occurrences are not displayed, fn 37); Luca is pushing the player into the stretch."
+  },
+  {
+   "id": "c17832",
+   "en": "(It's a class, but maybe I'll just enjoy the swim.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17833",
+   "en": "Yeah, okay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17834",
+   "en": "What, so looking at me doesn't bother you?",
+   "flags": [],
+   "notes": "Female player teasing Luca: literally 'mine doesn't bother you?' (her swimsuit figure) after he says he does not know where to look."
+  },
+  {
+   "id": "c17835",
+   "en": "...Th-That's not what I meant...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17836",
+   "en": "But they're all cute, huh.\nSoooo~ Luca-kun, for you it's gotta be~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17837",
+   "en": "I didn't even say anything...\nYou're so easy to read.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17838",
+   "en": "O-Okay, I get it, so stop pushing so hard!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17839",
+   "en": "(Next class is math, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17840",
+   "en": "Let's see, there was homework, right...\n...Huh? It's not here!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17841",
+   "en": "\\p-san,\nis something wrong? You were shouting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17842",
+   "en": "...I forgot my math homework.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17843",
+   "en": "I see, that's rough.\nWell then, I'll just go get a drink of water...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17844",
+   "en": "Hey, Luca!\nIf it's okay, let me see your textbook.\nI want to get it done now while I can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17845",
+   "en": "...It's so full of my notes that\nyou won't be able to read it, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17846",
+   "en": "That's totally fine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17847",
+   "en": "Whoa, it really is covered in writing...\nWhat does all this even say...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17848",
+   "en": "All sorts of things. I jot down\nwhatever ideas come to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17849",
+   "en": "(Geniuses really are something else~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17850",
+   "en": "(Next class is math...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17851",
+   "en": "Let's see, there was homework, wasn't there...\n...Huh? It's not here!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17852",
+   "en": "...I forgot my math homework...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17853",
+   "en": "Hey, Luca-kun!\nIf it's okay, let me see your textbook.\nI want to get it done now while I can...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17854",
+   "en": "That's totally fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17855",
+   "en": "Wow, it really is covered in writing...\nWhat does all this even say...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17856",
+   "en": "All sorts of things. I jot down\nwhatever ideas come to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17857",
+   "en": "(Geniuses really are on another level~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17858",
+   "en": "What are you going for, Luca-kun?",
+   "flags": [],
+   "notes": "Displayed only in the female scene (player line); the male-scene occurrence is not displayed (fn 37)."
+  },
+  {
+   "id": "c17859",
+   "en": "(Class is finally over... I'm starving...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17860",
+   "en": "\\p-san,\nshall we go get lunch?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17861",
+   "en": "Sure. Is it okay if we buy something\nat the school store first?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17862",
+   "en": "Yes, that's what I was planning to do too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17863",
+   "en": "What are you going for, Luca?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17864",
+   "en": "I haven't decided yet.\nI can eat just about anything.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17865",
+   "en": "Even a rainbow carrot bun?",
+   "flags": [],
+   "notes": "nanairo ninjin pan: 'rainbow carrots' per terms.json + bun."
+  },
+  {
+   "id": "c17866",
+   "en": "Well, that might be a bit much...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17867",
+   "en": "Okay, let's hurry up and buy something!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17868",
+   "en": "(Please let them have something other than\nrainbow carrot buns~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17869",
+   "en": "Sure. Is it okay if we buy something\nat the school store first?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c17831/c17858: speaker plates differ between occurrences; only fn 0 occurrences are displayed, so treated as player lines.",
+   "c17865/c17868: 'rainbow carrot bun' built from the glossary 'rainbow carrots'; the bun itself is not in the glossary."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,504 @@
+{
+ "slice": 2,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "of_ktr/046",
+   "en": "Please keep up the attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/047",
+   "en": "The attack target is nearly destroyed, I should say.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/047",
+   "en": "The target's almost destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/048",
+   "en": "Attack target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/048",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/049",
+   "en": "Target destruction confirmed!",
+   "flags": [],
+   "notes": "TF re-recording; the MUF clip said 'looks like you took the target down'."
+  },
+  {
+   "id": "o7_exd/049",
+   "en": "Destruction of the attack target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/049",
+   "en": "Target destruction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/052",
+   "en": "Roughly half the enemy turrets destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/052",
+   "en": "About half the enemy turrets destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/053",
+   "en": "Destruction of all enemy turrets confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/053",
+   "en": "All enemy turrets confirmed destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/054",
+   "en": "Roughly half the attack targets destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/054",
+   "en": "About half the targets destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/055",
+   "en": "All attack targets destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/055",
+   "en": "All targets destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/056",
+   "en": "The attack target has begun breaking through the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/056",
+   "en": "The target's started breaking through!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/057",
+   "en": "The target looks set to break through the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/057",
+   "en": "The target's going to break through! Hurry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/058",
+   "en": "I fear the attack target has broken through the combat zone.",
+   "flags": [],
+   "notes": "shimaimashita na: regret, rendered as 'I fear'."
+  },
+  {
+   "id": "of_ktr/058",
+   "en": "The target's broken through the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/059",
+   "en": "The target has begun to withdraw. Destroy it before it breaks through the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/059",
+   "en": "The target's started withdrawing. Destroy it before it breaks through the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/060",
+   "en": "The target has begun to withdraw. Destroy it if at all possible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/060",
+   "en": "The target's started withdrawing. Take it down if you can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/061",
+   "en": "The enemy is still intact. It will soon escape the combat zone, I fear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/061",
+   "en": "The enemy's still intact. It'll leave the combat zone any moment!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "sen'eki-gai 'battle street' heard for sen'iki-gai 'outside the combat zone'."
+  },
+  {
+   "id": "o0_of2/062",
+   "en": "The target's left the combat zone!",
+   "flags": [],
+   "notes": "TF re-recording; the MUF clip said 'we lost the target'."
+  },
+  {
+   "id": "o7_exd/062",
+   "en": "The attack target has left the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/062",
+   "en": "Target has left the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/063",
+   "en": "It seems we have lost the attack target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/063",
+   "en": "Target lost.",
+   "flags": [],
+   "notes": "Says 'rosuto' (lost) as a call."
+  },
+  {
+   "id": "o7_exd/064",
+   "en": "The target has left the combat zone. We cannot track it, I am afraid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/064",
+   "en": "Target's left the combat zone. I can't track it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/065",
+   "en": "Destroy the target before it reaches the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/065",
+   "en": "Destroy the target before it reaches the objective area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/066",
+   "en": "The attack target is approaching the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/066",
+   "en": "Target approaching the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/067",
+   "en": "The attack target has reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/067",
+   "en": "Target has reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/068",
+   "en": "The defense target has entered the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/068",
+   "en": "The defense target's entered the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/069",
+   "en": "Escort the defense target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/069",
+   "en": "Take up escort of the defense target.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "tsuite read as 'about'; most likely tsuite 'take up (a post)'."
+  },
+  {
+   "id": "o7_exd/070",
+   "en": "Defense target confirmed. Would you be so kind as to protect it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/070",
+   "en": "Defense target confirmed. Protect it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/071",
+   "en": "Would you escort it, so the enemy cannot destroy it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/071",
+   "en": "Escort it so the enemy can't destroy it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/072",
+   "en": "Escorting the defense target is the top priority.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/072",
+   "en": "Escorting the defense target is top priority.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/073",
+   "en": "The defense target is under enemy attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/073",
+   "en": "The defense target's under enemy attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/074",
+   "en": "The defense target's damage is spreading.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/074",
+   "en": "Defense target damage spreading.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/075",
+   "en": "The defense target's at its limit!",
+   "flags": [],
+   "notes": "TF re-recording; the MUF clip said 'it won't last at this rate'."
+  },
+  {
+   "id": "o7_exd/075",
+   "en": "Defense target damage at its limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/075",
+   "en": "Defense target damage at its limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/076",
+   "en": "The defense target does not look able to hold out any longer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/076",
+   "en": "The defense target can't take any more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/077",
+   "en": "I fear the defense target has been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/077",
+   "en": "The defense target has been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/078",
+   "en": "I fear the defense target has been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/078",
+   "en": "The defense target's been destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/079",
+   "en": "Would you protect as many defense targets as you can?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/079",
+   "en": "Protect as many defense targets as you can!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/083",
+   "en": "The defense target's damage is spreading.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/083",
+   "en": "Defense target damage spreading.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/084",
+   "en": "All defense targets lost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/084",
+   "en": "All defense targets lost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/085",
+   "en": "Defense target still intact.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "kenzai 'manifest' kanji for kenzai 'intact'."
+  },
+  {
+   "id": "of_ktr/085",
+   "en": "Defense target's still intact.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/086",
+   "en": "It seems the friendly forces have withdrawn safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/086",
+   "en": "Looks like the friendlies got away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/087",
+   "en": "The defense target has begun to withdraw.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/087",
+   "en": "Defense target withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/088",
+   "en": "Friendly forces have begun leaving the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/088",
+   "en": "Friendlies are pulling out of the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/089",
+   "en": "The defense target has begun leaving the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/089",
+   "en": "Defense target is leaving the combat zone.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 108 of_ktr/061: sen'eki-gai 'battle street' heard for sen'iki-gai 'outside the combat zone'.",
+   "row 125 of_ktr/069: tsuite read as 'about'; most likely tsuite 'take up (a post)'.",
+   "row 151 o7_exd/085: kenzai 'manifest' kanji for kenzai 'intact'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

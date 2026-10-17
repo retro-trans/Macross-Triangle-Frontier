@@ -1,0 +1,397 @@
+{
+ "slice": 281,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c20149",
+   "en": "(Geez, that Hoshimura... She said we'd run\nthe P.E. marathon together, then took off\nlike a bat out of hell right at the start...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20150",
+   "en": "(...Huh? Wait,\nis that Hoshimura wiped out over there?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20151",
+   "en": "Hah, hah, hah...\nHey, \\p.\nLong time no see......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20152",
+   "en": "Long time no see, my foot.\nYou're the one who ditched me out of nowhere...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20153",
+   "en": "Sorry, sorry!\nI just wanted to be in first place,\neven if it was only for a second...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20154",
+   "en": "(Hoshimura really never thinks ahead.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20155",
+   "en": "I wanted to make it with you, but it looks\nlike this is as far as I go......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20156",
+   "en": "Never mind me... go on ahead!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20157",
+   "en": "Okay, if you say so. I'll go on ahead, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20158",
+   "en": "Whaaat~! That's so mean~!\nLeaving a delicate maiden behind?!\nYou fiend~! You devil~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20159",
+   "en": "\"Devil\"...?",
+   "flags": [],
+   "notes": "Shared by both player genders."
+  },
+  {
+   "id": "c20160",
+   "en": "(Haah~, it can't be helped...\nGuess I'll head for the finish line with Hoshimura.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20161",
+   "en": "(Geez, Yui... She said we'd run\nthe P.E. marathon together, then just\ndashed off right at the start...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20162",
+   "en": "(...Huh? Wait,\nis that Yui wiped out over there?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20163",
+   "en": "Long time no see, my foot.\nYou're the one who ditched me out of nowhere...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20164",
+   "en": "(Yui really never thinks ahead.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20165",
+   "en": "Okay, if you say so. I'll go on ahead, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20166",
+   "en": "(Haah~, it can't be helped...\nMaybe I'll head for the finish line with Yui.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20167",
+   "en": "(Deep Akihabara has all kinds of shops,\nso just wandering around like this is fun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20168",
+   "en": "Oh-ho? If it isn't \\p!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20169",
+   "en": "Oh, Hoshimura.\nDid you come to Deep Akihabara to shop?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20170",
+   "en": "Yup. I caught wind of a rumor that junk parts\nare going dirt cheap, so I hurried right over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20171",
+   "en": "Junk parts...? Is it really okay\nto buy stuff like that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20172",
+   "en": "Tsk, tsk, tsk. You just don't get it.\nSometimes stuff is good precisely\nbecause it's junk.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20173",
+   "en": "That's riiight!\nSo with that, I'm gonna pop over there\nreal quick!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20174",
+   "en": "(Hoshimura really loves machines.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20175",
+   "en": "(Deep Akihabara has all kinds of shops,\nso just wandering around like this is fun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20176",
+   "en": "Oh, Yui.\nDid you come to Deep Akihabara to shop?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20177",
+   "en": "Junk parts...? Is it really okay\nto buy stuff like that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20178",
+   "en": "(Yui really loves machines.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20179",
+   "en": "(Pool class on a hot day really is the best.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20180",
+   "en": "Ahhh... A pool on a hot day like this\nis sheer paradise, I tell ya~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20181",
+   "en": "...You kinda sound like a middle-aged lady,\nHoshimura.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20182",
+   "en": "Hmph! You'd call a fresh young thing\nlike Yui-san a middle-aged lady?!\nWhat is the meaning of this!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20183",
+   "en": "Here, look!\nFeast your eyes on this sexy body of mine!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20184",
+   "en": "(Hmmm......\nI wouldn't exactly call it sexy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20185",
+   "en": "(Going by size alone, she's no match\nfor Nanase or Akimizu...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20186",
+   "en": "...Hey, you're thinking something rude\nright now, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20187",
+   "en": "...I think you're imagining things.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20188",
+   "en": "(Hoshimura's sharp in the weirdest places.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20189",
+   "en": "(Pool class on a hot day really is the best.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20190",
+   "en": "...You kinda sound like a middle-aged lady, Yui.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20191",
+   "en": "(Hmmm......\nI wouldn't exactly call it sexy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20192",
+   "en": "(Going by size alone, she's no match\nfor Nanase or Yuu...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20193",
+   "en": "...I think you're imagining things.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20194",
+   "en": "(Yui's sharp in the weirdest places.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20195",
+   "en": "(Geez, that Hoshimura... Sleeping through\nthat whole class from start to finish. That takes\nguts, or... I don't even know what to call it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20196",
+   "en": "Hey, Hoshimura, wake up. Hellooo?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20197",
+   "en": "Five... more...... hours.........",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20198",
+   "en": "Five more hours and school will be over!\nHoshimura, I said wake up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20199",
+   "en": "I can't eat that much steak, I tell ya...\nMmm... mumble mumble...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20200",
+   "en": "(She's obviously talking in her sleep.\nOh well, there's nothing else for it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20201",
+   "en": "Next class is EX-Gear maintenance,\nbut I take it you're staying here asleep\nin the classroom, Hoshimura?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20202",
+   "en": "What?! Is our next class\nEX-Gear maintenance?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20203",
+   "en": "I can't be dawdling like this!\nI must make haste!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20204",
+   "en": "(And Hoshimura's already gone...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20205",
+   "en": "(After she wouldn't even get up\na minute ago... Honestly...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20206",
+   "en": "(Geez, Yui... Sleeping through\nthat whole class from start to finish. That takes\nguts, or... I don't even know what to call it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20207",
+   "en": "Hey, Yui, wake up. Hellooo?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20208",
+   "en": "Five more hours and school will be over!\nYui, I said wake up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20209",
+   "en": "(She's obviously talking in her sleep.\nOh well, there's nothing else for it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20210",
+   "en": "Next class is EX-Gear maintenance,\nbut I take it you're staying here asleep\nin the classroom, Yui?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20211",
+   "en": "(And Yui's already gone...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20212",
+   "en": "(After she wouldn't even get up\na minute ago... Honestly, geez...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

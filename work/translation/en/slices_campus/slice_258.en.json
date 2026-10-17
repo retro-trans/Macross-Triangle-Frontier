@@ -1,0 +1,450 @@
+{
+ "slice": 258,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c18596",
+   "en": "(Even if they say they found a new planet,\nI can't really picture it...)",
+   "flags": [],
+   "notes": "Male, nml_nns_003. \"atarashii hoshi\" = the newly found planet."
+  },
+  {
+   "id": "c18597",
+   "en": "\\p-kun, what's up?",
+   "flags": [],
+   "notes": "Nanase (male variant), also in nml_nns_011 where the player is lost in thought; fits both."
+  },
+  {
+   "id": "c18598",
+   "en": "Oh, I was just thinking about the new planet...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18599",
+   "en": "Oh, really? Is there something about it?",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18600",
+   "en": "No, it's the opposite.\nI just can't picture it at all.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18601",
+   "en": "That's true. I have no idea what it'll be like either.",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18602",
+   "en": "Right...?",
+   "flags": [],
+   "notes": "Both variants, player."
+  },
+  {
+   "id": "c18603",
+   "en": "But with Ranka-san and everyone at Mihoshi...\nno, with everyone on the Frontier,\nI'm sure we'll be fine!",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18604",
+   "en": "Yeah, you're right!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18605",
+   "en": "(No point worrying about what I can't know.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18606",
+   "en": "(Even if they say they found a new planet...\nI just can't picture it...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18607",
+   "en": "\\p-san, what's up?",
+   "flags": [],
+   "notes": "Nanase (female variant), also nml_nns_011 female."
+  },
+  {
+   "id": "c18608",
+   "en": "Nothing, I was just thinking about the new planet...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18609",
+   "en": "No, it's the opposite.\nI just can't imagine it at all.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18610",
+   "en": "Yeah, I'm sure you're right!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18611",
+   "en": "(No sense worrying about what I can't know.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18612",
+   "en": "(Whoa, I spaced out at school,\nand now look how late it is...)",
+   "flags": [],
+   "notes": "Male, nml_nns_004."
+  },
+  {
+   "id": "c18613",
+   "en": "Huh? \\p-kun?",
+   "flags": [],
+   "notes": "Nanase (male variant); also Ranka in nml_rnk_024 male. Fits both."
+  },
+  {
+   "id": "c18614",
+   "en": "Nanase? What are you doing out this late?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18615",
+   "en": "Well, I was at my part-time job,\nand before I knew it, it was this late...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18616",
+   "en": "What, you worked this late? That's rough...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18617",
+   "en": "No, it's not that. After work,\nI got to talking with Ranka-san, and...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18618",
+   "en": "Oh, I see. That explains it...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18619",
+   "en": "Oh! I have to hurry home. Bye for now!",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18620",
+   "en": "Get home safe!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18621",
+   "en": "(I wonder what Nanase was talking about\nuntil this late...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18622",
+   "en": "(Whoa, I spaced out at school,\nand now it's this late...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18623",
+   "en": "Huh? \\p-san?",
+   "flags": [],
+   "notes": "Female. Nanase."
+  },
+  {
+   "id": "c18624",
+   "en": "Huh, Nanase? What are you doing out this late?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18625",
+   "en": "What, you worked this late? That's rough...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18626",
+   "en": "Oh, I see. That explains it...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18627",
+   "en": "Be careful on your way home!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18628",
+   "en": "(I wonder what Nanase was talking about\nuntil this late...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18629",
+   "en": "(The city... the Frontier is in ruins...)",
+   "flags": [],
+   "notes": "Male, nml_nns_005."
+  },
+  {
+   "id": "c18630",
+   "en": "\\p-kun, you're safe!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Nanase (male variant). The row also has PLAYER occurrences near the end of both variants (after the last spoken line, before the closing monologue); they look like a duplicate string in the script. Translated as Nanase's line."
+  },
+  {
+   "id": "c18631",
+   "en": "You're safe too, Nanase.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18632",
+   "en": "Yes, but... the city...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18633",
+   "en": "Yeah. I never thought it would get this bad...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18634",
+   "en": "This... isn't a dream... is it...?",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18635",
+   "en": "Yeah... I really wish it were just a dream...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18636",
+   "en": "(I have to stop the damage from\ngetting any worse...)",
+   "flags": [],
+   "notes": "Both variants, the player (a pilot) resolving to protect the city; subject \"I\" restored."
+  },
+  {
+   "id": "c18637",
+   "en": "(The city... the Frontier is in ruins...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18638",
+   "en": "\\p-san, you're safe!",
+   "flags": [],
+   "notes": "Female. Nanase."
+  },
+  {
+   "id": "c18639",
+   "en": "You're safe too, Nanase.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18640",
+   "en": "Yeah... I never thought it would get this bad...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18641",
+   "en": "Yeah... I really wish it were just a dream...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18642",
+   "en": "(The tests are finally over~...)",
+   "flags": [],
+   "notes": "Both variants, nml_nns_006."
+  },
+  {
+   "id": "c18643",
+   "en": "Good work, \\p-kun.",
+   "flags": [],
+   "notes": "Male. Nanase (otsukaresama desu), after the tests."
+  },
+  {
+   "id": "c18644",
+   "en": "Oh, Nanase. How'd the tests go?",
+   "flags": [],
+   "notes": "Both variants."
+  },
+  {
+   "id": "c18645",
+   "en": "Let's see...\nI think I did about as well as usual.",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18646",
+   "en": "You always get good grades, Nanase.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18647",
+   "en": "Oh, well...",
+   "flags": [],
+   "notes": "Nanase (both variants); also the female player in nml_she_014. Neutral enough for both."
+  },
+  {
+   "id": "c18648",
+   "en": "You've got your part-time job, and you still\ndo all your Art Course assignments...\nYou're seriously amazing, Nanase.",
+   "flags": [],
+   "notes": "Both variants. \"geijutsuka\" = Art Course."
+  },
+  {
+   "id": "c18649",
+   "en": "Geez! Flattering me like that\nwon't get you anything!",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18650",
+   "en": "(Seriously, does Nanase even have any flaws...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18651",
+   "en": "Good work, \\p-san.",
+   "flags": [],
+   "notes": "Female. Nanase."
+  },
+  {
+   "id": "c18652",
+   "en": "You always do get good grades, Nanase.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18653",
+   "en": "(Honestly, I wonder if Nanase has\nany flaws at all...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18654",
+   "en": "(It's this late already?\nI've got to hurry to the next classroom!)",
+   "flags": [],
+   "notes": "Male, nml_nns_007."
+  },
+  {
+   "id": "c18655",
+   "en": "Ah, sorry, Nanase!",
+   "flags": [],
+   "notes": "Male; the player bumped into her."
+  },
+  {
+   "id": "c18656",
+   "en": "No, I was in a bit of a hurry too...\nI'm sorry.",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18657",
+   "en": "Can you stand? You're not hurt or anything?",
+   "flags": [],
+   "notes": "Both variants."
+  },
+  {
+   "id": "c18658",
+   "en": "Yeah, I'm fine. Thanks.",
+   "flags": [],
+   "notes": "Nanase (both variants); also Akimizu in nml_yuu_008. Fits both."
+  },
+  {
+   "id": "c18659",
+   "en": "Good. I'm glad you're okay...",
+   "flags": [],
+   "notes": "Both variants."
+  },
+  {
+   "id": "c18660",
+   "en": "\\p-kun,\nyou're so kind...",
+   "flags": [],
+   "notes": "Male. Nanase."
+  },
+  {
+   "id": "c18661",
+   "en": "Huh? Oh, I wouldn't say that...\nOh, right, we have to hurry!",
+   "flags": [],
+   "notes": "Both variants; both are late, so \"we\"."
+  },
+  {
+   "id": "c18662",
+   "en": "That's right, let's hurry!",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18663",
+   "en": "(Phew, glad nothing bad happened~)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18664",
+   "en": "(It's this late already?\nI need to hurry to the next classroom!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18665",
+   "en": "Ah, I'm sorry, Nanase!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18666",
+   "en": "\\p-san,\nyou're so kind...",
+   "flags": [],
+   "notes": "Female. Nanase."
+  },
+  {
+   "id": "c18667",
+   "en": "(Nanase's eyes looked kind of...\nMaybe it's just my imagination...)",
+   "flags": [],
+   "notes": "Female. Hint at Nanase's gaze; kept vague as in the Japanese."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18630: also listed as PLAYER lines at the end of both variants of nml_nns_005 (a male-only '-kun' string in the female branch too), most likely a duplicate/unused string; translated as Nanase's line.",
+   "c18636: subject restored as 'I' (the pilot player resolving to stop further damage)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

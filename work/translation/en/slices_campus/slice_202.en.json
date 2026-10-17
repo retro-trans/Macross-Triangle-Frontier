@@ -1,0 +1,375 @@
+{
+ "slice": 202,
+ "rows_in_slice": 60,
+ "rows_examined": 60,
+ "rows": [
+  {
+   "id": "c14783",
+   "en": "(I promised to hang out with Hoshimura\nin Deep Akihabara today... but I bet\nshe's going to be late again.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14784",
+   "en": "Geez! You're late, \\p!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14785",
+   "en": "Huh! Hoshimura got here first...?\nWhat on earth happened?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14786",
+   "en": "Well, today we're hanging out in Deep Akihabara!\nI've been looking forward to it so, so much!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14787",
+   "en": "(Come to think of it, Hoshimura loves\nmaking the rounds of junk shops and stuff.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14788",
+   "en": "Hurry up, let's go, \\p!\nMountains of machinery await us~!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14789",
+   "en": "Whew~, I bought and bought!\nI scored some real finds, so I'm\nsuuuper satisfied!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14790",
+   "en": "Good for you, but...\nhow can you carry such heavy stuff so easily?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14791",
+   "en": "It's so I can tinker with these machines!\nThis is nothing, nothing at all.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14792",
+   "en": "Okay!\nI need to get home ASAP, so I'm off!\nByyye~!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14793",
+   "en": "(Hoshimura really loves tinkering with machines.\nWell, I had fun too, so I guess it was\na nice change of pace.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14794",
+   "en": "(I promised to hang out with Yui\nin Deep Akihabara today... but I bet\nshe's going to be late again.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14795",
+   "en": "Huh! Yui got here first...?\nWhat on earth happened?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14796",
+   "en": "(Come to think of it, Yui loves\nmaking the rounds of junk shops and stuff.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14797",
+   "en": "Good for you, but...\nhow can you carry such heavy stuff so easily?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14798",
+   "en": "Yeah, see you.",
+   "flags": [],
+   "notes": "Female. Matches the male \"Yeah, see you.\" in this scene."
+  },
+  {
+   "id": "c14799",
+   "en": "(Yui really loves tinkering with machines.\nWell, I had fun too, so it was\na nice change of pace.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14800",
+   "en": "(I came to Nyan-Nyan with Hoshimura\nto get something to eat today, but...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14801",
+   "en": "Oh, the maguro buns are all gone...\nExcuse meee! Two more orders\nof maguro buns, please!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14802",
+   "en": "I really think you're eating way too much...\nHoshimura...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14803",
+   "en": "Whaaat? This much is normal~\nI haven't eaten nearly enough yet!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14804",
+   "en": "It seems the time has come\nfor me to show you my true power...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14805",
+   "en": "Excuse m...!",
+   "flags": [],
+   "notes": "Shared male/female. Cut off by the player."
+  },
+  {
+   "id": "c14806",
+   "en": "Hold it right there, Hoshimura!\nDon't tell me I'm paying this time?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14807",
+   "en": "As if!\nKindly don't talk like I'm always\nmaking you treat me.",
+   "flags": [],
+   "notes": "Shared male/female. yoshite okure yo: old-fashioned, kept as \"Kindly\"."
+  },
+  {
+   "id": "c14808",
+   "en": "Naturally, we'll split the bill.\nHonestly, I'm just so modest~",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14809",
+   "en": "But even if we split it, you're the only one\neating all that, Hoshimura... So in the end,\naren't I the only one losing out...?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14810",
+   "en": "Excuse meee!!\nTwo more orders of Galaxy Ramen!!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14811",
+   "en": "Ah, Hoshimura!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14812",
+   "en": "(Sigh... It cost me a bundle, but it was\na nice change of pace, right? Probably...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14813",
+   "en": "(I came to Nyan-Nyan with Yui\nto get something to eat today, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14814",
+   "en": "I really think you're eating way too much...\nYui...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14815",
+   "en": "O-Oh, I see...",
+   "flags": [],
+   "notes": "Female. Female twin of c09930."
+  },
+  {
+   "id": "c14816",
+   "en": "Hold it right there, Yui!\nDon't tell me I'm paying this time?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14817",
+   "en": "But even if we split it, you're the only one\neating all that, Yui... So in the end,\naren't I the only one losing out...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14818",
+   "en": "Ah, Yui!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14819",
+   "en": "(Sigh... It cost me a bundle, but it was\na nice change of pace, right? Probably...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14820",
+   "en": "(I came to the ranch on Island 3 with Hoshimura,\nand man, hippo-cows sure are huge.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14821",
+   "en": "So biiig~! Amaaazing~~! So cooool~~~!!!\nHey, hey, don't you think so too, \\p?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14822",
+   "en": "They really are big...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14823",
+   "en": "Come to think of it, you've got Zentradi\nblood in you too, right, Hoshimura?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14824",
+   "en": "Yup, that's right.\nI am a quarter Zentradi, after all.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14825",
+   "en": "So does that mean you can macronize?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14826",
+   "en": "Hmm, I've never looked into it properly,\nso I dunno... but I probably can, I'd guess?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14827",
+   "en": "Hah! I just thought of something amazing.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14828",
+   "en": "Maybe if I macronized,\nmy chest and stuff would go KA-BOOM huge,\nand I'd be all sexy dynamite......",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14829",
+   "en": "Yeah, that's not happening.\nMore importantly, let's go get a closer look\nat the hippo-cows.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14830",
+   "en": "Whoa, what a cold reaction...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14831",
+   "en": "Oh well... Let's, let's!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14832",
+   "en": "Whew~, that was fun~\nLet's definitely come again.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14833",
+   "en": "And next time, I'll macronize too\nand get a dynamite body...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14834",
+   "en": "Okay, see ya.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14835",
+   "en": "(A macronized Hoshimura, huh...\nI really doubt she'd end up\nwith a dynamite body, though...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14836",
+   "en": "(I came to the ranch on Island 3 with Yui,\nand wow, hippo-cows sure are huge.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14837",
+   "en": "They really are big...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14838",
+   "en": "Come to think of it, you've got Zentradi\nblood in you too, right, Yui?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14839",
+   "en": "So does that mean you can macronize?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14840",
+   "en": "Yeah, that's not happening.\nMore importantly, let's go get a closer look\nat the hippo-cows.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14841",
+   "en": "See you.",
+   "flags": [],
+   "notes": "Female. Female twin of male \"See you.\" (c00305)."
+  },
+  {
+   "id": "c14842",
+   "en": "(A macronized Yui, huh...\nI really doubt she'd end up\nwith a dynamite body, though...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c14828: sekushii dainamaitsu (a deliberately garbled \"sexy dynamites\") rendered \"all sexy dynamite\"."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

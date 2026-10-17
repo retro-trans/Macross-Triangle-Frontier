@@ -1,0 +1,433 @@
+{
+ "slice": 65,
+ "rows_in_slice": 70,
+ "rows_examined": 70,
+ "rows": [
+  {
+   "id": "c04815",
+   "en": "(Today I'm eating at Nyan-Nyan\nwith Claire-senpai!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04816",
+   "en": "\\p-kun,\ndid I keep you waiting?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04817",
+   "en": "No, I just got here myself.\nLet's head in right away!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04818",
+   "en": "Yeah, I'm gonna eat a lot~",
+   "flags": [],
+   "notes": "x3."
+  },
+  {
+   "id": "c04819",
+   "en": "Phew~ I'm stuffed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04820",
+   "en": "Senpai, you sure can eat a lot.\nI'd never have guessed from looking at you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04821",
+   "en": "What? Is something wrong with eating!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04822",
+   "en": "N-no... that's not what I meant!!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04823",
+   "en": "Hehehe, just kidding!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04824",
+   "en": "Well then, let's come eat here again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04825",
+   "en": "(I'm stuffed today~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04826",
+   "en": "(Today I'm eating at Nyan-Nyan\nwith Claire-senpai!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04827",
+   "en": "\\p-chan,\ndid I keep you waiting a bit?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04828",
+   "en": "No, I just got here too.\nLet's head in right away!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04829",
+   "en": "N-no... that's not what I meant.\nI was just thinking you eat so much and still\nhave such a great figure...!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04830",
+   "en": "(Eating at Nyan-Nyan with Claire-senpai\nagain today!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04831",
+   "en": "Sorry to keep you waiting, \\p-kun.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04832",
+   "en": "I just got here myself.\nLet's head in right away!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04833",
+   "en": "You eat with such gusto, Senpai.\nIt's a pleasure to watch.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04834",
+   "en": "...What? Is something wrong with eating\nthat much!?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04835",
+   "en": "(Eating at Nyan-Nyan with Claire-senpai\nagain today!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04836",
+   "en": "Sorry to keep you waiting, \\p-chan~",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04837",
+   "en": "I just got here myself, so let's head in\nright away.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04838",
+   "en": "Yeah, I'm gonna eat a lot again today~",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04839",
+   "en": "I'm stuffed too!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04840",
+   "en": "So you're a big eater too, \\p-chan...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04841",
+   "en": "Y-you think so...?\nI'd better be careful...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04842",
+   "en": "(I'm stuffed today~)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04843",
+   "en": "(Today I came to Central Park\nwith Claire-senpai!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04844",
+   "en": "The sunshine feels so nice...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04845",
+   "en": "It's kind of soothing, isn't it?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04846",
+   "en": "Hey, hey, let's take a little walk.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04847",
+   "en": "That was a nice change of pace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04848",
+   "en": "I got to relax a lot too.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04849",
+   "en": "Walking around in nature isn't bad\nonce in a while.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04850",
+   "en": "Yes! Can I invite you again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04851",
+   "en": "Yes, of course.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04852",
+   "en": "(Today was so soothing.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04853",
+   "en": "(Today I came to Central Park\nwith Claire-senpai.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04854",
+   "en": "It's kind of soothing here, isn't it?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04855",
+   "en": "I got to relax a lot too.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04856",
+   "en": "Walking around in nature isn't bad\nonce in a while.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04857",
+   "en": "(I came to Central Park with Claire-senpai\nagain today!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04858",
+   "en": "The sunshine feels nice here,\nno matter when you come...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04859",
+   "en": "It's so soothing, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04860",
+   "en": "Let's take a little stroll, shall we?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04861",
+   "en": "That was another nice change of pace today.",
+   "flags": [],
+   "notes": "Consistent with c04403."
+  },
+  {
+   "id": "c04862",
+   "en": "It was soothing for me too.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04863",
+   "en": "Walking in nature is important, isn't it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04864",
+   "en": "Yes! I'll invite you again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04865",
+   "en": "Promise?",
+   "flags": [],
+   "notes": "Zettai yo? (you'd better)."
+  },
+  {
+   "id": "c04866",
+   "en": "(I came to Central Park with Claire-senpai\nagain today.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04867",
+   "en": "(Today I came to the artificial island\nwith Claire-senpai!)",
+   "flags": [],
+   "notes": "Male only. 'the artificial island' as in c04386, c05039."
+  },
+  {
+   "id": "c04868",
+   "en": "The sun is so strong. I need to put\non sunscreen.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04869",
+   "en": "Y-yeah, you do... *gulp*...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04870",
+   "en": "Oh my~ What are you imagining?\nWhat a dirty-minded boy!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04871",
+   "en": "I-I'm not imagining anything!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04872",
+   "en": "Today was fun too~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04873",
+   "en": "Yes! I had fun too.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04874",
+   "en": "Let's come again.",
+   "flags": [],
+   "notes": "x3: also Shirakawa in frd_myk_103."
+  },
+  {
+   "id": "c04875",
+   "en": "(Today was fun all day long.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04876",
+   "en": "(Today I came to the artificial island\nwith Claire-senpai.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04877",
+   "en": "The sun is so strong. I need to put\non sunscreen...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04878",
+   "en": "Will you help me put it on my back again?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04879",
+   "en": "I had fun too!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04880",
+   "en": "(I came to the artificial island\nwith Claire-senpai again today!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04881",
+   "en": "The sun is as harsh as ever.\nIf I don't put on sunscreen, I'll burn red...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04882",
+   "en": "Oh my~ Just what is this boy imagining?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04883",
+   "en": "What a dirty-minded boy...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04884",
+   "en": "(I'm so nervous~)",
+   "flags": [],
+   "notes": "Female only; she is about to help with the sunscreen."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

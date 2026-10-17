@@ -1,0 +1,394 @@
+{
+ "slice": 214,
+ "rows_in_slice": 63,
+ "rows_examined": 63,
+ "rows": [
+  {
+   "id": "c15646",
+   "en": "(Phew, I somehow got through today's\nEX-Gear training.)",
+   "flags": [],
+   "notes": "Male; nml_alt_008."
+  },
+  {
+   "id": "c15647",
+   "en": "\\p!",
+   "flags": [],
+   "notes": "x4, Alto, both genders (also scd_sms)."
+  },
+  {
+   "id": "c15648",
+   "en": "Hm, Alto? What's up?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15649",
+   "en": "You were in pretty good form in that class\njust now!",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15650",
+   "en": "Oh, was I?\nI was just flying like I always do...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15651",
+   "en": "Hmm, I see...\nWell, you could say flying naturally\nis what matters most.",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15652",
+   "en": "Yeah, maybe you're right.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15653",
+   "en": "Well, keep it up like this next time too!",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15654",
+   "en": "(Was that... Alto complimenting me...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15655",
+   "en": "(Phew, today's EX-Gear training\nis finally over.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15656",
+   "en": "Hm, Saotome-kun? What's up?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15657",
+   "en": "Huh, really?\nI was just flying like I always do...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15658",
+   "en": "Maybe you're right.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15659",
+   "en": "(Was that... Saotome-kun complimenting me...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15660",
+   "en": "(Well, that's another week done.\nWhat should I do this weekend...)",
+   "flags": [],
+   "notes": "Male; nml_alt_009."
+  },
+  {
+   "id": "c15661",
+   "en": "(Oh, there's Alto.\nMaybe I'll ask how he spends his weekends.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15662",
+   "en": "Hey, Alto. Got a sec?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15663",
+   "en": "Hm, \\p.\nWhat is it?",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15664",
+   "en": "Nah, I was just wondering what you're doing\nthis weekend, Alto...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15665",
+   "en": "The weekend, huh... Right, it's almost here.",
+   "flags": [],
+   "notes": "x2, Alto, both genders; 'soiya sou datta na' (he had forgotten)."
+  },
+  {
+   "id": "c15666",
+   "en": "Got any plans...?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15667",
+   "en": "Not really.\nOnce I start on the housework,\nthe time's gone before I know it...",
+   "flags": [],
+   "notes": "x2, Alto, both genders; ie no koto = chores at home."
+  },
+  {
+   "id": "c15668",
+   "en": "Housework...?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15669",
+   "en": "Yeah. Cooking especially takes a while.",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15670",
+   "en": "I see. Sounds like a quiet weekend.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15671",
+   "en": "Well, I guess you could say that.",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15672",
+   "en": "(Alto's surprisingly domestic...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15673",
+   "en": "(Well, that's another week done.\nWhat should I do this weekend...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15674",
+   "en": "(Oh, Saotome-kun.\nMaybe I'll ask how he spends his weekends.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15675",
+   "en": "Hey, Saotome-kun. Do you have a moment?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15676",
+   "en": "Oh, I was just wondering what you're doing\nthis weekend, Saotome-kun...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15677",
+   "en": "Any plans or anything...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15678",
+   "en": "Housework...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15679",
+   "en": "Huh~, sounds like a pretty quiet weekend.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15680",
+   "en": "(Saotome-kun's surprisingly domestic...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15681",
+   "en": "(Today's PE class... is kinda rough...)",
+   "flags": [],
+   "notes": "Male; nml_alt_010."
+  },
+  {
+   "id": "c15682",
+   "en": "\\p, what's wrong?\nYou're moving kind of slow.",
+   "flags": [],
+   "notes": "x4: Alto (both genders), then repeated later in the scene under no name plate (PLAYER/none); the \\p shows it is Alto's line again, so it reads fine both times."
+  },
+  {
+   "id": "c15683",
+   "en": "Oh, Alto...\nI mean, isn't today's class kinda brutal?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15684",
+   "en": "Is it? I don't really feel it...",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15685",
+   "en": "Hmm, figures, Alto. Is that from all your\ntraining as an actor?",
+   "flags": [],
+   "notes": "Male; Alto's kabuki past."
+  },
+  {
+   "id": "c15686",
+   "en": "Don't talk nonsense. Come on, keep at it!",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15687",
+   "en": "Yeah, yeah...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15688",
+   "en": "(Alto may not look it, but he's got stamina...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15689",
+   "en": "(Today's PE class... might be kinda rough...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15690",
+   "en": "Oh, Saotome-kun...\nI mean, isn't today's class kinda brutal?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15691",
+   "en": "Hmm, figures, Saotome-kun. That's from all\nyour training as an actor, right?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15692",
+   "en": "Okaaay...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15693",
+   "en": "(Saotome-kun may not look it, but he's got\nstamina...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15694",
+   "en": "(I came into town with no real plan...\nWhat should I do...)",
+   "flags": [],
+   "notes": "Male; nml_alt_011."
+  },
+  {
+   "id": "c15695",
+   "en": "(Huh? It's Alto. What's he up to...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15696",
+   "en": "Hey, Alto, fancy running into you.\nWhat are you up to?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15697",
+   "en": "Oh, it's you, \\p.\nWhat about you? What are you doing here?",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15698",
+   "en": "Huh?! Answering a question with a question...",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c15699",
+   "en": "...Yeah, fair point. Sorry.\nThe weather was nice, so I figured I'd come\ninto town for once...",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15700",
+   "en": "I see. So you're in the same boat as me.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15701",
+   "en": "Hm, so you're the same, \\p?\nWhat a pair we are.",
+   "flags": [],
+   "notes": "x2, Alto, both genders; 'sewa nai na'."
+  },
+  {
+   "id": "c15702",
+   "en": "Yeah, really.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15703",
+   "en": "(In the end, I spent a lazy day with Alto...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15704",
+   "en": "(I came into town with no real plan...\nWhat should I do...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15705",
+   "en": "(Huh? It's Saotome-kun. What's he up to...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15706",
+   "en": "Um, Saotome-kun, fancy running into you.\nWhat were you doing?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15707",
+   "en": "I see. So you're in the same boat as me.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15708",
+   "en": "(In the end, I spent a lazy day\nwith Saotome-kun...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c15682: shared by Alto and a later no-plate repeat in nml_alt_010 (both genders); it contains \\p, so the repeat must be Alto (or someone else) addressing the player again, not the player. Translated as Alto's line.",
+   "c15701: 'sewa nai na' rendered 'What a pair we are.' (wry: both came out with no plan)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

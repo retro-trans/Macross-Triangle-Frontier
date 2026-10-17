@@ -1,0 +1,386 @@
+{
+ "slice": 103,
+ "rows_in_slice": 61,
+ "rows_examined": 61,
+ "rows": [
+  {
+   "id": "c07590",
+   "en": "(I came out to eat with Yuuto today,\nbut...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07591",
+   "en": "Is something wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07592",
+   "en": "N-no... Nothing's wrong, really...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07593",
+   "en": "Is the food not to your taste?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07594",
+   "en": "N-no, not at all!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07595",
+   "en": "You were really forcing it down, huh...\nYou didn't have to push yourself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07596",
+   "en": "The meat was delicious.\nBut that sauce...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07597",
+   "en": "Plain old ketchup would've been fine...\nSigh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07598",
+   "en": "(...Looks like Yuuto's kiddie palate\nisn't getting cured anytime soon...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07599",
+   "en": "(I came out to eat with Kagura-kun today,\nbut...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07600",
+   "en": "(...Looks like Kagura-kun's kiddie palate\nisn't getting cured anytime soon...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07601",
+   "en": "(I came out to eat with Yuuto again\ntoday, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07602",
+   "en": "W-well...\nThis dish is pretty tasty, actually.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07603",
+   "en": "Do you really think so...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07604",
+   "en": "O-of course I do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07605",
+   "en": "Phew... That was good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07606",
+   "en": "The flavors were easier to handle\nthan last time, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07607",
+   "en": "Yeah. Last time it was just a taste\nI wasn't used to.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07608",
+   "en": "It made me think this kind of food\nisn't half bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07609",
+   "en": "(...Maybe Yuuto's kiddie palate\nis getting better?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07610",
+   "en": "(I came out to eat with Kagura-kun\nagain today, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07611",
+   "en": "(...Maybe Kagura-kun's kiddie palate\nis getting better?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07612",
+   "en": "You ready,\n\\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07613",
+   "en": "Yeah. Since we came all this way,\nlet's have a blast before we head home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07614",
+   "en": "All right, let's swim all the way out\nto the open water!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07615",
+   "en": "We overdid it a little, huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07616",
+   "en": "Y-yeah...\nI don't think I can move for a while...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07617",
+   "en": "Let's take a break...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07618",
+   "en": "\\p...\nI leave the rest to you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07619",
+   "en": "Heeey.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07620",
+   "en": "Yeah! Since we came all this way,\nlet's have a blast before we head home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07621",
+   "en": "The weather's nice, and we came\nall this way, so let's have a blast\nbefore we head home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07622",
+   "en": "What? That's pathetic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07623",
+   "en": "I'm going to rest for a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07624",
+   "en": "In that case, I'll go swim by myself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07625",
+   "en": "(Yuuto sure is full of energy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07626",
+   "en": "The weather's nice, and we came\nall this way, so let's have a blast\nbefore we head home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07627",
+   "en": "I'm going to rest for a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07628",
+   "en": "In that case, I'll go swim by myself!\nOh, and be extra careful\nnot to get hit on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07629",
+   "en": "(Kagura-kun sure is full of energy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07630",
+   "en": "(I spent the whole day hanging out\nwith Yuuto today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07631",
+   "en": "The day went by in a flash, somehow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07632",
+   "en": "It went by fast because we had fun.\nI'm sure of it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07633",
+   "en": "I see. Yeah, you're right...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07634",
+   "en": "Oh, could you wait here a sec?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07635",
+   "en": "Let's have some hot dogs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07636",
+   "en": "These hot dogs are really good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07637",
+   "en": "Apparently the chili dogs are famous,\nbut I can't handle spicy food.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07638",
+   "en": "Really? Why not try one next time?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07639",
+   "en": "Nah... I'll pass...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07640",
+   "en": "Well, let's hang out a little longer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07641",
+   "en": "(I spent the whole day hanging out\nwith Kagura-kun today~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07642",
+   "en": "Oh, let's have hot dogs again today.\nI'll go buy them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07643",
+   "en": "Yeah, I'm counting on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07644",
+   "en": "Good, isn't it? The chili dog.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07645",
+   "en": "~~~~~!!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07646",
+   "en": "Ahahahaha!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07647",
+   "en": "Ngh... Wh-what have you done to me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07648",
+   "en": "W-water...!\nGive me waterrrrr!!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07649",
+   "en": "(I spent the whole day hanging out\nwith Kagura-kun today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07650",
+   "en": "Oh, let's have hot dogs again today.\nI'll go buy them!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c07628: Kagura warns the female player about nanpa; rendered 'be extra careful not to get hit on' (kept neutral about who might do the hitting on).",
+   "c07635: Kagura has gone off (c07634 'wait here a sec') and comes back with the hot dogs, so 'Let's have some hot dogs.' rather than a suggestion to go buy them.",
+   "c07644-c07648: in the second run the player hands Kagura a chili dog although he cannot take spicy food; c07637 'chili dog' is the glossary's plain form (not the Super Chili-Chili Dog).",
+   "c07598/c07600/c07609/c07611: okosama-jita (a child's palate, likes sweet and plain flavours) rendered 'kiddie palate'.",
+   "c07591 (x5, also the White Day scene scd_com_722 with Ranka) 'Is something wrong?', in line with c03666.",
+   "c07619 'ooi' (calling out to the collapsed Kagura) rendered 'Heeey.'"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

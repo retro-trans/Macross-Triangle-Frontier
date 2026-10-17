@@ -1,0 +1,496 @@
+{
+ "slice": 155,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c11330",
+   "en": "Yes, let's come again.",
+   "flags": [],
+   "notes": "x2, Miyuki, frd_myk_111."
+  },
+  {
+   "id": "c11331",
+   "en": "(Today I came to the artificial island\nwith Miyuki again.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11332",
+   "en": "Just like my heart!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11333",
+   "en": "Sigh... What are you even saying...?",
+   "flags": [],
+   "notes": "Miyuki, female scene."
+  },
+  {
+   "id": "c11334",
+   "en": "I never thought there'd be such\na steep cliff here~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11335",
+   "en": "Whoops, guess we should head home soon.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11336",
+   "en": "(Today I came to Griffith Park with Shirakawa!)",
+   "flags": [],
+   "notes": "Male, frd_myk_112."
+  },
+  {
+   "id": "c11337",
+   "en": "The view here at dusk is lovely, isn't it?",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11338",
+   "en": "You can look out over the whole city, too.\nIt's a nice park, huh...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11339",
+   "en": "...Would you mind if I took in the view\nfor a while?",
+   "flags": [],
+   "notes": "x2, Miyuki asking the player; answered 'Of course.'"
+  },
+  {
+   "id": "c11340",
+   "en": "Thank you.\nYou weren't bored, were you?",
+   "flags": [],
+   "notes": "x4, Miyuki, both genders and visits."
+  },
+  {
+   "id": "c11341",
+   "en": "Nope. I was watching a pretty girl lost in thought,\nso I wasn't bored at all.",
+   "flags": [],
+   "notes": "Male (bishoujo)."
+  },
+  {
+   "id": "c11342",
+   "en": "...There you go again with your lies...\nPlease stop joking with a straight face!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11343",
+   "en": "I'm not joking, though.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11344",
+   "en": "G-geez, I'm not talking to you anymore!",
+   "flags": [],
+   "notes": "x2, Miyuki (mou, shirimasen, as c11293)."
+  },
+  {
+   "id": "c11345",
+   "en": "(Today I came to Griffith Park with Miyuki.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11346",
+   "en": "The view here at dusk is lovely, isn't it...",
+   "flags": [],
+   "notes": "Miyuki, female scene."
+  },
+  {
+   "id": "c11347",
+   "en": "You can look out over the whole city...\nWhat a nice park...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11348",
+   "en": "I was watching a pretty girl lost in thought,\nso I wasn't bored at all~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11349",
+   "en": "I'm not joking.\nI really think you're beautiful and cute, Miyuki.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11350",
+   "en": "(...Today was a nice change of pace!)",
+   "flags": [],
+   "notes": "Female; as c07448."
+  },
+  {
+   "id": "c11351",
+   "en": "(Today I came to Griffith Park with Shirakawa\nagain!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11352",
+   "en": "The air here is always so nice...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11353",
+   "en": "The breeze feels nice, huh.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11354",
+   "en": "Hey, why don't we take a little walk?",
+   "flags": [],
+   "notes": "x2, Miyuki (casual nee)."
+  },
+  {
+   "id": "c11355",
+   "en": "Sure, let's walk.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11356",
+   "en": "I had fun walking with you, Shirakawa.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11357",
+   "en": "...Isn't it just your sweet talk that's\ngotten better lately?",
+   "flags": [],
+   "notes": "x2, Miyuki (kuchi bakari umaku natte)."
+  },
+  {
+   "id": "c11358",
+   "en": "Th-that's not true at all, nope...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11359",
+   "en": "(Today I came to Griffith Park with Miyuki again.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11360",
+   "en": "Yeah, let's walk.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11361",
+   "en": "I had fun walking with you, Miyuki.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11362",
+   "en": "Hmm, I don't think so?",
+   "flags": [],
+   "notes": "Female (sonna koto wa nai yo?)."
+  },
+  {
+   "id": "c11363",
+   "en": "(Today it's EX-Gear training with Shirakawa!)",
+   "flags": [],
+   "notes": "Male, frd_myk_113 (tokkun)."
+  },
+  {
+   "id": "c11364",
+   "en": "I'm sorry for making you wait,\n\\p-kun.",
+   "flags": [],
+   "notes": "Miyuki to the male player."
+  },
+  {
+   "id": "c11365",
+   "en": "Hehe, you're so kind.",
+   "flags": [],
+   "notes": "x2, Miyuki (kusu); answers 'don't worry, I just got here'."
+  },
+  {
+   "id": "c11366",
+   "en": "Huh? N-no, I'm not, really!!",
+   "flags": [],
+   "notes": "Male, flustered."
+  },
+  {
+   "id": "c11367",
+   "en": "Hehe, well then, shall we go?",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11368",
+   "en": "Phew, let's take a break.",
+   "flags": [],
+   "notes": "x4, Miyuki."
+  },
+  {
+   "id": "c11369",
+   "en": "You're amazing, Shirakawa...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11370",
+   "en": "I mean, you fly the EX-Gear so boldly.\nYou really go all in...\nI could never pull that off.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11371",
+   "en": "R-really?\nI never really thought about it...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11372",
+   "en": "Come on, let's give it another go, shall we?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11373",
+   "en": "(Today it's EX-Gear training with Miyuki.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11374",
+   "en": "I'm sorry for making you wait,\n\\p-san.",
+   "flags": [],
+   "notes": "Miyuki to the female player."
+  },
+  {
+   "id": "c11375",
+   "en": "Well then, shall we go?",
+   "flags": [],
+   "notes": "Miyuki, female scene."
+  },
+  {
+   "id": "c11376",
+   "en": "You're amazing, Miyuki...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11377",
+   "en": "I mean, you fly the EX-Gear so boldly.\nYou really go all in...\nI could never pull that off~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11378",
+   "en": "(Today it's EX-Gear training with Shirakawa again!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11379",
+   "en": "Let's do our best again today.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11380",
+   "en": "Yeah, let's give it our all!",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11381",
+   "en": "You're as amazing as ever, Shirakawa...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11382",
+   "en": "Your turns are even sharper than before.\nI can't fall behind either.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11383",
+   "en": "Geez, flattering me won't get you anything,\nyou know.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11384",
+   "en": "Come on, let's try another flight, shall we?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11385",
+   "en": "(Today it's EX-Gear training with Miyuki again.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11386",
+   "en": "Heya, Miyuki.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11387",
+   "en": "You're as amazing as ever, Miyuki...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11388",
+   "en": "Your turns are even sharper than before.\nI can't fall behind either.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11389",
+   "en": "(Today I came out to Folmo with Shirakawa!)",
+   "flags": [],
+   "notes": "Male, frd_myk_114."
+  },
+  {
+   "id": "c11390",
+   "en": "Where shall we go today?",
+   "flags": [],
+   "notes": "x4, Miyuki."
+  },
+  {
+   "id": "c11391",
+   "en": "Let's go see the hippo-cows.\nThey're super huge.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11392",
+   "en": "Are they?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11393",
+   "en": "Then let's go take a look.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11394",
+   "en": "Those cows make delicious soft serve, you know.\nLet's have some on the way home.",
+   "flags": [],
+   "notes": "x2, player; soft serve as in slice 156."
+  },
+  {
+   "id": "c11395",
+   "en": "...All you ever think about is food.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11396",
+   "en": "You don't mind it either, do you, Shirakawa?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11397",
+   "en": "W-well... that's true, but...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11398",
+   "en": "All right, let's go get some soft serve!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11399",
+   "en": "(Today I came out to Folmo with Miyuki.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11400",
+   "en": "Let's go see the hippo-cows!\nThey're super huge~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11401",
+   "en": "You don't mind it either, do you, Miyuki?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11402",
+   "en": "All right, let's go get some soft serve!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11403",
+   "en": "(Today I came out to Folmo with Shirakawa again!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11404",
+   "en": "When you come to Folmo, there's only one place\nto hit first, right?",
+   "flags": [],
+   "notes": "Male; matches the female c11414 in slice 156."
+  },
+  {
+   "id": "c11405",
+   "en": "Soft serve, right!",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11406",
+   "en": "Exactly!",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11407",
+   "en": "Phew, I'm stuffed.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11408",
+   "en": "Is it really okay to eat so much soft serve\nthat you're stuffed?",
+   "flags": [],
+   "notes": "Miyuki, male scene (casual daijoubu?); as c11416."
+  },
+  {
+   "id": "c11409",
+   "en": "My stomach's the one part of me that's tough.",
+   "flags": [],
+   "notes": "Male; as c11417."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c11339: 'shibaraku nagametete mo ii desu ka' read as Miyuki asking to stay and take in the sunset view; the player answers 'Of course.'",
+   "c11362: female player's 'sonna koto wa nai yo?' rendered 'Hmm, I don't think so?' (denying that only her sweet talk has improved)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

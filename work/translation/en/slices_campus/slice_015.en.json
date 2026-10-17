@@ -1,0 +1,509 @@
+{
+ "slice": 15,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c01041",
+   "en": "Hey, Protagonist.\nYou came...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "ext_gyr_* is an older copy of ext_gry_* with the literal word 'shujinkou' (protagonist) instead of the player-name code. Translated as written; no \\p added."
+  },
+  {
+   "id": "c01042",
+   "en": "Looks like you've learned to say hello, at least.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01043",
+   "en": "But your P.E. is as hopeless as ever.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01044",
+   "en": "Hey, Protagonist.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literal 'shujinkou', see c01041."
+  },
+  {
+   "id": "c01045",
+   "en": "Y-Yuuto...\nYou've got remedial too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01046",
+   "en": "Whoa, whoa, don't lump Yuuto in with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01047",
+   "en": "Yuuto couldn't stand watching what a slacker you are,\nso he's joining you for this training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01048",
+   "en": "Today we focus on endurance running!\nTwenty 1500 m runs!\nFire yourselves up! Let the training begiiin!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01049",
+   "en": "I'm impressed,\nProtagonist.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literal 'shujinkou', see c01041."
+  },
+  {
+   "id": "c01050",
+   "en": "(Phew, it's not just Gary-sensei...\nYuuto's an amazing athlete too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01051",
+   "en": "K-Kagura-kun...\nYou've got remedial too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01052",
+   "en": "Today we focus on endurance running!\nTen 1500 m runs!\nFire yourselves up! Let the training begiiin!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01053",
+   "en": "(Phew, it's not just Gary-sensei...\nKagura-kun's an amazing athlete too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01054",
+   "en": "(Haah~. Maybe I'll just go home...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01055",
+   "en": "Huh? Isn't that...",
+   "flags": [],
+   "notes": "'ano asoko ni iru no wa...' = the one over there is..."
+  },
+  {
+   "id": "c01056",
+   "en": "...Took you long enough,\nProtagonist.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literal 'shujinkou', see c01041."
+  },
+  {
+   "id": "c01057",
+   "en": "...I've been waiting for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01058",
+   "en": "(Th-this is awkward...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01059",
+   "en": "...Haven't you got something to report to me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01060",
+   "en": "Where's this coming from all of a sudden...\nReport? Not... really... anything? I think...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01061",
+   "en": "Sheesh... keeping secrets from me, you punk?!",
+   "flags": [],
+   "notes": "'mizukusee yarou' = you're being standoffish / not confiding in me."
+  },
+  {
+   "id": "c01062",
+   "en": "Don't worry! Even if the other teachers object,\nI, for one, will be rooting for you!!\nSee ya!!",
+   "flags": [],
+   "notes": "JP 3 lines; regrouped to fit."
+  },
+  {
+   "id": "c01063",
+   "en": "No use hiding it, no use hiding it!!\nEven if other teachers object, I, for one, will root for you!!\nSee ya!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01064",
+   "en": "Hilda-sensei!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01065",
+   "en": "\\p...\nWh-what are you doing in a place like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01066",
+   "en": "Look who's talking, Sensei. You were spacing out\nin front of a shop.",
+   "flags": [],
+   "notes": "'sensei koso' = you're the one who..."
+  },
+  {
+   "id": "c01067",
+   "en": "I was NOT spacing out!\nD-don't say such rude things! You fool...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01068",
+   "en": "(I thought she was looking at the boutique, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01069",
+   "en": "...What? You look like you have something to say.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01070",
+   "en": "N-no! It's nothing at all!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01071",
+   "en": "Then that's fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01072",
+   "en": "So what were you doing, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01073",
+   "en": "What they call \"window shopping,\" I suppose.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01074",
+   "en": "Window shopping...\nBut this is a bridal shop.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01075",
+   "en": "?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01076",
+   "en": "N-no, th-this is...\nIt doesn't mean anything... nothing at all, you hear?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01077",
+   "en": "You were looking at wedding dresses, huh?\nYou're tall, Hilda-sensei, so one would look great on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01078",
+   "en": "I-it's not as if I'm thinking about marriage or anything",
+   "flags": [],
+   "notes": "Unfinished on purpose; she catches herself in the next row."
+  },
+  {
+   "id": "c01079",
+   "en": "Wait, don't you lie to me about it suiting me!\nYou'll never grow up to be a decent adult!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01080",
+   "en": "I'm not lying.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01081",
+   "en": "Ngh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01082",
+   "en": "(Oh, Sensei's getting flustered...)",
+   "flags": [],
+   "notes": "'tereteru' = embarrassed / bashful."
+  },
+  {
+   "id": "c01083",
+   "en": "Hilda-sensei, will you keep working once you're married?",
+   "flags": [],
+   "notes": "Refit to the measured 420 px window."
+  },
+  {
+   "id": "c01084",
+   "en": "Hm... why do you ask such a thing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01085",
+   "en": "It's just an honest question from a student\nwho looks up to you, Hilda-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01086",
+   "en": "I'd like to live a quiet life.\nA dream that won't come true, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01087",
+   "en": "Please don't look so sad...\nIt'll come true, I'm sure of it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01088",
+   "en": "If I'm being cheered up by a student,\nI'm a failure as a teacher...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01089",
+   "en": "...And you, quit wandering around\nand get on home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01090",
+   "en": "Okay! Goodbye, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01091",
+   "en": "(I wonder who Sensei will end up marrying?)",
+   "flags": [],
+   "notes": "'kekkon aite' = marriage partner; kept neutral."
+  },
+  {
+   "id": "c01092",
+   "en": "Sensei, what about you? Why were you spacing out\nin front of a shop?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01093",
+   "en": "You were looking at wedding dresses, weren't you!\nYou're tall, Hilda-sensei, so one would look\nabsolutely gorgeous on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01094",
+   "en": "(P.E.'s next... who's teaching it again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01095",
+   "en": "(Huh... it's Gary-sensei and Hilda-sensei.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01096",
+   "en": "Your classes are way too soft.",
+   "flags": [],
+   "notes": "Gary to Hilda."
+  },
+  {
+   "id": "c01097",
+   "en": "What did you say?! Don't you dare tell me you've\nforgotten how many students your guts-and-grit\nnonsense has sent to the hospital!!",
+   "flags": [],
+   "notes": "'konjouron' = guts-over-method philosophy."
+  },
+  {
+   "id": "c01098",
+   "en": "Tch, it's that coddling kind of teaching\nthat makes 'em crack when it counts!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01099",
+   "en": "You're one to talk, when you're the one\nbreaking students!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01100",
+   "en": "Hmph!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01101",
+   "en": "(Things are getting ugly... I'd better do something.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01102",
+   "en": "U-um, excuse meee...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01103",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01104",
+   "en": "N-nothing...\nI just thought fighting isn't a good idea...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01105",
+   "en": "We're NOT fighting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01106",
+   "en": "(Maybe they actually get along...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01107",
+   "en": "What's gotten into you two...?\nThere's class soon, so maybe keep it down...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01108",
+   "en": "Hm... I suppose you're right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01109",
+   "en": "Say, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01110",
+   "en": "Yes, what is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01111",
+   "en": "For the next class,\nwhich would you rather play, soccer or baseball?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01112",
+   "en": "...Excuse me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01113",
+   "en": "What she means is, I'm asking if soccer's\nbetter for the next class, right?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Gary's 'dakara' re-states Hilda's question as a loaded one; 'What she means is' makes the takeover explicit."
+  },
+  {
+   "id": "c01114",
+   "en": "Is that the only way you know how to put things?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01115",
+   "en": "What're you talking about?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01116",
+   "en": "Don't play dumb!!\nWhy aren't you including baseball as an option?!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01117",
+   "en": "N-now, now...\nPlease calm down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01118",
+   "en": "I am calm...\nNow, \\p,\nchoose!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01119",
+   "en": "Wh-why me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01120",
+   "en": "Your luck ran out the moment you showed up here!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c01041: ext_gyr_* is an older copy of ext_gry_* with the literal word 'shujinkou' (protagonist) instead of the player-name code. Translated as written; no \\p added.",
+   "c01044: Literal 'shujinkou', see c01041.",
+   "c01049: Literal 'shujinkou', see c01041.",
+   "c01056: Literal 'shujinkou', see c01041.",
+   "c01113: Gary's 'dakara' re-states Hilda's question as a loaded one; 'What she means is' makes the takeover explicit."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

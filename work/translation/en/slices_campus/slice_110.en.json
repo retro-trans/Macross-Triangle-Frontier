@@ -1,0 +1,498 @@
+{
+ "slice": 110,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c08107",
+   "en": "(I came to Griffith Park, but there's\nnothing much to do. I'm bored...)",
+   "flags": [],
+   "notes": "Male (x2)."
+  },
+  {
+   "id": "c08108",
+   "en": "(I came to Griffith Park, but there's\nnothing much to do. I'm bored...)",
+   "flags": [],
+   "notes": "Female (x2)."
+  },
+  {
+   "id": "c08109",
+   "en": "(So, I came to Deep Akihabara,\nbut what should I do?)",
+   "flags": [],
+   "notes": "x4, both genders. Deep Akihabara is provisional in locations.json."
+  },
+  {
+   "id": "c08110",
+   "en": "Hm? If it isn't \\p.\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": "x8: frd_kln_103/104, both genders."
+  },
+  {
+   "id": "c08111",
+   "en": "Oh, Klan-senpai. I was bored,\nso I'm just wandering around.\nWhat are you doing here, Klan-senpai?",
+   "flags": [],
+   "notes": "x8: frd_kln_103/104, both genders."
+  },
+  {
+   "id": "c08112",
+   "en": "M-me?!",
+   "flags": [],
+   "notes": "x8."
+  },
+  {
+   "id": "c08113",
+   "en": "W-well, you see...\nI just remembered something I have to do.\nSee you!",
+   "flags": [],
+   "notes": "x8. Wording of 'just remembered' as c01418."
+  },
+  {
+   "id": "c08114",
+   "en": "Huh? Oh, okay. See you...",
+   "flags": [],
+   "notes": "x8, both genders."
+  },
+  {
+   "id": "c08115",
+   "en": "(She ran off like she was fleeing...\nWhat on earth was she doing?)",
+   "flags": [],
+   "notes": "Male, frd_kln_103/104. Klan is female."
+  },
+  {
+   "id": "c08116",
+   "en": "(Hmm, now I'm curious...)",
+   "flags": [],
+   "notes": "Male, frd_kln_103/104."
+  },
+  {
+   "id": "c08117",
+   "en": "(She ran off like she was fleeing...\nWhat on earth was she doing?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08118",
+   "en": "(Hmm, now I'm really curious...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08119",
+   "en": "(So, I came to the Observation Pier,\nbut what should I do?)",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c08120",
+   "en": "(Klan-senpai and I promised to have tea\nat Silver Moon today, but...)",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c08121",
+   "en": "(Klan-senpai's late...)",
+   "flags": [],
+   "notes": "Male, frd_kln_105/106."
+  },
+  {
+   "id": "c08122",
+   "en": "(Hm? A call from Klan-senpai...)",
+   "flags": [],
+   "notes": "x8, frd_kln_105/106, both genders."
+  },
+  {
+   "id": "c08123",
+   "en": "Hello, this is \\p.",
+   "flags": [],
+   "notes": "x8, both genders."
+  },
+  {
+   "id": "c08124",
+   "en": "Sorry, \\p!\nI suddenly got called in to my part-time job,\nso I don't think I can make it.",
+   "flags": [],
+   "notes": "x7, frd_kln_105/106. baito = part-time job."
+  },
+  {
+   "id": "c08125",
+   "en": "Oh, your part-time job...\nThen it can't be helped.",
+   "flags": [],
+   "notes": "x8, both genders."
+  },
+  {
+   "id": "c08126",
+   "en": "I'll make it up to you, I promise!\nI'm really sorry...",
+   "flags": [],
+   "notes": "x8."
+  },
+  {
+   "id": "c08127",
+   "en": "Please don't worry about it.\nSee you, then...",
+   "flags": [],
+   "notes": "x7, both genders."
+  },
+  {
+   "id": "c08128",
+   "en": "Yeah, see you.",
+   "flags": [],
+   "notes": "x12: Klan here (frd_kln_105/106); male player in frd_yui_101/106. Works for both."
+  },
+  {
+   "id": "c08129",
+   "en": "(Well, if something urgent came up,\nit can't be helped...\nGuess I'll head home too.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08130",
+   "en": "(Klan-senpai's late...)",
+   "flags": [],
+   "notes": "Female, frd_kln_105/106."
+  },
+  {
+   "id": "c08131",
+   "en": "(Well, if something urgent came up,\nit can't be helped...\nI guess I'll head home too.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08132",
+   "en": "(Klan-senpai and I promised to go shopping\nin the Shibuya Area today, but...)",
+   "flags": [],
+   "notes": "x3, both genders."
+  },
+  {
+   "id": "c08133",
+   "en": "(Klan-senpai and I promised to go shopping\nin the Shibuya Area today,\nbut she's still not here...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08134",
+   "en": "Sorry, \\p!\nI suddenly got called in to my part-time job,\nso I don't think I can make it.",
+   "flags": [],
+   "notes": "Variant spelling of c08124; same English."
+  },
+  {
+   "id": "c08135",
+   "en": "Please don't worry about it.\nSee you, then...",
+   "flags": [],
+   "notes": "Variant spelling of c08127; same English."
+  },
+  {
+   "id": "c08136",
+   "en": "(Well, if something urgent came up,\nI guess it can't be helped...\nI'll head home too, then.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08137",
+   "en": "(Klan-senpai and I came to have fun\nat the ranch on Island 3, but...)",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c08138",
+   "en": "Wow~ They really are big,\nthese Zentradi...",
+   "flags": [],
+   "notes": "x4. Klan admiring the (giant) Zentradi at the ranch; c08139 finds it odd since she is one."
+  },
+  {
+   "id": "c08139",
+   "en": "(Klan-senpai's a Zentradi herself,\nso it seems kind of wrong for her\nto be so impressed...)",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c08140",
+   "en": "\\p!\nDon't just stand there spacing out!\nLet's go play with the hippo-cows!",
+   "flags": [],
+   "notes": "x4. hippo-cow (glossary)."
+  },
+  {
+   "id": "c08141",
+   "en": "(At this rate, I can't even tell\nwhich of us is older.)",
+   "flags": [],
+   "notes": "Male (x2)."
+  },
+  {
+   "id": "c08142",
+   "en": "Mm, we sure played a lot!\nThat was more fun than I expected!",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c08143",
+   "en": "Well then...\nIt's getting late, so let's head home.",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c08144",
+   "en": "See you, \\p.",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c08145",
+   "en": "(Hanging out with Klan-senpai was\na really nice change of pace today.)",
+   "flags": [],
+   "notes": "Male (x2). 'change of pace' as finished slices."
+  },
+  {
+   "id": "c08146",
+   "en": "(At this rate, I can't even tell\nwhich of us is older.)",
+   "flags": [],
+   "notes": "Female (x2)."
+  },
+  {
+   "id": "c08147",
+   "en": "(Hanging out with Klan-senpai was\na really nice change of pace today.)",
+   "flags": [],
+   "notes": "Female (x2)."
+  },
+  {
+   "id": "c08148",
+   "en": "(I invited Klan-senpai to a concert,\nbut is she even into classical music?)",
+   "flags": [],
+   "notes": "Male (x2)."
+  },
+  {
+   "id": "c08149",
+   "en": "Thanks for inviting me to the concert today.\nAnd you even got me a ticket...",
+   "flags": [],
+   "notes": "x4. warui na = apologetic thanks."
+  },
+  {
+   "id": "c08150",
+   "en": "Oh, it's nothing.\nSomeone gave me the tickets anyway.",
+   "flags": [],
+   "notes": "Male (x2). moraimono no chiketto."
+  },
+  {
+   "id": "c08151",
+   "en": "By the way, Klan-senpai,\nare you into classical music?",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c08152",
+   "en": "O-of course I am!\nIt's only natural for a grown woman...",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c08153",
+   "en": "Come on, if we keep chatting, we'll be late.\nLet's head into the hall, too.",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c08154",
+   "en": "That's Klan-senpai for you.\nTrue grown woman that you are, you fell\nasleep the moment the concert started.",
+   "flags": [],
+   "notes": "x4, both genders. Sarcastic."
+  },
+  {
+   "id": "c08155",
+   "en": "I-it couldn't be helped!\nThe soothing music just, you know,\nlured me off to sleep...",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c08156",
+   "en": "Yes, yes, I get it.",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c08157",
+   "en": "Hmph, next time I definitely won't fall asleep!\nTake me again! See you!",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c08158",
+   "en": "(Well, Klan-senpai fell asleep, but...\nmaybe she enjoyed it in her own way?\nOkay, I'll invite her again sometime.)",
+   "flags": [],
+   "notes": "x4, both genders (no gendered ending in the Japanese)."
+  },
+  {
+   "id": "c08159",
+   "en": "(I invited Klan-senpai to a concert,\nbut is she even into classical music?)",
+   "flags": [],
+   "notes": "Female (x2)."
+  },
+  {
+   "id": "c08160",
+   "en": "Oh, it's nothing.\nSomeone gave me the tickets anyway.",
+   "flags": [],
+   "notes": "Female (x2)."
+  },
+  {
+   "id": "c08161",
+   "en": "(Klan-senpai invited me to come have fun\nin Deep Akihabara, but...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08162",
+   "en": "All right!\nNow, let's try one of these butler cafes!\nFollow me, \\p!",
+   "flags": [],
+   "notes": "Both genders. shitsuji kissa = butler cafe."
+  },
+  {
+   "id": "c08163",
+   "en": "(Who'd have thought her goal\nwas going to a butler cafe...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08164",
+   "en": "If you space out, I'll leave you behind!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08165",
+   "en": "Ah, wait for me,\nKlan-senpai!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08166",
+   "en": "Being treated like a young lady like that\nisn't half bad, I must say.",
+   "flags": [],
+   "notes": "Both genders. ojousama atsukai."
+  },
+  {
+   "id": "c08167",
+   "en": "Well, if you enjoyed it, Klan-senpai,\nthen I guess that's fine...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08168",
+   "en": "Michel would probably look good\nas a butler...",
+   "flags": [],
+   "notes": "Both genders. Michel as the Japanese says Misheru."
+  },
+  {
+   "id": "c08169",
+   "en": "Right, next time I'll force him\ninto the outfit and...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08170",
+   "en": "Huh? Klan-senpai?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08171",
+   "en": "N-no, it's nothing!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08172",
+   "en": "Well, let's call it a day.\nSee you!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08173",
+   "en": "See you, Klan-senpai...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08174",
+   "en": "(Hmm, well, Klan-senpai seemed happy\nat least, so I guess it was fine?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08175",
+   "en": "(Hmm, well, Klan-senpai seemed happy\nat least, so I guess it was fine?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08176",
+   "en": "(Klan-senpai invited me to come have fun\nin Deep Akihabara, but...)",
+   "flags": [],
+   "notes": "Both genders; line-break variant of c08161."
+  },
+  {
+   "id": "c08177",
+   "en": "All right! We're going to a butler cafe!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08178",
+   "en": "(So the butler cafe was her goal after all.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08179",
+   "en": "If you want to go, Klan-senpai,\nI won't stop you, but...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08180",
+   "en": "Then let's get going!",
+   "flags": [],
+   "notes": "x4: Klan here, Pinon in frd_pnn_109."
+  },
+  {
+   "id": "c08181",
+   "en": "Man~, that was fun...",
+   "flags": [],
+   "notes": "x6: Klan here, Pinon in frd_pnn_109."
+  },
+  {
+   "id": "c08182",
+   "en": "I'm just glad you enjoyed it, Klan-senpai...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08183",
+   "en": "All right! We're coming back again!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08184",
+   "en": "(Klan-senpai...\nShe really fell for butler cafes, huh.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08185",
+   "en": "(So the butler cafe was her goal after all.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08186",
+   "en": "(Klan-senpai...\nShe really fell for butler cafes, huh.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c08109/c08161/c08176 use Deep Akihabara, which is provisional in locations.json.",
+   "c08138: Klan marvels at how big 'the Zentradi' are at the Island 3 ranch (presumably the macronized Zentradi ranch hands); the player finds it odd since she is one (c08139). Referent inferred.",
+   "c08128 'Yeah, see you.' also serves the male player in frd_yui_101/106.",
+   "c08149 warui na rendered as thanks; c08154 kept sarcastic."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

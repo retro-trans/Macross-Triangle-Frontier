@@ -1,0 +1,518 @@
+{
+ "slice": 18,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o7_exd/1465",
+   "en": "RVF-171EX Nightmare Plus, Armored Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1465",
+   "en": "RVF-171EX Nightmare Plus, you're cleared for the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1466",
+   "en": "VF-25 Messiah, Super Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1466",
+   "en": "VF-25 Messiah, you're cleared for the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1467",
+   "en": "VF-25 Messiah, Armored Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1467",
+   "en": "VF-25 Messiah, you're cleared for the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1468",
+   "en": "VF-25 Messiah, Fold Speaker equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1468",
+   "en": "VF-25 Messiah, you're cleared for the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1469",
+   "en": "RVF-25 Messiah, Super Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1469",
+   "en": "RVF-25 Messiah, you're cleared for the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1470",
+   "en": "RVF-25 Messiah, Fold Speaker equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1470",
+   "en": "RVF-25 Messiah, you're cleared for the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1471",
+   "en": "Klan Klang's team, Super Pack equipment authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "-tai (team) written as tai \"versus\""
+  },
+  {
+   "id": "of_ktr/1471",
+   "en": "Klan Klang's team, you're cleared for the Super Pack.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard as \"Klan Klang taiin\" (team member); kept \"team\" as the other operators"
+  },
+  {
+   "id": "o7_exd/1472",
+   "en": "VF-2SS Valkyrie II, Super Armed Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1472",
+   "en": "VF-2SS Valkyrie II, you're cleared for the Super Armed Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1473",
+   "en": "VF-19 Excalibur, FAST Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1473",
+   "en": "VF-19 Excalibur, you're cleared for the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1474",
+   "en": "VF-0 Phoenix, you're cleared to equip the Ghost Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1474",
+   "en": "VF-0 Phoenix, I authorize the Ghost Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1474",
+   "en": "VF-0 Phoenix, I'll let you equip the Ghost Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1474",
+   "en": "VF-0 Phoenix, equipping the Ghost Booster is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1474",
+   "en": "VF-0 Phoenix, equipping the Ghost Booster is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1474",
+   "en": "VF-0 Phoenix, Ghost Booster equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1474",
+   "en": "VF-0 Phoenix, you're cleared for the Ghost Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1475",
+   "en": "VF-17 Nightmare, you're cleared to equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1475",
+   "en": "VF-17 Nightmare, I authorize the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1475",
+   "en": "VF-17 Nightmare, I'll let you equip the Armored Pack.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Nightmare heard as \"raitomea\""
+  },
+  {
+   "id": "o0_om0/1475",
+   "en": "VF-17 Nightmare, equipping the Armored Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1475",
+   "en": "VF-17 Nightmare, equipping the Armored Pack is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1475",
+   "en": "VF-17 Nightmare, Armored Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1475",
+   "en": "VF-17 Nightmare, you're cleared for the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1476",
+   "en": "VF-17 Nightmare, you're cleared to equip the Super Parts.",
+   "flags": [],
+   "notes": "\"Super Parts\" (supaa paatsu): all seven operators say it, separate from the VF-17 Super Pack line (clip 1487). Not in the glossary."
+  },
+  {
+   "id": "o0_of1/1476",
+   "en": "VF-17 Nightmare, I authorize the Super Parts.",
+   "flags": [],
+   "notes": "\"Super Parts\" (supaa paatsu): all seven operators say it, separate from the VF-17 Super Pack line (clip 1487). Not in the glossary."
+  },
+  {
+   "id": "o0_of2/1476",
+   "en": "VF-17 Nightmare, I'll let you equip the Super Parts.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Nightmare heard as \"raitomea\". \"Super Parts\" (supaa paatsu): all seven operators say it, separate from the VF-17 Super Pack line (clip 1487). Not in the glossary."
+  },
+  {
+   "id": "o0_om0/1476",
+   "en": "VF-17 Nightmare, equipping the Super Parts is authorized.",
+   "flags": [],
+   "notes": "\"Super Parts\" (supaa paatsu): all seven operators say it, separate from the VF-17 Super Pack line (clip 1487). Not in the glossary."
+  },
+  {
+   "id": "os_mis/1476",
+   "en": "VF-17 Nightmare, equipping the Super Parts is permitted.",
+   "flags": [],
+   "notes": "\"Super Parts\" (supaa paatsu): all seven operators say it, separate from the VF-17 Super Pack line (clip 1487). Not in the glossary."
+  },
+  {
+   "id": "o7_exd/1476",
+   "en": "VF-17 Nightmare, Super Parts equipment authorized.",
+   "flags": [],
+   "notes": "\"Super Parts\" (supaa paatsu): all seven operators say it, separate from the VF-17 Super Pack line (clip 1487). Not in the glossary."
+  },
+  {
+   "id": "of_ktr/1476",
+   "en": "VF-17 Nightmare, you're cleared for the Super Parts.",
+   "flags": [],
+   "notes": "\"Super Parts\" (supaa paatsu): all seven operators say it, separate from the VF-17 Super Pack line (clip 1487). Not in the glossary."
+  },
+  {
+   "id": "o0_of0/1477",
+   "en": "VF-19 Excalibur, you're cleared to equip the Atmosphere/Space Booster.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"VF-19 Atmosphere/Space Booster\")."
+  },
+  {
+   "id": "o0_of1/1477",
+   "en": "VF-19 Excalibur, I authorize the Atmosphere/Space Booster.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"VF-19 Atmosphere/Space Booster\")."
+  },
+  {
+   "id": "o0_of2/1477",
+   "en": "VF-19 Excalibur, I'll let you equip the Atmosphere/Space Booster.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"VF-19 Atmosphere/Space Booster\")."
+  },
+  {
+   "id": "o0_om0/1477",
+   "en": "VF-19 Excalibur, equipping the Atmosphere/Space Booster is authorized.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"VF-19 Atmosphere/Space Booster\")."
+  },
+  {
+   "id": "os_mis/1477",
+   "en": "VF-19 Excalibur, equipping the Atmosphere/Space Booster is permitted.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"VF-19 Atmosphere/Space Booster\")."
+  },
+  {
+   "id": "o7_exd/1477",
+   "en": "VF-19 Excalibur, Atmosphere/Space Booster equipment authorized.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"VF-19 Atmosphere/Space Booster\")."
+  },
+  {
+   "id": "of_ktr/1477",
+   "en": "VF-19 Excalibur, you're cleared for the Atmosphere/Space Booster.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"VF-19 Atmosphere/Space Booster\")."
+  },
+  {
+   "id": "o0_of0/1478",
+   "en": "VF-171EX Nightmare Plus, you're cleared to equip the Heavy Weapon Pack.",
+   "flags": [],
+   "notes": "\"Heavy Weapon Pack\" not in the glossary or corpus."
+  },
+  {
+   "id": "o0_of1/1478",
+   "en": "VF-171EX Nightmare Plus, I authorize the Heavy Weapon Pack.",
+   "flags": [],
+   "notes": "\"Heavy Weapon Pack\" not in the glossary or corpus."
+  },
+  {
+   "id": "o0_of2/1478",
+   "en": "VF-171EX Nightmare Plus, I'll let you equip the Heavy Weapon Pack.",
+   "flags": [],
+   "notes": "\"Heavy Weapon Pack\" not in the glossary or corpus."
+  },
+  {
+   "id": "o0_om0/1478",
+   "en": "VF-171EX Nightmare Plus, equipping the Heavy Weapon Pack is authorized.",
+   "flags": [],
+   "notes": "\"Heavy Weapon Pack\" not in the glossary or corpus."
+  },
+  {
+   "id": "os_mis/1478",
+   "en": "VF-171EX Nightmare Plus, equipping the Heavy Weapon Pack is permitted.",
+   "flags": [],
+   "notes": "\"Heavy Weapon Pack\" not in the glossary or corpus."
+  },
+  {
+   "id": "o7_exd/1478",
+   "en": "VF-171EX Nightmare Plus, Heavy Weapon Pack equipment authorized.",
+   "flags": [],
+   "notes": "\"Heavy Weapon Pack\" not in the glossary or corpus."
+  },
+  {
+   "id": "of_ktr/1478",
+   "en": "VF-171EX Nightmare Plus, you're cleared for the Heavy Weapon Pack.",
+   "flags": [],
+   "notes": "\"Heavy Weapon Pack\" not in the glossary or corpus."
+  },
+  {
+   "id": "o0_of0/1479",
+   "en": "RVF-171EX Nightmare Plus, you're cleared to equip the Heavy Weapon Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1479",
+   "en": "RVF-171EX Nightmare Plus, I authorize the Heavy Weapon Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1479",
+   "en": "RVF-171EX Nightmare Plus, I'll let you equip the Heavy Weapon Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1479",
+   "en": "RVF-171EX Nightmare Plus, equipping the Heavy Weapon Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1479",
+   "en": "RVF-171EX Nightmare Plus, equipping the Heavy Weapon Pack is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1479",
+   "en": "RVF-171EX Nightmare Plus, Heavy Weapon Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1479",
+   "en": "RVF-171EX Nightmare Plus, you're cleared for the Heavy Weapon Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1480",
+   "en": "VF-25 Messiah, you're cleared to equip the Tornado Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1480",
+   "en": "VF-25 Messiah, I authorize the Tornado Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1480",
+   "en": "VF-25 Messiah, I'll let you equip the Tornado Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1480",
+   "en": "VF-25 Messiah, equipping the Tornado Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1480",
+   "en": "VF-25 Messiah, equipping the Tornado Pack is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1480",
+   "en": "VF-25 Messiah, Tornado Pack equipment authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Tornado heard as \"toroneedo\""
+  },
+  {
+   "id": "of_ktr/1480",
+   "en": "VF-25 Messiah, you're cleared for the Tornado Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1481",
+   "en": "RVF-25 Messiah, you're cleared to equip the Tornado Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1481",
+   "en": "RVF-25 Messiah, I authorize the Tornado Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1481",
+   "en": "RVF-25 Messiah, I'll let you equip the Tornado Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1481",
+   "en": "RVF-25 Messiah, equipping the Tornado Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1481",
+   "en": "RVF-25 Messiah, equipping the Tornado Pack is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1481",
+   "en": "RVF-25 Messiah, Tornado Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1481",
+   "en": "RVF-25 Messiah, you're cleared for the Tornado Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1482",
+   "en": "YF-25 Prophecy, you're cleared to equip the Tornado Pack. Please launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1482",
+   "en": "YF-25 Prophecy, I authorize the Tornado Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1482",
+   "en": "YF-25 Prophecy, I'll let you equip the Tornado Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1482",
+   "en": "YF-25 Prophecy, equipping the Tornado Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1482",
+   "en": "YF-25 Prophecy, equipping the Tornado Pack is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1482",
+   "en": "YF-25 Prophecy, Tornado Pack equipment authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Tornado heard as \"toroneedo\""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1393-1399: \"Super Parts\" for the VF-17 (supaa paatsu); all seven operators say it, distinct from the Super Pack clip 1487."
+  ],
+  "whisper_doubt": [
+   "row 1373: -tai (team) written as tai \"versus\"",
+   "row 1374: Heard as \"Klan Klang taiin\" (team member); kept \"team\" as the other operators",
+   "row 1388: Nightmare heard as \"raitomea\"",
+   "row 1395: Nightmare heard as \"raitomea\". \"Super Parts\" (supaa paatsu): all seven operators say it, separate from the VF-17 Super Pack line (clip 1487). Not in the glossary.",
+   "row 1426: Tornado heard as \"toroneedo\"",
+   "row 1440: Tornado heard as \"toroneedo\""
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Super Parts (VF-17 option, supaa paatsu)",
+   "Heavy Weapon Pack (VF-171EX / RVF-171EX, hebii wepon pakku)"
+  ],
+  "unfinished": []
+ }
+}

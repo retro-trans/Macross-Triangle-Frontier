@@ -1,0 +1,497 @@
+{
+ "slice": 76,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c05621",
+   "en": "(...Th-this... is brutal...)",
+   "flags": [],
+   "notes": "Female only; after Hilda orders 20 laps."
+  },
+  {
+   "id": "c05622",
+   "en": "I'm sorry! I'll apply myself from now on!",
+   "flags": [],
+   "notes": "Female only; answers Hilda asking if the player takes her class seriously."
+  },
+  {
+   "id": "c05623",
+   "en": "(Haah... I never imagined it'd turn out like this...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05624",
+   "en": "(I'd like to talk with Hilda-sensei, but...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05625",
+   "en": "Hey. Sorry to keep you waiting.",
+   "flags": [],
+   "notes": "Hilda, x14 across frd_hld_001-007, both genders."
+  },
+  {
+   "id": "c05626",
+   "en": "No, not that long...",
+   "flags": [],
+   "notes": "Male only; answers Hilda's 'sorry to keep you waiting'."
+  },
+  {
+   "id": "c05627",
+   "en": "I see. Then let's get started right away.",
+   "flags": [],
+   "notes": "Hilda, x8 (frd_hld_001-003)."
+  },
+  {
+   "id": "c05628",
+   "en": "Ah, I figured it'd come to that...",
+   "flags": [],
+   "notes": "Both genders, frd_hld_001 and 003."
+  },
+  {
+   "id": "c05629",
+   "en": "All right, that's it for today.\nDo a light cool-down before you head off, got it?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05630",
+   "en": "Yes. Thank you very much.",
+   "flags": [],
+   "notes": "Both genders, frd_hld_001/002."
+  },
+  {
+   "id": "c05631",
+   "en": "Mm. Good. See you.",
+   "flags": [],
+   "notes": "Hilda, x14."
+  },
+  {
+   "id": "c05632",
+   "en": "(So it ends up like this after all...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05633",
+   "en": "(I'd like to have a chat with Hilda-sensei, but...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05634",
+   "en": "No, not too long...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05635",
+   "en": "(Figures it'd end up like this...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05636",
+   "en": "(If we're off campus, it won't turn into\n'self-training' again... right?)",
+   "flags": [],
+   "notes": "Male only. The player hopes an off-campus meeting will not become Hilda's training session; 'self-training' as in frd_gry_001."
+  },
+  {
+   "id": "c05637",
+   "en": "Changing where you train is important.\nIt changes your mood and your awareness of your body.\nAll right, stretches first!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05638",
+   "en": "Don't 'uh... um...' me!\nWhere's your answer?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hilda echoes the player's 'etto' (c05595, slice 75); the quoted part should match c05595's English."
+  },
+  {
+   "id": "c05639",
+   "en": "Good, that's a proper answer!\nNow loosen up. This is the most basic of basics,\nso do it thoroughly.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05640",
+   "en": "Remember what I told you last time.\nJust going through the motions is pointless!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05641",
+   "en": "(Oh well. Guess I'll do it...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05642",
+   "en": "Hup!",
+   "flags": [],
+   "notes": "Male only; effort grunt (yoisho)."
+  },
+  {
+   "id": "c05643",
+   "en": "Better than before, but still nowhere near it.\nCome on, spread your legs and drop your hips!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05644",
+   "en": "Ah, I can't, no way, I'm gonna break!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05645",
+   "en": "Are you an idiot?! There's no way you'd break\nfrom something this mild!",
+   "flags": [],
+   "notes": "Hilda (baka ka)."
+  },
+  {
+   "id": "c05646",
+   "en": "(Hilda-sensei... what she says and what she does...)",
+   "flags": [],
+   "notes": "Both genders; trails off as the Japanese does (her 'painful but pleasant' rule vs. this)."
+  },
+  {
+   "id": "c05647",
+   "en": "Ow, ow, ow... This is still brutal...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05648",
+   "en": "All right, that should do it.\nNext up, running and strength training!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05649",
+   "en": "...Yes.",
+   "flags": [],
+   "notes": "x5: also frd_she_008 (female) and scd_sms_703; neutral."
+  },
+  {
+   "id": "c05650",
+   "en": "Don't forget to stay aware of how your muscles move!\nKeep your head working too, and focus on your run!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05651",
+   "en": "(...Sigh. It's this again today, just as I thought...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05652",
+   "en": "All right, that's it for today.\nBetter than last time, but you've got a long way to go.\nStill, you've got talent. Keep at it every day.",
+   "flags": [],
+   "notes": "Hilda. 'Soshitsu wa warukunai' (your aptitude isn't bad) as 'you've got talent'."
+  },
+  {
+   "id": "c05653",
+   "en": "Yes. Thank you very much.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05654",
+   "en": "(Hmm... it ends up like this after all...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05655",
+   "en": "(If we're off campus, it won't turn into\n'self-training' again... right?)",
+   "flags": [],
+   "notes": "Female only; same as c05636."
+  },
+  {
+   "id": "c05656",
+   "en": "Huh?! What do you mean, start...?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05657",
+   "en": "(Guess I've got no choice...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05658",
+   "en": "Heave-ho!",
+   "flags": [],
+   "notes": "Female only; effort cry (sourett)."
+  },
+  {
+   "id": "c05659",
+   "en": "Ah, I can't! No way! I'm going to break!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05660",
+   "en": "Owww... This is still tough...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05661",
+   "en": "(...Sigh. It's this again today, huh...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05662",
+   "en": "Yes! Thank you very much.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05663",
+   "en": "(Hmm... figures it'd end up like this...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05664",
+   "en": "(Well, it'll probably be the same\nno matter where we go...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05665",
+   "en": "Ah, I thought so...",
+   "flags": [],
+   "notes": "Both genders; after Hilda's 'let's get started right away'."
+  },
+  {
+   "id": "c05666",
+   "en": "All right, that's it for today.\nYou're gradually getting better. Keep at it.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05667",
+   "en": "(Changing the place didn't help after all...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05668",
+   "en": "(Well, it'll probably be the same\nno matter where we go...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05669",
+   "en": "(Changing the place didn't help after all...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05670",
+   "en": "(Maybe here, of all places, it won't turn into\nthe same old thing...)",
+   "flags": [],
+   "notes": "Both genders; at the pool."
+  },
+  {
+   "id": "c05671",
+   "en": "Hm? What are you mumbling about?\nCome on, your usual stretches. Get them done, quick.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05672",
+   "en": "Yes!!",
+   "flags": [],
+   "notes": "x6: also Luca (frd_luk_009/010, scd_tst_004); neutral."
+  },
+  {
+   "id": "c05673",
+   "en": "Mm, looks like you're catching on.\nSloppy words mean a sloppy mind.\nMake a habit of answering properly.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05674",
+   "en": "Yes, understood!",
+   "flags": [],
+   "notes": "x6, player in frd_hld_003-005 and scd_com_618."
+  },
+  {
+   "id": "c05675",
+   "en": "All right, that's enough there!\nYou seem to be getting used to it. Not bad at all!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05676",
+   "en": "Yes, thank you very much!",
+   "flags": [],
+   "notes": "x5: also Akimizu in scd_com_103; neutral."
+  },
+  {
+   "id": "c05677",
+   "en": "Now then, today it's swimming.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05678",
+   "en": "It works your whole body, so it's hard on you,\nbut the water pressure massages you and boosts\ncirculation. It's perfect for training.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05679",
+   "en": "I see.",
+   "flags": [],
+   "notes": "x4, player, several scenes."
+  },
+  {
+   "id": "c05680",
+   "en": "All right, let's get started.\nThe idea is the same as running. Stay aware of\nyour muscles and swim with your whole body.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05681",
+   "en": "Swim like you're picturing every part moving,\nfrom your fingertips to your toes!\nThat's it! Not bad!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05682",
+   "en": "Bwah! Abbagabbubbobbabbah!\n(Yes! Thank you very much!)",
+   "flags": [],
+   "notes": "Both genders; the player answers underwater (gibberish), translation in parentheses."
+  },
+  {
+   "id": "c05683",
+   "en": "No talking in the pool!\nFocus on nothing but swimming, got it?!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05684",
+   "en": "Mm, not bad at all.\nYour daily training seems to be paying off.\nWell then, maybe I'll go for a swim myself.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05685",
+   "en": "(Huh?)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05686",
+   "en": "Come on, race me!\nThe loser buys the drinks!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05687",
+   "en": "(Wait... I've already done a ton of swimming...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05688",
+   "en": "Phew, looks like I win.\nStill, a swim after so long feels great.\nIt cleanses the soul.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05689",
+   "en": "(Well, yeah, obviously...)",
+   "flags": [],
+   "notes": "Male only; reacting to Hilda winning against an exhausted player."
+  },
+  {
+   "id": "c05690",
+   "en": "Well, you worked quite hard today.\nIn recognition of that, I'll treat you today.",
+   "flags": [],
+   "notes": "Hilda; she won the race (loser pays) but treats the player anyway."
+  },
+  {
+   "id": "c05691",
+   "en": "What, you have a problem with that?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05692",
+   "en": "No! Thank you very much!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05693",
+   "en": "Mm. Good.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05694",
+   "en": "(Maybe Hilda-sensei is actually kind of nice...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05695",
+   "en": "Yes! Thank you very much!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05696",
+   "en": "Makes sense.",
+   "flags": [],
+   "notes": "x6: female here, also frd_kgr_002 and frd_yui_101 (both genders); neutral."
+  },
+  {
+   "id": "c05697",
+   "en": "(I'm already close to my limit today...)",
+   "flags": [],
+   "notes": "Female only; reacts to Hilda's race challenge."
+  },
+  {
+   "id": "c05698",
+   "en": "(Hilda-sensei's swimming was amazing...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05699",
+   "en": "(Oh, lucky!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05700",
+   "en": "(Maybe Hilda-sensei is actually kind of nice!)",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c05638: Hilda echoes the player's hesitation 'etto' from c05595 (slice 75, not yet translated when this was written); rendered 'Don't 'uh... um...' me!'. The quoted words should match c05595's English."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

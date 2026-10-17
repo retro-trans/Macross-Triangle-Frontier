@@ -1,0 +1,496 @@
+{
+ "slice": 20,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u2845",
+   "en": "Annihilate the enemy of the U.N. Forces:\nthe Anti-U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2846",
+   "en": "Commencing the operation to wipe out the U.N.'s foe: the \"Anti-U.N. Forces.\" Annihilate the Anti-U.N. TYPE-29 fighter formation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2847",
+   "en": "As part of conversion training for the\nVF-0, engage in a mock battle.",
+   "flags": [],
+   "notes": "Re-broken to the Japanese line sizes (40 / 44 bytes)."
+  },
+  {
+   "id": "u2848",
+   "en": "The \"VF-0\": a variable fighter developed with the ASS-1's OverTechnology. To survive the battles ahead, you'll now undergo VF-0 conversion training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2849",
+   "en": "Annihilate the Anti-U.N. Forces'\nnew variable fighter unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2850",
+   "en": "The Anti-U.N. Forces made a surprise attack with VFs built using our tech. Sortie at once and annihilate the Anti-U.N. variable fighters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2851",
+   "en": "As part of your training,\nfight a mock battle against Major Focker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2852",
+   "en": "To prepare for the escalating Anti-U.N. war, we'll hold a mock battle drill. Win the mock battle against U.N. Forces ace Major Roy Focker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2853",
+   "en": "To stop the theft of the AFOS fragment,\nannihilate the Anti-U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2854",
+   "en": "The Anti-U.N. Forces are trying to seize the AFOS fragment on Mayan Island. Expect unfamiliar underwater combat, but wipe out the Anti-U.N. at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2855",
+   "en": "To defend the AFOS fragment,\nannihilate the Anti-U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2856",
+   "en": "The Anti-U.N. Forces attack the Asuka to seize the AFOS fragment under study. Defend the carrier Asuka and annihilate the Anti-U.N. at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2857",
+   "en": "Escort the allies recovering the AFOS\nfragment to the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2858",
+   "en": "We'll now recover another AFOS fragment newly found on Mayan Island. Escort the allied units recovering it to the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2859",
+   "en": "Wipe out the Anti-U.N. Forces so they\ncan't recover the Bird Human's head.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2860",
+   "en": "We lost the Bird Human's head in a fierce battle with the Anti-U.N. Forces. We can't let them recover it. Wipe out the Anti-U.N. Forces searching for it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2861",
+   "en": "To seize the immense power of AFOS,\nwipe out the Anti-U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2862",
+   "en": "Both the U.N. Forces and the Anti-U.N. Forces now hold AFOS fragments. Wipe out the Anti-U.N. to claim the AFOS fragments for our U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2863",
+   "en": "Wipe out the giant aliens who struck\nback after the Macross's attack.",
+   "flags": [],
+   "notes": "Re-broken to the Japanese line sizes (40 / 44 bytes)."
+  },
+  {
+   "id": "u2864",
+   "en": "At its launch ceremony, the Macross fired its main gun at an unknown fleet. Battle with the aliens looks unavoidable. Get into intercept position now.",
+   "flags": [],
+   "notes": "Shortened: briefing lines hold 78 bytes (2 lines). Shortened: briefing lines hold 78 bytes (2 lines)."
+  },
+  {
+   "id": "u2865",
+   "en": "Wipe out the giant alien ground forces\nattacking the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2866",
+   "en": "To escape the giant aliens' attack, the Macross now attempts a space launch. Escort the blundering VF-1D while wiping out the giant alien ground forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2867",
+   "en": "Defend the Macross\nduring the Transformation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2868",
+   "en": "Beginning the Transformation to fire the main gun at the giant alien fleet. Defend the Macross at all costs while the Transformation is under way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2869",
+   "en": "Our rookies lack experience, so we'll now hold a mock battle as training. Win the mock battle against U.N. Forces ace Major Roy Focker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2870",
+   "en": "Defend the Macross until\nits main gun fires.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2871",
+   "en": "To break out of this defensive fight, we'll surprise-attack the giant aliens. Defend the Macross until its main gun fires.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2872",
+   "en": "To resupply, carry the containers\nto the designated point.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2873",
+   "en": "With supplies drained by repeated battles, we'll restock at Sara Base on Mars. Recover the supply containers. If enemies appear, switch to wiping them out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2874",
+   "en": "Destroy the enemies nearing the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2875",
+   "en": "Enemy units spotted approaching the Macross. A scramble has been ordered. Miss Macross may be on your mind, but go at once and wipe out the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2876",
+   "en": "Escort the Cat's Eye until the survey\nof the giant aliens is complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2877",
+   "en": "Just short of Earth, the giant aliens have demanded the Macross surrender. We'll recon to learn their aims. Escort the Cat's Eye and wipe out the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2878",
+   "en": "To escape from the enemy ship,\nhead for the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2879",
+   "en": "We've rescued Lt. Hayase and the others held captive on a Zentradi battleship, but we haven't escaped the enemy ship yet. Get out of it at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2880",
+   "en": "To make it back to Earth no matter what,\nwipe out the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2881",
+   "en": "The Zentradi have surrounded the Macross to stop it from returning to Earth. It's a hard-line move, but destroy the Zentradi to break their encirclement.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2882",
+   "en": "Wipe out the Zentradi forces\nthat have attacked the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2883",
+   "en": "The Zentradi have attacked the Macross, back on Earth after a year away. Wipe out the Zentradi forces trying to smoke the Macross out into space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2884",
+   "en": "To keep the enemy off the Macross,\nwipe out the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2885",
+   "en": "A Zentradi battleship is closing fast on the Macross as it resupplies at sea. We can't let the Macross's resupply be interrupted. Wipe out the Zentradi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2886",
+   "en": "To get the civilians safely onto Earth,\nwipe out the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2887",
+   "en": "The Ontario Autonomous Zone has agreed to take in the Macross's civilians, but the Zentradi have appeared. Wipe them out so the civilians can be taken in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2888",
+   "en": "Escort the liaison shuttle headed\nfor U.N. Forces HQ on Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2889",
+   "en": "You'll now escort the liaison shuttle taking Capt. Hayase to U.N. HQ on Earth. Escort it until it reaches a safe zone, then switch to wiping out the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2890",
+   "en": "Beat the expert gamers at the smash-hit\ngame \"Battroid Attack\".",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2891",
+   "en": "  Head-to-Head Valkyrie Simulation  ~BATTROID ATTACK!!~\n                                  PLEASE INSERT COIN(S)",
+   "flags": [],
+   "notes": "Arcade attract-screen layout kept exactly as MUF shipped it (line break and space padding)."
+  },
+  {
+   "id": "u2892",
+   "en": "Wipe out the Zentradi forces\nlaunching an all-out attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2893",
+   "en": "At humanity's first interstellar wedding, the Zentradi attacked the Macross in force. We've taken a first step to peace; don't stop now. Wipe out the enemy.",
+   "flags": [],
+   "notes": "Shortened: briefing lines hold 78 bytes (2 lines). Shortened: briefing lines hold 78 bytes (2 lines)."
+  },
+  {
+   "id": "u2894",
+   "en": "To end the interstellar war,\ndestroy Boddole Zer.",
+   "flags": [],
+   "notes": "TM had 'Golg Boddole Zer'; the Japanese here is the short form (Boddole Zer), and the glossary keeps the full name for titles. MI_060 (u2918), which writes the full name, keeps it."
+  },
+  {
+   "id": "u2895",
+   "en": "Fearing the power of Earth's culture, Boddole Zer attacks the Macross all-out. We'll use the Minmay Attack to overturn hopeless odds. Destroy Boddole Zer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2896",
+   "en": "Put down the rioting Zentradi\nat once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2897",
+   "en": "Zentradi who can't fit in on Earth stole arms and are attacking civilian areas. We cannot let civilians come to harm. Put down the rampaging Zentradi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2898",
+   "en": "To capture the automated spaceship\nfactory, seize control of the facility.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2899",
+   "en": "To build up our forces, we'll seize the Zentradi automated spaceship factory. Wipe out the Zentradi forces defending it and take the factory.",
+   "flags": [],
+   "notes": "Shortened: briefing lines hold 78 bytes (2 lines). Shortened: briefing lines hold 78 bytes (2 lines)."
+  },
+  {
+   "id": "u2900",
+   "en": "Wipe out Quamzin's faction, which is\ntrying to steal the micronization device.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2901",
+   "en": "Quamzin, who won't coexist with Earthlings, is raiding the factory to steal the micronization device. We can't allow that. Wipe out Quamzin's faction.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2902",
+   "en": "To rescue the hostages,\nwipe out Quamzin's faction.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2903",
+   "en": "Quamzin has taken civilians hostage and is demanding a battleship as ransom. Rescuing the hostages safely comes first. Wipe out Quamzin's faction.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2904",
+   "en": "Wipe out Quamzin's faction, which is\ntrying to steal the reaction engine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2905",
+   "en": "Quamzin's faction is raiding the industrial zone to steal the reaction engine. Wipe them out to protect the reaction engine in the industrial complex block.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2906",
+   "en": "To protect the Macross and Macross City,\nwipe out Quamzin's faction.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2907",
+   "en": "Out to destroy the Macross, Quamzin's faction has suddenly hit Macross City. Wipe them out at once to protect the Macross and the people of Macross City.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2908",
+   "en": "To make it home to Earth,\nannihilate the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2909",
+   "en": "As the Macross heads home from beyond the solar system, the Zentradi appear. First break their formation with reaction weapons, then annihilate them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2910",
+   "en": "Capture the U.N. Forces pilot who is\nflying a Valkyrie without authorization.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2911",
+   "en": "We've spotted a pilot flying a Valkyrie around Saturn without permission. Unauthorized use of a Valkyrie won't be tolerated. Capture the pilot at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2912",
+   "en": "To rescue the hostages,\nhead to the target area immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2913",
+   "en": "The Zentradi have taken Macross crew members captive. To rescue the hostages, infiltrate the enemy ship and go at once to where they're thought to be held.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2914",
+   "en": "As part of your training,\nfight a mock battle against Max.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2915",
+   "en": "To prepare for relentless Zentradi raids, we'll now conduct special training. Win a mock battle against the rumored genius pilot, Maximilian Jenius.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2916",
+   "en": "Immediately annihilate the Meltrandi\nforces approaching the Macross.",
+   "flags": [],
+   "notes": "TM 'Annihilate the Meltrandi forces closing in on the Macross at once' read as if the Meltrandi were closing in at once; moved 'immediately' to the verb."
+  },
+  {
+   "id": "u2917",
+   "en": "Bogeys believed to be the all-female Meltrandi forces are nearing the Macross. To keep them from getting any closer, annihilate the Meltrandi at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2918",
+   "en": "To end the interstellar war,\ndefeat Golg Boddole Zer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2919",
+   "en": "Peace with the Zentradi up in smoke, Boddole Zer attacks the Macross all-out. We'll use the Minmay Attack to overturn hopeless odds. Defeat Boddole Zer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2920",
+   "en": "As part of your training, fight\nmock battles with the Destroid squads.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2921",
+   "en": "To prepare for emergencies like a Zentradi remnant revolt or unseen threats, regular U.N. Forces training begins. Beat each Destroid squad in mock battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2922",
+   "en": "Annihilate the rioting\nZentradi remnants.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2923",
+   "en": "Rioting Zentradi remnants have ignored a call to surrender and still run wild. To put down the riot at once, annihilate the Zentradi remnants.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u2924",
+   "en": "To assess your aptitude as a test pilot,\nfight the Valkyrie squad in a mock battle.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "Mission objective rows (strMission): most TM rows exceed the per-line estimate (125% of the Japanese line), as MUF shipped them; the widest shipped objective line in the corpus is 274 px, so lines up to ~274 px were kept and new rows written within that.",
+   "u2891: kept MUF's padded two-line arcade layout in a WRAP row instead of a single paragraph."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

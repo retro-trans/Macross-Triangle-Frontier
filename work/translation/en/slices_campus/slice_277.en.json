@@ -1,0 +1,438 @@
+{
+ "slice": 277,
+ "rows_in_slice": 69,
+ "rows_examined": 69,
+ "rows": [
+  {
+   "id": "c19874",
+   "en": "Still, who's that person who's always\nwith Sheryl...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19875",
+   "en": "That's my very capable manager, Grace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19876",
+   "en": "Huh, so that's who that is...\n...Wait, Sheryl!?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Shared by both genders; the female player says bare 'Sheryl' here as in the Japanese (she usually says Sheryl-san)."
+  },
+  {
+   "id": "c19877",
+   "en": "Hi~\nSeeing you this surprised makes it\nworth calling out to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19878",
+   "en": "Hee hee, see you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19879",
+   "en": "Huh? Oh, uh, see you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19880",
+   "en": "(The Galactic Fairy actually talked to me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19881",
+   "en": "(Still, who's that person who's always\nwith Sheryl, I wonder?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19882",
+   "en": "(The Galactic Fairy actually talked to me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19883",
+   "en": "She's the girl I gave my seal of approval to.\nOf course she's doing this well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19884",
+   "en": "Wow, she's really something.\n...Wait, Sheryl!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19885",
+   "en": "Ranka-chan's going to keep growing and growing.\nIf I let my guard down, even I might...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19886",
+   "en": "It's nothing!\nI'll be taking my leave for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19887",
+   "en": "Oh, okay. See you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19888",
+   "en": "(Ranka's amazing, getting recognized\nby the Galactic Fairy herself.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19889",
+   "en": "Wow, she's really something.\n...Wait, Sheryl-san!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19890",
+   "en": "(Ranka-chan's amazing, getting recognized\nby the Galactic Fairy herself.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19891",
+   "en": "(P.E. today is swimming, huh... Hm? Alto and\nSheryl... Are they arguing about something...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19892",
+   "en": "Oh my, Alto. Looks like you can't take your\neyes off me in my swimsuit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19893",
+   "en": "Wha-!?\nAs if I'd look at someone like you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19894",
+   "en": "Really?\nYour face looks awfully red, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19895",
+   "en": "That's... because you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19896",
+   "en": "Oh, come on, you're so bad at being honest!\nBut that's what makes you cute!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19897",
+   "en": "Why, you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19898",
+   "en": "Um, you two...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19899",
+   "en": "Oh, if it isn't \\p.\nYou tell him too:\n\"Be honest with yourself.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19900",
+   "en": "What nonsense are you spouting!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19901",
+   "en": "\"I couldn't take my eyes off Sheryl-sama\nin her swimsuit~\" Just like that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19902",
+   "en": "Grr, why... you... little...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19903",
+   "en": "(P.E. today is swimming, huh... Hm?\nSaotome-kun and Sheryl-san...\nAre they arguing about something...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19904",
+   "en": "Um, you two...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19905",
+   "en": "Oh, if it isn't \\p-chan.\nYou tell him too:\n\"Be honest with yourself.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19906",
+   "en": "(Okay, maybe I'll head home soon...\nOh, it's Sheryl and Ranka...\nSomething feels seriously tense...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19907",
+   "en": "I don't agree!\nRanka-chan, you're wrong!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19908",
+   "en": "No, I'm not!\nYou're the one who's wrong, Sheryl-san!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19909",
+   "en": "Grr, you're so stubborn!\nIf words won't get through to you...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19910",
+   "en": "Whoa, you two, hold on a sec!\nWhy are you so worked up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19911",
+   "en": "Oh, if it isn't \\p...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19912",
+   "en": "Listen to this, Sheryl-san is being awful!\nWe were talking about what the tastiest sweet\nin all of Macross Frontier is, and...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19913",
+   "en": "It's the \"hippo-cow soft serve,\" hands down!",
+   "flags": [],
+   "notes": "Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c19914",
+   "en": "No way, it isn't!\nIt's definitely Nyan-Nyan's\n\"Zentradi Sesame Balls\"!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Zentora goma dango: 'Zentradi Sesame Balls' (not in glossary; goma dango is 'sesame balls' in earlier slices, Zentora-don was 'Zentradi Rice Bowl' in MUF)."
+  },
+  {
+   "id": "c19915",
+   "en": "You really won't listen, will you!\nFine! We're going to go eat them right now\nand settle which one's truly the best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19916",
+   "en": "(Okay, maybe I'll head home soon...\nOh, it's Sheryl-san and Ranka-chan...\nSomething feels seriously tense...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19917",
+   "en": "You two, hold on a sec!\nWhy are you so worked up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19918",
+   "en": "(Next class is P.E.\nI'd better hurry out to the schoolyard...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19919",
+   "en": "(Hm? Sheryl and Nanase are talking.\nWhat's going on?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19920",
+   "en": "Ever since I saw you in the shower that time,\nsomething's been bugging me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19921",
+   "en": "Could it be that your chest...\nis bigger than mine?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19922",
+   "en": "Wha-!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19923",
+   "en": "Come on, let me check.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19924",
+   "en": "P-please stop it! Sheryl-san!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19925",
+   "en": "Oh, what's the harm?\nIt's not like they'll shrink...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19926",
+   "en": "(I really need to help Nanase out here...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19927",
+   "en": "Sheryl, you're making Nanase uncomfortable.\nCome on, quit checking.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19928",
+   "en": "Popping up out of nowhere to get in my way...\nPretty cheeky of you, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19929",
+   "en": "Oh, fine.\nThen, \\p, you decide\nwhose chest is bigger!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19930",
+   "en": "Hurry up and decide!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19931",
+   "en": "Uh, well...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19932",
+   "en": "We'll be late for P.E. if we don't hurry.\nCome on, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19933",
+   "en": "Hey, what are you running away for!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19934",
+   "en": "(I can't exactly go staring at those two's\nchests, so please, give me a break!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19935",
+   "en": "(Next class is P.E.\nI'd better hurry out to the schoolyard...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19936",
+   "en": "(Hm? Sheryl-san and Nanase are talking.\nWhat's going on?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19937",
+   "en": "(I really need to help Nanase out here...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19938",
+   "en": "Sheryl-san, you're making Nanase uncomfortable.\nPlease stop checking.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19939",
+   "en": "Popping up out of nowhere to get in my way...\nYou've got some nerve, \\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19940",
+   "en": "Oh, fine.\nThen, \\p-chan, you decide\nwhose chest is bigger!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19941",
+   "en": "We'll be late for P.E. if we don't hurry.\nLet's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19942",
+   "en": "(We may all be girls, but staring at their\nchests would be too embarrassing.\nPlease, give me a break!)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c19876: shared by both genders; female player says bare 'Sheryl' as in the Japanese.",
+   "c19914: Zentora goma dango -> 'Zentradi Sesame Balls' (name not in glossary).",
+   "c19913: kabagyuu no sofuto kuriimu -> 'hippo-cow soft-serve' (glossary hippo-cow, lowercase).",
+   "c19928: '\\p no kuse ni namaiki ne' rendered 'Pretty cheeky of you, \\p.' (the 'for someone like \\p' nuance folded into 'cheeky')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Zentora goma dango (Nyan-Nyan sweet) -> 'Zentradi Sesame Balls'"
+  ],
+  "unfinished": []
+ }
+}

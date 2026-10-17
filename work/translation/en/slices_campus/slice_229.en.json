@@ -1,0 +1,415 @@
+{
+ "slice": 229,
+ "rows_in_slice": 67,
+ "rows_examined": 67,
+ "rows": [
+  {
+   "id": "c16666",
+   "en": "(Ahh, classes are finally over~!\nGuess I'll head home.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16667",
+   "en": "(Huh? There's someone I don't recognize, from behind...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16668",
+   "en": "(Looks like a woman with a really great figure...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16669",
+   "en": "(Was there anyone like that at this school...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16670",
+   "en": "(Ah, she turned around!)",
+   "flags": [],
+   "notes": "'she': the previous row in both versions says it is a woman."
+  },
+  {
+   "id": "c16671",
+   "en": "Hm? What's wrong, \\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16672",
+   "en": "What's the matter? Why are you making that face?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16673",
+   "en": "Oh, it's just that you're dressed differently\nfrom how I usually see you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16674",
+   "en": "Ah, this?\nWell, I can't exactly commute in a tracksuit.\nDoes it look strange?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16675",
+   "en": "No, it looks most becoming on you.",
+   "flags": [],
+   "notes": "Over-polite keigo in the Japanese (flustered player): kept stiff in English; Hilda calls it odd next."
+  },
+  {
+   "id": "c16676",
+   "en": "What's with you? You're a strange one...\nWell, whatever. Get home safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16677",
+   "en": "(So that's how Hilda-sensei dresses normally...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16678",
+   "en": "(Haah~, classes are finally over~!\nTime to head home.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16679",
+   "en": "(Huh? Someone I don't recognize, from behind...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16680",
+   "en": "(Looks like a woman with a really great figure...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16681",
+   "en": "Oh?! Hilda-sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16682",
+   "en": "Oh, it's just that you're dressed\ndifferently from usual...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16683",
+   "en": "No, it looks super good on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16684",
+   "en": "I see. Thank you.\nFlattery or not, that makes me a little happy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16685",
+   "en": "(Hilda-sensei's casual clothes... they're kinda nice...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16686",
+   "en": "(I came to the Shibuya Area to buy a swimsuit,\nbut which shop should I go to?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16687",
+   "en": "Well, if it isn't \\p.\nOut shopping?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16688",
+   "en": "Oh, Hilda-sensei.\nYes, I was thinking of buying a new swimsuit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16689",
+   "en": "A swimsuit?\nWhat, are you going to the artificial island?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16690",
+   "en": "No, I don't have any plans like that right now,\nbut I wanted one in a new design.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16691",
+   "en": "Oh, speaking of which, have you heard?\nThere's a rumor lately that a ghost appears\nin a cave on the artificial island.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16692",
+   "en": "G-ghost, you say...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16693",
+   "en": "Huh, you haven't heard?\nIt's pretty famous. Supposedly Alto and the others\nhave even seen it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16694",
+   "en": "...I-I see! That's terrible.\nOh, I just remembered something I have to do...\nSee you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16695",
+   "en": "O-okay... See you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16696",
+   "en": "(Could it be that Hilda-sensei is surprisingly\nscared of ghost stories and stuff...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16697",
+   "en": "Huh, you haven't heard?\nIt's pretty famous. Supposedly Saotome-kun\nand the others have even seen it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16698",
+   "en": "(Summer break's almost over...\nWhat should I do?)",
+   "flags": [],
+   "notes": "x4: also nml_luk_001; neutral."
+  },
+  {
+   "id": "c16699",
+   "en": "\\p.\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16700",
+   "en": "I'm bored, so I was just wandering around.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16701",
+   "en": "...Why don't you try spending your vacation\na little more productively?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16702",
+   "en": "Productively? But I don't even have any money...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16703",
+   "en": "In that case, go to the library or something and study.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16704",
+   "en": "...W-well then, I'll be going now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16705",
+   "en": "Make sure you study hard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16706",
+   "en": "(...Okay, what should I do for fun?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16707",
+   "en": "I'm bored, so I was just out for a stroll.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16708",
+   "en": "Productively? But I don't even have any moneyyy...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16709",
+   "en": "...W-well then, I'll be going now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16710",
+   "en": "(Sheryl's concert is almost here!)",
+   "flags": [],
+   "notes": "x3: also nml_rnk_002 male."
+  },
+  {
+   "id": "c16711",
+   "en": "\\p.\nWhat are you so giddy about?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16712",
+   "en": "What about? Sensei, it's Sheryl's concert!\nAren't you interested?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16713",
+   "en": "Hm, is that so.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16714",
+   "en": "\"Is that so\"...? Do you even know who Sheryl is?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16715",
+   "en": "I do. The Galactic Fairy, Sheryl Nome, correct?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16716",
+   "en": "Her singing, her looks, her live performances...\nshe's a top-level artist in every respect today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16717",
+   "en": "You know all that, and you're not excited at all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16718",
+   "en": "I am excited, you know.\nI'm planning to go to the concert, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16719",
+   "en": "...You don't look it at all, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16720",
+   "en": "Never mind me. Stop getting carried away\nand focus on your studies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16721",
+   "en": "(A new planet's been found, but\nI still can't help feeling uneasy...)",
+   "flags": [],
+   "notes": "x3: also nml_rnk_003 and nml_yui_003 (male)."
+  },
+  {
+   "id": "c16722",
+   "en": "Who's that over there...?\nYamashiro-sensei!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16723",
+   "en": "\\p, is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16724",
+   "en": "Sensei, what do you think about the new planet?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16725",
+   "en": "That's a rather vague question...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16726",
+   "en": "...Well, one thing I can say is\nthat reaching a new planet\ndoesn't mean it's all over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16727",
+   "en": "The real beginning comes after we get there.\nThere's no use worrying about it already.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16728",
+   "en": "You're right...\nHearing you say that, Sensei, I feel a lot better somehow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16729",
+   "en": "Hm. If this sort of talk helps, I'll oblige anytime.\nNow, I'll be taking my leave.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16730",
+   "en": "(Like Yamashiro-sensei said,\nthere's no use worrying about it already.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16731",
+   "en": "(A new planet's been found, but\nI still can't help feeling uneasy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16732",
+   "en": "(Like Yamashiro-sensei said,\nthere's no use worrying about it already, right?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

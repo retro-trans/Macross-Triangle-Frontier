@@ -1,0 +1,468 @@
+{
+ "slice": 72,
+ "rows_in_slice": 75,
+ "rows_examined": 75,
+ "rows": [
+  {
+   "id": "c05322",
+   "en": "(Gary-sensei's got a pretty good side to him.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05323",
+   "en": "(I was told 'in front of the Sky Gate' again today,\nbut...)",
+   "flags": [],
+   "notes": "Both genders. Repeat visit."
+  },
+  {
+   "id": "c05324",
+   "en": "Yes. But Sensei, if it's the Sky Gate,\nthen don't tell me...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05325",
+   "en": "Yep, that's exactly it!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05326",
+   "en": "What, we get to see them again?\nFire Bomber's...",
+   "flags": [],
+   "notes": "Both genders. Trails off as the Japanese does."
+  },
+  {
+   "id": "c05327",
+   "en": "Just kidding. Obviously they're not on today.\nToday I wanted to ask how much you've looked\ninto Fire Bomber since then!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05328",
+   "en": "Huh... oh... understood...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05329",
+   "en": "Ohh~ So you really did dig into all kinds of stuff.\nI'm impressed, I'm impressed.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05330",
+   "en": "No, I think I've still got a long way to go...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05331",
+   "en": "Right. Get to where you can at least\ntalk shop with me!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05332",
+   "en": "Yes, I'll do my best!",
+   "flags": [],
+   "notes": "Shared with Itsuki scenes; neutral."
+  },
+  {
+   "id": "c05333",
+   "en": "(Gary-sensei really knows his stuff...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05334",
+   "en": "No, I think I've still got a long way to go...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05335",
+   "en": "(Gary-sensei really knows his stuff...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05336",
+   "en": "(The artificial island today...\nI wonder what we're doing...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05337",
+   "en": "Hey!...\nWait, what's with you, dressed like that...",
+   "flags": [],
+   "notes": "Both genders. The player is in normal clothes."
+  },
+  {
+   "id": "c05338",
+   "en": "Well, Sensei, you're the one who showed up\nin a swimsuit out of nowhere...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05339",
+   "en": "You come to a place like this, it's straight into\na swimsuit! C'mon, the sun, the waves\nand the women are calling to us!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05340",
+   "en": "Geez, you're no fun at all.\nCome on, hurry up and get changed!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05341",
+   "en": "Oh, okay.",
+   "flags": [],
+   "notes": "Shared by many scenes; neutral."
+  },
+  {
+   "id": "c05342",
+   "en": "Alright, there you are.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05343",
+   "en": "Yes!\nSwimsuits really do feel great in a place like this!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05344",
+   "en": "Right? Right?",
+   "flags": [],
+   "notes": "Shared with Klan (frd_kln_006); neutral."
+  },
+  {
+   "id": "c05345",
+   "en": "Yeah! So, what are we doing today...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05346",
+   "en": "You idiot! You come to a place like this\nand ask me that?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05347",
+   "en": "Listen up.\nIn a place like this, you do whatever you feel like.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05348",
+   "en": "Eat some good food, sure.\nGet into some water sports, sure.\nChat up some hot girls, sure. Follow your instincts!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05349",
+   "en": "I see, you're right!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05350",
+   "en": "Well then, I'm gonna go 'communicate' with that\ngroup over there. You do your own thing!",
+   "flags": [],
+   "notes": "Both genders. Quotes added to 'communicate' for Gary's euphemism; the Japanese has none."
+  },
+  {
+   "id": "c05351",
+   "en": "Huh? Oh, okay...",
+   "flags": [],
+   "notes": "Shared with scd_com_728; neutral."
+  },
+  {
+   "id": "c05352",
+   "en": "(He's just here for the women after all, isn't he...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05353",
+   "en": "Haah~ Just lying here feels so nice...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05354",
+   "en": "Alright, let's do this.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05355",
+   "en": "Huh, that's Sensei's voice. What's going on?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05356",
+   "en": "Listen up.\nWhoever wins this beach volleyball game\ngets first dibs!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05357",
+   "en": "Whoa, something weird is going on...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05358",
+   "en": "Hey, \\p!\nGet over here, we're starting!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05359",
+   "en": "Wait, I got put on his team without anyone\neven asking me...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05360",
+   "en": "Put your back into it!\nYou know what happens to your grades\nif we lose, right?!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05361",
+   "en": "Wh... But that's...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05362",
+   "en": "Y-yes!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05363",
+   "en": "(We somehow pulled it off...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05364",
+   "en": "(Then again, it kinda feels like Sensei did\npretty much all of it himself...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05365",
+   "en": "Yeah, nice work.\nThat's my student for ya.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05366",
+   "en": "More importantly, what exactly were you\nbetting on?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05367",
+   "en": "Hm, well, that's, uh...\nthe contact info of those cuties over there...",
+   "flags": [],
+   "notes": "Both genders. 'onna no ko-chan-tachi': doubly cutesy 'girls', rendered 'cuties'."
+  },
+  {
+   "id": "c05368",
+   "en": "(Women again...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05369",
+   "en": "You say something?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05370",
+   "en": "Huh? The cuties are gone... Aw, dammit...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05371",
+   "en": "Well, guess these things happen sometimes.\nHahaha...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05372",
+   "en": "(A lot happened, but it was fun.\nHe's kinda like a big bro, I guess.)",
+   "flags": [],
+   "notes": "Male only. 'aniki'."
+  },
+  {
+   "id": "c05373",
+   "en": "(The artificial island today...\nI wonder what we're doing.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05374",
+   "en": "Oh, okay. No peeking, though!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05375",
+   "en": "You idiot! A brat like you isn't even worth\npeeking at.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05376",
+   "en": "Eat some good food, sure.\nGet into some water sports, sure.\nChat up some hot guys, sure. Follow your instincts!",
+   "flags": [],
+   "notes": "Female only. 'ikemen'."
+  },
+  {
+   "id": "c05377",
+   "en": "(Jeez, he's just here for the women after all...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05378",
+   "en": "Phew, just lying here feels so nice...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05379",
+   "en": "Huh, that's Sensei's voice. I wonder what's up?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05380",
+   "en": "Something weird is going on...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05381",
+   "en": "(We somehow managed to win...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05382",
+   "en": "(Women again, he says...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05383",
+   "en": "(A lot happened, but it was fun.\nHe's kinda like a big brother, I guess.)",
+   "flags": [],
+   "notes": "Female only. 'oniisan'."
+  },
+  {
+   "id": "c05384",
+   "en": "(Off to the artificial island with Gary-sensei\nagain today!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05385",
+   "en": "Hey, glad you made it!\nAlready changed into your swimsuit, too.\nYou're raring to go!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05386",
+   "en": "Yes, I'm totally ready to have fun!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05387",
+   "en": "Alright! We're going all out!\nFollow me!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05388",
+   "en": "Phew~ Even I'm worn out now...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05389",
+   "en": "Yeah... I'm pretty worn out too...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05390",
+   "en": "But that going-all-out spirit? Not bad at all!\nThat's how it's gotta be when you play!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05391",
+   "en": "Yes, got it!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05392",
+   "en": "Alright, then let's cut loose a bit more!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05393",
+   "en": "What?! No way...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05394",
+   "en": "(Gary-sensei's energy is bottomless...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05395",
+   "en": "(Off to the artificial island with Gary-sensei\nagain today!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05396",
+   "en": "(Gary-sensei's energy is bottomless...)",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c05350: added quotes around 'communicate' to carry Gary's obvious euphemism (he is going to hit on a group); no quotes in the Japanese.",
+   "c05367/c05370: 'onna no ko-chan-tachi' (girls + cutesy -chan) rendered 'those cuties'.",
+   "c05372/c05383: male 'aniki' -> 'big bro', female 'oniisan' -> 'big brother'.",
+   "c05344: shared with Klan in frd_kln_006 (not yet translated); 'Right? Right?' kept neutral."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

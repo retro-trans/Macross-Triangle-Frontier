@@ -1,0 +1,495 @@
+{
+ "slice": 125,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c09186",
+   "en": "But someday, I want to reach the same heights.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09187",
+   "en": "They're really amazing, you know.\nThey breeze through things I can't do...",
+   "flags": [],
+   "notes": "x2, Luca; sono hito-tachi (plural)."
+  },
+  {
+   "id": "c09188",
+   "en": "They started after me,\nbut they passed me in no time.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09189",
+   "en": "Honestly, it was a bit of a shock.\nBut I keep telling myself: someday, for sure!",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09190",
+   "en": "I see. I'm sure you can do it, Luca!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09191",
+   "en": "Thank you!\nSorry for suddenly bringing up\nsomething so weird...",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09192",
+   "en": "No, don't worry about it at all.\nCome on, let's finish eating, get our strength\nup and give it our all again from tomorrow!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09193",
+   "en": "Yeah, see you!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09194",
+   "en": "(So even Luca has his worries...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09195",
+   "en": "(I came to eat with Luca-kun, but...)",
+   "flags": [],
+   "notes": "Female, frd_luk_007."
+  },
+  {
+   "id": "c09196",
+   "en": "What's wrong, Luca-kun?\nYou look kind of down...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09197",
+   "en": "You've barely touched your food, either.\nIs the food here not to your taste?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09198",
+   "en": "What's this all of a sudden?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09199",
+   "en": "Hmm, someone I look up to...?\nYou mean in a romantic way?",
+   "flags": [],
+   "notes": "Female; iseiteki na imi de (in the opposite-sex sense)."
+  },
+  {
+   "id": "c09200",
+   "en": "So you mean looking up to someone\nout of respect, that kind of thing?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09201",
+   "en": "Hmm, that's tough.\nThere are so many, it's almost a problem.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09202",
+   "en": "What about you, Luca-kun?\nIs there someone you look up to?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09203",
+   "en": "Huh. Well, I think that's a good thing.\nA competitive spirit really drives you,\nafter all.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09204",
+   "en": "So, think you can beat this rival of yours?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09205",
+   "en": "Oh, really?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09206",
+   "en": "Don't worry, I'm sure you can do it, Luca-kun!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09207",
+   "en": "Not at all.\nAnyway, let's finish eating. We'll get our\nstrength up and give it our all from tomorrow!",
+   "flags": [],
+   "notes": "Female; subject 'we' restored."
+  },
+  {
+   "id": "c09208",
+   "en": "Yeah, see you!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09209",
+   "en": "(So even Luca-kun has his worries...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09210",
+   "en": "(I'm here for a meal with Luca!)",
+   "flags": [],
+   "notes": "Male, second visit."
+  },
+  {
+   "id": "c09211",
+   "en": "Hey, Luca.",
+   "flags": [],
+   "notes": "x2, male (also frd_luk_108)."
+  },
+  {
+   "id": "c09212",
+   "en": "Think you can catch up with your rival?",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09213",
+   "en": "I'm still nowhere near them.\nNot that I plan on giving up...",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09214",
+   "en": "I see, I see.",
+   "flags": [],
+   "notes": "x4: also nml_luk_015 both genders (Luca says he planned to buy lunch too)."
+  },
+  {
+   "id": "c09215",
+   "en": "Thanks for the meal.\nThat was really good, wasn't it?",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09216",
+   "en": "Yeah, eating something tasty\nreally perks you up, doesn't it?",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09217",
+   "en": "It really does.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09218",
+   "en": "(Being full of energy is what counts most.)",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09219",
+   "en": "(I'm here for a meal with Luca-kun!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09220",
+   "en": "Hey, Luca-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09221",
+   "en": "I see, I see...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09222",
+   "en": "(The sunset from Griffith Park is beautiful.\nIt's amazing that it's all artificial.)",
+   "flags": [],
+   "notes": "Male, frd_luk_008. Griffith Park from locations.json."
+  },
+  {
+   "id": "c09223",
+   "en": "\\p-san,\nwhat are you doing here?",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09224",
+   "en": "Hey, Luca.\nNothing much, just watching the sunset.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09225",
+   "en": "Want to join me, Luca?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09226",
+   "en": "Oh, yes, I'd love to!",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09227",
+   "en": "We'll be reaching the new planet soon,\nwon't we?",
+   "flags": [],
+   "notes": "x2, Luca; the fleet's search for a new home planet."
+  },
+  {
+   "id": "c09228",
+   "en": "Maybe so...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09229",
+   "en": "Have you thought about what you'll do\nonce we get there?",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09230",
+   "en": "Hmm, let's see...\nWhat should I do?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09231",
+   "en": "Right...",
+   "flags": [],
+   "notes": "x2, Luca; desu yo ne (agreeing)."
+  },
+  {
+   "id": "c09232",
+   "en": "Maybe it's because things are so good right now?\nWhat about you, Luca? Thought about anything?",
+   "flags": [],
+   "notes": "Male; juujitsu shiteru = life feels full."
+  },
+  {
+   "id": "c09233",
+   "en": "I...",
+   "flags": [],
+   "notes": "x2, Luca, trails off."
+  },
+  {
+   "id": "c09234",
+   "en": "I don't know.\nI'd like to take my time thinking about it...",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09235",
+   "en": "Ha, so you're in the same boat as me, Luca.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09236",
+   "en": "Well, while we're at it, I hope it's a\ncomfy planet to live on. Endless summer,\naloha shirts...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09237",
+   "en": "I'd like it to have four seasons,\nlike Japan on Earth.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09238",
+   "en": "Endless summer, no question.\nEasy clothes, you know? Aloha shirts?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09239",
+   "en": "Just heat gets old fast, you know.\nFrontier's already like that, after all.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09240",
+   "en": "Why are we getting so worked up over this?",
+   "flags": [],
+   "notes": "Male; 'we' since both argued (muki ni natte)."
+  },
+  {
+   "id": "c09241",
+   "en": "Yeah, really...",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09242",
+   "en": "Well, it's getting late. Let's head home.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09243",
+   "en": "(A new planet, huh...\nI wonder where we'll end up...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09244",
+   "en": "(The sunset from Griffith Park is so pretty...\nIt's amazing that it's all artificial.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09245",
+   "en": "Oh, Luca-kun.\nNothing much, just watching the sunset.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09246",
+   "en": "Want to join me, Luca-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09247",
+   "en": "Maybe so...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09248",
+   "en": "Hmm, let's see...\nI really don't know.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09249",
+   "en": "Maybe it's because things are so good right now?\nWhat about you, Luca-kun? Thought about\nanything?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09250",
+   "en": "Oh, come on, you're in the same boat as me,\nLuca-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09251",
+   "en": "Well, while we're at it, I hope it's a\ncomfy planet to live on. You know,\nendless summer, aloha shirts...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09252",
+   "en": "Somewhere nice and warm is way better.\nEasy clothes, you know? Aloha shirts?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09253",
+   "en": "Why are we getting so worked up over this?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09254",
+   "en": "Well, it's getting late. Let's head home.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09255",
+   "en": "(A new planet, huh...\nI wonder where we'll end up...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09256",
+   "en": "(I took a walk out to Griffith Park, but...)",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09257",
+   "en": "Huh, it's Luca.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09258",
+   "en": "What's up? What are you doing here?",
+   "flags": [],
+   "notes": "x3: also female to Ranka in frd_rnk_008."
+  },
+  {
+   "id": "c09259",
+   "en": "A change of pace, I guess...\nThe view here is nice...",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09260",
+   "en": "I see. Same as me, then.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09261",
+   "en": "Well then, I'll be going on ahead.",
+   "flags": [],
+   "notes": "x2, Luca; osaki ni shitsurei shimasu."
+  },
+  {
+   "id": "c09262",
+   "en": "Goodbye, \\p-san.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09263",
+   "en": "...Hey, Luca.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09264",
+   "en": "Let's keep our chins up, okay?",
+   "flags": [],
+   "notes": "Male; genki dashite ikou ze (inclusive 'let's')."
+  },
+  {
+   "id": "c09265",
+   "en": "I'm fine, really.",
+   "flags": [],
+   "notes": "x2, Luca; continues in slice 126 ('if you say so')."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c09227/c09243: atarashii hoshi rendered 'the new planet' (the fleet's destination); no glossary entry."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

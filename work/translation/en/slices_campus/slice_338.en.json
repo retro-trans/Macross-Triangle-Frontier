@@ -1,0 +1,115 @@
+{
+ "slice": 338,
+ "rows_in_slice": 17,
+ "rows_examined": 17,
+ "rows": [
+  {
+   "id": "c24481",
+   "en": "(Today's the day of Sheryl's concert\nI've been waiting for.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24482",
+   "en": "(All right, time to get fired up and give it\nmy all!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24483",
+   "en": "(Or so I psyched myself up, but......)",
+   "flags": [],
+   "notes": "Japanese closes with a half-width bracket; plain parenthesis either way."
+  },
+  {
+   "id": "c24484",
+   "en": "(Who'd have thought unknown creatures would\nattack the Frontier fleet, and it'd turn right\ninto my first real combat......)",
+   "flags": [],
+   "notes": "Japanese indents the second line inside the brackets with a full-width space; indent dropped."
+  },
+  {
+   "id": "c24485",
+   "en": "Ah, y-yeah, sorry, Michel.",
+   "flags": [],
+   "notes": "Answers Michel's 'Are you listening?!' (c24366, shared row)."
+  },
+  {
+   "id": "c24486",
+   "en": "This isn't training!\nSpace out and you'll get yourself killed!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24487",
+   "en": "(Right, this isn't training...\nIf I let my guard down, what's waiting\nfor me is......)",
+   "flags": [],
+   "notes": "Japanese indents the second line inside the brackets with a full-width space; indent dropped. Trails off as in the Japanese."
+  },
+  {
+   "id": "c24488",
+   "en": "There's only one thing I can tell you......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24489",
+   "en": "......Don't die.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24490",
+   "en": "......Yeah.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24491",
+   "en": "All right!\nLuca, \\p, we're heading out!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24492",
+   "en": "Just making it back alive is good enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24493",
+   "en": "But you'd better look forward to the special\ntraining coming your way.",
+   "flags": [],
+   "notes": "Ozma's threat of hard training, said with irony."
+  },
+  {
+   "id": "c24494",
+   "en": "Not bad for your first real combat.\nKeep it up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24495",
+   "en": "(Phew...\nI actually made it back alive......)",
+   "flags": [],
+   "notes": "Japanese indents the second line inside the brackets with a full-width space; indent dropped."
+  },
+  {
+   "id": "c24496",
+   "en": "(...Still, what the heck were those things?\nIn the end, I couldn't even tell what they\nwere after.)",
+   "flags": [],
+   "notes": "Japanese indents the second line inside the brackets with a full-width space; indent dropped."
+  },
+  {
+   "id": "c24497",
+   "en": "(I hope this is the end of the fighting......)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

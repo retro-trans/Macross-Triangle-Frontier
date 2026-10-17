@@ -1,0 +1,510 @@
+{
+ "slice": 38,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p__fv2/176",
+   "en": "There's no way I'll lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/177",
+   "en": "I can do it too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/177",
+   "en": "I can do it too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/177",
+   "en": "I can do it too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/177",
+   "en": "I can do it too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/177",
+   "en": "I can do it too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/177",
+   "en": "I can do it too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/178",
+   "en": "Roger that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/178",
+   "en": "Roger that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/178",
+   "en": "Roger that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/178",
+   "en": "Roger that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/179",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/179",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/179",
+   "en": "Got it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/179",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/179",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/179",
+   "en": "Got it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/180",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/180",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/180",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/180",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/180",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/180",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/181",
+   "en": "Captain, are you all right?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has taishou ('boss'); every other voice says taichou ('Captain') and this voice is the polite one, so read as taichou."
+  },
+  {
+   "id": "p__mv1/181",
+   "en": "Captain, are you all right?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/181",
+   "en": "Captain, you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/181",
+   "en": "Captain, are you all right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/181",
+   "en": "Captain! Are you all right?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/181",
+   "en": "Captain, are you okay?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/182",
+   "en": "Captain, I'll cover you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/182",
+   "en": "Captain, I'll cover you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/182",
+   "en": "Captain, I'll cover you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/182",
+   "en": "Captain, I'll cover you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/182",
+   "en": "Captain, I'll cover you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/182",
+   "en": "Captain! I'll cover you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/183",
+   "en": "Please don't push yourself, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/183",
+   "en": "Please don't push yourself! Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/183",
+   "en": "Don't overdo it, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/183",
+   "en": "Don't push yourself, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/183",
+   "en": "Don't push yourself, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/183",
+   "en": "Don't push yourself, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/184",
+   "en": "Captain! Please respond!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/184",
+   "en": "Captain, please respond.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/184",
+   "en": "Captain! Respond!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/184",
+   "en": "C-Captain! Please respond!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/184",
+   "en": "C-Captain! Please respond!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has otoshite kudasai ('shoot it down, please'); read as outou shite kudasai ('please respond') like the other voices of 184."
+  },
+  {
+   "id": "p__fv2/184",
+   "en": "Captain! Respond!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has otoshite ('shoot it down'); read as outou shite ('respond') like the other voices of 184."
+  },
+  {
+   "id": "p__mv0/185",
+   "en": "I can't believe the Captain got shot down...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/185",
+   "en": "I can't believe the Captain got shot down...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/185",
+   "en": "The Captain got shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/185",
+   "en": "I can't believe the Captain got shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/185",
+   "en": "I can't believe the Captain got shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/185",
+   "en": "I can't believe the Captain got shot down...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/186",
+   "en": "Answer me, Captain!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has taishou ('boss'); the other voices say taichou ('Captain'), read the same way as row 2986."
+  },
+  {
+   "id": "p__mv1/186",
+   "en": "Please answer me, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/186",
+   "en": "Answer me! Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/186",
+   "en": "Answer me, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/186",
+   "en": "Answer me! Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/186",
+   "en": "Answer me! Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/187",
+   "en": "What's this song...? It's nice...",
+   "flags": [],
+   "notes": "187-189: the pilot is swayed by a song or feeling and leaves the fight."
+  },
+  {
+   "id": "p__mv1/187",
+   "en": "What's this song? It's nice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/187",
+   "en": "What's this song? It's nice...",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript ends on ii; read as ii na ('it's nice') like mv0/mv1."
+  },
+  {
+   "id": "p__fv0/187",
+   "en": "What is this feeling? I'm falling back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/187",
+   "en": "What is this feeling...? I'm falling back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/187",
+   "en": "What is this feeling? I'm falling back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/188",
+   "en": "Sigh... I think I'll head home today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/188",
+   "en": "Sigh... I think I'll head home today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/188",
+   "en": "Sigh... I think I'll head home today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/188",
+   "en": "Maybe I'll head home for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/188",
+   "en": "Maybe I'll head home for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/188",
+   "en": "Maybe I'll head home for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/189",
+   "en": "This feeling... I'll withdraw for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/189",
+   "en": "This feeling... I'll withdraw for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/189",
+   "en": "This feeling... I'll withdraw for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/189",
+   "en": "I'll just head home for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/189",
+   "en": "I'll just head home for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/189",
+   "en": "I'm heading home for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/190",
+   "en": "Superb skill!",
+   "flags": [],
+   "notes": "190 and 191 have the same transcript for every voice; translated the same."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 2986 (p__mv0/181): Transcript has taishou ('boss'); every other voice says taichou ('Captain') and this voice is the polite one, so read as taichou.",
+   "row 3008 (p__fv1/184): Transcript has otoshite kudasai ('shoot it down, please'); read as outou shite kudasai ('please respond') like the other voices of 184.",
+   "row 3009 (p__fv2/184): Transcript has otoshite ('shoot it down'); read as outou shite ('respond') like the other voices of 184.",
+   "row 3016 (p__mv0/186): Transcript has taishou ('boss'); the other voices say taichou ('Captain'), read the same way as row 2986.",
+   "row 3024 (p__mv2/187): Transcript ends on ii; read as ii na ('it's nice') like mv0/mv1."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

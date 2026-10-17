@@ -1,0 +1,305 @@
+{
+ "slice": 13,
+ "rows_in_slice": 47,
+ "rows_examined": 47,
+ "rows": [
+  {
+   "id": "u1076",
+   "en": "Battle suit upgraded from the Queadluun-Rau\nKlan's unit, with crimson as her personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1077",
+   "en": "Captain Klan, sunk in rage and grief at losing the one she loved\nA fighting maiden at full Zentradi size",
+   "flags": [],
+   "notes": "new; taii = Captain (terms ranks); 'the one she loved' kept neutral as the Japanese is"
+  },
+  {
+   "id": "u1078",
+   "en": "Konig Monster",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1079",
+   "en": "Variable bomber developed from the Monster\nExcels at hit-and-run with its firepower and speed",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1080",
+   "en": "Variable attack space carrier, S.M.S. flagship\nOnly 400 m class, yet it bears the Macross name",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1081",
+   "en": "Sword Macross Cannon",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1082",
+   "en": "Battle Frontier",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1083",
+   "en": "Giant carrier, flagship of Frontier's escort fleet\nThe latest Battle-class Macross",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1084",
+   "en": "Vajra, an alien life form\nAgile, with a beam cannon on the tip of its head",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1085",
+   "en": "Vajra, an alien life form\nCarries a powerful large beam cannon on its back",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1086",
+   "en": "Variable fighter developed by Macross Galaxy\nOnly for cyborg soldiers with mechanized bodies",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1087",
+   "en": "VF-27 (Brera)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1088",
+   "en": "Variable fighter developed by Macross Galaxy\nBrera's unit, with purple as his personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1089",
+   "en": "Battle Galaxy",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1090",
+   "en": "Giant carrier, flagship of Galaxy's escort fleet\nThe latest Battle-class Macross",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1091",
+   "en": "Development prototype variable fighter of the VF-25\nUsed as a trainer for pilots converting to the type",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1092",
+   "en": "Latest-model variable fighter issued to S.M.S.\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1093",
+   "en": "VF-25S (Klan)",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1094",
+   "en": "Latest-model variable fighter issued to S.M.S.\nKlan's unit, an upgraded commander type",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1095",
+   "en": "Vajra, an alien life form\nHas mantis-like scythes on both arms",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1096",
+   "en": "Valkyrie developed as an evolution of the VF-1\nFuses Earth and Zentradi technology",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1097",
+   "en": "VA-1SS",
+   "flags": [],
+   "notes": "new; Metal Siren designation (glossary VA-1SS Metal Siren); Japanese writes a long-vowel mark for the hyphen"
+  },
+  {
+   "id": "u1098",
+   "en": "The latest variable fighter developed by the U.N. Forces\nHas a fourth transformation, called Gundroid mode",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "new; 'Gandroid' romanized from gandoroido (gun + droid); no glossary entry Review: 'Gundroid' (glossary)."
+  },
+  {
+   "id": "u1099",
+   "en": "Full Salvo + Kamikaze",
+   "flags": [],
+   "notes": "new; tokkou as in 'Ghost Kamikaze' (u0832)"
+  },
+  {
+   "id": "u1100",
+   "en": "Proto Metal Siren",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "new; glossary entry is provisional"
+  },
+  {
+   "id": "u1101",
+   "en": "Prototype of the U.N. Forces' latest unit\nFlown by Silvie in an acrobatic flight show",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1102",
+   "en": "SNN Valkyrie",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1103",
+   "en": "Civilian variable craft owned by SNN\nAn unarmed unit for battlefield news coverage",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1104",
+   "en": "Burst Shot",
+   "flags": [],
+   "notes": "new; renzoku satsuei = continuous (burst) photography, the SNN Valkyrie's attack"
+  },
+  {
+   "id": "u1105",
+   "en": "Gigamesh",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1106",
+   "en": "Mainstay mobile weapon of the Mardook forces\nSpecializes in close-quarters melee",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1107",
+   "en": "Super Wing Cutter",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1108",
+   "en": "Gigamesh (Feff)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1109",
+   "en": "Mainstay mobile weapon of the Mardook forces\nFeff's unit, with red as his personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1110",
+   "en": "VF-1S (Barnrose)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1111",
+   "en": "High-performance commander's Valkyrie\nBarnrose's unit, with red as her personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1112",
+   "en": "VF-19A Ravens Type",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1113",
+   "en": "Variable fighter evolved from the VF-11\nTwitchy custom for the Ravens special forces",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1114",
+   "en": "VF-22 (Wilbur)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1115",
+   "en": "Special-mission VF, successor to the VF-17\nWilbur's unit, fitted with a jamming system",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1116",
+   "en": "Variable fighter developed by General Galaxy\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1117",
+   "en": "VF-9 (Max)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1118",
+   "en": "Variable fighter issued to the Dancing Skull team\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1119",
+   "en": "Double Super Shot",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1120",
+   "en": "VF-9 (Milia)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1121",
+   "en": "Variable fighter issued to the Dancing Skull team\nMilia's unit, with red as her personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1122",
+   "en": "Default",
+   "flags": [],
+   "notes": "tm kept after review"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u1098 'Gandroid mode': no glossary entry, romanized from the Japanese (gun-droid)",
+   "u1100 Proto Metal Siren: glossary status provisional",
+   "u1077 'Captain Klan' (taii = Capt. per terms ranks); 'the one she loved' left neutral"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Gandroid mode (ganDOROIDO mode, the Metal Siren's 4th transformation)"
+  ],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,344 @@
+{
+ "slice": 31,
+ "rows_in_slice": 54,
+ "rows_examined": 54,
+ "rows": [
+  {
+   "id": "u3667",
+   "en": "The D-pad left tactical command\norders your wingman to focus\non melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3668",
+   "en": "The D-pad right tactical command\norders your wingman to focus\non shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3669",
+   "en": "The D-pad up tactical command\norders your wingman to focus\non defense.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3670",
+   "en": "The D-pad down tactical command\norders your wingman to unleash\na Special Attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3671",
+   "en": "That covers Special Maneuvers 1.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3672",
+   "en": "Now I'll explain Special Maneuvers 2.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3673",
+   "en": "Hold the L button and press the ○ button\nto spend 1 block of the SP Gauge\nand fire a Charge Shot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3674",
+   "en": "Hold the L button and press the △ button\nto spend 1 block of the SP Gauge\nand perform a Charge Melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3675",
+   "en": "Please note that Charge Melee is\nnot available in Fighter mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3676",
+   "en": "Hold the L button and press the × button\nto spend 1 block of the SP Gauge\nand perform a Charge Boost.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3677",
+   "en": "In Fighter mode, a Charge Boost\nhits like a melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3678",
+   "en": "In Battroid and GERWALK modes,\npress the △ button during a Charge Boost\nto perform a melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3679",
+   "en": "Press the △ and ○ buttons together\nto spend 3 blocks of the SP Gauge\nand unleash a powerful Special Attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3680",
+   "en": "Press the ○ and × buttons together\nto spend a set number of blocks\nand use a Command Skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3681",
+   "en": "Hold the L button and press the △ and\n○ buttons together to perform a\nCombo Special Attack with your wingman.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3682",
+   "en": "A Combo Special Attack uses\n3 blocks of the SP Gauge.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3683",
+   "en": "That covers Special Maneuvers 2.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3684",
+   "en": "Now I'll explain how to carry containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3685",
+   "en": "You can only carry containers\nin GERWALK or Battroid mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3686",
+   "en": "That covers how to carry containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3687",
+   "en": "Training's over once you bring the container\nto the designated point, reach the target\narea, or run out of time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3688",
+   "en": "Now I'll explain the basic Real Flight\ncontrols for Fighter mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3689",
+   "en": "During training, flight mode is set to\nReal Flight, and controller settings are\nreset to defaults. Please keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3690",
+   "en": "Press Up on the D-pad to pitch down,\nand Down on the D-pad to pitch up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3691",
+   "en": "Press Left or Right on the D-pad to roll.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3692",
+   "en": "Hold the L button and press Left or Right\non the D-pad to yaw.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3693",
+   "en": "In Real Flight, hold the R button\nwhile locked on to swing\nthe camera toward your target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3694",
+   "en": "That covers the basic Real Flight controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3695",
+   "en": "All right, go ahead and practice\nflying in Real Flight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3696",
+   "en": "Now I'll explain Special Maneuvers 3.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3697",
+   "en": "With your current option parts equipped,\nthe option part transformation limit means\nyou can't switch to Fighter on the ground.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3698",
+   "en": "Press the ○, △, □ and\n× buttons at the same time\nto purge your option parts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3699",
+   "en": "In Fighter mode, with an enemy locked on,\nhold the R button to turn\nand bring the enemy dead ahead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3700",
+   "en": "Fighter mode no longer has a Charge Melee.\nInstead, it can now perform a Charge Boost\nthat hits like a melee attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3701",
+   "en": "Hold Up on the D-pad while locking on\nto switch your lock to enemy aces\nor disabled wingmen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3702",
+   "en": "Lock on to a disabled wingman and\nmove close to bring them\nback into action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3703",
+   "en": "That covers the basics of Special Maneuvers 3.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3704",
+   "en": "Now I'll explain the\nAnti-Missile Action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3705",
+   "en": "Hold the × button and press the □ button\nto shoot down enemy missiles with gunfire:\nthat's the Anti-Missile Action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3706",
+   "en": "When you're targeted by an enemy missile,\na Missile Marker appears\non screen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3707",
+   "en": "A yellow Missile Marker shows an enemy\nmissile that is outside the range\nof your Anti-Missile Action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3708",
+   "en": "Once the Missile Marker turns red,\nyou can shoot that enemy missile down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3709",
+   "en": "You can shoot missiles down\nin Battroid or GERWALK mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3710",
+   "en": "In Fighter mode, and on some units,\nAnti-Missile Action scatters flares\nto bring down enemy missiles.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3711",
+   "en": "That concludes the explanation of\nAnti-Missile Action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3712",
+   "en": "The targets will fire missiles at you,\nso practice using\nAnti-Missile Action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3713",
+   "en": "Now I'll explain the newly added special\nmaneuvers and the special maneuvers\nwhose controls have been updated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3714",
+   "en": "With SP Gauge to spare,\nhold the L and R buttons and press △\nto unleash a Charge Break.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Game-system term 'Charge Break' (not in glossary). 'SP Gauge to spare' = Japanese 'when there is SP Gauge'."
+  },
+  {
+   "id": "u3715",
+   "en": "During a Charge Break,\nenemy attacks can't hurt you, but\nyou can't boost or attack either.",
+   "flags": [],
+   "notes": "Japanese: you take no enemy attacks, in exchange you cannot boost or attack."
+  },
+  {
+   "id": "u3716",
+   "en": "Once you unleash a Charge Break,\nthe SP Gauge itself is gone\nfor the rest of that mission.",
+   "flags": [],
+   "notes": "Japanese: the SP Gauge itself disappears for that mission."
+  },
+  {
+   "id": "u3717",
+   "en": "With a multi-lock weapon, hold the L button\nand keep holding the ○ button\nto lock on to a single target.",
+   "flags": [],
+   "notes": "Japanese 'single lock' rendered as 'lock on to a single target'."
+  },
+  {
+   "id": "u3718",
+   "en": "With a multi-lock weapon, while locked on,\nkeep holding the ○ button\nto enter Plus Lock.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Game-system term 'Plus Lock' (not in glossary)."
+  },
+  {
+   "id": "u3719",
+   "en": "That covers the new special maneuvers\nand those with updated controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3720",
+   "en": "If you missed an explanation,\nyou can hear it again anytime.\nMake sure you learn the controls!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Charge Break (chaaji bureiku), u3714-u3716",
+   "Plus Lock (purasu rokku), u3718"
+  ],
+  "unfinished": []
+ }
+}

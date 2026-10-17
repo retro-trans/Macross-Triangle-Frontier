@@ -1,0 +1,441 @@
+{
+ "slice": 308,
+ "rows_in_slice": 71,
+ "rows_examined": 71,
+ "rows": [
+  {
+   "id": "c22200",
+   "en": "Sheryl, got a sec?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22201",
+   "en": "Oh, do you need something from me, \\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22202",
+   "en": "White Day...?\nOh, the day you give something back for Valentine's.\nYou actually remembered? Not bad at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22203",
+   "en": "Just knowing you remembered makes me plenty happy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22204",
+   "en": "I'll be counting on you from here on too,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22205",
+   "en": "Same here.",
+   "flags": [],
+   "notes": "x3: also scd_com_712 (male) and scd_fes_201 (male); \"Same here.\" answers a yoroshiku in any of them."
+  },
+  {
+   "id": "c22206",
+   "en": "(I managed to give her the return gift, and Sheryl\nseemed happy too, so I guess it went well.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22207",
+   "en": "(Sorry, Sheryl, but it's just too embarrassing.\nI can't bring myself to give her the return gift...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22208",
+   "en": "(Today's White Day. I bought a return gift\nfor Klan-senpai, but now that I actually\nhave to give it to her, I'm getting nervous...)",
+   "flags": [],
+   "notes": "Shared with scd_com_722 (second-year White Day)."
+  },
+  {
+   "id": "c22209",
+   "en": "Give Klan-senpai the return gift",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22210",
+   "en": "Don't give Klan-senpai the return gift",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22211",
+   "en": "Klan-senpai, do you have a moment?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22212",
+   "en": "Ooh... Now that you mention it, today is White Day.\nYou remembered? How very commendable of you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22213",
+   "en": "Just knowing you remembered\nis quite enough to make me happy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22214",
+   "en": "I'm counting on you from here on too,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22215",
+   "en": "Same here, I'm counting on you too,\nKlan-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22216",
+   "en": "(I managed to give her the return gift,\nand Klan-senpai seemed happy too,\nso I guess it went well.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22217",
+   "en": "(Sorry, Klan-senpai, but it's just too embarrassing.\nI can't bring myself to give her the return gift...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22218",
+   "en": "(So today's the graduation ceremony.\nKlan-senpai and Claire-senpai...\nThey're graduating from Mihoshi today, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22219",
+   "en": "Waaah, Claire-senpaaai!!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c22220",
+   "en": "Come on, Yuu, don't cry.\nIt's not like we'll never see each other again, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22221",
+   "en": "But~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22222",
+   "en": "I'll still drop by every now and then... okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22223",
+   "en": "Senpaaaaaai!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22224",
+   "en": "(Akimizu really does love Claire-senpai, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22225",
+   "en": "So today I graduate from Mihoshi as well...\nThis school building has looked after me\nfor three years...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22226",
+   "en": "What're you getting all teary-eyed for, Klan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22227",
+   "en": "Hmph! I am NOT getting teary-eyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22228",
+   "en": "Still, Klan graduating from Mihoshi today, huh...\nYou sure don't look like someone who's about\nto be a college student.",
+   "flags": [],
+   "notes": "Klan is going on to university (daigakusei): \"college student\"."
+  },
+  {
+   "id": "c22229",
+   "en": "You're treating me like a child again!\nPretty cheeky for someone who used to cry\nwhenever I wasn't around!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22230",
+   "en": "Sheesh, don't drag up stuff from when we were kids.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22231",
+   "en": "...Geez, and here I was, ready to give you\na normal congratulations for once...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22232",
+   "en": "Congrats on graduating, Klan...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22233",
+   "en": "Y-yes... Thank you, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22234",
+   "en": "(Those two are as close as ever, too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22235",
+   "en": "Come to think of it, \\p-kun,\naren't you going to be sad that I'm graduating?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22236",
+   "en": "Huh?! N-no, I'm really, really sad...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c22237",
+   "en": "Hmph! After all the looking after I've done for you,\nI don't get a single word of thanks?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22238",
+   "en": "I-I'm really grateful to you, Klan-senpai!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22239",
+   "en": "So no word of thanks for me in particular, then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22240",
+   "en": "O-of course I'm grateful to you too, Claire-senpai!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22241",
+   "en": "Hahahahaha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22242",
+   "en": "(Huh? Were they just teasing me?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22243",
+   "en": "You truly are an amusing one.\nI may be graduating from Mihoshi, but I'm still\ncounting on you from here on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22244",
+   "en": "Same goes for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22245",
+   "en": "Yes!\nAnd please keep looking out for me, too!",
+   "flags": [],
+   "notes": "Boku no hou koso yoroshiku: player answering Klan and Claire."
+  },
+  {
+   "id": "c22246",
+   "en": "(Klan-senpai, Claire-senpai...\nCongratulations on your graduation!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22247",
+   "en": "(Come visit Mihoshi every now and then, okay?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22248",
+   "en": "(So today's the graduation ceremony.\nKlan-senpai and Claire-senpai...\nThey're graduating from Mihoshi today, aren't they.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22249",
+   "en": "(Yuu really does love Claire-senpai, doesn't she.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22250",
+   "en": "(Those two are as close as ever, too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22251",
+   "en": "Come to think of it, \\p-chan,\naren't you going to be sad that I'm graduating?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22252",
+   "en": "(Huh? Were they just teasing me?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22253",
+   "en": "Yes!\nAnd please keep looking out for me, too!",
+   "flags": [],
+   "notes": "Female version of c22245."
+  },
+  {
+   "id": "c22254",
+   "en": "All right, that's it for today's class!\nEveryone, fall in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22255",
+   "en": "(Phew~ I know it's the last class of the school year,\nbut you're going way too hard on us,\nHilda-sensei...)",
+   "flags": [],
+   "notes": "Konnendo saigo no jugyou: \"last class of the school year\", right before summer break; consistent with scd_com_527, where the player becomes a second-year after the break."
+  },
+  {
+   "id": "c22256",
+   "en": "Now then, the summer break you've all no doubt\nbeen looking forward to starts next week.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22257",
+   "en": "While Mihoshi Academy is on summer break,\nI'll keep the training rooms and such open\nso you can train whenever you like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22258",
+   "en": "Train on your own, study on your own...\nUse them however you see fit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22259",
+   "en": "(Training on my own, huh... I'd like to take it\neasy at least over summer break, though...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c22260",
+   "en": "How you spend your summer break\nis up to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22261",
+   "en": "...But anyone who slacks off had better be ready\nto cry the moment the new term starts!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22262",
+   "en": "(...I'm gonna work hard and train on my own!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22263",
+   "en": "There's one last thing I want to say...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22264",
+   "en": "Enjoy your summer break to the fullest!!\nThat's all! Dismissed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22265",
+   "en": "(Summer break starts next week...\nLike Hilda-sensei said, if I don't train on my own,\nI'll probably go through hell once break is over...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22266",
+   "en": "(But it's summer break, after all, so I've gotta\nhave plenty of fun and enjoy it to the fullest!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22267",
+   "en": "(Phew~ I know it's the last class of the school year,\nbut you're going way too hard on us,\nHilda-sensei...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22268",
+   "en": "(...I'm gonna work hard and train on my own!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22269",
+   "en": "(Summer break starts next week...\nLike Hilda-sensei said, if I don't train on my own,\nI'll probably go through hell once break is over...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22270",
+   "en": "(But it's summer break, after all, so I've gotta\nhave plenty of fun and enjoy it to the fullest!)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c22209/c22210 and the other White Day choices: okaeshi rendered 'return gift'; slice 307 (Nanase/Ranka choices) is another agent's, worth harmonising."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

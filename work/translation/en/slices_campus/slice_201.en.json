@@ -1,0 +1,406 @@
+{
+ "slice": 201,
+ "rows_in_slice": 65,
+ "rows_examined": 65,
+ "rows": [
+  {
+   "id": "c14718",
+   "en": "(I'm supposed to go see a movie with Hoshimura\ntoday... Hoshimura sure is late.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14719",
+   "en": "With tons of people all around us, you went\nand overreacted to every single scene,\nflailing your whole body around...",
+   "flags": [],
+   "notes": "Shared male/female. Player scolding Yui after the movie."
+  },
+  {
+   "id": "c14720",
+   "en": "Heyyy, \\p~",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14721",
+   "en": "Safe, just barely!!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14722",
+   "en": "Uh, no. It's already been at least\nfive minutes since our meeting time.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14723",
+   "en": "Aw, cut me some slack for that much.\nSafe, safe!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14724",
+   "en": "Well, we'll still make the showing, so it's fine.\nLet's head to the theater, then.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14725",
+   "en": "Aye, aye!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14726",
+   "en": "I'm really sorry...",
+   "flags": [],
+   "notes": "Shared male/female. Yui apologizing after the movie."
+  },
+  {
+   "id": "c14727",
+   "en": "With tons of people all around us, you went\nand overreacted to every single scene,\nflailing your whole body around, y'know...",
+   "flags": [],
+   "notes": "Male. Variant of c14719 with a trailing sa."
+  },
+  {
+   "id": "c14728",
+   "en": "Well, I mean, it was a good movie...\nI kinda got sucked into its world.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14729",
+   "en": "Well, it sure was a fun movie.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14730",
+   "en": "Right, right!?\nThen let's grab some tea somewhere\nand talk all about today's movie!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14731",
+   "en": "Like that one scene...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14732",
+   "en": "(All things considered, the movie was fun,\nso I guess it was a nice change of pace.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14733",
+   "en": "(I'm supposed to go see a movie with Yui\ntoday... Yui sure is late.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14734",
+   "en": "Well, we'll still make the showing, so it's fine.\nLet's head to the theater, then.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14735",
+   "en": "Well, it sure was a fun movie.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14736",
+   "en": "(All things considered, the movie was fun,\nso it was a nice change of pace.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14737",
+   "en": "(Whoa, I was reading in the library\nfor a change of pace, and now look\nhow late it's gotten.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14738",
+   "en": "Oho! Why, if it isn't\n\\p over there!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14739",
+   "en": "Huh, Hoshimura.\nWhat were you doing in the library?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14740",
+   "en": "I got a not-so-funny score on\nYamashiro-sensei's quiz... so I got\nspecial homework, just for me.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14741",
+   "en": "So you came to the library to work hard on it,\nbut you can't solve any of it and you're stuck.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14742",
+   "en": "Exactly~\nHelp me~, \\p~",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14743",
+   "en": "I don't know if I can solve it either,\nbut I'll help as much as I can.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14744",
+   "en": "Thank youuu, \\p~!\nI love you~!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14745",
+   "en": "Yeah, yeah.\nSo, about this problem here...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14746",
+   "en": "Mm, mm.",
+   "flags": [],
+   "notes": "Shared male/female. umu umu, as in earlier Yui slices."
+  },
+  {
+   "id": "c14747",
+   "en": "Doooone!!!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14748",
+   "en": "Good for you, Hoshimura.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14749",
+   "en": "It's all thanks to you, \\p.\nWhew, you really saved my bacon.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14750",
+   "en": "Glad I could help.\nIt's getting late, so let's head home.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14751",
+   "en": "Let's, let's!\nThanks a bunch for today.\nSee ya.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14752",
+   "en": "(Phew, I'm glad I could help Hoshimura out.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14753",
+   "en": "(Whoa, I was reading in the library\nfor a change of pace, and now look\nhow late it's gotten.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14754",
+   "en": "Huh, Yui.\nWhat are you doing in the library?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14755",
+   "en": "So you came to the library to work hard on it,\nbut you can't solve any of it and you're stuck...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14756",
+   "en": "I don't know if I can solve it either,\nbut I'll help as much as I can.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14757",
+   "en": "Good for you, Yui.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14758",
+   "en": "Glad I could help.\nIt's getting late, so let's head home.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14759",
+   "en": "(Phew, I'm glad I could help Yui out.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14760",
+   "en": "Thank youuu, \\p~!\nI love you~!!",
+   "flags": [],
+   "notes": "Female-version twin of c14744 (extra comma in the Japanese)."
+  },
+  {
+   "id": "c14761",
+   "en": "(Taking a different way home like this\nonce in a while isn't half bad.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14762",
+   "en": "(Hm? Isn't that Hoshimura?\nWhat's with that gloomy look on her face?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14763",
+   "en": "Heyyy, Hoshimura.\nWhat's got you staring off into the sunset?",
+   "flags": [],
+   "notes": "Male. tasogare-chatte: lost in wistful thought at dusk."
+  },
+  {
+   "id": "c14764",
+   "en": "Oh... it's \\p.\nWell, it's just...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14765",
+   "en": "(It's rare for Hoshimura to hesitate like that.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14766",
+   "en": "Hoshimura...\nI don't know if I can be any help, but if\nsomething's bothering you, talk to me.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14767",
+   "en": "\\p... Thank you.\nThe truth is......",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14768",
+   "en": "I was agonizing over how I could get\na dynamite body like Nanase's.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14769",
+   "en": "Huh?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14770",
+   "en": "Y'see, a chest like that is every maiden's\ndream. Maybe milk's the answer after all?\nIf I drink it every day, then I too...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14771",
+   "en": "Well, I think I'll head home now.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14772",
+   "en": "Huh! Wha! H-hold on a sec!\nYou said you'd hear me out!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14773",
+   "en": "C'mon, \\p~!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14774",
+   "en": "(She was brooding with such a serious face,\nI thought it was a real problem...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14775",
+   "en": "(Hoshimura really never changes.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14776",
+   "en": "(Taking a different way home like this\nonce in a while isn't bad at all.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14777",
+   "en": "(Hm? Isn't that Yui?\nWhat's with that gloomy look on her face?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14778",
+   "en": "Heyyy, Yui.\nWhat's got you staring off into the sunset?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14779",
+   "en": "(It's rare for Yui to hesitate like that.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14780",
+   "en": "Yui...\nI don't know if I can be any help, but if\nsomething's bothering you, talk to me, okay?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14781",
+   "en": "Well, I think I'll head home now.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14782",
+   "en": "(Yui really never changes.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c14721: girigiri seefu rendered \"Safe, just barely!!\".",
+   "c14763/c14778: tasogare-chatte rendered as \"staring off into the sunset\" (wistful at dusk)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

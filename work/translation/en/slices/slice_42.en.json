@@ -1,0 +1,1279 @@
+{
+ "slice": 42,
+ "rows_in_slice": 201,
+ "rows_examined": 201,
+ "rows": [
+  {
+   "id": "u5257",
+   "en": "Ranka_Run-In at the Park",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5258",
+   "en": "Ranka_Nyan-Nyan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5259",
+   "en": "Ranka_About Sheryl",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5260",
+   "en": "Ranka_About Ozma",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5261",
+   "en": "Ranka_On Set",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5262",
+   "en": "Ranka_With Alto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5263",
+   "en": "Sheryl_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5264",
+   "en": "Sheryl_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5265",
+   "en": "Sheryl_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5266",
+   "en": "Sheryl_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5267",
+   "en": "Sheryl_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5268",
+   "en": "Sheryl_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5269",
+   "en": "Sheryl_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5270",
+   "en": "Sheryl_Fav Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5271",
+   "en": "Sheryl_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5272",
+   "en": "Sheryl_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5273",
+   "en": "Sheryl_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5274",
+   "en": "Sheryl_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5275",
+   "en": "Sheryl_Swimming",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5276",
+   "en": "Sheryl_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5277",
+   "en": "Sheryl_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5278",
+   "en": "Sheryl_After Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5279",
+   "en": "Sheryl_Meeting Grace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5280",
+   "en": "Sheryl_Bird Human",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5281",
+   "en": "Sheryl_With Alto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5282",
+   "en": "Sheryl_With Ranka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5283",
+   "en": "Sheryl_With Nanase",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5284",
+   "en": "Sheryl_About Ranka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5285",
+   "en": "Sheryl_Her Past",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5286",
+   "en": "Klan_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5287",
+   "en": "Klan_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5288",
+   "en": "Klan_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5289",
+   "en": "Klan_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5290",
+   "en": "Klan_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5291",
+   "en": "Klan_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5292",
+   "en": "Klan_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5293",
+   "en": "Klan_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5294",
+   "en": "Klan_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5295",
+   "en": "Klan_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5296",
+   "en": "Klan_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5297",
+   "en": "Klan_Swimming",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5298",
+   "en": "Klan_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5299",
+   "en": "Klan_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5300",
+   "en": "Klan_After Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5301",
+   "en": "Klan_As a Senior",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5302",
+   "en": "Klan_Senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5303",
+   "en": "Klan_Hobby 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5304",
+   "en": "Klan_Hobby 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5305",
+   "en": "Klan_About Michel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5306",
+   "en": "Klan_With Michel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5307",
+   "en": "Klan_With Pinon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5308",
+   "en": "Brera_Meeting Brera",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5309",
+   "en": "Grace_Meeting Grace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5310",
+   "en": "Rest 1",
+   "flags": [],
+   "notes": "Rest (holiday) event; 'Rest' = the campus command kyuuka."
+  },
+  {
+   "id": "u5311",
+   "en": "Rest 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5312",
+   "en": "Rest 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5313",
+   "en": "Rest 4",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5314",
+   "en": "Regular Event_Alto",
+   "flags": [],
+   "notes": "Internal-style label 'normal event_Alto'; underscore kept."
+  },
+  {
+   "id": "u5315",
+   "en": "Regular Event_Michel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5316",
+   "en": "Regular Event_Luca",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5317",
+   "en": "Regular Event_Ozma",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5318",
+   "en": "Regular Event_Klan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5319",
+   "en": "Love Letter for Alto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5320",
+   "en": "Close Enough to Fight?",
+   "flags": [],
+   "notes": "Proverb: the more people fight, the closer they are."
+  },
+  {
+   "id": "u5321",
+   "en": "Michel on the Run",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5322",
+   "en": "Dubious No. 1",
+   "flags": [],
+   "notes": "Literally 'the suspect No. 1' (a No. 1 under suspicion)."
+  },
+  {
+   "id": "u5323",
+   "en": "Explainer Luca",
+   "flags": [],
+   "notes": "setsumei-zuki = loves explaining things."
+  },
+  {
+   "id": "u5324",
+   "en": "Secret of the Shorts",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "1 px over the estimated box."
+  },
+  {
+   "id": "u5325",
+   "en": "Siscon Captain",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ozma (taichou = squad leader); 'Siscon' = sister complex. 'Captain' chosen for taichou; not in ranks list."
+  },
+  {
+   "id": "u5326",
+   "en": "Nanase's Mix-Up",
+   "flags": [],
+   "notes": "kanchigai = misunderstanding."
+  },
+  {
+   "id": "u5327",
+   "en": "Be a Grown Woman!",
+   "flags": [],
+   "notes": "Literally 'Aim to be an adult woman!'."
+  },
+  {
+   "id": "u5328",
+   "en": "Test Scenario",
+   "flags": [],
+   "notes": "Debug label: scenario for checking."
+  },
+  {
+   "id": "u5329",
+   "en": "Test Scenario 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5330",
+   "en": "Rest:Spr",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Rest (spring). Box only 56 px; season abbreviated."
+  },
+  {
+   "id": "u5331",
+   "en": "Rest:Smr",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Rest (summer); abbreviated for the 56 px box."
+  },
+  {
+   "id": "u5332",
+   "en": "Rest:Fall",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Rest (autumn); abbreviated for the 56 px box."
+  },
+  {
+   "id": "u5333",
+   "en": "Rest:Win",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Rest (winter); abbreviated for the 56 px box."
+  },
+  {
+   "id": "u5334",
+   "en": "Claire Test",
+   "flags": [],
+   "notes": "Debug label."
+  },
+  {
+   "id": "u5335",
+   "en": "Enrollment (Meeting Alto & Co.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5336",
+   "en": "Meeting the Originals (Pilots)",
+   "flags": [],
+   "notes": "orikyara = the game's original characters."
+  },
+  {
+   "id": "u5337",
+   "en": "Meeting the Originals (Operators)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5338",
+   "en": "Meeting Klan & Co.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5339",
+   "en": "Meeting Ranka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5340",
+   "en": "Meeting Ozma & Co.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5341",
+   "en": "Meeting Cathy",
+   "flags": [],
+   "notes": "Cathy = Catherine Glass (glossary alias)."
+  },
+  {
+   "id": "u5342",
+   "en": "Festival Route Choice",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "omatsuri route: the 'fes' schedule route (Sheryl/Ranka transfer in). Rendered 'Festival'."
+  },
+  {
+   "id": "u5343",
+   "en": "Graduation (Year 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5344",
+   "en": "Civilian Route Choice",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5345",
+   "en": "Enlisting",
+   "flags": [],
+   "notes": "gunzoku sentaku = choosing to join the military."
+  },
+  {
+   "id": "u5346",
+   "en": "Ranka & Sheryl Transfer",
+   "flags": [],
+   "notes": "tennyuu = transfer into the school."
+  },
+  {
+   "id": "u5347",
+   "en": "Sports Day (Year 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5348",
+   "en": "Sports Day (Year 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5349",
+   "en": "Culture Fest (Year 1)",
+   "flags": [],
+   "notes": "bunkasai = school culture festival."
+  },
+  {
+   "id": "u5350",
+   "en": "Culture Fest (Year 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5351",
+   "en": "Christmas (Year 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5352",
+   "en": "Christmas (Year 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5353",
+   "en": "Valentine's (Year 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5354",
+   "en": "Valentine's (Year 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5355",
+   "en": "White Day (Year 1)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5356",
+   "en": "White Day (Year 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5357",
+   "en": "Summer Break (Year 1)",
+   "flags": [],
+   "notes": "Start of summer break."
+  },
+  {
+   "id": "u5358",
+   "en": "Summer Break (Year 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5359",
+   "en": "Graduation (Year 2)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5360",
+   "en": "Sheryl's Concert (Common)",
+   "flags": [],
+   "notes": "Attending Sheryl's concert, common route."
+  },
+  {
+   "id": "u5361",
+   "en": "New Term",
+   "flags": [],
+   "notes": "Start of the new school term."
+  },
+  {
+   "id": "u5362",
+   "en": "Meeting Grace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5363",
+   "en": "Vajra Attack (S.M.S.)",
+   "flags": [],
+   "notes": "S.M.S. per glossary ('SMS' is an avoid spelling)."
+  },
+  {
+   "id": "u5364",
+   "en": "Join S.M.S.",
+   "flags": [],
+   "notes": "Joining S.M.S."
+  },
+  {
+   "id": "u5365",
+   "en": "S.M.S. Final Test",
+   "flags": [],
+   "notes": "Final entrance test for S.M.S."
+  },
+  {
+   "id": "u5366",
+   "en": "Galaxy Rescue (S.M.S.)",
+   "flags": [],
+   "notes": "Rescue of the Macross Galaxy fleet."
+  },
+  {
+   "id": "u5367",
+   "en": "Vajra Nest Survey (S.M.S.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5368",
+   "en": "Sub-Queen Mothership (S.M.S.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Vajra Sub-Queen Mothership attack; 'Vajra' and 'Attack' dropped for the box."
+  },
+  {
+   "id": "u5369",
+   "en": "Ranka Escort",
+   "flags": [],
+   "notes": "Escorting/guarding Ranka."
+  },
+  {
+   "id": "u5370",
+   "en": "Ultra-Long Fold (S.M.S.)",
+   "flags": [],
+   "notes": "Super long-range fold."
+  },
+  {
+   "id": "u5371",
+   "en": "Vajra Outbreak (S.M.S.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5372",
+   "en": "Final Battle: Grace (S.M.S.)",
+   "flags": [],
+   "notes": "Final showdown with Grace."
+  },
+  {
+   "id": "u5373",
+   "en": "Vajra Attack (N.U.N.F.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "New U.N. Forces abbreviated N.U.N.F. for the box."
+  },
+  {
+   "id": "u5374",
+   "en": "Join N.U.N.F.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Joining the New U.N. Forces; abbreviated N.U.N.F. for the box."
+  },
+  {
+   "id": "u5375",
+   "en": "N.U.N.F. Final Test",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "New U.N. Forces final entrance test."
+  },
+  {
+   "id": "u5376",
+   "en": "Galaxy Rescue (N.U.N.F.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "u5377",
+   "en": "Vajra Nest Survey (N.U.N.F.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "u5378",
+   "en": "Sub-Queen Mothership (N.U.N.F.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Vajra Sub-Queen Mothership attack."
+  },
+  {
+   "id": "u5379",
+   "en": "Ultra-Long Fold (N.U.N.F.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "u5380",
+   "en": "Vajra Outbreak (N.U.N.F.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "u5381",
+   "en": "Final Battle: Grace (N.U.N.F.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "u5382",
+   "en": "Vajra Attack (Civilian)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5383",
+   "en": "Sub-Queen Mothership (Civilian)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Vajra Sub-Queen Mothership attack."
+  },
+  {
+   "id": "u5384",
+   "en": "Ultra-Long Fold (Civilian)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5385",
+   "en": "Vajra Outbreak (Civilian)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5386",
+   "en": "Final Battle: Grace (Civilian)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5387",
+   "en": "Sheryl & Ranka Transfer (Festival)",
+   "flags": [],
+   "notes": "Festival route."
+  },
+  {
+   "id": "u5388",
+   "en": "Meeting Grace & Co.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5389",
+   "en": "Pilot Course Camp",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "4 px over the estimated box; training camp of the Space Aviation Course (koochuu-ka). Review: course name is 'Pilot Course' (glossary). 117 px vs 87 px estimate (list of event titles, widest 297 px)."
+  },
+  {
+   "id": "u5390",
+   "en": "Film Shoot Help 1",
+   "flags": [],
+   "notes": "Helping out with a movie shoot."
+  },
+  {
+   "id": "u5391",
+   "en": "Film Shoot Help 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5392",
+   "en": "Planet Found",
+   "flags": [],
+   "notes": "Discovery of the new planet; 'New' dropped for the box."
+  },
+  {
+   "id": "u5393",
+   "en": "Planet Reached",
+   "flags": [],
+   "notes": "Arrival at the new planet; 'New' dropped for the box."
+  },
+  {
+   "id": "u5394",
+   "en": "Culture Fest (Year 1, Festival)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5395",
+   "en": "Sports Day (Year 2, Festival)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5396",
+   "en": "Summer Break (Year 2, Festival)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5397",
+   "en": "Sheryl's Concert (Festival)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5398",
+   "en": "Affiliation",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "shozoku sentaku = choosing an affiliation; 'Choice' dropped for the 70 px box."
+  },
+  {
+   "id": "u5399",
+   "en": "Hilda's Extra Lesson 1",
+   "flags": [],
+   "notes": "Remedial/extra lesson."
+  },
+  {
+   "id": "u5400",
+   "en": "Hilda's Extra Lesson 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5401",
+   "en": "Hilda's Extra Lesson 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5402",
+   "en": "Vajra Attack (Movie)",
+   "flags": [],
+   "notes": "Movie-version route."
+  },
+  {
+   "id": "u5403",
+   "en": "Vajra Attack 2 (Movie)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5404",
+   "en": "Demo Route Start",
+   "flags": [],
+   "notes": "taikenban = demo version."
+  },
+  {
+   "id": "u5405",
+   "en": "Originals Intro (Pilots)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5406",
+   "en": "Originals Intro (Operators)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5407",
+   "en": "S.M.S. Cast Intro",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5408",
+   "en": "Practical Test 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5409",
+   "en": "Practical Test 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5410",
+   "en": "Practical Test 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5411",
+   "en": "Practical Test 4",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5412",
+   "en": "Practical Test 5",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5413",
+   "en": "Practical Test 6",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5414",
+   "en": "Practical Test 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5415",
+   "en": "Practical Test 8",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5416",
+   "en": "Practical Test (Trial Entry)",
+   "flags": [],
+   "notes": "taiken nyuugaku = trial enrollment."
+  },
+  {
+   "id": "u5417",
+   "en": "Voice Event",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "koedashi = speaking out/voice warm-up; probably the voice-type sample event."
+  },
+  {
+   "id": "u5418",
+   "en": "New Year",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "shougatsu; 4 px over the 56 px estimate, no shorter natural form."
+  },
+  {
+   "id": "u5419",
+   "en": "Concert Gig Set",
+   "flags": [],
+   "notes": "Decision to perform at a concert."
+  },
+  {
+   "id": "u5420",
+   "en": "Valentine's",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5421",
+   "en": "No Event Art",
+   "flags": [],
+   "notes": "Placeholder gallery entry."
+  },
+  {
+   "id": "u5422",
+   "en": "Tea Time with Alto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5423",
+   "en": "Onnagata's Past",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tensai oyama = prodigy onnagata (kabuki actor of female roles, Alto's past); 'prodigy' dropped for the box."
+  },
+  {
+   "id": "u5424",
+   "en": "Alto and the Sky",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5425",
+   "en": "Michel, Lock On!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5426",
+   "en": "Butler Michel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5427",
+   "en": "With Michel from Now On",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5428",
+   "en": "Pool with Luca",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5429",
+   "en": "I Love Machines!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5430",
+   "en": "Luca the Tinkerer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5431",
+   "en": "Nanase at Work!",
+   "flags": [],
+   "notes": "baito = part-time job."
+  },
+  {
+   "id": "u5432",
+   "en": "Dress-Up Nanase",
+   "flags": [],
+   "notes": "okigae = changing clothes."
+  },
+  {
+   "id": "u5433",
+   "en": "Nanase Sketching",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5434",
+   "en": "Klan and a Float",
+   "flags": [],
+   "notes": "ukiwa = swim ring."
+  },
+  {
+   "id": "u5435",
+   "en": "Lethal Proportions",
+   "flags": [],
+   "notes": "Literally 'violent proportions' (overwhelming figure)."
+  },
+  {
+   "id": "u5436",
+   "en": "Klan's Fantasy (M)",
+   "flags": [],
+   "notes": "Male-player version; mousou = wild fantasy."
+  },
+  {
+   "id": "u5437",
+   "en": "Klan's Fantasy (F)",
+   "flags": [],
+   "notes": "Female-player version."
+  },
+  {
+   "id": "u5438",
+   "en": "Surfing Ranka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5439",
+   "en": "Ranka Cramming!",
+   "flags": [],
+   "notes": "mouben'kyou = studying hard."
+  },
+  {
+   "id": "u5440",
+   "en": "Sheryl's First Time",
+   "flags": [],
+   "notes": "Japanese hatsutaiken carries the same innuendo; kept."
+  },
+  {
+   "id": "u5441",
+   "en": "Vacation with Sheryl",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5442",
+   "en": "With the Fairy",
+   "flags": [],
+   "notes": "Fairy = Sheryl, the Galactic Fairy."
+  },
+  {
+   "id": "u5443",
+   "en": "Kagura's Dream",
+   "flags": [],
+   "notes": "taibou = great ambition."
+  },
+  {
+   "id": "u5444",
+   "en": "Gary's Ranch",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5445",
+   "en": "Goodbye, Luis (M)",
+   "flags": [],
+   "notes": "Male-player version."
+  },
+  {
+   "id": "u5446",
+   "en": "Goodbye, Luis (F)",
+   "flags": [],
+   "notes": "Female-player version."
+  },
+  {
+   "id": "u5447",
+   "en": "Shirakawa's Cold",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5448",
+   "en": "Shirakawa's Cold (Blush)",
+   "flags": [],
+   "notes": "(tere) = embarrassed/blushing variant."
+  },
+  {
+   "id": "u5449",
+   "en": "Hilda Attack No.1",
+   "flags": [],
+   "notes": "Parody of the volleyball anime 'Attack No.1'."
+  },
+  {
+   "id": "u5450",
+   "en": "Angel Nurse Yui",
+   "flags": [],
+   "notes": "Yui = Yui Hoshimura."
+  },
+  {
+   "id": "u5451",
+   "en": "Cat & Yamashiro",
+   "flags": [],
+   "notes": "A cat and Yamashiro."
+  },
+  {
+   "id": "u5452",
+   "en": "Lunch with Akimizu",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5453",
+   "en": "Lunch with Akimizu (Zzz)",
+   "flags": [],
+   "notes": "(ne) = asleep variant."
+  },
+  {
+   "id": "u5454",
+   "en": "Claire's P-l-e-a-s-e",
+   "flags": [],
+   "notes": "o-ne-ga-i spelled out syllable by syllable (coy 'please')."
+  },
+  {
+   "id": "u5455",
+   "en": "Cat-Ear Pinon",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5456",
+   "en": "Grace and Brera",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5457",
+   "en": "The S.M.S. Crew",
+   "flags": [],
+   "notes": "Everyone at S.M.S."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u5325 shisukon taichou: 'Siscon Captain' (Ozma; taichou not in the ranks list).",
+   "omatsuri route (u5342, u5387, u5394-u5397) rendered 'Festival'; bunkasai rendered 'Culture Fest' to keep the two apart.",
+   "New U.N. Forces abbreviated 'N.U.N.F.' in the event titles u5373-u5381 for width; the glossary has only the full form.",
+   "u5368/u5378/u5383 Vajra Sub-Queen Mothership attack shortened to 'Sub-Queen Mothership (...)'.",
+   "u5330-u5333 seasonal Rest labels abbreviated (Rest:Spr/Smr/Fall/Win) for a 56 px box.",
+   "u5389 'Aviation Camp' (koochuu-ka = Space Aviation Course, provisional) 4 px over; u5418 'New Year' 4 px over; u5324 1 px over.",
+   "u5398 shozoku sentaku shortened to 'Affiliation'; u5345 gunzoku sentaku = 'Enlisting'.",
+   "u5417 koedashi event = 'Voice Event' (purpose unclear).",
+   "u5423 'Onnagata's Past' drops 'prodigy' (tensai) for width.",
+   "u5440 'Sheryl's First Time' keeps the innuendo of hatsutaiken."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "omatsuri route ('Festival') and bunkasai ('Culture Fest'): campus event names not in the glossary.",
+   "Short form for New U.N. Forces in tight UI labels ('N.U.N.F.')."
+  ],
+  "unfinished": []
+ }
+}

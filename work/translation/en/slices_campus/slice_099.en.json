@@ -1,0 +1,385 @@
+{
+ "slice": 99,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c07293",
+   "en": "Kagura ending (female).\nSlot filler for male.",
+   "flags": [],
+   "notes": "Developer placeholder under Alto's name plate (male branch of the female-only ending frd_kgr_010); translated literally, as c06489."
+  },
+  {
+   "id": "c07294",
+   "en": "(I wonder if Kagura-kun's in the middle\nof servicing his fighter...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07295",
+   "en": "No, it's the result of\nyour own hard work, Kagura-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07296",
+   "en": "Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07297",
+   "en": "(I'm going to see a movie\nwith Yuuto today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07298",
+   "en": "Oh, there you are at last,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07299",
+   "en": "Sorry, sorry, I'm a little late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07300",
+   "en": "It's fine, don't worry about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07301",
+   "en": "Well then, let's go see it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07302",
+   "en": "That movie was so absurd, I had no idea\nwhat it was even trying to say...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07303",
+   "en": "Huh? You think so??",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07304",
+   "en": "I thought it captured the unseen hatred\nin people so succinctly. I was really moved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07305",
+   "en": "...I-I guess you could read it that way...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07306",
+   "en": "No, no, that's definitely what it meant!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07307",
+   "en": "...Let's go into a shop and talk it over.\nI want you to get it too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07308",
+   "en": "O-okay, I get it, so stop pulling me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07309",
+   "en": "(I'm going to see a movie\nwith Kagura-kun today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07310",
+   "en": "Sorry, I'm a little late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07311",
+   "en": "That movie was way too absurd. I had no\nidea what it was even trying to say...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07312",
+   "en": "...I-I guess you could read it that way...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07313",
+   "en": "(I'm going to see a movie\nwith Yuuto again today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07314",
+   "en": "\\p.\nGood timing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07315",
+   "en": "We both got here right on time, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07316",
+   "en": "So, shall we see a movie today too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07317",
+   "en": "Let's hurry up and go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07318",
+   "en": "That was a good movie.\nIt left a bad aftertaste, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07319",
+   "en": "A happy ending really is best, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07320",
+   "en": "When it ends with the hero and heroine\nsplitting up, it's kind of sad, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07321",
+   "en": "Mm-hm.",
+   "flags": [],
+   "notes": "x21: player in many scenes, Ranka, Hoshimura; neutral listening reply."
+  },
+  {
+   "id": "c07322",
+   "en": "Well, that was a long movie,\nso I've gotten hungry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07323",
+   "en": "Let's stop somewhere on the way home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07324",
+   "en": "(I'm going to see a movie\nwith Kagura-kun again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07325",
+   "en": "We both got here right on time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07326",
+   "en": "That was a good movie.\nIt left a bad aftertaste, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07327",
+   "en": "Hmm, well...",
+   "flags": [],
+   "notes": "x6: also before menu choices (scd_fes_804/805) and in frd_luk; fits all."
+  },
+  {
+   "id": "c07328",
+   "en": "(I'm going to Folmo with Yuuto today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07329",
+   "en": "Nah, I just got here too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07330",
+   "en": "I see, that's good then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07331",
+   "en": "We're shopping today, right?\nLet's get going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07332",
+   "en": "Man, you really saved me.",
+   "flags": [],
+   "notes": "The player was the one shopping (Kagura found the item)."
+  },
+  {
+   "id": "c07333",
+   "en": "I thought we'd never find it, but talk about\nmissing what's right under your nose...\nIt was at the closest shop all along...",
+   "flags": [],
+   "notes": "Idiom toudai moto kurashi."
+  },
+  {
+   "id": "c07334",
+   "en": "Sorry for making you walk all over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07335",
+   "en": "Nah, don't worry about it.\nI got to do some shopping too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07336",
+   "en": "Okay, shall we head home?",
+   "flags": [],
+   "notes": "x3: also the player in frd_luk_006; fits."
+  },
+  {
+   "id": "c07337",
+   "en": "(I'm going to Folmo with Kagura-kun today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07338",
+   "en": "I just got here too.",
+   "flags": [],
+   "notes": "x7: female player in frd_luk/myk/rnk meeting scenes; fits."
+  },
+  {
+   "id": "c07339",
+   "en": "Sorry for making you walk so much...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07340",
+   "en": "(I'm supposed to hang out with Yuuto\nat Folmo today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07341",
+   "en": "Sorry I'm late...\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07342",
+   "en": "I got so tired of waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07343",
+   "en": "I'm really sorry!\nI was getting ready and ran late...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07344",
+   "en": "Ah, it's fine, it's fine...\nWell, shall we look around a bit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07345",
+   "en": "R-right.",
+   "flags": [],
+   "notes": "x3: also the player in nml_mcl; neutral."
+  },
+  {
+   "id": "c07346",
+   "en": "Maybe because it's a Zentradi town,\neverything there was on a huge scale.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07347",
+   "en": "It sure was.\nBut it's comfortable. I like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07348",
+   "en": "Well then, shall we hang out\na little longer?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07349",
+   "en": "Yeah, let's do that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07350",
+   "en": "(I'm supposed to hang out with Kagura-kun\nat Folmo today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07351",
+   "en": "It's fine, it's fine, don't worry about it.\nWell then, let's look around a bit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07352",
+   "en": "It sure was.\nBut it's comfortable. I like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07353",
+   "en": "Yeah, let's do that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07354",
+   "en": "(Today was a nice change of pace~)",
+   "flags": [],
+   "notes": "x6 (female, several scenes); as c04966."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

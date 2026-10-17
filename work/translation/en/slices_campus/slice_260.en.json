@@ -1,0 +1,418 @@
+{
+ "slice": 260,
+ "rows_in_slice": 67,
+ "rows_examined": 67,
+ "rows": [
+  {
+   "id": "c18738",
+   "en": "(Well, it's another nice day.\nWhat should I do...)",
+   "flags": [],
+   "notes": "Male, nml_nns_012."
+  },
+  {
+   "id": "c18739",
+   "en": "(Oh, Nanase! What's she up to?)",
+   "flags": [],
+   "notes": "Both variants."
+  },
+  {
+   "id": "c18740",
+   "en": "Hey, Nanase. What are you doing out here?",
+   "flags": [],
+   "notes": "Both variants."
+  },
+  {
+   "id": "c18741",
+   "en": "Oh, \\p-kun.\nWhat a coincidence, running into you here.",
+   "flags": [],
+   "notes": "Male. Nanase."
+  },
+  {
+   "id": "c18742",
+   "en": "I'm on my way to my part-time job at Nyan-Nyan.",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18743",
+   "en": "Working on your day off? That's rough...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18744",
+   "en": "Not at all. At Nyan-Nyan, there's Ranka-sa...\nOh, I have to go! Sorryyy!",
+   "flags": [],
+   "notes": "Both variants, Nanase, cutting herself off mid-name as in frd_nns_001 (\"Ranka-sa...\")."
+  },
+  {
+   "id": "c18745",
+   "en": "Oh, good luck!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18746",
+   "en": "(Nanase and Ranka really are close...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18747",
+   "en": "(Well, it's another nice day.\nWhat should I do...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18748",
+   "en": "Oh, \\p-san.\nWhat a coincidence, running into you here.",
+   "flags": [],
+   "notes": "Female. Nanase."
+  },
+  {
+   "id": "c18749",
+   "en": "I see. Working on your day off?\nThat's rough...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18750",
+   "en": "Oh, good luck, okay!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18751",
+   "en": "(Nanase and Ranka-chan really are close...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18752",
+   "en": "(Nice weather today.\nGood thing we've got swimming class.)",
+   "flags": [],
+   "notes": "Male, nml_nns_013."
+  },
+  {
+   "id": "c18753",
+   "en": "Hey, Nanase. Nice weather today, huh?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18754",
+   "en": "It is...\nThat's kind of the problem...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18755",
+   "en": "Huh, really?\nWe've got swimming, so isn't nice weather better...?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18756",
+   "en": "Well, yes, but getting a tan and all is a bit...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18757",
+   "en": "Ah, I get it. For a girl, that makes sense...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18758",
+   "en": "Yes. If I get weird tan lines,\nthere are clothes I won't be able to wear...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18759",
+   "en": "Right, you've got a great figure, Nanase.",
+   "flags": [],
+   "notes": "Male; Nanase answers \"What?!\"."
+  },
+  {
+   "id": "c18760",
+   "en": "No, I mean...",
+   "flags": [],
+   "notes": "Male, trying to explain."
+  },
+  {
+   "id": "c18761",
+   "en": "Oh, um... Excuse me...",
+   "flags": [],
+   "notes": "Both variants, Nanase leaving, flustered."
+  },
+  {
+   "id": "c18762",
+   "en": "Huh? Wait...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18763",
+   "en": "(Uh-oh, did she get the wrong idea...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18764",
+   "en": "(Looks like nice weather today.\nGood thing we've got swimming class~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18765",
+   "en": "Oh, Nanase. Nice weather today, huh?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18766",
+   "en": "Huh, really?\nWe've got swimming, so isn't nice weather better...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18767",
+   "en": "Oh, right, right. That's true...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18768",
+   "en": "Right, you've got such a great figure, Nanase.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18769",
+   "en": "Well, you know, you've got curves\nin all the right places...",
+   "flags": [],
+   "notes": "Female. \"deteru tokoro deteru\" = curvy figure."
+  },
+  {
+   "id": "c18770",
+   "en": "Huh? Hey, wait!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18771",
+   "en": "(Huh, what's with her?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18772",
+   "en": "(Um, what was the next class again...)",
+   "flags": [],
+   "notes": "Male, nml_nns_014."
+  },
+  {
+   "id": "c18773",
+   "en": "Oh, I was just trying to remember\nwhat our next class is...",
+   "flags": [],
+   "notes": "Male, answering \"\\p-kun, what's up?\"."
+  },
+  {
+   "id": "c18774",
+   "en": "Oh, the teacher for the next class got sick,\nso it's a self-study period now.",
+   "flags": [],
+   "notes": "Both variants, Nanase. \"jishuu\" = self-study period."
+  },
+  {
+   "id": "c18775",
+   "en": "Huh? Really?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18776",
+   "en": "Yes. Apparently the teacher got food poisoning\nor something...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18777",
+   "en": "Yikes, that's awful...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18778",
+   "en": "That's what I heard, anyway.\nSo I'm thinking of going to the art room\nto work on my assignment.",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18779",
+   "en": "That's Nanase for you. Good luck.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18780",
+   "en": "(Well, I think I'll go take a nap on the roof...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18781",
+   "en": "(Umm, what was the next class again...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18782",
+   "en": "Yeah, I was just trying to remember\nwhat our next class is...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18783",
+   "en": "Huh? Seriously?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18784",
+   "en": "Wow~, that's some bad luck.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18785",
+   "en": "That's Nanase for you. Good luck.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18786",
+   "en": "(Well, I think I'll go relax in the library...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18787",
+   "en": "(Okay, it's lunchtime. I'm hungry.)",
+   "flags": [],
+   "notes": "Male, nml_nns_015."
+  },
+  {
+   "id": "c18788",
+   "en": "\\p-kun,\nwhere are you going for lunch?",
+   "flags": [],
+   "notes": "Male. Nanase."
+  },
+  {
+   "id": "c18789",
+   "en": "Oh, Nanase.\nWhy do you ask?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18790",
+   "en": "Well, I'm hungry, but I can't come up\nwith any good ideas for what to eat...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18791",
+   "en": "I see. Actually, I haven't decided at all either...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18792",
+   "en": "What a dilemma, huh...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18793",
+   "en": "Yeah, really. What do we do...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18794",
+   "en": "Oh no, lunch break is almost over!",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18795",
+   "en": "Oh, you're right.\nHow did we spend so long deciding...?",
+   "flags": [],
+   "notes": "Male; both dithered, so \"we\"."
+  },
+  {
+   "id": "c18796",
+   "en": "Good question...\nI mean, I have to hurry! See you!",
+   "flags": [],
+   "notes": "Both variants, Nanase. \"sou desu ne... ja nakute\" = agreeing, then catching herself."
+  },
+  {
+   "id": "c18797",
+   "en": "(Never thought it'd turn out like this...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18798",
+   "en": "(Okay, lunchtime, huh. I'm hungry.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18799",
+   "en": "\\p-san,\nwhere are you going for lunch?",
+   "flags": [],
+   "notes": "Female. Nanase."
+  },
+  {
+   "id": "c18800",
+   "en": "Oh, Nanase.\nHow come you're asking?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18801",
+   "en": "I see. Actually, I haven't decided at all either...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18802",
+   "en": "Yeah, really. What do we do~...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18803",
+   "en": "Oh, you're right.\nHow did we spend so long deciding...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18804",
+   "en": "(Who knew it'd turn out like this...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18795/c18803: subject restored as 'we' (both dithered over lunch).",
+   "c18796: 'sou desu ne... ja nakute' rendered 'Good question... I mean, I have to hurry!'"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

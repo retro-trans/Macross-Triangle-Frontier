@@ -1,0 +1,399 @@
+{
+ "slice": 171,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c12535",
+   "en": "(Today Pinon-chan and I are going\nto enjoy a classical concert!)",
+   "flags": [],
+   "notes": "Male, frd_pnn_112."
+  },
+  {
+   "id": "c12536",
+   "en": "Still, who'd have thought you'd be\ninterested in classical music, \\p...\nI'm a little surprised.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12537",
+   "en": "Well, actually, Michel couldn't go because of\nhis part-time job, so he just gave me the tickets.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12538",
+   "en": "I see, so that's how it is.\nI couldn't picture you listening to classical music.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12539",
+   "en": "What about you, Pinon-chan?\nDo you listen to it?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12540",
+   "en": "Well, a little.\nOtherwise I'd hardly have come\njust because you invited me.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12541",
+   "en": "Guess that's true.",
+   "flags": [],
+   "notes": "Male; as c24457."
+  },
+  {
+   "id": "c12542",
+   "en": "It's almost time for it to start.\nWe should head inside too.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12543",
+   "en": "Mm, that concert wasn't half bad.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12544",
+   "en": "Yeah, I thought it was a good concert too.\nI couldn't tell you exactly what made it good, though...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12545",
+   "en": "It's music.\nAs long as the person listening enjoys it,\nthat's all that matters.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12546",
+   "en": "Yeah, you're right, Pinon-chan.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12547",
+   "en": "(Pinon-chan seemed to enjoy it too,\nso maybe I'll invite her again if I get the chance.)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12548",
+   "en": "(Today Pinon-chan and I are going\nto enjoy a classical concert!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12549",
+   "en": "Well, actually, Michel-kun couldn't go because of\nhis part-time job, so he just gave me the tickets.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12550",
+   "en": "Guess that's true.",
+   "flags": [],
+   "notes": "Female; also scd_com_618 (Christmas with Yuu), generic agreement."
+  },
+  {
+   "id": "c12551",
+   "en": "Yeah, I thought it was a good concert too.\nI couldn't tell you exactly what made it good, though...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12552",
+   "en": "Yeah, you're right, Pinon-chan.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12553",
+   "en": "(I came to see a movie with Pinon-chan,\nbut is this movie really a good idea...?)",
+   "flags": [],
+   "notes": "Male, frd_pnn_113."
+  },
+  {
+   "id": "c12554",
+   "en": "Hey, Pinon-chan,\nare you really okay with this horror movie?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12555",
+   "en": "I-I just happen to be in the mood\nfor a horror movie right now!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12556",
+   "en": "But, Pinon-chan,\nyou totally can't handle horror movies, right?\nYou don't have to push yourself like that...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12557",
+   "en": "Y-you just don't let up, do you?!\nCome on, let's hurry up, get our tickets and go in!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12558",
+   "en": "Ah, wait up, Pinon-chan!",
+   "flags": [],
+   "notes": "Player, both genders; as c22656."
+  },
+  {
+   "id": "c12559",
+   "en": "Th-that movie wasn't scary at all!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12560",
+   "en": "(Your legs are shaking, Pinon-chan...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12561",
+   "en": "B-but you were scared,\nweren't you, \\p?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12562",
+   "en": "So, being the kind person I am...\nI-I could hold your hand for you!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12563",
+   "en": "I-it's not like I'M the one who's scared!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12564",
+   "en": "Haha, you're right.\nI'm way too scared, so would you\nhold my hand, Pinon-chan?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12565",
+   "en": "Wh-what am I going to do with you...\nJust for a little while, got it...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12566",
+   "en": "(Pinon-chan's cute when she's scared like this,\ntoo. Maybe we should come see another\nhorror movie together sometime...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12567",
+   "en": "(I came to see a movie with Pinon-chan,\nbut is this movie really a good idea...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12568",
+   "en": "(Your legs are shaking, Pinon-chan...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12569",
+   "en": "Hehe, you're right.\nI'm way too scared, so would you\nhold my hand, Pinon-chan?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12570",
+   "en": "(Pinon-chan's cute when she's scared like this,\ntoo. Maybe we should come see another\nhorror movie together sometime...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12571",
+   "en": "(Pinon-chan called me to the lab,\nbut what on earth could she want?)",
+   "flags": [],
+   "notes": "Male, frd_pnn_114."
+  },
+  {
+   "id": "c12572",
+   "en": "So you've come, \\p...",
+   "flags": [],
+   "notes": "Pinon, both genders; dramatic summons."
+  },
+  {
+   "id": "c12573",
+   "en": "Is there something you want\nme to help you with, Pinon-chan?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12574",
+   "en": "Not Pinon-chan! Call me Pinon-sensei!",
+   "flags": [],
+   "notes": "Pinon, both genders; cf. c12481."
+  },
+  {
+   "id": "c12575",
+   "en": "S-sorry, Pinon-sensei...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12576",
+   "en": "Hmmm...\nIs this really such an adult thing?",
+   "flags": [],
+   "notes": "Pinon, both genders. otonappoi as 'adult' throughout this scene to keep Michel's innuendo."
+  },
+  {
+   "id": "c12577",
+   "en": "Huh? Adult?\nWhat do you mean, Pinon-chan?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12578",
+   "en": "After school...\nA female teacher calls a student into an empty classroom...",
+   "flags": [],
+   "notes": "Pinon, both genders; quoting Michel, sentence continues in c12579."
+  },
+  {
+   "id": "c12579",
+   "en": "...is super adult,\nor so Michel told me......",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12580",
+   "en": "(What is he teaching her...? That Michel......)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12581",
+   "en": "But there's nothing adult about this at all!\nDon't tell me Michel tricked me?!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12582",
+   "en": "Pinon-chan...\nYou can forget whatever Michel\ntaught you, right now.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12583",
+   "en": "I-is that so?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12584",
+   "en": "And here I thought this would finally make me\neven more adult than I already am...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12585",
+   "en": "(She doesn't have to be that disappointed...)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12586",
+   "en": "(Anyway, that Michel,\nteasing Pinon-chan like that...\nI'd better have a word with him later.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12587",
+   "en": "(Pinon-chan called me to the lab,\nbut what on earth could she want?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12588",
+   "en": "(What is he teaching her...? Honestly, Michel-kun......)",
+   "flags": [],
+   "notes": "Female (tteba: exasperated)."
+  },
+  {
+   "id": "c12589",
+   "en": "Pinon-chan...\nYou can forget whatever Michel-kun\ntaught you, right now.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12590",
+   "en": "(Anyway, Michel-kun,\nteasing Pinon-chan like that...\nI'd better have a word with him later.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12591",
+   "en": "(I feel like something similar\nhappened before...)",
+   "flags": [],
+   "notes": "Player, both genders; repeat visit of frd_pnn_114."
+  },
+  {
+   "id": "c12592",
+   "en": "Ummm, did Michel teach you something\nagain, by any chance, Pinon-chan?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12593",
+   "en": "You figured it out.\nActually, Michel taught me a surefire way\nto look adult......",
+   "flags": [],
+   "notes": "Pinon, both genders; cut off by the player."
+  },
+  {
+   "id": "c12594",
+   "en": "Forget it this instant, Pinon-chan!",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12595",
+   "en": "Awww~~",
+   "flags": [],
+   "notes": "Pinon, both genders; disappointed."
+  },
+  {
+   "id": "c12596",
+   "en": "(You're really teasing Pinon-chan\ntoo much, Michel...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12597",
+   "en": "Ummm, did Michel-kun teach you something\nagain, by any chance, Pinon-chan?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12598",
+   "en": "(You're really teasing Pinon-chan\ntoo much, Michel-kun...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c12576-c12593 (frd_pnn_114): otonappoi rendered 'adult' throughout the scene (not 'grown-up' as in frd_pnn_107) so Michel's innuendo about a female teacher summoning a student after school still reads."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

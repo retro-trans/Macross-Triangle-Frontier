@@ -1,0 +1,528 @@
+{
+ "slice": 12,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o7_exd/1188",
+   "en": "A mass outbreak of Vajra has occurred inside the Island, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1188",
+   "en": "A mass outbreak of Vajra has occurred inside the Island.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1189",
+   "en": "Protect the Micronizer.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary 'micronization device'; the shared MUF operator clips say 'micronizer'."
+  },
+  {
+   "id": "of_ktr/1189",
+   "en": "Protect the Micronizer!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary 'micronization device'; the shared MUF operator clips say 'micronizer'."
+  },
+  {
+   "id": "o7_exd/1190",
+   "en": "We shall now run a performance test of the VF-171EX.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1190",
+   "en": "We will now run a performance test of the VF-171EX.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1191",
+   "en": "S.M.S. members are attempting to flee in the Macross Quarter. Stop them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1191",
+   "en": "S.M.S. members are trying to flee in the Macross Quarter. Stop them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1192",
+   "en": "Enemy mothership sighted. It is the Macross Quarter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1192",
+   "en": "Enemy mothership sighted! It's the Macross Quarter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1193",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1193",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1194",
+   "en": "Sagittarius 1, hit!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Sanitarius' read as Sagittarius; 'hidan' homophone read as 'hit'."
+  },
+  {
+   "id": "of_ktr/1194",
+   "en": "Sagittarius 1 hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1195",
+   "en": "Battle Galaxy?!",
+   "flags": [],
+   "notes": "Transcript in Latin letters; the name, said in surprise as in the shared clips."
+  },
+  {
+   "id": "of_ktr/1195",
+   "en": "Battle Galaxy?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1196",
+   "en": "Many heat sources have launched from Battle Galaxy. They are Ghost V-9s!",
+   "flags": [],
+   "notes": "Trailing 'desu ga' read as 'desu na'."
+  },
+  {
+   "id": "of_ktr/1196",
+   "en": "Many heat sources launched from Battle Galaxy. They're Ghost V-9s!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1198",
+   "en": "Incoming aircraft, behind you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1198",
+   "en": "Incoming aircraft, behind you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1201",
+   "en": "Defold reaction confirmed. An enemy battleship has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1201",
+   "en": "Defold reaction confirmed. An enemy battleship has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1202",
+   "en": "Enemy aircraft confirmed. A Nousjadeul-Ger, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1202",
+   "en": "Enemy aircraft confirmed. It's a Nousjadeul-Ger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1203",
+   "en": "Numerous heat sources detected.",
+   "flags": [],
+   "notes": "The shared clips drop 'many' (tasuu); kept it here."
+  },
+  {
+   "id": "of_ktr/1203",
+   "en": "Many heat sources detected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1204",
+   "en": "Zentradi soldier reinforcements.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Zentoraadi e no' read as 'Zentoraadi-hei no' (Zentradi soldiers'), as Catherine and the shared clips say."
+  },
+  {
+   "id": "of_ktr/1204",
+   "en": "Zentradi soldier reinforcements!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1205",
+   "en": "Unidentified enemy contact confirmed. Be careful.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'tekii' (hostility) read as 'tekiei' (enemy contact)."
+  },
+  {
+   "id": "of_ktr/1205",
+   "en": "Unidentified enemy contact confirmed. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1206",
+   "en": "New defold reaction confirmed. Enemy ship reinforcements, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1206",
+   "en": "New defold reaction confirmed! Enemy ship reinforcements!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'default' read as defold."
+  },
+  {
+   "id": "o7_exd/1207",
+   "en": "The enemy commander has appeared, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1207",
+   "en": "The enemy commander has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1208",
+   "en": "Large enemy battleship sighted. The enemy flagship, I should think.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kikan' homophone read as flagship."
+  },
+  {
+   "id": "of_ktr/1208",
+   "en": "Large enemy battleship sighted. It looks like the enemy flagship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kikan' homophone read as flagship."
+  },
+  {
+   "id": "o7_exd/1209",
+   "en": "Numerous enemy reinforcements confirmed. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1209",
+   "en": "Many enemy reinforcements confirmed. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1210",
+   "en": "Many Regults have appeared. Would you kindly intercept them at once?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1210",
+   "en": "Many Regults have appeared. Intercept them immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1211",
+   "en": "It is a Monster! Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1211",
+   "en": "It's a Monster! Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1212",
+   "en": "Numerous unidentified flying objects descending.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1212",
+   "en": "Many unidentified flying objects are coming down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1213",
+   "en": "Many targets approaching. A ground force, perhaps?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1213",
+   "en": "Many targets are approaching. It's a ground force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1215",
+   "en": "This reaction... it is the Protodeviln.",
+   "flags": [],
+   "notes": "Trailing 'desu ga' read as 'desu na'."
+  },
+  {
+   "id": "of_ktr/1215",
+   "en": "This reaction is the Protodeviln!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1216",
+   "en": "This reaction is the Varauta Army, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1216",
+   "en": "This reaction is the Varauta Army!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1217",
+   "en": "Protodeviln have appeared in the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1217",
+   "en": "Protodeviln have appeared in the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1218",
+   "en": "Aircraft sighted inside City 7. Enemies, I see.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kiei' written with the wrong kanji; read as aircraft sighting."
+  },
+  {
+   "id": "of_ktr/1218",
+   "en": "Aircraft sighted inside City 7. It's the enemy!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "As row 933."
+  },
+  {
+   "id": "o7_exd/1219",
+   "en": "The Varauta Army is coming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1219",
+   "en": "Varauta Army incoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1220",
+   "en": "Protodeviln sighted. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1220",
+   "en": "Protodeviln sighted. Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1222",
+   "en": "More poacher reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1222",
+   "en": "More poacher reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1223",
+   "en": "Poacher reinforcement unit confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1223",
+   "en": "Poacher reinforcement unit confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1224",
+   "en": "Enemy signature picked up. The poachers, I see.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'tekiei' written with the wrong kanji."
+  },
+  {
+   "id": "of_ktr/1224",
+   "en": "Enemy signature picked up! It's the poachers!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "As row 943."
+  },
+  {
+   "id": "o7_exd/1225",
+   "en": "Enemy contact that appears to be the poachers' mothership confirmed. Intercept it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1225",
+   "en": "Enemy contact that looks like the poachers' mothership. Intercept it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1227",
+   "en": "Victor has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1227",
+   "en": "Victor has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1228",
+   "en": "Victor reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1228",
+   "en": "Victor reinforcements!",
+   "flags": [],
+   "notes": "Whisper nospeech flag, but the transcript matches the shared line; kept."
+  },
+  {
+   "id": "o7_exd/1229",
+   "en": "Numerous defold reactions confirmed. A great horde of Victor, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1229",
+   "en": "Many defold reactions confirmed. It's a huge Victor force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1230",
+   "en": "A large Victor has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1230",
+   "en": "A large Victor has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1231",
+   "en": "It is a huge force of Vajra! Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1231",
+   "en": "It's a huge Vajra force! Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1232",
+   "en": "Giant enemy contact confirmed. The enemy mothership, I should think.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1232",
+   "en": "Giant enemy contact confirmed. It looks like the enemy mothership.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1233",
+   "en": "Enemy reaction detected. A large Vajra, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1233",
+   "en": "Enemy reaction detected. It's a large Vajra.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 883-884: glossary 'micronization device' used; shared MUF operator clips say 'micronizer'."
+  ],
+  "whisper_doubt": [
+   "row 893: Sagittarius",
+   "row 907: Zentradi soldiers",
+   "row 909: tekiei",
+   "row 912: defold",
+   "rows 915-916: kikan = flagship",
+   "rows 933-934: kiei",
+   "rows 943-944: tekiei"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

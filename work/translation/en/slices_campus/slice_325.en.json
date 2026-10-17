@@ -1,0 +1,498 @@
+{
+ "slice": 325,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c23530",
+   "en": "(All right! I'm gonna enjoy Sheryl's concert\nfor all it's worth!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23531",
+   "en": "(Still, it looks like Ranka isn't here yet...\nDid she get lost or something?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23532",
+   "en": "(Amazing...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23533",
+   "en": "(Sheryl's overwhelming vocal power,\nand a live performance that's every bit\nas good...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23534",
+   "en": "(Lately I've been treating her like a normal\nclassmate, so I forgot, but Sheryl really is\nthe \"Galactic Fairy\"...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23535",
+   "en": "Hey, everybody! Are you feeling cultured?!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sheryl's concert call 'bunka shiteru?' ('are you doing culture?'). No glossary rendering yet."
+  },
+  {
+   "id": "c23536",
+   "en": "Time really flies, doesn't it?\nIt's already been a year since I came\nto the Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23537",
+   "en": "I only meant to get a little taste of\nhigh school life, but I never imagined\nI'd end up staying this long.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23538",
+   "en": "But I truly, honestly think coming\nto the Frontier was the right choice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23539",
+   "en": "After all, I even got to make friends\nwith a cute girl like this...",
+   "flags": [],
+   "notes": "kawaii ko: Ranka, about to be introduced."
+  },
+  {
+   "id": "c23540",
+   "en": "(Cute girl?)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23541",
+   "en": "Hehe, tonight I've brought along a special guest.\nI don't hand out treats like this very often,\nyou know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23542",
+   "en": "Now, you're up,\nRanka-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23543",
+   "en": "I-I'm Ranka Lee!\nIt's nice to meet you all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23544",
+   "en": "(R-Ranka?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23545",
+   "en": "Ranka-chan, you're way too nervous.\nThat's going overboard, even for you.",
+   "flags": [],
+   "notes": "ikura nan demo: 'that's too much, whatever the excuse'."
+  },
+  {
+   "id": "c23546",
+   "en": "But I'm going up on stage with you, Sheryl-san...\nIn front of this huge an audience, too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23547",
+   "en": "It's all right.\nYou can do this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23548",
+   "en": "After all,\nyou've got the seal of approval\nfrom Sheryl Nome herself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23549",
+   "en": "Okay...\nI'll do my best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23550",
+   "en": "Hehe, then let's go, Ranka-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23551",
+   "en": "Yes! Sheryl-san!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23552",
+   "en": "Tonight, same as always, we're gonna charge\nahead at Macross speed!",
+   "flags": [],
+   "notes": "'Macross speed' as in the shipped tutorial line (u3245)."
+  },
+  {
+   "id": "c23553",
+   "en": "So... everybody, hold me tight!\nTo the ends of the galaxy!!",
+   "flags": [],
+   "notes": "Ranka's catchphrase, as in u3141."
+  },
+  {
+   "id": "c23554",
+   "en": "Listen to our song!!",
+   "flags": [],
+   "notes": "Sheryl's catchphrase in the plural ('Listen to my song!!' in u1032)."
+  },
+  {
+   "id": "c23555",
+   "en": "(Sure, it wasn't a lie that she'd\ninvited Ranka too, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23556",
+   "en": "(She invited her not as a guest,\nbut as one of the performers...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23557",
+   "en": "(Haha, just like Sheryl said,\nthis is one amazing concert.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23558",
+   "en": "(I should be proud to be friends\nwith divas as amazing as those two.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23559",
+   "en": "(I hope we keep getting along from here on,\nSheryl, Ranka.)",
+   "flags": [],
+   "notes": "kore kara mo yoroshiku tanomu na."
+  },
+  {
+   "id": "c23560",
+   "en": "(Sheryl-san personally invited me to her concert\ntoday... but is it really okay for me to be here?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23561",
+   "en": "Oh, \\p-chan. So you came.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23562",
+   "en": "Of course!\nThank you for inviting me to your concert\ntoday, Sheryl-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23563",
+   "en": "And I'm sorry for barging in before the show.\nWhen I showed my ticket, for some reason\nthey brought me all the way back here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23564",
+   "en": "Oh, so Saotome-kun and the others got\nbrought to the dressing room too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23565",
+   "en": "Now, now, calm down, Saotome-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23566",
+   "en": "(Oh, so the other half was serious...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23567",
+   "en": "Actually, \\p-chan, I was going to ask you\nand the others to do EX-Gear acrobatics\nas part of the concert's performance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23568",
+   "en": "(Hm? Did something happen with Ranka-chan?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23569",
+   "en": "Huh? Come to think of it, didn't you invite\nRanka-chan to today's concert?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23570",
+   "en": "\\p-chan...\nDo you take me for the wicked stepmother\nwho bullies Cinderella?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23571",
+   "en": "Now then, the concert's about to start.\nYou and the others had better head\nto your seats soon too, \\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23572",
+   "en": "Okay, I think I'll do that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23573",
+   "en": "Of course!\nWell, good luck out there, Sheryl-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23574",
+   "en": "(All right! I'm going to enjoy Sheryl-san's\nconcert for all it's worth!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23575",
+   "en": "(Still, it looks like Ranka-chan isn't here\nyet... Did she get lost or something?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23576",
+   "en": "(Amazing...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23577",
+   "en": "(Sheryl-san's overwhelming vocal power,\nand a live performance that's every bit\nas good...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23578",
+   "en": "(Lately I've been treating her like a normal\nclassmate, so I forgot, but Sheryl-san really\nis the \"Galactic Fairy\"...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23579",
+   "en": "(R-Ranka-chan?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23580",
+   "en": "(Sure, it wasn't a lie that she'd\ninvited Ranka-chan too, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23581",
+   "en": "(She invited her not as a guest,\nbut as one of the performers...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23582",
+   "en": "(Haha, just like Sheryl-san said,\nthis is one amazing concert.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23583",
+   "en": "(I should be proud to be friends\nwith divas as amazing as those two.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23584",
+   "en": "(I hope we keep getting along from here on,\nSheryl-san, Ranka-chan.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23585",
+   "en": "Wow... the sea on Island 3 really is beautiful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23586",
+   "en": "Jeez, we're not here to play, you know.\nDon't forget we came here to work,\n\\p.",
+   "flags": [],
+   "notes": "Michel. x4: two occurrences in scd_fes_804 carry no name plate (PLAYER/none), right before Michel's wrap-up line; content only fits Michel."
+  },
+  {
+   "id": "c23587",
+   "en": "I know, I know, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23588",
+   "en": "Still, Mihoshi Academy and S.M.S. helping\nfilm the stunts for a movie...\nThat's pretty incredible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23589",
+   "en": "Just shows how much they're putting\ninto this movie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23590",
+   "en": "For the Valkyrie dogfight scenes,\nthey're using real Valkyries, apparently.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23591",
+   "en": "Huh, really?\nSo what kind of Valkyrie are they using\nfor the shoot?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23592",
+   "en": "For this shoot, we'll be using the\n\"YF-25 Prophecy,\" the development\nprototype of the VF-25.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23593",
+   "en": "To gather test data accurately, the Prophecy's\nhead carries multiple sensors that can record\nand collect data from all directions, and...",
+   "flags": [],
+   "notes": "Trails off (Luca's lecture continues)."
+  },
+  {
+   "id": "c23594",
+   "en": "(Uh-oh, Luca's started one of his\nlong explanations...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23595",
+   "en": "In other words, it's no exaggeration to say\nthe Messiah was developed thanks to\nthe Prophecy, and...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23596",
+   "en": "Anyway, looks like they'll shoot it with\nthe YF-25 and then touch it up with CG.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23597",
+   "en": "But I'm not done explaining yet...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23598",
+   "en": "Okay then, let's get right to the shoot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23599",
+   "en": "First up, we're filming a chase stunt in the\ncanyon. One of you plays that legendary\nace pilot, Roy Focker...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23600",
+   "en": "And the other plays the Anti-U.N. ace,\nD.D. Ivanov.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23601",
+   "en": "I'm leaving the Focker role to you,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23602",
+   "en": "Got it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23603",
+   "en": "And as for your opponent, D.D. Ivanov...\nLet's see. Me or Alto,\nyou pick which one you want.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23604",
+   "en": "Do the stunt with Alto",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c23605",
+   "en": "Do the stunt with Michel",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c23606",
+   "en": "Then I guess I'll ask Alto to play Ivanov.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23607",
+   "en": "Heh, you're on.\nDon't slack off just 'cause it's a stunt.",
+   "flags": [],
+   "notes": "x4: Alto or Michel, whichever plays Ivanov."
+  },
+  {
+   "id": "c23608",
+   "en": "As if I would.",
+   "flags": [],
+   "notes": "atarimae daro, answering 'don't slack off'."
+  },
+  {
+   "id": "c23609",
+   "en": "The AI operator will give you\ninstructions during the stunt.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c23535: Sheryl's concert call 'bunka shiteru?' rendered 'Hey, everybody! Are you feeling cultured?!'; no glossary entry, a reviewer may prefer another established rendering.",
+   "c23586: Michel's line also occurs twice with no name plate (PLAYER/none) in scd_fes_804, before Michel's wrap-up; translated as Michel's line since the content only fits him."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

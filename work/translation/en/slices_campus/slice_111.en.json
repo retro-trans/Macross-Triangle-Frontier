@@ -1,0 +1,401 @@
+{
+ "slice": 111,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c08187",
+   "en": "Hmmm...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08188",
+   "en": "(Okay, time to head home.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08189",
+   "en": "Wait, isn't that Klan-senpai?\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08190",
+   "en": "Oh, if it isn't \\p.\nI'm not here for anything in particular.\nI just dropped by on my way home from college.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08191",
+   "en": "Coming back to Mihoshi like this\nbrings back all sorts of memories...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08192",
+   "en": "The time Michel treated me like a child...\nThe time Michel teased me...\nThe time Michel made a fool of me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08193",
+   "en": "(Every one of those memories is about Michel...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08194",
+   "en": "Now even those are fond memories...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08195",
+   "en": "...Like heck they are!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08196",
+   "en": "Just remembering it is making me mad!\nWhere is Michel? I'll make him pay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08197",
+   "en": "(Klan-senpai went off looking for Michel...\nI'd better stop her rampage somehow.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08198",
+   "en": "Waaait! Klan-senpai!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08199",
+   "en": "(Every one of those memories is about Michel-kun...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08200",
+   "en": "(Klan-senpai went off looking for Michel-kun...\nI'd better stop her rampage somehow.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08201",
+   "en": "Oh, if it isn't \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08202",
+   "en": "Remember how I tried to catch Michel\nto pay him back for everything,\nand he got away?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08203",
+   "en": "This time I'm lying in ambush here\nso he can't escape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08204",
+   "en": "(Klan-senpai's still hung up on that...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08205",
+   "en": "Heh heh heh...\nPrepare yourself, Michel!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08206",
+   "en": "Good luck, Klan-senpai...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08207",
+   "en": "(I'll be heading home ahead of you, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08208",
+   "en": "(Klan-senpai's still hung up on that...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08209",
+   "en": "(I'll be heading home ahead of you, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08210",
+   "en": "(I came shopping in the Shibuya Area\nwith Klan-senpai, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08211",
+   "en": "W-Well...\nEven if you suddenly ask me\nwhether I'd like to be a model...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08212",
+   "en": "I need time to prepare myself...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08213",
+   "en": "(Who'd have thought Klan-senpai would get\nscouted to model for a fashion magazine?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08214",
+   "en": "What will you do, Klan-senpai?\nBeing a model is amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08215",
+   "en": "Please, I'm begging you.\nI don't think there's any girl better suited\nto be our model this time than you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08216",
+   "en": "R-Really...?\nIf you insist, I suppose I could do it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08217",
+   "en": "Oh, th-thank you so much!\nNow we have our child model too.\nWhat a relief!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08218",
+   "en": "Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08219",
+   "en": "...Ch-Child model?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08220",
+   "en": "Our magazine is for children's fashion.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08221",
+   "en": "Umm, you're her big brother, right?\nWould you like to watch the shoot, too?",
+   "flags": [],
+   "notes": "The scout takes the player for Klan's older brother (onii-san)."
+  },
+  {
+   "id": "c08222",
+   "en": "U-Umm...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08223",
+   "en": "I am NOT a chiiiild!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08224",
+   "en": "(Oh, great. Klan-senpai got mad and went home...)",
+   "flags": [],
+   "notes": "Source has no closing bracket (typo; the next row is still monologue); closing parenthesis added."
+  },
+  {
+   "id": "c08225",
+   "en": "(Then again, I can kind of see\nwhy people mistake her for a kid...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08226",
+   "en": "Umm, you're her big sister, right?\nWould you like to watch the shoot, too?",
+   "flags": [],
+   "notes": "The scout takes the player for Klan's older sister (onee-san)."
+  },
+  {
+   "id": "c08227",
+   "en": "(Oh, great. Klan-senpai got mad and went home...)",
+   "flags": [],
+   "notes": "Source has no closing bracket (typo); closing parenthesis added."
+  },
+  {
+   "id": "c08228",
+   "en": "Grrr... If anyone tries to recruit me as a model\nagain, I am absolutely not accepting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08229",
+   "en": "(Klan-senpai's still hung up on what\nhappened last time...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08230",
+   "en": "Klan-senpai, forget about that\nand let's just have fun today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08231",
+   "en": "Mm, y-yes... You're right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08232",
+   "en": "No, but still...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08233",
+   "en": "Come on, let's go,\nKlan-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08234",
+   "en": "Grrr!!\nI still can't forgive it!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08235",
+   "en": "(You're taking this way too hard,\nKlan-senpai...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08236",
+   "en": "(Klan-senpai's still hung up on what\nhappened last time...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08237",
+   "en": "(Phew! I just barely made\nthe train to Folmo. Lucky me!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08238",
+   "en": "Ugh, dammit!\nJust a little more and I'll reach it...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08239",
+   "en": "(Huh? It's Klan-senpai...\nShe's jumping with all her might.\nWhat's she doing?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08240",
+   "en": "Huff, huff, huff...\nHm? If it isn't \\p.\nAre you off somewhere to have fun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08241",
+   "en": "Yes, I'm going shopping at Folmo.\nWhat are you doing on the train, Senpai?\nYou looked like you were jumping like mad...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08242",
+   "en": "Th-That's... I was just trying\nto grab a hand strap...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08243",
+   "en": "You don't have to push yourself like that.\nThere are free seats, so you could just sit...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08244",
+   "en": "A-Adults...\nsometimes face battles they can't run from!\nSo I was boldly challenging the strap to a duel...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08245",
+   "en": "(Getting worked up over something like that\nseems more childish, if you ask me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08246",
+   "en": "Dammit! I'm going to grab that strap\nno matter what!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08247",
+   "en": "(I'm worried Klan-senpai\nwill miss her stop...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08248",
+   "en": "(Huh? It's Klan-senpai...\nShe's jumping with all her might.\nWhat's she doing?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08249",
+   "en": "(I'm worried Klan-senpai\nwill miss her stop...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08250",
+   "en": "(Huh? It's Klan-senpai...\nShe's jumping with all her might.\nDon't tell me she's at it again...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c08221/c08226: the scout calls the player onii-san/onee-san, read as mistaking the player for Klan's older sibling (fits the child-model joke); rendered 'her big brother/sister'.",
+   "c08187: shared by narration, Klan, the player and Pinon (nml_pnn_021); 'Hmmm...' works for all.",
+   "c08224/c08227: source lacks the closing bracket of the monologue; added ')'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

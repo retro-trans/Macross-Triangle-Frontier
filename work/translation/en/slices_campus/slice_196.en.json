@@ -1,0 +1,497 @@
+{
+ "slice": 196,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c14360",
+   "en": "I-I'm kidding!\nG-geez~... As if I'd ever seriously say\nI want you back in the hospital!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14361",
+   "en": "(I'm positive she meant every word...)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14362",
+   "en": "Now, now, let's put that aside.\nCome on, let's hurry to the concert! Let's go!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14363",
+   "en": "(I can't have Hoshimura visiting me in that\nnurse outfit again. I'd better be careful\nnever to end up in the hospital...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14364",
+   "en": "(I'm fully recovered now,\nso today I'm going to enjoy a concert\nat the Sky Gate with Yui!)",
+   "flags": [],
+   "notes": "Female; twin of c14352."
+  },
+  {
+   "id": "c14365",
+   "en": "Maybe I'll head home now...",
+   "flags": [],
+   "notes": "Female; twin of c14359."
+  },
+  {
+   "id": "c14366",
+   "en": "(I can't have Yui visiting me in that\nnurse outfit again. I'd better be careful\nnever to end up in the hospital...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14367",
+   "en": "(Whoa~ The sea at Island 3 really is beautiful.)",
+   "flags": [],
+   "notes": "Male, frd_yui_005 (beach outing)."
+  },
+  {
+   "id": "c14368",
+   "en": "Heyyy, Hoshimura!\nHurry up and get over here, the sea's gorgeous!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14369",
+   "en": "You don't have to tell me twice! Here I gooo~!\nFirst one in the sea is gonna be me~!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14370",
+   "en": "Geez, Hoshimura...\nDon't jump into the sea without warming up.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14371",
+   "en": "No problem, no problem!\nFor someone like me, this is a piece of ca...",
+   "flags": [],
+   "notes": "Hoshimura, both genders. Cut off as in the Japanese (she cramps up)."
+  },
+  {
+   "id": "c14372",
+   "en": "Aaah! Ow ow ow ow!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders. Fake cramp (she is faking, see c14375)."
+  },
+  {
+   "id": "c14373",
+   "en": "Geez, so much for 'no problem'.\nAre you okay? Hoshim...",
+   "flags": [],
+   "notes": "Male; cut off by the splash."
+  },
+  {
+   "id": "c14374",
+   "en": "Whoa!!",
+   "flags": [],
+   "notes": "Male; gets splashed."
+  },
+  {
+   "id": "c14375",
+   "en": "Heh heh~! Fell for it!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14376",
+   "en": "*Cough, cough!*\nWhat was that for, Hoshimura!?\nSplashing water on me out of nowhere...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14377",
+   "en": "...Payback!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14378",
+   "en": "Ooh, now you've done it!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14379",
+   "en": "Ahh, what fun, what fun!\nWe are most well pleased~",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hoshimura, both genders. Archaic lordly phrase (yo wa manzoku ja): rendered with a royal \"we\"."
+  },
+  {
+   "id": "c14380",
+   "en": "Okay, even I'm worn out after that...",
+   "flags": [],
+   "notes": "Male (sasuga ni)."
+  },
+  {
+   "id": "c14381",
+   "en": "Sheesh, you're such a wimp~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14382",
+   "en": "You're just way too energetic, Hoshimura.\nAfter horsing around that much,\nhow are you still this full of energy?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14383",
+   "en": "'Cause playing with you is so much fun!\nAll my tiredness just flies right off!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14384",
+   "en": "All riiight, let's play some more~!\nRace you toward that sun!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14385",
+   "en": "(Seriously, Hoshimura's energy is bottomless...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14386",
+   "en": "...Ow!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14387",
+   "en": "Hm? Something wrong, Hoshimura?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14388",
+   "en": "Looks like I kinda twisted my ankle...\nThat I, of all people, should commit\nsuch a blunder... How shameful......",
+   "flags": [],
+   "notes": "Hoshimura, both genders. (nantaru shittai, old-fashioned)."
+  },
+  {
+   "id": "c14389",
+   "en": "You twisted your ankle...? Are you okay?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14390",
+   "en": "Yeah, I'm fine...\nI think it'll get better if I rest a bit,\nso you go ahead and swim...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14391",
+   "en": "What are you talking about?\nThere's no way I could go off and have fun\nand leave you behind injured.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14392",
+   "en": "...Sorry.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14393",
+   "en": "Come on, this much is only natural.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14394",
+   "en": "Besides, a meek Hoshimura like this\nis pretty rare, and kinda cute.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14395",
+   "en": "Huh...?\nWha? C-cute??",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14396",
+   "en": "Whaaaaaaaaaaat!!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14397",
+   "en": "No way am I cute!\nI'm always tinkering with machines,\nand I never bother to dress up or anything!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14398",
+   "en": "And, um... uhhh...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14399",
+   "en": "*Pshhh~*",
+   "flags": [],
+   "notes": "Hoshimura, both genders. Overheating sound."
+  },
+  {
+   "id": "c14400",
+   "en": "Ahaha, just kidding.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14401",
+   "en": "Mmph... Don't tease me like that...\nDummy......",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14402",
+   "en": "(Still, this might be the first time\nI've ever seen Hoshimura get embarrassed...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14403",
+   "en": "(So Hoshimura's the type who gets flustered\nwhen someone compliments her straight out.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14404",
+   "en": "Hoshimura, is your ankle okay now?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14405",
+   "en": "Zero problemo!\nBut, well, it's getting late, so shall we\nhead home?",
+   "flags": [],
+   "notes": "Hoshimura, both genders. (mondai nasshingu)."
+  },
+  {
+   "id": "c14406",
+   "en": "(There was a little mishap along the way,\nbut I'm glad I got to have fun with Hoshimura.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14407",
+   "en": "(Plus, I got to see an unexpected side\nof Hoshimura.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14408",
+   "en": "(The sea at Island 3 really is beautiful.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14409",
+   "en": "Heyyy, Yui!\nHurry up and get over here, the sea's gorgeous!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14410",
+   "en": "Geez, Yui...\nJumping into the sea without warming up...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14411",
+   "en": "Geez, so much for 'no problem'.\nAre you okay? Yu...",
+   "flags": [],
+   "notes": "Female; cut off by the splash."
+  },
+  {
+   "id": "c14412",
+   "en": "Whoa!!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14413",
+   "en": "*Cough, cough!*\nWhat was that for, Yui!?\nSplashing water on me out of nowhere...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14414",
+   "en": "...Payback!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14415",
+   "en": "Okay, even I'm worn out after that...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14416",
+   "en": "You're just way too energetic, Yui.\nAfter horsing around that much,\nhow are you still this full of energy?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14417",
+   "en": "(Seriously, Yui's energy is bottomless...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14418",
+   "en": "Hm? Something wrong, Yui?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14419",
+   "en": "You twisted your ankle...? Are you okay?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14420",
+   "en": "What are you talking about?\nThere's no way I could go off and have fun\nand leave you behind injured.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14421",
+   "en": "Come on, this much is only natural.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14422",
+   "en": "Well, besides, a meek Yui like this\nis pretty rare, and kinda cute.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14423",
+   "en": "Hehe, sorry, sorry.",
+   "flags": [],
+   "notes": "Female; answers c14401."
+  },
+  {
+   "id": "c14424",
+   "en": "(Still, this might be the first time\nI've ever seen Yui get embarrassed...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14425",
+   "en": "(So Yui's the type who gets flustered\nwhen someone compliments her straight out.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14426",
+   "en": "Yui, is your ankle okay now?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14427",
+   "en": "(There was a little mishap along the way,\nbut I'm glad I got to have fun with Yui.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14428",
+   "en": "(Plus, I got to see an unexpected side\nof Yui.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14429",
+   "en": "(I came to the artificial island\nwith Hoshimura again, but...)",
+   "flags": [],
+   "notes": "Male, frd_yui_005 second visit."
+  },
+  {
+   "id": "c14430",
+   "en": "Hey, Hoshimura, let's hurry up and go swimming.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14431",
+   "en": "Y-yeah... I know that, but...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14432",
+   "en": "You know, but...?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14433",
+   "en": "...You're not gonna say weird stuff to me\nlike 'cute' again, like last time?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14434",
+   "en": "(Weird stuff...?\nWas it really that embarrassing for her......)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14435",
+   "en": "Okay... I swear I'll never say 'cute,'\nso let's hurry up and go play.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14436",
+   "en": "Somehow, having you swear it like that\nkinda ticks me off too...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14437",
+   "en": "(Then what am I supposed to do...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14438",
+   "en": "Eh, whatever!\nAlll right! Then let's play!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14439",
+   "en": "Uuu~, we already have to go home...\nFun times really do fly by, huh~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c14379: Hoshimura, both genders. Archaic lordly phrase (yo wa manzoku ja): rendered with a royal \"we\"."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

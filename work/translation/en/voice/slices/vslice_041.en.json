@@ -1,0 +1,552 @@
+{
+ "slice": 41,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p0_of1/688",
+   "en": "The EX-Gear has three main modes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/689",
+   "en": "You can switch freely between Walk mode, Hover mode and Flight mode with the analog stick.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/690",
+   "en": "Analog stick down switches to Walk mode, left or right to Hover mode, and up to Flight mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/691",
+   "en": "Each mode has its own controls, but basically you move with up, down, left and right on the D-pad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/692",
+   "en": "For example, in Walk mode, up and down on the D-pad move you forward and back, and left and right move you sideways.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/693",
+   "en": "I'll explain each mode's own controls later. First, practice switching modes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/694",
+   "en": "All right, let's begin the explanation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/695",
+   "en": "Sigh... I'll explain it, so listen properly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/696",
+   "en": "Practice hard until you can move freely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/697",
+   "en": "Next, we'll do Walk mode training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/698",
+   "en": "Next, we'll do Hover mode training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/699",
+   "en": "Next, we'll do Flight mode training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/700",
+   "en": "Next, we'll do melee attack training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/701",
+   "en": "Next, we'll do shooting attack training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/702",
+   "en": "Next, we'll do cargo hauling training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/703",
+   "en": "Walk mode training is over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/704",
+   "en": "Hover mode training is over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/705",
+   "en": "Flight mode training is over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/706",
+   "en": "Melee attack training is over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/707",
+   "en": "Shooting attack training is over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/708",
+   "en": "Cargo hauling training is over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/709",
+   "en": "Step outside the room and training is over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/710",
+   "en": "Leave this room and training will end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/711",
+   "en": "Press the L button to turn the camera toward your direction of travel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "ps_mis/1600",
+   "en": "Thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p7_exd/1600",
+   "en": "We cannot allow the culture of the Protoculture to be lost.",
+   "flags": [],
+   "notes": "Exsedol's formal register (-mairimasen)."
+  },
+  {
+   "id": "p7_exd/1601",
+   "en": "Hmm. I have no record of that type in my memory, I'm afraid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p7_exd/1602",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A drawn-out sigh or exclamation (haa); Whisper low confidence."
+  },
+  {
+   "id": "p7_exd/1603",
+   "en": "Oh! The Protodeviln!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has purotodebiru; read as Protodeviln (purotodebirun), glossary spelling."
+  },
+  {
+   "id": "pf_alt/200",
+   "en": "You're pretty good yourself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/201",
+   "en": "I can do that much too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/210",
+   "en": "This is getting dangerous!",
+   "flags": [],
+   "notes": "210-217: lines to the partner."
+  },
+  {
+   "id": "pf_alt/211",
+   "en": "Shouldn't you fall back for now?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/212",
+   "en": "Get it together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/213",
+   "en": "They got you?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/214",
+   "en": "You're kidding! You got shot down?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/215",
+   "en": "Damn it! This is because I wasn't good enough!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/216",
+   "en": "I can't fall behind either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/217",
+   "en": "Whoa! What skill!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1000",
+   "en": "A Konig Monster...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "keenihhi monsutaa; Konig Monster as the glossary/MUF voice lines (no o-umlaut in the font). No context for the tone (stock line in 13 missions)."
+  },
+  {
+   "id": "pf_alt/1001",
+   "en": "This song... Ranka... you...",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has nanka between the pauses; read as Ranka (the MUF clip pf_alt/629 has the same mishearing)."
+  },
+  {
+   "id": "pf_alt/1005",
+   "en": "Idiot! It's dangerous here! Get to a shelter, quick!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1006",
+   "en": "Ranka!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript nanka; read as Ranka (same mishearing as row 3241, episode 1 sequence)."
+  },
+  {
+   "id": "pf_alt/1007",
+   "en": "Stay still!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript jikkou shite ro ('keep executing'); read as jitto shite ro ('stay still')."
+  },
+  {
+   "id": "pf_alt/1008",
+   "en": "I can do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1009",
+   "en": "Armored?!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript amado; read as aamaado (Armored Pack), as in row 3250. No context to confirm."
+  },
+  {
+   "id": "pf_alt/1010",
+   "en": "I-I'm... Never mind that, what the hell is this monster?! Why?!",
+   "flags": [],
+   "notes": "Longer take of pf_alt/600 ('What the hell is this monster?! Why?!')."
+  },
+  {
+   "id": "pf_alt/1011",
+   "en": "I'll beat your record in no time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1012",
+   "en": "Damn you! You cranked up the enemy difficulty!",
+   "flags": [],
+   "notes": "Simulator training (Michel runs it, pf_mcl/1000)."
+  },
+  {
+   "id": "pf_alt/1013",
+   "en": "In that heavy Armored Pack...",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript amado; read as aamaado (Armored), Alto chasing an Armored Valkyrie in the Galaxy rescue. Unfinished sentence continues in row 3251."
+  },
+  {
+   "id": "pf_alt/1014",
+   "en": "Like I'll just sit back and fall behind!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript hanasarete damaru ka yo; possibly hanasarete tamaru ka yo ('no way I'm falling behind'); both give this sense."
+  },
+  {
+   "id": "pf_alt/1015",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Battle shout (haa!)."
+  },
+  {
+   "id": "pf_alt/1016",
+   "en": "That's Sheryl's concert venue!",
+   "flags": [],
+   "notes": "raibu = concert (terms.json)."
+  },
+  {
+   "id": "pf_alt/1017",
+   "en": "You'll get killed!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript only shinu! (low confidence); read as a warning (shinu zo!). Could be Alto about himself ('I'll die!')."
+  },
+  {
+   "id": "pf_alt/1018",
+   "en": "Stop it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1019",
+   "en": "Ranka!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1020",
+   "en": "Damn Vajra! Why Ranka?!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript doushite nanka wo; read as doushite Ranka wo."
+  },
+  {
+   "id": "pf_alt/1021",
+   "en": "Backup? Antares 1?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript antarusu wante; read as Antares 1 (callsign as py_blr/001)."
+  },
+  {
+   "id": "pf_alt/1022",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1023",
+   "en": "Ranka!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript rakkaa; read as Ranka."
+  },
+  {
+   "id": "pf_alt/1024",
+   "en": "Warrant Officer Alto Saotome, S.M.S. Skull Squadron, to Antares 1. Thank you for your support.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript juin read as jun'i (Warrant Officer, Alto's S.M.S. rank as I recall it, not in the glossary); kikan ('engine') read as kikan ('you', to an officer)."
+  },
+  {
+   "id": "pf_alt/1030",
+   "en": "Let's wrap this up fast.",
+   "flags": [],
+   "notes": "1030-1039: mock battle with Michel."
+  },
+  {
+   "id": "pf_alt/1031",
+   "en": "Why do I have to do this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1032",
+   "en": "That should do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1033",
+   "en": "That much should be plenty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1034",
+   "en": "Just so you know, I won't hold back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1035",
+   "en": "What?! Quit screwing around!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1036",
+   "en": "Next time, we settle this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1037",
+   "en": "I was so close...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1038",
+   "en": "I win, Michel!",
+   "flags": [],
+   "notes": "The Japanese says Misheru: 'Michel' per the glossary. Existing pf_alt lines in voice.json write 'Michael' for Misheru."
+  },
+  {
+   "id": "pf_alt/1039",
+   "en": "I've still got a long way to go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_alt/1100",
+   "en": "Sheryl, Ranka, you both explained things well.",
+   "flags": [],
+   "notes": "1100-1103: end of tutorial MT_050, Alto as the student of Sheryl and Ranka (12 tutorial lessons)."
+  },
+  {
+   "id": "pf_alt/1101",
+   "en": "But I understood nine of your explanations. The other three... sorry.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcript 9-tsu made rikai dekita kedo, 3-tsu wa; taken literally (12 tutorials MT_010-MT_050)."
+  },
+  {
+   "id": "pf_alt/1102",
+   "en": "Huh? But I missed the important explanations...",
+   "flags": [],
+   "notes": "Trails off in the Japanese."
+  },
+  {
+   "id": "pf_alt/1103",
+   "en": "So I just need to hear the explanations again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/000",
+   "en": "Well, looks like it's my turn to shine.",
+   "flags": [],
+   "notes": "Bobby: feminine, flamboyant register (onee-kotoba) in the calm lines, rough in battle shouts."
+  },
+  {
+   "id": "pf_bob/001",
+   "en": "Here we gooo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/002",
+   "en": "The battlefield is calling for me, darling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/003",
+   "en": "Too soft!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/004",
+   "en": "Too slow!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3240 (pf_alt/1000): keenihhi monsutaa; Konig Monster as the glossary/MUF voice lines (no o-umlaut in the font). No context for the tone (stock line in 13 missions).",
+   "row 3246 (pf_alt/1009): Transcript amado; read as aamaado (Armored Pack), as in row 3250. No context to confirm.",
+   "row 3250 (pf_alt/1013): Transcript amado; read as aamaado (Armored), Alto chasing an Armored Valkyrie in the Galaxy rescue. Unfinished sentence continues in row 3251.",
+   "row 3254 (pf_alt/1017): Transcript only shinu! (low confidence); read as a warning (shinu zo!). Could be Alto about himself ('I'll die!').",
+   "row 3261 (pf_alt/1024): Transcript juin read as jun'i (Warrant Officer, Alto's S.M.S. rank as I recall it, not in the glossary); kikan ('engine') read as kikan ('you', to an officer).",
+   "row 3273 (pf_alt/1101): Transcript 9-tsu made rikai dekita kedo, 3-tsu wa; taken literally (12 tutorials MT_010-MT_050)."
+  ],
+  "whisper_doubt": [
+   "row 3229 (p7_exd/1603): Transcript has purotodebiru; read as Protodeviln (purotodebirun), glossary spelling.",
+   "row 3241 (pf_alt/1001): Transcript has nanka between the pauses; read as Ranka (the MUF clip pf_alt/629 has the same mishearing).",
+   "row 3243 (pf_alt/1006): Transcript nanka; read as Ranka (same mishearing as row 3241, episode 1 sequence).",
+   "row 3244 (pf_alt/1007): Transcript jikkou shite ro ('keep executing'); read as jitto shite ro ('stay still').",
+   "row 3246 (pf_alt/1009): Transcript amado; read as aamaado (Armored Pack), as in row 3250. No context to confirm.",
+   "row 3250 (pf_alt/1013): Transcript amado; read as aamaado (Armored), Alto chasing an Armored Valkyrie in the Galaxy rescue. Unfinished sentence continues in row 3251.",
+   "row 3251 (pf_alt/1014): Transcript hanasarete damaru ka yo; possibly hanasarete tamaru ka yo ('no way I'm falling behind'); both give this sense.",
+   "row 3254 (pf_alt/1017): Transcript only shinu! (low confidence); read as a warning (shinu zo!). Could be Alto about himself ('I'll die!').",
+   "row 3257 (pf_alt/1020): Transcript doushite nanka wo; read as doushite Ranka wo.",
+   "row 3258 (pf_alt/1021): Transcript antarusu wante; read as Antares 1 (callsign as py_blr/001).",
+   "row 3260 (pf_alt/1023): Transcript rakkaa; read as Ranka.",
+   "row 3261 (pf_alt/1024): Transcript juin read as jun'i (Warrant Officer, Alto's S.M.S. rank as I recall it, not in the glossary); kikan ('engine') read as kikan ('you', to an officer)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Alto's S.M.S. rank (jun'i, read as Warrant Officer in row 3261): not in characters.json; please confirm."
+  ],
+  "unfinished": []
+ }
+}

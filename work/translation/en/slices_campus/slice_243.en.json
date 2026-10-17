@@ -1,0 +1,393 @@
+{
+ "slice": 243,
+ "rows_in_slice": 63,
+ "rows_examined": 63,
+ "rows": [
+  {
+   "id": "c17604",
+   "en": "(So, what kind of clothes should I buy\nin the Shibuya Area today? There are so many\nshops, it's hard to choose...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17605",
+   "en": "(Wait, is that Luis-san\ncoming out of that shop?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17606",
+   "en": "Luis-saaan!",
+   "flags": [],
+   "notes": "Shared with nml_lis_020 (both genders)."
+  },
+  {
+   "id": "c17607",
+   "en": "Hm? If it isn't Fresh Boy.\nWhat are you doing here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17608",
+   "en": "I'm just doing a little shopping today...\nYou came out of a clothing store, Luis-san.\nWhat did you buy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17609",
+   "en": "Just a couple of slick T-shirts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17610",
+   "en": "Like this zebra-print T-shirt,\nor this one with a tiger printed on it...\nThey're slick as heck, right?",
+   "flags": [],
+   "notes": "zeburaa-gara: Luis's drawn-out 'zebra'; rendered plainly as zebra-print."
+  },
+  {
+   "id": "c17611",
+   "en": "Next time, I'll pick out one that'd suit you,\nso look forward to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17612",
+   "en": "Thank you very much...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17613",
+   "en": "Well, see ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17614",
+   "en": "(No matter what T-shirt Luis-san gives me,\nI'd better actually wear it, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17615",
+   "en": "(So, what kind of clothes should I buy\nin the Shibuya Area today? There are so many\nshops, it's hard to choose...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17616",
+   "en": "Hm? If it isn't Fresh Girl.\nWhat are you doing here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17617",
+   "en": "(No matter what T-shirt Luis-san gives me,\nI'd better actually wear it, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17618",
+   "en": "(Hmm, Luis-san's always like that,\nso I can't picture him ever being flustered...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17619",
+   "en": "(Oh, it's Luis-san.\nPerfect timing...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17620",
+   "en": "Hm? You need somethin' from me, Fresh Boy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17621",
+   "en": "This is out of the blue, but...\nLuis-san, is there anything\nyou can't stand?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17622",
+   "en": "Whoa, whoa, young man...\nIf you think I'd hand over my weak point\nthat easily, you're way too naive, y'know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17623",
+   "en": "Oh, right, of course...\nSorry for asking something weird.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17624",
+   "en": "Tch, you got that right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17625",
+   "en": "Just so you know, I don't tell this to just anybody.\nI'm telling you 'cause it's you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17626",
+   "en": "(Oh, he's going to tell me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17627",
+   "en": "Even a man who loves all humanity like me\njust can't love octopuses or slimy critters,\nsad to say...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17628",
+   "en": "Don't tell anyone, Fresh Boy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17629",
+   "en": "Listen... Don't you ever, EVER\ntell anyone!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17630",
+   "en": "Do you really get it? Listen, never ever......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17631",
+   "en": "(If he's gonna warn me that relentlessly,\nI wish I'd never asked in the first place...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17632",
+   "en": "(Hmm, Luis-san's always like that,\nso I can't picture him ever being flustered...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17633",
+   "en": "Hm? You need somethin' from me, Fresh Girl?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17634",
+   "en": "Whoa, whoa...\nIf you think I'd hand over my weak point\nthat easily, you're way too naive, y'know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17635",
+   "en": "(Oh, he's going to tell me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17636",
+   "en": "Don't tell anyone, Fresh Girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17637",
+   "en": "(If he's gonna warn me that relentlessly,\nI wish I'd never asked in the first place...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17638",
+   "en": "(Huh? The one running on the field is...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17639",
+   "en": "(Luis-san?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17640",
+   "en": "Luis-saaan!\nWhat are you doing here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17641",
+   "en": "Yo, if it isn't Fresh Boy.\nOh, I'm just doing my daily training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17642",
+   "en": "(I don't think he needs to sneak\ninto the school to do it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17643",
+   "en": "If I slack off on my training,\nmy precious muscles'll get sad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17644",
+   "en": "All right, you're training with me!\nAnd fire up those muscles! That passion!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17645",
+   "en": "Huh? Um, no, I already had\nHilda-sensei's class today, so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17646",
+   "en": "Then let's go!\nFollow me, Fresh Boy!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17647",
+   "en": "(Somehow it's already been decided\nthat I'm joining his training...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17648",
+   "en": "Hurry up! I'll leave you in the dust!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17649",
+   "en": "(Oh well...\nGuess I'll keep Luis-san company\nfor his training.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17650",
+   "en": "Yo, if it isn't Fresh Girl.\nOh, I'm just doing my daily training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17651",
+   "en": "Huh? Um, no, I already had\nHilda-sensei's class today, so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17652",
+   "en": "Then let's go!\nFollow me, Fresh Girl!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17653",
+   "en": "(Somehow it's already been decided\nthat I'm joining his training...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17654",
+   "en": "(Oh well...\nGuess I'll keep Luis-san company\nfor his training...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17655",
+   "en": "\\p-san,\nwhat are you up to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17656",
+   "en": "I was bored, so I went for a walk.\nWhat about you, Luca?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17657",
+   "en": "I just got back from a trip.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17658",
+   "en": "A trip, huh~\nSounds like you're having a great summer break.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17659",
+   "en": "N-Not really...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17660",
+   "en": "All I'm doing is loafing around.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17661",
+   "en": "Ahaha...\nWell then, I'll be heading home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17662",
+   "en": "(...Guess I'll head home too.)",
+   "flags": [],
+   "notes": "Shared with nml_rnk_001."
+  },
+  {
+   "id": "c17663",
+   "en": "I was bored, so I went for a walk.\nWhat about you, Luca-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17664",
+   "en": "A trip, huh~\nSounds like you're having a great summer break.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17665",
+   "en": "All I'm doing is goofing off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17666",
+   "en": "(...Guess I'll head home too.)",
+   "flags": [],
+   "notes": "Shared with nml_rnk_001."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c17621: nigate na mono 'anything you're bad with' rendered 'anything you can't stand', since his answer is octopus and slimy creatures."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

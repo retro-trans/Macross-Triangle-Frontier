@@ -1,0 +1,483 @@
+{
+ "slice": 213,
+ "rows_in_slice": 77,
+ "rows_examined": 77,
+ "rows": [
+  {
+   "id": "c15569",
+   "en": "(Sheryl's concert is coming up soon!)",
+   "flags": [],
+   "notes": "Male; nml_alt_002. raibu = concert (glossary)."
+  },
+  {
+   "id": "c15570",
+   "en": "What's up with you, \\p?\nYou're grinning like an idiot. Get a grip.",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15571",
+   "en": "Nah, I was just thinking Sheryl's concert\nis coming up soon...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15572",
+   "en": "Yeah, true. But we'll be there as staff, right?\nI doubt we'll get to enjoy it much.",
+   "flags": [],
+   "notes": "x2, Alto, both genders; the students work the concert."
+  },
+  {
+   "id": "c15573",
+   "en": "But that means we get closer than the audience,\nright?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15574",
+   "en": "Well, sure, but... I'm not interested.",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15575",
+   "en": "...Figures...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15576",
+   "en": "Well, let's both try not to screw up!",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15577",
+   "en": "(Alto really isn't interested, huh...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15578",
+   "en": "(Sheryl's concert is coming up soon!)",
+   "flags": [],
+   "notes": "Female; she says Sheryl without -san here, as in the Japanese."
+  },
+  {
+   "id": "c15579",
+   "en": "Oh, I was just thinking Sheryl's concert\nis coming up soon...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15580",
+   "en": "But that means we get closer than the audience,\ndon't we?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15581",
+   "en": "...Yeah, I figured~...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15582",
+   "en": "(Saotome-kun really isn't interested, huh...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15583",
+   "en": "(Looks like they've found a new planet.)",
+   "flags": [],
+   "notes": "Male; nml_alt_003."
+  },
+  {
+   "id": "c15584",
+   "en": "\\p, what's with that look?",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15585",
+   "en": "Nah, I was just thinking... they've found\nour new planet...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15586",
+   "en": "Yeah... A new planet, huh...\nIt doesn't feel real yet...",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15587",
+   "en": "We've lived on Frontier our whole lives, after all.\nStill... I'm looking forward to our new planet.",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15588",
+   "en": "Which means... we've got a lot of work\nto do, huh...",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15589",
+   "en": "(He's excited, but I bet he's anxious too.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male; 'kitto' reads as a guess about Alto's feelings after his hesitant line."
+  },
+  {
+   "id": "c15590",
+   "en": "(Looks like they've found a new planet...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15591",
+   "en": "Oh, I was just thinking... they've found\nour new planet...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15592",
+   "en": "(He's excited, but I bet he's anxious too.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female; as c15589."
+  },
+  {
+   "id": "c15593",
+   "en": "(I woke up really early for some reason...)",
+   "flags": [],
+   "notes": "Male; nml_alt_004."
+  },
+  {
+   "id": "c15594",
+   "en": "Hey, \\p.\nWhat's up? What are you doing out at this hour?",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15595",
+   "en": "Huh? Alto?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15596",
+   "en": "Yeah, I came out for a breath of morning air...\nEven inside a ship, the air's cleaner\nin the morning.",
+   "flags": [],
+   "notes": "x2, Alto, both genders; kan = ship (Frontier fleet)."
+  },
+  {
+   "id": "c15597",
+   "en": "I see. Yeah, that makes sense.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15598",
+   "en": "Yeah. If I could fly at this hour, it might feel\na little better than usual.",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15599",
+   "en": "Yeah, you might be right.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15600",
+   "en": "(Who'd have thought I'd run into Alto\nthis early in the morning?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15601",
+   "en": "(I woke up really early for some reason...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15602",
+   "en": "Huh? Saotome-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15603",
+   "en": "I see. Yeah, that makes sense.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15604",
+   "en": "Yeah, you might be right.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15605",
+   "en": "(Who'd have thought I'd run into Saotome-kun\nthis early in the morning?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15606",
+   "en": "(The last battle did this much damage\nto the city...)",
+   "flags": [],
+   "notes": "x2, player, both genders; nml_alt_005."
+  },
+  {
+   "id": "c15607",
+   "en": "Dammit, I never thought it'd come to this...",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15608",
+   "en": "We should have... I should have\nprotected this place...",
+   "flags": [],
+   "notes": "x2, Alto, both genders; object (the city) restored as 'this place'."
+  },
+  {
+   "id": "c15609",
+   "en": "Don't beat yourself up like that...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15610",
+   "en": "I won't let them do any more...\nI won't let them!",
+   "flags": [],
+   "notes": "x2, Alto, both genders; 'them' = the attackers, unnamed in the Japanese."
+  },
+  {
+   "id": "c15611",
+   "en": "...Yeah.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15612",
+   "en": "(I have to protect the city... and everyone...)",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c15613",
+   "en": "Don't beat yourself up like that...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15614",
+   "en": "...Yeah, you're right.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15615",
+   "en": "(Phew, I somehow made it through the tests...)",
+   "flags": [],
+   "notes": "Male; nml_alt_006."
+  },
+  {
+   "id": "c15616",
+   "en": "\\p.\nWhat's wrong? Why are you so wiped out?",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15617",
+   "en": "The tests are finally over,\nso I'm running on empty...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15618",
+   "en": "Geez, if you're like this already,\nI worry about you.",
+   "flags": [],
+   "notes": "x2, Alto, both genders; 'saki ga omoiyarareru'."
+  },
+  {
+   "id": "c15619",
+   "en": "So how about you, Alto? How'd your tests go?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15620",
+   "en": "Hm, well, average. Not bad, I think...",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15621",
+   "en": "That's what a confident guy would say...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15622",
+   "en": "(Alto talks like that, but his grades are\nactually pretty good.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15623",
+   "en": "(Phew, I somehow made it through the tests...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15624",
+   "en": "Yeah, the tests are finally over,\nso I'm running on empty...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15625",
+   "en": "So how about you, Saotome-kun?\nHow'd your tests go?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15626",
+   "en": "Aah, that's what a confident person would say...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15627",
+   "en": "(Saotome-kun talks like that, but his grades\nare actually pretty good.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15628",
+   "en": "(Whoa, I went to the wrong classroom!\nI've gotta hurry!)",
+   "flags": [],
+   "notes": "Male; nml_alt_007, changing rooms between classes."
+  },
+  {
+   "id": "c15629",
+   "en": "Agh!",
+   "flags": [],
+   "notes": "x2, Alto, both genders; follows the player's 'Whoa!' (c01769) on the collision."
+  },
+  {
+   "id": "c15630",
+   "en": "S-sorry, Alto.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15631",
+   "en": "No, I wasn't watching where I was going either.\nSorry.",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c15632",
+   "en": "Looks like you're... not hurt or anything...",
+   "flags": [],
+   "notes": "Male; Alto's reply shows the line is about him."
+  },
+  {
+   "id": "c15633",
+   "en": "Of course not. If I got hurt over something\nthis small, I'd never cut it in the Pilot Course.",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c15634",
+   "en": "Ahaha...\nAh!? I've gotta hurry!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15635",
+   "en": "Crap!",
+   "flags": [],
+   "notes": "x2, Alto, both genders; yabee."
+  },
+  {
+   "id": "c15636",
+   "en": "(Alto's sturdier than he looks.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15637",
+   "en": "(Eek, I went to the wrong classroom!\nI've gotta hurry!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15638",
+   "en": "Eek!",
+   "flags": [],
+   "notes": "x16: female player, Claire, Hilda, Shirakawa, Nanase, Sheryl, Akimizu (both genders); a short shriek fits all."
+  },
+  {
+   "id": "c15639",
+   "en": "Oh, sorry, Saotome-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15640",
+   "en": "No, I wasn't watching where I was going either.\nSorry. More importantly, are you okay?",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c15641",
+   "en": "Yeah, I'm totally fine, but...",
+   "flags": [],
+   "notes": "Female; trails off (implies 'what about you?')."
+  },
+  {
+   "id": "c15642",
+   "en": "Well, if I got hurt over something this small,\nI'd never cut it in the Pilot Course.",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c15643",
+   "en": "Yeah, that's true.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15644",
+   "en": "Ahaha...\nAh!? Oh right, I've gotta hurry!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15645",
+   "en": "(Saotome-kun's sturdier than he looks.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c15589/c15592: 'tanoshisa mo aru kedo fuan mo aru n da yo na, kitto' read as the player guessing Alto's feelings ('He's excited, but I bet he's anxious too'); could also be a general remark about everyone.",
+   "c15608: object of 'mamoranai to' (the city) restored as 'this place'.",
+   "c15629: Alto's 'uwa!' rendered 'Agh!' to avoid two 'Whoa!' in a row (the player's c01769 is 'Whoa!')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

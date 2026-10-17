@@ -1,0 +1,381 @@
+{
+ "slice": 128,
+ "rows_in_slice": 61,
+ "rows_examined": 61,
+ "rows": [
+  {
+   "id": "c09416",
+   "en": "(Today I came shopping with Luca.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09417",
+   "en": "Sorry to keep you waiting,\n\\p-san.",
+   "flags": [],
+   "notes": "x10, also Shirakawa to the female player in several frd_myk scenes."
+  },
+  {
+   "id": "c09418",
+   "en": "I just got here myself.",
+   "flags": [],
+   "notes": "x7, male player in frd_luk/myk/rnk scenes."
+  },
+  {
+   "id": "c09419",
+   "en": "That's a relief.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09420",
+   "en": "Shall we get going, then?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09421",
+   "en": "I sure bought a lot...\nYou must've spent a lot of money too, Luca...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09422",
+   "en": "Ahahaha...\nI'll have to save up for a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09423",
+   "en": "Mm-hm...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09424",
+   "en": "Well then, let's head home for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09425",
+   "en": "(Today I came shopping with Luca-kun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09426",
+   "en": "I just got here too.",
+   "flags": [],
+   "notes": "Also female player in frd_myk_104."
+  },
+  {
+   "id": "c09427",
+   "en": "I sure bought a lot...\nYou must've spent a lot of money too,\ndidn't you, Luca-kun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09428",
+   "en": "(I came shopping with Luca again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09429",
+   "en": "You're late,\n\\p-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09430",
+   "en": "Sorry, sorry, I overslept...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09431",
+   "en": "Don't worry about it.\nI haven't been waiting that long.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09432",
+   "en": "I bought a ton of stuff again...\nYou must've spent a lot of money too, Luca...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09433",
+   "en": "Ahahaha...\nI really have to start saving now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09434",
+   "en": "Guess I can't waste any money for a while...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09435",
+   "en": "(I came shopping with Luca-kun again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09436",
+   "en": "Sorry, sorry, I overslept...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09437",
+   "en": "I bought a ton of stuff again...\nYou must've spent a lot of money too,\ndidn't you, Luca-kun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09438",
+   "en": "I can't waste any money for a while...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09439",
+   "en": "(Today I came to the artificial island\nwith Luca.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09440",
+   "en": "You're late,\n\\p-san!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09441",
+   "en": "You're awfully fired up, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09442",
+   "en": "N-not really, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09443",
+   "en": "You're plotting to hit on girls, huh?\nI'm gonna rat you out to Nanase next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09444",
+   "en": "Of c-course not!?\nAnd why are you bringing Nanase-san into this!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09445",
+   "en": "Come on, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09446",
+   "en": "Hey, are you even listening!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09447",
+   "en": "Phew, we had fun all day again today.",
+   "flags": [],
+   "notes": "Used in both male visits (first and second); 'again' follows the Japanese kyou mo."
+  },
+  {
+   "id": "c09448",
+   "en": "\\p-san, you were\ngoing way overboard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09449",
+   "en": "Like you're one to talk, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09450",
+   "en": "I-I wasn't that bad...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09451",
+   "en": "Sigh, guess it's about time we headed home...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09452",
+   "en": "(Today I came to the artificial island\nwith Luca-kun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09453",
+   "en": "A girl needs time to get ready, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09454",
+   "en": "Anyway, you're awfully fired up, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09455",
+   "en": "Ah-ha... You're plotting to hit on girls, right?\nI'll tell Nanase about it next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09456",
+   "en": "Okay then, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09457",
+   "en": "We spent the whole day having fun again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09458",
+   "en": "Like you're one to talk, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09459",
+   "en": "...Shall we head home soon...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09460",
+   "en": "(I came to the artificial island\nwith Luca again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09461",
+   "en": "You're late~\n\\p-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09462",
+   "en": "You're fired up again today, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09463",
+   "en": "Out for revenge after last time's girl-hunting?\nDon't worry, I won't tell Nanase...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09464",
+   "en": "Revenge or not, I never tried\nto hit on anyone...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09465",
+   "en": "Hahaha, don't be shy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09466",
+   "en": "I'm exhausted...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09467",
+   "en": "But hanging out like this is nice\nonce in a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09468",
+   "en": "(I came to the artificial island\nwith Luca-kun again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09469",
+   "en": "I got tired of waiting,\n\\p-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09470",
+   "en": "You're all fired up again today~, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09471",
+   "en": "Out for revenge after last time's girl-hunting?\nDon't worry, I won't tell Nanase...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09472",
+   "en": "Revenge or not, I never tried\nto hit on anyone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09473",
+   "en": "Hehehe, don't be shy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09474",
+   "en": "Phew~ we had fun all day again today~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09475",
+   "en": "But hanging out like this is nice\nonce in a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09476",
+   "en": "Well then, shall we head home?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c09443/c09455/c09463/c09471: nanpa rendered 'hit on girls' / 'girl-hunting'; the female player also says 'hit on girls' (Luca is the one teased)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

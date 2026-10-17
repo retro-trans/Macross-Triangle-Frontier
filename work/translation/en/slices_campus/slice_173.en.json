@@ -1,0 +1,498 @@
+{
+ "slice": 173,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c12669",
+   "en": "(Ranka and I made plans to hang out today, but...)",
+   "flags": [],
+   "notes": "Male, frd_rnk_002."
+  },
+  {
+   "id": "c12670",
+   "en": "(I wonder what happened. She's late...)",
+   "flags": [],
+   "notes": "Player, both genders; she = Ranka."
+  },
+  {
+   "id": "c12671",
+   "en": "*pant, pant*...\nI-I'm so sorry, I'm late again!",
+   "flags": [],
+   "notes": "Ranka, both genders (also late in frd_rnk_001)."
+  },
+  {
+   "id": "c12672",
+   "en": "It's fine, I haven't been waiting that long.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12673",
+   "en": "Wait, that outfit...",
+   "flags": [],
+   "notes": "Player, both genders; Ranka is in her Nyan-Nyan uniform."
+  },
+  {
+   "id": "c12674",
+   "en": "Yes... I was working at Nyan-Nyan until just now,\nbut a lot of people are off today...\nActually, I have to go back and help after this...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12675",
+   "en": "So that means today...",
+   "flags": [],
+   "notes": "Player, both genders; trails off."
+  },
+  {
+   "id": "c12676",
+   "en": "I-I'm so sorry!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12677",
+   "en": "I see. Well, that's too bad, but it can't be helped.\nYou could've just called me, though.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12678",
+   "en": "No, I felt I should at least\ntell you in person...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12679",
+   "en": "I see. Thanks for coming all this way to tell me.",
+   "flags": [],
+   "notes": "Male (wazawaza)."
+  },
+  {
+   "id": "c12680",
+   "en": "Well then, I'll get back to work!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12681",
+   "en": "Ah! Wait a sec!",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12682",
+   "en": "Yes? What is it?",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12683",
+   "en": "If you want, I'll help out\nat your job too.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12684",
+   "en": "I'm free anyway.\nAnd it's been a while since I went to Nyan-Nyan.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12685",
+   "en": "No, but...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12686",
+   "en": "If it's not a bother, that is...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12687",
+   "en": "It's no bother at all!\nThen I'll take you up on it!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12688",
+   "en": "\\p-kun, thanks for all your hard work!",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c12689",
+   "en": "Wow~, Nyan-Nyan sure is popular.\nIt was way more than I expected...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12690",
+   "en": "Yes, it's always busy,\nand when people take the day off on top of that,\nit ends up like this...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12691",
+   "en": "Well, anyway, great work today.",
+   "flags": [],
+   "notes": "Player, both genders, to Ranka."
+  },
+  {
+   "id": "c12692",
+   "en": "Oh, that's right!\nHere, a thank-you for today: \"maguro buns\"!",
+   "flags": [],
+   "notes": "Ranka, both genders. Glossary maguro bun."
+  },
+  {
+   "id": "c12693",
+   "en": "Wow, thank you!",
+   "flags": [],
+   "notes": "Player, both genders; as c22941."
+  },
+  {
+   "id": "c12694",
+   "en": "No, thank YOU for helping\nme out with work!",
+   "flags": [],
+   "notes": "Ranka, both genders (kochira koso)."
+  },
+  {
+   "id": "c12695",
+   "en": "Nah, it was my first time, but it was fun.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12696",
+   "en": "Next time, come as a customer, okay?\nI'll give you extra-special service!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12697",
+   "en": "Ahahaha, thanks!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12698",
+   "en": "(It was way harder than I expected,\nbut it was fun.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12699",
+   "en": "(Ranka-chan and I made plans\nto hang out today, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12700",
+   "en": "It's fine, I haven't been waiting that long.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12701",
+   "en": "I see. Well, that's too bad, but it can't be helped.\nYou could've just called me, though.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12702",
+   "en": "I see. Thanks for coming all this way to tell me.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12703",
+   "en": "If you want, I'll help out\nat your job too.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12704",
+   "en": "I'm free anyway, and I thought it'd be nice\nto go to Nyan-Nyan after so long.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12705",
+   "en": "\\p-chan, great work today!",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c12706",
+   "en": "Wow~, Nyan-Nyan sure is popular.\nIt might've been more than I expected...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12707",
+   "en": "Nah, it was my first time, but it was really fun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12708",
+   "en": "Yeah, I'll come as a customer next time!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12709",
+   "en": "(It was way harder than I expected,\nbut it was fun~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12710",
+   "en": "(Ranka and I are going out to have fun today.\nWhere should we go?)",
+   "flags": [],
+   "notes": "Male, frd_rnk_002 second visit."
+  },
+  {
+   "id": "c12711",
+   "en": "\\p-kuuun!\nOver here!!",
+   "flags": [],
+   "notes": "Ranka, male (stretched honorific)."
+  },
+  {
+   "id": "c12712",
+   "en": "Ranka, you're here already?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12713",
+   "en": "Yes, I've been really\nlooking forward to today.",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12714",
+   "en": "Hearing you say that makes it worth inviting you.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12715",
+   "en": "So, where are we going to have fun today?",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12716",
+   "en": "Phew~\nWe really played our hearts out, huh?",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12717",
+   "en": "Yeah, I'm totally wiped out.",
+   "flags": [],
+   "notes": "Male; cf. c11232."
+  },
+  {
+   "id": "c12718",
+   "en": "Ahaha, you're such a wimp!",
+   "flags": [],
+   "notes": "Ranka, both genders (darashi ga nai)."
+  },
+  {
+   "id": "c12719",
+   "en": "(Hanging out with Ranka all day\nwas a nice change of pace.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12720",
+   "en": "(Ranka-chan and I are going out to have fun today.\nWhere should we go?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12721",
+   "en": "\\p-chaaan!\nOver here!!",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c12722",
+   "en": "Ranka-chan, you're here already?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12723",
+   "en": "Hearing you say that makes it worth inviting you.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12724",
+   "en": "Yeah, my legs are killing me.",
+   "flags": [],
+   "notes": "Female (ashi ga panpan)."
+  },
+  {
+   "id": "c12725",
+   "en": "Well then, shall we head home~?",
+   "flags": [],
+   "notes": "Female; cf. c01795."
+  },
+  {
+   "id": "c12726",
+   "en": "(Hanging out with Ranka-chan all day\nwas a nice change of pace.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12727",
+   "en": "(Today Ranka and I came to Island 3 to have fun!)",
+   "flags": [],
+   "notes": "Male, frd_rnk_003."
+  },
+  {
+   "id": "c12728",
+   "en": "This soft serve is so good~!",
+   "flags": [],
+   "notes": "Ranka, both genders. Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c12729",
+   "en": "Apparently they make it with\nfresh hippo-cow milk.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12730",
+   "en": "You can't get this taste anywhere but here!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12731",
+   "en": "I wonder where the hippo-cows are?",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12732",
+   "en": "It's a bit of a walk, but do you want to go see them?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12733",
+   "en": "Alright, let's go check them out!",
+   "flags": [],
+   "notes": "Male, after Ranka's 'Yes!'."
+  },
+  {
+   "id": "c12734",
+   "en": "Wow! Zentradi people are raising them!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12735",
+   "en": "They're huge...",
+   "flags": [],
+   "notes": "Male; 'they' covers the hippo-cows or the Zentradi keepers (Japanese has no subject)."
+  },
+  {
+   "id": "c12736",
+   "en": "Let's go see!",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c12737",
+   "en": "Huh? Well, um, hmm...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12738",
+   "en": "You've totally got to see them up close!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12739",
+   "en": "Okay, okay.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12740",
+   "en": "Hey, hey!\nIts big round eyes are gazing at me!\n\\p-kun! Isn't it cute?!",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c12741",
+   "en": "It's so cute~\nI want to keep one~!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12742",
+   "en": "I think feeding it would cost a fortune...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12743",
+   "en": "I'll just cut down on Big Bro's meals,\nso it'll be fine.",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12744",
+   "en": "Whaaat?!",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12745",
+   "en": "Come on, \\p-kun!!\nLet's play with Mr. Hippo-cow some more!!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ranka, male. kabaushi-kun rendered 'Mr. Hippo-cow' (affectionate suffix on an animal, not a name)."
+  },
+  {
+   "id": "c12746",
+   "en": "Haah~, today was so much fun!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12747",
+   "en": "Hearing you say that makes it worth inviting you.",
+   "flags": [],
+   "notes": "Male; same wording as c12714."
+  },
+  {
+   "id": "c12748",
+   "en": "Ah?! Look at the time...\nBig Bro will worry,\nso I'll head home now!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c12745: Ranka's kabaushi-kun (honorific on an animal, not a person's name) rendered 'Mr. Hippo-cow'; the female twin (c12758) and kabaushi-san (c12767) in slice 174 do the same. If the honorific rule should cover animals too, it would be 'hippo-cow-kun' / 'hippo-cow-san'.",
+   "c12735: 'They're huge...' with no subject in the Japanese; it follows Ranka's line about Zentradi keepers raising the hippo-cows, so 'they' fits either."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

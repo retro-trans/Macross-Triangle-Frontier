@@ -1,0 +1,451 @@
+{
+ "slice": 105,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c07731",
+   "en": "Wait, geez, Klan-senpai,\nyou've got food all around your mouth...\nI'll wipe it off, so lean in a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07732",
+   "en": "Oh, how thoughtful of you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07733",
+   "en": "Don't \"how thoughtful\" me.\nAh, you splashed soup on your clothes too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07734",
+   "en": "Whoa! When did that happen?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07735",
+   "en": "(Klan-senpai really doesn't look\nolder than me at all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07736",
+   "en": "Ahh, that hit the spot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07737",
+   "en": "That was delicious, wasn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07738",
+   "en": "Mm, it certainly was.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07739",
+   "en": "Thanks for the treat today, Klan-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07740",
+   "en": "Mm. See you around.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07741",
+   "en": "(Hmm, I shouldn't say this after she treated me,\nbut Klan-senpai's childish on the inside too,\nnot just in her looks...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07742",
+   "en": "(Sometimes I just get this craving\nfor Nyan-Nyan's Galaxy Ramen.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07743",
+   "en": "(Aah~ Just thinking about it\nis making me hungry...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07744",
+   "en": "Are you here to eat at Nyan-Nyan too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07745",
+   "en": "(Treating me to a meal...\nThat's Klan-senpai for you.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07746",
+   "en": "(Klan-senpai really doesn't look\nolder than me at all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07747",
+   "en": "(Hmm, I shouldn't say this after she treated me,\nbut Klan-senpai's childish on the inside too,\nnot just in her looks...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07748",
+   "en": "(I think I'll have lunch at Nyan-Nyan\ntoday.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07749",
+   "en": "(Huh? Who's that coming out\nof Nyan-Nyan...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07750",
+   "en": "Hm? If it isn't \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07751",
+   "en": "Hello, Klan-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07752",
+   "en": "Mm, a fine greeting.\nAre you here for lunch at Nyan-Nyan too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07753",
+   "en": "I just finished eating myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07754",
+   "en": "Oh, that's right, I have something to do\nafter this. Sorry, but I'll be taking\nmy leave for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07755",
+   "en": "Okay, see you later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07756",
+   "en": "(Too bad I couldn't eat with Klan-senpai\ntoday. Oh well, I'll go enjoy a meal\nat Nyan-Nyan myself.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07757",
+   "en": "(Too bad I couldn't eat with Klan-senpai\ntoday. Oh well, I'll go enjoy a meal\nat Nyan-Nyan myself.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07758",
+   "en": "(I promised to see a movie with\nKlan-senpai today, but I never asked\nwhich one we're seeing...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07759",
+   "en": "Here before me, are you?\nCommendable, very commendable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07760",
+   "en": "Mm.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07761",
+   "en": "We promised to see a movie today,\nbut which one are we going to see?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07762",
+   "en": "That film they call a masterpiece,\n\"Do You Remember Love?\"\nDYRL for short. That's what we're seeing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07763",
+   "en": "Umm... If I remember right, DYRL\nis a movie from decades ago, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07764",
+   "en": "It was first released in 2031,\nbut apparently it's getting\na revival screening.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07765",
+   "en": "Ooh, I've never seen it,\nso I'm looking forward to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07766",
+   "en": "Hm, if we don't get going soon,\nwe'll be late for the showing.\nLet's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07767",
+   "en": "Wow, that was great, wasn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07768",
+   "en": "And at the end, the scene where Minmay\nstarts singing \"Do You Remember Love?\"...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07769",
+   "en": "Wait, are you listening? Klan-senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07770",
+   "en": "The movie certainly was good...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07771",
+   "en": "Right?! And then when Hikaru flew\ninto Boddole Zer's ship......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07772",
+   "en": "...............BUT!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07773",
+   "en": "I am...\nI am not a child, I'm an adult!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07774",
+   "en": "(Oh, right, when we were buying\nthe tickets...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07775",
+   "en": "What was with that clerk?! I clearly said\none adult, and they went and handed me\na child's ticket!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07776",
+   "en": "(Well, I kind of get why, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07777",
+   "en": "Any way you look at it, I am obviously\nan adult! Honestly...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07778",
+   "en": "Now, now, Klan-senpai.\nI know, let's go get some hot dogs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07779",
+   "en": "Grr, I won't stand for thiiis!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07780",
+   "en": "So spiiiiicy!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07781",
+   "en": "Well, of course. You ordered something\nas spicy as the Super Chili-Chili Dog...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07782",
+   "en": "Ugh... I shouldn't have forced myself\nto act all grown-up......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07783",
+   "en": "You can say that again...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07784",
+   "en": "Ugh, so spicy...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07785",
+   "en": "\\p,\nget me a drink! Make it a sweet one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07786",
+   "en": "(Honestly, I think it can't be helped\nthat people mistake you for a kid,\nKlan-senpai...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07787",
+   "en": "(I promised to see a movie with\nKlan-senpai today, but I never asked\nwhich one we're seeing...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07788",
+   "en": "Ooh, I've never seen it,\nso I'm looking forward to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07789",
+   "en": "Wait, are you listening? Klan-senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07790",
+   "en": "(I came to see a movie with\nKlan-senpai again, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07791",
+   "en": "Uuu......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07792",
+   "en": "(Klan-senpai got mistaken for a kid again...\nAnd this time, instead of getting angry\nabout it, she burst into tears...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07793",
+   "en": "\\p...\nIs it really so strange for me\nto want to pay the adult price?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07794",
+   "en": "N-no, not at all!\nYou're right to insist on paying\nthe adult price, Klan-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07795",
+   "en": "That's right.\nI haven't done a single thing wrong,\nhave I?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07796",
+   "en": "(Even so, I can't blame the clerk\nfor mistaking Klan-senpai for a kid...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07797",
+   "en": "Mm. Well, there's no use dwelling\non the past forever.\nLet's go eat some chili dogs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07798",
+   "en": "(I hope she doesn't eat a spicy\nchili dog and cry like last time...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07799",
+   "en": "(Huh?\nAm I turning into Klan-senpai's\nguardian...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07800",
+   "en": "(Klan-senpai got mistaken for a kid again...\nAnd this time, instead of getting angry\nabout it, she burst into tears...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07801",
+   "en": "(Even so, I can't blame the clerk\nfor mistaking Klan-senpai for a kid...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07802",
+   "en": "(Huh?\nAm I turning into Klan-senpai's\nguardian...?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c07762/c07763: Klan's abbreviation 'Ai-Obo' for the film rendered 'DYRL for short' (the usual English short form of Do You Remember Love?); film and song title from terms.json.",
+   "c07771: 'Boddole Zer-kan' rendered 'Boddole Zer's ship'; 'flew into' restored from the film (Hikaru's VF-1 enters the flagship) as the Japanese breaks off after the particle.",
+   "c07775/c07796/c07801: the ticket clerk is not identified, so 'they' / 'the clerk'.",
+   "c07760 'umu' (x4, Klan and Pinon) rendered 'Mm.'; c07791 'uu......' (x6, Klan crying here, Pinon elsewhere) rendered 'Uuu......'.",
+   "c07786: inner monologue addressed to Klan in the Japanese (polite 'omoimasu yo'), kept as 'you'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

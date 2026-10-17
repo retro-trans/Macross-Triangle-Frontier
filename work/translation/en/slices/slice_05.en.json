@@ -1,0 +1,523 @@
+{
+ "slice": 5,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0382",
+   "en": "Destroy the Mardook Mothership",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary: Mardook Mothership (provisional)."
+  },
+  {
+   "id": "u0383",
+   "en": "Defense Target",
+   "flags": [],
+   "notes": "Object label."
+  },
+  {
+   "id": "u0384",
+   "en": "Festival",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0385",
+   "en": "Faerie Leader",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Macross II mission named after the Faerie Squadron (glossary org 'Faerie Squadron', ja alias fearii riidaa; provisional; avoid 'Fairy')."
+  },
+  {
+   "id": "u0386",
+   "en": "Conversion Training: Ground",
+   "flags": [],
+   "notes": "Kishu tenkan kunren = aircraft conversion training (as MUF 'conversion training')."
+  },
+  {
+   "id": "u0387",
+   "en": "Defeat Extra Reinf.",
+   "flags": [],
+   "notes": "Condition; 'Reinf.' as tm u0271 'Defeat All Reinf.'."
+  },
+  {
+   "id": "u0388",
+   "en": "Conversion Training: Air",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0389",
+   "en": "Conversion Training: Sea",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0390",
+   "en": "Conversion Training: Zero-G",
+   "flags": [],
+   "notes": "Zero-G as u0152."
+  },
+  {
+   "id": "u0391",
+   "en": "For Whom Is the Song Spun?",
+   "flags": [],
+   "notes": "Literal title (tsumugu = to spin/weave); no official English found."
+  },
+  {
+   "id": "u0392",
+   "en": "The Galaxy Is Calling Me",
+   "flags": [],
+   "notes": "Macross 7 final episode title; not in glossary missions; common English rendering."
+  },
+  {
+   "id": "u0393",
+   "en": "Support the allied forces",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0394",
+   "en": "Repel the Protodeviln",
+   "flags": [],
+   "notes": "As tm u0304 'Repel Protodeviln'."
+  },
+  {
+   "id": "u0395",
+   "en": "Keep Emilia Alive",
+   "flags": [],
+   "notes": "Glossary: Emilia Jenius."
+  },
+  {
+   "id": "u0396",
+   "en": "Defense of Macross City",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0397",
+   "en": "Defend Macross City",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0398",
+   "en": "Defeat All Reinf.",
+   "flags": [],
+   "notes": "As tm u0271."
+  },
+  {
+   "id": "u0399",
+   "en": "Snow White",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0400",
+   "en": "Repel Barnrose",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary: Mariafokina Barnrose, alias Barnrose (needs_check)."
+  },
+  {
+   "id": "u0401",
+   "en": "Mary Poppins",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0402",
+   "en": "Defeat Manfred",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0403",
+   "en": "My Fair Lady",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0404",
+   "en": "Nightmare × Nightmare",
+   "flags": [],
+   "notes": "Multiplication sign kept (allowed character)."
+  },
+  {
+   "id": "u0405",
+   "en": "Crimson ~ Scarlet",
+   "flags": [],
+   "notes": "Wave dash kept as ASCII tilde (in the font)."
+  },
+  {
+   "id": "u0406",
+   "en": "Shoot Down Valkyries",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Condition; plural assumed."
+  },
+  {
+   "id": "u0407",
+   "en": "Azure ~ Indigo",
+   "flags": [],
+   "notes": "Pair title with u0405."
+  },
+  {
+   "id": "u0408",
+   "en": "The Queadluun Lineage",
+   "flags": [],
+   "notes": "Glossary family name Queadluun."
+  },
+  {
+   "id": "u0409",
+   "en": "Annihilate all enemies / Reach the target pt.",
+   "flags": [],
+   "notes": "Two objectives; ' / ' as MUF; second half as tm u0230. 'point' abbreviated 'pt.' for width."
+  },
+  {
+   "id": "u0410",
+   "en": "Destroid Onslaught",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0411",
+   "en": "Moon Island Platoon",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0412",
+   "en": "Station Break",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0413",
+   "en": "Beyond the Super Dimension Fortress",
+   "flags": [],
+   "notes": "Chou jikuu yousai = Super Dimension Fortress (glossary works)."
+  },
+  {
+   "id": "u0414",
+   "en": "Dance with the Valkyries",
+   "flags": [],
+   "notes": "Imperative title."
+  },
+  {
+   "id": "u0415",
+   "en": "Shoot Down Nightmare",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Condition label without article, as tm 'Defeat Queadluun'; number (one rival or several) not settled."
+  },
+  {
+   "id": "u0416",
+   "en": "Shoot Down Messiah",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As u0415."
+  },
+  {
+   "id": "u0417",
+   "en": "Shoot Down Lucifer",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As u0415."
+  },
+  {
+   "id": "u0418",
+   "en": "Love and Sorrow Dance in the Sky",
+   "flags": [],
+   "notes": "Ai to ai ga mau sora ni: pun on ai (love) / ai (sorrow) cannot be kept; meaning kept in full."
+  },
+  {
+   "id": "u0419",
+   "en": "Bonds into Wings, Hearts into Song",
+   "flags": [],
+   "notes": "Two halves split by a space in the source; joined with a comma. Omoi = feelings, rendered 'hearts'."
+  },
+  {
+   "id": "u0420",
+   "en": "Vermillion Flight",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0421",
+   "en": "Defeat the ace",
+   "flags": [],
+   "notes": "Objective."
+  },
+  {
+   "id": "u0422",
+   "en": "Shoot Down Ace",
+   "flags": [],
+   "notes": "Condition."
+  },
+  {
+   "id": "u0423",
+   "en": "Solo Attack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0424",
+   "en": "Skull Leaders",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0425",
+   "en": "Moon Festival",
+   "flags": [],
+   "notes": "Review: glossary 'Moon Festival' (Macross II event); matches survival subtitle u0545."
+  },
+  {
+   "id": "u0426",
+   "en": "Armored Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0427",
+   "en": "Sound Force",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0428",
+   "en": "Protodeviln",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0429",
+   "en": "Defeat Protodeviln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0430",
+   "en": "Sturmvogel",
+   "flags": [],
+   "notes": "Unit name (YF-21 / VF-22)."
+  },
+  {
+   "id": "u0431",
+   "en": "Pixie Team",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0432",
+   "en": "Defeat Ace",
+   "flags": [],
+   "notes": "Condition."
+  },
+  {
+   "id": "u0433",
+   "en": "Ace of the Meltrandi",
+   "flags": [],
+   "notes": "Gekitsuiou = flying ace; shape as tm u0204 'Ace of the U.N. Forces'. Glossary: Meltrandi."
+  },
+  {
+   "id": "u0434",
+   "en": "Sagittarius Squadron",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary org (provisional)."
+  },
+  {
+   "id": "u0435",
+   "en": "S.M.S. Skull Squadron",
+   "flags": [],
+   "notes": "Glossary: S.M.S., Skull Squadron (avoid Skull Platoon)."
+  },
+  {
+   "id": "u0436",
+   "en": "Diamond Force",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0437",
+   "en": "Antares Squadron",
+   "flags": [],
+   "notes": "Glossary org."
+  },
+  {
+   "id": "u0438",
+   "en": "Mardook Commander",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0439",
+   "en": "Destroid Monster",
+   "flags": [],
+   "notes": "Glossary mecha."
+  },
+  {
+   "id": "u0440",
+   "en": "Moon Island: Flash",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pair with u0441; single-kanji suffixes sen (flash) and geki (strike)."
+  },
+  {
+   "id": "u0441",
+   "en": "Moon Island: Strike",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As u0440."
+  },
+  {
+   "id": "u0442",
+   "en": "Next-Gen Mainstay VF",
+   "flags": [],
+   "notes": "Jiki shuryoku kahen sentouki = next-generation mainstay variable fighter; abbreviated for width."
+  },
+  {
+   "id": "u0443",
+   "en": "Defeat the Boss",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0444",
+   "en": "Defeat Golg Boddole Zer",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0445",
+   "en": "Mardook Fleet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0446",
+   "en": "Destroy the Mardook flagship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0447",
+   "en": "Defeat Sharon Apple",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0448",
+   "en": "Defeat Gepelnitchi",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0449",
+   "en": "Vajra Queen",
+   "flags": [],
+   "notes": "Glossary mecha."
+  },
+  {
+   "id": "u0450",
+   "en": "With the Shining Constellations",
+   "flags": [],
+   "notes": "Literal title."
+  },
+  {
+   "id": "u0451",
+   "en": "Rainbow Rondo",
+   "flags": [],
+   "notes": "Nijiiro no rondo."
+  },
+  {
+   "id": "u0452",
+   "en": "The Dream the Fold Quartz Showed",
+   "flags": [],
+   "notes": "Glossary term fold quartz, Title Case here."
+  },
+  {
+   "id": "u0453",
+   "en": "Macross Zero",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0454",
+   "en": "Zero Survival (Stars on the Ground)",
+   "flags": [],
+   "notes": "Survival-mode name; bracketed title as tm u0202."
+  },
+  {
+   "id": "u0455",
+   "en": "Zero Survival (Mao's Treasure)",
+   "flags": [],
+   "notes": "Title as tm u0205."
+  },
+  {
+   "id": "u0456",
+   "en": "Zero Survival (Deadly Duel in Blue)",
+   "flags": [],
+   "notes": "Title as tm u0206."
+  },
+  {
+   "id": "u0457",
+   "en": "Zero Survival (Jungle)",
+   "flags": [],
+   "notes": "Title as tm u0210."
+  },
+  {
+   "id": "u0458",
+   "en": "Zero Surv. (The One Who Steals the Stars)",
+   "flags": [],
+   "notes": "Title as tm u0213. 'Survival' abbreviated here only, to keep the title whole within width."
+  },
+  {
+   "id": "u0459",
+   "en": "Zero Survival (Bird Human)",
+   "flags": [],
+   "notes": "Title as tm u0214."
+  },
+  {
+   "id": "u0460",
+   "en": "Special Total",
+   "flags": [],
+   "notes": "Probably the special-mission count/score total."
+  },
+  {
+   "id": "u0461",
+   "en": "Macross",
+   "flags": [],
+   "notes": "tm kept"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0382: Glossary: Mardook Mothership (provisional).",
+   "u0385: Macross II mission named after the Faerie Squadron (glossary org 'Faerie Squadron', ja alias fearii riidaa; provisional; avoid 'Fairy').",
+   "u0400: Glossary: Mariafokina Barnrose, alias Barnrose (needs_check).",
+   "u0406: Condition; plural assumed.",
+   "u0415: Condition label without article, as tm 'Defeat Queadluun'; number (one rival or several) not settled.",
+   "u0416: As u0415.",
+   "u0417: As u0415.",
+   "u0434: Glossary org (provisional).",
+   "u0440: Pair with u0441; single-kanji suffixes sen (flash) and geki (strike)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

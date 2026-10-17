@@ -1,0 +1,489 @@
+{
+ "slice": 290,
+ "rows_in_slice": 79,
+ "rows_examined": 79,
+ "rows": [
+  {
+   "id": "c20791",
+   "en": "(Okay! I'm going to pass this, no matter what!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20792",
+   "en": "(No way... I lost the mock battle,\nand my official enlistment was riding on it...)",
+   "flags": [],
+   "notes": "Shared male/female and the S.M.S. (scd_sms_703) branch."
+  },
+  {
+   "id": "c20793",
+   "en": "You may have lost the mock battle,\nbut your moves weren't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20794",
+   "en": "R-really?",
+   "flags": [],
+   "notes": "Shared x4 (Gary here, Klan in scd_sms_703); matches earlier 'R-really?'."
+  },
+  {
+   "id": "c20795",
+   "en": "(Phew... I somehow managed to win\nthe mock battle.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20796",
+   "en": "You moved pretty well out there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20797",
+   "en": "Now then, without further ado, \\p...\nI'll give you the results of your\nfinal enlistment test!",
+   "flags": [],
+   "notes": "Shared Gary (New U.N. Forces branch) and Ozma (S.M.S. branch); neutral wording."
+  },
+  {
+   "id": "c20798",
+   "en": "Yes......",
+   "flags": [],
+   "notes": "Also used in scd_tst_005."
+  },
+  {
+   "id": "c20799",
+   "en": "As of this moment, you...",
+   "flags": [],
+   "notes": "Sentence cut across rows: kisama wo (you) here, then the next row (c20800 / sms c23997, already finished as 'We welcome you as an official member of S.M.S.!') restarts with 'We welcome you'. Kept 'you...' as a dramatic pause; shared Gary/Ozma."
+  },
+  {
+   "id": "c20800",
+   "en": "We welcome you as an official member\nof the New U.N. Forces!",
+   "flags": [],
+   "notes": "Matches the finished S.M.S. twin c23997."
+  },
+  {
+   "id": "c20801",
+   "en": "So that means...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20802",
+   "en": "Yeah, you passed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20803",
+   "en": "Yaaaaaaaay~~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20804",
+   "en": "Way to go, Fresh Boy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20805",
+   "en": "Thank you, Luis-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20806",
+   "en": "Wait, you're congratulating me like it's normal,\nbut you were in the New U.N. Forces, Luis-san?\nThat really surprised me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20807",
+   "en": "Ha ha, don't sweat the small stuff,\nFresh Boy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20808",
+   "en": "For now, celebrating your pass comes first.\nAll right! We're going to karaoke!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20809",
+   "en": "Huh!? Karaoke?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20810",
+   "en": "I'll sing you a song that'll make your soul shake.\nTonight we burn with passion all night long!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20811",
+   "en": "(A-all night...?\nBut there's no way I can turn him down\nwith the mood like this...)",
+   "flags": [],
+   "notes": "'him' = Luis (male)."
+  },
+  {
+   "id": "c20812",
+   "en": "Oh, then why don't you come along too,\nCaptain Gary...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20813",
+   "en": "Wait, he's already gone!?",
+   "flags": [],
+   "notes": "Subject restored: Gary (male)."
+  },
+  {
+   "id": "c20814",
+   "en": "(Captain Gary... He ran away, didn't he...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20815",
+   "en": "Come on, let's go! Fresh Boy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20816",
+   "en": "(Now I've officially been accepted\nas a member of the New U.N. Forces.)",
+   "flags": [],
+   "notes": "Phrased like the finished S.M.S. twin c24009."
+  },
+  {
+   "id": "c20817",
+   "en": "(I've got to work hard so I don't hold\neveryone back.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20818",
+   "en": "(Phew... I somehow managed to win\nthe mock battle.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20819",
+   "en": "Way to go, Fresh Girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20820",
+   "en": "Ha ha, don't sweat the small stuff,\nFresh Girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20821",
+   "en": "(Captain Gary... He ran away, didn't he...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20822",
+   "en": "Come on, let's go! Fresh Girl!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20823",
+   "en": "(Now I've officially been accepted\nas a member of the New U.N. Forces.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20824",
+   "en": "(I've got to work hard so I don't hold\neveryone back.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20825",
+   "en": "(I don't want to believe it...\nThe Galaxy fleet was attacked by the Vajra...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20826",
+   "en": "(Their call for rescue cut off partway, too...\nI hope they're all right...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20827",
+   "en": "Emergency notice.\nSurviving Galaxy ships that escaped the Vajra\nhave been confirmed. Repeat...",
+   "flags": [],
+   "notes": "Claire here, a generic Operator in scd_sms_704."
+  },
+  {
+   "id": "c20828",
+   "en": "(They found surviving Galaxy ships!?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20829",
+   "en": "Hey, \\p...\nI know how anxious you are, but calm down a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20830",
+   "en": "We're heading out to rescue the surviving Galaxy ships.\nIn that state, you won't even save\nthe ones who could be saved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20831",
+   "en": "I know that, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20832",
+   "en": "(The surviving ships that contacted us\nare still under attack from the Vajra, too...)",
+   "flags": [],
+   "notes": "Same as the finished S.M.S. twin c24019."
+  },
+  {
+   "id": "c20833",
+   "en": "We'll be meeting up with the surviving ships shortly.\nPilots, stand by.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20834",
+   "en": "Listen up. I'm not letting a single one of you die.\nWe're all coming home to Frontier alive!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20835",
+   "en": "(I have to rescue those surviving Galaxy ships,\nno matter what!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20836",
+   "en": "(I don't want to believe it...\nThe Galaxy fleet was attacked by the Vajra...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20837",
+   "en": "(Looks like the mission was a success,\nbut I wasn't much help...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20838",
+   "en": "(And we couldn't rescue all\nof the surviving Galaxy ships...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20839",
+   "en": "(The mission was a success,\nand I managed to do my part, but...)",
+   "flags": [],
+   "notes": "Also used in scd_tri_705."
+  },
+  {
+   "id": "c20840",
+   "en": "(We couldn't rescue every one\nof the surviving Galaxy ships...)",
+   "flags": [],
+   "notes": "Same as finished twin c24031."
+  },
+  {
+   "id": "c20841",
+   "en": "Looks like you made it back in one piece.",
+   "flags": [],
+   "notes": "Shared Gary/Ozma."
+  },
+  {
+   "id": "c20842",
+   "en": "Making it back safe is good enough.\nNow, let's head back to Frontier ourselves.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20843",
+   "en": "(I made it back alive today,\nbut who knows what'll happen next time...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20844",
+   "en": "(I can't let my guard down from here on.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20845",
+   "en": "(Looks like the mission was a success,\nbut I wasn't much help...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20846",
+   "en": "(The mission was a success,\nand I managed to do my part, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20847",
+   "en": "(I can't let my guard down from here on.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20848",
+   "en": "(Okay, time for the briefing...\nI wonder what kind of mission it'll be today?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20849",
+   "en": "Looks like everyone's here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20850",
+   "en": "We'll now begin the mission briefing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20851",
+   "en": "This mission is to destroy and investigate\na Vajra nest that's been discovered.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20852",
+   "en": "To stop the Vajra from multiplying, please\ndestroy as many Vajra eggs as you can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20853",
+   "en": "Your mission also includes bringing back\nsamples for analysis.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20854",
+   "en": "I understand the mission outline.\nBut a mission inside a Vajra nest means...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20855",
+   "en": "Yes. There's a good chance the Vajra will show up,\nso please carry out the demolition and survey\ncarefully.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20856",
+   "en": "Understood.",
+   "flags": [],
+   "notes": "Shared Gary (arm) and Klan (sms)."
+  },
+  {
+   "id": "c20857",
+   "en": "All right, we move out at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20858",
+   "en": "(I'm going to make this mission a success,\nno matter what!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20859",
+   "en": "(Okay, time for the briefing...\nI wonder what kind of mission it'll be today?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20860",
+   "en": "(I'm going to make this mission a success,\nno matter what!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20861",
+   "en": "(Phew... We managed to intercept the Vajra,\nbut I wasn't much help...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20862",
+   "en": "(Phew... I'm glad we managed to intercept\nthe Vajra.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20863",
+   "en": "Good work, \\p-kun.",
+   "flags": [],
+   "notes": "Shared Claire (arm) and Cathy (sms)."
+  },
+  {
+   "id": "c20864",
+   "en": "Oh, good work to you too,\nClaire-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20865",
+   "en": "Looks like you worked hard.\nI'm counting on you from here on out, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20866",
+   "en": "(All right! Let's keep this up!)",
+   "flags": [],
+   "notes": "x7, also scd_fes_804/805 and the sms female branch; gender-neutral."
+  },
+  {
+   "id": "c20867",
+   "en": "(Phew... We managed to intercept the Vajra,\nbut I wasn't much help...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20868",
+   "en": "Good work, \\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20869",
+   "en": "(All right! Let's keep this up!)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c20799: Gary/Ozma cut 'As of this moment, you...'; the next row (c20800 here, finished c23997 in S.M.S.) restarts with 'We welcome you', so the cut is a dramatic pause, not a matching split."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

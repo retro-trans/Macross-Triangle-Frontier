@@ -1,0 +1,461 @@
+{
+ "slice": 97,
+ "rows_in_slice": 74,
+ "rows_examined": 74,
+ "rows": [
+  {
+   "id": "c07151",
+   "en": "By the way, is your mom feeling better?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07152",
+   "en": "That was ages ago...\nShe was fine after a day, and now she's\nback to nagging me nonstop.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07153",
+   "en": "Glad to hear it.",
+   "flags": [],
+   "notes": "x4: also nml_myk_010 (Shirakawa's training went well); fits."
+  },
+  {
+   "id": "c07154",
+   "en": "It's all thanks to you.",
+   "flags": [],
+   "notes": "The player's advice on food for the sick (scene before)."
+  },
+  {
+   "id": "c07155",
+   "en": "Well, shall we go shopping?\nThere's something I've been wanting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07156",
+   "en": "You've got... great taste, as always.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'you have good sense as always'. Read as ironic: the next lines (Kagura: 'I think it's normal', player: 'if he doesn't mind, not my place to say', '(His fashion sense, huh...)') show his taste is odd. The pause marks the irony."
+  },
+  {
+   "id": "c07157",
+   "en": "You think so? I think it's pretty normal...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07158",
+   "en": "Well, if the man himself doesn't mind,\nI guess it's not my place to say anything.",
+   "flags": [],
+   "notes": "Half-muttered; Kagura answers '???'."
+  },
+  {
+   "id": "c07159",
+   "en": "(His fashion sense, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07160",
+   "en": "(I've got plans to go out with Kagura-kun\ntoday...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07161",
+   "en": "Oh... Here he comes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07162",
+   "en": "Well, if the man himself doesn't mind,\nit's not my place to say anything.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07163",
+   "en": "(The view from Griffith Park is the best.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07164",
+   "en": "Huh...?\nWho's that over there...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07165",
+   "en": "Oh, it's you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07166",
+   "en": "It's rare to run into you here.\nWhat were you up to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07167",
+   "en": "Oh, I was just sort of looking at the sky.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07168",
+   "en": "I see. It's a nice view, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07169",
+   "en": "Is that... an EX-Gear?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07170",
+   "en": "You're right. Maybe a Mihoshi student?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07171",
+   "en": "Probably.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07172",
+   "en": "Do you feel like flying too, Yuuto?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07173",
+   "en": "Nah, I think I'd rather have a Valkyrie...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07174",
+   "en": "Flying all around the vastness of space...\nI want to protect this Frontier...\nour world.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07175",
+   "en": "Yeah, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07176",
+   "en": "It might sound naive, but I want to protect\neveryone. I'll spare no effort to do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07177",
+   "en": "You're always training, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07178",
+   "en": "I want to be as prepared as I possibly can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07179",
+   "en": "But overdoing it is bad for your body.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07180",
+   "en": "Well, you've got a point.\nBesides... if something happened to me,\nmy mom would be all alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07181",
+   "en": "Oh... I see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07182",
+   "en": "And I haven't even repaid her\nfor everything yet...",
+   "flags": [],
+   "notes": "oyakoukou = doing right by one's parent."
+  },
+  {
+   "id": "c07183",
+   "en": "I think staying healthy already\ncounts as repaying her.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07184",
+   "en": "But I've got to make her life easier...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07185",
+   "en": "Then you'd better work hard, huh?\nJust don't push yourself too much!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07186",
+   "en": "Yeah, you're right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07187",
+   "en": "It's a handshake.",
+   "flags": [],
+   "notes": "Answers the player's 'Hm? What's wrong?' as he holds out his hand."
+  },
+  {
+   "id": "c07188",
+   "en": "A-a handshake?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07189",
+   "en": "Here's to both of us chasing our dreams.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07190",
+   "en": "Y-yeah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07191",
+   "en": "Th-that hurts, Yuuto!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07192",
+   "en": "Oh, uh, sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07193",
+   "en": "All right! Let's give it our all!",
+   "flags": [],
+   "notes": "Player answers with a cheer ('Yeah!')."
+  },
+  {
+   "id": "c07194",
+   "en": "Yeah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07195",
+   "en": "(Yuuto's really been thinking\nabout a lot of things.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07196",
+   "en": "(Mmm~! The view from Griffith Park\nis the best.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07197",
+   "en": "It's rare to run into you here.\nWhat were you up to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07198",
+   "en": "Do you feel like flying too, Kagura-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07199",
+   "en": "Mm, I see.",
+   "flags": [],
+   "notes": "x3: also frd_luk_007 and frd_nns_004 as a listening reply; fits."
+  },
+  {
+   "id": "c07200",
+   "en": "Oh... I see... So that's how it is...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07201",
+   "en": "I think staying healthy already\ncounts as repaying her, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07202",
+   "en": "Y-yeah, let's do our best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07203",
+   "en": "Th-that hurts, Kagura-kun!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07204",
+   "en": "(Kagura-kun's been thinking about\na lot of things too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07205",
+   "en": "(Yuuto's at Griffith Park again.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07206",
+   "en": "Seriously, this view is great every time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07207",
+   "en": "\\p, huh...\nYeah, the view from here calms me down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07208",
+   "en": "To think this is all inside the Macross...\nHuman technology really amazes me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07209",
+   "en": "We live ordinary lives here, but we're\nstill inside a ship, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07210",
+   "en": "I wonder where this ship will end up...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07211",
+   "en": "Hmm, let's see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07212",
+   "en": "Well, one thing I can say is, I hope it's\na planet with beautiful scenery.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07213",
+   "en": "Couldn't agree more.",
+   "flags": [],
+   "notes": "x6: also Michel (frd_mcl_006, to 'sorry for bothering you', dry) and Alto (nml_alt_007, agreeing); works for all."
+  },
+  {
+   "id": "c07214",
+   "en": "Well, I'm heading home.\nWhat about you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07215",
+   "en": "I think I'll stay and look a little longer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07216",
+   "en": "I see. Well, see you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07217",
+   "en": "(A new planet, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07218",
+   "en": "(Kagura-kun's at Griffith Park again.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07219",
+   "en": "Seriously, this view is great every time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07220",
+   "en": "To think this is all inside the Macross...\nIt totally blows my mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07221",
+   "en": "Hmm, let's see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07222",
+   "en": "For now, I hope it's a planet with\nbeautiful scenery, I guess?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07223",
+   "en": "I think I'll stay and look a little longer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07224",
+   "en": "(A new planet, huh...)",
+   "flags": [],
+   "notes": "x5: also nml_cla_003 and nml_kgr_003 (a new planet was found); fits."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c07156: Literally 'you have good sense as always'. Read as ironic: the next lines (Kagura: 'I think it's normal', player: 'if he doesn't mind, not my place to say', '(His fashion sense, huh...)') show his taste is odd. The pause marks the irony."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

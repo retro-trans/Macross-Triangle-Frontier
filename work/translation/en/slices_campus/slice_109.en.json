@@ -1,0 +1,406 @@
+{
+ "slice": 109,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c08043",
+   "en": "(Still, I'm happier just getting to have fun\nwith Klan-senpai like this.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08044",
+   "en": "(Still, I'm happier just getting to have fun\nwith Klan-senpai like this.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08045",
+   "en": "Let's see... If you pair it with this outfit,\nwouldn't you look way more grown-up?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08046",
+   "en": "Hmm, hmm. I see.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08047",
+   "en": "(I've been going shopping with Klan-senpai\nmore and more often like this, but...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08048",
+   "en": "(Am I actually any help to her\nin becoming a grown woman?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08049",
+   "en": "\\p...\nI owe you my thanks.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08050",
+   "en": "I'm truly grateful that you helped me\novercome these clumsy genes of mine.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08051",
+   "en": "Oh, come on...\nI haven't done anything special.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08052",
+   "en": "Now, don't be so modest.\nBesides, hanging out with you was fun.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08053",
+   "en": "Around you... I can be honest.\nI think that's, how do I put it...\na really good thing...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08054",
+   "en": "So I'm super grateful to you.\nDo you understand that?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08055",
+   "en": "Yes, I understand, Klan-senpai!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08056",
+   "en": "(If Klan-senpai feels that way,\nmaybe I was of some help after all?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08057",
+   "en": "Mm, good.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08058",
+   "en": "Then, as thanks for everything,\nshall we go eat at Nyan-Nyan?\nMy treat, of course.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08059",
+   "en": "Okay, I'll gladly take you up on that!",
+   "flags": [],
+   "notes": "Both genders. gochisou ni narimasu."
+  },
+  {
+   "id": "c08060",
+   "en": "Right, then let's get going!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08061",
+   "en": "Okay. Oh, but...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08062",
+   "en": "Don't... eat my chashu today, okay?",
+   "flags": [],
+   "notes": "Male. Chashu pork; refers to an earlier scene where Klan ate it."
+  },
+  {
+   "id": "c08063",
+   "en": "As a grown woman, I'd never do\nsuch a thing......",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08064",
+   "en": "Please, I mean it, Klan-senpai.",
+   "flags": [],
+   "notes": "Both genders. Player asks Klan (hontou ni tanomimasu yo)."
+  },
+  {
+   "id": "c08065",
+   "en": "(Having Klan-senpai thank me so formally\nis kind of embarrassing...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08066",
+   "en": "(Klan-senpai...\nI'm the one who should be thanking you.\nLet's keep getting along from here on.)",
+   "flags": [],
+   "notes": "Both genders. kochira koso, kore kara mo yoroshiku."
+  },
+  {
+   "id": "c08067",
+   "en": "(Am I actually any help to her\nin becoming a grown woman?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08068",
+   "en": "Oh, come on...\nI haven't done anything special.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08069",
+   "en": "(If Klan-senpai feels that way,\nmaybe I was of some help after all?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08070",
+   "en": "Don't... eat my chashu today, okay?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08071",
+   "en": "(Having Klan-senpai thank me so formally\nis kind of embarrassing...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08072",
+   "en": "Mm, that's about it for today's shopping.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08073",
+   "en": "I'm thirsty. Shall we go have tea\nat Silver Moon or something?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08074",
+   "en": "Let's do that.",
+   "flags": [],
+   "notes": "x13: player in many scenes (Klan, Luca, Michel, Pinon, Yui, scd_com_217), both genders. Generic agreement."
+  },
+  {
+   "id": "c08075",
+   "en": "Going shopping with you like this,\nand then enjoying tea afterward...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08076",
+   "en": "Maybe having ordinary days like this\njust keep going is what happiness is.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08077",
+   "en": "I said it before, but let me say it again.\nI'm counting on you from here on too!\n\\p!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08078",
+   "en": "Same here. I'm counting on you too.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08079",
+   "en": "(I hope I can keep spending time\nwith Klan-senpai like this...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08080",
+   "en": "(I hope I can keep spending time\nwith Klan-senpai like this...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08081",
+   "en": "\\p.\nWe're going shopping today.",
+   "flags": [],
+   "notes": "frd_kln_009 male and frd_kln_010 female."
+  },
+  {
+   "id": "c08082",
+   "en": "Okay, Klan-senpai.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08083",
+   "en": "I hope they have clothes in my size...",
+   "flags": [],
+   "notes": "Both genders. Klan is now an adult-size Micronian (c08087)."
+  },
+  {
+   "id": "c08084",
+   "en": "Well, you do have a great figure, Senpai.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08085",
+   "en": "Don't flatter me like that.\nYou'll make me blush.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08086",
+   "en": "Still, it all worked out great, didn't it?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08087",
+   "en": "The clumsy genes that troubled you\nare cured, and now you can micronize\nand still stay grown-up...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08088",
+   "en": "That's right.\nI never thought they'd actually be cured.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08089",
+   "en": "And thanks to that, I can walk\narm in arm with you like this...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08090",
+   "en": "What?! You had a dream like that?",
+   "flags": [],
+   "notes": "Both genders. Reveals the preceding exchange was Klan's dream."
+  },
+  {
+   "id": "c08091",
+   "en": "Mm, it was quite a nice dream...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08092",
+   "en": "But someday I'll make it real,\nnot just a dream!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08093",
+   "en": "Go for it, Klan-senpai!\nI'll support you too!",
+   "flags": [],
+   "notes": "Male (female: c08097)."
+  },
+  {
+   "id": "c08094",
+   "en": "Mm!! I'm counting on you from here on too!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c08095",
+   "en": "Affinity ending.\nFiller for Klan (female).",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Developer placeholder under Alto's name plate (frd_kln_009, the female branch that scene does not use; 'umeyou' = filler). Translated literally in the format of c04107/c06032."
+  },
+  {
+   "id": "c08096",
+   "en": "Affinity ending.\nFiller for Klan (male).",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Developer placeholder under Alto's name plate (frd_kln_010, the unused male branch). As c08095."
+  },
+  {
+   "id": "c08097",
+   "en": "Go for it, Klan-senpai!\nI'll support you too!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08098",
+   "en": "(I came to Central Park, but there's\nnothing much to do. I'm bored...)",
+   "flags": [],
+   "notes": "Male (x2)."
+  },
+  {
+   "id": "c08099",
+   "en": "Huh? Klan-senpai?\nWhat are you doing here?",
+   "flags": [],
+   "notes": "x8: frd_kln_101/102, both genders."
+  },
+  {
+   "id": "c08100",
+   "en": "Hm? Why, if it isn't \\p.\nI was just out for a little walk.",
+   "flags": [],
+   "notes": "x8: frd_kln_101/102, both genders; works for the park scenes."
+  },
+  {
+   "id": "c08101",
+   "en": "Oh, I see.\nThen how about we take a walk together......",
+   "flags": [],
+   "notes": "x8: frd_kln_101/102, both genders."
+  },
+  {
+   "id": "c08102",
+   "en": "Sorry, I was just about to head home.\nI'll be taking my leave.",
+   "flags": [],
+   "notes": "x8: frd_kln_101/102."
+  },
+  {
+   "id": "c08103",
+   "en": "Oh, okay. See you...",
+   "flags": [],
+   "notes": "x10: frd_kln_101/102/113, both genders."
+  },
+  {
+   "id": "c08104",
+   "en": "(I finally ran into Klan-senpai, too...\nOh well, guess I'll head home as well.)",
+   "flags": [],
+   "notes": "Male, frd_kln_101/102."
+  },
+  {
+   "id": "c08105",
+   "en": "(I came to Central Park, but there's\nnothing much to do. I'm bored...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08106",
+   "en": "(I finally ran into Klan-senpai, too...\nOh well, I guess I'll head home as well.)",
+   "flags": [],
+   "notes": "Female, frd_kln_101/102."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c08081-c08094 (frd_kln_009 male, frd_kln_010 female): the exchange about her cured genes turns out to be Klan's dream (c08090 'You had a dream like that?'). Translated straight; whether the earlier lines are staged as the dream or as Klan recounting it is not visible in the text.",
+   "c08095/c08096: developer placeholders under Alto's plate, translated literally in the format earlier slices used (c04107, c06032).",
+   "c08062/c08070 chashu: refers to an earlier scene in which Klan ate the player's chashu (not in my slices).",
+   "c08066 kochira koso ... yoroshiku rendered as thanks back plus 'Let's keep getting along from here on.'"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,387 @@
+{
+ "slice": 9,
+ "rows_in_slice": 60,
+ "rows_examined": 60,
+ "rows": [
+  {
+   "id": "c00606",
+   "en": "(Is that... Akimizu over there...?\nShe and Claire-senpai look like they're\nhaving a great time.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00607",
+   "en": "Hey, Akimizu.\nAnd Claire-senpai too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00608",
+   "en": "Huh?\nOh, \\p-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00609",
+   "en": "Hello.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00610",
+   "en": "What are you two up to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00611",
+   "en": "Just having a little chat,\nI suppose you could say?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00612",
+   "en": "Claire-senpai has been teaching me\nall sorts of things.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00613",
+   "en": "...Yuu, it's not 'Senpai'...\nIt's 'Big Sister', remember?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Claire corrects senpai to o-nee-sama (schoolgirl 'big sister' address). Kinship word translated per brief as 'Big Sister'; 'Onee-sama' would be the alternative if the team prefers romaji here."
+  },
+  {
+   "id": "c00614",
+   "en": "Y-yes, I'm sorry, Big Sister...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "o-nee-sama, see c00613."
+  },
+  {
+   "id": "c00615",
+   "en": "It's all right, Yuu.\nJust be careful from now on...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00616",
+   "en": "Y-you two sure are close...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00617",
+   "en": "Do you think so?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00618",
+   "en": "Of course we are!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00619",
+   "en": "Say, \\p-kun,\ndo you have any plans after this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00620",
+   "en": "No, nothing in particular...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00621",
+   "en": "Then why don't we all go out for tea?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00622",
+   "en": "Oh, um, let me see...\nWhat should I do...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00623",
+   "en": "*staaare*",
+   "flags": [],
+   "notes": "Stare sound effect (jii), shared by many scenes (x15)."
+  },
+  {
+   "id": "c00624",
+   "en": "(Wh-whoa, she's staring at me like she\nreally doesn't want me along...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00625",
+   "en": "Hey, Yuu, you think so too, don't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00626",
+   "en": "Huh? Oh, I, um...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00627",
+   "en": "(Now she's staring at me like she\nabsolutely can't stand the idea...)",
+   "flags": [],
+   "notes": "Escalation of c00624 (monosugoi -> totetsumonaku iya-sou na me)."
+  },
+  {
+   "id": "c00628",
+   "en": "Oh, ah, AAAH!\nI-I was supposed to hang out with\nYuuto today! Yeah, that's right...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Third JP line 'sou datta sou datta' merged into line 3 to stay within 3 lines; the repetition is reduced to one 'that's right'. Yuuto is written as a fixed name in the script, not the \\p code."
+  },
+  {
+   "id": "c00629",
+   "en": "Oh, is that so?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00630",
+   "en": "Then let's hang out another time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00631",
+   "en": "Y-yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00632",
+   "en": "Well then, goodbye!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00633",
+   "en": "See you, \\p-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00634",
+   "en": "(Akimizu's really attached to\nClaire-senpai!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00635",
+   "en": "(That's... Yuu over there!\nShe and Claire-senpai look like they're\nhaving a great time.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00636",
+   "en": "Yuu! And Claire-senpai too!\nWhat are you two up to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00637",
+   "en": "Huh?\nOh, \\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00638",
+   "en": "Hello, \\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00639",
+   "en": "Say, \\p-chan,\ndo you have any plans after this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00640",
+   "en": "(Wh-whoa, she's giving me\na seriously icy stare...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00641",
+   "en": "*staaaaare*",
+   "flags": [],
+   "notes": "Longer stare sound than c00623."
+  },
+  {
+   "id": "c00642",
+   "en": "(That's the iciest stare I've ever seen...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00643",
+   "en": "Oh, ah, AAAH!\nI-I was supposed to hang out with\nYui today! Yeah, that's right...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As c00628 (female version names Yui)."
+  },
+  {
+   "id": "c00644",
+   "en": "See you, \\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00645",
+   "en": "(Yuu's really attached to\nClaire-senpai, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00646",
+   "en": "...Hello,\n\\p-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00647",
+   "en": "Are you heading home now, Senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00648",
+   "en": "Hmm... Well, something like that...\nWhat about you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00649",
+   "en": "I'm heading home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00650",
+   "en": "By yourself?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00651",
+   "en": "Uh, yes.\nIs that a problem?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00652",
+   "en": "Oh, no reason at aaall!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00653",
+   "en": "(Is she in a bad mood or something?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00654",
+   "en": "...Say, isn't there something\nyou need to tell me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00655",
+   "en": "Where's this coming from all of a sudden?\nSomething to tell you... Not really...\nI don't think??",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00656",
+   "en": "Oh? Playing dumb, are we?\nHmm...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00657",
+   "en": "Um...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00658",
+   "en": "...I hear you've gotten awfully close\nwith that woman lately?\nI heard the rumors...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'ano onna': the woman is not identified in the scene; Claire seems to be play-acting a jealous rival (x2: also used elsewhere)."
+  },
+  {
+   "id": "c00659",
+   "en": "Huh??",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00660",
+   "en": "But I... won't lose...\nI'll be the one who laughs last!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00661",
+   "en": "...Hello,\n\\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00662",
+   "en": "Are you heading home now, Claire-senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00663",
+   "en": "I'm on my way home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00664",
+   "en": "Yes... Is that a problem?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00665",
+   "en": "What's gotten into you all of a sudden?\nSomething to tell you... Not really...\nI don't think??",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c00613/c00614: o-nee-sama rendered 'Big Sister' (kinship word translated per brief); 'Onee-sama' is the alternative.",
+   "c00628/c00643: three JP lines fitted into three English lines by dropping one repetition of 'sou datta'.",
+   "c00658: 'that woman' is never identified; Claire appears to be play-acting a jealous rival."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

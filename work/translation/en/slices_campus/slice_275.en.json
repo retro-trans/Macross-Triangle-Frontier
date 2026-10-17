@@ -1,0 +1,451 @@
+{
+ "slice": 275,
+ "rows_in_slice": 73,
+ "rows_examined": 73,
+ "rows": [
+  {
+   "id": "c19731",
+   "en": "(Okay, that's it for today's EX-Gear training.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19732",
+   "en": "Hey, \\p!",
+   "flags": [],
+   "notes": "Sheryl, both genders (bare name in both)."
+  },
+  {
+   "id": "c19733",
+   "en": "Oh, yes? Sheryl?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19734",
+   "en": "You were flying quite well, I must say.",
+   "flags": [],
+   "notes": "Sheryl, male."
+  },
+  {
+   "id": "c19735",
+   "en": "Oh, yeah, thanks...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19736",
+   "en": "It must be that EX-Gear. It's a good one.\nWould you lend it to me?",
+   "flags": [],
+   "notes": "Sheryl, both genders ('kashite kudasaru?', haughty-polite)."
+  },
+  {
+   "id": "c19737",
+   "en": "Huh? That's not how it works.\nBesides, what would you even do with it?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19738",
+   "en": "Fly, obviously!\nI'm Sheryl. Of course I can fly!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19739",
+   "en": "Sheryl! What are you doing over there?!",
+   "flags": [],
+   "notes": "Grace, male version."
+  },
+  {
+   "id": "c19740",
+   "en": "Tch, you got lucky!\nNext time we meet, you're lending me that.\nThat's an order!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19741",
+   "en": "(If Grace-san hadn't called out to her...\nJust thinking about it is terrifying...)",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c19742",
+   "en": "(Okay, that's it for today's EX-Gear training.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19743",
+   "en": "Oh, yes? Sheryl-san?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19744",
+   "en": "Looks like you were flying quite well.",
+   "flags": [],
+   "notes": "Sheryl, female."
+  },
+  {
+   "id": "c19745",
+   "en": "Oh, yes, thank you...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19746",
+   "en": "Huh? That's not really the point.\nBesides, what would you even do with it?",
+   "flags": [],
+   "notes": "Female (polite)."
+  },
+  {
+   "id": "c19747",
+   "en": "Sheryl! What are you doing?!",
+   "flags": [],
+   "notes": "Grace, female version."
+  },
+  {
+   "id": "c19748",
+   "en": "(Well, another week's over.\nWhat should I do this weekend...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19749",
+   "en": "(Oh, it's Sheryl...\nHmm, maybe I'll ask her what her plans are...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19750",
+   "en": "Hey, Sheryl, got a minute?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19751",
+   "en": "What is it, \\p?\nDo you need something from me?",
+   "flags": [],
+   "notes": "Sheryl, male."
+  },
+  {
+   "id": "c19752",
+   "en": "Well, I was just wondering how you're\nspending this weekend, Sheryl...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19753",
+   "en": "Huh?!\nWhat? Checking my schedule...\nAre you asking me out on a date?",
+   "flags": [],
+   "notes": "Sheryl, male."
+  },
+  {
+   "id": "c19754",
+   "en": "No, that's not what I...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19755",
+   "en": "Too bad. I've already booked the gym this weekend,\nand I have to go to the beauty salon too...",
+   "flags": [],
+   "notes": "Sheryl, both genders. esute = beauty salon."
+  },
+  {
+   "id": "c19756",
+   "en": "If you're asking me out, I'd like you to ask\nsooner. Then I'd have time to think it over...\nThough whether I'd say yes is another story.",
+   "flags": [],
+   "notes": "Sheryl, male."
+  },
+  {
+   "id": "c19757",
+   "en": "Oh, look at the time!\nSee you!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19758",
+   "en": "(I think she got the wrong idea...\nBut maybe she wouldn't totally mind\nbeing asked out on a date...)",
+   "flags": [],
+   "notes": "Male. manzara de mo nai."
+  },
+  {
+   "id": "c19759",
+   "en": "(Okay, another week's over.\nWhat should I do this weekend...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19760",
+   "en": "(Oh, it's Sheryl-san...\nOkay! I'll ask her what her plans are...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19761",
+   "en": "Sheryl-san, do you have a minute?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19762",
+   "en": "What is it, \\p-chan?\nDo you need something from me?",
+   "flags": [],
+   "notes": "Sheryl, female."
+  },
+  {
+   "id": "c19763",
+   "en": "Well, I was just wondering how you'll be\nspending this weekend, Sheryl-san...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19764",
+   "en": "Huh?!\nWhat? Checking my schedule...\nCould you be asking me out on a date?",
+   "flags": [],
+   "notes": "Sheryl, female (adds moshikashite)."
+  },
+  {
+   "id": "c19765",
+   "en": "Huh?! A date...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19766",
+   "en": "If you're asking me out, I'd like you to ask\nsooner. Then I'd have time to think it over...",
+   "flags": [],
+   "notes": "Sheryl, female."
+  },
+  {
+   "id": "c19767",
+   "en": "(Did she get the wrong idea...?\nBut maybe Sheryl-san's surprisingly easygoing...)",
+   "flags": [],
+   "notes": "Female. kisaku = friendly, approachable."
+  },
+  {
+   "id": "c19768",
+   "en": "(P.E.'s next, huh...\nIt's kind of rough right after lunch.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19769",
+   "en": "(Huh? Sheryl?!\nOh right, next is a joint class with the girls.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19770",
+   "en": "And just what are you ogling\nwith those dirty eyes?",
+   "flags": [],
+   "notes": "Sheryl, male. iyarashii me, full strength."
+  },
+  {
+   "id": "c19771",
+   "en": "Huh?! Sheryl?\nNo, I wasn't looking at you like that...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19772",
+   "en": "You don't have to hide it. It can't be helped.",
+   "flags": [],
+   "notes": "Sheryl, male."
+  },
+  {
+   "id": "c19773",
+   "en": "Like I said, I wasn't looking like that...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19774",
+   "en": "Well, whatever.\nJust be careful you don't get hurt\nwhile you're busy admiring me.",
+   "flags": [],
+   "notes": "Sheryl, male. mitorete = gazing entranced."
+  },
+  {
+   "id": "c19775",
+   "en": "(Then again, I might end up staring\nwithout meaning to...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19776",
+   "en": "(P.E.'s next, huh...\nIt might be kind of rough right after lunch.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19777",
+   "en": "(Huh? Sheryl-san?!\nShe's doing P.E. too... Well, of course she is!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19778",
+   "en": "What's the matter? You look puzzled...",
+   "flags": [],
+   "notes": "Sheryl, female."
+  },
+  {
+   "id": "c19779",
+   "en": "Huh?! Sheryl-san?\nNo, I wasn't making any face...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19780",
+   "en": "Well, whatever.\nBy the way, what are we doing in P.E. today?",
+   "flags": [],
+   "notes": "Sheryl, female."
+  },
+  {
+   "id": "c19781",
+   "en": "Um... Running, together with the boys.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19782",
+   "en": "Oh, that's a bit dull...\nMaybe I'll go back to the classroom\nand sit this one out today.",
+   "flags": [],
+   "notes": "Sheryl, female. kengaku in P.E. = sitting out and watching."
+  },
+  {
+   "id": "c19783",
+   "en": "(Sheryl-san really does whatever she likes...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19784",
+   "en": "(Well, I came out into town, but what should I do...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19785",
+   "en": "Huh?! Sheryl?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19786",
+   "en": "What's with that face? You just happened\nto run into me, of all people...",
+   "flags": [],
+   "notes": "Sheryl, male."
+  },
+  {
+   "id": "c19787",
+   "en": "No, I was just a little surprised...",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c19788",
+   "en": "Well, of course. Running into me out of the blue\nin the middle of town!",
+   "flags": [],
+   "notes": "Sheryl, male."
+  },
+  {
+   "id": "c19789",
+   "en": "So what were you doing here, anyway?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19790",
+   "en": "Oh, right. I had some free time, so I thought\nI'd try a sweets shop a girl in my class told me\nabout the other day, but then, well...",
+   "flags": [],
+   "notes": "Sheryl, both genders. Trails off (she got lost)."
+  },
+  {
+   "id": "c19791",
+   "en": "Don't tell me... you're lost...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19792",
+   "en": "Ugh!! Oh, shut up!\nJust take me there already!\nThat's an order!",
+   "flags": [],
+   "notes": "Sheryl, male."
+  },
+  {
+   "id": "c19793",
+   "en": "Okay, okay.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19794",
+   "en": "(And so, unexpectedly, I got to enjoy the finest\nsweets with Sheryl. They were delicious~)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19795",
+   "en": "(Okay, I came out into town, but what should I do...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19796",
+   "en": "Huh?! Sheryl-san?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19797",
+   "en": "What's with that face? Is something wrong?",
+   "flags": [],
+   "notes": "Sheryl, female."
+  },
+  {
+   "id": "c19798",
+   "en": "Well, of course. Running into each other\nby chance in the middle of town.",
+   "flags": [],
+   "notes": "Sheryl, female."
+  },
+  {
+   "id": "c19799",
+   "en": "So what were you doing here, anyway?",
+   "flags": [],
+   "notes": "Female (polite)."
+  },
+  {
+   "id": "c19800",
+   "en": "Don't tell me... you're... lost...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19801",
+   "en": "Ugh!! Never mind that!\nJust take me there already!",
+   "flags": [],
+   "notes": "Sheryl, female."
+  },
+  {
+   "id": "c19802",
+   "en": "Okaaay, roger that!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19803",
+   "en": "(And so, unexpectedly, I got to enjoy the finest\nsweets with Sheryl-san. They were delicious~)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,501 @@
+{
+ "slice": 158,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c11561",
+   "en": "Yes, that's right.\nSince you're here, let's take a break\nand have some tea together.",
+   "flags": [],
+   "notes": "x2, Nanase, frd_nns_002 repeat visit."
+  },
+  {
+   "id": "c11562",
+   "en": "Phew.\nThe tea you make really is delicious, Nanase.",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c11563",
+   "en": "Ahaha, thank you very much.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11564",
+   "en": "No, thank you. Thanks for the tea.\nLet's do this again sometime.",
+   "flags": [],
+   "notes": "x2, player (mata yoroshiku ne)."
+  },
+  {
+   "id": "c11565",
+   "en": "(Drinking Nanase's tea really calms me down.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11566",
+   "en": "(Think I'll stop by the art room again\nand see how Nanase's doing~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11567",
+   "en": "Oh, \\p-san.\nYou came again.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11568",
+   "en": "Yeah. You're working on your assignment\nagain today too, right, Nanase?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11569",
+   "en": "(Nanase's tea really is calming, isn't it.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11570",
+   "en": "(Research at the library, huh...\nLooks like Nanase's gonna help me out,\nso let's get it done fast.)",
+   "flags": [],
+   "notes": "Male, frd_nns_003."
+  },
+  {
+   "id": "c11571",
+   "en": "Nanase, thanks for helping out.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11572",
+   "en": "Oh, it's nothing. I don't have work today,\nand besides, we're classmates, aren't we!",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11573",
+   "en": "So what is it we're researching, anyway?",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11574",
+   "en": "Right, right. Gary-sensei asked me to do it, and...",
+   "flags": [],
+   "notes": "x2, player; trails into the explanation (next row '...So that's the deal')."
+  },
+  {
+   "id": "c11575",
+   "en": "...So that's the deal.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11576",
+   "en": "Wow~, that sounds like a lot of work.\nThen let's split it up and knock it out!",
+   "flags": [],
+   "notes": "Male version."
+  },
+  {
+   "id": "c11577",
+   "en": "Yeah, let's get started right away.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11578",
+   "en": "Oh, isn't this the material we need?",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11579",
+   "en": "There, this is the last one!",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11580",
+   "en": "Phew~ Looks like we somehow finished...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11581",
+   "en": "Yes, we finished surprisingly fast.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11582",
+   "en": "Yeah, maybe it's thanks to your help, Nanase?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11583",
+   "en": "Oh no, I didn't do anything...",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11584",
+   "en": "Nah, I guess that's what working a part-time job\ndoes for you. You were super efficient.",
+   "flags": [],
+   "notes": "Male (sasuga fudan kara baito shite iru dake atte)."
+  },
+  {
+   "id": "c11585",
+   "en": "No, at work I've got Ranka-san there with me,\nso it's really not worth that much praise...",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11586",
+   "en": "No, you really saved me. Thanks.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11587",
+   "en": "Really, when you say it like that...\nI-I'll be heading home now. Bye!",
+   "flags": [],
+   "notes": "x2, Nanase, embarrassed."
+  },
+  {
+   "id": "c11588",
+   "en": "(I didn't think we'd finish this fast.\nI owe Nanase one.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11589",
+   "en": "(Research at the library, huh...\nLooks like Nanase's gonna help me out,\nso let's get it done fast~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11590",
+   "en": "Nanase, thanks for helping me out.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11591",
+   "en": "Yeah, having you here is reassuring.",
+   "flags": [],
+   "notes": "Female (kokorozuyoi)."
+  },
+  {
+   "id": "c11592",
+   "en": "...So that's the deal.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11593",
+   "en": "Wow~, that sounds like a lot of work.\nThen let's split it up and knock it out!",
+   "flags": [],
+   "notes": "Female version (same text as c11576 bar a comma)."
+  },
+  {
+   "id": "c11594",
+   "en": "Right, then let's get started right away.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11595",
+   "en": "Phew~ Looks like we managed to finish...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11596",
+   "en": "Yeah, it's all thanks to your help, Nanase.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11597",
+   "en": "No, no, I guess that's what working a part-time job\ndoes for you. You were super efficient.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11598",
+   "en": "No, you really saved me. Thanks a lot.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11599",
+   "en": "(I didn't think we'd finish this fast.\nI'll have to thank Nanase.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11600",
+   "en": "(Research at the library again, huh...\nBut Nanase says she'll help me out.)",
+   "flags": [],
+   "notes": "Male. The Japanese ends with a blank line (full-width space), dropped as in c11799."
+  },
+  {
+   "id": "c11601",
+   "en": "Oh, Nanase.\nThanks for helping again today.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11602",
+   "en": "Don't mention it, we're classmates!\nCome on, let's get started!",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11603",
+   "en": "Phew, we somehow finished...\nYou saved me, Nanase.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11604",
+   "en": "Not at all. We both worked hard, huh.",
+   "flags": [],
+   "notes": "x2, Nanase (otagai otsukaresama)."
+  },
+  {
+   "id": "c11605",
+   "en": "Yeah, seriously, great work.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11606",
+   "en": "(She really saved me. That's Nanase for you.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11607",
+   "en": "(Research at the library again...\nBut Nanase says she'll help me out.)",
+   "flags": [],
+   "notes": "Female. Trailing blank line dropped as in c11799."
+  },
+  {
+   "id": "c11608",
+   "en": "Yeah, that's right.",
+   "flags": [],
+   "notes": "Female (sou yo ne)."
+  },
+  {
+   "id": "c11609",
+   "en": "Phew, we somehow finished...\nYou saved me, Nanase.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11610",
+   "en": "(She really saved me. That's Nanase for you.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11611",
+   "en": "(I asked Nanase out to thank her for helping\nme the other day, but...)",
+   "flags": [],
+   "notes": "Male, frd_nns_004."
+  },
+  {
+   "id": "c11612",
+   "en": "Oh, \\p-kun.\nSorry to keep you waiting.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11613",
+   "en": "Nah, I just got here myself.\nWell then, shall we go?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11614",
+   "en": "Okay, today's my thanks for your help the other day.\nIt's my treat, so order whatever you like.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11615",
+   "en": "Oh, okay, then I'll take you up on that...\nTea and cake, please.",
+   "flags": [],
+   "notes": "x2, Nanase (koucha = black tea)."
+  },
+  {
+   "id": "c11616",
+   "en": "Oh, that's all you want?\nThat's pretty ordinary...\nLook, they've got a Galaxy Parfait and stuff, see?",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Male. Galaxy Parfait: menu item, not in the glossary."
+  },
+  {
+   "id": "c11617",
+   "en": "Um, I really like Nyan-Nyan's dim sum and stuff.\nSo plain tea and cake is actually rare for me.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11618",
+   "en": "Huh, is that so?\nThen isn't working at Nyan-Nyan perfect for you?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11619",
+   "en": "Hmm..., I guess so.\nBut the trouble is, there's a lot of temptation.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11620",
+   "en": "It's true!\nWhen you're a little hungry and your favorite food\nis right there, it's a huge temptation!",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11621",
+   "en": "I see. Even more so if it's sweets, I guess?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11622",
+   "en": "Yes... I have to watch it a bit more...\nHow should I put it... it's a little...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x2, Nanase; she hints at her weight without saying it (kept unsaid)."
+  },
+  {
+   "id": "c11623",
+   "en": "Then couldn't you just work somewhere else?",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11624",
+   "en": "No way!",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11625",
+   "en": "Oh, I see...",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11626",
+   "en": "Yes, because then I'd get fewer chances\nto see Ranka-san...",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11627",
+   "en": "I see. That's a tough problem indeed...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11628",
+   "en": "But Nyan-Nyan has Ranka-san, and the uniforms\nare cute, so I just have to resist a little temptation!",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11629",
+   "en": "I guess you're right.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11630",
+   "en": "More importantly...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c11631",
+   "en": "Why do you always invite me?",
+   "flags": [],
+   "notes": "Male only (koe wo kakete kureru)."
+  },
+  {
+   "id": "c11632",
+   "en": "(Hmm, why is that, I wonder...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11633",
+   "en": "Well, not that I mind.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11634",
+   "en": "Oh, okay.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11635",
+   "en": "Oh, I know! If you'd like, come by the shop sometime.\nNext time, I'll be the one thanking you!",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11636",
+   "en": "Oh, no, today was my idea in the first place...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11637",
+   "en": "I'll treat you to Nyan-Nyan's best dim sum and tea.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11638",
+   "en": "Oh, that might be nice...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11639",
+   "en": "Then it's decided!\nIf you're coming, please let me know beforehand.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11640",
+   "en": "(She steamrolled me, but I'm kinda looking\nforward to it.)",
+   "flags": [],
+   "notes": "Male."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c11622 (x2): Nanase's unfinished hint (worrying about her weight from snacking) kept unsaid."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Galaxy Parfait (gyarakushii pafe), a menu item, c11616 (also c11645 in slice 159)"
+  ],
+  "unfinished": []
+ }
+}

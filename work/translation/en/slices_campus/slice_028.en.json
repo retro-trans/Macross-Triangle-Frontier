@@ -1,0 +1,496 @@
+{
+ "slice": 28,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c02023",
+   "en": "Oh, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02024",
+   "en": "I was just thinking how bored I am...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02025",
+   "en": "Hey, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02026",
+   "en": "That depends on the question.",
+   "flags": [],
+   "notes": "Female-version form (yoru ne)."
+  },
+  {
+   "id": "c02027",
+   "en": "You're a sniper, right, Michel-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02028",
+   "en": "So that fine-tuning is what matters?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02029",
+   "en": "That was really educational!\nYou're amazing, Michel-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02030",
+   "en": "It's pretty rare to end up\nat the same high school, too~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02031",
+   "en": "Why are you always fighting with Saotome-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02032",
+   "en": "But Saotome-kun always seems angry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02033",
+   "en": "(Looks to me like he's getting worked up\nabout it, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02034",
+   "en": "You too, Michel-kun.",
+   "flags": [],
+   "notes": "Answers Michel's 'Study hard, now.'"
+  },
+  {
+   "id": "c02035",
+   "en": "Huh, Michel... What's up?",
+   "flags": [],
+   "notes": "Male; ext_mcl_004 and 006."
+  },
+  {
+   "id": "c02036",
+   "en": "...Isn't there something you ought to tell me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02037",
+   "en": "Sigh... Guess it can't be helped...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02038",
+   "en": "I heard the rumors.\nYou've been hanging out a lot with that woman,\nhaven't you?",
+   "flags": [],
+   "notes": "x3 (also one female-variant occurrence). Michel says ano onna, blunt: 'that woman'."
+  },
+  {
+   "id": "c02039",
+   "en": "Play your cards right, okay?\nYou're the one who'll be in trouble later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02040",
+   "en": "Ah, yeah...\nThanks for the advice...",
+   "flags": [],
+   "notes": "go-chuukoku doumo, a little sarcastic."
+  },
+  {
+   "id": "c02041",
+   "en": "Huh, Michel-kun... What's up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02042",
+   "en": "...Don't you have anything to tell me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02043",
+   "en": "What's this all of a sudden...?\nSomething to tell you...? Not really... I think?\nProbably...",
+   "flags": [],
+   "notes": "Same English as the shared c00235 (slice 4); this is the -wa yo form."
+  },
+  {
+   "id": "c02044",
+   "en": "Sigh... Well, if that's how it is,\nI guess it can't be helped...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02045",
+   "en": "I heard the rumors.\nApparently you've been hanging out a lot\nwith that woman lately?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02046",
+   "en": "Huh? Rumors?\nWho's 'that woman' supposed to be?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02047",
+   "en": "Well, hang out with me once in a while too,\nwould ya?",
+   "flags": [],
+   "notes": "Michel asking the player; shared m/f."
+  },
+  {
+   "id": "c02048",
+   "en": "Um, yeah. Sometime soon.",
+   "flags": [],
+   "notes": "mata kondo ne."
+  },
+  {
+   "id": "c02049",
+   "en": "Let's hurry up and go change, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02050",
+   "en": "Yeah, I want to wash off this sweat already.",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c02051",
+   "en": "What's everyone doing at the locker room?",
+   "flags": [],
+   "notes": "koui-shitsu ni nan no you da: Michel seeing the crowd."
+  },
+  {
+   "id": "c02052",
+   "en": "Hey, what happened?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02053",
+   "en": "Uniforms?\nThis is the boys' locker room, you know?!",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c02054",
+   "en": "H-hey! \\p!\nMy uniform's gone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02055",
+   "en": "Of all things, I'm stuck in this getup...",
+   "flags": [],
+   "notes": "The Culture Fest outfit (c00254); costume not named, so 'getup'."
+  },
+  {
+   "id": "c02056",
+   "en": "Beats your gym clothes, right?\nThose are all sticky with sweat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02057",
+   "en": "Well, yeah...",
+   "flags": [],
+   "notes": "Also Yamashiro in frd_itk_101."
+  },
+  {
+   "id": "c02058",
+   "en": "It looks good on you. Bet the girls'll love it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02059",
+   "en": "A blessing in disguise, I guess.",
+   "flags": [],
+   "notes": "kega no koumyou."
+  },
+  {
+   "id": "c02060",
+   "en": "It's lunchtime, so I'd be thrilled if you poured\nme some tea in that outfit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02061",
+   "en": "I don't do service for guys.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02062",
+   "en": "Aw, come on. It's not like it'll cost you anything.",
+   "flags": [],
+   "notes": "heru mono ja nai shi."
+  },
+  {
+   "id": "c02063",
+   "en": "Geez, you have no idea how I feel...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02064",
+   "en": "(Michel sure had it rough!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02065",
+   "en": "Michel-kun, that was tiring, huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02066",
+   "en": "I'm not gonna peek.",
+   "flags": [],
+   "notes": "Answers 'No peeking, okay?!' (c00266)."
+  },
+  {
+   "id": "c02067",
+   "en": "It looks good on you, you know?\nThe girls around here are totally fired up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02068",
+   "en": "It's lunchtime, so I'd be thrilled if you poured\nme some tea in that outfit~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02069",
+   "en": "...If that is your wish...",
+   "flags": [],
+   "notes": "go-kibou to araba, playing the part."
+  },
+  {
+   "id": "c02070",
+   "en": "Hehe!",
+   "flags": [],
+   "notes": "Also Ranka in frd_rnk_113."
+  },
+  {
+   "id": "c02071",
+   "en": "You sure are carefree.",
+   "flags": [],
+   "notes": "nonki na mon da na."
+  },
+  {
+   "id": "c02072",
+   "en": "(Poor Michel-kun had it rough, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02073",
+   "en": "I heard the rumors.\nYou've been hanging out a lot with that guy,\nhaven't you?",
+   "flags": [],
+   "notes": "x3 (also one female-variant occurrence). ano otoko."
+  },
+  {
+   "id": "c02074",
+   "en": "Ah, yeah...\nI'll invite you next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02075",
+   "en": "I heard the rumors.\nApparently you've been hanging out a lot\nwith that guy lately?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02076",
+   "en": "Huh? Rumors?\nWho's 'that guy' supposed to be?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02077",
+   "en": "(Huh? The one walking this way is...\nShirakawa.)",
+   "flags": [],
+   "notes": "Shared m/f (one occurrence has no speaker)."
+  },
+  {
+   "id": "c02078",
+   "en": "(Looks like she noticed me too.\nWow, she always walks so gracefully.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02079",
+   "en": "\\p-kun,\ngrinning like that in the middle of town\nwill make people question your character.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02080",
+   "en": "It's just, I was admiring\nhow beautifully you walk, Shirakawa.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02081",
+   "en": "Beautiful? Me...?\nThat's not true at all.",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c02082",
+   "en": "Your posture's so straight, too.\nDid you do ballet or something before?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02083",
+   "en": "I never did ballet, but my family has been military\nfor generations, so maybe it's from watching\nhow my father and the others walk.",
+   "flags": [],
+   "notes": "chichi-tachi: her father and the other men of the family."
+  },
+  {
+   "id": "c02084",
+   "en": "So does a military family eat a lot of rations?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02085",
+   "en": "Of course not.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02086",
+   "en": "Or curry every Friday?",
+   "flags": [],
+   "notes": "Joke on navy Friday curry."
+  },
+  {
+   "id": "c02087",
+   "en": "What navy is that supposed to be...",
+   "flags": [],
+   "notes": "doko no kaigun desu ka."
+  },
+  {
+   "id": "c02088",
+   "en": "I'd eat it every week, though. Curry, I mean.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02089",
+   "en": "I don't particularly want it every week.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02090",
+   "en": "So is curry at the Shirakawa house\nabout once a month?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02091",
+   "en": "...Maybe about twice a month.\nI've never really thought about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02092",
+   "en": "I see. So is the meat chicken?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02093",
+   "en": "The Shirakawa way is to use bone-in hippo-cow.",
+   "flags": [],
+   "notes": "kaba-gyuu: glossary 'hippo-cow'."
+  },
+  {
+   "id": "c02094",
+   "en": "Whoa~\nThat sounds delicious!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02095",
+   "en": "Of course it is! I let it sit for three days!",
+   "flags": [],
+   "notes": "mikka nekasemasu kara, touzen desu."
+  },
+  {
+   "id": "c02096",
+   "en": "(Wow, she sounds really confident...\nIt must be seriously good...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02097",
+   "en": "Since you're so curious,\nshall I make it for you sometime?",
+   "flags": [],
+   "notes": "sokomade iu nara, kondo gochisou shimashou ka."
+  },
+  {
+   "id": "c02098",
+   "en": "Huh, really?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02099",
+   "en": "Yes, I don't mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02100",
+   "en": "All right! Shirakawa's curry!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02101",
+   "en": "...Wait, why were we even talking about curry?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02102",
+   "en": "...Who knows...",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c02038/c02045/c02046: Michel's blunt 'ano onna' rendered 'that woman' (the matching 'ano otoko' as 'that guy'); who is meant is never said.",
+   "c02055/c02060: the outfit Michel borrows from the Culture Fest is not named in the scene; kept as 'this getup' / 'that outfit'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

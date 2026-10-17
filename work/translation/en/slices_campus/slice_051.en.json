@@ -1,0 +1,500 @@
+{
+ "slice": 51,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c03768",
+   "en": "Yeah, maybe I am.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03769",
+   "en": "Heh, no doubt about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03770",
+   "en": "(Alto really does love the sky.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03771",
+   "en": "(Looks like Saotome-kun's up on the roof again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03772",
+   "en": "Saotome-kun, you're here again?",
+   "flags": [],
+   "notes": "Shared by the female rooftop (frd_alt_001) and library (frd_alt_002) scenes; 'here' fits both."
+  },
+  {
+   "id": "c03773",
+   "en": "You really love it, don't you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03774",
+   "en": "Yeah, maybe I am.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03775",
+   "en": "(Saotome-kun really does love the sky.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03776",
+   "en": "(Alto said he'd be in the library.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03777",
+   "en": "Hey, Alto. What are you reading?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03778",
+   "en": "Yeah...",
+   "flags": [],
+   "notes": "Absent-minded reply; also used in scd_fes_908 ('Yeah...' as he agrees)."
+  },
+  {
+   "id": "c03779",
+   "en": "You seem really into it. Is it any good?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03780",
+   "en": "(He's not lost in thought... is he?\nOr he just can't be bothered with me?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03781",
+   "en": "(Okay. If that's how it's gonna be...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03782",
+   "en": "Hm, huh? What's this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03783",
+   "en": "'A Genius in Female Roles: The World of Kabuki'...?",
+   "flags": [],
+   "notes": "Book title; onnagata (kabuki actor of female roles) rendered 'genius in female roles', as the earlier campus lines and Alto's profile describe it."
+  },
+  {
+   "id": "c03784",
+   "en": "'A splendid lineage, rare talent and beauty...\nAnd now that figure dances across Frontier.'",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03785",
+   "en": "Urk!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03786",
+   "en": "'Alto Saotome in Action: A Photo Coll...'",
+   "flags": [],
+   "notes": "Title cut off mid-word (the Japanese breaks off inside 'photo collection'); kept unfinished."
+  },
+  {
+   "id": "c03787",
+   "en": "Ahh, ahh!\n\\p!\nWhat brings you here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03788",
+   "en": "Oh, nothing, just a book that caught my eye.\nSeems there's this gorgeous kabuki actor\nwho plays female roles named Saotome...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03789",
+   "en": "Nngh, okay, okay! I'm sorry I ignored you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03790",
+   "en": "Well, whatever.\nSo what were you looking at so intently?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03791",
+   "en": "Yeah, it's this here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03792",
+   "en": "'Mother Sky'... A photo book of the sky...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03793",
+   "en": "Yeah. Somehow, when I look through this,\nit feels like I'm up on the roof watching the sky.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03794",
+   "en": "I see. So that's why your head was\nin the clouds.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03795",
+   "en": "Well, part of it was that I just plain\ncouldn't be bothered.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03796",
+   "en": "Hey, come on...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03797",
+   "en": "(Saotome-kun said he'd be at the library.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03798",
+   "en": "Hey, Saotome-kun, what are you reading?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03799",
+   "en": "You seem really into it. Is it interesting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03800",
+   "en": "(He's not lost in thought... is he?\nMaybe he just can't be bothered with me?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03801",
+   "en": "(Hmm, if that's how it's gonna be...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03802",
+   "en": "Hm, huh? What's this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03803",
+   "en": "'A Genius in Female Roles: The World of Kabuki'...\nit says?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03804",
+   "en": "Oh, nothing, just a book that caught my eye.\nSeems there's this gorgeous kabuki actor\nwho plays female roles named Saotome...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03805",
+   "en": "As long as you get it.\nSo what were you looking at so intently?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03806",
+   "en": "'Mother Sky'... A photo book of the sky, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03807",
+   "en": "I see. So that's why your head was\nin the clouds.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03808",
+   "en": "Hey, that's mean!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03809",
+   "en": "(Looks like Alto's in the library again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03810",
+   "en": "Yeah, I got the urge to look at that thing again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03811",
+   "en": "You must really like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03812",
+   "en": "Hm? \\p, you're still here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03813",
+   "en": "Huh?! That's harsh.\nI'll go get \"that\" book again!",
+   "flags": [],
+   "notes": "'That' = the kabuki book about Alto from the first library scene; 'book' added so the threat reads."
+  },
+  {
+   "id": "c03814",
+   "en": "Sorry, I was kidding.\nAnything but that, please...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03815",
+   "en": "(Alto's head is always in the clouds\nwhen he looks at that book...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03816",
+   "en": "(Looks like Saotome-kun's in the library again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03817",
+   "en": "You must really like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03818",
+   "en": "Huh?! That's so mean!\nI'll go get \"that\" book again!",
+   "flags": [],
+   "notes": "As c03813."
+  },
+  {
+   "id": "c03819",
+   "en": "(Saotome-kun's head is always in the clouds\nwhen he looks at that book...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03820",
+   "en": "(Okay, I made plans with Alto today, didn't I...\nWhere should we go...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03821",
+   "en": "Hey. Sorry to keep you waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03822",
+   "en": "Hey, Alto.\nHow about tea at \"Silver Moon\" today?\nYou were going to tell me something last time, right?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in locations.json."
+  },
+  {
+   "id": "c03823",
+   "en": "Hm? Oh, yeah, that's right.\nLet's get going, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03824",
+   "en": "Phew, this place sure is popular\nwith Mihoshi students.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03825",
+   "en": "Yeah, there are lots of familiar faces here,\neven on a day off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03826",
+   "en": "It's kinda...",
+   "flags": [],
+   "notes": "Also the female player in nml_alt_012 (girls squealing over Alto); trailing 'It's kinda...' fits both."
+  },
+  {
+   "id": "c03827",
+   "en": "What's wrong?",
+   "flags": [],
+   "notes": "Shared by Alto and Michel (frd_mcl_004)."
+  },
+  {
+   "id": "c03828",
+   "en": "Well, it kinda feels like all the girls\nare staring over here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03829",
+   "en": "You think?\nAren't you being a little self-conscious?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03830",
+   "en": "(I'm pretty sure it's Alto they're staring at, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03831",
+   "en": "Keep worrying about girls that much,\nand you'll end up like Michael.",
+   "flags": [],
+   "notes": "Alto says the full name Mihaeru here, so 'Michael' (Michel only where the Japanese has Mishieru)."
+  },
+  {
+   "id": "c03832",
+   "en": "Hahaha...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03833",
+   "en": "Geez.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03834",
+   "en": "By the way, that \"thing you wanted to ask\"\nyou mentioned before... what was it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03835",
+   "en": "Hm? Oh, yeah, right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03836",
+   "en": "I wanted to ask you, \"Why'd you join\nthe Pilot Course?\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03837",
+   "en": "Huh?! That's it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03838",
+   "en": "What do you mean, \"that's it\"?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03839",
+   "en": "Well, you said you had \"something to ask,\"\nso I figured it was something more serious...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03840",
+   "en": "Hm... Ah, I see. Yeah.\nNow that you mention it... maybe you're right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03841",
+   "en": "Right? For something you made such\na point of asking...",
+   "flags": [],
+   "notes": "Literally 'though for something you'd ask so formally...'; the player means the question was trivial for such a build-up."
+  },
+  {
+   "id": "c03842",
+   "en": "Never mind.\nSo, what's your answer?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03843",
+   "en": "Hmm, let's see. I think it was...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03844",
+   "en": "...and that's about it.",
+   "flags": [],
+   "notes": "The player's actual answer is skipped by the script (time cut between rows)."
+  },
+  {
+   "id": "c03845",
+   "en": "I see. So you really thought it through.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03846",
+   "en": "So what about you, Alto?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03847",
+   "en": "Ngh... W-well, never mind about me...",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c03822: uses Silver Moon (provisional in locations.json).",
+   "c03783/c03803: book title for tensai onnagata rendered 'A Genius in Female Roles: The World of Kabuki' (no glossary term for onnagata; earlier campus rows say 'genius of female roles').",
+   "c03784/c03786: in-world book blurb and the cut-off title 'Alto Saotome in Action: A Photo Coll...' (Japanese breaks off mid-word).",
+   "c03841: 'aratamete kiku ni shite wa' read as 'for something you made such a point of asking' (the question was trivial for the build-up)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

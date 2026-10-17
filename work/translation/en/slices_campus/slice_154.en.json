@@ -1,0 +1,496 @@
+{
+ "slice": 154,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c11250",
+   "en": "All right, you're on!",
+   "flags": [],
+   "notes": "Male, frd_myk_108 (yoshi, shoubu da)."
+  },
+  {
+   "id": "c11251",
+   "en": "(Today I came to the pool with Miyuki again.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11252",
+   "en": "Don't worry about it. Getting ready and all\nmust be a lot of work, huh.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11253",
+   "en": "The school pool's nothing to sneeze at, huh~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11254",
+   "en": "Yeah, I need to get my revenge for last time.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11255",
+   "en": "(Today I'm gonna study with Shirakawa!)",
+   "flags": [],
+   "notes": "Male, frd_myk_109."
+  },
+  {
+   "id": "c11256",
+   "en": "Sorry to keep you waiting, Shirakawa.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11257",
+   "en": "I just got here too.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11258",
+   "en": "So, shall we head to the library?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11259",
+   "en": "Hehe, you really were studying seriously.",
+   "flags": [],
+   "notes": "x2, Miyuki, after the session."
+  },
+  {
+   "id": "c11260",
+   "en": "I-I'm always serious.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11261",
+   "en": "Let's just say that's true, shall we?",
+   "flags": [],
+   "notes": "x2, Miyuki, teasing."
+  },
+  {
+   "id": "c11262",
+   "en": "That's a harsh way to put it...",
+   "flags": [],
+   "notes": "Male (hidoi iwareyou)."
+  },
+  {
+   "id": "c11263",
+   "en": "Oh, I've got a little something to do\nafter this, so I'll head home first.",
+   "flags": [],
+   "notes": "x2, Miyuki; as c11108."
+  },
+  {
+   "id": "c11264",
+   "en": "(Today I'm going to study with Miyuki.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11265",
+   "en": "Sorry to keep you waiting, Miyuki~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11266",
+   "en": "Well then, let's head to the library!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11267",
+   "en": "I-I'm always serious.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11268",
+   "en": "Huh, that's kind of a harsh way to put it...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11269",
+   "en": "(Today I came to study with Shirakawa again!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11270",
+   "en": "Did I keep you waiting, Shirakawa?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11271",
+   "en": "You're late. Keeping a girl waiting, really...",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11272",
+   "en": "S-sorry... I forgot my pens and stuff...\nForgive me!!",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11273",
+   "en": "Hehe, I'm just kidding!\nCome on, let's go.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11274",
+   "en": "You worked hard again today.",
+   "flags": [],
+   "notes": "x2, Miyuki; the player answers 'You think so?'"
+  },
+  {
+   "id": "c11275",
+   "en": "Yes. You even ignored me when I called you.",
+   "flags": [],
+   "notes": "x2, Miyuki (the player was too absorbed to hear)."
+  },
+  {
+   "id": "c11276",
+   "en": "...Seriously?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11277",
+   "en": "But I didn't want to disturb you,\nso I just watched.",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11278",
+   "en": "Your face when you're focused looked\npretty cool, you know.",
+   "flags": [],
+   "notes": "x2, Miyuki, both genders (ririshii), so no gendered word."
+  },
+  {
+   "id": "c11279",
+   "en": "Ahaha... Thanks.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11280",
+   "en": "W-well then... See you...!",
+   "flags": [],
+   "notes": "x2, Miyuki, flustered (casual mata ne)."
+  },
+  {
+   "id": "c11281",
+   "en": "(Today I came to study with Miyuki again.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11282",
+   "en": "Did I keep you waiting, Miyuki?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11283",
+   "en": "Geez... You're late.\nKeeping me waiting like that...!",
+   "flags": [],
+   "notes": "Miyuki, female scene."
+  },
+  {
+   "id": "c11284",
+   "en": "Huh... Seriously?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11285",
+   "en": "Yes. But I didn't want to disturb you,\nso I just watched.",
+   "flags": [],
+   "notes": "Miyuki, female scene."
+  },
+  {
+   "id": "c11286",
+   "en": "(Today I'm hanging out with Shirakawa!)",
+   "flags": [],
+   "notes": "Male, frd_myk_110."
+  },
+  {
+   "id": "c11287",
+   "en": "Just wandering around like this, with nowhere\nin particular to go, is nice too.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11288",
+   "en": "Yeah, a day off like this isn't so bad.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11289",
+   "en": "Oh, a little knickknack shop!\nMind if we go take a look?",
+   "flags": [],
+   "notes": "x2, Miyuki asking the player."
+  },
+  {
+   "id": "c11290",
+   "en": "I'm sorry for dragging you\naround everywhere.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11291",
+   "en": "Nah, I had fun too, so don't worry\nabout it at all.",
+   "flags": [],
+   "notes": "x2, male player (both visits)."
+  },
+  {
+   "id": "c11292",
+   "en": "Besides, I found out you're surprisingly\ninto cute stuff, Shirakawa.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11293",
+   "en": "N-never mind my tastes!\nGeez, I'm not talking to you anymore!",
+   "flags": [],
+   "notes": "x4, Miyuki, both genders and visits (mou, shirimasen, a playful sulk)."
+  },
+  {
+   "id": "c11294",
+   "en": "(Today I came to hang out with Miyuki.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11295",
+   "en": "Yeah, a day off like this isn't so bad.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11296",
+   "en": "I had fun too, so don't worry about it at all.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11297",
+   "en": "Besides, I found out you're surprisingly\ninto cute stuff, Miyuki!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11298",
+   "en": "(Today I came to hang out with Shirakawa again!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11299",
+   "en": "Window shopping is nice too, isn't it?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11300",
+   "en": "Yeah, just wandering around without buying\nanything is fun, huh.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11301",
+   "en": "Oh, I'd like to look at some clothes.\nMind if we go take a quick look?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11302",
+   "en": "I'm sorry again today for dragging\nyou around everywhere.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11303",
+   "en": "Besides, now I know your taste in clothes.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11304",
+   "en": "(Today I came to hang out with Miyuki again.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11305",
+   "en": "Yeah, just wandering around without buying\nanything is fun, right?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11306",
+   "en": "Nah, I had fun too, so don't worry\nabout it at all.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11307",
+   "en": "Besides, now I know your taste in clothes!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11308",
+   "en": "(Today I came to the artificial island\nwith Shirakawa!)",
+   "flags": [],
+   "notes": "Male, frd_myk_111."
+  },
+  {
+   "id": "c11309",
+   "en": "Nice weather again today, isn't it?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11310",
+   "en": "Yeah, if it rained after we came all the way\nhere, it'd be a total disaster.",
+   "flags": [],
+   "notes": "Male (me mo aterarenai)."
+  },
+  {
+   "id": "c11311",
+   "en": "Hehe, that's true...\nWhy don't we skip swimming today and take\na little walk instead?",
+   "flags": [],
+   "notes": "x2, Miyuki (kusu = a small giggle)."
+  },
+  {
+   "id": "c11312",
+   "en": "That was fun, wasn't it?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11313",
+   "en": "Yeah, I thought the artificial island was just\nbeaches, but it's got other great views too, huh.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11314",
+   "en": "Yes, it was nice to make all sorts\nof new discoveries.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11315",
+   "en": "Hey, Shirakawa.\nMind if I invite you out again?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11316",
+   "en": "Yes, I'll be waiting.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11317",
+   "en": "(Today I came to the artificial island\nwith Miyuki.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11318",
+   "en": "Yeah, if it rained after we came all the way\nhere, it'd be a total disaster.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11319",
+   "en": "Yeah, I thought the artificial island was just\nbeaches, but it's got other great views too...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11320",
+   "en": "Hey, Miyuki.\nCan I invite you out again?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11321",
+   "en": "(Today I came to the artificial island\nwith Shirakawa again!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11322",
+   "en": "It's always clear skies here, isn't it?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11323",
+   "en": "Just like my heart.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11324",
+   "en": "Sigh... What are you even saying?",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11325",
+   "en": "Let's walk a little, shall we?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11326",
+   "en": "I never thought there'd be such\na steep cliff over there.",
+   "flags": [],
+   "notes": "Male (anna = that cliff over there)."
+  },
+  {
+   "id": "c11327",
+   "en": "That's true.\nIt seems dangerous if tourists wander in, though...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11328",
+   "en": "Well, I guess there's no point in us\nworrying about it.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11329",
+   "en": "Guess we should head home soon.",
+   "flags": [],
+   "notes": "Male."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c11293 (x4, also c11344 in slice 155): mou, shirimasen rendered as a playful sulk 'Geez, I'm not talking to you anymore!'.",
+   "c11278: ririshii (shared by both genders) rendered 'pretty cool' to avoid a gendered word."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

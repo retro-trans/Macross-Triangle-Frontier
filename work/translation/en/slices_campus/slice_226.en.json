@@ -1,0 +1,391 @@
+{
+ "slice": 226,
+ "rows_in_slice": 63,
+ "rows_examined": 63,
+ "rows": [
+  {
+   "id": "c16452",
+   "en": "(Sheryl's concert is coming up soon, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16453",
+   "en": "What's the matter, \\p?\nYou've got a very slack look on your face.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16454",
+   "en": "Oh, it's just that Sheryl's concert is coming up soon...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16455",
+   "en": "Sher...yl...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16456",
+   "en": "Yes. \"Sheryl.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16457",
+   "en": "Is that some kind of singer?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16458",
+   "en": "Yes, that's right...\nWait, Sensei, don't tell me you don't know Sheryl...",
+   "flags": [],
+   "notes": "Japanese trails off after 'Sheryl o...'; the implied 'don't know' is spelled out, Hilda's reply confirms it."
+  },
+  {
+   "id": "c16459",
+   "en": "That's right, I don't. Got a problem with that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16460",
+   "en": "Well, the point is, you can get by in life\nwithout knowing that sort of thing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16461",
+   "en": "(Well, sure, but not even knowing Sheryl...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16462",
+   "en": "(Sheryl's concert is coming up soon, isn't it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16463",
+   "en": "What's the matter, \\p?\nYour face has gone all slack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16464",
+   "en": "(I mean, that's true, but not even knowing Sheryl...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16465",
+   "en": "(Even if they say a new planet's been found...\nI just can't picture it at all.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16466",
+   "en": "What is it, \\p?\nWhy such a serious face...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16467",
+   "en": "Hilda-sensei...\nAbout that new planet they say they've found...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16468",
+   "en": "Ah, yes.\nStudents and teachers alike can talk of nothing else.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16469",
+   "en": "What do you think about it, Hilda-sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16470",
+   "en": "Well, I don't really think anything of it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16471",
+   "en": "There's no point in thinking about that.\nWhatever will be, will be. That's all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16472",
+   "en": "That's true, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16473",
+   "en": "Never mind that. Think about the here and now.\nThat's what matters more.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16474",
+   "en": "...Yes, you're right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16475",
+   "en": "(Hilda-sensei is really calm about it, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16476",
+   "en": "(Even if they say a new planet's been found...\nI can't picture it at all.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16477",
+   "en": "(Hilda-sensei is so calm about it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16478",
+   "en": "(All right, I managed to get up early, so today I'll be\nthe first one at school and do some self-training!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16479",
+   "en": "Oh, \\p. Good morning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16480",
+   "en": "Huh?! Hilda-sensei?",
+   "flags": [],
+   "notes": "x3: also nml_hld_017 male (when she turns around); fits both."
+  },
+  {
+   "id": "c16481",
+   "en": "What? What's the matter?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16482",
+   "en": "Oh, it's just that I was sure\nI'd be the first one at school...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16483",
+   "en": "I see. Too bad for you. But coming in at this hour,\nyou won't be first, or even second.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16484",
+   "en": "Huh, really?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16485",
+   "en": "Pinon, who's both a student and a teacher, and your\nclassmate Shirakawa, for example, come in quite early.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16486",
+   "en": "...Really? I had no idea...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16487",
+   "en": "Well, I'm joking.\nI just happened to come in early myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16488",
+   "en": "Whaaat~!!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16489",
+   "en": "(Hilda-sensei's jokes are hard to read...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16490",
+   "en": "(All right, I managed to get up early, so today I'll be\nthe first one at school and do some self-training!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16491",
+   "en": "Oh, it's just that I was sure\nI'd be the first one at school...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16492",
+   "en": "(Hilda-sensei's jokes are so hard to read...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16493",
+   "en": "(To think a single attack could do this to the city...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16494",
+   "en": "Hilda-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16495",
+   "en": "So you made it through safe. I'm glad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16496",
+   "en": "Yes. I'm glad to see you're safe too, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16497",
+   "en": "The city's in ruins, and yet I, a pilot, came through\nwithout a scratch... Strange, isn't it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16498",
+   "en": "It's time we put an end to it... this fight...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16499",
+   "en": "...Yes, you're right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16500",
+   "en": "(Hilda-sensei seemed really weighed down by it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16501",
+   "en": "Yes. It looks like you're safe too, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16502",
+   "en": "(Hilda-sensei seemed really weighed down by it, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16503",
+   "en": "(All right, tests are finally over!\nTime to have all the fun I want~!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16504",
+   "en": "Huh? Hilda-sensei, what is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16505",
+   "en": "Weren't you just thinking something like,\n\"Tests are over, time to play~!\"?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16506",
+   "en": "Huh?! How did you know...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16507",
+   "en": "I knew it...\nIt was written all over your face. That dopey face of yours.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16508",
+   "en": "Ah, sorry about that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16509",
+   "en": "Well, don't overdo the unwinding. See you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16510",
+   "en": "(Hilda-sensei is sharp, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16511",
+   "en": "(All right, tests are finally over!\nI'm gonna have all the fun I want~!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16512",
+   "en": "Yes? Hilda-sensei, what is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16513",
+   "en": "Ah, um, sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16514",
+   "en": "(Hilda-sensei really is sharp...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

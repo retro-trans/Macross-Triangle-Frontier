@@ -1,0 +1,1948 @@
+{
+ "slice": 40,
+ "rows_in_slice": 320,
+ "rows_examined": 320,
+ "rows": [
+  {
+   "id": "u4617",
+   "en": "Hilda Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4618",
+   "en": "Hilda Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4619",
+   "en": "Hilda Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4620",
+   "en": "Hilda Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4621",
+   "en": "Hilda Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4622",
+   "en": "Hilda End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4623",
+   "en": "Hilda End (Female)",
+   "flags": [],
+   "notes": "Ending, female player version."
+  },
+  {
+   "id": "u4624",
+   "en": "Hilda Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4625",
+   "en": "Hilda Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4626",
+   "en": "Hilda Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4627",
+   "en": "Hilda Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4628",
+   "en": "Hilda Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4629",
+   "en": "Hilda Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4630",
+   "en": "Hilda Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4631",
+   "en": "Hilda Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4632",
+   "en": "Hilda Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4633",
+   "en": "Hilda Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4634",
+   "en": "Hilda Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4635",
+   "en": "Hilda Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4636",
+   "en": "Hilda Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4637",
+   "en": "Hilda Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4638",
+   "en": "Hilda Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4639",
+   "en": "Hilda Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4640",
+   "en": "Hoshimura Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4641",
+   "en": "Hoshimura Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4642",
+   "en": "Hoshimura Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4643",
+   "en": "Hoshimura Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4644",
+   "en": "Hoshimura Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4645",
+   "en": "Hoshimura Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4646",
+   "en": "Hoshimura Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4647",
+   "en": "Hoshimura Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4648",
+   "en": "Hoshimura End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4649",
+   "en": "Hoshimura End (Female)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ending, female player version. Width 154px vs 140px estimate from the Japanese; the same table has entries estimated up to 210px, so left uncompressed."
+  },
+  {
+   "id": "u4650",
+   "en": "Hoshimura Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4651",
+   "en": "Hoshimura Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4652",
+   "en": "Hoshimura Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4653",
+   "en": "Hoshimura Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4654",
+   "en": "Hoshimura Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4655",
+   "en": "Hoshimura Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4656",
+   "en": "Hoshimura Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4657",
+   "en": "Hoshimura Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4658",
+   "en": "Hoshimura Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4659",
+   "en": "Hoshimura Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4660",
+   "en": "Hoshimura Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4661",
+   "en": "Hoshimura Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4662",
+   "en": "Hoshimura Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4663",
+   "en": "Hoshimura Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4664",
+   "en": "Hoshimura Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4665",
+   "en": "Hoshimura Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4666",
+   "en": "Yamashiro Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4667",
+   "en": "Yamashiro Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4668",
+   "en": "Yamashiro Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4669",
+   "en": "Yamashiro Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4670",
+   "en": "Yamashiro Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4671",
+   "en": "Yamashiro Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4672",
+   "en": "Yamashiro Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4673",
+   "en": "Yamashiro Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4674",
+   "en": "Yamashiro End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4675",
+   "en": "Yamashiro End (Female)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ending, female player version. Width 152px vs 140px estimate from the Japanese; the same table has entries estimated up to 210px, so left uncompressed."
+  },
+  {
+   "id": "u4676",
+   "en": "Yamashiro Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4677",
+   "en": "Yamashiro Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4678",
+   "en": "Yamashiro Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4679",
+   "en": "Yamashiro Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4680",
+   "en": "Yamashiro Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4681",
+   "en": "Yamashiro Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4682",
+   "en": "Yamashiro Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4683",
+   "en": "Yamashiro Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4684",
+   "en": "Yamashiro Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4685",
+   "en": "Yamashiro Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4686",
+   "en": "Yamashiro Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4687",
+   "en": "Yamashiro Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4688",
+   "en": "Yamashiro Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4689",
+   "en": "Yamashiro Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4690",
+   "en": "Yamashiro Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4691",
+   "en": "Yamashiro Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4692",
+   "en": "Akimizu Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4693",
+   "en": "Akimizu Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4694",
+   "en": "Akimizu Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4695",
+   "en": "Akimizu Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4696",
+   "en": "Akimizu Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4697",
+   "en": "Akimizu Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4698",
+   "en": "Akimizu Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4699",
+   "en": "Akimizu Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4700",
+   "en": "Akimizu End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4701",
+   "en": "Akimizu End (Female)",
+   "flags": [],
+   "notes": "Ending, female player version."
+  },
+  {
+   "id": "u4702",
+   "en": "Akimizu Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4703",
+   "en": "Akimizu Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4704",
+   "en": "Akimizu Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4705",
+   "en": "Akimizu Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4706",
+   "en": "Akimizu Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4707",
+   "en": "Akimizu Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4708",
+   "en": "Akimizu Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4709",
+   "en": "Akimizu Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4710",
+   "en": "Akimizu Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4711",
+   "en": "Akimizu Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4712",
+   "en": "Akimizu Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4713",
+   "en": "Akimizu Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4714",
+   "en": "Akimizu Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4715",
+   "en": "Akimizu Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4716",
+   "en": "Akimizu Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4717",
+   "en": "Akimizu Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4718",
+   "en": "Claire Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4719",
+   "en": "Claire Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4720",
+   "en": "Claire Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4721",
+   "en": "Claire Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4722",
+   "en": "Claire Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4723",
+   "en": "Claire Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4724",
+   "en": "Claire Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4725",
+   "en": "Claire Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4726",
+   "en": "Claire End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4727",
+   "en": "Claire End (Female)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ending, female player version. Width 123px vs 122px estimate from the Japanese; the same table has entries estimated up to 210px, so left uncompressed."
+  },
+  {
+   "id": "u4728",
+   "en": "Claire Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4729",
+   "en": "Claire Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4730",
+   "en": "Claire Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4731",
+   "en": "Claire Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4732",
+   "en": "Claire Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4733",
+   "en": "Claire Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4734",
+   "en": "Claire Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4735",
+   "en": "Claire Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4736",
+   "en": "Claire Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4737",
+   "en": "Claire Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4738",
+   "en": "Claire Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4739",
+   "en": "Claire Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4740",
+   "en": "Claire Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4741",
+   "en": "Claire Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4742",
+   "en": "Claire Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4743",
+   "en": "Claire Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4744",
+   "en": "Pinon Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4745",
+   "en": "Pinon Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4746",
+   "en": "Pinon Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4747",
+   "en": "Pinon Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4748",
+   "en": "Pinon Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4749",
+   "en": "Pinon Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4750",
+   "en": "Pinon Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4751",
+   "en": "Pinon Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4752",
+   "en": "Pinon End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4753",
+   "en": "Pinon End (Female)",
+   "flags": [],
+   "notes": "Ending, female player version."
+  },
+  {
+   "id": "u4754",
+   "en": "Pinon Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4755",
+   "en": "Pinon Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4756",
+   "en": "Pinon Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4757",
+   "en": "Pinon Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4758",
+   "en": "Pinon Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4759",
+   "en": "Pinon Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4760",
+   "en": "Pinon Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4761",
+   "en": "Pinon Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4762",
+   "en": "Pinon Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4763",
+   "en": "Pinon Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4764",
+   "en": "Pinon Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4765",
+   "en": "Pinon Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4766",
+   "en": "Pinon Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4767",
+   "en": "Pinon Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4768",
+   "en": "Pinon Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4769",
+   "en": "Pinon Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4770",
+   "en": "Alto Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4771",
+   "en": "Alto Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4772",
+   "en": "Alto Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4773",
+   "en": "Alto Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4774",
+   "en": "Alto Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4775",
+   "en": "Alto Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4776",
+   "en": "Alto Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4777",
+   "en": "Alto Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4778",
+   "en": "Alto End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4779",
+   "en": "Alto End (Female)",
+   "flags": [],
+   "notes": "Ending, female player version."
+  },
+  {
+   "id": "u4780",
+   "en": "Alto Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4781",
+   "en": "Alto Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4782",
+   "en": "Alto Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4783",
+   "en": "Alto Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4784",
+   "en": "Alto Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4785",
+   "en": "Alto Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4786",
+   "en": "Alto Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4787",
+   "en": "Alto Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4788",
+   "en": "Alto Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4789",
+   "en": "Alto Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4790",
+   "en": "Alto Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4791",
+   "en": "Alto Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4792",
+   "en": "Alto Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4793",
+   "en": "Alto Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4794",
+   "en": "Alto Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4795",
+   "en": "Alto Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4796",
+   "en": "Michel Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4797",
+   "en": "Michel Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4798",
+   "en": "Michel Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4799",
+   "en": "Michel Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4800",
+   "en": "Michel Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4801",
+   "en": "Michel Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4802",
+   "en": "Michel Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4803",
+   "en": "Michel Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4804",
+   "en": "Michel End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4805",
+   "en": "Michel End (Female)",
+   "flags": [],
+   "notes": "Ending, female player version."
+  },
+  {
+   "id": "u4806",
+   "en": "Michel Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4807",
+   "en": "Michel Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4808",
+   "en": "Michel Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4809",
+   "en": "Michel Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4810",
+   "en": "Michel Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4811",
+   "en": "Michel Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4812",
+   "en": "Michel Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4813",
+   "en": "Michel Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4814",
+   "en": "Michel Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4815",
+   "en": "Michel Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4816",
+   "en": "Michel Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4817",
+   "en": "Michel Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4818",
+   "en": "Michel Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4819",
+   "en": "Michel Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4820",
+   "en": "Michel Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4821",
+   "en": "Michel Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4822",
+   "en": "Luca Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4823",
+   "en": "Luca Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4824",
+   "en": "Luca Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4825",
+   "en": "Luca Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4826",
+   "en": "Luca Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4827",
+   "en": "Luca Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4828",
+   "en": "Luca Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4829",
+   "en": "Luca Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4830",
+   "en": "Luca End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4831",
+   "en": "Luca End (Female)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ending, female player version. Width 115px vs 105px estimate from the Japanese; the same table has entries estimated up to 210px, so left uncompressed."
+  },
+  {
+   "id": "u4832",
+   "en": "Luca Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4833",
+   "en": "Luca Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4834",
+   "en": "Luca Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4835",
+   "en": "Luca Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4836",
+   "en": "Luca Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4837",
+   "en": "Luca Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4838",
+   "en": "Luca Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4839",
+   "en": "Luca Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4840",
+   "en": "Luca Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4841",
+   "en": "Luca Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4842",
+   "en": "Luca Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4843",
+   "en": "Luca Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4844",
+   "en": "Luca Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4845",
+   "en": "Luca Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4846",
+   "en": "Luca Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4847",
+   "en": "Luca Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4848",
+   "en": "Nanase Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4849",
+   "en": "Nanase Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4850",
+   "en": "Nanase Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4851",
+   "en": "Nanase Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4852",
+   "en": "Nanase Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4853",
+   "en": "Nanase Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4854",
+   "en": "Nanase Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4855",
+   "en": "Nanase Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4856",
+   "en": "Nanase End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4857",
+   "en": "Nanase End (Female)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ending, female player version. Width 131px vs 122px estimate from the Japanese; the same table has entries estimated up to 210px, so left uncompressed."
+  },
+  {
+   "id": "u4858",
+   "en": "Nanase Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4859",
+   "en": "Nanase Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4860",
+   "en": "Nanase Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4861",
+   "en": "Nanase Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4862",
+   "en": "Nanase Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4863",
+   "en": "Nanase Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4864",
+   "en": "Nanase Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4865",
+   "en": "Nanase Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4866",
+   "en": "Nanase Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4867",
+   "en": "Nanase Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4868",
+   "en": "Nanase Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4869",
+   "en": "Nanase Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4870",
+   "en": "Nanase Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4871",
+   "en": "Nanase Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4872",
+   "en": "Nanase Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4873",
+   "en": "Nanase Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4874",
+   "en": "Ranka Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4875",
+   "en": "Ranka Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4876",
+   "en": "Ranka Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4877",
+   "en": "Ranka Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4878",
+   "en": "Ranka Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4879",
+   "en": "Ranka Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4880",
+   "en": "Ranka Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4881",
+   "en": "Ranka Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4882",
+   "en": "Ranka End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4883",
+   "en": "Ranka End (Female)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ending, female player version. Width 125px vs 122px estimate from the Japanese; the same table has entries estimated up to 210px, so left uncompressed."
+  },
+  {
+   "id": "u4884",
+   "en": "Ranka Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4885",
+   "en": "Ranka Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4886",
+   "en": "Ranka Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4887",
+   "en": "Ranka Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4888",
+   "en": "Ranka Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4889",
+   "en": "Ranka Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4890",
+   "en": "Ranka Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4891",
+   "en": "Ranka Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4892",
+   "en": "Ranka Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4893",
+   "en": "Ranka Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4894",
+   "en": "Ranka Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4895",
+   "en": "Ranka Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4896",
+   "en": "Ranka Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4897",
+   "en": "Ranka Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4898",
+   "en": "Ranka Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4899",
+   "en": "Ranka Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4900",
+   "en": "Sheryl Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4901",
+   "en": "Sheryl Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4902",
+   "en": "Sheryl Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4903",
+   "en": "Sheryl Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4904",
+   "en": "Sheryl Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4905",
+   "en": "Sheryl Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4906",
+   "en": "Sheryl Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4907",
+   "en": "Sheryl Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4908",
+   "en": "Sheryl End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4909",
+   "en": "Sheryl End (Female)",
+   "flags": [],
+   "notes": "Ending, female player version."
+  },
+  {
+   "id": "u4910",
+   "en": "Sheryl Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4911",
+   "en": "Sheryl Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4912",
+   "en": "Sheryl Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4913",
+   "en": "Sheryl Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4914",
+   "en": "Sheryl Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4915",
+   "en": "Sheryl Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4916",
+   "en": "Sheryl Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4917",
+   "en": "Sheryl Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4918",
+   "en": "Sheryl Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4919",
+   "en": "Sheryl Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4920",
+   "en": "Sheryl Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4921",
+   "en": "Sheryl Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4922",
+   "en": "Sheryl Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4923",
+   "en": "Sheryl Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4924",
+   "en": "Sheryl Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4925",
+   "en": "Sheryl Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4926",
+   "en": "Klan Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4927",
+   "en": "Klan Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4928",
+   "en": "Klan Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4929",
+   "en": "Klan Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4930",
+   "en": "Klan Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4931",
+   "en": "Klan Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4932",
+   "en": "Klan Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4933",
+   "en": "Klan Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4934",
+   "en": "Klan End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4935",
+   "en": "Klan End (Female)",
+   "flags": [],
+   "notes": "Ending, female player version."
+  },
+  {
+   "id": "u4936",
+   "en": "Klan Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "Width warnings left on short labels: the check estimates each row's box from its own Japanese width, but these are list entries of one table (event titles up to 210px, places up to 223px estimated). Overs are flagged uncertain with the numbers in notes; nothing exceeds 191px.",
+   "Event-title patterns: 'X 01' (character event), 'X Jealousy', 'X Jealousy (Guy)' (tai-otoko-you: the rival is male, verified from ext_kgr_003/004), 'X Affinity 01' (yuukoudo = Affinity, glossary provisional), 'X End (Male/Female)' (player-gender version), 'X Affinity N Miss M' (hazure = miss variant). Slice 41 continues the same series (Klan) and should use the same wording."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

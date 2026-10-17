@@ -1,0 +1,507 @@
+{
+ "slice": 57,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c04228",
+   "en": "Nyan-Nyan! I've been there before!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04229",
+   "en": "Their maguro buns are delicious, aren't they...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04230",
+   "en": "Before we start getting hungry, we're off\nto my secret favorite spot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04231",
+   "en": "So your secret favorite spot was Griffith Park.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04232",
+   "en": "The sunset you can see from here\nis my very favorite.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04233",
+   "en": "Looking at this view, all your tiredness\njust blows away, doesn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04234",
+   "en": "The breeze feels so nice...\nYou're really right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04235",
+   "en": "Do you know the city a little better now?\nI'm not much of a tour guide, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04236",
+   "en": "Yes, it really helped a lot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04237",
+   "en": "I'm glad. Well then, shall we head home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04238",
+   "en": "(We walked around a lot, but it was fun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04239",
+   "en": "(So, where should I go today?\nI could head out somewhere far... Having tea\nwouldn't be bad either.)",
+   "flags": [],
+   "notes": "Dropped the full-width indent space at the start of line 2."
+  },
+  {
+   "id": "c04240",
+   "en": "(Hmm, what should I do...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04241",
+   "en": "\\p-chan,\nwhat's up? Why are you looking all around\nlike that out here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04242",
+   "en": "Oh, Claire-senpai! Hello!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04243",
+   "en": "Mm-hm, I just love that energy.\nSo, is something the matter?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04244",
+   "en": "I was thinking of going somewhere, but...\nI don't really know this city very well...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04245",
+   "en": "All right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04246",
+   "en": "You will, Claire-senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04247",
+   "en": "Sooner or later you'll be dropping in here\nafter school too. Their sweets are delicious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04248",
+   "en": "Ooh~ Sweets, huh~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04249",
+   "en": "If you don't have anyone to go with,\nI'll join you for a cup of tea.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04250",
+   "en": "(Hmm, no matter how I look at it, this is Deep\nAkihabara... Claire-senpai sure gets around...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is provisional in the glossary."
+  },
+  {
+   "id": "c04251",
+   "en": "Deep Akihabara's near Shibuya, right?\nAnd in Shibuya, if I remember right...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is provisional in the glossary."
+  },
+  {
+   "id": "c04252",
+   "en": "(We walked around a lot, but it was fun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04253",
+   "en": "(What should I do today~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04254",
+   "en": "Oh, \\p-kun.\nAre you lost again today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04255",
+   "en": "C-Claire-senpai!\nThat's not it. Geez.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04256",
+   "en": "Just kidding. What were you up to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04257",
+   "en": "I was just thinking about what to do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04258",
+   "en": "Hmm, is that so...\nThen why don't you hang out with your big sis\nagain today?",
+   "flags": [],
+   "notes": "Claire calls herself onee-san; 'your big sis' as in c00580."
+  },
+  {
+   "id": "c04259",
+   "en": "Really?! Yes!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04260",
+   "en": "Hehehe, let's go~ Follow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04261",
+   "en": "Today was fun again, wasn't it?\nLet's hang out together again sometime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04262",
+   "en": "Okay, see you next time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04263",
+   "en": "(That was a nice change of pace.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04264",
+   "en": "\\p-chan.\nAre you lost again today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04265",
+   "en": "C-Claire-senpai!\nIt's nothing like that! Geez!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04266",
+   "en": "Really?! Yaaay!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04267",
+   "en": "Okaaay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04268",
+   "en": "Yes, of course!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04269",
+   "en": "(I'm supposed to do some training on my own\nwith Claire-senpai today, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04270",
+   "en": "Senpai sure is late...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04271",
+   "en": "\\p-kun,\nsorry I'm late. Did I keep you waiting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04272",
+   "en": "Oh my, aren't you sweet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04273",
+   "en": "Wh-what? I didn't mean anything by it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04274",
+   "en": "Oh? You're blushing. How cute.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04275",
+   "en": "Please don't tease me, Senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04276",
+   "en": "Hehehe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04277",
+   "en": "Running's good for today, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04278",
+   "en": "(Is Senpai nervous or something?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04279",
+   "en": "(It was supposed to be a simple run...\nHow did it come to this...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04280",
+   "en": "Umm, should we run a little slower...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04281",
+   "en": "Hah, hah, hah...\n...Please......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04282",
+   "en": "*pant* *pant* *pant*...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04283",
+   "en": "Are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04284",
+   "en": "...Looks like you're not okay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04285",
+   "en": "You're not good at exercise, are you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04286",
+   "en": "*pant* *pant* *pant*...\n...Just a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04287",
+   "en": "I don't think that's just 'a little'...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04288",
+   "en": "What's that? Got a complaint, kouhai-kun?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Claire's koukai-kun: 'junior' as Klan's koukai in c01480, with the -kun she attaches kept. Review: Claire's kouhai-kun/-chan kept as 'kouhai-kun'/'kouhai-chan', like -senpai."
+  },
+  {
+   "id": "c04289",
+   "en": "N-no, not really...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04290",
+   "en": "Good. Honesty is a virtue!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04291",
+   "en": "In that case, let's switch to walking.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04292",
+   "en": "Hmph, bring it on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04293",
+   "en": "Sigh... That's nothing to brag about.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04294",
+   "en": "(I didn't get any of my own training done,\nbut it was nice to see an unexpected side\nof Claire-senpai.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04295",
+   "en": "\\p-chan,\nsorry I'm late. Did I keep you waiting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04296",
+   "en": "I just got here myself, so it's fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04297",
+   "en": "Ehehe...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04298",
+   "en": "Look at you, blushing!\nGeez, you're just too cute!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04299",
+   "en": "I-I can't breathe, Senpai...",
+   "flags": [],
+   "notes": "Slurred kurushii: Claire is hugging her too tightly."
+  },
+  {
+   "id": "c04300",
+   "en": "Ahaha, I got carried away...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04301",
+   "en": "Fwaah...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04302",
+   "en": "Phew...\nWell then, let's get going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04303",
+   "en": "Running's good for today, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04304",
+   "en": "(It was supposed to be a simple run...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04305",
+   "en": "I kind of feel like that's way more\nthan 'a little'...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04306",
+   "en": "What's that? Got a complaint, kouhai-chan?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Claire's kouhai-chan: 'junior' with the -chan she attaches kept (male version: junior-kun). Review: Claire's kouhai-kun/-chan kept as 'kouhai-kun'/'kouhai-chan', like -senpai."
+  },
+  {
+   "id": "c04307",
+   "en": "Mm-hm, I just adore honest girls!!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c04288/c04306: Claire's 'kouhai-kun' / 'kouhai-chan' rendered 'junior-kun' / 'junior-chan' (junior as Klan's kouhai in c01480; the honorific she attaches kept). Same in c04365/c04384 (slice 58).",
+   "c04269: jishu-tore rendered 'training on my own', as the finished slices (c22258, c22975).",
+   "c04258: Claire's onee-san rendered 'your big sis' as in c00580.",
+   "c04263: kibun tenkan here is the ordinary phrase 'a nice change of pace', not the schedule command 'Outing'.",
+   "Deep Akihabara (c04250, c04251) is provisional in locations.json."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

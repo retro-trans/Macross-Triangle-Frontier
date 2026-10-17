@@ -1,0 +1,498 @@
+{
+ "slice": 302,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c21723",
+   "en": "(I'm glad I got to have a fun Christmas.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21724",
+   "en": "(I promised Saotome-kun we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21725",
+   "en": "Merry Christmas,\nSaotome-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21726",
+   "en": "(I'm glad I got to have a fun Christmas.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21727",
+   "en": "(I promised Michel we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21728",
+   "en": "Merry Christmas,\nMichel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21729",
+   "en": "It's a party, after all.\nLet's have all the fun we can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21730",
+   "en": "A Christmas like this isn't half bad, right?\nWell, guess we'd better head to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21731",
+   "en": "Who'd have thought Klan would get tricked\nas usual and end up doing something like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21732",
+   "en": "It really was a great Christmas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21733",
+   "en": "I hope we can spend next year like this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21734",
+   "en": "Well, guess it's about time I called it a night.\nSee you next year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21735",
+   "en": "(I promised Michel-kun we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21736",
+   "en": "Merry Christmas,\nMichel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21737",
+   "en": "Yeah, see you next year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21738",
+   "en": "(I promised Luca we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21739",
+   "en": "Merry Christmas,\nLuca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21740",
+   "en": "It'd be nice if we could spend next year\nlike this too, wouldn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21741",
+   "en": "(I promised Luca-kun we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21742",
+   "en": "Merry Christmas,\nLuca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21743",
+   "en": "It's a party, after all,\nso let's enjoy it to the fullest.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21744",
+   "en": "(I promised Nanase we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21745",
+   "en": "Merry Christmas,\nNanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21746",
+   "en": "It's a party, after all,\nso let's have all the fun we can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21747",
+   "en": "What are you saying?\nCome on, let's hurry to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21748",
+   "en": "That's right.\nIt'd be nice if we could spend next year\nlike this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21749",
+   "en": "It's a party, after all,\nso let's have all the fun we can, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21750",
+   "en": "(I promised Ranka we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21751",
+   "en": "Merry Christmas!\n\\p-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21752",
+   "en": "Merry Christmas,\nRanka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21753",
+   "en": "It's a party, after all,\nso let's have as much fun as we can!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21754",
+   "en": "A Christmas like this sounds fun too!\nCome on, let's hurry to the party!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21755",
+   "en": "Yeah, I'm so glad it was such a fun party~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21756",
+   "en": "Yeah.\nI hope we can spend next year like this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21757",
+   "en": "Okay, shall we head home now?\nSee you next year!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21758",
+   "en": "(I promised Ranka-chan we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21759",
+   "en": "Merry Christmas!\n\\p-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21760",
+   "en": "Merry Christmas,\nRanka-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21761",
+   "en": "(I promised Klan-senpai we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21762",
+   "en": "Merry Christmas,\nKlan-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21763",
+   "en": "It's a party, after all!\nWe're going to make all the noise we can!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21764",
+   "en": "Mm, a Christmas like this can't be so bad.\nCome on, we're heading to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21765",
+   "en": "Man, that was fun~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21766",
+   "en": "Mm, that was quite a fun party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21767",
+   "en": "It really turned into a great Christmas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21768",
+   "en": "Indeed.\nI hope we can spend next year like this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21769",
+   "en": "(So today's Valentine's Day...\nI hope I get at least one from somebody...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21770",
+   "en": "(...Is what I was hoping, but in the end\nnobody gave me any...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21771",
+   "en": "(Getting my hopes up any more will just make\nit worse. I'm going home...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21772",
+   "en": "(Sigh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21773",
+   "en": "(Today's Valentine's Day, but there's nobody\nI'm close enough to give chocolate to,\nso it's got nothing to do with me.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21774",
+   "en": "(Umm, what are today's classes again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21775",
+   "en": "(So today's Valentine's Day.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21776",
+   "en": "(I bought chocolate for Kagura-kun, since we\nalways get along so well, but now that I actually\nhave to give it to him, I'm nervous...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21777",
+   "en": "(Should I give it, or shouldn't I...\nWhat should I do?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21778",
+   "en": "Give Kagura-kun chocolate",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21779",
+   "en": "Don't give Kagura-kun chocolate",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21780",
+   "en": "Here, Kagura-kun.\nSome Valentine's chocolate for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21781",
+   "en": "Oh, that's right, today's Valentine's Day.\nThanks, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21782",
+   "en": "I'll have to properly return the favor\non White Day. Hmm, what would be good...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21783",
+   "en": "Kagura-kun, you don't need to give\nme anything back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21784",
+   "en": "No, it'd be rude not to return it properly.\nLook forward to White Day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21785",
+   "en": "Okay, then I'll look forward to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21786",
+   "en": "(I'm glad I managed to give Kagura-kun the\nchocolate. I wonder what he'll give me back\non White Day?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21787",
+   "en": "(Sorry, Kagura-kun, but it's just too\nembarrassing. I can't give you the chocolate...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21788",
+   "en": "(Sigh... Guess I'll just have to eat\nthis chocolate myself...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21789",
+   "en": "(I bought chocolate for Gary-sensei, since he\nalways looks out for me, but now that I actually\nhave to give it to him, I'm nervous...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21790",
+   "en": "Give Gary-sensei chocolate",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21791",
+   "en": "Don't give Gary-sensei chocolate",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21792",
+   "en": "Gary-sensei,\nhere's some Valentine's chocolate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21793",
+   "en": "Oh, that's right, today's Valentine's Day.\nI'll gladly take it, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21794",
+   "en": "Well, now that I've gotten chocolate,\nI'd better give you something back\non White Day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21795",
+   "en": "No, really, you don't have to give\nme anything back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21796",
+   "en": "I've gotta pay it back properly,\nor I wouldn't be much of a man.\nLook forward to White Day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21797",
+   "en": "Okay, then I'll look forward to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21798",
+   "en": "(I'm glad I managed to give Gary-sensei the\nchocolate. I wonder what he'll give me back\non White Day?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21799",
+   "en": "(Sorry, Gary-sensei, but it's just too\nembarrassing. I can't give you the chocolate...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21800",
+   "en": "(I bought chocolate for Luis-san, since he\nalways looks out for me, but now that I actually\nhave to give it to him, I'm nervous...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21801",
+   "en": "Give Luis-san chocolate",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21802",
+   "en": "Don't give Luis-san chocolate",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c21731: Michel's 'Klan got tricked as usual and did that' refers to an event the scene never shows; kept vague ('something like that').",
+   "c21769: shared by the no-partner male Valentine scene and by every girl-gives-chocolate variant; kept neutral.",
+   "c21777: shared by all female-player Valentine variants; written with 'it' (the chocolate) so it fits every recipient.",
+   "c21787/c21799: monologue apologises to the absent recipient ('Sorry, Kagura-kun...'); 'you' used as an apostrophe in the monologue, matching the Japanese 'warui kedo'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,378 @@
+{
+ "slice": 262,
+ "rows_in_slice": 60,
+ "rows_examined": 60,
+ "rows": [
+  {
+   "id": "c18871",
+   "en": "(Still, I was really surprised to hear Ranka\ngot scouted by a talent agency.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18872",
+   "en": "\\p-kun!\nWhat are you spacing out for?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18873",
+   "en": "Huh? What's up, Nanase?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18874",
+   "en": "There's so much we need to do\nto support Ranka-san!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18875",
+   "en": "N-Nanase... calm down a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18876",
+   "en": "Why are you being so laid-back?!\nBeat the Galactic Fairy!!",
+   "flags": [],
+   "notes": "'Datou! Ginga no Yousei' as a rallying slogan; repeated in quotes in c18877/c18884."
+  },
+  {
+   "id": "c18877",
+   "en": "\"Beat the Galactic Fairy!!\"...\nThat's a pretty big goal...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18878",
+   "en": "It'll be a cakewalk for Ranka-san!\nThere's absolutely no doubt about it!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18879",
+   "en": "(A cakewalk...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18880",
+   "en": "Come on, let's get ready, \\p-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18881",
+   "en": "(I guess I don't get any say in this...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18882",
+   "en": "(Still, I was really surprised to hear Ranka-chan\ngot scouted by a talent agency.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18883",
+   "en": "\\p-san!\nWhat are you spacing out for?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18884",
+   "en": "\"Beat the Galactic Fairy!!\"...\nThat's a pretty big goal...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18885",
+   "en": "Come on, let's get ready, \\p-san!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18886",
+   "en": "(I don't get any say in this, do I...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18887",
+   "en": "(Now then, maybe I'll eat at Nyan-Nyan today.)",
+   "flags": [],
+   "notes": "Shared with nml_rnk_022 (male/default variants)."
+  },
+  {
+   "id": "c18888",
+   "en": "Welcome~\nOh? If it isn't \\p-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18889",
+   "en": "Oh, Nanase, so you're working today.\nThanks for all your hard work.",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c18890",
+   "en": "What would you like to order?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18891",
+   "en": "Let's see... Then I'll have the Galaxy Ramen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18892",
+   "en": "Certainly.\nPlease wait just a moment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18893",
+   "en": "(Still, Nanase really looks great\nin that Nyan-Nyan China dress.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18894",
+   "en": "(I bet some customers come to the shop\njust to see Nanase...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18895",
+   "en": "Here you go, one Galaxy Ramen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18896",
+   "en": "Um, you've been looking at me for a while now.\nIs there something else you'd like to order?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18897",
+   "en": "N-No, it's nothing...",
+   "flags": [],
+   "notes": "Shared with nml_rnk_022 (both genders)."
+  },
+  {
+   "id": "c18898",
+   "en": "(Oops, I guess I stared a bit too much.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18899",
+   "en": "(Now then, maybe I'll eat at Nyan-Nyan today.)",
+   "flags": [],
+   "notes": "Shared with nml_rnk_022 (female)."
+  },
+  {
+   "id": "c18900",
+   "en": "Welcome~\nOh? If it isn't \\p-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18901",
+   "en": "Let's see... Then I'll have the Galaxy Ramen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18902",
+   "en": "(Still, Nanase really looks great\nin that Nyan-Nyan China dress.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18903",
+   "en": "(I bet some customers come to the shop\njust to see Nanase...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18904",
+   "en": "N-No, it's nothing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18905",
+   "en": "(Oops, I guess I stared a bit too much.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18906",
+   "en": "(Now, lunchtime... What should I eat...\nOh, it's Luca and Nanase... Are they arguing...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18907",
+   "en": "Oh, come on, Luca-kun, why don't you get it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18908",
+   "en": "With all due respect, Nanase-san,\nthis is the one thing I won't give up on,\nnot even for you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18909",
+   "en": "I never thought you'd be this stubborn, Luca-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18910",
+   "en": "Now, now, you two...\nWhat's going on?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18911",
+   "en": "Oh, \\p-san,\nlisten to this!",
+   "flags": [],
+   "notes": "Luca uses -san for the player in both versions."
+  },
+  {
+   "id": "c18912",
+   "en": "Yeah, what?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18913",
+   "en": "We were talking about lunch, and since it's hot,\nI told Nanase-san, \"Lunch today has to be\nChilled Galaxy Noodles!\" But...",
+   "flags": [],
+   "notes": "Hiyashi Galaxy chuka (chilled ramen noodles), not in the glossary."
+  },
+  {
+   "id": "c18914",
+   "en": "And I think a hot day like this is exactly when\nyou want a \"Super-Spicy Maguro Chili-Chili Bowl\"...",
+   "flags": [],
+   "notes": "Gekikara maguro chiri-chiri don, not in the glossary; follows maguro bun / Super Chili-Chili Dog."
+  },
+  {
+   "id": "c18915",
+   "en": "...and we got into a bit of an argument...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18916",
+   "en": "Well, you can get both at Nyan-Nyan, so why not\njust go together instead of fighting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18917",
+   "en": "Hmm...\nThat's true! Well then, Luca-kun, shall we go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18918",
+   "en": "Yes!\nLet's go, Nanase-san!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18919",
+   "en": "(Those two must really get along...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18920",
+   "en": "(Now, lunchtime... What should I eat...\nOh, it's Luca-kun and Nanase... Are they arguing...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18921",
+   "en": "Hey, hey, you two...\nWhat in the world is going on?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18922",
+   "en": "(Those two must really get along...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18923",
+   "en": "(I think I'll go have a nice, relaxing tea\nat Silver Moon.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18924",
+   "en": "(I think I'll go have a nice, relaxing tea\nat Silver Moon.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18925",
+   "en": "(Today I'll eat something tasty at Nyan-Nyan.)",
+   "flags": [],
+   "notes": "Shared male/default variants."
+  },
+  {
+   "id": "c18926",
+   "en": "(Today I'll eat something tasty at Nyan-Nyan.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18927",
+   "en": "(Maybe I'll look for something unusual\nat Folmo today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18928",
+   "en": "(Today I'm gonna look for something unusual\nat Folmo.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18929",
+   "en": "(All right, today I'm going shopping at 199.)",
+   "flags": [],
+   "notes": "No quotes around 199 here: the Japanese has none (earlier lines with kagi brackets used quotes)."
+  },
+  {
+   "id": "c18930",
+   "en": "(All right, today I'm going shopping at 199.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18876/c18877/c18884: datou ('defeat!') slogan rendered 'Beat the Galactic Fairy!!'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "c18913 hiyashi Galaxy chuka -> 'Chilled Galaxy Noodles'",
+   "c18914 gekikara maguro chiri-chiri don -> 'Super-Spicy Maguro Chili-Chili Bowl'"
+  ],
+  "unfinished": []
+ }
+}

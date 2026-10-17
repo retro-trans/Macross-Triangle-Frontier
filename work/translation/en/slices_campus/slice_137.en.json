@@ -1,0 +1,386 @@
+{
+ "slice": 137,
+ "rows_in_slice": 60,
+ "rows_examined": 60,
+ "rows": [
+  {
+   "id": "c10064",
+   "en": "(I came to check out a rumor that Michel\nworks part-time in Deep Akihabara,\nthough who knows if it's true...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male. Deep Akihabara is provisional in locations.json."
+  },
+  {
+   "id": "c10065",
+   "en": "(This place is...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10066",
+   "en": "(Th-this is a butler cafe, right...?)",
+   "flags": [],
+   "notes": "Male. shitsuji kissa = butler cafe, as c08162."
+  },
+  {
+   "id": "c10067",
+   "en": "Welcome home, young mast...\nGkh!",
+   "flags": [],
+   "notes": "Male. Michel recognises the customer mid-greeting."
+  },
+  {
+   "id": "c10068",
+   "en": "Ah!",
+   "flags": [],
+   "notes": "x8: the player, frd_mcl_006/107 and frd_yui_007, both genders. As c21387."
+  },
+  {
+   "id": "c10069",
+   "en": "(Michel really is working part-time\nat a butler cafe...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10070",
+   "en": "Phew...\nWelcome home, young master.",
+   "flags": [],
+   "notes": "Male. As c23067."
+  },
+  {
+   "id": "c10071",
+   "en": "Hey, Michel.\nWhy are you working at a butler cafe, of all places......",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10072",
+   "en": "My deepest apologies, young master...\nMy name is not Michel.\nIt is A-L-T-O.",
+   "flags": [],
+   "notes": "Male. A-ru-to spelled out syllable by syllable."
+  },
+  {
+   "id": "c10073",
+   "en": "(Alto...?\nHe's using Alto's name without asking...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10074",
+   "en": "So then, Alto, why are you working\nat a butler cafe part-ti......",
+   "flags": [],
+   "notes": "Both genders; cut off mid-word as the Japanese (bai...). The player plays along with the alias."
+  },
+  {
+   "id": "c10075",
+   "en": "I am loath to part with you, young master,\nbut it is almost time for your lessons.",
+   "flags": [],
+   "notes": "Male. okeiko = lessons (piano, tea ceremony...), a rich young master's schedule."
+  },
+  {
+   "id": "c10076",
+   "en": "Huh?! Lessons?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10077",
+   "en": "Come now, we must hurry, or you will be late.\nCome, come!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10078",
+   "en": "Whoa, don't push so hard!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10079",
+   "en": "Just get out of the shop already!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10080",
+   "en": "I came all the way here as a customer,\nand you're kicking me out? That's mean, Michel...\nI mean, Alto.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10081",
+   "en": "Anybody who just shows up to poke fun\ndoesn't count as a customer.",
+   "flags": [],
+   "notes": "Both genders. hiyakashi = coming to tease/gawk without buying."
+  },
+  {
+   "id": "c10082",
+   "en": "(He didn't have to assume I was just poking fun...\nWell, I was half in it for the laughs, but...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10083",
+   "en": "Anyway,\nwhy are you working at a butler cafe of all places?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10084",
+   "en": "A friend asked me to fill in for a bit.\nIt's only short-term, but I ended up working here.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10085",
+   "en": "Huh~, so that's how it is.\nFor a fill-in, it sure suits you...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10086",
+   "en": "Heh, naturally.\n...Whoops, looks like more customers are coming in.\nI'd better get back to work.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10087",
+   "en": "Sorry for bothering you at work.",
+   "flags": [],
+   "notes": "Male. Michel answers 'mattaku da' (you sure did)."
+  },
+  {
+   "id": "c10088",
+   "en": "Well then, good luck at work,\nAlto.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10089",
+   "en": "You may leave everything to me, young master.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10090",
+   "en": "(Hmm, I mean, he IS a butler, but...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10091",
+   "en": "Welcome home, my lady.\nWhat would you care to drink for tea time?",
+   "flags": [],
+   "notes": "Both genders: Michel greets another (female) customer. 'my lady' as c23154."
+  },
+  {
+   "id": "c10092",
+   "en": "(Is it just me, or does he somehow\nlook more like a host at a host club...?)",
+   "flags": [],
+   "notes": "Male. hosuto = host-club host."
+  },
+  {
+   "id": "c10093",
+   "en": "(I came to check out a rumor that Michel-kun\nworks part-time in Deep Akihabara,\nthough who knows if it's true...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female. Deep Akihabara is provisional in locations.json."
+  },
+  {
+   "id": "c10094",
+   "en": "(Th-this is a butler cafe, isn't it...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10095",
+   "en": "Welcome home, my la...\nGkh!",
+   "flags": [],
+   "notes": "Female. ojousa... cut off; 'my lady' as c10097."
+  },
+  {
+   "id": "c10096",
+   "en": "(Michel-kun really is working part-time\nat a butler cafe...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10097",
+   "en": "Phew...\nWelcome home, my lady.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10098",
+   "en": "Hey, Michel-kun.\nWhy are you working at a butler cafe,\nof all places......",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10099",
+   "en": "My deepest apologies, my lady...\nMy name is not Michel.\nIt is A-L-T-O.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10100",
+   "en": "(Alto...?\nHe's using Saotome-kun's name without asking...)",
+   "flags": [],
+   "notes": "Female; the Japanese has Saotome-kun here."
+  },
+  {
+   "id": "c10101",
+   "en": "I am loath to part with you, my lady,\nbut it is almost time for your lessons.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10102",
+   "en": "I came all the way here as a customer,\nand you're kicking me out? That's so mean,\nMichel-kun... I mean, Alto.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10103",
+   "en": "Anyway,\nwhy are you working at a butler cafe of all places?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10104",
+   "en": "Huh~, so that's how it is.\nFor a fill-in, it sure suits you.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10105",
+   "en": "Sorry for bothering you at work.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10106",
+   "en": "You may leave everything to me, my lady.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10107",
+   "en": "(Is it just me, or does he somehow\nlook more like a host at a host club...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10108",
+   "en": "(Deep Akihabara has all kinds of shops,\nso just walking around is fun.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male. Deep Akihabara is provisional."
+  },
+  {
+   "id": "c10109",
+   "en": "(Huh? It's Michel.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10110",
+   "en": "Hm? If it isn't \\p.\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": "Both genders. As c08110."
+  },
+  {
+   "id": "c10111",
+   "en": "I was bored, so I came to wander around a bit.\nWhat brings you here, Michel?\nOh, your butler cafe job?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10112",
+   "en": "Nah, I already quit the butler cafe job.\nI was only filling in for a friend for a bit.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10113",
+   "en": "Now that you mention it, you did say that...\nBut you looked good as a butler, Michel.\nWhat a waste.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10114",
+   "en": "Well, sure. But if I'd stayed at that place,\nthe only customers left would be\nyoung ladies coming to see me.",
+   "flags": [],
+   "notes": "Both genders. ojousama = the cafe's female customers."
+  },
+  {
+   "id": "c10115",
+   "en": "Yeah, with that host act of yours, no kidding...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10116",
+   "en": "A host? How rude.\nI was just serving the young ladies\nas a butler, you know?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10117",
+   "en": "As a butler, huh...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10118",
+   "en": "(Am I the only one who thought\nit didn't look that way at all?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10119",
+   "en": "(Deep Akihabara has all kinds of shops,\nso just walking around is fun.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female. Deep Akihabara is provisional."
+  },
+  {
+   "id": "c10120",
+   "en": "(Huh? It's Michel-kun.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10121",
+   "en": "I was bored, so I came to wander around a bit.\nWhat brings you here, Michel-kun?\nOh, your butler cafe job?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10122",
+   "en": "Now that you mention it, you did say that...\nBut you looked so good as a butler,\nMichel-kun. What a waste.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10123",
+   "en": "(Am I the only one who thought\nit didn't look that way at all?)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c10064/c10093/c10108/c10119 use Deep Akihabara, provisional in locations.json.",
+   "c10092/c10107/c10115/c10116: hosuto = host-club host; spelled out as 'a host at a host club' at first mention, then 'host'.",
+   "c10074: cut off mid-word ('part-ti......') to match the Japanese (bai...).",
+   "c10072/c10099: A-ru-to spelled out; rendered 'A-L-T-O'. c10100 (female) says Saotome-kun, as the Japanese."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

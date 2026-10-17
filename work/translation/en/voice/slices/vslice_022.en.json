@@ -1,0 +1,569 @@
+{
+ "slice": 22,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o0_om0/1533",
+   "en": "It's Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1533",
+   "en": "It's Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1533",
+   "en": "So it is Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1533",
+   "en": "It's Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1534",
+   "en": "It's the Mardook Army.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Maruruuku' read as Marudooku (Mardook)."
+  },
+  {
+   "id": "o0_of1/1534",
+   "en": "It's the Mardook Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1534",
+   "en": "It's the Mardook Army!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1534",
+   "en": "It's the Mardook Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1534",
+   "en": "It's the Mardook Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1534",
+   "en": "So it is the Mardook Army.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Marudooku' (long o) read as Maruduuku (Mardook)."
+  },
+  {
+   "id": "of_ktr/1534",
+   "en": "It's the Mardook Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1535",
+   "en": "They're battle pods.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1535",
+   "en": "They're battle pods.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1535",
+   "en": "They're battle pods!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1535",
+   "en": "They're battle pods.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'sentou potto' read as 'sentou poddo' (battle pod)."
+  },
+  {
+   "id": "os_mis/1535",
+   "en": "They're battle pods.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1535",
+   "en": "So they are battle pods.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1535",
+   "en": "They're battle pods.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'sentou botto' read as 'sentou poddo' (battle pod)."
+  },
+  {
+   "id": "o0_of2/1537",
+   "en": "It's Code Victor! Intercept them now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1538",
+   "en": "It's the Mardook Army! Intercept them now!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Marudooku gundan' read as 'Marudooku gun da' (as the 1534 lines), matching 1537/1539."
+  },
+  {
+   "id": "o0_of2/1539",
+   "en": "They're battle pods! Intercept them now!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'sentou potto' read as 'sentou poddo' (battle pod)."
+  },
+  {
+   "id": "os_mis/1541",
+   "en": "You're cleared to launch. Do your best.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1543",
+   "en": "Queadluun-Quilqua.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1543",
+   "en": "Queadluun-Quilqua.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1543",
+   "en": "Queadluun-Quilqua.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1543",
+   "en": "Queadluun-Quilqua.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1543",
+   "en": "Queadluun-Quilqua.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1543",
+   "en": "Queadluun-Quilqua.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1543",
+   "en": "Queadluun-Quilqua.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1544",
+   "en": "YF-25 Prophecy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1544",
+   "en": "YF-25 Prophecy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1544",
+   "en": "YF-25 Prophecy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1544",
+   "en": "YF-25 Prophecy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1544",
+   "en": "YF-25 Prophecy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1544",
+   "en": "YF-25 Prophecy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1544",
+   "en": "YF-25 Prophecy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1545",
+   "en": "Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1545",
+   "en": "Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1545",
+   "en": "Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1545",
+   "en": "Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1545",
+   "en": "Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1545",
+   "en": "Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1545",
+   "en": "Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1546",
+   "en": "VA-1SS Metal Siren.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1546",
+   "en": "VA-1SS Metal Siren.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1546",
+   "en": "VA-1SS Metal Siren.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1546",
+   "en": "VA-1SS Metal Siren.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1546",
+   "en": "VA-1SS Metal Siren.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1546",
+   "en": "VA-1SS Metal Siren.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1546",
+   "en": "VA-1SS Metal Siren.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1547",
+   "en": "Proto Metal Siren.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "o0_of1/1547",
+   "en": "Proto Metal Siren.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "o0_of2/1547",
+   "en": "Proto Metal Siren.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "o0_om0/1547",
+   "en": "Proto Metal Siren.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "os_mis/1547",
+   "en": "Proto Metal Siren.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "o7_exd/1547",
+   "en": "Proto Metal Siren.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "of_ktr/1547",
+   "en": "Proto Metal Siren.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Proto Metal Siren is a provisional glossary name."
+  },
+  {
+   "id": "o0_of0/1548",
+   "en": "VT-1 Ostrich.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "o0_of1/1548",
+   "en": "VT-1 Ostrich.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "o0_of2/1548",
+   "en": "VT-1 Ostrich.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "o0_om0/1548",
+   "en": "VT-1 Ostrich.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "os_mis/1548",
+   "en": "VT-1 Ostrich.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "o7_exd/1548",
+   "en": "VT-1 Ostrich.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "of_ktr/1548",
+   "en": "VT-1 Ostrich.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary."
+  },
+  {
+   "id": "o0_of0/1549",
+   "en": "VA-3 Invader.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "o0_of1/1549",
+   "en": "VA-3 Invader.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "o0_of2/1549",
+   "en": "VA-3 Invader.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "o0_om0/1549",
+   "en": "VA-3 Invader.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "os_mis/1549",
+   "en": "VA-3 Invader.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "o7_exd/1549",
+   "en": "VA-3 Invader.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "of_ktr/1549",
+   "en": "VA-3 Invader.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary."
+  },
+  {
+   "id": "o0_of0/1550",
+   "en": "SNN Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1550",
+   "en": "SNN Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1550",
+   "en": "SNN Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1550",
+   "en": "SNN Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1550",
+   "en": "SNN Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1550",
+   "en": "SNN Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1550",
+   "en": "SNN Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1551",
+   "en": "Ghost Booster cleared for use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1552",
+   "en": "Super Parts are cleared for use.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Super Parts' not in the glossary."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 1731 (o0_of0/1547): Proto Metal Siren is a provisional glossary name.",
+   "row 1732 (o0_of1/1547): Proto Metal Siren is a provisional glossary name.",
+   "row 1733 (o0_of2/1547): Proto Metal Siren is a provisional glossary name.",
+   "row 1734 (o0_om0/1547): Proto Metal Siren is a provisional glossary name.",
+   "row 1735 (os_mis/1547): Proto Metal Siren is a provisional glossary name.",
+   "row 1736 (o7_exd/1547): Proto Metal Siren is a provisional glossary name.",
+   "row 1737 (of_ktr/1547): Proto Metal Siren is a provisional glossary name."
+  ],
+  "whisper_doubt": [
+   "row 1685 (o0_of0/1534): 'Maruruuku' read as Marudooku (Mardook).",
+   "row 1690 (o7_exd/1534): 'Marudooku' (long o) read as Maruduuku (Mardook).",
+   "row 1695 (o0_om0/1535): 'sentou potto' read as 'sentou poddo' (battle pod).",
+   "row 1698 (of_ktr/1535): 'sentou botto' read as 'sentou poddo' (battle pod).",
+   "row 1700 (o0_of2/1538): Transcript 'Marudooku gundan' read as 'Marudooku gun da' (as the 1534 lines), matching 1537/1539.",
+   "row 1701 (o0_of2/1539): 'sentou potto' read as 'sentou poddo' (battle pod)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "VT-1 Ostrich",
+   "VA-3 Invader",
+   "Super Parts"
+  ],
+  "unfinished": []
+ }
+}

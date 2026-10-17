@@ -1,0 +1,496 @@
+{
+ "slice": 124,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c09106",
+   "en": "(I was training with Luca today, but...)",
+   "flags": [],
+   "notes": "Male, frd_luk_006."
+  },
+  {
+   "id": "c09107",
+   "en": "That was tiring, huh, Luca?",
+   "flags": [],
+   "notes": "Male; Luca answers 'You're right.' (c01796)."
+  },
+  {
+   "id": "c09108",
+   "en": "Are you hungry?",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09109",
+   "en": "I sure am~",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09110",
+   "en": "Wanna stop by Nyan-Nyan?",
+   "flags": [],
+   "notes": "Male. Nyan-Nyan from organizations.json."
+  },
+  {
+   "id": "c09111",
+   "en": "Yes, let's go!",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09112",
+   "en": "Nanase might be there, too.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09113",
+   "en": "No, she has the day off today.\nNanase-san, I mean...",
+   "flags": [],
+   "notes": "x2, Luca; the Japanese puts 'Nanase-san wa' as an afterthought, kept as one."
+  },
+  {
+   "id": "c09114",
+   "en": "(...How does he know her shifts...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09115",
+   "en": "Haah~ We sure ate a lot~",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09116",
+   "en": "Thank you for the meal~",
+   "flags": [],
+   "notes": "x2, Luca; sing-song gochisousama deshita-tto."
+  },
+  {
+   "id": "c09117",
+   "en": "Mmm, so satisfied.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09118",
+   "en": "Hm? What? Something wrong?",
+   "flags": [],
+   "notes": "Male; Luca has been staring silently."
+  },
+  {
+   "id": "c09119",
+   "en": "\\p-san, why did you\nenroll at Mihoshi?",
+   "flags": [],
+   "notes": "x2, Luca. Mihoshi = Mihoshi Academy (glossary)."
+  },
+  {
+   "id": "c09120",
+   "en": "Huh? Where's this coming from all of a sudden?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09121",
+   "en": "Oh, it just crossed my mind...\nSo what's the real reason?",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09122",
+   "en": "Hmm, why did I...\nTo find out what I want to do... maybe?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09123",
+   "en": "It's a good school for finding\nwhat you want to do, right?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09124",
+   "en": "So, you still haven't found what you want to do?",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09125",
+   "en": "Let's see...",
+   "flags": [],
+   "notes": "x3: also male in scd_fes_804/805 before a choice between Alto and Michel."
+  },
+  {
+   "id": "c09126",
+   "en": "...So that's about where I'm at, I guess?",
+   "flags": [],
+   "notes": "Male; the player's explanation happens off-screen."
+  },
+  {
+   "id": "c09127",
+   "en": "I see, so that's how it is.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09128",
+   "en": "Well, it's all still ahead of us, right?\nBoth me and you, Luca.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09129",
+   "en": "Yes, definitely!",
+   "flags": [],
+   "notes": "x10: Luca here; Nanase (frd_nns_006/007, Christmas scd_com_618); female player to Sheryl (frd_she_005, nml_she_002). Answers 'it's all ahead of us', 'balance in everything', 'let's play a bit more', 'shall we go inside?', 'wasn't it good?', 'let's enjoy it'; 'Yes, definitely!' fits all."
+  },
+  {
+   "id": "c09130",
+   "en": "Thanks for the meal.\nSorry for letting you treat me.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09131",
+   "en": "I'm older than you, technically, so I've got to\ndo at least that much. Well, once you make it\nbig, you can treat me.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09132",
+   "en": "(Luca thinks about a lot of things, too.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09133",
+   "en": "(I was training with Luca-kun today, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09134",
+   "en": "That wore me out, huh, Luca-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09135",
+   "en": "Wanna stop by Nyan-Nyan?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09136",
+   "en": "Nanase might be there, too~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09137",
+   "en": "(...How does he know her shifts...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09138",
+   "en": "Phew~ I'm so satisfied.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09139",
+   "en": "Huh? What? Something wrong?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09140",
+   "en": "Huh? What's gotten into you all of a sudden?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09141",
+   "en": "Hmm, why was it~?\nTo find out what I want to do... maybe?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09142",
+   "en": "It's a good school for finding\nwhat you want to do, right?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09143",
+   "en": "...That's kind of where I'm at, I guess?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09144",
+   "en": "Well, it's all still ahead of us, right?\nBoth me and you, Luca-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09145",
+   "en": "I'm older than you, technically, so I've got to\ndo at least that much. Well, once you make it\nbig, maybe I'll have you treat me.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09146",
+   "en": "So, shall we head home?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09147",
+   "en": "(Luca-kun thinks about a lot of things, too.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09148",
+   "en": "(I was training with Luca again today, but...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09149",
+   "en": "Luca, wanna go to Nyan-Nyan again today?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09150",
+   "en": "Huh? Oh! Y-yes!!",
+   "flags": [],
+   "notes": "x2, Luca, startled."
+  },
+  {
+   "id": "c09151",
+   "en": "Man, it's important to have time\nto just kick back, isn't it?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09152",
+   "en": "You're right.\nI think so too, very much.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09153",
+   "en": "If only Nanase were here, it'd be perfect, huh?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09154",
+   "en": "Wh-why are you bringing up Nanase-san?!",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09155",
+   "en": "Hmm, I wonder why?",
+   "flags": [],
+   "notes": "x2, both genders, teasing."
+  },
+  {
+   "id": "c09156",
+   "en": "(Ordinary days like this are what matter.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09157",
+   "en": "(I was training with Luca-kun again today,\nbut...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09158",
+   "en": "Luca-kun, wanna go to Nyan-Nyan again today?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09159",
+   "en": "It's important to have time\nto just kick back, isn't it~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09160",
+   "en": "If only Nanase were here, it'd be perfect, huh~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09161",
+   "en": "(Ordinary days like this really are\nwhat matter.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09162",
+   "en": "(I came to eat with Luca, but...)",
+   "flags": [],
+   "notes": "Male, frd_luk_007."
+  },
+  {
+   "id": "c09163",
+   "en": "What's wrong, Luca?\nYou look kind of down...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09164",
+   "en": "Huh? Do I?",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09165",
+   "en": "You've barely touched your food, either.\nIs it not to your taste?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09166",
+   "en": "That's not it at all. It's really delicious!",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09167",
+   "en": "Well, if you say so...",
+   "flags": [],
+   "notes": "x3: also female in frd_rnk_106 (Ranka says she isn't bored)."
+  },
+  {
+   "id": "c09168",
+   "en": "Um... \\p-san.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09169",
+   "en": "\\p-san, is there someone\nyou look up to?",
+   "flags": [],
+   "notes": "x2, Luca. akogare: 'look up to' keeps the romance reading the player jokes about next."
+  },
+  {
+   "id": "c09170",
+   "en": "What's this all of a sudden?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09171",
+   "en": "Oh, no reason...",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09172",
+   "en": "Hmm... someone I look up to, huh...\nAre we talking about girls?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09173",
+   "en": "No, not that kind of thing...",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09174",
+   "en": "So you mean looking up to someone\nout of respect, that kind of thing?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09175",
+   "en": "Yes, that's it.",
+   "flags": [],
+   "notes": "x4: also Nanase in frd_nns_001 ('doing assignments in the art room again?')."
+  },
+  {
+   "id": "c09176",
+   "en": "Hmm, that's tough...\nThere are so many, it's almost a problem.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09177",
+   "en": "I see.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09178",
+   "en": "What about you, Luca?\nIs there someone you look up to?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09179",
+   "en": "Yes, I do. I've become really\nconscious of them lately.",
+   "flags": [],
+   "notes": "x2, Luca. 'them': he later says sono hito-tachi (plural)."
+  },
+  {
+   "id": "c09180",
+   "en": "Huh, is that right?",
+   "flags": [],
+   "notes": "x5: also frd_nns_004 (Nanase) and nml_yuu_016 (Akimizu), both genders."
+  },
+  {
+   "id": "c09181",
+   "en": "Rather than looking up to them,\nI'd say I see them more as rivals.\nThough it's totally one-sided...",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09182",
+   "en": "Huh. Well, I think that's a good thing.\nA competitive spirit really drives you,\nafter all.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09183",
+   "en": "So, think you can beat this rival of yours?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09184",
+   "en": "As I am now, I'm no match for them.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09185",
+   "en": "Huh, really?",
+   "flags": [],
+   "notes": "Male."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c09169-c09181: akogare rendered 'look up to' so both the romance joke and the respect sense work; Luca's rivals kept as 'them' (he later says sono hito-tachi, plural).",
+   "c09129 (x10, many speakers) 'Yes, definitely!' chosen to fit every context."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

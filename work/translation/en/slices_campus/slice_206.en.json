@@ -1,0 +1,493 @@
+{
+ "slice": 206,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c15075",
+   "en": "Oh, you're finally awake.",
+   "flags": [],
+   "notes": "Female, frd_yuu_002; twin of c15045."
+  },
+  {
+   "id": "c15076",
+   "en": "\\p-chan!\n...Did I... fall asleep, by any chance...?",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c15077",
+   "en": "Yeah, well... you were out like a light...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15078",
+   "en": "No, no, the lunch was delicious,\nand I don't mind at all...",
+   "flags": [],
+   "notes": "Female; answers her apology."
+  },
+  {
+   "id": "c15079",
+   "en": "Well, then it can't be helped.",
+   "flags": [],
+   "notes": "Female; she got up at 4 a.m. to make the lunch."
+  },
+  {
+   "id": "c15080",
+   "en": "No, no, I don't mind at all.\nBesides, this lunch was supposed to be\nyour apology for last time in the first place...",
+   "flags": [],
+   "notes": "Female; answers 'I'll properly make it up to you next time'."
+  },
+  {
+   "id": "c15081",
+   "en": "(Maybe Yuu's more of an airhead\nthan I thought?)",
+   "flags": [],
+   "notes": "Female (ma ga nukete iru)."
+  },
+  {
+   "id": "c15082",
+   "en": "(I'm meeting Akimizu at the park again today.)",
+   "flags": [],
+   "notes": "Male, frd_yuu_002 second visit."
+  },
+  {
+   "id": "c15083",
+   "en": "(But somehow... Eh, never mind...)",
+   "flags": [],
+   "notes": "x2, player, both genders; a vague bad feeling, then shrugged off."
+  },
+  {
+   "id": "c15084",
+   "en": "Oh, right! Then, here's the lunch!",
+   "flags": [],
+   "notes": "x2, Akimizu; after the player says he/she already knows why she is late."
+  },
+  {
+   "id": "c15085",
+   "en": "I've been waiting for this!\nThanks for the food!",
+   "flags": [],
+   "notes": "x2, player, both genders (itadakimasu, as c06196)."
+  },
+  {
+   "id": "c15086",
+   "en": "(Well, Akimizu never means any harm...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15087",
+   "en": "(I'm meeting Yuu at the park again today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15088",
+   "en": "(Yuu never means any harm, after all...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15089",
+   "en": "(Akimizu told me, \"It's not an apology or anything,\nbut only if you'd like to...\"\nso I asked her to hang out, but...)",
+   "flags": [],
+   "notes": "Male, frd_yuu_003."
+  },
+  {
+   "id": "c15090",
+   "en": "(If she went out of her way to say that...)",
+   "flags": [],
+   "notes": "x2, player, both genders; 'she' = Yuu (female)."
+  },
+  {
+   "id": "c15091",
+   "en": "Oh, Akimizu, you're early today.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15092",
+   "en": "I made sure not to run into anybody today,\nso no problem!",
+   "flags": [],
+   "notes": "x2, Akimizu; last time favors from everyone she met made her late."
+  },
+  {
+   "id": "c15093",
+   "en": "Well, well...",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15094",
+   "en": "Today is my apology for last time...\nNo, wait, it isn't! Um, what is it, then...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15095",
+   "en": "Well, one way or another, it's my treat,\nso order anything you like!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15096",
+   "en": "\"One way or another\"...?",
+   "flags": [],
+   "notes": "x2, player, quoting her nandakanda."
+  },
+  {
+   "id": "c15097",
+   "en": "It's fine! Today is, um, well...\nIt was payday at my part-time job!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15098",
+   "en": "Well, if you insist, I'll take you up on it...\nI'll have this most expensive steak...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15099",
+   "en": "What?!\nThis place has something that expensive\non the menu?!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15100",
+   "en": "Nah, I'm joking, just joking.",
+   "flags": [],
+   "notes": "Male; as c04196."
+  },
+  {
+   "id": "c15101",
+   "en": "Geez! You scared me~\nI totally thought you were serious!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15102",
+   "en": "Okay, for real this time:\na coffee and the pineapple cake.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15103",
+   "en": "Hmm... Then I guess I'll just have coffee.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15104",
+   "en": "Mmm...",
+   "flags": [],
+   "notes": "x2, Akimizu, eyeing the cake."
+  },
+  {
+   "id": "c15105",
+   "en": "Akimizu?",
+   "flags": [],
+   "notes": "x3, male player (frd_yuu_003, 004)."
+  },
+  {
+   "id": "c15106",
+   "en": "Ahh, but after yesterday...",
+   "flags": [],
+   "notes": "x2, Akimizu, muttering to herself; the Japanese keeps what happened yesterday vague (are)."
+  },
+  {
+   "id": "c15107",
+   "en": "Akimizu? Akimizu-san? Akimizu-dono?",
+   "flags": [],
+   "notes": "Male; escalating mock-formal address."
+  },
+  {
+   "id": "c15108",
+   "en": "But, well, if I just try hard starting tomorrow...",
+   "flags": [],
+   "notes": "x2, Akimizu, muttering."
+  },
+  {
+   "id": "c15109",
+   "en": "Whoa! Yes? What, what?",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15110",
+   "en": "What's wrong? You suddenly seemed\nlost in thought...",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15111",
+   "en": "Oh, it's nothing, nothing at all!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15112",
+   "en": "You seemed to be staring at my pineapple cake...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15113",
+   "en": "Huh?! Really? Geez, what's wrong with me...",
+   "flags": [],
+   "notes": "x2, Akimizu (mou watashi ttara)."
+  },
+  {
+   "id": "c15114",
+   "en": "Did you want some, by any chance?\nThe pineapple cake?",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15115",
+   "en": "Um, well, uh...\nI did, but right now I'm on a die...",
+   "flags": [],
+   "notes": "x2, Akimizu; cut off mid-word (diet), kept cut."
+  },
+  {
+   "id": "c15116",
+   "en": "Oh, no, it's nothing. Don't worry about it.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15117",
+   "en": "Um... Do you want some of this?",
+   "flags": [],
+   "notes": "x2, player, offering the cake."
+  },
+  {
+   "id": "c15118",
+   "en": "Um, oh, okay... Then just one bite...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15119",
+   "en": "Here you go, then.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15120",
+   "en": "Thanks! Here I go~",
+   "flags": [],
+   "notes": "x2, Akimizu (itadakimaasu before a bite)."
+  },
+  {
+   "id": "c15121",
+   "en": "...Mmmmmm...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15122",
+   "en": "Hm, what's wrong, Akimizu?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15123",
+   "en": "Mmm, so goooood!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15124",
+   "en": "Akimizu-san?",
+   "flags": [],
+   "notes": "x2, male player (frd_yuu_003, 004)."
+  },
+  {
+   "id": "c15125",
+   "en": "Um, well... I've been a little worried\nabout my weight lately, you see.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15126",
+   "en": "I've been cutting back on sweets for sooo long,\nbut the truth is, I love sweets...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15127",
+   "en": "Oh, so that's it.\nThat's why you were so torn.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15128",
+   "en": "Huh? Oh, yeah.",
+   "flags": [],
+   "notes": "x2, Akimizu; as c06903."
+  },
+  {
+   "id": "c15129",
+   "en": "But you don't need to worry that much.\nFrom what I can see, you've got a nice figure.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15130",
+   "en": "No, really, really.",
+   "flags": [],
+   "notes": "Male; after her 'Huh?!'."
+  },
+  {
+   "id": "c15131",
+   "en": "Oh, stop... Ummm...\n...Thank you...",
+   "flags": [],
+   "notes": "x2, Akimizu (sonna...)."
+  },
+  {
+   "id": "c15132",
+   "en": "Well, don't worry about it too much.\nA treat once in a while is fine, isn't it?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15133",
+   "en": "Yeah, holding back just makes it harder,\nafter all. Maybe you're right.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15134",
+   "en": "Yeah, I'll start trying tomorrow...\nI'm ordering a pineapple cake too!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15135",
+   "en": "Huh...",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15136",
+   "en": "Yep, starting tomorrow, starting tomorrow!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15137",
+   "en": "Akimizu...",
+   "flags": [],
+   "notes": "x3, male player (exasperated / gentle; used in several scenes)."
+  },
+  {
+   "id": "c15138",
+   "en": "(Akimizu really does love sweets, huh...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15139",
+   "en": "(Yuu told me, \"It's not an apology or anything,\nbut only if you'd like to...\"\nso I asked her to hang out, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15140",
+   "en": "Oh, Yuu, you're early today.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15141",
+   "en": "Well, if you insist, I'll gladly accept...\nI'll have this most expensive steak...",
+   "flags": [],
+   "notes": "Female (slightly politer amaemashite)."
+  },
+  {
+   "id": "c15142",
+   "en": "Nah, I'm kidding, just kidding.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15143",
+   "en": "Yuu?",
+   "flags": [],
+   "notes": "x3, female player."
+  },
+  {
+   "id": "c15144",
+   "en": "Yuu? Yuu-san? Akimizu-dono?",
+   "flags": [],
+   "notes": "Female; escalating mock-formal address."
+  },
+  {
+   "id": "c15145",
+   "en": "You seemed to be staring at my pineapple cake...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15146",
+   "en": "Hm, what's wrong, Yuu?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15147",
+   "en": "Yuu-san?",
+   "flags": [],
+   "notes": "x2, female player."
+  },
+  {
+   "id": "c15148",
+   "en": "Oh, so that's it.\nThat's why you were so torn.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15149",
+   "en": "But you don't need to worry that much.\nYou've got a really great figure, Yuu.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15150",
+   "en": "I mean, you've got curves in all the right places.\nI'm jealous.",
+   "flags": [],
+   "notes": "Female (deru toko dete)."
+  },
+  {
+   "id": "c15151",
+   "en": "Well, don't worry about it too much.\nA treat once in a while is fine, right?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15152",
+   "en": "Yuu...",
+   "flags": [],
+   "notes": "x4, female player."
+  },
+  {
+   "id": "c15153",
+   "en": "(Yuu really does love sweets, huh...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15154",
+   "en": "(I'm supposed to go to \"Silver Moon\" with\nAkimizu again today, but...)",
+   "flags": [],
+   "notes": "Male, frd_yuu_003 second visit; the row cut after 'yotei' is the Japanese line break."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

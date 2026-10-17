@@ -1,0 +1,375 @@
+{
+ "slice": 144,
+ "rows_in_slice": 60,
+ "rows_examined": 60,
+ "rows": [
+  {
+   "id": "c10545",
+   "en": "(Miyuki's late...)",
+   "flags": [],
+   "notes": "Female, frd_myk_001 (tea scene)."
+  },
+  {
+   "id": "c10546",
+   "en": "It's fine. I just got here myself.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10547",
+   "en": "I'm really sorry.",
+   "flags": [],
+   "notes": "Miyuki."
+  },
+  {
+   "id": "c10548",
+   "en": "Come on... You don't have to worry about it.\nLet's get going!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10549",
+   "en": "Thanks, I found some good water~",
+   "flags": [],
+   "notes": "Female; water for brewing tea."
+  },
+  {
+   "id": "c10550",
+   "en": "I see. There's so much more to it\nthan I thought...",
+   "flags": [],
+   "notes": "Female (okubukai nee)."
+  },
+  {
+   "id": "c10551",
+   "en": "Yeah, see ya~",
+   "flags": [],
+   "notes": "x2: female player, frd_myk_001 and nml_myk_001."
+  },
+  {
+   "id": "c10552",
+   "en": "(Okay, time to head home and have some tea~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10553",
+   "en": "(Today I'm doing self-training with Shirakawa.)",
+   "flags": [],
+   "notes": "Male, frd_myk_002."
+  },
+  {
+   "id": "c10554",
+   "en": "Hey, Shirakawa.\nLet's get started. No sense wasting time.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10555",
+   "en": "You're right. Let's do our best today.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10556",
+   "en": "(Wow, Shirakawa's amazing...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10557",
+   "en": "What is it? Is something bothering you?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10558",
+   "en": "How heavy are those dumbbells\nyou were just lifting?",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c10559",
+   "en": "Um, they're 10 kilos. Why?",
+   "flags": [],
+   "notes": "x2, Miyuki (desukedo?)."
+  },
+  {
+   "id": "c10560",
+   "en": "...You're pretty tough for a girl!",
+   "flags": [],
+   "notes": "Male (onna no ko na noni yaru naa); kept at full strength, Miyuki goes quiet after."
+  },
+  {
+   "id": "c10561",
+   "en": "Oh, uh... Yes...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10562",
+   "en": "Mine are only 5 kilos.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10563",
+   "en": "Well then, I'm getting a little hungry,\nso let's grab a bite somewhere on the way home.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10564",
+   "en": "Huh?! A-a meal?",
+   "flags": [],
+   "notes": "Miyuki, flustered (male scene)."
+  },
+  {
+   "id": "c10565",
+   "en": "You're hungry too, right, Shirakawa?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10566",
+   "en": "No, I'm not really...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10567",
+   "en": "Okay, it's settled, then!",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c10568",
+   "en": "Auu...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10569",
+   "en": "Was a hot dog stand really okay?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10570",
+   "en": "It was very good.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10571",
+   "en": "I see. Good, then.\nIf we find another tasty place, let's go again.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10572",
+   "en": "Yes, let's.",
+   "flags": [],
+   "notes": "x8: Miyuki here; Nanase (frd_nns_004, scd_ciz_802) and Ranka (frd_rnk_001). Every occurrence answers a 'let's ...' from the player."
+  },
+  {
+   "id": "c10573",
+   "en": "Well then, shall we head home?",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c10574",
+   "en": "Yes. Goodbye.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10575",
+   "en": "(Still, Shirakawa was amazing...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10576",
+   "en": "(Today I'm doing self-training with Miyuki!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10577",
+   "en": "Hiya, Miyuki.\nLet's get started. No sense wasting time, right?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10578",
+   "en": "(Wow, Miyuki's amazing...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10579",
+   "en": "What?! That's amazing~!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10580",
+   "en": "Mine are only 2 kilos.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10581",
+   "en": "Well then, since we've worked up an appetite,\nlet's grab a bite somewhere on the way home.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10582",
+   "en": "A meal?",
+   "flags": [],
+   "notes": "Miyuki (female scene)."
+  },
+  {
+   "id": "c10583",
+   "en": "You're hungry too, right, Miyuki?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10584",
+   "en": "I wonder if a hot dog stand was really okay?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10585",
+   "en": "I see. Good, then.\nIf we find another tasty place, let's go again!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10586",
+   "en": "(Still, Miyuki's really amazing...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10587",
+   "en": "(More self-training with Shirakawa today.\nI'll work hard so I can look good\nin front of her.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10588",
+   "en": "Hello,\n\\p-kun.",
+   "flags": [],
+   "notes": "x3: Miyuki to the male player (frd_myk_002/007/107). Matches finished c02190."
+  },
+  {
+   "id": "c10589",
+   "en": "You're early today, Shirakawa.\nAre you all fired up?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10590",
+   "en": "Th-that's not it at all.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10591",
+   "en": "You're stronger than you look, Shirakawa.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10592",
+   "en": "D-do you think so...?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10593",
+   "en": "Even with arms that thin...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10594",
+   "en": "...They're not thin. Honestly...",
+   "flags": [],
+   "notes": "x2, Miyuki, embarrassed."
+  },
+  {
+   "id": "c10595",
+   "en": "Hahaha, well then, let's grab something\nto eat on the way home. I'm starving.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10596",
+   "en": "Then shall we go?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10597",
+   "en": "(I'm gonna eat a ton so I don't lose\nto Shirakawa~)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10598",
+   "en": "(More self-training with Miyuki today.\nI'll work hard so I can look good\nin front of her.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10599",
+   "en": "Hello,\n\\p-san.",
+   "flags": [],
+   "notes": "x3: Miyuki to the female player (frd_myk_002/007/107). Matches finished c02229."
+  },
+  {
+   "id": "c10600",
+   "en": "You're early today, Miyuki~\nAre you all fired up?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10601",
+   "en": "You're stronger than you look, Miyuki.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10602",
+   "en": "Even with arms this thin...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10603",
+   "en": "Hahaha, well then, let's grab something\nto eat on the way home. I'm starving!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10604",
+   "en": "(I'm gonna eat a ton so I don't lose\nto Miyuki~)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c10572 'Yes, let's.' (x8) is shared by Miyuki, Nanase and Ranka; checked all contexts, each answers a 'let's ...' suggestion."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

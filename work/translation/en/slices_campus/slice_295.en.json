@@ -1,0 +1,393 @@
+{
+ "slice": 295,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c21185",
+   "en": "(I see... No wonder he doesn't look our age.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21186",
+   "en": "Nice to meet you, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21187",
+   "en": "Nice to meet you too, Saotome-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21188",
+   "en": "(I was a little nervous about school life,\nbut I'm glad I made friends right away...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21189",
+   "en": "(I've gotta keep this up and work hard\nto make school life a blast!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21190",
+   "en": "(Classes start for real today... I wonder what\nour Practical and Basic Training teachers are like?\nI hope they're nice...)",
+   "flags": [],
+   "notes": "Shared male/female. Class names follow the schedule help (u5459/u5460: practical training, basic training)."
+  },
+  {
+   "id": "c21191",
+   "en": "I'm the one teaching you lot \"Practical Training.\"\nThe name's Gary Murdoch.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "jitsugi kunren -> 'Practical Training' (schedule help u5459); not in the glossary."
+  },
+  {
+   "id": "c21192",
+   "en": "And I'll be teaching \"Basic Training.\"\nHilda V. Bergen.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "kiso kunren -> 'Basic Training' (schedule help u5460); not in the glossary."
+  },
+  {
+   "id": "c21193",
+   "en": "I'll drill you lousy eggs till you puke blood,\nso you can at least hatch into chicks!\nLook forward to it!",
+   "flags": [],
+   "notes": "tamago yarou (egg bastards) / hiyokko (chicks): kept the egg-to-chick image."
+  },
+  {
+   "id": "c21194",
+   "en": "(Training till we puke blood...?)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21195",
+   "en": "Hey, Gary, don't scare the students so much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21196",
+   "en": "I'm just tellin' 'em the facts, aren't I?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21197",
+   "en": "That's exactly what scaring them means...\nHonestly. Don't take what Gary said seriously.\nHe's just exaggerating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21198",
+   "en": "(Phew, that's a relief, then. I'm glad\nHilda-sensei seems kind, despite how\nshe lo...)",
+   "flags": [],
+   "notes": "Cut off mid-word as in the Japanese (yokka...), interrupted by Hilda."
+  },
+  {
+   "id": "c21199",
+   "en": "Because if you're puking blood in Gary's class,\npeople are going to die in mine...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21200",
+   "en": "Don't worry. Soon enough, the pain\nwill turn into pleasure...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21201",
+   "en": "(I feel like she just said something terrifying...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21202",
+   "en": "You're the one scarin' 'em worse...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21203",
+   "en": "...That concludes the class overview.\nIf there are no questions, that's all for today.\nDismissed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21204",
+   "en": "(Just hearing the overview was enough to tell\nthese classes are gonna be brutal...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21205",
+   "en": "Hmm, Gary-sensei's puke-blood training...\nAnd Hilda-sensei's, even tougher than that...",
+   "flags": [],
+   "notes": "Yuuto Kagura ('??? (man)')."
+  },
+  {
+   "id": "c21206",
+   "en": "Ahh, I can't wait!\nJust how intense is this training gonna be...?\nRight? You think so too, don't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21207",
+   "en": "Oh, sorry, I haven't introduced myself yet!\nI'm Yuuto Kagura! As friends chasing the\nsame dream, let's get along from here on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21208",
+   "en": "Y-yeah... Nice to meet you too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21209",
+   "en": "Alright, 100 laps around the field, to get\na head start on class!! See you later!",
+   "flags": [],
+   "notes": "yoshuu mo kanete = also as advance preparation for class."
+  },
+  {
+   "id": "c21210",
+   "en": "Huh? Oh, see ya...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21211",
+   "en": "(Yuuto sure is a fired-up guy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21212",
+   "en": "I'm sorry. Yuuto's loved working out and training\never since way back, and sometimes he ends up\ncausing trouble for the people around him...",
+   "flags": [],
+   "notes": "Miyuki Shirakawa ('??? (woman)'). 'Ever since way back' (mukashi kara) is echoed by the player in c21215/c21244."
+  },
+  {
+   "id": "c21213",
+   "en": "Oh, I see.\nUm, and you are...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21214",
+   "en": "I'm Miyuki Shirakawa.\nNice to meet you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21215",
+   "en": "Yeah, nice to meet you too.\n\"Ever since way back\"... So you and Yuuto\ngo way back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21216",
+   "en": "Yes, we're childhood friends.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21217",
+   "en": "Huh, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21218",
+   "en": "Mm-hmm, I see, I see~",
+   "flags": [],
+   "notes": "Yui Hoshimura ('??? (woman)'), butting in."
+  },
+  {
+   "id": "c21219",
+   "en": "He runs out of control like that sometimes,\nbut he's a good kid at heart, so please\nbe friends with him.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21220",
+   "en": "Roger that from me too~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21221",
+   "en": "Wait, you've been joining in this whole time\nlike it's nothing, but... who are you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21222",
+   "en": "Hobby: tinkering with machines. Favorite food:\nfield rations. No real dislikes.\nThree sizes, from the top...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21223",
+   "en": "Instead of all those little details,\ncould you just tell me your name?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21224",
+   "en": "Oh yeah, I left out the most important part...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21225",
+   "en": "The name's Yui Hoshimura!\nNice. To. Meet. Ya!",
+   "flags": [],
+   "notes": "yo-ro-shi-ku spelled out syllable by syllable."
+  },
+  {
+   "id": "c21226",
+   "en": "...Nice to meet you too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21227",
+   "en": "(She's so hyper...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21228",
+   "en": "Geez, Yui, you never change.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21229",
+   "en": "Shirakawa, do you know Hoshimura too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21230",
+   "en": "We were in the same class in junior high.",
+   "flags": [],
+   "notes": "chuutoubu = the (academy's) junior-high division."
+  },
+  {
+   "id": "c21231",
+   "en": "Yup yup, me 'n' Miyuki are best buds for real.",
+   "flags": [],
+   "notes": "mabu no dachi = slang 'true pals'."
+  },
+  {
+   "id": "c21232",
+   "en": "Huh, is that s......",
+   "flags": [],
+   "notes": "Cut off (sou na...) by Kagura's scream."
+  },
+  {
+   "id": "c21233",
+   "en": "GWAAAAAAAH!!\nMy leg's crampiiing!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21234",
+   "en": "But I won't let something like this beat me!\nI... I can still keep going...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21235",
+   "en": "Alrighty! Then I'll give ya a quick mod\nso your legs never cramp again~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21236",
+   "en": "Stop it!\nI can't do something like cheating!\nI... I want to break my limits on my own...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21237",
+   "en": "Then let's just mod your whole body\nand blow past human limits~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21238",
+   "en": "...Um, I'm really sorry about all this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21239",
+   "en": "You don't have to apologize, Shirakawa...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21240",
+   "en": "(I'm glad I made all kinds of friends, but...\nthis school sure has a lot of quirky people.)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21241",
+   "en": "Huh? Oh, see you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21242",
+   "en": "(Kagura-kun sure is fired up...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21243",
+   "en": "Oh, I see.\nUm, and you are...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21244",
+   "en": "Yeah, nice to meet you too.\n\"Ever since way back\"... So you and\nKagura-kun go way back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21245",
+   "en": "Miyuki, do you know Yui too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21246",
+   "en": "You don't have to apologize, Miyuki...",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c21191/c21192 (and c21190): class names jitsugi kunren / kiso kunren set as \"Practical Training\" / \"Basic Training\" from the schedule help strings (u5459/u5460); not in the glossary."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "jitsugi kunren 'Practical Training', kiso kunren 'Basic Training' (campus class names)"
+  ],
+  "unfinished": []
+ }
+}

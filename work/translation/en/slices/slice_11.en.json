@@ -1,0 +1,493 @@
+{
+ "slice": 11,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0916",
+   "en": "Two-seat VF-1 prototype variable fighter\nUpgraded attack and electronic warfare abilities",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0917",
+   "en": "Standard VF-1 prototype variable fighter\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0918",
+   "en": "Melee Combo (Transform)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0919",
+   "en": "VF-0S (Roy)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0920",
+   "en": "Commander's VF-1 prototype variable fighter\nRoy Focker's unit, marked with his skull trademark",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0921",
+   "en": "Full Salvo (Transform)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0922",
+   "en": "Prototype Monster",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0923",
+   "en": "Prototype Destroid of the Monster\nHas four cannons that can load reaction weapons",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0924",
+   "en": "Reaction Weapon Launch",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0925",
+   "en": "The Anti-U.N. Forces' main fighter\nExcels in local combat",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0926",
+   "en": "Variable fighter developed by the Anti-U.N. Forces\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0927",
+   "en": "SV-51γ (Nora)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0928",
+   "en": "Variable fighter developed by the Anti-U.N. Forces\nNora's unit, with magenta as her personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0929",
+   "en": "Fuel-Air Bomb Drop",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0930",
+   "en": "SV-51γ (Ivanov)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0931",
+   "en": "Variable fighter developed by the Anti-U.N. Forces\nIvanov's unit, with black as his personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0932",
+   "en": "Melee + Full Salvo",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0933",
+   "en": "Octos",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0934",
+   "en": "Amphibious Destroid developed by the Anti-U.N. Forces\nBeing amphibious, it can be deployed in many roles",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0935",
+   "en": "A god of legend on Mayan Island\nSaid to make the song of destruction roar across the world",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0936",
+   "en": "Super Shot",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0937",
+   "en": "Defender",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0938",
+   "en": "Anti-air interceptor Destroid\nUsed as the Macross's anti-air weaponry",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0939",
+   "en": "Spinning Super Shot",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0940",
+   "en": "Spartan",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0941",
+   "en": "Close-combat Destroid\nHeavily armored and highly mobile",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0942",
+   "en": "Spartan DX",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0943",
+   "en": "Phalanx",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0944",
+   "en": "Close-in air defense Destroid for space\nExcels at short-range attacks",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0945",
+   "en": "Tomahawk",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0946",
+   "en": "Heavy artillery Destroid\nFront-mounted weapons excel at focused fire",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0947",
+   "en": "Super Flamethrower",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0948",
+   "en": "Monster",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0949",
+   "en": "Ultra-long-range artillery Destroid\nPoor mobility, but tremendous firepower",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0950",
+   "en": "Two-seat Valkyrie built for training\nA trainer, but also capable of real combat",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0951",
+   "en": "Melee Combo",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0952",
+   "en": "Standard mass-produced Valkyrie of the VF-1 series\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0953",
+   "en": "VF-1A (Max)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0954",
+   "en": "Standard mass-produced Valkyrie of the VF-1 series\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0955",
+   "en": "Triple Clone",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0956",
+   "en": "VF-1J (Hikaru)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0957",
+   "en": "Valkyrie with upgraded weapons over the VF-1A\nHikaru's unit, the hero mecha of Macross",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0958",
+   "en": "VF-1J (Max)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0959",
+   "en": "Valkyrie with upgraded weapons over the VF-1A\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0960",
+   "en": "Hyper Speed",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0961",
+   "en": "VF-1J (Milia)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0962",
+   "en": "Valkyrie with upgraded weapons over the VF-1A\nMilia's unit, with red as her personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0963",
+   "en": "Double Full Salvo",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0964",
+   "en": "VF-1S Roy Focker Special",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0965",
+   "en": "High-performance commander's Valkyrie\nThe Skull Leader's unit, marked with a skull trademark",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0966",
+   "en": "Macross Daedalus Type",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0967",
+   "en": "Super Dimension Fortress rebuilt from a giant space battleship\nThe Daedalus and Prometheus are attached as its arms",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0968",
+   "en": "Macross Cannon",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0969",
+   "en": "Two-seat Valkyrie built for training\nEquipped with a FAST Pack made for the VT-1",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0970",
+   "en": "Minmay Date",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0971",
+   "en": "VF-1A (Hikaru)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0972",
+   "en": "Standard mass-produced Valkyrie of the VF-1 series\nHikaru's unit, with red as his personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0973",
+   "en": "Squadron Full Salvo",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0974",
+   "en": "VF-1S (Hikaru)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0975",
+   "en": "High-performance commander's Valkyrie\nHikaru's unit, with red as his personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0976",
+   "en": "VF-1S (Max)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0977",
+   "en": "High-performance commander's Valkyrie\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0978",
+   "en": "Variable fighter that fixed the VF-1's flaws\nHikaru flew it as a VF-4 squadron leader",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0979",
+   "en": "Macross Armored Type",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0980",
+   "en": "Super Dimension Fortress rebuilt from a giant space battleship\nARMD-01 and ARMD-02 are attached as its arms",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0981",
+   "en": "Regult",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0982",
+   "en": "The Zentradi forces' main battle pod\nSimple in design and easy to field",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0983",
+   "en": "Glaug",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0984",
+   "en": "Battle pod developed from collected combat data\nHigh-performance unit that excels in melee",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0985",
+   "en": "Nousjadeul-Ger",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0986",
+   "en": "Zentradi forces powered suit (TV version)\nExcellent firepower, agility and mobility",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0987",
+   "en": "Zentradi forces powered suit (movie version)\nExcellent firepower, agility and mobility",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0988",
+   "en": "Queadluun-Rau",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0989",
+   "en": "Battle suit developed by the Zentradi forces\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0990",
+   "en": "Queadluun-Rau (Milia)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0991",
+   "en": "Battle suit developed by the Zentradi forces\nMilia's unit, with red as her personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0992",
+   "en": "Queadluun-Rau (Max)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0993",
+   "en": "Battle suit developed by the Zentradi forces\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0994",
+   "en": "A soldier of the Zentradi forces\nA giant five times the height of a human",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0995",
+   "en": "All-Forces Charge",
+   "flags": [],
+   "notes": "tm kept after review"
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

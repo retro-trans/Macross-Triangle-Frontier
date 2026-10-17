@@ -1,0 +1,510 @@
+{
+ "slice": 45,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "pf_cnr/138",
+   "en": "Never thought it would end like this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/139",
+   "en": "What are you doing?!",
+   "flags": [],
+   "notes": "To the partner in trouble (139-143)."
+  },
+  {
+   "id": "pf_cnr/140",
+   "en": "Fall back! Do you want to die?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/141",
+   "en": "Don't misjudge when to pull back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/142",
+   "en": "What are you doing?! Eject, now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/143",
+   "en": "You let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/144",
+   "en": "Damn! How could this happen?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/148",
+   "en": "Reinforcements? Much appreciated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/149",
+   "en": "Not bad timing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/150",
+   "en": "Thanks for the reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/151",
+   "en": "I was right here, yet I failed them...",
+   "flags": [],
+   "notes": "Ally shot down (151-153); 'them' singular, identity unknown."
+  },
+  {
+   "id": "pf_cnr/152",
+   "en": "Damn! They got shot down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/153",
+   "en": "All because I wasn't good enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/154",
+   "en": "I should be able to handle this much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/155",
+   "en": "The natural result.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/156",
+   "en": "Mission successful. Returning to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/157",
+   "en": "Out of time? I can't believe it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/158",
+   "en": "We didn't make it in time...",
+   "flags": [],
+   "notes": "Subject 'we' (the team) restored."
+  },
+  {
+   "id": "pf_cnr/159",
+   "en": "Time's up. Withdrawing from the front.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/160",
+   "en": "The mission's a failure. Withdrawing immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/161",
+   "en": "What a pathetic result.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/162",
+   "en": "Did overconfidence dull my skills?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'manshin' (whole body) kanji for manshin (overconfidence)."
+  },
+  {
+   "id": "pf_cnr/163",
+   "en": "Bring all guns to bear on the front!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'zenmen' (whole surface) kanji for zenmen (front)."
+  },
+  {
+   "id": "pf_cnr/164",
+   "en": "Now! Fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/165",
+   "en": "Give me covering fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/166",
+   "en": "Charge!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/167",
+   "en": "Close combat's all yours.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/168",
+   "en": "Switching to close combat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/169",
+   "en": "Tighten your defenses!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/170",
+   "en": "Focus on defense.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/171",
+   "en": "Attacking isn't all there is to fighting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/172",
+   "en": "Blast them with all you've got!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/173",
+   "en": "Fiiire!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript is a drawn-out 'teeee'; read as (u)teee! (fire!), in the order block after 172."
+  },
+  {
+   "id": "pf_cnr/174",
+   "en": "Show me what you can do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/175",
+   "en": "Looks like I'll have to do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/176",
+   "en": "Don't underestimate me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/177",
+   "en": "From here on, I'm getting serious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/178",
+   "en": "Don't worry about it. We're a team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/179",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/180",
+   "en": "Not a bad plan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/181",
+   "en": "I'll cover the Captain.",
+   "flags": [],
+   "notes": "taichou = Captain (the player as team leader)."
+  },
+  {
+   "id": "pf_cnr/182",
+   "en": "What are you doing, Captain?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/183",
+   "en": "At this rate, the Captain will...",
+   "flags": [],
+   "notes": "Trails off in the Japanese."
+  },
+  {
+   "id": "pf_cnr/184",
+   "en": "The Captain, shot down...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/185",
+   "en": "Damn! The Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/186",
+   "en": "Looks like this is as far as we go.",
+   "flags": [],
+   "notes": "Subject 'we' chosen (after the Captain falls)."
+  },
+  {
+   "id": "pf_cnr/187",
+   "en": "That goes straight to the heart.",
+   "flags": [],
+   "notes": "Song lines (187-189)."
+  },
+  {
+   "id": "pf_cnr/188",
+   "en": "Not bad. Good song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/189",
+   "en": "A song, huh... It resonates.",
+   "flags": [
+    "uncertain",
+    "whisper_doubt"
+   ],
+   "notes": "'hiku zo' (I'll play) read as hibiku na (it resonates); Canaria does not play music."
+  },
+  {
+   "id": "pf_cnr/190",
+   "en": "Keep it up, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/191",
+   "en": "Our Captain's got decent skills.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/192",
+   "en": "Everyone, follow Ozma!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/197",
+   "en": "Thanks for the rescue.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/198",
+   "en": "Thanks. You saved me.",
+   "flags": [],
+   "notes": "sumanai used as thanks."
+  },
+  {
+   "id": "pf_cnr/200",
+   "en": "You've got decent skills.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/201",
+   "en": "Keep it up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/210",
+   "en": "I'll cover you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/211",
+   "en": "Fall back for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/212",
+   "en": "Calm down a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/213",
+   "en": "Damn! You got shot down?!",
+   "flags": [],
+   "notes": "Partner shot down (213-215)."
+  },
+  {
+   "id": "pf_cnr/214",
+   "en": "I can't believe they got you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/215",
+   "en": "All because I wasn't strong enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/216",
+   "en": "Impressive. You're good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/217",
+   "en": "I should learn from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/300",
+   "en": "Just don't get in my way.",
+   "flags": [],
+   "notes": "Partner lines (300-331)."
+  },
+  {
+   "id": "pf_cnr/301",
+   "en": "Don't get hurt and give me more work.",
+   "flags": [],
+   "notes": "She is the S.M.S. medical officer."
+  },
+  {
+   "id": "pf_cnr/302",
+   "en": "Never thought I'd be teamed up with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/303",
+   "en": "We're going to make this mission a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/304",
+   "en": "Stay sharp. Carelessness gets you killed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/305",
+   "en": "Let's go! Ready?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/306",
+   "en": "You'll have to push yourself a little too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/307",
+   "en": "Show me you can live up to my expectations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/308",
+   "en": "You can do it. I know you can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/309",
+   "en": "You're with me. We'll succeed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/310",
+   "en": "There's no way this mission can fail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/311",
+   "en": "I'm trusting you with my back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/320",
+   "en": "Surprising you made it back alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/321",
+   "en": "I hope this is the last time I team up with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/322",
+   "en": "I never thought you'd be this useless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/323",
+   "en": "You did better than I expected.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3569 (pf_cnr/189): 'hiku zo' (I'll play) read as hibiku na (it resonates); Canaria does not play music."
+  ],
+  "whisper_doubt": [
+   "row 3542 (pf_cnr/162): 'manshin' (whole body) kanji for manshin (overconfidence).",
+   "row 3543 (pf_cnr/163): 'zenmen' (whole surface) kanji for zenmen (front).",
+   "row 3553 (pf_cnr/173): Transcript is a drawn-out 'teeee'; read as (u)teee! (fire!), in the order block after 172.",
+   "row 3569 (pf_cnr/189): 'hiku zo' (I'll play) read as hibiku na (it resonates); Canaria does not play music."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

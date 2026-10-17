@@ -1,0 +1,495 @@
+{
+ "slice": 38,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c02752",
+   "en": "You two really get along great!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02753",
+   "en": "(Let's see, who's teaching the next class...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02754",
+   "en": "It's Pinon's lecture.",
+   "flags": [],
+   "notes": "Kagura (Yuuto), male-player version; bare 'Pinon' as in the Japanese."
+  },
+  {
+   "id": "c02755",
+   "en": "Oh right, thanks, Yuuto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02756",
+   "en": "Oh, Pinon-chan just came in...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02757",
+   "en": "Class is starting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02758",
+   "en": "Wh-huh...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02759",
+   "en": "Pinon-chan disappeared?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02760",
+   "en": "The teacher's desk in this classroom is so tall\nthat someone Pinon's height gets hidden\nbehind it, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02761",
+   "en": "Isn't there a step or a platform or something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02762",
+   "en": "Knowing her, I bet she wouldn't use one\neven if there was...",
+   "flags": [],
+   "notes": "'Ano ko' = that girl (Pinon, female)."
+  },
+  {
+   "id": "c02763",
+   "en": "True...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02764",
+   "en": "Qui-et-down-al-rea-dy!",
+   "flags": [],
+   "notes": "Drawn-out syllable by syllable in the Japanese."
+  },
+  {
+   "id": "c02765",
+   "en": "Y-you lot, if you don't quiet down,\nI'll flunk every last one of you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02766",
+   "en": "Pinon-chan, you're so scaaary!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02767",
+   "en": "It's Pinon-SEN-SEI!\nDon't you call me Pinon-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02768",
+   "en": "Ooookay! Pinon-seeensei!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02769",
+   "en": "Th-that's fine, as long as you understand.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02770",
+   "en": "Looks like she's not budging from behind that\ndesk no matter what. She could just step\nto the side...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02771",
+   "en": "Well, Pinon's classes are easy to follow.\nIsn't it fine the way it is?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02772",
+   "en": "I guess so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02773",
+   "en": "\\p,\nyou've got some nerve, chatting in my class.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02774",
+   "en": "Uh, no, um...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02775",
+   "en": "(...When did she get over here...?)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02776",
+   "en": "...You look like you have something to say?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02777",
+   "en": "Ah, ahaha...",
+   "flags": [],
+   "notes": "Also scd_com_620 (Valentine)."
+  },
+  {
+   "id": "c02778",
+   "en": "As punishment, you will read\nfrom page 71 to page 120!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02779",
+   "en": "N-no way! That's 50 pages!?",
+   "flags": [],
+   "notes": "Japanese also says 50 (strictly 50 pages: 71-120)."
+  },
+  {
+   "id": "c02780",
+   "en": "It's punishment! Of course it is!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02781",
+   "en": "(Somebody help me~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02782",
+   "en": "It's Pinon-sensei's lecture.",
+   "flags": [],
+   "notes": "Shirakawa, female version."
+  },
+  {
+   "id": "c02783",
+   "en": "Oh right, thanks, Miyuki.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02784",
+   "en": "The teacher's desk in this classroom is so tall\nthat someone Pinon-sensei's height\ngets hidden behind it, it seems...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02785",
+   "en": "Knowing that girl, I don't think\nshe'd use one even if there was...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02786",
+   "en": "Looks like she's not budging from behind that\ndesk no matter what. She could just step\nto the side...",
+   "flags": [],
+   "notes": "Female only (Japanese differs from c02770 only by sentence-final particle)."
+  },
+  {
+   "id": "c02787",
+   "en": "She may be like that, but her classes are easy\nto follow. Isn't it fine the way it is?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02788",
+   "en": "You think so?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02789",
+   "en": "(...When did she get over here...?)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02790",
+   "en": "(Huh?\nWho's that over there...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02791",
+   "en": "Heeey, Pinon-chaaan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02792",
+   "en": "What's the matter? What are you doing here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02793",
+   "en": "That's my line.\nWhat are YOU doing here, Pinon-chan?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02794",
+   "en": "W-well...",
+   "flags": [],
+   "notes": "Also Klan in scd_sms_806."
+  },
+  {
+   "id": "c02795",
+   "en": "It's like this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02796",
+   "en": "...Like what?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02797",
+   "en": "I-it's a secret!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02798",
+   "en": "Awww~~~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02799",
+   "en": "I am busy!\nIf you've got no business here, go away! Shoo! Shoo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02800",
+   "en": "You don't look busy to me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02801",
+   "en": "I-I'm about to get busy...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02802",
+   "en": "Hmmm...",
+   "flags": [],
+   "notes": "Also Claire in nml_cla_003."
+  },
+  {
+   "id": "c02803",
+   "en": "Oh, reeeally?",
+   "flags": [],
+   "notes": "Name plate '???' (Yui)."
+  },
+  {
+   "id": "c02804",
+   "en": "It is true!... Wait, who are you?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02805",
+   "en": "That's cold, Pino-Pino~\n'Tis I, the great Yui Hoshimura!",
+   "flags": [],
+   "notes": "'Pinopino': Yui's nickname for Pinon, glossary alias 'Pino-Pino'. Old-fashioned diction per glossary."
+  },
+  {
+   "id": "c02806",
+   "en": "...When did you get here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02807",
+   "en": "Pino-Pino's up to something fun... ahem!",
+   "flags": [],
+   "notes": "Yui's slip ('something fun with Pino-Pino'), corrected in the next row."
+  },
+  {
+   "id": "c02808",
+   "en": "Whenever Pino-Pino is troubled,\nthe great Yui comes dashing to the rescue!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02809",
+   "en": "You just took that back, didn't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02810",
+   "en": "She took it back.",
+   "flags": [],
+   "notes": "Pinon, about Yui."
+  },
+  {
+   "id": "c02811",
+   "en": "Never mind the small stuff, I say!\nNow then, Pino-Pino...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02812",
+   "en": "Confess the great worries you've\nstored up in that little chest of yours!",
+   "flags": [],
+   "notes": "'Chiisana mune': keeps the dig at Pinon's small chest."
+  },
+  {
+   "id": "c02813",
+   "en": "Maybe I'll head home too.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02814",
+   "en": "Wha-! W-wait a sec, Pino-Pino! Let's calm down\nand take a deep breath!\nHee-hee-hoo! Hee-hee-hoo!!",
+   "flags": [],
+   "notes": "Lamaze breathing."
+  },
+  {
+   "id": "c02815",
+   "en": "You're the one who needs to calm down most.",
+   "flags": [],
+   "notes": "Male only; to Yui."
+  },
+  {
+   "id": "c02816",
+   "en": "What is this?! Why are you getting in my way?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02817",
+   "en": "I'm not getting in your way!\nAs your friend, I wanna share your worries,\nPino-Pino!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02818",
+   "en": "I-I don't have any worries!\nI just came to buy some clothes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02819",
+   "en": "Huh, clothes...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02820",
+   "en": "Well, well, then let's go look!\nWhat kind of clothes do you want?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02821",
+   "en": "I want an outfit like Hilda's,\none befitting an educator!",
+   "flags": [],
+   "notes": "Bare 'Hilda' as in the Japanese."
+  },
+  {
+   "id": "c02822",
+   "en": "See?!\nYou think it won't suit me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02823",
+   "en": "Wh-who says it isn't not maybe\nnot unlikely to... possibly...?",
+   "flags": [],
+   "notes": "Deliberately tangled stack of negatives in the Japanese."
+  },
+  {
+   "id": "c02824",
+   "en": "Your eyes are darting all over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02825",
+   "en": "W-well, let's at least go take a look!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02826",
+   "en": "Grrrrrr~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02827",
+   "en": "So that's that, see ya~\nCome on, let's go, Pino-Pino!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02828",
+   "en": "Stop dragging me~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02829",
+   "en": "(Hang in there, Pinon-chan...!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02830",
+   "en": "That's my line.\nWhat are YOU doing here, Pinon-chan?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02831",
+   "en": "Maybe I'll head home too.",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c02813/c02831: 'boku/watashi mo kaerou ka na' rendered 'Maybe I'll head home too.'; 'too' presumably follows Pinon's attempt to leave (no line shows it)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

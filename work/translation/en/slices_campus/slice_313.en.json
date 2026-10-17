@@ -1,0 +1,581 @@
+{
+ "slice": 313,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c22586",
+   "en": "All right! Starting right now, I'm gonna\npractice some party trick for next year...!",
+   "flags": [],
+   "notes": "Hoshimura, both versions. Ippatsugei = a one-shot party trick."
+  },
+  {
+   "id": "c22587",
+   "en": "Yeah! I'm gonna give it everything I've got!!\nI'd better head home and start practicing...\nSee ya, \\p!",
+   "flags": [],
+   "notes": "Hoshimura, both versions."
+  },
+  {
+   "id": "c22588",
+   "en": "Yeah, see you next year, Hoshimura.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22589",
+   "en": "(She's already thinking about next Christmas...\nThat's so Hoshimura...)",
+   "flags": [],
+   "notes": "Subject (Yui, female) restored."
+  },
+  {
+   "id": "c22590",
+   "en": "(Yeah, I'm glad I got to have\na fun Christmas this year too.)",
+   "flags": [],
+   "notes": "Male Yui and male Pinon versions."
+  },
+  {
+   "id": "c22591",
+   "en": "(I promised to go to this year's Christmas party\nwith Yui, but...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22592",
+   "en": "Of course it's okay!\nI promised because I wanted to spend it\nwith you, Yui.",
+   "flags": [],
+   "notes": "Answers Yui asking if it is really okay to spend Christmas with her."
+  },
+  {
+   "id": "c22593",
+   "en": "Ah, wait up, Yui!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22594",
+   "en": "It really was a great Christmas.",
+   "flags": [],
+   "notes": "Female Yui and female Michel versions."
+  },
+  {
+   "id": "c22595",
+   "en": "See you next year, Yui.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22596",
+   "en": "(She's already thinking about next Christmas...\nThat's so Yui...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22597",
+   "en": "(Yeah, I'm glad I got to have\na fun Christmas this year too.)",
+   "flags": [],
+   "notes": "Female Yui and female Pinon versions."
+  },
+  {
+   "id": "c22598",
+   "en": "(I'm supposed to meet Yamashiro-sensei\nat the school gate, but...)",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22599",
+   "en": "\\p.\nMerry Christmas.",
+   "flags": [],
+   "notes": "Yamashiro, calm."
+  },
+  {
+   "id": "c22600",
+   "en": "Merry Christmas, Yamashiro-sensei.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22601",
+   "en": "Don't get too carried away.\nAs a teacher, there are some things\nI can't overlook.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22602",
+   "en": "That was so much fun again this year, wasn't it~",
+   "flags": [],
+   "notes": "Shared: Yamashiro (both genders) and female Claire versions; polite form."
+  },
+  {
+   "id": "c22603",
+   "en": "I never imagined Gary would cross-dress...\nWhat a thing to be made to witness\nat the end of the year.",
+   "flags": [],
+   "notes": "Yamashiro calls Gary by bare name, kept bare."
+  },
+  {
+   "id": "c22604",
+   "en": "Ahaha... It was quite a Christmas.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22605",
+   "en": "I agree.\nBut next year, shall we have a Christmas\nparty, just the two of us?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22606",
+   "en": "...I'm joking.\nWell then, see you next year.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22607",
+   "en": "Yes, see you next year.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22608",
+   "en": "(I'm glad I got to have a fun Christmas, but...\nthat last remark from Yamashiro-sensei\nsurprised me a little.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22609",
+   "en": "(I'm glad I got to have a fun Christmas, but...\nthat last remark from Yamashiro-sensei\nsurprised me a little.)",
+   "flags": [],
+   "notes": "Female version; same English as c22608."
+  },
+  {
+   "id": "c22610",
+   "en": "(I'm going to the Academy Christmas party\nwith Akimizu, but she's late...)",
+   "flags": [],
+   "notes": "Akimizu is female (glossary)."
+  },
+  {
+   "id": "c22611",
+   "en": "\\p-kun!\nI'm sorry I'm late...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22612",
+   "en": "Oh, Akimizu.\nIt's fine, I haven't been waiting that long.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22613",
+   "en": "I couldn't decide what to bring\nfor the gift exchange...",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22614",
+   "en": "Ah, that's a tough one~\nSo, what did you end up getting?",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22615",
+   "en": "Um...\nDon't laugh, okay...?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22616",
+   "en": "I won't. So, what is it?",
+   "flags": [],
+   "notes": "Daijoubu = it's fine (I won't laugh)."
+  },
+  {
+   "id": "c22617",
+   "en": "Well, um...\nA \"Super Deculture Lottery\" ticket...",
+   "flags": [],
+   "notes": "Super Dekaruchaa takarakuji: in-game lottery, 'Deculture' per glossary lore term. Not a glossary name."
+  },
+  {
+   "id": "c22618",
+   "en": "See, since nobody knows who'll end up with it,\nI figured anyone would be happy to get it...",
+   "flags": [],
+   "notes": "Pun on ataru (to win / to be drawn in the exchange); English keeps the exchange sense."
+  },
+  {
+   "id": "c22619",
+   "en": "I-I see...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22620",
+   "en": "A-anyway, come on, let's hurry and go!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22621",
+   "en": "Oh, yeah, let's!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22622",
+   "en": "That Christmas party was fun, huh?",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22623",
+   "en": "It was! And my present made someone happy, too!",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22624",
+   "en": "I can't believe Luis-san got it...\nI don't think he's even part of the Academy\nin the first place...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22625",
+   "en": "Well, it's Christmas, so who cares!",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22626",
+   "en": "Well, I'd better head home now.\nHere's to next year too, \\p-kun!",
+   "flags": [],
+   "notes": "Yoroshiku: 'Here's to next year'; the player answers 'Yeah, same here!' (c22627)."
+  },
+  {
+   "id": "c22627",
+   "en": "Yeah, same here!",
+   "flags": [],
+   "notes": "x5: Akimizu and Alto Christmas (both genders) and Akimizu White Day ('korekara mo yoroshiku'). Neutral."
+  },
+  {
+   "id": "c22628",
+   "en": "(Still, that present of Akimizu's...\nShe's more practical than she looks...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22629",
+   "en": "(I'm going to the Academy Christmas party\nwith Yuu, but...)",
+   "flags": [],
+   "notes": "Female player calls her Yuu."
+  },
+  {
+   "id": "c22630",
+   "en": "\\p-chan!\nI'm sorry I'm late...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22631",
+   "en": "Oh, Yuu.\nIt's fine, I haven't been waiting that long.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22632",
+   "en": "I won't. So, what is it?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22633",
+   "en": "Yeah, let's go!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22634",
+   "en": "I can't believe Luis-san got it...\nHe isn't even part of the Academy,\nis he...?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22635",
+   "en": "Well, I'm heading home now.\nHere's to next year too, \\p-chan!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22636",
+   "en": "(Still, that present of Yuu's...\nShe's more practical than she looks...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22637",
+   "en": "(I'm supposed to meet Claire-senpai\nat the school gate, but...)",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22638",
+   "en": "Merry Christmas, Claire-senpai.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22639",
+   "en": "Hmm, I think I'd rather spend it\njust the two of us...",
+   "flags": [],
+   "notes": "Claire, both versions; answers the player's 'let's all liven it up more than last year'."
+  },
+  {
+   "id": "c22640",
+   "en": "Oh, never mind. Shall we go?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22641",
+   "en": "I never dreamed Yuu would show up\nin an outfit like that!",
+   "flags": [],
+   "notes": "Claire calls Akimizu 'Yuu' (bare)."
+  },
+  {
+   "id": "c22642",
+   "en": "It really turned out to be a great Christmas.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22643",
+   "en": "I think so too...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22644",
+   "en": "But next year, why don't we make it a Christmas\nparty for just the two of us?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22645",
+   "en": "...Just kidding!\nWell then, see you next year.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22646",
+   "en": "Okay. Have a happy New Year!",
+   "flags": [],
+   "notes": "Yoi otoshi wo."
+  },
+  {
+   "id": "c22647",
+   "en": "(I'm glad I got to have a fun Christmas, but...\nthat last remark from Claire-senpai\nsurprised me a little~)",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22648",
+   "en": "Merry Christmas, Claire-senpai!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22649",
+   "en": "(I promised to go to this year's Christmas party\nwith Pinon-chan, but...)",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22650",
+   "en": "M-merry Christmas...\n\\p.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22651",
+   "en": "Merry Christmas!\nLet's all have even more fun than last year!",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22652",
+   "en": "Wait, what's wrong, Pinon-chan?\nYou seem kind of nervous.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22653",
+   "en": "I-I'm not nervous or anything!\nI'm NOT, got it?!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22654",
+   "en": "You're obviously stiff as a board, Pinon-chan...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22655",
+   "en": "I-I am not!\nHurry up, we're going to the party!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22656",
+   "en": "Wait up, Pinon-chan!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22657",
+   "en": "Who knew Yui would get that carried away?\nIt really caught me off guard.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22658",
+   "en": "Y-yeah, it was...",
+   "flags": [],
+   "notes": "Answers the player's 'It really was a great Christmas' (c22584)."
+  },
+  {
+   "id": "c22659",
+   "en": "Hey, \\p...\nWill you spend it with me like this\nnext year too...?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22660",
+   "en": "Huh? Yeah, of course, Pinon-chan.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22661",
+   "en": "R-really?!\nThat's a promise! A promise, you hear?!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22662",
+   "en": "S-see you, \\p!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22663",
+   "en": "See you next year, Pinon-chan.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22664",
+   "en": "(Making promises for next year already...\nPinon-chan sure is getting ahead of herself.)",
+   "flags": [],
+   "notes": "Pinon female (glossary)."
+  },
+  {
+   "id": "c22665",
+   "en": "(Making promises for next year already...\nPinon-chan sure is getting ahead of herself.)",
+   "flags": [],
+   "notes": "Female version."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

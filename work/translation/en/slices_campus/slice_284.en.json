@@ -1,0 +1,442 @@
+{
+ "slice": 284,
+ "rows_in_slice": 70,
+ "rows_examined": 70,
+ "rows": [
+  {
+   "id": "c20346",
+   "en": "This goes like this, so...\nthen a twiddly-tweak right here......",
+   "flags": [],
+   "notes": "Chochoi no choi: 'twiddly-tweak' as in c14091/c20243."
+  },
+  {
+   "id": "c20347",
+   "en": "(Hoshimura's tinkering with machines again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20348",
+   "en": "Hoshimura, why'd you join the Pilot Course?\nIf you love machines that much, you should've\njust joined the Maintenance Course.",
+   "flags": [],
+   "notes": "Seibi kousu -> 'Maintenance Course' (not in the glossary), by analogy with Pilot Course."
+  },
+  {
+   "id": "c20349",
+   "en": "Well, that's, um... lemme see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20350",
+   "en": "Is there some reason that's hard to talk about?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20351",
+   "en": "Well, actually, I kinda flunked\nthe Maintenance Course exam...",
+   "flags": [],
+   "notes": "Maintenance Course: see c20348."
+  },
+  {
+   "id": "c20352",
+   "en": "What?! But you're great at maintenance\nand stuff, Hoshimura... How come?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20353",
+   "en": "Hmmm, during the test I got a little too fired up\nand made some crazy modifications, see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20354",
+   "en": "Crazy enough to fail you...?\nWhat on earth did you do?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20355",
+   "en": "Well, there was a teeny little explosion...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20356",
+   "en": "Well, yeah, that'll get you failed...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20357",
+   "en": "(That's such a Hoshimura reason.\nWhat a waste, when she's got the skills...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20358",
+   "en": "(Yui's tinkering with machines again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20359",
+   "en": "Yui, why'd you join the Pilot Course?\nIf you love machines that much, you should've\njust joined the Maintenance Course.",
+   "flags": [],
+   "notes": "Maintenance Course: see c20348."
+  },
+  {
+   "id": "c20360",
+   "en": "Is there some reason that's hard to talk about?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20361",
+   "en": "What?! But you're great at maintenance\nand stuff, Yui... How come?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20362",
+   "en": "Crazy enough to fail you...?\nWhat on earth did you do?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20363",
+   "en": "Well, yeah, that'll get you failed...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20364",
+   "en": "(That's such a Yui reason.\nWhat a waste, when she's got the skills...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20365",
+   "en": "(I'm done with my early-morning workout.\nWhat should I do now...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20366",
+   "en": "\\p-kun,\nwhat are you worrying about?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20367",
+   "en": "Oh, Akimizu. Did I look like that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20368",
+   "en": "Well, of course. It looked like you were\ngroaning \"hmmm, hmmm\" to yourself...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20369",
+   "en": "Was it really that bad...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20370",
+   "en": "So, what are you worrying about?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20371",
+   "en": "It's not that I'm worried, exactly...\nI was just wondering how to spend\nthe rest of the day...",
+   "flags": [],
+   "notes": "Shared by both player genders."
+  },
+  {
+   "id": "c20372",
+   "en": "Oh, I know that feeling! Whatever you do,\nthere's always something to worry about, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20373",
+   "en": "If I go to a festival, I get bitten by bugs,\nand if I eat soft serve, I get fat,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20374",
+   "en": "if I go to the pool, swimsuits are embarrassing,\nand if I so much as step outside, I get sunburned...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20375",
+   "en": "I really end up not being able to do\nanything at all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20376",
+   "en": "Th-That does sound rough...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20377",
+   "en": "(Akimizu's worries are kinda... out there...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Bimyou na nayami: 'iffy/odd worries'; female twin c20383 says 'off-the-charts' (ketahazure), so the two differ as in the Japanese."
+  },
+  {
+   "id": "c20378",
+   "en": "(I'm done with my early-morning workout.\nWhat should I do now...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20379",
+   "en": "\\p-chan,\nwhat are you worrying about?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20380",
+   "en": "Oh, Yuu. Did I look like that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20381",
+   "en": "Was it... really that bad...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20382",
+   "en": "Th-That does sound rough...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20383",
+   "en": "(Yuu worries on a whole other level...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20384",
+   "en": "(Sheryl's concert is coming up soon.\nI can't wait.)",
+   "flags": [],
+   "notes": "Shared by both player genders."
+  },
+  {
+   "id": "c20385",
+   "en": "What's up, \\p-kun?\nYou look kind of happy...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20386",
+   "en": "Yeah, I was just thinking Sheryl's concert\nis coming up soon...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20387",
+   "en": "Oh, that's right, it is.\nYou're working at the concert as staff, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20388",
+   "en": "Yeah, that's right.\nAren't you going to go see it, Akimizu?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20389",
+   "en": "Oh, um... I'm interested, but... well...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20390",
+   "en": "Yeah? What's wrong?",
+   "flags": [],
+   "notes": "Shared by both player genders."
+  },
+  {
+   "id": "c20391",
+   "en": "...Um, I'm just... not very good...\nwith big crowds...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20392",
+   "en": "Oh, really!\nThat's kind of a shame, though.\nIt's such a great chance...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20393",
+   "en": "You're right. Maybe I'll try harder\nnext time...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20394",
+   "en": "(I bet Akimizu won't go next time either...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20395",
+   "en": "What's up, \\p-chan?\nYou look kind of happy...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20396",
+   "en": "Yeah, I was just thinking Sheryl's concert\nis coming up soon...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20397",
+   "en": "Yeah, that's right.\nAren't you going to go see it, Yuu?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20398",
+   "en": "(I bet Yuu won't go next time either...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20399",
+   "en": "(I wonder what the new planet is like...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20400",
+   "en": "What's wrong, \\p-kun?\nYou've got a serious look on your face.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20401",
+   "en": "Oh, Akimizu.\nI was just thinking about the new planet...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20402",
+   "en": "I see... You really do end up thinking\nabout all kinds of things, huh?\nNot that I ever come up with any answers...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Akimizu drops into casual speech here (shared male/female, her name plate in both). Kept as her line; 'I' restored for the speaker's own fruitless musing."
+  },
+  {
+   "id": "c20403",
+   "en": "Yeah, there's just no end to imagining it...\nWhich is kind of obvious, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20404",
+   "en": "But isn't it fine as long as it's fun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20405",
+   "en": "It's like anything else. If imagining makes you\nhappy, I think you should do as much as you want.\nAfter all, it's something you can only do now...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20406",
+   "en": "You might be right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20407",
+   "en": "Yes! So I think you should just\nenjoy the here and now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20408",
+   "en": "Yeah, thanks!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20409",
+   "en": "(Akimizu sure says some good stuff!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20410",
+   "en": "(I wonder what the new planet is like...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20411",
+   "en": "What's wrong, \\p-chan?\nYou've got a serious look on your face.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20412",
+   "en": "Oh, Yuu.\nI was just thinking about the new planet...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20413",
+   "en": "Yeah, there's just no end to imagining it...\nWhich is kind of obvious, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20414",
+   "en": "Yeah, thanks!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20415",
+   "en": "(Yuu sure says some good stuff!)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c20402: Akimizu speaks casually (sou nanda... kangaechau yo ne) unlike her usual polite speech; kept as her line (name plate in both variants), 'I' restored for the fruitless musing.",
+   "c20377: bimyou na nayami rendered '(Akimizu's worries are kinda... out there...)'; the female twin (c20383, ketahazure) differs in the Japanese too."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Seibi kousu -> 'Maintenance Course' (c20348, c20351, c20359), by analogy with Pilot Course."
+  ],
+  "unfinished": []
+ }
+}

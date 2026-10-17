@@ -1,0 +1,498 @@
+{
+ "slice": 77,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c05701",
+   "en": "(Today I'll stop fighting it and show\nsome real enthusiasm!)",
+   "flags": [],
+   "notes": "Male only (frd_hld_003, third visit)."
+  },
+  {
+   "id": "c05702",
+   "en": "No, not that long.\nNow, let's get right to the training, please!",
+   "flags": [],
+   "notes": "Both genders; answers Hilda's 'sorry to keep you waiting'."
+  },
+  {
+   "id": "c05703",
+   "en": "Oh, you're all fired up today.\nAll right, we start with stretches. Let's go!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05704",
+   "en": "Yes! I'm counting on you!",
+   "flags": [],
+   "notes": "x4: player to Hilda here, and Ranka to the player in frd_rnk_103 (asking the player to model again); 'I'm counting on you' fits both, speaker asks the listener."
+  },
+  {
+   "id": "c05705",
+   "en": "Good, that was some fine training today.\nKeep the same attitude from now on, got it?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05706",
+   "en": "(Phew, I'm tired, but it feels kinda good!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05707",
+   "en": "(Today I'll stop fighting it and show\nsome real enthusiasm!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05708",
+   "en": "(Haah, I'm tired, but it feels kinda good!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05709",
+   "en": "(Well, guess it's the usual training today too...\nNot that that's a bad thing...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05710",
+   "en": "Hey, \\p, you're late!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05711",
+   "en": "Ah, Hilda-sensei, I'm sorry!\nI was just thinking about something and...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05712",
+   "en": "What, something bothering you?\nA troubled mind leads to a tired body.\nWant to skip today?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05713",
+   "en": "No, I'm fine. Let's train, please!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05714",
+   "en": "I see. Then let's begin.\nWhatever you do, don't overdo it.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05715",
+   "en": "Good, that's a proper answer!\nThen we start with stretches, as usual.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05716",
+   "en": "Yes!\nAnd... hup!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05717",
+   "en": "Oh, looking good. Your body's really shaping up.\nDon't overdo it. The basic rule is 'Hurts-Good'!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hilda. 'Itakimo' is her coined stretching rule (itai + kimochii), first explained in slice 75 (c05598/c05599); rendered 'hurts so good' here, must match slice 75's rendering. Aligned with slice 75 ('Hurts-Good')."
+  },
+  {
+   "id": "c05718",
+   "en": "All right, that should be enough.\nOverdoing your stretches isn't good either.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05719",
+   "en": "Now, let's see... Today we'll just take it easy.\nRunning, five laps of the schoolyard!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05720",
+   "en": "Huh? Five laps? Not fifty?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05721",
+   "en": "Sometimes you need to rest your body too.\nJust do as I say!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05722",
+   "en": "(Hmm, I wonder what's up with Sensei today...)",
+   "flags": [],
+   "notes": "Male only; subject (Hilda) restored from context."
+  },
+  {
+   "id": "c05723",
+   "en": "I finished my run!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05724",
+   "en": "I see. Then let's stop here for today.\nDo a light cool-down, then head home.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05725",
+   "en": "Huh? We're done already?\nWhat's going on today?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05726",
+   "en": "Well, pushing yourself too hard isn't good either.\nYou've got classes too, so keep your\nself-training in moderation.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05727",
+   "en": "Huh... But...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05728",
+   "en": "Hm? You have a problem with that?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05729",
+   "en": "No! Not at all!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05730",
+   "en": "(Hmm, I wonder what's up with Hilda-sensei...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05731",
+   "en": "(Well, it's probably the usual training today too...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05732",
+   "en": "Ah, Hilda-sensei, I'm sorry!\nI was just thinking about something...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05733",
+   "en": "Yes!\nAnd... heave-ho!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05734",
+   "en": "Huh? Only five laps? Not fifty?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05735",
+   "en": "(Huh? I wonder what's gotten into Sensei today...)",
+   "flags": [],
+   "notes": "Female only; subject (Hilda) restored from context."
+  },
+  {
+   "id": "c05736",
+   "en": "Huh? We're done already?\nI thought we were just getting started...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05737",
+   "en": "(I wonder what's up with Hilda-sensei today?)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05738",
+   "en": "(All right, I'm gonna give training my all today too!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05739",
+   "en": "Not at all. Thanks for coaching me again today!",
+   "flags": [],
+   "notes": "Both genders; answers Hilda's 'sorry to keep you waiting'."
+  },
+  {
+   "id": "c05740",
+   "en": "Mm...\nLet's see. Today we'll take it easy again.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05741",
+   "en": "Huh? Oh... okay...",
+   "flags": [],
+   "notes": "x4, player, frd_hld_004/005; follows c05351's 'Huh? Oh, okay...'."
+  },
+  {
+   "id": "c05742",
+   "en": "Your answer's too sluggish!",
+   "flags": [],
+   "notes": "Hilda, x4; as Gary's c05089."
+  },
+  {
+   "id": "c05743",
+   "en": "All right, that should do for today.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05744",
+   "en": "Huh? I can still keep going!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05745",
+   "en": "Are you refusing to listen to me?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05746",
+   "en": "No, sorry! Thank you very much!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05747",
+   "en": "(Maybe Hilda-sensei is looking out for me...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05748",
+   "en": "(All right, I'm gonna give training my all today too!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05749",
+   "en": "Huh? I'm still good to go!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05750",
+   "en": "(Maybe Hilda-sensei is looking out for me...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05751",
+   "en": "(All right, time to fire myself up and work hard\ntoday too... Oh, there's Hilda-sensei.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05752",
+   "en": "No, I just got here...\nHuh? Hilda-sensei, you're not in your tracksuit today...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05753",
+   "en": "No training today. We're going to unwind.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05754",
+   "en": "Oh, really? So that's why you're in regular clothes today.\nThen maybe I'll just head home today...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05755",
+   "en": "What are you talking about? I said we're unwinding.\nHurry up and get changed. We're going out!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05756",
+   "en": "Huh? Oh, okay.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05757",
+   "en": "Sorry to keep you waiting, Sensei.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05758",
+   "en": "Mm. Then let's start with some tea.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05759",
+   "en": "Order whatever you like. My treat.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05760",
+   "en": "Okay, thank you!\nThen, um, an iced coffee and a cheesecake...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05761",
+   "en": "Are you an idiot?!\nWhy load up on stimulants and fat to unwind?!\nI keep telling you to look after your health every day!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05762",
+   "en": "Well, um, you said 'whatever I like'...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05763",
+   "en": "Never mind. Take your time choosing.\nI'll have the low-fat hippo-cow milk\nand a bagel sandwich.",
+   "flags": [],
+   "notes": "Hilda; hippo-cow per glossary."
+  },
+  {
+   "id": "c05764",
+   "en": "Oh, then I'll have the same.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05765",
+   "en": "Good, that's the right attitude.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05766",
+   "en": "By the way, Sensei, why is training off today,\nand why are we 'unwinding' instead?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05767",
+   "en": "Mm. You seemed to be pushing a bit too hard lately,\nso I figured I'd better teach you to rest too.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05768",
+   "en": "Oh, is that what it was? I'm sorry.\nBut you don't need to worry about me that much.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05769",
+   "en": "Looking out for my students is my job. Don't mind it.\nMore importantly, don't take your health lightly.\nIf you slip up, it could cost you your life.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05770",
+   "en": "Huh? Um... my life...?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05771",
+   "en": "Well, it's just an example.\nIf you're not in top shape when you hit a crisis,\nit'll be hard to get out of it. That's all.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05772",
+   "en": "(That's kind of an extreme example...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05773",
+   "en": "Hm? Something wrong?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05774",
+   "en": "Let's continue.\nSo, you rest body and mind like this to prepare\nfor the next training. That's the point.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05775",
+   "en": "You especially have been working very hard lately.\nOverworking your body isn't good either.\nKeep taking proper breaks from now on.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05776",
+   "en": "Besides, kids your age should be itching to have fun.\nDon't you even have a girlfriend?",
+   "flags": [],
+   "notes": "Hilda, male version only (female version says boyfriend, c05796)."
+  },
+  {
+   "id": "c05777",
+   "en": "Well, sadly, there's no one I could really call\na girlfriend...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05778",
+   "en": "What, how pathetic.\nThat's no good for a student of mine.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05779",
+   "en": "I'm really sorry...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05780",
+   "en": "All right, it's settled. From now on, whenever\nyou want to unwind, feel free to invite me.",
+   "flags": [],
+   "notes": "Hilda."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c05717: Hilda's coined stretching rule 'Itakimo' (itai + kimochii, 'painful but pleasant') rendered 'hurts so good'; it is introduced in slice 75 (c05598/c05599, c05604, c05618), so the term should be aligned with whatever slice 75 uses.",
+   "c05704: shared by the player (to Hilda) and Ranka (to the player, frd_rnk_103); 'Yes! I'm counting on you!' keeps the direction (speaker asks listener) for both."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

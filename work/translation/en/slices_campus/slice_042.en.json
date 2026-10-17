@@ -1,0 +1,387 @@
+{
+ "slice": 42,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c03072",
+   "en": "I-I'll do my best...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03073",
+   "en": "The Kira☆ I taught you...\ntake good care of it, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03074",
+   "en": "See you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03075",
+   "en": "(I don't really get what just happened, but I'll\npractice it once more before I forget.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03076",
+   "en": "(Oh, I did it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03077",
+   "en": "(Ranka-chan called me up to the roof, but...\nI wonder what she wants.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03078",
+   "en": "I've been waiting for you,\n\\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03079",
+   "en": "Ranka-chan, what's up? Calling me out here\nall of a sudden...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03080",
+   "en": "N-no way, I can't do that!?",
+   "flags": [],
+   "notes": "Female version of c03051."
+  },
+  {
+   "id": "c03081",
+   "en": "Now,\n\\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03082",
+   "en": "(I don't really get what just happened, but maybe\nI'll practice it once more before I forget.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03083",
+   "en": "(So sleepy... I wanna stay asleep\nlike this forever...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03084",
+   "en": "\\p-kun...\nWake up... It's time...",
+   "flags": [],
+   "notes": "??? (woman) = Ranka in the dream, revealed two rows later."
+  },
+  {
+   "id": "c03085",
+   "en": "(...Huh, where am I...?)",
+   "flags": [],
+   "notes": "Also ext_she_004, both genders."
+  },
+  {
+   "id": "c03086",
+   "en": "\\p-kun, come on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03087",
+   "en": "Mm, mmm...\nHuh, Ranka...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03088",
+   "en": "You're finally awake.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03089",
+   "en": "What's up, Ranka...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03090",
+   "en": "Don't 'what's up' me! We've got a concert now!",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03091",
+   "en": "A-a concert?\nAre you performing, Ranka...?",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03092",
+   "en": "Not just me.\nYou too, \\p-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03093",
+   "en": "B-but why!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03094",
+   "en": "What do you mean, why? It's your debut concert!",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03095",
+   "en": "That's news to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03096",
+   "en": "Well, duh. Everyone was keeping it a secret.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03097",
+   "en": "That makes no sense!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03098",
+   "en": "Ehehe, it's a surprise concert!",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03099",
+   "en": "You're not supposed to surprise the performers,\nare you!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03100",
+   "en": "Never mind that, go get changed, go get changed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03101",
+   "en": "Stop! Don't pull me!!\nW-why are you pinching my cheeks while\nyou're at it!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03102",
+   "en": "Come on, come on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03103",
+   "en": "Ow, ow, ow! That hurts, Ranka!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03104",
+   "en": "I see. So I was Ranka Lee, was I?",
+   "flags": [],
+   "notes": "Hilda was the one pinching the sleeping player's cheek."
+  },
+  {
+   "id": "c03105",
+   "en": "Huh...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03106",
+   "en": "Are you awake now? If you're still sleepy,\nI'll be glad to wake you up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03107",
+   "en": "A-ahaha... I think I'll pass.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03108",
+   "en": "Do you know where you are?\nAnd what you're in the middle of right now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03109",
+   "en": "...I-I believe it's Lectures...",
+   "flags": [],
+   "notes": "Zagaku = Lectures (glossary)."
+  },
+  {
+   "id": "c03110",
+   "en": "Correct.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03111",
+   "en": "...Then I'll put you through a workout that even\na bored slacker like you will enjoy.",
+   "flags": [],
+   "notes": "Kisama (contemptuous 'you') carried as 'a bored slacker like you'."
+  },
+  {
+   "id": "c03112",
+   "en": "I-I've got a bad feeling about this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03113",
+   "en": "Fifty laps around the schoolyard!\nGet going, right now!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03114",
+   "en": "(Somebody wake me up from this nightmare~!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03115",
+   "en": "(So sleepy... I wanna stay asleep\nlike this forever...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03116",
+   "en": "\\p-chan...\nWake up... It's time...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03117",
+   "en": "\\p-chan, come on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03118",
+   "en": "Mm, mmm...\nHuh, Ranka-chan...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03119",
+   "en": "What's up, Ranka-chan...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03120",
+   "en": "A-a concert?\nAre you performing, Ranka-chan...?",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03121",
+   "en": "Not just me.\nYou too, \\p-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03122",
+   "en": "Stop! Don't pull me!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03123",
+   "en": "Ow, ow, ow! That hurts, Ranka-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03124",
+   "en": "Heading home now, Ranka?",
+   "flags": [],
+   "notes": "Also ext_rnk_007 (male)."
+  },
+  {
+   "id": "c03125",
+   "en": "...Yes.\n\\p-kun,\nare you heading home alone?",
+   "flags": [],
+   "notes": "Ranka switches to cold polite speech (jealousy); kept stiff in English."
+  },
+  {
+   "id": "c03126",
+   "en": "...Are you really going alone?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03127",
+   "en": "D-don't stare at me like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03128",
+   "en": "Sigh...\n...So you won't tell me anything, will you...",
+   "flags": [],
+   "notes": "x8: Ranka (ext_rnk_006/007) and Akimizu (ext_yuu_003/005), both genders."
+  },
+  {
+   "id": "c03129",
+   "en": "I hear you've been getting close to that woman\nlately...? I've heard the rumors.",
+   "flags": [],
+   "notes": "Male and female player; ext_rnk_007 has the 'that man' version."
+  },
+  {
+   "id": "c03130",
+   "en": "...Even if it's just once in a while, please\nhang out with me too! Well, goodbye!",
+   "flags": [],
+   "notes": "Both genders, ext_rnk_006/007."
+  },
+  {
+   "id": "c03131",
+   "en": "Heading home now, Ranka-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03132",
+   "en": "...Yes.\n\\p-chan,\nare you heading home alone?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03133",
+   "en": "C-could you not stare at me like that?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c03125/c03132 and following: Ranka uses distant polite speech out of jealousy; rendered stiff ('Yes.', 'Well, goodbye!') rather than her usual chatty voice."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

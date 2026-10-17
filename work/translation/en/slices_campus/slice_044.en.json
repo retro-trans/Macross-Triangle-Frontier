@@ -1,0 +1,510 @@
+{
+ "slice": 44,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c03208",
+   "en": "(Oh yeah, Sheryl's concert is coming up soon.)",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03209",
+   "en": "(I got so excited I've barely been sleeping...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03210",
+   "en": "Haa... I can't wait for Sheryl's concert.",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03211",
+   "en": "Huh...",
+   "flags": [],
+   "notes": "??? (woman) = Sheryl in disguise; also Michel in frd_rnk_005."
+  },
+  {
+   "id": "c03212",
+   "en": "And I finally managed to get a ticket...\nTomorrow at school, I'm gonna brag about it\nto Alto and the others!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03213",
+   "en": "I'm happy to hear you say that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03214",
+   "en": "So what is it you like about my concerts?",
+   "flags": [],
+   "notes": "Sheryl slips ('my') before the player notices. Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03215",
+   "en": "The songs are great, of course,\nbut the live performance is the best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03216",
+   "en": "If it were just the songs, there'd be no need\nto come to a concert, after all.",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03217",
+   "en": "It's like the whole venue gets fired up together,\nI guess... I can't really explain it well...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03218",
+   "en": "Wait...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03219",
+   "en": "Sheryl!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03220",
+   "en": "...You seriously didn't notice?\nAren't you a little slow on the uptake?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03221",
+   "en": "S-sorry...",
+   "flags": [],
+   "notes": "x5, player; also scd_fes_805."
+  },
+  {
+   "id": "c03222",
+   "en": "Muttering to yourself like that isn't\na very good look, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03223",
+   "en": "You heard that...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03224",
+   "en": "If you'd been badmouthing me, you wouldn't have\ngotten off easy, but it was a fair assessment,\nso I'll forgive you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03225",
+   "en": "That's a relief to hear...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03226",
+   "en": "So which song are you looking forward to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03227",
+   "en": "Which song... Let me see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03228",
+   "en": "Diamond Crevasse",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Choice. Sheryl's song; wiki title 'Diamond Crevasse', not in glossary."
+  },
+  {
+   "id": "c03229",
+   "en": "Universal Bunny",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c03230",
+   "en": "Seikan Hikou",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Choice. Glossary 'Seikan Hikou' (needs_check)."
+  },
+  {
+   "id": "c03231",
+   "en": "It's gotta be \"Diamond Crevasse.\"",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c03232",
+   "en": "Is that so?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03233",
+   "en": "Please, sing it for the encore!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03234",
+   "en": "I'll think about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03235",
+   "en": "It's gotta be \"Universal Bunny.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03236",
+   "en": "So you've already checked out the new song too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03237",
+   "en": "Of course!\nIt's gonna be the opening number, right!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03238",
+   "en": "As if I'd tell you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03239",
+   "en": "\"Seikan Hikou,\" maybe? Kira☆",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ranka's song, offered to Sheryl as a joke (Sheryl answers with silence). Title per glossary (needs_check)."
+  },
+  {
+   "id": "c03240",
+   "en": "I-I'm just kidding...\nBut I'd love to hear a Sheryl version\nof Seikan Hikou too!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title per glossary (needs_check)."
+  },
+  {
+   "id": "c03241",
+   "en": "Well, I'll think about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03242",
+   "en": "Well then, it's time for me to go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03243",
+   "en": "Okay, good luck!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03244",
+   "en": "Yeah, yeah.",
+   "flags": [],
+   "notes": "x56: Sheryl here; the player and others in many scenes. Generic."
+  },
+  {
+   "id": "c03245",
+   "en": "(Alright! I've gotta go home and study up!!)",
+   "flags": [],
+   "notes": "Yoshuu: prepare (brush up on the songs) before the show."
+  },
+  {
+   "id": "c03246",
+   "en": "(I got so excited I've barely been sleeping...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03247",
+   "en": "Haa... I can't wait for Sheryl's concert~!",
+   "flags": [],
+   "notes": "No honorific in the Japanese here. Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03248",
+   "en": "And I finally managed to get a ticket...\nTomorrow at school, I'm gonna brag about it\nto everyone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03249",
+   "en": "The songs are great, of course,\nbut the live performance is the best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03250",
+   "en": "It's like the whole venue gets fired up together,\nor something... I can't really explain it well...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03251",
+   "en": "Sheryl-san!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03252",
+   "en": "I-I'm sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03253",
+   "en": "Ahaha, you heard that...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03254",
+   "en": "I-I'm just kidding...\nBut I'd love to hear your Seikan Hikou too,\nSheryl-san.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title per glossary (needs_check)."
+  },
+  {
+   "id": "c03255",
+   "en": "(Sheryl called me up to the roof, but...\nwhat does she want...? Ba-dump, ba-dump.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03256",
+   "en": "I've been waiting for you,\n\\p!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03257",
+   "en": "Sheryl, what's up? Calling me out here\nall of a sudden...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03258",
+   "en": "I got to hear your singing voice...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03259",
+   "en": "Huh? Wh-when did you hear it!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03260",
+   "en": "The other day, when you were doing karaoke\nall by yourself...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03261",
+   "en": "O-oh, I see...\nSo how was my singing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03262",
+   "en": "...Ngh.",
+   "flags": [],
+   "notes": "Kuh: Sheryl struggling for a kind word."
+  },
+  {
+   "id": "c03263",
+   "en": "W-well... Let's just say it was...\nyou know...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03264",
+   "en": "It's so bad you can't even comment on it!?\nW-was it really that awful??",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03265",
+   "en": "I don't lie when it comes to music.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03266",
+   "en": "Th-that's harsh, Sheryl!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03267",
+   "en": "That's why I figured I'd teach you myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03268",
+   "en": "You should be weeping with joy, okay?\nI hardly ever do favors like this, you know!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03269",
+   "en": "I'm not going easy on you, got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03270",
+   "en": "No, no. Sing from your diaphragm.",
+   "flags": [],
+   "notes": "Onaka kara: from the belly."
+  },
+  {
+   "id": "c03271",
+   "en": "Bohee-hogee-booooo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03272",
+   "en": "Open your mouth properly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03273",
+   "en": "Hoo-hoo-hoo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03274",
+   "en": "Th-that's getting a lot better.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03275",
+   "en": "Laa-laa-la-la-laa",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03276",
+   "en": "Laa-laa-lagh-la-laa",
+   "flags": [],
+   "notes": "The Japanese adds a voiced mark to one syllable (a cracked note)."
+  },
+  {
+   "id": "c03277",
+   "en": "That's it, that's it! Keep that scale in mind!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03278",
+   "en": "Hah... hah...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03279",
+   "en": "Good work.",
+   "flags": [],
+   "notes": "x4: Sheryl here; the player in ext_yui_004."
+  },
+  {
+   "id": "c03280",
+   "en": "Th-thanks...",
+   "flags": [],
+   "notes": "x7: player, Pinon, Ranka."
+  },
+  {
+   "id": "c03281",
+   "en": "You've gotten much better.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03282",
+   "en": "R-really?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03283",
+   "en": "I'll have you show me the results sometime,\nso be ready for it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03284",
+   "en": "(I'll go practice some more at solo karaoke.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03285",
+   "en": "(Sheryl-san called me up to the roof, but...\nI wonder what she wants.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03286",
+   "en": "I've been waiting for you,\n\\p-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03287",
+   "en": "Sheryl-san, what's up? Calling me out here\nall of a sudden...",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c03230/c03239/c03240/c03254: song title 'Seikan Hikou' from the glossary, whose status is needs_check.",
+   "c03262: Sheryl's 'kuh' rendered '...Ngh.' (struggling for a kind word, not laughing)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Diamond Crevasse (Sheryl's song; Macross Wiki title) used in c03228, c03231."
+  ],
+  "unfinished": []
+ }
+}

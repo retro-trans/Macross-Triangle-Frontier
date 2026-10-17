@@ -1,0 +1,497 @@
+{
+ "slice": 73,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c05397",
+   "en": "(I'm meeting Gary-sensei\nat Central Park today.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05398",
+   "en": "Hey, you're late.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05399",
+   "en": "Oh, Sensei, you're early.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05400",
+   "en": "Yeah, well. It happens sometimes...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05401",
+   "en": "(Something about the mood feels different today...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05402",
+   "en": "Say, \\p...\nYou got any dreams...?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05403",
+   "en": "A dream... huh... Hmm...\nWhat about you, Sensei?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05404",
+   "en": "Me, I'm thinking I wanna start a ranch someday...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05405",
+   "en": "A ranch...?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05406",
+   "en": "Yeah. Shearing sheep, milking cows, that kinda thing.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05407",
+   "en": "And, y'know, riding a horse across a wide meadow\nchasing cattle, that'd be pretty fun too...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05408",
+   "en": "Is that so? So it's nothing to do with the sky.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05409",
+   "en": "Yeah. The sky holds nothing but painful\nmemories for me...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05410",
+   "en": "Huh?! What do you mean...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05411",
+   "en": "You got any brothers?",
+   "flags": [],
+   "notes": "Male only ('kyoudai'); female version c05430 asks about sisters."
+  },
+  {
+   "id": "c05412",
+   "en": "I had a little brother about your age...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05413",
+   "en": "Oh... yes...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05414",
+   "en": "We both loved the sky, and we even promised,\n'We're totally gonna be pilots someday!'\nStuff like that...",
+   "flags": [],
+   "notes": "Both genders: the sibling is a brother (male) or sister (female), so no pronoun."
+  },
+  {
+   "id": "c05415",
+   "en": "But... on a trip we'd been looking forward to\nlike crazy... there was a plane crash...",
+   "flags": [],
+   "notes": "Both genders; no pronoun for the sibling."
+  },
+  {
+   "id": "c05416",
+   "en": "And then... back when I was still a greenhorn\nin the military, there was another greenhorn\nwho enlisted a little after me...",
+   "flags": [],
+   "notes": "Both genders; gender of the recruit given in the next row."
+  },
+  {
+   "id": "c05417",
+   "en": "She was a woman, but a real headstrong one.\nAlways trying to compete with me.\nShe was a cute one, though.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05418",
+   "en": "Along the way, we started spending a lot of time\ntogether off duty, too. And, well,\nwe ended up in that kind of relationship...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05419",
+   "en": "It was just a totally routine flight...\nFaulty maintenance on the plane, they said.\nIt was so stupid I couldn't even cry.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05420",
+   "en": "I had no idea something like that happened...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05421",
+   "en": "So yeah, I'm done with the sky.\nIf I can, I wanna live a laid-back life\nwith my feet on the ground.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05422",
+   "en": "Well, same goes for you.\nNobody knows what could happen, or when.\nSo enjoy the here and now, is what I'm saying.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05423",
+   "en": "Yes... I suppose so...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05424",
+   "en": "Sorry, I went and told you a gloomy story.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05425",
+   "en": "No, not at all...",
+   "flags": [],
+   "notes": "Shared with Sheryl and Hilda scenes; neutral."
+  },
+  {
+   "id": "c05426",
+   "en": "Well, life's full of ups and downs, that's all.\nSee ya.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05427",
+   "en": "(Gary-sensei went through all that...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05428",
+   "en": "(I'm meeting Gary-sensei\nat Central Park today.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05429",
+   "en": "(Does the mood feel kind of different today...?)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05430",
+   "en": "You got any sisters?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05431",
+   "en": "I had a little sister about your age...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05432",
+   "en": "She was a woman, but a real headstrong one.\nAlways trying to compete with me.\nShe was a cute one, though.",
+   "flags": [],
+   "notes": "Female only; same as male c05417 apart from a comma."
+  },
+  {
+   "id": "c05433",
+   "en": "(We were meeting at Central Park again today,\nright...)",
+   "flags": [],
+   "notes": "Male only. Repeat visit."
+  },
+  {
+   "id": "c05434",
+   "en": "Hey, you came...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05435",
+   "en": "Yes...\nSensei, what's wrong...?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05436",
+   "en": "Nah, it's nothing...\nWill you hear me out again?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05437",
+   "en": "Sure, if I'm any help...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05438",
+   "en": "So yeah, that's something that happened...",
+   "flags": [],
+   "notes": "Both genders. Closes an off-screen retelling."
+  },
+  {
+   "id": "c05439",
+   "en": "So that's what happened...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05440",
+   "en": "Y'know, it's nice talking to someone like this.\nFeels like it settles my heart a little...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05441",
+   "en": "I'm glad to hear that.",
+   "flags": [],
+   "notes": "Shared with frd_she_001; neutral."
+  },
+  {
+   "id": "c05442",
+   "en": "Well, can't keep talking about stuff like that...\nSee you at school.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05443",
+   "en": "(Gary-sensei seems down...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05444",
+   "en": "(We were meeting at Central Park again today.)",
+   "flags": [],
+   "notes": "Female only (frd_gry_007 and frd_gry_008)."
+  },
+  {
+   "id": "c05445",
+   "en": "Sure, if I'm any help...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05446",
+   "en": "(Gary-sensei seems down...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05447",
+   "en": "(Central Park again today... What's up...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05448",
+   "en": "Hey, you came.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05449",
+   "en": "Sorry for dragging you out here again.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05450",
+   "en": "There's something I didn't get around to\nsaying last time...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05451",
+   "en": "Y'see, you look just like my little brother.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05452",
+   "en": "When you enrolled, I couldn't believe my eyes.\nI was like, 'What the hell happened?!'",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05453",
+   "en": "I figured out right away you were someone else,\nbut the resemblance was real...\nSo I kinda wanted to mess with you.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05454",
+   "en": "So getting to hang out with you and stuff\nwas kinda fun.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05455",
+   "en": "No, I should be the one saying that...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05456",
+   "en": "Honestly, thanks to you, I started thinking\nmaybe flying again wouldn't be so bad...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05457",
+   "en": "Now if only she'd come back...",
+   "flags": [],
+   "notes": "Both genders. 'aitsu' = the woman from his story (c05417), so 'she'."
+  },
+  {
+   "id": "c05458",
+   "en": "Would that be me you're talking about?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05459",
+   "en": "Ugh, gah...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05460",
+   "en": "I bet you were going on again with\n'my little brother' this, 'my old flame' that...",
+   "flags": [],
+   "notes": "Male only. Hilda to Gary."
+  },
+  {
+   "id": "c05461",
+   "en": "N-no, that's...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05462",
+   "en": "Anyway, I'd love to know when exactly\nyou and I ever had that kind of relationship.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05463",
+   "en": "(What?! Could that story have been about\nHilda-sensei...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05464",
+   "en": "\\p!\nDon't take everything this guy says at face value.\nI checked back in the military. He's got no little brother.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05465",
+   "en": "What?! Really?!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05466",
+   "en": "Ah, sorry, sorry. Once I got talking,\nI kinda got carried away.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05467",
+   "en": "Whaaaaaaaaaaaaaaaaaaat?!!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05468",
+   "en": "Honestly...\nWell, I got fooled by it too, back in the day.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05469",
+   "en": "R-really?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05470",
+   "en": "So that's what happens when you hang around\nwith this guy. Be careful.\nSee you.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05471",
+   "en": "No, really, sorry, sorry.\nThink of it as a kind of recreation.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05472",
+   "en": "U-uh... okay...",
+   "flags": [],
+   "notes": "Shared with nml_she_015; neutral."
+  },
+  {
+   "id": "c05473",
+   "en": "But hey, it's true I had fun with you.\nSee ya!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05474",
+   "en": "Ah, Sensei!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05475",
+   "en": "(Well, I guess it's good that nobody\nactually went through a tragedy.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05476",
+   "en": "Y'see, you look just like my little sister.",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c05414/c05415: shared by both versions, where Gary's sibling is a brother (male) or a sister (female); written with 'we' and no pronoun.",
+   "c05457: 'aitsu' read as the woman from his story (Hilda turns up and asks if it is her), so 'she'.",
+   "c05460: Hilda's line read as addressed to Gary ('you were going on again'); it could be put to the player, but Gary answers it."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

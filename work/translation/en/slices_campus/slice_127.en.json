@@ -1,0 +1,473 @@
+{
+ "slice": 127,
+ "rows_in_slice": 76,
+ "rows_examined": 76,
+ "rows": [
+  {
+   "id": "c09340",
+   "en": "(Today Luca and I came to Folmo.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09341",
+   "en": "\\p-san,\nsorry to keep you waiting.",
+   "flags": [],
+   "notes": "Also Shirakawa to the female player (frd_myk_105)."
+  },
+  {
+   "id": "c09342",
+   "en": "I only just got here myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09343",
+   "en": "That's good, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09344",
+   "en": "Shall we look around a bit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09345",
+   "en": "If I remember right, there's a shop here\nwith really good soft serve.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09346",
+   "en": "I hear they use fresh milk from\nthe hippo-cows raised at Folmo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09347",
+   "en": "I wonder where that shop is?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09348",
+   "en": "If you want to try some, let's go find it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09349",
+   "en": "(Today Luca-kun and I came to Folmo.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09350",
+   "en": "I only just got here myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09351",
+   "en": "Let's look around a bit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09352",
+   "en": "(Luca and I came to Folmo again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09353",
+   "en": "\\p-san, over here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09354",
+   "en": "Sorry, sorry, I'm late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09355",
+   "en": "No, please don't worry about it.\nI just got here myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09356",
+   "en": "Well then, shall we look around a bit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09357",
+   "en": "That soft serve was delicious, wasn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09358",
+   "en": "Though two guys eating soft serve\ntogether is kind of...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09359",
+   "en": "P-please don't bring that up...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09360",
+   "en": "Well, now that we've refueled,\nlet's hang out a little longer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09361",
+   "en": "(Luca-kun and I came to Folmo again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09362",
+   "en": "Yeah~ I could eat any number of them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09363",
+   "en": "If you eat too much,\nyou'll upset your stomach, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09364",
+   "en": "Hey... you shouldn't say things like that\nto a girl!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09365",
+   "en": "(What should I do after school today?)",
+   "flags": [],
+   "notes": "x12, also in frd_rnk_101 / frd_rnk_113, both genders."
+  },
+  {
+   "id": "c09366",
+   "en": "\\p-san,\nis something the matter?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09367",
+   "en": "Nah, I was just wondering\nwhat to do after this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09368",
+   "en": "Then how about we go have some tea?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09369",
+   "en": "Sounds good. Let's invite everyone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09370",
+   "en": "...In the end, it was just the two of us...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09371",
+   "en": "Everyone said they were busy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09372",
+   "en": "Who cares? Let's enjoy our drinks,\njust the two of us!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09373",
+   "en": "I was just wondering what to do after this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09374",
+   "en": "Ooh, nice. Let's invite everyone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09375",
+   "en": "Everyone said they were busy~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09376",
+   "en": "Oh, who cares? Let's enjoy our drinks,\njust the two of us!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09377",
+   "en": "\\p-san, is something the matter?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09378",
+   "en": "I was wondering what to do after this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09379",
+   "en": "Sounds good. This time,\nlet's really invite everyone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09380",
+   "en": "...Just the two of us again...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09381",
+   "en": "I wonder if everyone's busy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09382",
+   "en": "Sigh... I guess this part can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09383",
+   "en": "Let's shake it off.\nAfter our tea, let's go have fun somewhere.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09384",
+   "en": "I was thinking about what to do after school.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09385",
+   "en": "Ooh, nice. This time,\nlet's really invite everyone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09386",
+   "en": "Let's shake it off.\nAfter our tea, let's go have fun somewhere!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09387",
+   "en": "(Today I'm going to Central Park with Luca.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09388",
+   "en": "You're early,\n\\p-san.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x8. The script also repeats this line mid-scene and right before the closing monologue (after 'Yes!'); translated for its first use, the meeting, which the reply 'you're here before meeting time too' settles."
+  },
+  {
+   "id": "c09389",
+   "en": "Says you, Luca.\nYou're here before meeting time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09390",
+   "en": "Oh, you're right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09391",
+   "en": "Well, let's just take a nice, slow walk today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09392",
+   "en": "This is kind of soothing, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09393",
+   "en": "All the green is easy on the eyes,\nand it's cool in the shade of the trees.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09394",
+   "en": "Today I got to forget the daily hustle\nand bustle and just relax.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09395",
+   "en": "Aren't you way too worn out\nfor a student, Luca...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09396",
+   "en": "Th-that's not true.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09397",
+   "en": "(Today I'm going to Central Park\nwith Luca-kun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09398",
+   "en": "Says you, Luca-kun.\nYou're here before meeting time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09399",
+   "en": "Let's take a nice, slow walk today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09400",
+   "en": "All the green is easy on the eyes,\nand it's so cool in the shade of the trees.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09401",
+   "en": "Aren't you way too worn out\nfor a student, Luca-kun...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09402",
+   "en": "(I'm hanging out at Central Park\nwith Luca again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09403",
+   "en": "You're early again today,\n\\p-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09404",
+   "en": "I meant to get here before you, Luca...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09405",
+   "en": "What are you trying to compete with me for...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09406",
+   "en": "Well then, let's go cycling today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09407",
+   "en": "Whew, I'm pretty tired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09408",
+   "en": "Before I knew it,\nit had turned into a road race...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09409",
+   "en": "That's because you kept\ntrying to beat me, \\p-san...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09410",
+   "en": "But it was fun, wasn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09411",
+   "en": "Shall we come again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09412",
+   "en": "(I'm hanging out at Central Park\nwith Luca-kun again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09413",
+   "en": "I meant to get here before you, Luca-kun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09414",
+   "en": "Ehehe! Let's go cycling today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09415",
+   "en": "Let's come again!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c09388: 'You're early, \\p-san.' (x8) is also repeated by the script mid-scene and before the closing monologue; translated for the meeting use."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

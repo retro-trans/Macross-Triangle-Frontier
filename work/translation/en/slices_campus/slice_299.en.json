@@ -1,0 +1,473 @@
+{
+ "slice": 299,
+ "rows_in_slice": 76,
+ "rows_examined": 76,
+ "rows": [
+  {
+   "id": "c21487",
+   "en": "So he snuck into the Academy on his own again,\ndid he...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21488",
+   "en": "Oh, Hilda-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21489",
+   "en": "Calling him \"that guy\"...\nHilda-sensei, do you know Luis-san?\nActually, are you two close, maybe?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21490",
+   "en": "Close?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21491",
+   "en": "Ha ha, give me a break.\nThere's no way that's true...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21492",
+   "en": "That's quite the funny joke you've got there,\n\\p...!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21493",
+   "en": "Eek!!\nI'm sorry for saying you were close!\nHilda-sensei!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21494",
+   "en": "(D-does she really hate Luis-san that much...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21495",
+   "en": "Well, I'll tell you this much:\nyou'd do better not to get too involved\nwith that guy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21496",
+   "en": "He's a troublemaker, that one...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21497",
+   "en": "A troublemaker...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21498",
+   "en": "I can't count how many times he's landed us\nin danger on the battlefield...\nEven that time...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21499",
+   "en": "...The battlefield?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21500",
+   "en": "...It's nothing. Forget it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21501",
+   "en": "Anyway, while you're at it, forget about him too\nand enjoy Sports Day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21502",
+   "en": "Got it? You're forgetting about him!\nForget him right now! Wipe him from your\nmemory immediately!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21503",
+   "en": "Y-yes, ma'am! Hilda-sensei!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21504",
+   "en": "Heh, as long as you understand.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21505",
+   "en": "(In the end, I still have no idea\nwhat kind of person Luis-san is.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21506",
+   "en": "(Well, whatever.\nI probably won't ever run into Luis-san again\nanyway...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21507",
+   "en": "(All right! Just like Hilda-sensei said,\nI'm gonna enjoy Sports Day!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21508",
+   "en": "I'm.......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21509",
+   "en": "NUMBER OOOOOOOOONE!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21510",
+   "en": "(Who'd have thought Luis-san would crash\nthe relay and turn Sports Day\ninto total chaos...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21511",
+   "en": "(Luis-san really is a troublemaker...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21512",
+   "en": "(I just have a feeling I'll keep running into\nLuis-san from now on...\nMaybe I should try to get along with him?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21513",
+   "en": "(He doesn't seem like a bad person...\nI-it'll be fine, right?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21514",
+   "en": "(All right, today's Sports Day!\nI'm gonna do my best to shine too!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21515",
+   "en": "Kagura-kun, Saotome-kun,\nboth of you calm down...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21516",
+   "en": "(This team sure is a mess...\nAre we really going to be okay?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21517",
+   "en": "(Well, whatever happens, happens...\nNow, time to start my warm-up stret...)",
+   "flags": [],
+   "notes": "Interrupted mid-word, as the Japanese trails off."
+  },
+  {
+   "id": "c21518",
+   "en": "Hey, girl, what's your name?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21519",
+   "en": "M-my name's \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21520",
+   "en": "Heh, see you around,\nFresh Girl!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21521",
+   "en": "Huh? Fresh Girl...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21522",
+   "en": "(Oh, he's gone...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21523",
+   "en": "(Who on earth is this Luis-san?\nHe might even be someone dangerous...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21524",
+   "en": "(In the end, I still have no idea\nwhat kind of person Luis-san is.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21525",
+   "en": "(Luis-san really is a troublemaker...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21526",
+   "en": "(I just have a feeling I'll keep running into\nLuis-san from now on...\nMaybe I should try to get along with him?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21527",
+   "en": "(He doesn't seem like a bad person...\nI-it'll be fine, right?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21528",
+   "en": "(Next class is Gary-sensei's Practical Training.\nI bet it's gonna be another tough one today...)",
+   "flags": [],
+   "notes": "jitsugi kunren rendered with the glossary class name Practical Training."
+  },
+  {
+   "id": "c21529",
+   "en": "All right, you lot! Class is starting!\nKeep your guard up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21530",
+   "en": "...Oh, before that, there's something\nI oughta tell you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21531",
+   "en": "Today we've got a guest here to observe\nclasses at Mihoshi Academy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21532",
+   "en": "I am Lieutenant Catherine Glass,\nof the New U.N. Forces General Staff.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21533",
+   "en": "Today I have come to observe classes at Mihoshi\nAcademy, the fleet's finest school for\ntraining specialists.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21534",
+   "en": "Don't you lot go getting nervous just because\na beauty like this is watching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21535",
+   "en": "Oh my, a beauty? Even if it's just flattery,\nI'm delighted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21536",
+   "en": "Flattery? Not at all.\nI'm only stating the facts...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21537",
+   "en": "Gary... What do you think you're doing\nin the middle of class?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21538",
+   "en": "Right, introductions are done, so let's start!\nDon't you dare slack off, you lot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21539",
+   "en": "Geez, that Gary...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21540",
+   "en": "(An officer from the New U.N. Forces coming\nto observe us... Mihoshi really is something.\nOops, I need to focus on class right now...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21541",
+   "en": "All right! That's it for today's class!\nNext class I'm gonna be even tougher,\nso brace yourselves!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21542",
+   "en": "(Phew, I'm beat again today...\nOkay, back to the classroom...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21543",
+   "en": "Do you have a moment?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21544",
+   "en": "Yes?\nUmm... Catherine-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21545",
+   "en": "Just Cathy is fine,\n\\p-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21546",
+   "en": "Huh?! How do you know my name?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21547",
+   "en": "I asked Gary-sensei your name a little earlier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21548",
+   "en": "Umm... What exactly can I do for you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21549",
+   "en": "I'll get straight to the point...\nWould you be interested in joining\nthe New U.N. Forces?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21550",
+   "en": "Watching today's class, I saw something\nin you that shows real talent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21551",
+   "en": "The New U.N. Forces are seriously short\nof people right now. Finding kids who seem\ntalented is the purpose of today's visit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21552",
+   "en": "Otherwise, the \"other guys\" will snap them up...",
+   "flags": [],
+   "notes": "Japanese 'atchi' (that side), unexplained here; likely S.M.S. Kept vague."
+  },
+  {
+   "id": "c21553",
+   "en": "(The \"other guys\"?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21554",
+   "en": "I know you can't give me an answer just like that.\nTake your time and think it over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21555",
+   "en": "Well then, I'll take my leave for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21556",
+   "en": "(Whew, that surprised me...\nWho'd have thought the New U.N. Forces\nwould try to scout me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21557",
+   "en": "(It's not something I can decide that easily.\nI'd better think it over carefully...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21558",
+   "en": "(Next class is Gary-sensei's Practical Training.\nI bet it's gonna be another tough one today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21559",
+   "en": "(An officer from the New U.N. Forces coming\nto observe us... Mihoshi really is something.\nOops, I need to focus on class right now...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21560",
+   "en": "Just Cathy is fine,\n\\p-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21561",
+   "en": "Huh?! How do you know my name?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21562",
+   "en": "(It's not something I can decide that easily.\nI'd better think it over carefully...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c21552/c21553: Cathy's 'atchi' (that side) left vague as 'the \"other guys\"'; context suggests S.M.S. but the scene never says so.",
+   "c21532: chuui rendered in full as 'Lieutenant' in spoken self-introduction (glossary rank list abbreviates to Lt.).",
+   "c21508/c21509: Luis's 'ore ga...' / 'ichiban daaaa' split across two rows as \"I'm.......\" / \"NUMBER OOOOONE!!!\"."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

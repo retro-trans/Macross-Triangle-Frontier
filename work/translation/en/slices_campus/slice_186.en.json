@@ -1,0 +1,493 @@
+{
+ "slice": 186,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c13584",
+   "en": "(Sheryl transferred to our school, but I wonder\nif I'll ever get a chance to talk to her...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13585",
+   "en": "Hey, you there!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13586",
+   "en": "Huh? Me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13587",
+   "en": "...Wait... Sheryl!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13588",
+   "en": "Who else is there? Don't waste my time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13589",
+   "en": "Oh, sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13590",
+   "en": "Well, whatever. Hey, you. Show me around the school.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13591",
+   "en": "Huh? You want me to do it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13592",
+   "en": "Who else did you think I meant?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13593",
+   "en": "...And that about covers it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13594",
+   "en": "Hmm~ This school's a pretty nice place.\nLooks like I'll enjoy my school life here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13595",
+   "en": "Yes, I hope you do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13596",
+   "en": "Oh, that's right. You!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13597",
+   "en": "Um... your name is... if I remember right...\n\\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13598",
+   "en": "Yes, that's right, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13599",
+   "en": "Your tour wasn't half bad, either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13600",
+   "en": "If anything comes up, I'll ask you again. See you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13601",
+   "en": "Oh, okay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13602",
+   "en": "(A chance to talk to Sheryl... and it came\nright away...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13603",
+   "en": "(Sheryl-san transferred to our school, but I\nwonder if I'll ever get a chance to talk to her...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13604",
+   "en": "Huh? Me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13605",
+   "en": "...Wait, Sheryl-san!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13606",
+   "en": "Oh, I'm sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13607",
+   "en": "Huh? You want me to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13608",
+   "en": "Hmm, all right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13609",
+   "en": "Yes, I hope you do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13610",
+   "en": "Hm? Yes?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13611",
+   "en": "Um... your name is... if I remember right...\n\\p-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13612",
+   "en": "Yeah, that's right, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13613",
+   "en": "Sure, anytime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13614",
+   "en": "(Sheryl-san's friendlier than I expected.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13615",
+   "en": "(Huh? Sheryl's calling me again...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13616",
+   "en": "Hey, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13617",
+   "en": "I kind of forgot how to get to the place you\nshowed me the other day. Will you show me again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13618",
+   "en": "If you know where you want to go, it doesn't\nhave to be me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13619",
+   "en": "Did you say something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13620",
+   "en": "No, nothing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13621",
+   "en": "I see, I've got it this time. Thank you.\nI'll be counting on you if anything else comes up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13622",
+   "en": "(I don't mind showing Sheryl around, but I'd\nrather not have to do it that many times...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13623",
+   "en": "(Huh? Sheryl-san's calling me again...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13624",
+   "en": "Hey, \\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13625",
+   "en": "If you know where you want to go, it doesn't\nhave to be me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13626",
+   "en": "(I don't mind showing Sheryl-san around, but\nmaybe not quite that many times...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13627",
+   "en": "(Sheryl told me, \"Take me somewhere\ninteresting at school,\" but... this is a school,\nyou know...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13628",
+   "en": "\\p.\nSo, where will you be taking me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13629",
+   "en": "Um, I don't know if you'll enjoy it, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13630",
+   "en": "Hee hee, I'm expecting great things.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13631",
+   "en": "(Hmm, will this really be okay?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13632",
+   "en": "What, the library!?\nThis is your idea of an interesting place? Honestly...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13633",
+   "en": "Yeah, but this school has all kinds of departments,\nso the collection's huge, with tons of\ninteresting books.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13634",
+   "en": "Interesting books, huh... Well, fine!\nBring me a book you think is interesting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13635",
+   "en": "Huh? But the fun is in finding one your...",
+   "flags": [],
+   "notes": "Interrupted line; cut before the end as in the Japanese."
+  },
+  {
+   "id": "c13636",
+   "en": "Quit your grumbling and go get one, quick!\nIf it isn't interesting, you'll be sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13637",
+   "en": "(Oh boy... What am I supposed to bring her...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13638",
+   "en": "(Maybe I'll see how she reacts to this one...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13639",
+   "en": "Sorry to keep you waiting. How about this book?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13640",
+   "en": "You took your time. How long did you plan to keep\nme waiting? Well, fine, hand it ov...",
+   "flags": [],
+   "notes": "Cut off mid-word ('yokoshinasa...'), kept as 'hand it ov...'."
+  },
+  {
+   "id": "c13641",
+   "en": "Wow, what's this!? Isn't it lovely!\nWhat's this book called?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13642",
+   "en": "Uh, I think it says on the cover...\nIt's a sweets recipe book called\n\"Handpicked! Galactic Sweets Paradise.\"",
+   "flags": [],
+   "notes": "Book title 'Gensen! Ginga no Suiitsu Tengoku' rendered 'Handpicked! Galactic Sweets Paradise' (also c13665). Reordered: title before 'recipe book' within the same row."
+  },
+  {
+   "id": "c13643",
+   "en": "Ooh, how cute~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13644",
+   "en": "Oh, this one looks sooo delicious!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13645",
+   "en": "How is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13646",
+   "en": "Mm-hmm, hippo-cow cream, huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13647",
+   "en": "Ahh! This one looks sooo cute too~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13648",
+   "en": "(Looks like she likes it.\nMaybe I'll look for some more.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13649",
+   "en": "Huh!? There's a yoga pose like this!?\nBut it looks biologically impossible...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13650",
+   "en": "Hmm, so Nyan-Nyan has this kind of history...\nI had no idea!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13651",
+   "en": "So this is what they call a maid cafe...!?\nThis outfit is so cute~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13652",
+   "en": "...So, how was it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13653",
+   "en": "Ugh, well... I guess it was fun enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13654",
+   "en": "I'm glad to hear it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13655",
+   "en": "Today wasn't bad either. I'll be counting on\nyou again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13656",
+   "en": "Anytime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13657",
+   "en": "(I think she had fun today too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13658",
+   "en": "(Sheryl-san asked me to \"take her somewhere\ninteresting at school,\" but... this is a school...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13659",
+   "en": "\\p-chan,\nwhere will you be taking me today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13660",
+   "en": "Um, I'm not sure you'll enjoy it, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13661",
+   "en": "(Hmm, will this really be okay?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13662",
+   "en": "(Oh dear... What should I bring her...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13663",
+   "en": "(Maybe I'll see how she reacts to this one.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

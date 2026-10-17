@@ -1,0 +1,497 @@
+{
+ "slice": 40,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c02912",
+   "en": "I just wish he wouldn't cause trouble\nfor everyone around him...",
+   "flags": [],
+   "notes": "Ranka about Ozma."
+  },
+  {
+   "id": "c02913",
+   "en": "Well then, let's head to Nyan-Nyan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02914",
+   "en": "Yeah!",
+   "flags": [],
+   "notes": "x16 across many scenes and speakers."
+  },
+  {
+   "id": "c02915",
+   "en": "(Time to shake it off and eat at Nyan-Nyan!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02916",
+   "en": "Y-yiiiiiikes!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02917",
+   "en": "Big Bro!\nIf you glare at people with that scary face,\nyou'll freak everybody out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02918",
+   "en": "G-goodbye!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02919",
+   "en": "Ah!\n\\p-kun!!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02920",
+   "en": "(Ozma-san is so scary!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02921",
+   "en": "Hiya, Ranka-chan.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02922",
+   "en": "Oh, \\p-chan.",
+   "flags": [],
+   "notes": "Female player; also nml_rnk_012/015."
+  },
+  {
+   "id": "c02923",
+   "en": "Ranka... get to work already. This is what\nhappens when you dawdle: some weirdo\nlike this gets hold of you.",
+   "flags": [],
+   "notes": "Female version ('konna hen na yatsu')."
+  },
+  {
+   "id": "c02924",
+   "en": "'Weirdo'...?\nHow can you say that about my friend, Big Bro!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02925",
+   "en": "R-Ranka-chan...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02926",
+   "en": "Let's just leave Big Bro and go,\n\\p-chan.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02927",
+   "en": "He really cares about you, huh.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02928",
+   "en": "(Time to shake it off and grab a bite\nat Nyan-Nyan!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02929",
+   "en": "Ah!\n\\p-chan!!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02930",
+   "en": "(What should I have for dinner...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02931",
+   "en": "Eating out on the way home would be nice,\nbut food costs add up...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02932",
+   "en": "\\p-san, if you walk around\nmuttering to yourself, people will\nthink you're weird, you know?",
+   "flags": [],
+   "notes": "Nanase; both genders."
+  },
+  {
+   "id": "c02933",
+   "en": "N-Nanase!\nCalling me weird is harsh...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02934",
+   "en": "Hehe, I'm sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02935",
+   "en": "So, what are you up to, Nanase?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02936",
+   "en": "I'm out buying rainbow carrots.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Nanairo ninjin' (seven-colour carrots) not in the glossary; rendered 'rainbow carrots'."
+  },
+  {
+   "id": "c02937",
+   "en": "Carrots?\nHuh, are they for your part-time job?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02938",
+   "en": "Not for work. They're for Ranka-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02939",
+   "en": "For Ranka?\nDoes Ranka even like carrots?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02940",
+   "en": "She can't stand them...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02941",
+   "en": "I want Ranka-san to have fewer foods she\ndislikes, so I'm going to make all kinds of\ndishes to help her get over them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02942",
+   "en": "O-oh, really~",
+   "flags": [],
+   "notes": "Also ext_rnk_003."
+  },
+  {
+   "id": "c02943",
+   "en": "I kinda feel like it's fine if she can't\neat carrots, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02944",
+   "en": "That won't do!\nRanka-san has to be perfect!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02945",
+   "en": "Now, you're coming with me too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02946",
+   "en": "(Nanase totally loses it\nwhen it comes to Ranka.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02947",
+   "en": "Nana-chan, is dinner ready yet~?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02948",
+   "en": "It's almost ready, so please wait a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02949",
+   "en": "\\p-kun,\nI can't wait for Nana-chan's cooking, can you?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02950",
+   "en": "(Nanase warned me not to say a word about\nthe carrots, so I can't tell her anything...\nSorry, Ranka!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02951",
+   "en": "Sorry to keep you waiting!",
+   "flags": [],
+   "notes": "x7 across scenes and speakers."
+  },
+  {
+   "id": "c02952",
+   "en": "Wow~ It looks delicious~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02953",
+   "en": "Hey, hey, \\p-kun,\nwhat are you gonna eat first?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02954",
+   "en": "W-well, let's see...",
+   "flags": [],
+   "notes": "Also Pinon in scd_com_618."
+  },
+  {
+   "id": "c02955",
+   "en": "Yellow soup",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c02956",
+   "en": "Yellow steak",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c02957",
+   "en": "Eat everything",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c02958",
+   "en": "I'll try this yellow soup, I guess...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02959",
+   "en": "Th-this is good...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02960",
+   "en": "Geez, you're not supposed to gulp soup down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02961",
+   "en": "Teehee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02962",
+   "en": "I'll dig in too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02963",
+   "en": "H-how is it, Ranka-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02964",
+   "en": "Ah, ahahaha...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02965",
+   "en": "Y-you okay?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c02966",
+   "en": "I-I'm tooootally fine?",
+   "flags": [],
+   "notes": "'Daijoubu DAYO' with katakana ending: forced, unconvincing cheer."
+  },
+  {
+   "id": "c02967",
+   "en": "Th-thanks for the meal...\nI'm all full now...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02968",
+   "en": "See you both later...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02969",
+   "en": "R-Ranka-san... wait!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02970",
+   "en": "Nanase, you'd better apologize\nto Ranka properly, okay?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02971",
+   "en": "(It's tasty, but... it's totally carrot soup.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02972",
+   "en": "I'll take on the yellow steak!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02973",
+   "en": "Geez, wolfing it down like that\nis bad manners, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02974",
+   "en": "(It's tasty, but it's just a whole roasted carrot.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02975",
+   "en": "Sorry, Nanase!!",
+   "flags": [],
+   "notes": "Male only; 'eat everything' branch: the player eats it all, apologising for spoiling Nanase's plan."
+  },
+  {
+   "id": "c02976",
+   "en": "Hey!",
+   "flags": [],
+   "notes": "Also Sheryl in frd_she_001."
+  },
+  {
+   "id": "c02977",
+   "en": "Thanks for the meal.",
+   "flags": [],
+   "notes": "x6."
+  },
+  {
+   "id": "c02978",
+   "en": "\\p-san...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02979",
+   "en": "\\p-kun...?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02980",
+   "en": "Wh-what is it?",
+   "flags": [],
+   "notes": "Also ext_she_005/007."
+  },
+  {
+   "id": "c02981",
+   "en": "You idiooot!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02982",
+   "en": "Idiot, idiot, idiooot!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02983",
+   "en": "I'll never forgive you for this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02984",
+   "en": "I'm starving!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02985",
+   "en": "(It's fine. If I'm the one who gets hurt,\nthen nobody else has to...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02986",
+   "en": "N-Nanase!\nCalling me weird is so mean...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02987",
+   "en": "For Ranka-chan?\nDoes Ranka-chan even like carrots?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02988",
+   "en": "(Nanase turns into a whole different person\nwhen it comes to Ranka-chan...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02989",
+   "en": "\\p-chan,\nI can't wait for Nana-chan's cooking, can you?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02990",
+   "en": "(Nanase warned me not to say a word about\nthe carrots, so I can't tell her anything...!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02991",
+   "en": "Hey, hey, \\p-chan,\nwhat are you gonna eat first?",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [
+   "nanairo ninjin (Nanase's carrots, c02936): rendered 'rainbow carrots'."
+  ],
+  "unfinished": []
+ }
+}

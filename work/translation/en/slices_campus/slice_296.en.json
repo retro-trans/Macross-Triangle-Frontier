@@ -1,0 +1,503 @@
+{
+ "slice": 296,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c21247",
+   "en": "(Let's see, next up is Lectures...\nCome to think of it, I wonder who our teacher\nwill be? I'm kind of looking forward to it.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "zagaku (classroom study) -> 'Lectures', matching the schedule help u5458 ('Attend lectures'); not in the glossary."
+  },
+  {
+   "id": "c21248",
+   "en": "Um, excuse me...",
+   "flags": [],
+   "notes": "Yuu Akimizu ('??? (woman)')."
+  },
+  {
+   "id": "c21249",
+   "en": "Yes?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21250",
+   "en": "I forgot my textbook...\nWould you mind sharing yours with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21251",
+   "en": "Sure, of course.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21252",
+   "en": "Oh, I'm Yuu Akimizu!\nNice to meet you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21253",
+   "en": "I'm \\p.\nNice to meet you too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21254",
+   "en": "I'm really sorry.\nI lent my textbook to a friend and forgot\nto get it back...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21255",
+   "en": "That's rough. Don't be shy, go ahead and look.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21256",
+   "en": "Anyway, I wonder what kind of teacher\nwe'll get. Aren't you excited?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21257",
+   "en": "Yeah, I was wondering about that too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21258",
+   "en": "Oh, looks like the teacher's here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21259",
+   "en": "I am Pinon Colette-sensei, and I'll be\nteaching your \"Lectures\" class.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pinon calls herself Pinon Colette-sensei. Class name 'Lectures' as in c21247."
+  },
+  {
+   "id": "c21260",
+   "en": "I'll explain things extremely gently so even\nthe likes of you can understand, so be grateful\nand take my class!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21261",
+   "en": "Wait, um...\nNo matter how you look at it, she looks like\nan elementary schooler, right?",
+   "flags": [],
+   "notes": "shotouka = elementary division."
+  },
+  {
+   "id": "c21262",
+   "en": "Yes, she does...\nBut...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21263",
+   "en": "But?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21264",
+   "en": "That girl... is sooo cute...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21265",
+   "en": "Huh?!\nO-oh, y-yeah, I guess...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21266",
+   "en": "(I don't think whether she's cute or not\nis the point right now...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21267",
+   "en": "Pinon-kun, what are you doing\nin someone else's class?",
+   "flags": [],
+   "notes": "Yamashiro ('??? (man)'); he uses -kun for Pinon."
+  },
+  {
+   "id": "c21268",
+   "en": "Ack! Yamashiro!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21269",
+   "en": "My apologies for being late.\nIt seems someone hid my textbook...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21270",
+   "en": "I'm Itsuki Yamashiro, and I'll be in charge\nof the \"Lectures\" class.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21271",
+   "en": "Oh, I knew it.\nI mean, Pinon-chan being a teacher\nwas kind of a stretch...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21272",
+   "en": "No, it's no lie that Pinon-kun is a teacher.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21273",
+   "en": "She falls into the category of genius.\nAt her age, she already holds a teaching license.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21274",
+   "en": "That's right, I'm amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21275",
+   "en": "I intend to have her teach Special Lectures.\nSo the \"teacher\" part is, technically, true.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tokushu zagaku -> 'Special Lectures' (follows 'Lectures'); not in the glossary."
+  },
+  {
+   "id": "c21276",
+   "en": "That's right, I'm a teacher!\nYou lot! Show some respect and call me\nPinon-sensei!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21277",
+   "en": "However, Pinon-kun...\nYou're supposed to be a teacher AND a student.\nAnd I'm the one teaching this class.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21278",
+   "en": "Which means right now you're just a student...\nWould you take a seat over there?\nAnd take off the lab coat, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21279",
+   "en": "Grr!\nYou'll pay for this, Yamashiro!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21280",
+   "en": "Damn you, Yamashiro!\nI knew I should've hidden it somewhere\nharder to find...",
+   "flags": [],
+   "notes": "She hid his textbook (c21269)."
+  },
+  {
+   "id": "c21281",
+   "en": "Nice to meet you, Pinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21282",
+   "en": "Nice to meet you too, Pinon-chan!",
+   "flags": [],
+   "notes": "Akimizu: watashi mo yoroshiku ne."
+  },
+  {
+   "id": "c21283",
+   "en": "I told you to call me Pinon-sensei...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21284",
+   "en": "Now then, let's begin class.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21285",
+   "en": "(Pinon-sensei and Yamashiro-sensei, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21286",
+   "en": "(It's not just the students...\nMihoshi's got plenty of quirky teachers too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21287",
+   "en": "(Let's see, next up is Lectures...\nCome to think of it, I wonder who our teacher\nwill be? I'm kind of looking forward to it.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21288",
+   "en": "Sure, of course you can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21289",
+   "en": "I'm \\p.\nNice to meet you too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21290",
+   "en": "That's rough. Don't be shy, go ahead and look.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21291",
+   "en": "Yeah, I was wondering about that too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21292",
+   "en": "Huh?!\nO-oh, y-yeah, I guess...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21293",
+   "en": "(It's not just the students...\nMihoshi's got plenty of quirky teachers too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21294",
+   "en": "(Ugh, this is bad...\nI was only trying to get to the library,\nand now I'm lost inside my own school...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21295",
+   "en": "Oh? Do you need one of the third-years?\nIf you'd like, I can go get them for you.",
+   "flags": [],
+   "notes": "Claire ('??? (woman)'). Neutral 'them' for the unspecified senior."
+  },
+  {
+   "id": "c21296",
+   "en": "Well, you were standing around puzzling\nin front of the third-year classrooms.\nWouldn't anyone assume that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21297",
+   "en": "Oh, no, that's not it.\nI was actually trying to get to the library\nand got lost...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21298",
+   "en": "The library's in the complete opposite direction...\nHow on earth did you end up here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21299",
+   "en": "Hehe, you're a funny one.\nOh well, I'll take you to the library myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21300",
+   "en": "Running into each other like this must be fate.\nIt's no trouble at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21301",
+   "en": "Thank you very much.\nUm...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21302",
+   "en": "It's Claire. Claire Stanford.\nNice to meet you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21303",
+   "en": "I'm \\p.\nIt's nice to meet you too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21304",
+   "en": "Well then, shall we get going...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21305",
+   "en": "Waaah! Claire~!",
+   "flags": [],
+   "notes": "Klan ('??? (woman)'), micronized."
+  },
+  {
+   "id": "c21306",
+   "en": "Klan, what's wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21307",
+   "en": "Michel...\nThat jerk Michel made fun of me agaaain~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21308",
+   "en": "Aww, there, there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21309",
+   "en": "(A-a kid...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21310",
+   "en": "Sorry, \\p-kun...\nWould you mind waiting a little\nbefore I show you to the library?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21311",
+   "en": "Sure, no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21312",
+   "en": "Hm! You're a first-year in the Pilot Course,\naren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21313",
+   "en": "If you see Michel, give him a message! Tell him\nKlan Klang said, \"Next time we meet,\nI'm gonna beat you to a pulp!!\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21314",
+   "en": "(Michel, what on earth did you do to this kid...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21315",
+   "en": "Sorry, Klan.\nI have to take this one to the library.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21316",
+   "en": "I see. Sorry for holding you up, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21317",
+   "en": "...Oh, come to think of it,\nI haven't asked your name yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21318",
+   "en": "I'm \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21319",
+   "en": "All right, \\p...\nIf you don't pass that on to Michel,\nbe ready for a punishment to match!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21320",
+   "en": "Mm, as long as you understand.\nSee you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21321",
+   "en": "Well then, let's get going too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21322",
+   "en": "By the way, Claire-senpai...\nDid Klan-senpai skip a grade or something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21323",
+   "en": "Klan and I are the same age.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21324",
+   "en": "Apparently, when she micronizes,\nher body turns into a little kid's.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21325",
+   "en": "Here we are, this is the library.\nThink you can make it here on your own\nnext time without getting lost?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21326",
+   "en": "I-I'll be fine!\nSorry for making you show me the way...",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c21247/c21259/c21270/c21287: zagaku -> \"Lectures\" (from schedule help u5458); c21275 tokushu zagaku -> \"Special Lectures\". Neither is in the glossary."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "zagaku 'Lectures', tokushu zagaku 'Special Lectures' (campus class names)"
+  ],
+  "unfinished": []
+ }
+}

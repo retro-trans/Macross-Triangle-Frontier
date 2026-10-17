@@ -1,0 +1,389 @@
+{
+ "slice": 212,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c15507",
+   "en": "(Oh, there's Akimizu. Perfect timing.\nI'll go ask her.)",
+   "flags": [],
+   "notes": "x16, male, frd_yuu_101-108; Akimizu is female (glossary)."
+  },
+  {
+   "id": "c15508",
+   "en": "Huh?! With me?\nI'm sorry... Um... well...",
+   "flags": [],
+   "notes": "Male; Nyan-Nyan invitation, early in the route."
+  },
+  {
+   "id": "c15509",
+   "en": "I'm really sorry. Next time, for sure...",
+   "flags": [],
+   "notes": "x32, both genders, all early refusals."
+  },
+  {
+   "id": "c15510",
+   "en": "(Oh, there's Yuu. Perfect timing.\nI'll go ask her.)",
+   "flags": [],
+   "notes": "x16, female."
+  },
+  {
+   "id": "c15511",
+   "en": "Oh, \\p-chan?\nWhat is it?",
+   "flags": [],
+   "notes": "x16, female; twin of c11876 ('Oh, \\p-kun?\\nWhat is it?')."
+  },
+  {
+   "id": "c15512",
+   "en": "Huh?! Me?\nI'm sorry... Um... well...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15513",
+   "en": "Huh? The Observation Pier...\nYou mean THAT Observation Pier, right...?\nHmm... that's a little...",
+   "flags": [],
+   "notes": "x4, both genders; she hints the pier is a date spot."
+  },
+  {
+   "id": "c15514",
+   "en": "The Macross Quarter...\nHmm... I don't know about that...",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c15515",
+   "en": "Shopping at Folmo... That sounds nice!\nOh, but this weekend, I think I...",
+   "flags": [],
+   "notes": "x4, both genders; trails off as in the Japanese."
+  },
+  {
+   "id": "c15516",
+   "en": "\"199,\" huh...? That sounds nice!\nOh, but this weekend, I think I...",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c15517",
+   "en": "The artificial island...\nIn that case... hmm... that's a little...",
+   "flags": [],
+   "notes": "x4, both genders; glossary lowercase 'the artificial island'."
+  },
+  {
+   "id": "c15518",
+   "en": "Central Park... Let me see...\nOh, but this weekend, I think I...",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c15519",
+   "en": "The Battle Frontier...\nHmm... I don't know about that...",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c15520",
+   "en": "(Okay, that's it for classes...\nMaybe I'll ask Akimizu to stop off somewhere\nwith me on the way home...)",
+   "flags": [],
+   "notes": "x6, male; same shape as c04157."
+  },
+  {
+   "id": "c15521",
+   "en": "Hey, Akimizu. You wanna stop off somewhere\non the way home?",
+   "flags": [],
+   "notes": "x6, male."
+  },
+  {
+   "id": "c15522",
+   "en": "Oh, \\p-kun.\nStop off somewhere... That's not a bad idea!\n...Huh?!",
+   "flags": [],
+   "notes": "x6, male scene."
+  },
+  {
+   "id": "c15523",
+   "en": "Um... I've got something to do after this...\nI'm really sorry. Ask me again, okay?",
+   "flags": [],
+   "notes": "x12, both genders."
+  },
+  {
+   "id": "c15524",
+   "en": "(Okay, that's it for classes...\nMaybe I'll ask Yuu to stop off somewhere\nwith me on the way home...)",
+   "flags": [],
+   "notes": "x6, female."
+  },
+  {
+   "id": "c15525",
+   "en": "Hey, Yuu. You wanna stop off somewhere\non the way home?",
+   "flags": [],
+   "notes": "x6, female."
+  },
+  {
+   "id": "c15526",
+   "en": "Oh, \\p-chan.\nStop off somewhere... That's not a bad idea!\n...Huh?!",
+   "flags": [],
+   "notes": "x6, female scene."
+  },
+  {
+   "id": "c15527",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Akimizu to Griffith Park\nand just take it easy...)",
+   "flags": [],
+   "notes": "x2, male."
+  },
+  {
+   "id": "c15528",
+   "en": "Oh, \\p-kun.\nWhat's up?",
+   "flags": [],
+   "notes": "x10, male scene."
+  },
+  {
+   "id": "c15529",
+   "en": "Um, I've got other plans this weekend...\nI'm really sorry! Next time for sure!",
+   "flags": [],
+   "notes": "x16, both genders."
+  },
+  {
+   "id": "c15530",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Yuu to Griffith Park\nand just take it easy...)",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c15531",
+   "en": "Oh, \\p-chan.\nWhat's up?",
+   "flags": [],
+   "notes": "x10, female scene."
+  },
+  {
+   "id": "c15532",
+   "en": "Griffith Park... That might be nice!\n...Oh!?",
+   "flags": [],
+   "notes": "x2, female scene (the male scene uses c11901)."
+  },
+  {
+   "id": "c15533",
+   "en": "(This weekend, maybe I'll invite Akimizu\nto go shopping in Deep Akihabara.)",
+   "flags": [],
+   "notes": "x2, male."
+  },
+  {
+   "id": "c15534",
+   "en": "Deep Akihabara... That sounds fun!\n...Oh!?",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c15535",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Yuu to go shopping\nin Deep Akihabara...)",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c15536",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Akimizu to Nyan-Nyan\nor something...)",
+   "flags": [],
+   "notes": "x2, male."
+  },
+  {
+   "id": "c15537",
+   "en": "Nyan-Nyan... That's really tempting!\n...Oh!?",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c15538",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Yuu to Nyan-Nyan\nor something...)",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c15539",
+   "en": "(Now, what are my plans this weekend...\nMaybe Akimizu and I could go see a concert\nat the Sky Gate.)",
+   "flags": [],
+   "notes": "x2, male."
+  },
+  {
+   "id": "c15540",
+   "en": "A concert... That might be nice!\n...Oh!?",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c15541",
+   "en": "(Now, what are my plans this weekend...\nMaybe Yuu and I could go see a concert\nat the Sky Gate.)",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c15542",
+   "en": "Yeah, I was wondering if you'd want to go see\na concert at the Sky Gate with me this weekend...",
+   "flags": [],
+   "notes": "x2, female; answers 'What's up?'."
+  },
+  {
+   "id": "c15543",
+   "en": "(Now, what are my plans this weekend...\nMaybe Akimizu and I could go to\nthe Shibuya Area or something...)",
+   "flags": [],
+   "notes": "x2, male."
+  },
+  {
+   "id": "c15544",
+   "en": "Well, I was wondering if you'd want to go\nshopping in the Shibuya Area with me\nthis weekend...",
+   "flags": [],
+   "notes": "x2, male."
+  },
+  {
+   "id": "c15545",
+   "en": "Um... well... I'm sorry...\nI really, really want to go, but\nI haven't been in the mood lately...",
+   "flags": [],
+   "notes": "x4, both genders; hints at something bothering her."
+  },
+  {
+   "id": "c15546",
+   "en": "I see. Well, it can't be helped, then...",
+   "flags": [],
+   "notes": "x2, male."
+  },
+  {
+   "id": "c15547",
+   "en": "I'm really sorry...",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c15548",
+   "en": "No, it's fine. Don't worry about it!",
+   "flags": [],
+   "notes": "x2, male."
+  },
+  {
+   "id": "c15549",
+   "en": "(I wonder if something's up with Akimizu...)",
+   "flags": [],
+   "notes": "x2, male."
+  },
+  {
+   "id": "c15550",
+   "en": "(Now, what are my plans this weekend...\nMaybe Yuu and I could go to\nthe Shibuya Area or something...)",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c15551",
+   "en": "Yeah, I was wondering if you'd want to go\nshopping in the Shibuya Area with me\nthis weekend...",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c15552",
+   "en": "I see. Well, it can't be helped, then...",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c15553",
+   "en": "It's fine. Don't worry about it!",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c15554",
+   "en": "(I wonder if something's up with Yuu...)",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c15555",
+   "en": "(When it comes to summer...\nHmm, how should I spend it...)",
+   "flags": [],
+   "notes": "Male; nml_alt_001."
+  },
+  {
+   "id": "c15556",
+   "en": "Hey, \\p.\nWhat are you doing out here?",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15557",
+   "en": "Just trying to figure out what to do\nto really enjoy the summer...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15558",
+   "en": "Enjoy the summer, huh... Wouldn't that be\nthe beach or something?",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15559",
+   "en": "Well, that's the summer classic, sure.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15560",
+   "en": "Other than that... fireworks, yukata,\nwatermelon splitting... festivals, that's\nabout it. They all sound like fun.",
+   "flags": [],
+   "notes": "x2, Alto, both genders; Japanese breaks inside 'festivals / that's about it', English keeps the list whole."
+  },
+  {
+   "id": "c15561",
+   "en": "...Alto, you'd look good in all of those.",
+   "flags": [],
+   "notes": "Male; teases Alto's looks (yukata, festival)."
+  },
+  {
+   "id": "c15562",
+   "en": "Yeah, I get that a lot...",
+   "flags": [],
+   "notes": "x2, Alto, both genders; weary."
+  },
+  {
+   "id": "c15563",
+   "en": "(Him in a women's yukata, like back in\nhis kabuki days... No, let's not go there...)",
+   "flags": [],
+   "notes": "Male; 'onnagata de yukata' = in a yukata as a female-role actor."
+  },
+  {
+   "id": "c15564",
+   "en": "(When it comes to summer...\nHmm, how should I spend it~...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15565",
+   "en": "Just trying to figure out what to do\nto really enjoy the summer~...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15566",
+   "en": "Well, that's the summer classic, sure.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15567",
+   "en": "...Saotome-kun, you'd look good in all of those.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15568",
+   "en": "(Him in a women's yukata, like back in\nhis kabuki days... He'd look sooo good...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c15513: 'ano tenbou sanbashi' read as the pier being known as a date spot ('THAT Observation Pier'); caps used for stress since the font has no italics.",
+   "c15561/c15567: 'sore minna niaisou' taken as the player teasing Alto that the summer things (yukata, festivals) would suit his looks; Alto's 'I get that a lot' supports it.",
+   "c15563/c15568: onnagata (female-role kabuki actor) rendered 'in a women's yukata, like back in his kabuki days' rather than the bare term, as earlier slices used 'female roles'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

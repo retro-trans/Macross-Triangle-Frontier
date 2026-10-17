@@ -1,0 +1,478 @@
+{
+ "slice": 102,
+ "rows_in_slice": 76,
+ "rows_examined": 76,
+ "rows": [
+  {
+   "id": "c07514",
+   "en": "(I came to do EX-Gear training\nwith Yuuto today, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07515",
+   "en": "Sorry to keep you waiting,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07516",
+   "en": "Getting the EX-Gear ready takes time.\nIt can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07517",
+   "en": "Well then, shall we go for a quick flight?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07518",
+   "en": "Let's do that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07519",
+   "en": "This just isn't going well...\nWhat am I doing wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07520",
+   "en": "From what I can see, you're still not\nfully riding the wind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07521",
+   "en": "That way you burn fuel and you don't\naccelerate either. Nothing good comes of it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07522",
+   "en": "I'll do one flight myself,\nso watch me from below.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07523",
+   "en": "Okay, got it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07524",
+   "en": "(I came to do EX-Gear training\nwith Kagura-kun today, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07525",
+   "en": "Yeah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07526",
+   "en": "This just isn't going well...\nWhat am I doing wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07527",
+   "en": "I see... It's hard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07528",
+   "en": "(I came to do EX-Gear training\nwith Yuuto again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07529",
+   "en": "Well, EX-Gear prep takes time.\nIt can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07530",
+   "en": "Right. Let's not waste time,\nand get started.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07531",
+   "en": "I'm gonna give it my all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07532",
+   "en": "You're really getting the hang of it,\naren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07533",
+   "en": "You think so?\nHearing that from you, Yuuto,\ngives me confidence.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07534",
+   "en": "Then let's do one more run\nbefore you forget the feel of it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07535",
+   "en": "Roger!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07536",
+   "en": "(I came to do EX-Gear training\nwith Kagura-kun again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07537",
+   "en": "You think so?\nHearing that from you, Kagura-kun,\ngives me confidence.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07538",
+   "en": "(I came to Griffith Park\nwith Yuuto today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07539",
+   "en": "...I don't come here much,\nbut it's a nice view.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07540",
+   "en": "Yeah, the sunset from here\nis something special.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07541",
+   "en": "Mind if I watch it for a while?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07542",
+   "en": "Of course.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07543",
+   "en": "It's gotten pretty late, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07544",
+   "en": "Sorry for making you\nstick around with me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07545",
+   "en": "I wanted to watch it too,\nso don't worry about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07546",
+   "en": "That's a relief to hear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07547",
+   "en": "Well then, let's head home for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07548",
+   "en": "(I came to Griffith Park\nwith Kagura-kun today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07549",
+   "en": "Yeah, the sunset from here\nis really lovely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07550",
+   "en": "I wanted to watch it too,\nso don't worry about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07551",
+   "en": "I see. That's a relief to hear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07552",
+   "en": "Okay then, let's call it a day\nand head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07553",
+   "en": "(I came to Griffith Park\nwith Yuuto again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07554",
+   "en": "...It's a nice view here,\nno matter when you come.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07555",
+   "en": "Yeah, it's perfect for when you need\nto think things over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07556",
+   "en": "Mind if I watch it for a while again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07557",
+   "en": "Shall we head home soon,\n\\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07558",
+   "en": "Huh, you're done already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07559",
+   "en": "Yeah, I've got my thoughts sorted out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07560",
+   "en": "Well then, shall we go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07561",
+   "en": "(I wonder if Yuuto has a lot\non his mind too?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07562",
+   "en": "(I came to Griffith Park\nwith Kagura-kun again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07563",
+   "en": "Yeah, it's perfect for when you need\nto think things over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07564",
+   "en": "(I wonder if Kagura-kun has a lot\non his mind too?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07565",
+   "en": "(I'm studying in the library\nwith Yuuto today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07566",
+   "en": "All right, let's hit the books hard today!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07567",
+   "en": "Hey, you're being too loud...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07568",
+   "en": "Oops, sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07569",
+   "en": "Let's pull ourselves together\nand do our best!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07570",
+   "en": "Haah... I've read so much,\nmy eyes are seeing spots...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07571",
+   "en": "Yeah...\nI haven't studied this much since\nthe entrance exams, either.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The Japanese has a typo (irai 'request' for irai 'since'); read as 'since the entrance exams'."
+  },
+  {
+   "id": "c07572",
+   "en": "Studying really goes faster\nwith two people, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07573",
+   "en": "This kind of thing isn't bad\nonce in a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07574",
+   "en": "Well, let's grab a bite\nbefore we head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07575",
+   "en": "(I'm tired, but I got some\ngood studying done today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07576",
+   "en": "(I'm studying in the library\nwith Kagura-kun today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07577",
+   "en": "Studying really goes faster\nwith two people, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07578",
+   "en": "Yeah, this kind of thing isn't bad\nonce in a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07579",
+   "en": "(I'm tired, but I got some\ngood studying done today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07580",
+   "en": "(I'm studying in the library\nwith Yuuto again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07581",
+   "en": "All right, let's hit the books hard\nagain today!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07582",
+   "en": "Oops, sorry... Sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07583",
+   "en": "Haah... I've stared at so many numbers,\nmy head's getting all tangled up...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07584",
+   "en": "Yeah...\nI can't even tell what the right answer\nis anymore...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07585",
+   "en": "Looks like we'd better take a break\nfrom this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07586",
+   "en": "Let's try again another day.\nI can't take any more today!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07587",
+   "en": "You think so?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07588",
+   "en": "Let's eat something and go home!\nThere's nothing else for it!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07589",
+   "en": "(I'm studying in the library\nwith Kagura-kun again today.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c07571: the Japanese has a typo (the kanji for 'request' instead of 'since'); read as 'since the entrance exams'.",
+   "c07525 'un!' (x17: female player here, also Pinon and Ranka in several scenes) rendered 'Yeah!' to suit every speaker.",
+   "c07587 'sou kana?' (x7: player, Ranka) rendered 'You think so?', matching c07460; in frd_kgr_111 it answers Kagura's overblown 'I can't take any more today!'.",
+   "c07546 is shared by Kagura (frd_kgr_110) and the male player (frd_luk_115): 'That's a relief to hear.' fits both.",
+   "c07516/c07529: Kagura apologises for the wait; the player blames the EX-Gear prep without saying whose gear it was ('Getting the EX-Gear ready takes time').",
+   "c07535 'ryoukai!!' rendered 'Roger!!', in line with c07470 'Roger~'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

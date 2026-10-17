@@ -1,0 +1,414 @@
+{
+ "slice": 231,
+ "rows_in_slice": 66,
+ "rows_examined": 66,
+ "rows": [
+  {
+   "id": "c16798",
+   "en": "(And that's EX-Gear training done for now.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16799",
+   "en": "I was watching you out there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16800",
+   "en": "Yamashiro-sensei!\nHow did I do?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16801",
+   "en": "You're moving quite well.\nI'm impressed you haven't forgotten the basics.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16802",
+   "en": "Really? Thank you very much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16803",
+   "en": "But don't get complacent.\nDanger follows all of you whenever you fly.\nNever forget that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16804",
+   "en": "Good answer.\nSee you. Make sure you get some proper rest.",
+   "flags": [],
+   "notes": "Answers the player's reply (a shared generic row between c16803 and c16804)."
+  },
+  {
+   "id": "c16805",
+   "en": "(...I'd better stay on my toes.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16806",
+   "en": "(What a tiring week...\nWhat should I do this weekend...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16807",
+   "en": "\\p.\nAre you heading home now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16808",
+   "en": "Yes, I don't have anything else to do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16809",
+   "en": "Go straight home, no detours.\nAnd don't laze around this weekend. Study.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16810",
+   "en": "Understood, sir!\n...So, what are you doing this weekend, Sensei?",
+   "flags": [],
+   "notes": "Male version: stiff, over-polite 'wakatte orimasu', played as a mock-formal 'Understood, sir!'."
+  },
+  {
+   "id": "c16811",
+   "en": "I plan to study at home, so I can teach\nall of you even more clearly than I do now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16812",
+   "en": "That's... a lot of work...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16813",
+   "en": "It's the job I chose. It's no hardship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16814",
+   "en": "(So cool...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16815",
+   "en": "Well then.\nI'll see you again on Monday.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16816",
+   "en": "(...When does Sensei ever get any rest?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16817",
+   "en": "Okaaay!\n...So, what are you doing this weekend, Sensei?",
+   "flags": [],
+   "notes": "Female twin of c16810; 'haai' as 'Okaaay' as elsewhere."
+  },
+  {
+   "id": "c16818",
+   "en": "(...P.E. wore me out...\nA 10 km run? Come on...)",
+   "flags": [],
+   "notes": "Aligned: taiiku 'P.E.' as in the other campus slices."
+  },
+  {
+   "id": "c16819",
+   "en": "\\p.\nLooks like you got put through the wringer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16820",
+   "en": "Yamashiro-sensei...\nThat was brutal...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16821",
+   "en": "That Gary was extra fired up today.\nDon't hold it against him.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16822",
+   "en": "Sensei, please rein him in...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16823",
+   "en": "It's P.E. Learning your own limits\nis important too.",
+   "flags": [],
+   "notes": "Aligned: taiiku 'P.E.' as in the other campus slices."
+  },
+  {
+   "id": "c16824",
+   "en": "Anyway, make sure you cool down properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16825",
+   "en": "(...I'm worried how sore I'll be tomorrow~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16826",
+   "en": "(...Gym class wore me out...\nA 10 km run? Come on...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16827",
+   "en": "(...I'm worried how sore I'll be tomorrow...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16828",
+   "en": "(...I've gotta go shopping for dinner~\nWhat should I have?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16829",
+   "en": "Well, if it isn't \\p.\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16830",
+   "en": "Hello, Yamashiro-sensei.\nAre you out shopping?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16831",
+   "en": "Well, something like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16832",
+   "en": "What did you buy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16833",
+   "en": "A model aircraft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16834",
+   "en": "Huh~\nI didn't know you had a hobby like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16835",
+   "en": "When I'm putting one of these together,\nmy mind is at peace...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16836",
+   "en": "Well then, see you.\nGet home before it gets late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16837",
+   "en": "(I just found out Yamashiro-sensei\nhas a surprising hobby.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16838",
+   "en": "(...I've gotta go shopping for dinner~\nWhat should I have, I wonder?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16839",
+   "en": "(I just found out Yamashiro-sensei\nhas a surprising hobby~!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16840",
+   "en": "(Swimming's next.\nI've gotta hurry to the pool...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16841",
+   "en": "\\p.\nDon't run, it's dangerous.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16842",
+   "en": "Yamashiro-sensei...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16843",
+   "en": "What's with that outfit...?",
+   "flags": [],
+   "notes": "He is already in a swimsuit (c16846)."
+  },
+  {
+   "id": "c16844",
+   "en": "Gary is away on a business trip,\nso I'm in charge of today's P.E. class.",
+   "flags": [],
+   "notes": "Aligned: taiiku 'P.E.' as in the other campus slices."
+  },
+  {
+   "id": "c16845",
+   "en": "...I see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16846",
+   "en": "(I'd better not ask why he's in\nhis swimsuit already.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16847",
+   "en": "Well then, I'll go on ahead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16848",
+   "en": "Right.\nI won't go easy on you today, so bring it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16849",
+   "en": "(Alrighty, off to swim, swim, swim~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16850",
+   "en": "(Swimming's next.\nI've gotta hurry to the pool...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16851",
+   "en": "(I'd better not ask why he's in\nhis swimsuit already.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16852",
+   "en": "Well then, I'll go on ahead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16853",
+   "en": "(Next class is... Huh...\nEnglish, wasn't it...? Uh-oh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16854",
+   "en": "\\p.\nWhy are you holding your head like that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16855",
+   "en": "Yamashiro-sensei...\nI misread the timetable, and my\nassignment is at home...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16856",
+   "en": "That's what happens when you don't\ndouble-check.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16857",
+   "en": "So, which subject?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16858",
+   "en": "Um, English... The listening one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16859",
+   "en": "Listening, huh...\nWait here a moment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16860",
+   "en": "That should about do it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16861",
+   "en": "Wh-whoa, you knocked out the assignment\nin no time at all...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Yamashiro 'konasu' the assignment in a short time: whether he did it for the player or made a substitute is unclear; 'knocked out' covers both."
+  },
+  {
+   "id": "c16862",
+   "en": "I don't do favors like this often.\nCome show me the assignment tomorrow.\nWithout fail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16863",
+   "en": "(Maybe I'd have had it easier\nif I'd just stayed forgetful...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c16861: Yamashiro 'konasu' the forgotten listening assignment in moments; unclear whether he did it for the player or produced a substitute; rendered 'knocked out the assignment', which fits either.",
+   "c16810: male 'wakatte orimasu' (stiff over-politeness) rendered as a mock-formal 'Understood, sir!'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

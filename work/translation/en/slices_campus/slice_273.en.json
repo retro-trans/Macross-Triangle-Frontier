@@ -1,0 +1,397 @@
+{
+ "slice": 273,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c19589",
+   "en": "(I felt like cooking for the first time in ages,\nbut I'm out of seasonings.\nBetter buy some fast and head home.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19590",
+   "en": "Huh, who's that over there...\nAlto and Ranka?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19591",
+   "en": "What's up, you two?\nOn a date, maybe?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19592",
+   "en": "\\p, what are you doing here...?",
+   "flags": [],
+   "notes": "Alto, both genders."
+  },
+  {
+   "id": "c19593",
+   "en": "What am I doing here? Shopping, obviously.\nSo, are you two on a date?\nNice going, Ranka!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19594",
+   "en": "Th-this isn't a date!\nWe just ran into each other and got talking.",
+   "flags": [],
+   "notes": "Ranka, both genders (flustered; the Japanese slips into polite desu/masu)."
+  },
+  {
+   "id": "c19595",
+   "en": "Right, Alto-kun?",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19596",
+   "en": "Yeah.\nLike I'd ever go on a date with someone like Ranka.",
+   "flags": [],
+   "notes": "Alto, both genders. 'Ranka nanka' dismissive, kept at full strength."
+  },
+  {
+   "id": "c19597",
+   "en": "...You really say harsh stuff sometimes, Alto.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19598",
+   "en": "Someone like me, huh...",
+   "flags": [],
+   "notes": "Ranka, both genders, echoing Alto's 'Ranka nanka'."
+  },
+  {
+   "id": "c19599",
+   "en": "Ah, no!\nThat was just a figure of speech,\nit's not like that...!",
+   "flags": [],
+   "notes": "Alto, male version ('sou iu wake de wa')."
+  },
+  {
+   "id": "c19600",
+   "en": "Then what DID you mean?!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19601",
+   "en": "W-well, see, this is...\nHey, \\p!",
+   "flags": [],
+   "notes": "Alto, both genders."
+  },
+  {
+   "id": "c19602",
+   "en": "Well, I've got shopping to do...\nSee you, you two.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19603",
+   "en": "Don't you run away!!",
+   "flags": [],
+   "notes": "Alto, both genders."
+  },
+  {
+   "id": "c19604",
+   "en": "(Not my problem~)",
+   "flags": [],
+   "notes": "PLAYER, both genders. shi~ranai tto."
+  },
+  {
+   "id": "c19605",
+   "en": "(I felt like cooking for the first time in ages,\nbut I'm out of seasonings!\nBetter buy some fast and head home.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19606",
+   "en": "Huh, who's that over there...\nSaotome-kun and Ranka-chan?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19607",
+   "en": "What's up, you two?\nAre you on a date, maybe?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19608",
+   "en": "What am I doing here? I came shopping.\nSo, are you two on a date?\nNice going, Ranka-chaan!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19609",
+   "en": "...You really say harsh stuff sometimes,\nSaotome-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19610",
+   "en": "Ah, no!\nThat was just a figure of speech,\nthat's not what I meant...!",
+   "flags": [],
+   "notes": "Alto, female version ('sou iu imi de wa')."
+  },
+  {
+   "id": "c19611",
+   "en": "Well, I've got shopping to do...\nSee you, you two.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19612",
+   "en": "(Summer break, huh. What should I do with it...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19613",
+   "en": "Hi~, \\p.",
+   "flags": [],
+   "notes": "Sheryl, both genders (no -chan in the Japanese here, so none added); also nml_she_012 and scd_com_620. 'Hi~' as settled."
+  },
+  {
+   "id": "c19614",
+   "en": "Oh, Sheryl!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19615",
+   "en": "Don't go around all dazed just because it's\nsummer break, geez. Or wait, could it be...?\nRunning into me went straight to your head?",
+   "flags": [],
+   "notes": "Sheryl, male. noboseru = get giddy/lightheaded; she teases that meeting her did it."
+  },
+  {
+   "id": "c19616",
+   "en": "Well, never mind that.\nTell me how people spend summer here on Frontier.",
+   "flags": [],
+   "notes": "Sheryl, male. Commanding 'oshienasai'."
+  },
+  {
+   "id": "c19617",
+   "en": "How we spend summer...\nWell, going to the pool or the beach, cooling off\nat the library, eating soft serve...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19618",
+   "en": "That! That's it! Soft serve!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19619",
+   "en": "In this heat, it's bound to taste twice as good!\nGlad I asked you. See you!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19620",
+   "en": "(Does Sheryl have nothing to do\nover summer break...?)",
+   "flags": [],
+   "notes": "Male. hima = free, with nothing to do."
+  },
+  {
+   "id": "c19621",
+   "en": "(Summer break, huh. What should I do...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19622",
+   "en": "Oh, Sheryl-san!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19623",
+   "en": "Aren't you getting a little carried away just\nbecause it's summer break? You're spoiling\nthat pretty face of yours.",
+   "flags": [],
+   "notes": "Sheryl, female."
+  },
+  {
+   "id": "c19624",
+   "en": "Oh, um, yes...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19625",
+   "en": "Well, never mind that.\nCould you tell me how people spend summer\nhere on Frontier?",
+   "flags": [],
+   "notes": "Sheryl, female (softer 'oshiete moraeru?')."
+  },
+  {
+   "id": "c19626",
+   "en": "How we spend summer...?\nWell, going to the pool or the beach, cooling off\nat the library, eating soft serve...",
+   "flags": [],
+   "notes": "Female (polite)."
+  },
+  {
+   "id": "c19627",
+   "en": "(Does Sheryl-san have nothing to do\nover summer break...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19628",
+   "en": "(Sheryl's concert is coming up soon...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19629",
+   "en": "Oh, \\p, what's the matter?\nWere you thinking about my concert, perhaps?",
+   "flags": [],
+   "notes": "Sheryl, male."
+  },
+  {
+   "id": "c19630",
+   "en": "Well, of course you were. You're doing stunts\nat my concert, so you must be under a ton\nof pressure until you pull it off...",
+   "flags": [],
+   "notes": "Sheryl, both genders. The player does the EX-Gear stunt (c15959)."
+  },
+  {
+   "id": "c19631",
+   "en": "Anyway, be careful not to get in my way.\nThe star of the show is me, Sheryl Nome!",
+   "flags": [],
+   "notes": "Sheryl, male."
+  },
+  {
+   "id": "c19632",
+   "en": "Well, that's true, but...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19633",
+   "en": "(She's like that normally, but once she's on stage...\nshe really does become the \"Galactic Fairy\"...)",
+   "flags": [],
+   "notes": "Male. Galactic Fairy per glossary; quotes kept from the Japanese brackets."
+  },
+  {
+   "id": "c19634",
+   "en": "(Sheryl-san's concert is coming up soon...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19635",
+   "en": "Oh, \\p-chan, what's the matter?\nWere you thinking about my concert, perhaps?",
+   "flags": [],
+   "notes": "Sheryl, female."
+  },
+  {
+   "id": "c19636",
+   "en": "Anyway, be careful not to get hurt.\nIt's a big stage, so let's both enjoy it!",
+   "flags": [],
+   "notes": "Sheryl, female."
+  },
+  {
+   "id": "c19637",
+   "en": "(Doesn't Sheryl-san ever feel any pressure?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19638",
+   "en": "(I wonder what the new planet will be like...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19639",
+   "en": "Oh, \\p?\nWhat's with that gloomy face...?",
+   "flags": [],
+   "notes": "Sheryl, male."
+  },
+  {
+   "id": "c19640",
+   "en": "Nothing, I was just wondering what\nthe new planet will be like.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19641",
+   "en": "Who cares what it's like!\nWherever you go, you're still you.\nNothing changes!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19642",
+   "en": "That may be true, but...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19643",
+   "en": "Then quit it already. Fretting like that\nis making ME anxious too!",
+   "flags": [],
+   "notes": "Sheryl, both genders. 'oyamenasai'."
+  },
+  {
+   "id": "c19644",
+   "en": "I see... You're right!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19645",
+   "en": "That's right. What matters is who you are now.\nDon't forget it.",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c19646",
+   "en": "(Sheryl's really, really positive.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19647",
+   "en": "(I wonder what the new planet will be like...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19648",
+   "en": "Oh, \\p-chan?\nWhat's with that gloomy face...?",
+   "flags": [],
+   "notes": "Sheryl, female."
+  },
+  {
+   "id": "c19649",
+   "en": "Oh, nothing. I was just wondering what\nthe new planet will be like.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19650",
+   "en": "That may be true, but...",
+   "flags": [],
+   "notes": "Female (polite)."
+  },
+  {
+   "id": "c19651",
+   "en": "I see... You're right!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19652",
+   "en": "(Sheryl-san's really, really positive.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,467 @@
+{
+ "slice": 331,
+ "rows_in_slice": 75,
+ "rows_examined": 75,
+ "rows": [
+  {
+   "id": "c23962",
+   "en": "(Am I really ready to join S.M.S.\nand put my life on the line in battle...?)",
+   "flags": [],
+   "notes": "Male player, the night before facing Ozma."
+  },
+  {
+   "id": "c23963",
+   "en": "Looks like you've made up your mind.",
+   "flags": [],
+   "notes": "Ozma to the player; shared male/female."
+  },
+  {
+   "id": "c23964",
+   "en": "Please... Please let me join S.M.S.!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23965",
+   "en": "We're a private military provider. When one of us\ndies, it isn't 'killed in action.'\nIt gets written off as an accident.",
+   "flags": [],
+   "notes": "Minkan gunji provider = private military provider."
+  },
+  {
+   "id": "c23966",
+   "en": "There's no fleet-wide funeral, and not even\nyour own family gets told what really happened...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23967",
+   "en": "...Report to the barracks as a trainee\nby 0800 tomorrow morning.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23968",
+   "en": "Understood! Ozma-san!",
+   "flags": [],
+   "notes": "Shared male/female. Player still calls him Ozma-san; he corrects it next row."
+  },
+  {
+   "id": "c23969",
+   "en": "Heh. Starting tomorrow, it's Major Ozma.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23970",
+   "en": "Starting tomorrow, I'm gonna drill you\ninto the ground. Better brace yourself.",
+   "flags": [],
+   "notes": "Michel to the player."
+  },
+  {
+   "id": "c23971",
+   "en": "Go easy on me, okay, Michel?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23972",
+   "en": "(Starting tomorrow, I'm part of S.M.S. too...\nI'm going to fight to protect Frontier!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23973",
+   "en": "(Am I really ready to join S.M.S.\nand put my life on the line in battle...?)",
+   "flags": [],
+   "notes": "Female version of c23962."
+  },
+  {
+   "id": "c23974",
+   "en": "Please... Please let me join S.M.S.!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23975",
+   "en": "Go easy on me, okay, Michel-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23976",
+   "en": "(Starting tomorrow, I'm a member of S.M.S. too...\nI'll fight to protect Frontier as well!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23977",
+   "en": "This is Ozma.\nWe're holding your final enlistment test, starting now.",
+   "flags": [],
+   "notes": "Phone call to the player; shared male/female."
+  },
+  {
+   "id": "c23978",
+   "en": "It's an emergency call-up. You don't get to refuse.\nGet to the Macross Quarter immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23979",
+   "en": "Oh, there you are.",
+   "flags": [],
+   "notes": "Michel."
+  },
+  {
+   "id": "c23980",
+   "en": "I never expected the final test\nto be sprung on me out of nowhere.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23981",
+   "en": "Hey, don't get so worked up.\nJust do what you always do, and you'll pass.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23982",
+   "en": "That's right. Good luck out there,\n\\p-san.",
+   "flags": [],
+   "notes": "Luca."
+  },
+  {
+   "id": "c23983",
+   "en": "Yeah, thanks, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23984",
+   "en": "All right, let's head out.",
+   "flags": [],
+   "notes": "Michel; shutsugeki = sortie."
+  },
+  {
+   "id": "c23985",
+   "en": "(I'm passing this, no matter what!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23986",
+   "en": "I never expected the final test\nto be sprung on me out of nowhere.",
+   "flags": [],
+   "notes": "Female version of c23980."
+  },
+  {
+   "id": "c23987",
+   "en": "Yeah, thank you, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23988",
+   "en": "(I'm going to pass this, no matter what!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23989",
+   "en": "Don't get down, \\p.\nYour moves weren't half bad.",
+   "flags": [],
+   "notes": "Klan, after the player loses the mock battle."
+  },
+  {
+   "id": "c23990",
+   "en": "Not bad at all,\n\\p.",
+   "flags": [],
+   "notes": "Klan, after the player wins the mock battle."
+  },
+  {
+   "id": "c23991",
+   "en": "...Wait, my opponent in the mock battle\nwas you, Klan-senpai!?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23992",
+   "en": "Actually, before that...\nyou're in S.M.S. too...?",
+   "flags": [],
+   "notes": "Shozoku shiteta-n desu ne: surprise at learning she belongs to S.M.S."
+  },
+  {
+   "id": "c23993",
+   "en": "Hm? Come to think of it, I never told you, did I?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23994",
+   "en": "I am Captain Klan Klang,\nleader of the S.M.S. Pixie Team.",
+   "flags": [],
+   "notes": "Pixie shoutai = 'Pixie Team' per glossary; taii = Captain."
+  },
+  {
+   "id": "c23995",
+   "en": "Judging by your skills today,\nyou've got pretty good instincts.\nKeep at it, boy.",
+   "flags": [],
+   "notes": "Male version; Klan calls him shounen ('boy'). Female version c24010 drops it."
+  },
+  {
+   "id": "c23996",
+   "en": "(So Klan-senpai was in S.M.S. too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23997",
+   "en": "We welcome you as an official member of S.M.S.!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ends Ozma's announcement begun in c20799 ('As of this moment, you...', slice 290, not yet translated). Written as a full sentence so it stands whatever c20799 becomes; the subject 'we' (S.M.S.) is restored."
+  },
+  {
+   "id": "c23998",
+   "en": "You did it, \\p.",
+   "flags": [],
+   "notes": "Michel."
+  },
+  {
+   "id": "c23999",
+   "en": "Congratulations,\n\\p-san.",
+   "flags": [],
+   "notes": "Luca."
+  },
+  {
+   "id": "c24000",
+   "en": "Thanks, Michel, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24001",
+   "en": "Not bad, \\p.",
+   "flags": [],
+   "notes": "Alto."
+  },
+  {
+   "id": "c24002",
+   "en": "Thanks to you too, Alto...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24003",
+   "en": "...Wait, Alto, what are you doing in S.M.S.!?",
+   "flags": [],
+   "notes": "Japanese names Alto in the third person; he is right there, so addressed directly. Michel answers next."
+  },
+  {
+   "id": "c24004",
+   "en": "This guy officially joined S.M.S.\njust the other day, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24005",
+   "en": "All right! We're off to Nyan-Nyan to celebrate\nyou passing! We'll be drinking till dawn,\nso get ready!",
+   "flags": [],
+   "notes": "Ozma; kakugo shite oke = brace yourself."
+  },
+  {
+   "id": "c24006",
+   "en": "Captain Ozma, we're still minors, so...",
+   "flags": [],
+   "notes": "Luca. Ozma-taichou = 'Captain Ozma' per glossary (taichou, decided 2026-10-17); the rank shousa stays 'Major'."
+  },
+  {
+   "id": "c24007",
+   "en": "Tch, that's right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24008",
+   "en": "Whatever. Either way, we're partying tonight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24009",
+   "en": "(Now I've officially been accepted\nas a member of S.M.S.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24010",
+   "en": "Judging by your skills today,\nyou've got pretty good instincts.\nKeep at it.",
+   "flags": [],
+   "notes": "Female version of c23995 (no 'boy')."
+  },
+  {
+   "id": "c24011",
+   "en": "(So Klan-senpai was in S.M.S. too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24012",
+   "en": "Thank you, Michel-kun, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24013",
+   "en": "Thank you too, Saotome-kun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24014",
+   "en": "...Wait, Saotome-kun, what are you doing\nin S.M.S.!?",
+   "flags": [],
+   "notes": "See c24003."
+  },
+  {
+   "id": "c24015",
+   "en": "(Now I've officially been accepted\nas a member of S.M.S.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24016",
+   "en": "Hey, \\p...\nI know you're anxious, but calm down a little.",
+   "flags": [],
+   "notes": "Michel; shared male/female."
+  },
+  {
+   "id": "c24017",
+   "en": "We're going to rescue the surviving Galaxy ships.\nIn the state you're in, you won't even save\nthe ones who could be saved.",
+   "flags": [],
+   "notes": "Zanzonkan = the surviving ships (of the Galaxy fleet), as in mission text u2995."
+  },
+  {
+   "id": "c24018",
+   "en": "Michel... I know, but......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24019",
+   "en": "(The surviving ships that contacted us\nare still under attack from the Vajra, too...)",
+   "flags": [],
+   "notes": "Source closes the bracket with a half-width ')'; plain parentheses either way."
+  },
+  {
+   "id": "c24020",
+   "en": "We'll be meeting up with the surviving ships shortly.\nPilots, stand by!",
+   "flags": [],
+   "notes": "Cathy."
+  },
+  {
+   "id": "c24021",
+   "en": "Huh!? Cathy-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24022",
+   "en": "Why, if it isn't \\p-kun.\nSo you joined S.M.S.",
+   "flags": [],
+   "notes": "Cathy, male version."
+  },
+  {
+   "id": "c24023",
+   "en": "As of today, I've been assigned\nto S.M.S. as an observer.\nI look forward to working with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24024",
+   "en": "Likewise, I look forward to working with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24025",
+   "en": "\\p!\nSave the greetings for after we get back!",
+   "flags": [],
+   "notes": "Ozma."
+  },
+  {
+   "id": "c24026",
+   "en": "S-sorry! Major Ozma!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24027",
+   "en": "Skull Leader to all units. Listen up,\nI'm not letting a single one of you die.\nWe're all coming home to Frontier alive!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24028",
+   "en": "All right! Let's move out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24029",
+   "en": "Michel-kun... I know, but......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24030",
+   "en": "Why, if it isn't \\p-san.\nSo you joined S.M.S.",
+   "flags": [],
+   "notes": "Cathy, female version."
+  },
+  {
+   "id": "c24031",
+   "en": "(We couldn't rescue every one\nof the surviving Galaxy ships...)",
+   "flags": [],
+   "notes": "Subject 'we' (the squad) restored."
+  },
+  {
+   "id": "c24032",
+   "en": "Seems Alto and the others made it out\nof the enemy ship safely, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24033",
+   "en": "Geez, those guys... Once their injuries heal,\nlooks like I'll have to retrain them from scratch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24034",
+   "en": "You did good work out there.\nNow, let's head back to Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24035",
+   "en": "(Looks like the mission was a success,\nbut I wasn't much help...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24036",
+   "en": "(We couldn't rescue every one\nof the surviving Galaxy ships...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c23997: completes Ozma's c20799 (slice 290, untranslated); written as a standalone sentence."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

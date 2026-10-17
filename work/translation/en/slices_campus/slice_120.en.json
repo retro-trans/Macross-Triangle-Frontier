@@ -1,0 +1,500 @@
+{
+ "slice": 120,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c08828",
+   "en": "(School's finally out. Maybe I'll stop somewhere\non the way home. Huh, who's that over there...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08829",
+   "en": "Hey, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08830",
+   "en": "Oh, \\p-san.\nAre you heading home now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08831",
+   "en": "Yeah. You too, Luca?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08832",
+   "en": "Yes, that's right.",
+   "flags": [],
+   "notes": "6 uses: Luca here, the player in nml_cla, Shirakawa in nml_myk; generic."
+  },
+  {
+   "id": "c08833",
+   "en": "Then wanna stop somewhere on the way?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08834",
+   "en": "Sounds good. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08835",
+   "en": "(We just kind of ended up in Deep Akihabara...)",
+   "flags": [],
+   "notes": "Deep Akihabara is provisional in locations.json."
+  },
+  {
+   "id": "c08836",
+   "en": "Is there anything you want, Luca?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08837",
+   "en": "Come to think of it, the vacuum cleaner at home\nhas been acting up. Mind if we go take a look?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08838",
+   "en": "Sure, I don't mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08839",
+   "en": "(Two hours to pick out a vacuum cleaner...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08840",
+   "en": "Sorry for making you tag along for so long.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08841",
+   "en": "You were really serious about picking one.\nAs a technical adviser to L.A.I.'s research labs,\nare there things you can't compromise on?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "L.A.I. giken = L.A.I.'s technical research labs; no glossary entry."
+  },
+  {
+   "id": "c08842",
+   "en": "Every manufacturer's model has its pros and cons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08843",
+   "en": "If the suction is great, it eats a lot of power,\nand if it saves power, it's too weak...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08844",
+   "en": "Then why not build your own vacuum cleaner?\nThat'd be a piece of cake for you, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08845",
+   "en": "Yes, that's exactly what I have in mind,\nso I held off on buying one today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08846",
+   "en": "Oh, I see...",
+   "flags": [],
+   "notes": "5 uses (frd_luk, frd_yuu, nml_nns), all the player; as c06879 'Oh, I see.'"
+  },
+  {
+   "id": "c08847",
+   "en": "(I was only half joking...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08848",
+   "en": "Well then, I'm going to look for some parts\nbefore I head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08849",
+   "en": "Yeah, see you later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08850",
+   "en": "Okay, see you at school!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08851",
+   "en": "(Luca really is a genius...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08852",
+   "en": "Hello, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08853",
+   "en": "Yeah. You too, Luca-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08854",
+   "en": "Then shall we stop somewhere on the way?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08855",
+   "en": "Is there anything you want, Luca-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08856",
+   "en": "Sure, I don't mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08857",
+   "en": "You were really serious about picking one.\nAs a technical adviser to L.A.I.'s research labs,\nare there things you can't compromise on?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As c08841."
+  },
+  {
+   "id": "c08858",
+   "en": "Then how about building your own vacuum cleaner?\nThat'd be a piece of cake for you,\nwouldn't it, Luca-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08859",
+   "en": "(I was only half joking...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08860",
+   "en": "Okay, see you later, then.",
+   "flags": [],
+   "notes": "4 uses: the female player here, Claire in nml_cla and a Valentine sub-scene."
+  },
+  {
+   "id": "c08861",
+   "en": "(Luca-kun really is a genius...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08862",
+   "en": "(Okay, school's out.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08863",
+   "en": "Hey, Luca.\nWhat's up? Heading home now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08864",
+   "en": "Yes. Shall we walk home together?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08865",
+   "en": "Sounds good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08866",
+   "en": "By the way, did you finish the vacuum cleaner?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08867",
+   "en": "No. Once you actually start building one,\nit's hard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08868",
+   "en": "Getting strong suction and quiet operation\ntogether, making it lighter... I've got\na mountain of problems...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08869",
+   "en": "(Hasn't he kind of drifted away from\nwhat he set out to do?)",
+   "flags": [],
+   "notes": "The original goal was replacing the vacuum at home."
+  },
+  {
+   "id": "c08870",
+   "en": "Be sure to show me when it's done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08871",
+   "en": "Of course!\nI'll build the best vacuum cleaner in the world!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08872",
+   "en": "Ahaha, good luck with that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08873",
+   "en": "(It's great to be able to get so into something.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08874",
+   "en": "(School's finally out.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08875",
+   "en": "Hm? Luca-kun.\nWhat's up? Heading home now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08876",
+   "en": "(I promised Luca we'd do some training\ntogether today, but...)",
+   "flags": [],
+   "notes": "jishu-tore = voluntary training outside class."
+  },
+  {
+   "id": "c08877",
+   "en": "(Oh, there's Luca.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08878",
+   "en": "Hello, \\p-san.",
+   "flags": [],
+   "notes": "9 uses: Luca (both genders), and Shirakawa once in frd_myk."
+  },
+  {
+   "id": "c08879",
+   "en": "So, what should we start with today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08880",
+   "en": "Strength training, I'd say.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08881",
+   "en": "...Luca... Do you want to be all macho?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08882",
+   "en": "Th-that's not it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08883",
+   "en": "(A macho Luca, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08884",
+   "en": "You're stronger than you look.\nBench-pressing 40 kg...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08885",
+   "en": "I may not look it, but I am a pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08886",
+   "en": "I can't let you beat me.\nAll right, Luca, 50 kg!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08887",
+   "en": "A-are you sure about that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08888",
+   "en": "No problem!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08889",
+   "en": "Don't blame me for whatever happens...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08890",
+   "en": "Ow, ow...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08891",
+   "en": "I told you so~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08892",
+   "en": "I'll patch you up, so take off your shirt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08893",
+   "en": "Ow, ow, ow...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08894",
+   "en": "Sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08895",
+   "en": "Getting hurt while training is just silly,\nyou know. Do you understand?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08896",
+   "en": "You're absolutely right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08897",
+   "en": "Please reflect on this properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08898",
+   "en": "You've really got your head on straight, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08899",
+   "en": "I still have a long way to go.\nSo let's keep at it together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08900",
+   "en": "Good work today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08901",
+   "en": "I'm totally beat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08902",
+   "en": "Make sure you cool down properly.\nYou pushed yourself way too hard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08903",
+   "en": "Okay, got it.",
+   "flags": [],
+   "notes": "Also the male player in a scd_com scene."
+  },
+  {
+   "id": "c08904",
+   "en": "Well then, I'll head out first.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08905",
+   "en": "Yeah, see you next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08906",
+   "en": "(Now, I'll head home and give myself a massage...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08907",
+   "en": "(I promised Luca-kun we'd do some training\ntogether today, but...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c08841/c08857: L.A.I. giken rendered 'L.A.I.'s research labs' (no glossary entry for giken).",
+   "c08835: Deep Akihabara is 'provisional' in locations.json."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

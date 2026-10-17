@@ -1,0 +1,553 @@
+{
+ "slice": 42,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "pf_bob/005",
+   "en": "There!",
+   "flags": [
+    "uncertain",
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'atta!' (found it) makes little sense in the dodge/attack slot (Canaria's 005 is 'Useless!'); may be 'atari'/'hazure'. Neutral 'There!' chosen."
+  },
+  {
+   "id": "pf_bob/006",
+   "en": "Why, you little...!",
+   "flags": [],
+   "notes": "kono kuso! - Bobby's rough male register."
+  },
+  {
+   "id": "pf_bob/007",
+   "en": "How could this happen?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/008",
+   "en": "You're mocking me?!",
+   "flags": [],
+   "notes": "nameyagatte, rough register."
+  },
+  {
+   "id": "pf_bob/009",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Kiai shout 'ha!'."
+  },
+  {
+   "id": "pf_bob/010",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'rea' - an attack shout (likely 'orya!'), no words."
+  },
+  {
+   "id": "pf_bob/011",
+   "en": "",
+   "flags": [
+    "no_subtitle",
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'chaa chaa' (low confidence) - unintelligible shout."
+  },
+  {
+   "id": "pf_bob/012",
+   "en": "You bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/013",
+   "en": "That hurt, damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/014",
+   "en": "Son of a bitch!",
+   "flags": [],
+   "notes": "kon-chikushou-ga!"
+  },
+  {
+   "id": "pf_bob/015",
+   "en": "Oh my, looks like I got hit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/016",
+   "en": "It's nothing much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/017",
+   "en": "No problem here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/018",
+   "en": "You're not getting away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/019",
+   "en": "You're wide open.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "suki darake ne (full of openings) heard as 'suki daro ke ne'; Canaria's 020 is the same line."
+  },
+  {
+   "id": "pf_bob/020",
+   "en": "Your life is mine!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'tamaa morottaa'; read as tama moratta (slang: 'I'll take your life')."
+  },
+  {
+   "id": "pf_bob/100",
+   "en": "Let's begin the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/101",
+   "en": "Time to get this done!",
+   "flags": [],
+   "notes": "icchou yatte yaru ze, rough register."
+  },
+  {
+   "id": "pf_bob/102",
+   "en": "Let's get this party started!",
+   "flags": [],
+   "notes": "oppajimeru ze."
+  },
+  {
+   "id": "pf_bob/103",
+   "en": "Am I not good enough for you?",
+   "flags": [],
+   "notes": "Flirting with an enemy: 'not satisfied with me as your opponent?'"
+  },
+  {
+   "id": "pf_bob/104",
+   "en": "I'll keep your eyes glued on me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/105",
+   "en": "Come and get it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/106",
+   "en": "Go meet your maker!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'oujo senryaku' (princess strategy); read as oujou seiya! (yakuza 'die!') - a 3.3 s shout."
+  },
+  {
+   "id": "pf_bob/107",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "No speech detected; long shout."
+  },
+  {
+   "id": "pf_bob/108",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Shout 'doryaa!', no words."
+  },
+  {
+   "id": "pf_bob/109",
+   "en": "You're not much of a challenge.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/110",
+   "en": "How pathetic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/111",
+   "en": "Is that really your best?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/112",
+   "en": "What? Done already?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/113",
+   "en": "I'm sorry, but this is fate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/114",
+   "en": "You're no match for me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/115",
+   "en": "So, here they come.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'oide nasu to wa ne'; read as oide nasutta wa ne (so they've shown up)."
+  },
+  {
+   "id": "pf_bob/116",
+   "en": "So that's my date.",
+   "flags": [],
+   "notes": "Target sighted."
+  },
+  {
+   "id": "pf_bob/117",
+   "en": "Lucky you, catching my eye.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/118",
+   "en": "Looks like you couldn't handle my love.",
+   "flags": [],
+   "notes": "Target destroyed."
+  },
+  {
+   "id": "pf_bob/119",
+   "en": "A maiden should manage this much.",
+   "flags": [],
+   "notes": "otome no tashinami."
+  },
+  {
+   "id": "pf_bob/120",
+   "en": "All right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/121",
+   "en": "How dare you, my precious shield!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Particle: 'shiirudo wa' read as 'shiirudo wo'."
+  },
+  {
+   "id": "pf_bob/122",
+   "en": "Well, you've done it now.",
+   "flags": [],
+   "notes": "Shield destroyed."
+  },
+  {
+   "id": "pf_bob/123",
+   "en": "You're paying for that!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'besshaa shiro yo'; read as benshou shiro yo (pay me back for it) - shield destroyed slot."
+  },
+  {
+   "id": "pf_bob/124",
+   "en": "I don't mind a cheeky one.",
+   "flags": [],
+   "notes": "Light damage; namaiki na ko - gender of the enemy unknown."
+  },
+  {
+   "id": "pf_bob/125",
+   "en": "Oh dear, I got careless.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'aru yada' read as ara yada."
+  },
+  {
+   "id": "pf_bob/126",
+   "en": "That won't be enough to satisfy me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/127",
+   "en": "I'm not the type who enjoys pain.",
+   "flags": [],
+   "notes": "itametsukerarete yorokobu shumi wa nai."
+  },
+  {
+   "id": "pf_bob/128",
+   "en": "Doing whatever you please, are you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/129",
+   "en": "You're pretty good, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/130",
+   "en": "Ugh, you're so persistent!",
+   "flags": [
+    "uncertain",
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'iya, shinkuuki' (vacuum); guessed iya, shitsukoi (ugh, persistent) in the heavy-damage slot. Could also be 'shinjirarenai'."
+  },
+  {
+   "id": "pf_bob/131",
+   "en": "Is this what they call a tight spot?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/132",
+   "en": "Don't think a little thing like this means you've won!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/133",
+   "en": "Think you can do whatever you want?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/134",
+   "en": "Getting cocky, are you?!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'noriagatte' read as noriyagatte."
+  },
+  {
+   "id": "pf_bob/135",
+   "en": "Don't you dare look down on me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/136",
+   "en": "Am I about to become a star in the sky?",
+   "flags": [],
+   "notes": "Shot down; 'ohoshisama ni naru' = to die."
+  },
+  {
+   "id": "pf_bob/137",
+   "en": "I'll never forget your face, you bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/138",
+   "en": "Damn it! Is this the end?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/139",
+   "en": "Momentum alone won't cut it.",
+   "flags": [],
+   "notes": "To the partner in trouble."
+  },
+  {
+   "id": "pf_bob/140",
+   "en": "You're still green, aren't you?",
+   "flags": [],
+   "notes": "wakai wa ne, to the partner."
+  },
+  {
+   "id": "pf_bob/141",
+   "en": "Show some guts, damn it! Guts!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/142",
+   "en": "That's what you get for being so reckless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/143",
+   "en": "Honestly, you can't do a thing without me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/144",
+   "en": "Hurry up and eject!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/148",
+   "en": "Thanks for the reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/149",
+   "en": "Nice timing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/150",
+   "en": "Reinforcements now? Not bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/151",
+   "en": "No... they got shot down?",
+   "flags": [],
+   "notes": "Ally shot down; 'they' singular, identity unknown."
+  },
+  {
+   "id": "pf_bob/152",
+   "en": "I'm sorry I couldn't protect you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/153",
+   "en": "Don't get shot down without my permission!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/154",
+   "en": "This is how S.M.S. fights.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/155",
+   "en": "Heh. A woman risks her life for love and work alike.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/156",
+   "en": "I should be able to handle a mission like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/157",
+   "en": "Out of time? That's impossible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/158",
+   "en": "Oh no! We didn't make it in time?",
+   "flags": [],
+   "notes": "Subject 'we' (the team) restored."
+  },
+  {
+   "id": "pf_bob/159",
+   "en": "I won't accept it! Not an ending like this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/160",
+   "en": "An ending like this is just too cruel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/161",
+   "en": "The tragic heroine role really suits me, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/162",
+   "en": "Damn it all! I screwed up!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kuso ttara ka' read as kusottare ga."
+  },
+  {
+   "id": "pf_bob/163",
+   "en": "I'm counting on you for cover fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/164",
+   "en": "Go on, blast away!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'dandan' read as banban uchacchainasai (fire away freely)."
+  },
+  {
+   "id": "pf_bob/165",
+   "en": "Shoot 'em all up!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'uchimakicchatte' read as uchimakucchatte (keep shooting)."
+  },
+  {
+   "id": "pf_bob/166",
+   "en": "Charge in with all you've got!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3281 (pf_bob/005): Transcript 'atta!' (found it) makes little sense in the dodge/attack slot (Canaria's 005 is 'Useless!'); may be 'atari'/'hazure'. Neutral 'There!' chosen.",
+   "row 3327 (pf_bob/130): Heard 'iya, shinkuuki' (vacuum); guessed iya, shitsukoi (ugh, persistent) in the heavy-damage slot. Could also be 'shinjirarenai'."
+  ],
+  "whisper_doubt": [
+   "row 3281 (pf_bob/005): Transcript 'atta!' (found it) makes little sense in the dodge/attack slot (Canaria's 005 is 'Useless!'); may be 'atari'/'hazure'. Neutral 'There!' chosen.",
+   "row 3286 (pf_bob/010): Transcript 'rea' - an attack shout (likely 'orya!'), no words.",
+   "row 3287 (pf_bob/011): Transcript 'chaa chaa' (low confidence) - unintelligible shout.",
+   "row 3295 (pf_bob/019): suki darake ne (full of openings) heard as 'suki daro ke ne'; Canaria's 020 is the same line.",
+   "row 3296 (pf_bob/020): Heard 'tamaa morottaa'; read as tama moratta (slang: 'I'll take your life').",
+   "row 3303 (pf_bob/106): Heard 'oujo senryaku' (princess strategy); read as oujou seiya! (yakuza 'die!') - a 3.3 s shout.",
+   "row 3312 (pf_bob/115): Heard 'oide nasu to wa ne'; read as oide nasutta wa ne (so they've shown up).",
+   "row 3318 (pf_bob/121): Particle: 'shiirudo wa' read as 'shiirudo wo'.",
+   "row 3320 (pf_bob/123): Heard 'besshaa shiro yo'; read as benshou shiro yo (pay me back for it) - shield destroyed slot.",
+   "row 3322 (pf_bob/125): 'aru yada' read as ara yada.",
+   "row 3327 (pf_bob/130): Heard 'iya, shinkuuki' (vacuum); guessed iya, shitsukoi (ugh, persistent) in the heavy-damage slot. Could also be 'shinjirarenai'.",
+   "row 3331 (pf_bob/134): 'noriagatte' read as noriyagatte.",
+   "row 3356 (pf_bob/162): 'kuso ttara ka' read as kusottare ga.",
+   "row 3358 (pf_bob/164): 'dandan' read as banban uchacchainasai (fire away freely).",
+   "row 3359 (pf_bob/165): 'uchimakicchatte' read as uchimakucchatte (keep shooting)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,500 @@
+{
+ "slice": 189,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c13824",
+   "en": "Huh!? The pool...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13825",
+   "en": "Oh, come on, just come with me. That's an order!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13826",
+   "en": "Haaah~\nThis feeling of freedom really is nice. It's the best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13827",
+   "en": "Well, if we keep doing this without permission...\nand on top of that, you brought in a swimsuit\nlike that...",
+   "flags": [],
+   "notes": "ageku sonna mizugi mochikonde: she brought her own swimsuit instead of the class one."
+  },
+  {
+   "id": "c13828",
+   "en": "Oh my, \\p,\nyou're more of a chicken than I thought. Hee hee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13829",
+   "en": "I don't think this is about guts...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13830",
+   "en": "(Sheryl's bolder than I thought...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13831",
+   "en": "(Now, where should I take Sheryl-san today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13832",
+   "en": "\\p-chan!\nCome on, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13833",
+   "en": "Huh!? Go where?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13834",
+   "en": "Hmm, if we keep doing this without permission...\nand on top of that, you brought in a swimsuit\nlike that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13835",
+   "en": "Oh my, \\p-chan,\nyou're more of a chicken than I thought. Hee hee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13836",
+   "en": "(Sheryl-san sure is bolder than you'd think...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13837",
+   "en": "(So today I worked up the nerve to invite her\noff campus, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13838",
+   "en": "I'm leaving today's plans entirely up to you.\nMake sure you don't disappoint me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13839",
+   "en": "You're tough...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13840",
+   "en": "Come on, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13841",
+   "en": "Wow, it's got a nice kick, and it's delicious!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13842",
+   "en": "So this is the famous Nyan-Nyan. I've heard about it,\nbut this is my first time here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13843",
+   "en": "So this is the Sky Gate...\nSeeing it from the outside, it's really big. Amazing~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13844",
+   "en": "Phew...\nSo? What do you think of Island 1?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13845",
+   "en": "It's great. Everywhere is really interesting!\nWhere are we going next?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13846",
+   "en": "Huh? Next...?\nThen how about we go to Island 3?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13847",
+   "en": "Hee hee, come on, the fun's just starting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13848",
+   "en": "What, what, what? What is thiiis!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13849",
+   "en": "This is so fun! It's just like a fairyland!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13850",
+   "en": "The birds are singing, and the forest stretches\nout so far.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13851",
+   "en": "Everywhere is so interesting!\nFrontier really is a nice place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13852",
+   "en": "Hearing you say that makes me kind of happy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13853",
+   "en": "Back in the Galaxy fleet where I was born...\nNo, never mind.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Galaxy' = Sheryl's home fleet (Macross Galaxy fleet); written 'the Galaxy fleet' for clarity."
+  },
+  {
+   "id": "c13854",
+   "en": "Come on, we're only getting started!\nShow me lots more places!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13855",
+   "en": "Wha!? Seriously, no more...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13856",
+   "en": "(Phew, looks like I managed to satisfy her...\nI'm worn out, but it was fun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13857",
+   "en": "(So today I worked up the nerve to invite her\noff campus, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13858",
+   "en": "Sheryl-san, you're tough...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13859",
+   "en": "Phew...\nSo? What do you think of Island 1?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13860",
+   "en": "Huh? Next...?\nThen shall we go to Island 3?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13861",
+   "en": "Hearing you say that makes me kind of happy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13862",
+   "en": "(Phew, looks like I managed to satisfy her...\nI'm a little tired, but that was fun~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13863",
+   "en": "(So, is today another date with Sheryl...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13864",
+   "en": "Sorry to keep you waiting, \\p.\nI'm looking forward to today too. I'm counting on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13865",
+   "en": "Ah, don't expect so much from me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13866",
+   "en": "Hee hee, oh well. Let's hurry up and go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13867",
+   "en": "Haah~ Today was fun too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13868",
+   "en": "Glad to hear it.\nThough I took you to the same places as last time...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13869",
+   "en": "...Maybe the place isn't what matters...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13870",
+   "en": "Hm? Sheryl?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13871",
+   "en": "Never mind.\nWell then, thanks for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13872",
+   "en": "(What was Sheryl trying to say...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13873",
+   "en": "(Okay, another outing with Sheryl-san today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13874",
+   "en": "Sorry to keep you waiting, \\p-chan.\nI'm looking forward to today too. I'm counting on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13875",
+   "en": "I'm glad.\nThough I did take you to the same places as last time...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13876",
+   "en": "Hm? Sheryl-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13877",
+   "en": "(What's up with Sheryl-san?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13878",
+   "en": "(Today's my vacation on the artificial island\nwith Sheryl!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13879",
+   "en": "Hi~, \\p.\nDid you manage to sleep last night?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13880",
+   "en": "Well, how rude. That face of yours says\n\"I slept like a log~.\"",
+   "flags": [],
+   "notes": "She expected the player to be too excited to sleep."
+  },
+  {
+   "id": "c13881",
+   "en": "Well, yeah.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13882",
+   "en": "You'll never get another vacation with Sheryl,\nyou know. Be grateful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13883",
+   "en": "Well, whatever.\nNow, let's gooo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13884",
+   "en": "Sheryl's taking a while...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13885",
+   "en": "Sorry to keep you waiting. Tired of waiting yet?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13886",
+   "en": "Geez, how long does it take to change...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13887",
+   "en": "(Whoa... the Galactic Fairy...)",
+   "flags": [],
+   "notes": "ginga no yousei = Galactic Fairy (glossary)."
+  },
+  {
+   "id": "c13888",
+   "en": "Oh, would you stop giving me funny looks?\nThough I doubt you can see anyone but me anyway.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13889",
+   "en": "No, nothing like that...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x3: also in nml_yuu_014 (both genders) answering Akimizu's 'Is something strange?'; wording fits both."
+  },
+  {
+   "id": "c13890",
+   "en": "That's rude in its own way.\nWell, whatever. We're on the artificial island,\nafter all. Let's have fun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13891",
+   "en": "Wow, so this is the sea. It feels so good~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13892",
+   "en": "Hee hee, the waves tickle. Hee hee hee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13893",
+   "en": "Come on, \\p,\nyou come over here too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13894",
+   "en": "Why, you! Take thaaat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13895",
+   "en": "Hee hee hee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13896",
+   "en": "Phew, I'm tired~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13897",
+   "en": "What, already? How pathetic!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13898",
+   "en": "Geez, I'm no match for you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13899",
+   "en": "But it was fun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13900",
+   "en": "I wish every day could be like this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13901",
+   "en": "No, never mind...\nToday was fun. Thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13902",
+   "en": "No, I had fun too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13903",
+   "en": "(Sheryl seemed a little different from usual...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c13853: 'Galaxy' = Sheryl's home fleet (Macross Galaxy fleet); written 'the Galaxy fleet' for clarity.",
+   "c13889: x3: also in nml_yuu_014 (both genders) answering Akimizu's 'Is something strange?'; wording fits both."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

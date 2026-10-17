@@ -1,0 +1,387 @@
+{
+ "slice": 145,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c10605",
+   "en": "(Maybe I'll buckle down and actually\nstudy today.)",
+   "flags": [],
+   "notes": "Male, frd_myk_003."
+  },
+  {
+   "id": "c10606",
+   "en": "Oh, who's that studying over there...",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10607",
+   "en": "Heeey, Shirakawa~",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10608",
+   "en": "Ah...",
+   "flags": [],
+   "notes": "x4, Miyuki."
+  },
+  {
+   "id": "c10609",
+   "en": "You're studying too, Shirakawa?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10610",
+   "en": "Shh!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10611",
+   "en": "Please be quiet.\nEveryone here is trying to study...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10612",
+   "en": "Oh, sorry, sorry...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10613",
+   "en": "Are you here to study too?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10614",
+   "en": "Yeah, I've been goofing off way too much lately.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10615",
+   "en": "Still, I think it's admirable that you came\nto study of your own accord.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10616",
+   "en": "Now, a long chat will bother everyone\naround us, so let's study.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10617",
+   "en": "Hey, hey, Shirakawa.\nAbout this part here...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10618",
+   "en": "Umm, Shirakawa-saaan?",
+   "flags": [],
+   "notes": "Male; the Japanese adds -san (drawn out) for comic effect."
+  },
+  {
+   "id": "c10619",
+   "en": "Sigh~, she's totally focused...\nOh well, guess I'll tough it out on my own...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10620",
+   "en": "I'm so tired today.\nThe exam covers way too much...",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10621",
+   "en": "If you studied regularly,\nthis wouldn't happen, you know.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10622",
+   "en": "I have nothing to say in my defense...",
+   "flags": [],
+   "notes": "Male (formal kaesu kotoba mo gozaimasen, mock-humble)."
+  },
+  {
+   "id": "c10623",
+   "en": "What do you wanna do after this?\nWanna go get something to eat?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10624",
+   "en": "Yes, let's go.",
+   "flags": [],
+   "notes": "x2, Miyuki (ikimashou ka)."
+  },
+  {
+   "id": "c10625",
+   "en": "Is there anywhere you want to go?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10626",
+   "en": "No, not particularly...\nWell, let me see, um...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10627",
+   "en": "Oh, that thing from the other day...\nThe bread with the stuffed meat in it...",
+   "flags": [],
+   "notes": "x2, Miyuki, groping for the word; nikuzume = stuffed meat (a sausage)."
+  },
+  {
+   "id": "c10628",
+   "en": "Stuffed meat...... You mean a hot dog?",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c10629",
+   "en": "Yes, I'd like to have one of those again.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10630",
+   "en": "So you got hooked, Shirakawa~\nOn how tasty they are.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10631",
+   "en": "Maybe I did!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10632",
+   "en": "Then let's go!",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c10633",
+   "en": "(Shirakawa seems like a proper young lady,\nbut she's just a normal girl after all.)",
+   "flags": [],
+   "notes": "Male. ojousama = proper young lady."
+  },
+  {
+   "id": "c10634",
+   "en": "(Maybe I'll actually study seriously today~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10635",
+   "en": "Heeey, Miyuki~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10636",
+   "en": "Are you studying too, Miyuki?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10637",
+   "en": "Ahaha, sorry, sorry...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10638",
+   "en": "Yeah, I've been goofing off way too much lately.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10639",
+   "en": "Yeah, time to buckle down!",
+   "flags": [],
+   "notes": "Female (ganbarou tto, said to herself)."
+  },
+  {
+   "id": "c10640",
+   "en": "Hey, hey, Miyuki...\nAbout this part here...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10641",
+   "en": "Umm, Miyuki-saaan?",
+   "flags": [],
+   "notes": "Female; -san as in the Japanese."
+  },
+  {
+   "id": "c10642",
+   "en": "Sigh~, she's totally focused...\nOh well, I'll just do my best on my own...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10643",
+   "en": "Ahahaha...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10644",
+   "en": "What do you wanna do after this?\nWanna go get something to eat?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10645",
+   "en": "Is there anywhere you want to go, Miyuki?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10646",
+   "en": "So you got hooked too, Miyuki~\nOn how tasty they are.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10647",
+   "en": "(Miyuki seems like a proper young lady,\nbut she's just a normal girl after all.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10648",
+   "en": "(Studying in the library always seems\nto go so much better~)",
+   "flags": [],
+   "notes": "x2, both genders, library scene."
+  },
+  {
+   "id": "c10649",
+   "en": "Studying hard, are we,\n\\p-kun?",
+   "flags": [],
+   "notes": "Miyuki to the male player."
+  },
+  {
+   "id": "c10650",
+   "en": "Hey, Shirakawa.\nNot exactly hard, but I'm doing homework...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10651",
+   "en": "What brings you here, Shirakawa?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10652",
+   "en": "I came to borrow a book.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10653",
+   "en": "...Hey, if you don't mind,\ncould you help me study?",
+   "flags": [],
+   "notes": "x2, player asking Miyuki to teach them."
+  },
+  {
+   "id": "c10654",
+   "en": "Me?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10655",
+   "en": "Please, I'm begging you!\nI'll never ask for anything again!",
+   "flags": [],
+   "notes": "x2, player (isshou no onegai)."
+  },
+  {
+   "id": "c10656",
+   "en": "Sigh... Just for today, all right?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10657",
+   "en": "You really saved me, Shirakawa.\nThat was super easy to understand.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10658",
+   "en": "So it's not just sports you're good at, huh.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10659",
+   "en": "I-I'm going home now!",
+   "flags": [],
+   "notes": "x2, Miyuki, flustered."
+  },
+  {
+   "id": "c10660",
+   "en": "(She left...\nAnd I was going to treat her to a meal\nas thanks.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10661",
+   "en": "Studying hard, are we,\n\\p-san?",
+   "flags": [],
+   "notes": "Miyuki to the female player."
+  },
+  {
+   "id": "c10662",
+   "en": "Hi, Miyuki~\nI was just doing my homework.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10663",
+   "en": "What brings you to the library, Miyuki?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10664",
+   "en": "Miyuki, you really saved me~\nThat was super easy to understand.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10665",
+   "en": "So it's not just sports you're good at, huh.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10666",
+   "en": "(She left...\nAnd I was going to treat her to a meal\nas thanks.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c10655: isshou no onegai rendered 'Please, I'm begging you! / I'll never ask for anything again!' (two lines, one row)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,398 @@
+{
+ "slice": 84,
+ "rows_in_slice": 63,
+ "rows_examined": 63,
+ "rows": [
+  {
+   "id": "c06222",
+   "en": "(Aw man, my shoelace snapped...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06223",
+   "en": "(\"Hard to walk\" doesn't even begin\nto cover it.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06224",
+   "en": "Sigh, today's just not my day...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06225",
+   "en": "What's wrong,\n\\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06226",
+   "en": "Standing around in a place like this...\nWhat on earth is the matter?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06227",
+   "en": "Actually, my shoelace snapped,\nand I didn't know what to do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06228",
+   "en": "Hm. Wait a moment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06229",
+   "en": "Are you out shopping too, Sensei?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The name plate says Yamashiro, but the line is the player's question (the female version has the same line, c06262, under the player, and Yamashiro answers it in c06235). Translated as the player's line."
+  },
+  {
+   "id": "c06230",
+   "en": "Here it is.\nA spare shoelace. Use it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06231",
+   "en": "...A spare?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06232",
+   "en": "That's right.\nThe color seems fine too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06233",
+   "en": "...Thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06234",
+   "en": "(Do people normally carry spare\nshoelaces...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06235",
+   "en": "Hm?\nNo, some new books came in at the\nlibrary, so I went to see them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06236",
+   "en": "Huh... That's just like you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06237",
+   "en": "And you're out shopping alone, are you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06238",
+   "en": "Couldn't you invite even one friend?\nYou're as lonely as ever.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06239",
+   "en": "Hm?\nWhat's that sound?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06240",
+   "en": "It sounds like a cat meowing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06241",
+   "en": "Over there, is it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06242",
+   "en": "Poor thing, it's shivering...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06243",
+   "en": "Stuck in a place like this, and no collar...\nSensei, does this mean...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06244",
+   "en": "It's safe to conclude that\nit's an abandoned cat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06245",
+   "en": "Who would do something like this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06246",
+   "en": "If you can't care for an animal to the end,\nyou have no business keeping one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06247",
+   "en": "Much less a kitten like this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06248",
+   "en": "(Yamashiro-sensei is angry...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06249",
+   "en": "Hey, little one.\nWhere's your mother?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06250",
+   "en": "Is she gone?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06251",
+   "en": "Then, do you want to come with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06252",
+   "en": "There, there... You must've been cold.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06253",
+   "en": "Sensei, are you going to keep that kitten?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06254",
+   "en": "Yes. You couldn't just leave it there\neither, could you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06255",
+   "en": "That's true...",
+   "flags": [],
+   "notes": "Shared: the player here and Akimizu agreeing about Sheryl in nml_yuu_018. Neutral."
+  },
+  {
+   "id": "c06256",
+   "en": "I live a lonely life on my own anyway.\nGaining a family member suits me fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06257",
+   "en": "(Good thing it found a kind owner.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06258",
+   "en": "(Oh no, my shoelace snapped...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06259",
+   "en": "(Ugh, what a pain... Seriously...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06260",
+   "en": "Phew, today's just not my day...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06261",
+   "en": "(Does anyone normally carry spare\nshoelaces...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06262",
+   "en": "Are you out shopping too, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06263",
+   "en": "Poor thing... It's shivering...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06264",
+   "en": "Sensei, are you going to keep the kitten?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06265",
+   "en": "(Good thing you found a kind owner,\nkitty.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06266",
+   "en": "(This is where that cat was abandoned...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06267",
+   "en": "Oh, Yamashiro-sensei!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06268",
+   "en": "What are you doing in a place like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06269",
+   "en": "Oh, the cat from the other day crossed\nmy mind, so I just sort of came by.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06270",
+   "en": "Hm. That cat is lazing around\nat my place again today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06271",
+   "en": "Oh, I see. That's good to hear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06272",
+   "en": "What about you, Sensei?\nWhat brings you here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06273",
+   "en": "Much the same, I suppose.\nI came to see if its mother\nmight be around.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06274",
+   "en": "Even though I know she couldn't\npossibly be here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06275",
+   "en": "Oh, I see.",
+   "flags": [],
+   "notes": "Shared with frd_itk_007 (both genders), after Yamashiro explains a real find is never easy to spot."
+  },
+  {
+   "id": "c06276",
+   "en": "And don't you stay out too late either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06277",
+   "en": "Yes, I know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06278",
+   "en": "See you later, then.",
+   "flags": [],
+   "notes": "Shared: Yamashiro here and Kagura in nml_kgr_001. Neutral."
+  },
+  {
+   "id": "c06279",
+   "en": "(Sensei's looking for the mother cat, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06280",
+   "en": "(This is where that kitty was abandoned...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06281",
+   "en": "Oh, the kitty from the other day crossed\nmy mind, so I just sort of came by...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06282",
+   "en": "Oh, I see. That's good to hear~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06283",
+   "en": "Oh, I see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06284",
+   "en": "(So Sensei's looking for the mother cat.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c06229: name plate Yamashiro, but it is the player's question 'Are you out shopping too, Sensei?' (female twin c06262 is under the player; Yamashiro answers in c06235). Translated as the player's line; the plate may be a script bug.",
+   "c06250 'inai no ka?' given the subject 'she' (the mother cat Yamashiro just asked the kitten about).",
+   "c06274: 'she' for the mother cat (oyaneko).",
+   "c06235: toshokan (a public library, not the school's toshoshitsu) rendered 'the library'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

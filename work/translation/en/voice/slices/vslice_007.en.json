@@ -1,0 +1,519 @@
+{
+ "slice": 7,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "of_ktr/612",
+   "en": "Pursue them at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/613",
+   "en": "It seems the enemy has fled into the Macross's city.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/613",
+   "en": "The enemy fled into the Macross's city!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/614",
+   "en": "Move swiftly to the designated target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/614",
+   "en": "Move quickly to the designated target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/615",
+   "en": "Destroy all targets within the time limit, then move to the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/615",
+   "en": "Destroy all targets within the time limit, then move to the target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/616",
+   "en": "Would you destroy as many enemy units as you can within the time limit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/616",
+   "en": "Destroy as many enemy units as you can in the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/617",
+   "en": "Would you destroy only enemy units within the time limit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/617",
+   "en": "Destroy only enemy units within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/618",
+   "en": "Would you destroy all targets within the time limit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/618",
+   "en": "Destroy all targets within the time limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/619",
+   "en": "Would you shoot down the enemy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/619",
+   "en": "Shoot down the enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/620",
+   "en": "Citizens are about to be abducted. Rescue them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/620",
+   "en": "Citizens are about to be abducted! Rescue them at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/621",
+   "en": "Skull 3 has been captured by an enemy ship. Infiltrate the ship and rescue them.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Sukarosurii heard for Sukaru Surii (Skull 3)."
+  },
+  {
+   "id": "of_ktr/621",
+   "en": "Skull 3 has been captured by an enemy ship! Infiltrate it and rescue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/622",
+   "en": "Skull 3 appears to be held deep inside the enemy ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/622",
+   "en": "Skull 3 seems to be held deep inside the enemy ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/623",
+   "en": "Commencing the operation using Ranka Lee's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/623",
+   "en": "Starting the operation using Ranka Lee's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/624",
+   "en": "I see no damage to the Vajra from shooting weapons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/624",
+   "en": "Shooting weapons aren't doing any damage to the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/625",
+   "en": "Container recovery is complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/625",
+   "en": "Container recovery's complete!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/626",
+   "en": "The citizen rescue is complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/626",
+   "en": "Citizen rescue complete!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/628",
+   "en": "This is Delta 1. Launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/628",
+   "en": "This is Delta 1. Launch when ready.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/630",
+   "en": "It seems Ranka Lee's song has stopped the Vajra attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/630",
+   "en": "Ranka Lee's song has stopped the Vajra attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/631",
+   "en": "Would you stop the idle chatter and concentrate on the battle?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/631",
+   "en": "Stop the idle chatter and focus on the battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/632",
+   "en": "Defold reaction confirmed.",
+   "flags": [],
+   "notes": "defooruto = defold (exit from a fold)."
+  },
+  {
+   "id": "of_ktr/632",
+   "en": "Defold reaction!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/633",
+   "en": "An enemy ship has folded in.",
+   "flags": [],
+   "notes": "defooruto = defold, worded 'folded in' as the other operators."
+  },
+  {
+   "id": "of_ktr/633",
+   "en": "An enemy ship just folded in!",
+   "flags": [],
+   "notes": "Whisper flagged nospeech, but the transcript fits the line; kept."
+  },
+  {
+   "id": "o7_exd/634",
+   "en": "It has been a long while. I am counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/634",
+   "en": "Long time no see. I'm counting on you again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/901",
+   "en": "2059, 49 years after mankind's first interstellar war. Macross Frontier, the 25th giant emigrant fleet, sails near the galactic core: an artificial Earth for over 10 million.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "seikan sensou heard as Seikan (place name); read as seikan sensou 'interstellar war'. Compressed to fit the 178-byte limit. Fleet number 25th as spoken; the glossary Frontier fleet entry is needs_check over 21st vs 25th."
+  },
+  {
+   "id": "of_ktr/902",
+   "en": "The Macross Galaxy fleet also sailed nearby, and the two fleets kept up exchanges.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/903",
+   "en": "Then Sheryl Nome, the diva called the Galactic Fairy, came from Galaxy to Frontier on a live tour. A new threat to humanity began to stir from there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1000",
+   "en": "Enemy fighters sighted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1000",
+   "en": "Enemy fighters sighted!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1001",
+   "en": "Enemy sighted. Anti-U.N. Forces aircraft, it seems.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "tekii 'hostility' heard for tekiei 'enemy contact'."
+  },
+  {
+   "id": "of_ktr/1001",
+   "en": "Enemy sighted. They're Anti-U.N. Forces aircraft.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "tekii 'hostility' heard for tekiei 'enemy contact'."
+  },
+  {
+   "id": "o7_exd/1002",
+   "en": "Anti-U.N. Forces variable fighters, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1002",
+   "en": "They're Anti-U.N. Forces variable fighters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1003",
+   "en": "Begin mock combat as soon as you enter the exercise area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1003",
+   "en": "Begin mock combat once you enter the exercise area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1004",
+   "en": "It seems a suspected AFOS fragment has been found.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "tougoushiki heard for to oboshiki 'suspected'."
+  },
+  {
+   "id": "of_ktr/1004",
+   "en": "A suspected AFOS fragment has been found.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1005",
+   "en": "Would you defend the carrier Asuka?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1005",
+   "en": "Defend the carrier Asuka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1006",
+   "en": "Would you search the target point?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1006",
+   "en": "Search the target point.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1007",
+   "en": "An AFOS fragment has been found! Recover it at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1007",
+   "en": "AFOS fragment found. Recover it immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1008",
+   "en": "Operation Iconoclasm has been launched.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Ikonokurasumo heard for Ikonokurasumu (Operation Iconoclasm)."
+  },
+  {
+   "id": "of_ktr/1008",
+   "en": "Operation Iconoclasm has been launched!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Ikorokurasumu heard for Ikonokurasumu (Operation Iconoclasm)."
+  },
+  {
+   "id": "o7_exd/1009",
+   "en": "Annihilate AFOS at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1009",
+   "en": "Annihilate AFOS immediately!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1010",
+   "en": "Enemy contacts confirmed underwater.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1010",
+   "en": "Enemy contacts confirmed underwater.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1011",
+   "en": "Enemy reinforcements from underwater, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1011",
+   "en": "Enemy reinforcements from underwater!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1013",
+   "en": "Enemy reinforcements. U.N. Forces variable fighters, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1013",
+   "en": "Enemy reinforcements. U.N. Forces variable fighters!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1014",
+   "en": "Enemy aircraft confirmed. U.N. Forces craft, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1014",
+   "en": "Enemy aircraft confirmed. U.N. Forces craft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1015",
+   "en": "Destroy the Bird Human at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1015",
+   "en": "Destroy the Bird Human at all costs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1016",
+   "en": "Anti-U.N. Forces mobile fleet confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1016",
+   "en": "Anti-U.N. Forces mobile fleet confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1017",
+   "en": "Enemy variable fighters are coming.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1017",
+   "en": "Enemy variable fighters incoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1019",
+   "en": "The target appears to have splashed down at sea, 30 km ahead of our ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1019",
+   "en": "Target appears to have splashed down at sea, 30 km ahead of our ship.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 522 of_ktr/901: seikan sensou heard as Seikan (place name); read as seikan sensou 'interstellar war'. Compressed to fit the 178-byte limit. Fleet number 25th as spoken; the glossary Frontier fleet entry is needs_check over 21st vs 25th."
+  ],
+  "whisper_doubt": [
+   "row 498 o7_exd/621: Sukarosurii heard for Sukaru Surii (Skull 3).",
+   "row 522 of_ktr/901: seikan sensou heard as Seikan (place name); read as seikan sensou 'interstellar war'. Compressed to fit the 178-byte limit. Fleet number 25th as spoken; the glossary Frontier fleet entry is needs_check over 21st vs 25th.",
+   "row 527 o7_exd/1001: tekii 'hostility' heard for tekiei 'enemy contact'.",
+   "row 528 of_ktr/1001: tekii 'hostility' heard for tekiei 'enemy contact'.",
+   "row 533 o7_exd/1004: tougoushiki heard for to oboshiki 'suspected'.",
+   "row 541 o7_exd/1008: Ikonokurasumo heard for Ikonokurasumu (Operation Iconoclasm).",
+   "row 542 of_ktr/1008: Ikorokurasumu heard for Ikonokurasumu (Operation Iconoclasm)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

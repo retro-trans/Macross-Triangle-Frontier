@@ -1,0 +1,502 @@
+{
+ "slice": 311,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c22426",
+   "en": "(Yes~! We won!!)",
+   "flags": [],
+   "notes": "Team events (tug-of-war, ball toss): \"we\". x6 across both genders."
+  },
+  {
+   "id": "c22427",
+   "en": "We did it, \\p-san!\nNow I can prove to Nanase-san\nthat I'm not a weakling!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22428",
+   "en": "Only natural.\nWhen we join forces, there's nothing\nwe can't do!",
+   "flags": [],
+   "notes": "Kagura (Yuuto) speaking."
+  },
+  {
+   "id": "c22429",
+   "en": "Wowww, that was amazing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22430",
+   "en": "I'm... so moved, I'm about to cry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22431",
+   "en": "(More than anything, I'm happy\nwe won by all pulling together...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22432",
+   "en": "We lost by a hair...\nNow I've ended up looking uncool\nin front of Nanase-san instead...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22433",
+   "en": "What were we missing?!\nDammit! Dammiiiiiit!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22434",
+   "en": "Everyone, please don't be so down.\nYou lost this time, but next time\nyou'll win for sure!",
+   "flags": [],
+   "notes": "Akimizu is a spectator: \"you\" for the team."
+  },
+  {
+   "id": "c22435",
+   "en": "(I really thought we'd win...\nI'll train hard so I definitely\ndon't lose at the next Sports Day!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22436",
+   "en": "Got it, the ball toss.\nI'll take care of the entry,\nso go warm up or something.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22437",
+   "en": "Oh, \\p,\nyou're in the ball toss too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22438",
+   "en": "With me here, every single throw's going in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22439",
+   "en": "R-right!\nThe ball toss is something even I can enter,\nso I-I'll do my best!",
+   "flags": [],
+   "notes": "Pinon (small; ball toss is one event she can join)."
+  },
+  {
+   "id": "c22440",
+   "en": "Good luck, everyone.\nWe'll be cheering you on with all we've got!",
+   "flags": [],
+   "notes": "Shirakawa (Miyuki), speaking for the spectators."
+  },
+  {
+   "id": "c22441",
+   "en": "I'm worried someone might get hurt...\nPlease be careful not to get injured, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22442",
+   "en": "Only natural.\nThis is what happens when you and I get serious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22443",
+   "en": "We did it! We did it!\nI was a little bit of help too, you know!\nDid you see? Of course you saw, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22444",
+   "en": "Just what I'd expect from you all.\nYou made cheering so worth it, we got all\nfired up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22445",
+   "en": "That was really amazing, everyone.\nMaybe it's thanks to \\p-kun being there?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22446",
+   "en": "Can't believe we actually lost...\nIt might rain missiles tomorrow.",
+   "flags": [],
+   "notes": "Idiom ashita wa yari ga furu adapted by the source to missiles; kept."
+  },
+  {
+   "id": "c22447",
+   "en": "No way... after all that effort...\nWe didn't really lose... did we?\nUuu......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22448",
+   "en": "So close...\nIt came down to such a tiny gap,\nthat makes it all the more disappointing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22449",
+   "en": "You lost this time,\nbut next time you'll win for sure!",
+   "flags": [],
+   "notes": "Nanase is a spectator: \"you\"."
+  },
+  {
+   "id": "c22450",
+   "en": "(I'll train hard so I definitely\ndon't lose at the next Sports Day!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22451",
+   "en": "(Phew~ Sports Day's finally over.\nI'm beat, but it was exciting and really fun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22452",
+   "en": "(I hope next year's Sports Day is\neven more fun than this year's.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22453",
+   "en": "(All right, today's Sports Day!\nI'm gonna do my best to shine too!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22454",
+   "en": "(I'm gonna do my best to take first place!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22455",
+   "en": "Yo, Fresh Girl.\nI'm going all out too, so brace yourself.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Furesshu gaaru: \"Fresh Girl\", female twin of \"Fresh Boy\" (c22399)."
+  },
+  {
+   "id": "c22456",
+   "en": "(I can't lose to Saotome-kun or Luis-san.\nI'm winning this, just watch!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22457",
+   "en": "(Yes~! First place!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22458",
+   "en": "So you made it over the wall that is me...\nNot bad, Fresh Girl.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22459",
+   "en": "(I actually beat Saotome-kun and Luis-san.\nI'm so happy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22460",
+   "en": "(I'd better keep up my training so I can\nwin at next year's Sports Day too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22461",
+   "en": "(No way, I was so close to winning...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22462",
+   "en": "(All right! I'd better do my best too!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22463",
+   "en": "(All right! I'm winning this, just watch!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22464",
+   "en": "(Yes~! We won!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22465",
+   "en": "(More than anything, I'm happy\nwe won by all pulling together...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22466",
+   "en": "(I really thought we'd win...\nI'll train hard so I definitely\ndon't lose at the next Sports Day!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22467",
+   "en": "That was really amazing, everyone.\nMaybe it's thanks to \\p-san being there?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22468",
+   "en": "(Phew~ Sports Day's finally over.\nI'm beat, but it was exciting and really fun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22469",
+   "en": "(I hope next year's Sports Day is\neven more fun than this year's.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22470",
+   "en": "(All right! I'm gonna enjoy this year's\nChristmas party even more than last year's!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22471",
+   "en": "(Guess I'll head straight to the party venue.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22472",
+   "en": "(All right! I'm gonna enjoy this year's\nChristmas party even more than last year's!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22473",
+   "en": "(Guess I'll head straight to the party venue.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22474",
+   "en": "(I've gotta enjoy today's Christmas party\neven more than last year's.)",
+   "flags": [],
+   "notes": "x7: shared by several male-player Christmas partner scenes."
+  },
+  {
+   "id": "c22475",
+   "en": "(I'm supposed to meet Yuuto at the school gate...)",
+   "flags": [],
+   "notes": "Male player calls him Yuuto (given name) here; the female version uses Kagura-kun."
+  },
+  {
+   "id": "c22476",
+   "en": "Hey, \\p.\nMerry Christmas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22477",
+   "en": "Merry Christmas, Yuuto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22478",
+   "en": "I've been looking forward to this year's\nChristmas party too. Let's all make it\neven livelier than last year!",
+   "flags": [],
+   "notes": "Also the Luca scene (male player)."
+  },
+  {
+   "id": "c22479",
+   "en": "I wouldn't mind spending it with just you, though...",
+   "flags": [],
+   "notes": "Kagura, to the player; shared by the male- and female-player scenes, so no gendered wording."
+  },
+  {
+   "id": "c22480",
+   "en": "N-never mind. Come on, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22481",
+   "en": "Man~ that was fun again this year~",
+   "flags": [],
+   "notes": "x13, used after many partner scenes of both genders."
+  },
+  {
+   "id": "c22482",
+   "en": "But I never expected Yamashiro-sensei\nto show up dressed as Santa.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22483",
+   "en": "It really was a great Christmas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22484",
+   "en": "I think so too.\nNext year, all of us together like this again...\nOr maybe next year, a party for just the two of us?",
+   "flags": [],
+   "notes": "Kagura teasing the player; shared by both genders."
+  },
+  {
+   "id": "c22485",
+   "en": "...Just kidding.\nWell, see you next year! Have a happy New Year!",
+   "flags": [],
+   "notes": "Yoi otoshi wo: year-end greeting, \"Have a happy New Year!\"."
+  },
+  {
+   "id": "c22486",
+   "en": "Yeah, see you next year...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22487",
+   "en": "(I'm glad I got to have a fun Christmas...\nbut Yuuto's last remark kind of surprised me.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22488",
+   "en": "(I've gotta enjoy today's Christmas party\neven more than last year's.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22489",
+   "en": "(I'm supposed to meet Kagura-kun\nat the school gate...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22490",
+   "en": "Yo, \\p.\nMerry Christmas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22491",
+   "en": "Merry Christmas, Kagura-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22492",
+   "en": "I've been looking forward to this year's\nChristmas party too. Let's all make it\neven livelier than last year!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22493",
+   "en": "Wow~ that was fun again this year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22494",
+   "en": "Yeah, see you next year...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22495",
+   "en": "(I'm glad I got to have a fun Christmas...\nbut Kagura-kun's last remark kind of surprised me.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22496",
+   "en": "(It's Christmas again already this year.\nTime sure flies...)",
+   "flags": [],
+   "notes": "x6, several male-player partner scenes."
+  },
+  {
+   "id": "c22497",
+   "en": "(I ended up going to the Academy's Christmas\nparty with Gary-sensei, but...)",
+   "flags": [],
+   "notes": "Shared male/female (Gary scene)."
+  },
+  {
+   "id": "c22498",
+   "en": "Yo, \\p!\nMerry Christmas!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22499",
+   "en": "Ah, Gary-sensei!\nMerry Christmas!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22500",
+   "en": "Still, asking me along shows you've got promise.\nSince you're spending it with me,\nI'll make it the best Christmas ever!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22501",
+   "en": "Huh!? Th-thank you very much!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22502",
+   "en": "All right, let's go storm that party!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22503",
+   "en": "Yo, \\p!\nSo, how was the Christmas party?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22504",
+   "en": "Sensei, that was cruel,\nditching me the moment we walked in...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22505",
+   "en": "Hm!?\n...Ah, sorry, sorry.\n...I just kinda... you know...",
+   "flags": [],
+   "notes": "Gary trails off (got distracted at the party); kept unfinished."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c22455/c22458: Luis's furesshu gaaru kept as 'Fresh Girl' to pair with 'Fresh Boy' (slice 310); no glossary entry.",
+   "c22426/c22464: kattazo (no subject) read as 'We won!!' since the lines close the team events (tug-of-war, ball toss); the 100m dash uses its own 'First place!!' lines."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Fresh Girl / Fresh Boy (Luis's nickname for the player)"
+  ],
+  "unfinished": []
+ }
+}

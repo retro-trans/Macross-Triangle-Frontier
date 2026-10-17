@@ -1,0 +1,407 @@
+{
+ "slice": 230,
+ "rows_in_slice": 65,
+ "rows_examined": 65,
+ "rows": [
+  {
+   "id": "c16733",
+   "en": "(...I'm hungry. Maybe I'll go buy a late-night snack.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16734",
+   "en": "\\p...\nWhat are you doing out this late at night?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16735",
+   "en": "Yamashiro-sensei!\nWhat are you doing out at this hour, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16736",
+   "en": "I'm on my way home from a drinking party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16737",
+   "en": "...With Gary-sensei and the others?\nYou don't look drunk, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16738",
+   "en": "Of course not. I didn't drink.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16739",
+   "en": "If I got drunk too, who would look after that lot?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16740",
+   "en": "...They're that bad...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16741",
+   "en": "It's hardly something fit for anyone to see...\nNow then, hurry home and get to bed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16742",
+   "en": "(...I wonder what Gary-sensei and the others'\ndrinking parties are like.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16743",
+   "en": "(...This area got pretty wrecked too, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16744",
+   "en": "\\p.\nThis area's supposed to be off-limits.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16745",
+   "en": "Y-Yamashiro-sensei!\nWhat are you doing here yourself, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16746",
+   "en": "I was asked to carry out a survey.\nI'm here on duty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16747",
+   "en": "But with this much destruction,\nrebuilding the fleet will be difficult...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16748",
+   "en": "What do you mean by that...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16749",
+   "en": "...It means the time left to the Frontier fleet\nis very short.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16750",
+   "en": "Time left...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16751",
+   "en": "Now, enough idle talk.\nFor now, go home and get some proper rest.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16752",
+   "en": "(...What's going to happen to Frontier...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16753",
+   "en": "(...This area got pretty badly wrecked too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16754",
+   "en": "(Tests are finally over~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16755",
+   "en": "What's the matter,\n\\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16756",
+   "en": "Yamashiro-sensei...\nNow that tests are over, I just feel all drained...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16757",
+   "en": "I suppose you tried to scrape by\nwith an all-night cram session?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16758",
+   "en": "Gulp!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16759",
+   "en": "Knowledge thrown together in a rush is useless\nwhen you really need it. Do you understand that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16760",
+   "en": "When your tests are returned, try solving them again.\nYou'll see just how little has actually sunk in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16761",
+   "en": "(Yamashiro-sensei sure is strict\nwhen it comes to studying...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16762",
+   "en": "(I'll just have cup ramen for dinner.\nCooking's such a hassle, after all.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16763",
+   "en": "\\p.\nHeading home now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16764",
+   "en": "Yes. I bought cup ramen, so that's my dinner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16765",
+   "en": "...What?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16766",
+   "en": "Is something wrong, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16767",
+   "en": "You eat that kind of unhealthy stuff?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16768",
+   "en": "It's fine, the noodles aren't fried.\nAnd it's the kind with lots of veggies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16769",
+   "en": "Honestly, you're still young.\nWhy not learn to cook at least one dish?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16770",
+   "en": "What about you, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16771",
+   "en": "However tired I am when I get home,\nI make my own meals.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16772",
+   "en": "In any case, you mustn't eat only that sort of thing.\nUnderstood?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16773",
+   "en": "Y-yes! I'll be careful from now on!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16774",
+   "en": "(Maybe I'll try learning to cook...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16775",
+   "en": "(Cup ramen for dinner should be fine, right?\nCooking's such a hassle, after all.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16776",
+   "en": "Ehehe... What about you, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16777",
+   "en": "(Crap, I headed to the wrong classroom...!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16778",
+   "en": "Whoa...",
+   "flags": [],
+   "notes": "x4: also Kagura in nml_kgr_008 (same collision scene)."
+  },
+  {
+   "id": "c16779",
+   "en": "S-sorry, Yamashiro-sensei!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16780",
+   "en": "Are you all right yourself?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16781",
+   "en": "Yes, thanks to you.\nAh, your glasses...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Whose glasses is unstated; the next player monologue (first time seeing his bare face) settles it as Yamashiro's."
+  },
+  {
+   "id": "c16782",
+   "en": "Hm... No problem.\nDon't run in the halls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16783",
+   "en": "(...That's the first time I've seen\nYamashiro-sensei without his glasses.)",
+   "flags": [],
+   "notes": "'sugao' (bare face) rendered as 'without his glasses'."
+  },
+  {
+   "id": "c16784",
+   "en": "(Yikes, I headed to the wrong classroom...!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16785",
+   "en": "Kyaah!",
+   "flags": [],
+   "notes": "x4: female collision yelp, also nml_kgr_008, nml_myk_008, nml_rnk_008."
+  },
+  {
+   "id": "c16786",
+   "en": "(Lunch break is here! What should I eat?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16787",
+   "en": "Yamashiro-sensei, are you having lunch?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16788",
+   "en": "Yes, that's right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16789",
+   "en": "What are you going to eat?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16790",
+   "en": "There's a place nearby that serves grilled fish,\nso I plan to go there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16791",
+   "en": "That sounds great!\nI want some too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16792",
+   "en": "Not you.\nIt takes at least 30 minutes for the food to come out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16793",
+   "en": "Lunch break would be about over by then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16794",
+   "en": "Exactly.\nBe a good student and go to the school store.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16795",
+   "en": "(Aww, too bad!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16796",
+   "en": "That sounds great!\nI want to eat there too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16797",
+   "en": "Not you.\nIt's a place where the food takes at least 30 minutes.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c16781: Whose glasses is unstated; the next player monologue (first time seeing his bare face) settles it as Yamashiro's."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

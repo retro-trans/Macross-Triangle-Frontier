@@ -1,0 +1,513 @@
+{
+ "slice": 52,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p2_slv/308",
+   "en": "I'm expecting a lot from you, so give it your best.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/309",
+   "en": "There's no way we'll fail. I'm with you, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/310",
+   "en": "I can trust you to watch my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/311",
+   "en": "I'm relying on you, so live up to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/320",
+   "en": "With skills like that, you'll get yourself killed someday.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/321",
+   "en": "I'm appalled. I never thought you'd be this useless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/322",
+   "en": "Goodbye. Our partnership ends here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/323",
+   "en": "Operation successful. We're heading back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/324",
+   "en": "Well done. Keep it up like this next time, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/325",
+   "en": "I'm glad you made it back safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/326",
+   "en": "Don't worry. I'll cover you properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/327",
+   "en": "With your ability, success is only natural.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/328",
+   "en": "You can do it. I guarantee it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/329",
+   "en": "I'm counting on you as my partner from now on, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/330",
+   "en": "This much is a given. You're the one I trust with my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/331",
+   "en": "I don't mind that reckless side of you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/340",
+   "en": "Just don't drag me down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/341",
+   "en": "Do you get it? This isn't an amusement park ride.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/342",
+   "en": "I'd be better off doing it alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/343",
+   "en": "Just worry about yourself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/344",
+   "en": "I'll back you up, so go all out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/345",
+   "en": "We'll make this operation a success, no matter what.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/346",
+   "en": "Back me up properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/347",
+   "en": "Let me see what you're really made of.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/348",
+   "en": "Live up to my expectations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/349",
+   "en": "With you backing me up, I don't feel like I can lose.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/350",
+   "en": "There's no way we'll fail. You're my partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/351",
+   "en": "I'm trusting you with my back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/360",
+   "en": "There won't be a next time. Thanks for your trouble.",
+   "flags": [],
+   "notes": "Sarcastic otsukaresama on a failed mission."
+  },
+  {
+   "id": "p2_slv/361",
+   "en": "I never expected you to drag me down this much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/362",
+   "en": "Honestly, I'm amazed you made it back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/363",
+   "en": "Good work. I'm counting on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/364",
+   "en": "Looks like it's a success. Let's head back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/365",
+   "en": "You should be able to do even better.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/366",
+   "en": "With you, success is only natural.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/367",
+   "en": "Your skills weren't bad at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/368",
+   "en": "Looks like you don't need me to back you up anymore.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/369",
+   "en": "I think you and I could be great rivals.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/370",
+   "en": "I'm counting on you from now on too, my best partner.",
+   "flags": [],
+   "notes": "Honorific -san on \"best partner\" dropped."
+  },
+  {
+   "id": "p2_slv/371",
+   "en": "You really saved me. Thanks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/600",
+   "en": "The Minmay Defense is crumbling...",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "Transcript \"minmei difensu\" in wrong kanji: the Macross II song-broadcast defense tactic. \"Minmay Defense\" not in the glossary."
+  },
+  {
+   "id": "p2_slv/601",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/603",
+   "en": "I'm in a foul mood right now! Stay away if you know what's good for you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/604",
+   "en": "Hibiki, is that you?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has \"hibiki\" as a common noun (echo); it is the name."
+  },
+  {
+   "id": "p2_slv/605",
+   "en": "Stop this foolishness!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"baka na made\" is \"baka na mane\" (as 140)."
+  },
+  {
+   "id": "p2_slv/606",
+   "en": "From here on, I can't guarantee you'll survive.",
+   "flags": [],
+   "notes": "Same line as 303."
+  },
+  {
+   "id": "p2_slv/607",
+   "en": "I couldn't stand it. You saw them, didn't you? Those Zentradi.",
+   "flags": [],
+   "notes": "She says \"Zentran\" (Macross II usage); glossary lists it as an alias of Zentradi."
+  },
+  {
+   "id": "p2_slv/608",
+   "en": "Sure, maybe they were born to fight. But they haven't thrown away their freedom. They're people, not tools of war.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/609",
+   "en": "That's why I want to bet on what Ishtar could do.",
+   "flags": [],
+   "notes": "kanousei: Ishtar's potential."
+  },
+  {
+   "id": "p2_slv/610",
+   "en": "Well, it's easier to believe than some bogus newsman.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "What is more believable is not said (Ishtar, or what Hibiki just said); \"it\" chosen. The \"bogus newsman\" is a dig at Hibiki."
+  },
+  {
+   "id": "p2_slv/611",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Laugh only."
+  },
+  {
+   "id": "p2_slv/612",
+   "en": "I don't want to fight right now. Not with you people.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/613",
+   "en": "Damn! If only that kid weren't on board!",
+   "flags": [],
+   "notes": "ano ko: gender not given; \"kid\" kept neutral."
+  },
+  {
+   "id": "p2_slv/616",
+   "en": "Right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/617",
+   "en": "Mock battle or not, I'm not going easy on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/618",
+   "en": "Hibiki! What are you doing here!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/619",
+   "en": "I lose today. But next time, I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/000",
+   "en": "I'll be serving as your bridge operator. Pleased to work with you.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of0_000): English carried over unchanged."
+  },
+  {
+   "id": "o0_of1/000",
+   "en": "I'm your bridge operator. Nice to meet you.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of1_000): English carried over unchanged."
+  },
+  {
+   "id": "o0_of2/000",
+   "en": "From today I'm your operator. Pleased to meet you.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of2_000): English carried over unchanged."
+  },
+  {
+   "id": "o0_om0/000",
+   "en": "I'll be your bridge operator. Let's work well together.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_om0_000): English carried over unchanged."
+  },
+  {
+   "id": "os_mis/000",
+   "en": "This is bridge operator Misa Hayase.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vos_mis_000): English carried over unchanged."
+  },
+  {
+   "id": "o0_of0/001",
+   "en": "I'll relay mission details and battle status from now on.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of0_001): English carried over unchanged."
+  },
+  {
+   "id": "o0_of1/001",
+   "en": "I'll be briefing you on the mission and battle situation.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of1_001): English carried over unchanged."
+  },
+  {
+   "id": "o0_of2/001",
+   "en": "I'll give the orders, so just do as I say.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of2_001): English carried over unchanged."
+  },
+  {
+   "id": "o0_om0/001",
+   "en": "I'll relay mission info and battle status from now on.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_om0_001): English carried over unchanged."
+  },
+  {
+   "id": "os_mis/001",
+   "en": "You will follow my instructions.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vos_mis_001): English carried over unchanged."
+  },
+  {
+   "id": "o0_of0/002",
+   "en": "Beginning the operation now.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of0_002): English carried over unchanged."
+  },
+  {
+   "id": "o0_of1/002",
+   "en": "Operation begins now.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of1_002): English carried over unchanged."
+  },
+  {
+   "id": "o0_om0/002",
+   "en": "Operation begins now.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_om0_002): English carried over unchanged."
+  },
+  {
+   "id": "os_mis/002",
+   "en": "Attention, pilots. Sortie at once. I repeat, sortie at once.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vos_mis_002): English carried over unchanged."
+  },
+  {
+   "id": "o0_of0/003",
+   "en": "Operation start. All squadrons, go to combat stations.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of0_003): English carried over unchanged."
+  },
+  {
+   "id": "o0_of1/003",
+   "en": "Operation start. All squadrons, enter combat readiness.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of1_003): English carried over unchanged."
+  },
+  {
+   "id": "o0_of2/003",
+   "en": "The operation's starting!",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of2_003): English carried over unchanged."
+  },
+  {
+   "id": "o0_om0/003",
+   "en": "Operation start. All squadrons, go to combat readiness.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_om0_003): English carried over unchanged."
+  },
+  {
+   "id": "os_mis/003",
+   "en": "Enemy closing fast! All units, combat readiness!",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vos_mis_003): English carried over unchanged."
+  },
+  {
+   "id": "o0_of0/004",
+   "en": "Oh, it's been a while. I look forward to working with you again.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of0_004): English carried over unchanged."
+  },
+  {
+   "id": "o0_of1/004",
+   "en": "Oh, so it's you. I'll be looking after you again.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of1_004): English carried over unchanged."
+  },
+  {
+   "id": "o0_of2/004",
+   "en": "Who the hell are you? Pretty chummy, aren't you? Kidding. You remember me, right?",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_of2_004): English carried over unchanged."
+  },
+  {
+   "id": "o0_om0/004",
+   "en": "Operating for you again, huh. I'm counting on you.",
+   "flags": [],
+   "notes": "Shared MUF clip (MUF:vo0_om0_004): English carried over unchanged."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 4130 p2_slv/610: What is more believable is not said (Ishtar, or what Hibiki just said); \"it\" chosen. The \"bogus newsman\" is a dig at Hibiki."
+  ],
+  "whisper_doubt": [
+   "row 4121 p2_slv/600: Transcript \"minmei difensu\" in wrong kanji: the Macross II song-broadcast defense tactic. \"Minmay Defense\" not in the glossary.",
+   "row 4124 p2_slv/604: Transcript has \"hibiki\" as a common noun (echo); it is the name.",
+   "row 4125 p2_slv/605: Transcript \"baka na made\" is \"baka na mane\" (as 140)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Minmay Defense (minmei difensu): Macross II tactic of broadcasting songs against the enemy (row 4121)."
+  ],
+  "unfinished": []
+ }
+}

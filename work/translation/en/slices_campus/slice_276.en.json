@@ -1,0 +1,440 @@
+{
+ "slice": 276,
+ "rows_in_slice": 70,
+ "rows_examined": 70,
+ "rows": [
+  {
+   "id": "c19804",
+   "en": "(Swimming's next, huh...\nWhat a pain...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19805",
+   "en": "Excuse me, you there.\nDo you have a moment?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19806",
+   "en": "Huh!? Oh, Sheryl!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19807",
+   "en": "What? Am I really such a rare sight?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19808",
+   "en": "No, it's just...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19809",
+   "en": "Well, I can't blame you. After all, the Sheryl\nNome herself is right here at a school pool!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19810",
+   "en": "Go on, feast your eyes on me in my swimsuit\nto your heart's content!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19811",
+   "en": "I guess an ordinary school life just isn't\npossible for someone like me after all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19812",
+   "en": "Um, uh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19813",
+   "en": "It's fine, it's not your fault.\nThe problem is that I'm Sheryl...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19814",
+   "en": "Oh, I have to go. Sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19815",
+   "en": "(...I didn't even say anything...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19816",
+   "en": "(Swimming's next...\nCould be kind of a pain...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19817",
+   "en": "Huh!? Oh, Sheryl-san!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19818",
+   "en": "Oh my? Am I really such a rare sight?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19819",
+   "en": "No, it's not like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19820",
+   "en": "Yeah, well...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19821",
+   "en": "Go on, feast your eyes on me\nto your heart's content!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19822",
+   "en": "(...Sheryl-san really is something...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19823",
+   "en": "(Okay, I'd better get ready for the next class...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19824",
+   "en": "Oh, what was the next class again?\nYou there, tell me.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sheryl's line (male scene); its third use, near the end of both nml_she_014 branches, carries no name plate (PLAYER/none), apparently a leftover; translated for Sheryl."
+  },
+  {
+   "id": "c19825",
+   "en": "Um, I think it's Space History.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19826",
+   "en": "Sounds like a boring class.\nMaybe I'll skip it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19827",
+   "en": "Huh? Are you allowed to just do\nwhatever you want like that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19828",
+   "en": "What are you saying? I'm Sheryl.\nSheryl Nome!\nI won't be ruled by some class timetable!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19829",
+   "en": "Well, all right. If you insist that much,\nmaybe I'll sit in on this class after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19830",
+   "en": "Well, I suppose so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19831",
+   "en": "(Sheryl really is something,\nwhatever she does...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19832",
+   "en": "(Okay, I need to get ready for the next class...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19833",
+   "en": "Oh, what was the next class again?\nYou there, would you tell me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19834",
+   "en": "Um, it's Space History.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19835",
+   "en": "Huh? Is it really okay to do that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19836",
+   "en": "I think that's a good idea...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19837",
+   "en": "(That's so Sheryl-san.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19838",
+   "en": "(Lunchtime, huh. What should I eat...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19839",
+   "en": "Honestly, Grace,\nthis isn't what I asked for!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19840",
+   "en": "Huh? Sheryl? I wonder what's wrong...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19841",
+   "en": "I told you I wanted to eat these things called\na \"katsu sandwich\" and \"coffee milk,\" didn't I?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19842",
+   "en": "It can't be helped. The school store was already\npacked with students, there was no way in.\nI'm afraid I just couldn't...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19843",
+   "en": "Honestly, you're no help at all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19844",
+   "en": "I'm sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19845",
+   "en": "Oh, you've come at just the right time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19846",
+   "en": "Who else would I be talking to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19847",
+   "en": "F-fair enough...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19848",
+   "en": "Sorry, but go to the school store and buy me\na \"katsu sandwich\" and a \"coffee milk\"!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19849",
+   "en": "I'll make it worth your while.\nNow, off you go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19850",
+   "en": "(Phew, I'm glad I managed to buy them...\nSheryl seemed happy with them, too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19851",
+   "en": "(Lunchtime already. Hmm, what to eat...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19852",
+   "en": "Huh? Sheryl-san? What's wrong, I wonder...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19853",
+   "en": "Y-you're right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19854",
+   "en": "I'll make it worth your while.\nI'm counting on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19855",
+   "en": "(Phew, I'm glad I managed to buy them...\nSheryl-san seemed happy with them, too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19856",
+   "en": "(Okay, classes are over. Maybe I'll stop\nsomewhere on the way home... Oh, it's Sheryl.\nMaybe I'll go talk to her...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19857",
+   "en": "Hey, Sheryl. If you're free after this,\nwant to stop by somewhere with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19858",
+   "en": "Huh? What? Are you talking to me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19859",
+   "en": "Yeah, but only if you're free...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19860",
+   "en": "I see...\nI'll check my schedule with Grace.\nWait a moment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19861",
+   "en": "\"Hello, Grace? It's me...\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19862",
+   "en": "Looks like my schedule's clear.\nSo, where will you be taking me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19863",
+   "en": "Hmm, I haven't really thought about that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19864",
+   "en": "What? What's that supposed to mean? How rude!\nIf you're going to invite someone,\nthink it through beforehand!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19865",
+   "en": "Oh, sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19866",
+   "en": "Well... I'll let it slide this time.\nNow, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19867",
+   "en": "(I just spent an ordinary afternoon after school\nwith the Galactic Fairy...\nMaybe I got a little lucky!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19868",
+   "en": "(Okay, classes are over. Maybe I'll stop\nsomewhere on the way home... Oh, it's\nSheryl-san. Maybe I'll invite her along...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19869",
+   "en": "Um, Sheryl-san. If you're free after this,\nwould you like to stop by somewhere with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19870",
+   "en": "Yes, but only if you're free...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19871",
+   "en": "Um, I haven't really thought about that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19872",
+   "en": "Oh, I'm sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19873",
+   "en": "(Who'd have thought I'd spend an ordinary\nafternoon after school with the Galactic Fairy...\nI got kind of lucky!)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c19824: third use has no name plate (PLAYER/none) at the end of both nml_she_014 branches, likely a script leftover; translated as Sheryl's line.",
+   "c19839: kono-na no kiitenai wa read as 'this isn't what I asked for' (Grace failed to get the food Sheryl requested).",
+   "c19841/c19848: katsu sando -> 'katsu sandwich', kohii gyunyu -> 'coffee milk' (not in glossary; school store food items, kept in quotes as in the Japanese).",
+   "c19825/c19834: uchuushi class -> 'Space History' (not in glossary)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

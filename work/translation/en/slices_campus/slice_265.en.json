@@ -1,0 +1,397 @@
+{
+ "slice": 265,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c19059",
+   "en": "(Phew~, classes are over for today,\nand tomorrow's a day off!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19060",
+   "en": "(Tomorrow, at least, I'll forget about studying\nand have as much fun as I can.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19061",
+   "en": "Tomorrow's a day off, but of course you'll spend\nit studying all day, right, \\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19062",
+   "en": "Huh?! O-of course, Pinon-chan...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19063",
+   "en": "A-anyway, more importantly,\nwhat are you planning to do, Pinon-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19064",
+   "en": "Hmm, I feel like you just changed the subject...\nWell, fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19065",
+   "en": "Tomorrow I'm thinking of staying home\nand reading a book.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19066",
+   "en": "Huh~, you do seem like a book lover, Pinon-chan.\nWhat kind of book are you going to read?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19067",
+   "en": "I could explain it to you, but I'm not sure\nyou'd be able to understand...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19068",
+   "en": "You read books that hard, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19069",
+   "en": "To put it simply...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19070",
+   "en": "...and that's what the book is about.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19071",
+   "en": "O-oh~, I see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19072",
+   "en": "(I didn't understand a single thing...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19073",
+   "en": "Haah~, I explained it simply so even you\ncould understand, but it seems it was no use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19074",
+   "en": "Sorry... Pinon-sensei...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19075",
+   "en": "(I almost forget sometimes, but\nPinon-chan really is a genius...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19076",
+   "en": "(Phew~, classes are over for today,\nand tomorrow's a day off!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19077",
+   "en": "Huh?! O-of course, Pinon-chan...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19078",
+   "en": "Huh~, you do seem like a book lover, Pinon-chan.\nWhat kind of book are you going to read?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19079",
+   "en": "You read books that hard, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19080",
+   "en": "(I didn't understand a single thing...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19081",
+   "en": "(I almost forget sometimes, but\nPinon-chan really is a genius...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19082",
+   "en": "(Next class is Hilda-sensei's P.E., huh.\nI wonder what we'll be doing today?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19083",
+   "en": "Haah~...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19084",
+   "en": "What's wrong, sighing like that?\nPinon-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19085",
+   "en": "I'm dreading the next P.E. class...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19086",
+   "en": "(Pinon-chan has neither stamina\nnor athletic ability, after all...)",
+   "flags": [],
+   "notes": "Shared m/f (the female line keeps the same Japanese)."
+  },
+  {
+   "id": "c19087",
+   "en": "It might be tough, but let's do our best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19088",
+   "en": "I do want to do my best, but\nmy body just can't keep up...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19089",
+   "en": "Then make up for it with guts, Pinon-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19090",
+   "en": "I see... Guts, huh!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19091",
+   "en": "All right! Then I'll show you my guts!\nFollow me, \\p!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19092",
+   "en": "Huff, huff, huff...\nI'm worn out... It seems this is as far as I go......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19093",
+   "en": "(Just from running out to the field?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19094",
+   "en": "(I guess guts weren't going to cut it after all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19095",
+   "en": "(Next class is Hilda-sensei's P.E., huh.\nI wonder what we'll be doing today?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19096",
+   "en": "Then make up for it with guts, Pinon-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19097",
+   "en": "(I guess guts weren't going to cut it after all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19098",
+   "en": "(Now then, what should I buy today?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19099",
+   "en": "(Hm? Isn't that Pinon-chan?\nLooks like she's arguing with the shop clerk...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19100",
+   "en": "What's wrong, Pinon-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19101",
+   "en": "Oh, \\p...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19102",
+   "en": "That clerk is the one at fault!\nSaying, \"For you, a children's size\nmight be better...\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19103",
+   "en": "(I think the clerk has a point, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19104",
+   "en": "Hmph! Are you saying you agree with the clerk?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19105",
+   "en": "N-no, I think you'd have no problem at all\nwith adult sizes, Pinon-chan...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19106",
+   "en": "Naturally! Honestly, that clerk...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19107",
+   "en": "(Pinon-chan really hates being treated\nlike a kid, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19108",
+   "en": "(Now then, what should I buy today?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19109",
+   "en": "(Hm? Isn't that Pinon-chan?\nLooks like she's arguing with the shop clerk...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19110",
+   "en": "(Pinon-chan really hates being treated\nlike a kid, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19111",
+   "en": "(Pool class on a hot day like this\nreally is the best.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19112",
+   "en": "(Hm? Pinon-chan...\nWhat's she staring at so seriously?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19113",
+   "en": "Haaah~~~...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19114",
+   "en": "Staring at Nanase and the others so enviously...\nWhat's up, Pinon-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19115",
+   "en": "N-nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19116",
+   "en": "Give me a few more years, and I'll...!",
+   "flags": [],
+   "notes": "Muttered; she is envying the older girls' figures in swimsuits."
+  },
+  {
+   "id": "c19117",
+   "en": "Huh? What did you just say?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19118",
+   "en": "Nothing!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19119",
+   "en": "(What on earth is up with Pinon-chan?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19120",
+   "en": "(Pool class on a hot day like this\nreally is the best.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19121",
+   "en": "(Hm? Pinon-chan...\nWhat's she staring at so seriously?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19122",
+   "en": "(What on earth is up with Pinon-chan?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

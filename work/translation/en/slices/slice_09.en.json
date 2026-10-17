@@ -1,0 +1,931 @@
+{
+ "slice": 9,
+ "rows_in_slice": 152,
+ "rows_examined": 152,
+ "rows": [
+  {
+   "id": "u0678",
+   "en": "Medium-Range AAM (Multi)\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0679",
+   "en": "Micro Missiles (Blast)\nMissiles that cause a huge blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0680",
+   "en": "Micro Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0681",
+   "en": "Medium-Range AAM (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0682",
+   "en": "Laser Machine Gun\nA single laser machine gun mounted in the head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0683",
+   "en": "Laser Machine Gun\nTwo laser machine guns mounted in the head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0684",
+   "en": "Melee\nPerforms a melee attack",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0685",
+   "en": "8-Tube Rapid-Fire Missile Pod (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "Pattern from tm u0681/u0791."
+  },
+  {
+   "id": "u0686",
+   "en": "Micro Missiles (Laser/Blast)\nMissiles that fly straight at the enemy and cause a blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0687",
+   "en": "8-Tube Rapid-Fire Missile Pod (Cluster)\nMissiles that burst and split into several after launch",
+   "flags": [],
+   "notes": "Description identical to tm u0695/u0720 (326 px, 4 px over); kept for consistency."
+  },
+  {
+   "id": "u0688",
+   "en": "Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0689",
+   "en": "Large Hand Grenade\nA grenade with tremendous destructive power",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0690",
+   "en": "55mm Triple-Barrel Gatling Gun Pod\nStandard main weapon of the Valkyrie",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0691",
+   "en": "Gun Pod\nStandard main weapon of the Valkyrie",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0692",
+   "en": "Micro Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0693",
+   "en": "Micro Missiles (Laser)\nMissiles that fly straight at the enemy",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0694",
+   "en": "High-Maneuver Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0695",
+   "en": "Micro Missiles (Cluster)\nMissiles that burst and split into several after launch",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0696",
+   "en": "Reaction Weapons\nAttacks with reaction weapons",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0697",
+   "en": "Laser Machine Gun\nFour laser machine guns mounted in the head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0698",
+   "en": "Twin Beam Cannon\nBeam cannon mounted on the Strike Pack",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0699",
+   "en": "Minmay Voice\nMinmay cheers you on",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0700",
+   "en": "Grenade Crusher (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0701",
+   "en": "Grenade Crusher (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0702",
+   "en": "Large Hand Grenade\nMissiles with tremendous destructive power",
+   "flags": [],
+   "notes": "The description says missile here (u0689 says grenade); translated as written, wording from tm u0781."
+  },
+  {
+   "id": "u0703",
+   "en": "Single-Barrel Charged Particle Beam Cannon\nBeam cannon mounted on the arm",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0704",
+   "en": "Semi-Conformal Medium-Range Guided Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0705",
+   "en": "Semi-Conformal Medium-Range Guided Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0706",
+   "en": "Semi-Conformal Medium-Range Guided Missiles (Cluster)\nMissiles that burst and split into several after launch",
+   "flags": [
+    "overflow"
+   ],
+   "notes": "Name kept identical in form to tm u0704/u0705 (352-353 px, also over); 363 px vs 322 px. Description as tm u0695 (326 px)."
+  },
+  {
+   "id": "u0707",
+   "en": "30mm 6-Barrel Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0708",
+   "en": "Long-Barrel High-Penetration Gun Pod\nMain weapon for the VF-11 Full Armored",
+   "flags": [],
+   "notes": "Glossary mecha: Full Armored."
+  },
+  {
+   "id": "u0709",
+   "en": "Micro Missiles + Large Hand Grenade (Multi/Blast)\nMulti-lock. Missiles causing a huge blast on impact",
+   "flags": [],
+   "notes": "Huge blast (the Japanese has the 'large blast' word), as tm u0679. 'that cause' -> 'causing' to fit."
+  },
+  {
+   "id": "u0710",
+   "en": "Micro Missiles + Large Hand Grenade (Laser/Blast)\nFly straight at the enemy, huge blast on impact",
+   "flags": [],
+   "notes": "Description compressed from 'Missiles that fly straight at the enemy and cause a huge blast on impact' (446 px) to fit 322 px; both facts kept."
+  },
+  {
+   "id": "u0711",
+   "en": "Anti-Air Pulse Laser Cannon\nA single anti-air laser cannon mounted in the head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0712",
+   "en": "Twin Beam Cannon\nBeam cannon mounted on the Full Armored",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0713",
+   "en": "Bayonet\nPerforms a melee attack with the bayonet",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0714",
+   "en": "7-Barrel Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0715",
+   "en": "Small-Caliber Laser Cannon\nLaser cannon mounted in the chest",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0716",
+   "en": "Medium-Caliber Beam Cannon\nBeam cannon mounted on the arm",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0717",
+   "en": "Large-Caliber Beam Cannon\nBeam cannon mounted on the shoulder",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0718",
+   "en": "New Standard Gatling Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0719",
+   "en": "Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0720",
+   "en": "Cluster Missiles\nMissiles that burst and split into several after launch",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0721",
+   "en": "Semi-Fixed Laser Machine Gun\nLaser gun mounted at the waist",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0722",
+   "en": "Pinpoint Barrier Punch\nPerforms a melee attack with a pinpoint barrier punch",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0723",
+   "en": "Caseless Gatling Gun Pod\nStandard main weapon of variable fighters (two equipped)",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0724",
+   "en": "Caseless Gatling Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0725",
+   "en": "Beam Gun Pod\nStandard main weapon of variable fighters (two equipped)",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0726",
+   "en": "High-Maneuver Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0727",
+   "en": "Semi-Fixed Beam Cannon\nBeam gun mounted on the arm",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0728",
+   "en": "Laser Beam Gun\nBeam gun mounted on the arm",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0729",
+   "en": "Pinpoint Barrier\nGenerates a pinpoint barrier",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0730",
+   "en": "Launcher Pod\nFires in speaker pods to make the target hear the song",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0731",
+   "en": "Song (MY FRIENDS)\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0732",
+   "en": "Song (HOLY LONELY LIGHT)\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0733",
+   "en": "Song SP (TRY AGAIN)\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0734",
+   "en": "Sound Beam\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0735",
+   "en": "Song (Totsugeki Love Heart)\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0736",
+   "en": "Speaker Pod γ\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0737",
+   "en": "Launcher Pod\nFires in speaker pods to make the target hear the drums",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0738",
+   "en": "Drums (Totsugeki Love Heart)\nPlays red-hot drums that shake the soul",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0739",
+   "en": "Harpoon Launcher Gun Pod\nGun pod that fires whale-catching harpoons",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0740",
+   "en": "Listen to My Song!!\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0741",
+   "en": "Song (DYNAMITE EXPLOSION)\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0742",
+   "en": "Song SP\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0743",
+   "en": "30mm MDE Autocannon\nMain weapon developed for use against the Vajra",
+   "flags": [],
+   "notes": "Kikanho = autocannon; MDE as tm u0744."
+  },
+  {
+   "id": "u0744",
+   "en": "MDE Particle Anti-Gravity Cannon\nMain weapon developed for use against the Vajra",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0745",
+   "en": "MDE Warhead Micro Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0746",
+   "en": "MDE Warhead Micro Missiles (Multi)\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0747",
+   "en": "MDE Warhead Micro Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0748",
+   "en": "MDE Warhead Micro Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0749",
+   "en": "Large Anti-Carrier Missile\nA large missile with tremendous destructive power",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0750",
+   "en": "Small-Caliber Laser Cannon\nBeam gun mounted in the chest",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0751",
+   "en": "Ghost\nLaunches a wave attack with three Ghosts",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0752",
+   "en": "New 58mm Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0753",
+   "en": "Dragunov Anti-Materiel Sniper Rifle\nA rifle capable of long-range fire",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0754",
+   "en": "12.7mm Beam Machine Gun\nBeam machine gun mounted in the head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0755",
+   "en": "57mm Anti-Ship/Anti-Air Rapid-Fire Beam Turret\nBeam cannon mounted on the Armored Pack",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0756",
+   "en": "Swiveling Twin Beam Cannon\nBeam cannon mounted on the Tornado Pack",
+   "flags": [],
+   "notes": "Glossary: Tornado Pack. The weapon name says swivel/turret type."
+  },
+  {
+   "id": "u0757",
+   "en": "Assault Knife\nPerforms a melee attack with the assault knife",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0758",
+   "en": "Sound Beam (Seikan Hikou)\nSings a red-hot song that shakes the soul",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Song title per glossary songs (Seikan Hikou, needs_check)."
+  },
+  {
+   "id": "u0759",
+   "en": "Sound Beam (Lion)\nSings a red-hot song that shakes the soul",
+   "flags": [],
+   "notes": "Song title per glossary songs (Lion)."
+  },
+  {
+   "id": "u0760",
+   "en": "Voice\nRanka cheers you on",
+   "flags": [],
+   "notes": "Pattern from tm u0699 'Minmay cheers you on'."
+  },
+  {
+   "id": "u0761",
+   "en": "Beam Gun Pod\nGun pod for the VF-27",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0762",
+   "en": "Beam Grenade\nFires a heavy particle reaction beam from the gun pod",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0763",
+   "en": "Anti-Air Laser Machine Gun\nTwo laser machine guns mounted in the head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0764",
+   "en": "Squire\nLaunches a wave attack with bits",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0765",
+   "en": "Railgun\nRailgun mounted on the SAP",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0766",
+   "en": "Beam Cannon\nBeam cannon mounted on the shoulder",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0767",
+   "en": "Plasma Spear\nPerforms a melee attack with the plasma spear",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0768",
+   "en": "Rotary Laser Cannon\nLaser cannon mounted on the right shoulder",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0769",
+   "en": "Shock Gun Pod\nMain weapon fitted to Patrol units",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0770",
+   "en": "Anti-Air Pulse Laser Cannon\nA single laser machine gun mounted in the head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0771",
+   "en": "Anti-Air Pulse Laser Cannon\nTwo laser machine guns mounted in the head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0772",
+   "en": "Balloon Shot\nCaptures the target with a balloon shot",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0773",
+   "en": "Call Allies\nCalls in VF-5000Gs",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0774",
+   "en": "55mm Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0775",
+   "en": "Medium Anti-Ship Missiles (Blast)\nMissiles that cause a huge blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0776",
+   "en": "Medium Anti-Ship Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0777",
+   "en": "Medium Anti-Ship Missiles (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0778",
+   "en": "Medium Anti-Ship Missiles (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0779",
+   "en": "12.7mm Machine Gun\nMachine gun mounted at the waist",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0780",
+   "en": "Fuel-Air Bomb\nAttacks with a fuel-air bomb",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0781",
+   "en": "Medium Anti-Ship Missiles (Blast)\nMissiles with tremendous destructive power",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0782",
+   "en": "Fixed Pulse Laser Gun\nLaser guns mounted on both hands",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0783",
+   "en": "High-Maneuver Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0784",
+   "en": "Large 6-Barrel AA Gatling Cannon\nGatling cannons mounted on both arms",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0785",
+   "en": "6-Tube Rocket Launcher\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0786",
+   "en": "Quad AA Missile Launcher\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0787",
+   "en": "Call Allies\nCalls in Cheyennes",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0788",
+   "en": "40cm Liquid-Cooled Liquid-Propellant Cannon\nPowerful cannon mounted on the head",
+   "flags": [],
+   "notes": "Same weapon as tm u0809 with the words in another order; followed this row's order."
+  },
+  {
+   "id": "u0789",
+   "en": "Built-In Railgun\nRailguns mounted on both hands",
+   "flags": [],
+   "notes": "Pattern from tm u0870 'Built-In Pulse Beam Cannon / ... on both hands'."
+  },
+  {
+   "id": "u0790",
+   "en": "57mm Multipurpose Rapid-Fire Gun\nRapid-fire gun mounted on the upper head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0791",
+   "en": "8-Tube Missile Launcher\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0792",
+   "en": "12.7mm Twin Beam Machine Gun\nBeam machine gun mounted atop the head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0793",
+   "en": "78mm Liquid-Cooled High-Speed Autocannon (Machine Gun)\nHigh-speed autocannons mounted on both arms",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0794",
+   "en": "78mm Liquid-Cooled High-Speed Autocannon (Laser)\nHigh-speed autocannons mounted on both arms",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0795",
+   "en": "Call Allies\nCalls in Defender units",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0796",
+   "en": "Anti-Air Laser Machine Gun\nMachine gun mounted atop the head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0797",
+   "en": "12-Round Close-Range Homing Rocket Launcher\nRockets fired in rapid succession at one enemy",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0798",
+   "en": "Gun Cluster (Laser)\nAttacks with the Gun Cluster's laser cannon",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0799",
+   "en": "Gun Cluster (Flamethrower)\nAttacks with the Gun Cluster's flamethrower",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0800",
+   "en": "Call Allies\nCalls in Phalanx units",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0801",
+   "en": "Short-Range High-Mobility Homing Missile (Blast)\nMissiles with tremendous destructive power",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0802",
+   "en": "Short-Range High-Mobility Homing Missile (Multi)\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0803",
+   "en": "Short-Range High-Mobility Homing Missile (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0804",
+   "en": "Liquid-Cooled Charged Particle Beam Cannon\nBeam cannons mounted on both arms",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0805",
+   "en": "12-Round Close-Range Homing Rocket Launcher\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0806",
+   "en": "Gun Cluster (180mm Grenade)\nAttacks with the Gun Cluster's 180mm grenades",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0807",
+   "en": "Triple-Mount Anti-Ground Missile Launcher\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0808",
+   "en": "Laser Cannon\nLaser cannon mounted on the head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0809",
+   "en": "Liquid-Cooled 40cm Liquid-Propellant Cannon\nPowerful cannons mounted on the head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0810",
+   "en": "Macross Cannon\nFires the Macross Cannon",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0811",
+   "en": "Guided Focused Beam Cannon System\nFires beams from its entire body",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0812",
+   "en": "OT Hypervelocity Electromagnetic Railcannon\nLaser cannons mounted on both shoulders",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0813",
+   "en": "Large Homing Anti-Ship Missile Launcher\nFires missiles mounted all over its body",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0814",
+   "en": "Harpoon Launcher\nFires harpoons made for catching whales",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0815",
+   "en": "Harpoon Throw\nCan throw harpoons at several enemies at once",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0816",
+   "en": "Burning Passion for Whales\nA burning passion for whales raises attack power",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0817",
+   "en": "30mm 6-Barrel Gatling Gun\nGatling guns mounted on both arms",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0818",
+   "en": "Close-Range Anti-Air Quad Missile Launcher\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0819",
+   "en": "Charged Particle Beam Cannon\nBeam cannons mounted on both arms",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0820",
+   "en": "Call Allies\nCalls in Cheyenne II units",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0821",
+   "en": "Anti-Air/Anti-Ground Machine Gun\nMachine guns mounted on the chest and both arms",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0822",
+   "en": "Triple Anti-Ground/Anti-Ship Heavy Missile\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0823",
+   "en": "320mm Quad Railgun\nPowerful railgun mounted on the head",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0824",
+   "en": "Feelings for Michel\nFeelings for Michel raise attack power",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0825",
+   "en": "Klan Voice\nKlan fires you up with a rallying cry",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0826",
+   "en": "Twin Guided Anti-Ship Heavy Beam Cannon\nFires beams from its entire body",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0827",
+   "en": "Close-In Defense Micro-Missile Phalanx\nFires missiles mounted all over its body",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0828",
+   "en": "Anti-Ship Reaction Weapon\nAttacks with reaction weapons",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0829",
+   "en": "Heavy Quantum Reaction Cannon\nFires the Heavy Quantum Reaction Cannon",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0758 song title 'Seikan Hikou' is a needs_check glossary entry"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

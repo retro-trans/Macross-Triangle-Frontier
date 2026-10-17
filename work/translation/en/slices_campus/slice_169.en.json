@@ -1,0 +1,499 @@
+{
+ "slice": 169,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c12383",
+   "en": "(Wait, am I maybe the type\nwho spoils little sisters?)",
+   "flags": [],
+   "notes": "Female, frd_pnn_008."
+  },
+  {
+   "id": "c12384",
+   "en": "Uuu... \\p......",
+   "flags": [],
+   "notes": "Pinon, both genders, frd_pnn_009/010."
+  },
+  {
+   "id": "c12385",
+   "en": "Huh?! What's wrong, Pinon-chan?!",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12386",
+   "en": "I've been drinking my milk like I'm supposed to,\nbut I'm not getting any taller at all...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12387",
+   "en": "...I really don't think you'll grow\nthat fast, Pinon-chan...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12388",
+   "en": "Is that so...?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12389",
+   "en": "You don't have to rush. You'll become\na wonderful grown-up woman with\na knockout body, Pinon-chan.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12390",
+   "en": "A wonderful woman...",
+   "flags": [],
+   "notes": "Pinon, male scene."
+  },
+  {
+   "id": "c12391",
+   "en": "Haaah~~...\nYeah! You're right!\nIn that case, I'll have to work even harder!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12392",
+   "en": "Alright! I'll double the amount of milk\nI drink every day!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12393",
+   "en": "With this, I'll have a knockout body\nin no time...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12394",
+   "en": "(Hmm...\nI feel like she's putting her effort\nin the wrong direction...)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12395",
+   "en": "(Well, I guess trying hard is a good thing.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12396",
+   "en": "Go for it, Pinon-chan!",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12397",
+   "en": "Hehehe, soon I'll be a grown-up woman with\nsuch a knockout body you'll fall for me, nya!!",
+   "flags": [],
+   "notes": "Pinon, male scene. She means to end with 'na' and slips into 'nya' (next row: she bit her tongue)."
+  },
+  {
+   "id": "c12398",
+   "en": "...............I bit my tongue.",
+   "flags": [],
+   "notes": "Pinon, both genders (kanda)."
+  },
+  {
+   "id": "c12399",
+   "en": "Affinity ending.\nFiller for Pinon (female).",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Developer placeholder under Alto's name plate, in the unused gender branch of frd_pnn_009. Translated literally, same pattern as c04107/c06032."
+  },
+  {
+   "id": "c12400",
+   "en": "Affinity ending.\nFiller for Pinon (male).",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Developer placeholder under Alto's name plate, in the unused gender branch of frd_pnn_010. Same pattern as c04107/c06033."
+  },
+  {
+   "id": "c12401",
+   "en": "...I really don't think you'll grow\nthat fast, Pinon-chan...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12402",
+   "en": "You don't have to rush. You'll become\na wonderful grown-up woman with\na knockout body, Pinon-chan.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12403",
+   "en": "A grown-up woman...",
+   "flags": [],
+   "notes": "Pinon, female scene."
+  },
+  {
+   "id": "c12404",
+   "en": "(Well, I guess trying hard is a good thing.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12405",
+   "en": "Hehehe, I'll be a grown-up woman with\nsuch a knockout body you'll be jealous of me, nya!!",
+   "flags": [],
+   "notes": "Pinon, female scene; same 'nya' slip."
+  },
+  {
+   "id": "c12406",
+   "en": "(Okay, school's over. Maybe I'll stop by\nDeep Akihabara on the way home today.)",
+   "flags": [],
+   "notes": "Player, both genders, frd_pnn_101."
+  },
+  {
+   "id": "c12407",
+   "en": "(Huh?\nIs Pinon-chan heading home now too?)",
+   "flags": [],
+   "notes": "Male, frd_pnn_101/102."
+  },
+  {
+   "id": "c12408",
+   "en": "Heyyy, Pinon-chan!\nWant to go to Deep Akihabara with me?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12409",
+   "en": "Why would I have to go\nto Deep Akihabara with you?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12410",
+   "en": "W-well, I just thought it'd be fun\nif we went together...",
+   "flags": [],
+   "notes": "x8, the player in frd_pnn_101/102, both genders."
+  },
+  {
+   "id": "c12411",
+   "en": "I, for one, have no business\nin Deep Akihabara. I'll have to decline.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12412",
+   "en": "(Sigh... Pinon-chan turned me down.\nOh well, guess I'll go to Deep Akihabara alone.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12413",
+   "en": "(Huh?\nIs Pinon-chan heading home now too?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12414",
+   "en": "Heyyy, Pinon-chan!\nWant to go to Deep Akihabara with me?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12415",
+   "en": "(Sigh... Pinon-chan turned me down.\nOh well, maybe I'll go to Deep Akihabara alone.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12416",
+   "en": "(Okay, school's over. Maybe I'll catch\na movie on the way home today.)",
+   "flags": [],
+   "notes": "Player, both genders, frd_pnn_102."
+  },
+  {
+   "id": "c12417",
+   "en": "Heyyy, Pinon-chan!\nWant to go see a movie with me?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12418",
+   "en": "Why would I have to go\nsee a movie with you?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12419",
+   "en": "There's no movie I want to see right now,\nat least. I'll have to decline.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12420",
+   "en": "(Sigh... Pinon-chan turned me down.\nOh well, guess I'll go see a movie alone.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12421",
+   "en": "Heyyy, Pinon-chan!\nWant to go see a movie with me?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12422",
+   "en": "(Sigh... Pinon-chan turned me down.\nOh well, maybe I'll go see a movie alone.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12423",
+   "en": "(Let's see... Maybe I'll stop by\nSilver Moon on the way home today.)",
+   "flags": [],
+   "notes": "Player, both genders, frd_pnn_103."
+  },
+  {
+   "id": "c12424",
+   "en": "(Oh, Pinon-chan...\nI know, I'll try inviting her too.)",
+   "flags": [],
+   "notes": "x8, the player, frd_pnn_103/104, both genders."
+  },
+  {
+   "id": "c12425",
+   "en": "Pinon-chan, want to stop by\nSilver Moon on the way home?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12426",
+   "en": "Hmm, planning to snack on the way home again,\n\\p?",
+   "flags": [],
+   "notes": "Pinon, both genders. 'snack on the way home' for kaigui as in slices 163-164."
+  },
+  {
+   "id": "c12427",
+   "en": "Yep.\nBut it's fine as long as Pinon-sensei\nis with me, right?",
+   "flags": [],
+   "notes": "Player, both genders; callback to Pinon allowing it when a teacher comes along."
+  },
+  {
+   "id": "c12428",
+   "en": "Well, that's true, but...\nI've got something to take care of now.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12429",
+   "en": "Oh, I see...\nThat's too bad.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12430",
+   "en": "I can't today, but when I'm free,\nI suppose I could go with you.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12431",
+   "en": "Then I'll invite you again some other time.",
+   "flags": [],
+   "notes": "x8, the player, both genders."
+  },
+  {
+   "id": "c12432",
+   "en": "Mm, see you.",
+   "flags": [],
+   "notes": "x12: Pinon here (frd_pnn_103/104) and Klan in nml_kln_016/019, both genders. 'Mm' as the existing 'umu' (c07760)."
+  },
+  {
+   "id": "c12433",
+   "en": "(Hmm... Pinon-sensei has banned snacking\non the way home, so I guess I'll just\nhead straight home today.)",
+   "flags": [],
+   "notes": "x8, the player, both genders."
+  },
+  {
+   "id": "c12434",
+   "en": "Oh, I see...\nThat's too bad.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12435",
+   "en": "(Let's see, maybe I'll stop by Nyan-Nyan\non the way home today.)",
+   "flags": [],
+   "notes": "Player, both genders, frd_pnn_104."
+  },
+  {
+   "id": "c12436",
+   "en": "Pinon-chan, want to stop by\nNyan-Nyan on the way home?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12437",
+   "en": "(I came to the Observation Pier with\nPinon-chan after school today, but...)",
+   "flags": [],
+   "notes": "Player, both genders, frd_pnn_105."
+  },
+  {
+   "id": "c12438",
+   "en": "(We haven't said a word to each other\nfor a while now...)",
+   "flags": [],
+   "notes": "Male, frd_pnn_105/106."
+  },
+  {
+   "id": "c12439",
+   "en": "Wh-what is it, Pinon-chan?",
+   "flags": [],
+   "notes": "x8, the player, frd_pnn_105/106, both genders."
+  },
+  {
+   "id": "c12440",
+   "en": "...Now that I'm here, the Observation Pier\nis quite an interesting place.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12441",
+   "en": "Oh... Y-yeah, it is.",
+   "flags": [],
+   "notes": "Male, frd_pnn_105/106."
+  },
+  {
+   "id": "c12442",
+   "en": "(I see, Pinon-chan was quiet because\nshe was busy taking in the view.)",
+   "flags": [],
+   "notes": "Male, frd_pnn_105/106."
+  },
+  {
+   "id": "c12443",
+   "en": "Yeah...\nI'm glad you brought me here today.",
+   "flags": [],
+   "notes": "Pinon, both genders, frd_pnn_105/106."
+  },
+  {
+   "id": "c12444",
+   "en": "I should be thanking you.\nI'm glad you enjoyed it, Pinon-chan.",
+   "flags": [],
+   "notes": "Male (kochira koso)."
+  },
+  {
+   "id": "c12445",
+   "en": "R-really...?\nThen when I'm free, I suppose\nI could come along again.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12446",
+   "en": "So invite me again...",
+   "flags": [],
+   "notes": "x8, Pinon, both genders."
+  },
+  {
+   "id": "c12447",
+   "en": "Haha, yeah, I'll do that.",
+   "flags": [],
+   "notes": "Male; 'I'll do that.' as the existing c10290."
+  },
+  {
+   "id": "c12448",
+   "en": "(Pinon-chan seemed to enjoy herself,\nso I'm really glad I invited her.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12449",
+   "en": "(We haven't said a word to each other\nfor a while now...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12450",
+   "en": "Oh... Y-yeah, it is.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12451",
+   "en": "(I see, Pinon-chan was quiet because\nshe was busy taking in the view.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12452",
+   "en": "I should be thanking you.\nI'm glad you enjoyed it, Pinon-chan.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12453",
+   "en": "Hehe, yeah, I'll do that.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12454",
+   "en": "(Pinon-chan seemed to enjoy herself,\nso I'm really glad I invited her.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12455",
+   "en": "Now that I'm here, the Observation Pier\nis quite an interesting place...",
+   "flags": [],
+   "notes": "Pinon, both genders (second variant)."
+  },
+  {
+   "id": "c12456",
+   "en": "(I see, Pinon-chan was quiet because\nshe was busy taking in the view.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12457",
+   "en": "I'm glad you brought me here today.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12458",
+   "en": "I'm glad you enjoyed it, Pinon-chan.",
+   "flags": [],
+   "notes": "x4: the player here (male) and in frd_pnn_109 (both genders); no gendered words."
+  },
+  {
+   "id": "c12459",
+   "en": "R-really...?\nWhen I'm free, I suppose\nI could come along again.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12460",
+   "en": "Yeah, I'll definitely invite you.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12461",
+   "en": "(Pinon-chan seemed to enjoy herself,\nso I'm really glad I invited her.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12462",
+   "en": "I'm glad you enjoyed it, Pinon-chan.",
+   "flags": [],
+   "notes": "Female (frd_pnn_105 and frd_pnn_109)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c12399/c12400: developer placeholder text under Alto's name plate ('affinity end / filler for Pinon female/male'), translated literally as in c04107, c06032/c06033."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

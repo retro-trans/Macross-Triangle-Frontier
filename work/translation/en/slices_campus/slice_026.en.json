@@ -1,0 +1,437 @@
+{
+ "slice": 26,
+ "rows_in_slice": 70,
+ "rows_examined": 70,
+ "rows": [
+  {
+   "id": "c01873",
+   "en": "I heard the rumors...\nApparently you've been hanging out a lot\nwith that guy lately.",
+   "flags": [],
+   "notes": "Luca, jealous; shared m/f. 'ano otoko no hito' = 'that guy' (unnamed)."
+  },
+  {
+   "id": "c01874",
+   "en": "(Okay, I'm gonna give it my all again today!)",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c01875",
+   "en": "U-um...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01876",
+   "en": "Hm? Did you need something from me?",
+   "flags": [],
+   "notes": "x3, male player, to each of the three girls."
+  },
+  {
+   "id": "c01877",
+   "en": "This is...",
+   "flags": [],
+   "notes": "Quiet Girl holding out the letter; trails off as in the Japanese."
+  },
+  {
+   "id": "c01878",
+   "en": "A-a letter?!",
+   "flags": [],
+   "notes": "x6, both genders."
+  },
+  {
+   "id": "c01879",
+   "en": "F-for me?",
+   "flags": [],
+   "notes": "x3, male."
+  },
+  {
+   "id": "c01880",
+   "en": "N-no... It's for Michael-senpai...",
+   "flags": [],
+   "notes": "She says Mihaeru-senpai: 'Michael-senpai' (glossary: Michael when the Japanese says Mihaeru)."
+  },
+  {
+   "id": "c01881",
+   "en": "Right! Of course it is...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01882",
+   "en": "I-I'll be going now!",
+   "flags": [],
+   "notes": "shitsurei shimasu as she leaves."
+  },
+  {
+   "id": "c01883",
+   "en": "You're really showing off first thing\nin the morning, huh?",
+   "flags": [],
+   "notes": "Michel teasing; shared m/f."
+  },
+  {
+   "id": "c01884",
+   "en": "M-Michel!",
+   "flags": [],
+   "notes": "Also Klan in nml_mcl_021."
+  },
+  {
+   "id": "c01885",
+   "en": "A love letter, huh...\nLook at you, sneaking in some youthful romance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01886",
+   "en": "It's addressed to you, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01887",
+   "en": "You should write back.",
+   "flags": [],
+   "notes": "x3, male player to Michel; neutral about the sender."
+  },
+  {
+   "id": "c01888",
+   "en": "Yeah, yeah...",
+   "flags": [],
+   "notes": "x10: Michel, Canaria (to Ozma), the player (to Nanase / Kagura), Luca; works for all."
+  },
+  {
+   "id": "c01889",
+   "en": "(What should I have for lunch...?)",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c01890",
+   "en": "Hey, hey!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01891",
+   "en": "Yup, yup. Sorry to ask, but... this...",
+   "flags": [],
+   "notes": "sosso = yes, answering 'need something?'."
+  },
+  {
+   "id": "c01892",
+   "en": "As if!\nIt's for Michael-kun. Please give it to him!",
+   "flags": [],
+   "notes": "Lively Girl says Mihaeru-kun: 'Michael-kun'."
+  },
+  {
+   "id": "c01893",
+   "en": "Right! Of course it is...\nI get it... I knew all along.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01894",
+   "en": "I'm counting on you!",
+   "flags": [],
+   "notes": "onegai ne: she asks the player to deliver it."
+  },
+  {
+   "id": "c01895",
+   "en": "Haaah...",
+   "flags": [],
+   "notes": "Shared m/f; a heavy sigh."
+  },
+  {
+   "id": "c01896",
+   "en": "Showing off in broad daylight now, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01897",
+   "en": "...Oh, it's you, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01898",
+   "en": "That's a love letter, isn't it...\nLook at you, enjoying your youth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01899",
+   "en": "It's addressed to you, though.",
+   "flags": [],
+   "notes": "Same English as c01886 (the Japanese differs only by dakedo)."
+  },
+  {
+   "id": "c01900",
+   "en": "Hmm...",
+   "flags": [],
+   "notes": "Also Yamashiro (frd_itk_002) and the player (frd_myk_116)."
+  },
+  {
+   "id": "c01901",
+   "en": "(Another long day over. Good work, me.)",
+   "flags": [],
+   "notes": "kyou mo ichinichi otsukaresama, said to oneself; shared m/f."
+  },
+  {
+   "id": "c01902",
+   "en": "Hey... got a minute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01903",
+   "en": "Well, you see... it's about this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01904",
+   "en": "...Save the sleep-talk for when you're asleep.\nIt's obviously for Michel-kun.",
+   "flags": [],
+   "notes": "negoto wa nete iinasai (idiom: 'dream on'); she says Misheru-kun."
+  },
+  {
+   "id": "c01905",
+   "en": "Right, of course it is...\nYeah, yeah... I get it... I knew all along.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01906",
+   "en": "See you, then.",
+   "flags": [],
+   "notes": "x10: Stylish Girl, Shirakawa, Sheryl, Claire; works for all."
+  },
+  {
+   "id": "c01907",
+   "en": "Man, what is even going on~",
+   "flags": [],
+   "notes": "nandaka naa~, exasperated; shared m/f."
+  },
+  {
+   "id": "c01908",
+   "en": "What's up? If it's love advice you need,\nI'm all ears.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01909",
+   "en": "M-Michel...",
+   "flags": [],
+   "notes": "Also Klan in scd_com_409."
+  },
+  {
+   "id": "c01910",
+   "en": "Looks like you got a love letter.\nSo, you gonna go out with her?",
+   "flags": [],
+   "notes": "Shared m/f; every sender in this scene is a girl, so 'her'."
+  },
+  {
+   "id": "c01911",
+   "en": "Like I'd ever get one...\nI was just holding yours for you, Michel. Geez...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01912",
+   "en": "Ah, is that so, is that so...",
+   "flags": [],
+   "notes": "sore wa sore wa, mock-sympathetic."
+  },
+  {
+   "id": "c01913",
+   "en": "Yup.",
+   "flags": [],
+   "notes": "haiyo, offhand."
+  },
+  {
+   "id": "c01914",
+   "en": "What's with that half-hearted answer...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01915",
+   "en": "Don't sulk like that.\nA jealous guy is not a good look.",
+   "flags": [],
+   "notes": "otoko no higami wa mittomonai."
+  },
+  {
+   "id": "c01916",
+   "en": "Kidding, I'm kidding. Don't make that scary face...\nWanna stop by Nyan-Nyan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01917",
+   "en": "Only if you're buying, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01918",
+   "en": "All right, all right.",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c01919",
+   "en": "(Geez, how many women is he planning\nto make cry?)",
+   "flags": [],
+   "notes": "onna no hito nakaseru."
+  },
+  {
+   "id": "c01920",
+   "en": "Hm? Did you need something from me?",
+   "flags": [],
+   "notes": "x3, female player."
+  },
+  {
+   "id": "c01921",
+   "en": "F-for me?\nUm, I'm really not into girls like that...",
+   "flags": [],
+   "notes": "sasuga ni onna no ko doushi tte no wa..., trailing off."
+  },
+  {
+   "id": "c01922",
+   "en": "Oh. Right, right...",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c01923",
+   "en": "M-Michel-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01924",
+   "en": "A love letter, huh...\nThe sweet taste of love between girls...\nYeah, I could get behind that...",
+   "flags": [],
+   "notes": "onna doushi no yuri no aji... sou iu no mo ari da yo na: Michel enjoying the idea; 'yuri' rendered as 'love between girls'."
+  },
+  {
+   "id": "c01925",
+   "en": "It's addressed to you, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01926",
+   "en": "You'd better write back, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01927",
+   "en": "For me?",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c01928",
+   "en": "...Oh, it's you, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01929",
+   "en": "That's a love letter, isn't it...\nYou're a real heartbreaker, you know that?",
+   "flags": [],
+   "notes": "tsumitsukuri na onna da na."
+  },
+  {
+   "id": "c01930",
+   "en": "It's addressed to you, though, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01931",
+   "en": "Oh, is that so.",
+   "flags": [],
+   "notes": "a, sou: flat."
+  },
+  {
+   "id": "c01932",
+   "en": "Make sure you write back, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01933",
+   "en": "Oh, yeah. Of course it is.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01934",
+   "en": "M-Michel-kun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01935",
+   "en": "As if!\nI was just holding yours for you, Michel-kun.\nHonestly...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01936",
+   "en": "Be sure to write back, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01937",
+   "en": "What's with that half-hearted answer...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01938",
+   "en": "I'd rather you didn't look at me like that.\nYou're ruining that cute face of yours.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01939",
+   "en": "Hmph!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01940",
+   "en": "Oh, all right... Wanna stop by Nyan-Nyan?",
+   "flags": [],
+   "notes": "shou ga nai naa: Michel giving in to placate her."
+  },
+  {
+   "id": "c01941",
+   "en": "Fine, if it's your treat, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01942",
+   "en": "(Honestly, how many girls is he planning\nto make cry?)",
+   "flags": [],
+   "notes": "onna no ko nakaseru."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c01880/c01892: the girls say Mihaeru (Michael-senpai, Michael-kun) while the Stylish Girl and the player say Misheru (Michel-kun); kept the distinction as the glossary says.",
+   "c01924: Michel's 'yuri no aji' rendered 'the sweet taste of love between girls' rather than the loanword 'yuri'.",
+   "c01910: 'go out with her' shared by both player genders; all senders in ext_mcl_001 are girls."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

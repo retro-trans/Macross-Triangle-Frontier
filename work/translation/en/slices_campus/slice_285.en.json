@@ -1,0 +1,419 @@
+{
+ "slice": 285,
+ "rows_in_slice": 66,
+ "rows_examined": 66,
+ "rows": [
+  {
+   "id": "c20416",
+   "en": "(Staying up late made me hungry...\nI need something to eat...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20417",
+   "en": "Huh? \\p-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20418",
+   "en": "Oh, Akimizu.\nWhat are you doing out at this hour?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20419",
+   "en": "Huh? Oh, um, just... some shopping...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20420",
+   "en": "I see. A late-night snack, maybe?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20421",
+   "en": "Wh-What makes you think that!?\n...I mean, it is, but...",
+   "flags": [],
+   "notes": "Sonna koto!? ...aru kedo: she starts to deny it, then admits it."
+  },
+  {
+   "id": "c20422",
+   "en": "Oh, I know... something sweet?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20423",
+   "en": "...Yes... I just got a craving...\n...for some chocolate...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20424",
+   "en": "Ahaha, that's such a girl thing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20425",
+   "en": "(It's nothing she needs to be\nso embarrassed about, though.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20426",
+   "en": "(Staying up late made me hungry~...\nI need something to eat...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20427",
+   "en": "Huh? \\p-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20428",
+   "en": "Oh, Yuu.\nWhat are you doing out at this hour?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20429",
+   "en": "I seeee. A late-night snack, maybe?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20430",
+   "en": "Oh, I know... something sweet, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20431",
+   "en": "Ahaha, that's so you, Yuu.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20432",
+   "en": "(But it's nothing she needs to be\nso embarrassed about.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20433",
+   "en": "\\p-kun! You're safe!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20434",
+   "en": "You too, Akimizu.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20435",
+   "en": "I made it out okay, but the city...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20436",
+   "en": "...Yeah. It's in terrible shape...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20437",
+   "en": "I keep thinking... I wish I could've\nfought them myself...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20438",
+   "en": "I don't want them to do this to us\never again!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Mou kore ijou wa yararetakunai: 'them' = the attackers, unnamed in the scene; shared male/female."
+  },
+  {
+   "id": "c20439",
+   "en": "Yeah, I won't let them do any more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20440",
+   "en": "(Next time, for sure...)",
+   "flags": [],
+   "notes": "Shared by both player genders."
+  },
+  {
+   "id": "c20441",
+   "en": "\\p-chan! You're safe!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20442",
+   "en": "You too, Yuu.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20443",
+   "en": "I managed somehow, but the city...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20444",
+   "en": "...Yeah. It's in terrible shape...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20445",
+   "en": "Yeah, I won't let them do any more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20446",
+   "en": "(Well, the exams are over.\nTime to take a breather.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20447",
+   "en": "Good work, \\p-kun.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Used three times: opening greeting of the male branch, and a closing line in both branches; in the female branch the Japanese has -kun to the female player (the female opening uses -chan, c20456). Kept '-kun' as written; the closing use looks like a script slip."
+  },
+  {
+   "id": "c20448",
+   "en": "Oh, good work to you too, Akimizu.\nHow did your tests go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20449",
+   "en": "Hmmm...\nI don't think I did badly, but I can't tell yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20450",
+   "en": "But your grades always seem to be\nnear the top...",
+   "flags": [],
+   "notes": "Shared by both player genders."
+  },
+  {
+   "id": "c20451",
+   "en": "No, that was just luck, pure luck!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20452",
+   "en": "So modest. That's just like you, Akimizu.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20453",
+   "en": "Oh, come on! It really was just luck!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20454",
+   "en": "(Akimizu's so diligent,\nno wonder her grades are good.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20455",
+   "en": "(Well, the exams are over.\nTime to take a breather.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20456",
+   "en": "Good work, \\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20457",
+   "en": "Oh, good work to you too, Yuu.\nHow did your tests go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20458",
+   "en": "So modest. That's just like you, Yuu.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20459",
+   "en": "(Yuu's so diligent,\nno wonder her grades are good.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20460",
+   "en": "(Well, it's almost lunchtime.\nWhat should I have...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20461",
+   "en": "\\p-kun,\nwhat's wrong? You look like you're\nworried about something.",
+   "flags": [],
+   "notes": "Also used in nml_yuu_016 (male); generic."
+  },
+  {
+   "id": "c20462",
+   "en": "Yeah, I was just wondering\nwhat to eat for lunch...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20463",
+   "en": "Ahaha, you sure love your food!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20464",
+   "en": "Well, yeah. What are you having, Akimizu?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20465",
+   "en": "Let me see... Now that you ask,\nI really have to think about it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20466",
+   "en": "By the way, is there any food you don't like?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20467",
+   "en": "Let me see, not really...\nOh! There is one! A food I can't stand!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20468",
+   "en": "Huh? What is it?",
+   "flags": [],
+   "notes": "Shared by both player genders."
+  },
+  {
+   "id": "c20469",
+   "en": "Um, it's called \"sashimi\"...\nIt's all squishy, and on top of that it has\nthis fishy smell. I just can't handle it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20470",
+   "en": "Huh~, I see.\nBut it doesn't seem like you'd get\nmany chances to eat it anyway.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20471",
+   "en": "That's true. If they served it at Silver Moon\nor someplace, I'd faint for sure!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon: glossary status provisional. The Japanese quotation marks around the name are dropped, as in other finished rows (c00580)."
+  },
+  {
+   "id": "c20472",
+   "en": "Th-That's never gonna happen,\nso don't worry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20473",
+   "en": "(So she can't handle \"sashimi\".\nThat's so girly.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20474",
+   "en": "(Well, it's almost lunchtime.\nWhat should I have...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20475",
+   "en": "\\p-chan,\nwhat's wrong? You look like you're\nworried about something.",
+   "flags": [],
+   "notes": "Also used in nml_yuu_016 (female); generic."
+  },
+  {
+   "id": "c20476",
+   "en": "Oh, yeah, I was just wondering\nwhat to eat for lunch...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20477",
+   "en": "Yeah, I guess so. What are you having, Yuu?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20478",
+   "en": "By the way, is there any food you don't like?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20479",
+   "en": "Huh~, I see.\nBut it doesn't seem like you'd get\nmany chances to eat it anyway.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20480",
+   "en": "Th-That's never gonna happen,\nso don't worry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20481",
+   "en": "(So she can't handle \"sashimi\"...\nThat's so Yuu.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c20447: 'Good work, \\p-kun.' is used three times in nml_yuu_006, once as a closing line in the female branch where the player is addressed -kun (the female opening c20456 uses -chan); kept -kun as written, likely a script slip.",
+   "c20438: 'them' for the unnamed attackers (yararetakunai).",
+   "c20471: Silver Moon (glossary status provisional)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

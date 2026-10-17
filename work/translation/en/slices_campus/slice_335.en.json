@@ -1,0 +1,418 @@
+{
+ "slice": 335,
+ "rows_in_slice": 66,
+ "rows_examined": 66,
+ "rows": [
+  {
+   "id": "c24274",
+   "en": "(Well, class is over.\nGuess I'll head home soon.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24275",
+   "en": "Itsuki Yamashiro\nMihoshi Academy teacher in charge of \"Lectures\"\nSerious by nature; his talks can run a bit long...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Character card. Name given-name first per glossary. Zagaku class = \"Lectures\", as the schedule help (u5458 'Attend lectures'). Shared M/F."
+  },
+  {
+   "id": "c24276",
+   "en": "What is it, Yamashiro-sensei?",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24277",
+   "en": "I noticed something while grading the last quiz.\nYou can handle the basic questions, but your\naccuracy drops sharply on the applied ones.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24278",
+   "en": "And that, of course, is because you haven't\nproperly grasped the fundamentals...",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24279",
+   "en": "(I know he's warning me for my own good, but\nit looks like Yamashiro-sensei's talk is gonna\nrun long...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24280",
+   "en": "Hehe, you haven't changed a bit,\nYamashiro-sensei...",
+   "flags": [],
+   "notes": "Claire, before her name card. Shared M/F."
+  },
+  {
+   "id": "c24281",
+   "en": "But if you go on that long,\neven \\p-kun is going to\nget sick of it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24282",
+   "en": "Claire Stanford\nA Mihoshi Academy graduate\nA dependable upperclassman who looks after others",
+   "flags": [],
+   "notes": "Character card; senpai as a common noun translated. Shared M/F."
+  },
+  {
+   "id": "c24283",
+   "en": "Huh? Isn't that Claire-senpai?\nWhat brings you to Mihoshi?",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24284",
+   "en": "Hehe, I just had a little business here.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24285",
+   "en": "Huh, is that right......",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24286",
+   "en": "Claire-senpai!",
+   "flags": [],
+   "notes": "Akimizu, before her name card. Shared M/F."
+  },
+  {
+   "id": "c24287",
+   "en": "Yuu Akimizu\nA classmate at Mihoshi Academy\nAdores Claire, who's helped her out in many ways",
+   "flags": [],
+   "notes": "Character card. Shared M/F."
+  },
+  {
+   "id": "c24288",
+   "en": "Claire-senpai...\nI'm sooo happy to see you after so long!",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24289",
+   "en": "Funny, I'm pretty sure I saw you on our day off\nlast week, Yuu?",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24290",
+   "en": "H-huh? Did you...?",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24291",
+   "en": "Hey, you lot.\nCrowding around here gets in the other\nstudents' way.",
+   "flags": [],
+   "notes": "Pinon, before her name card. Shared M/F."
+  },
+  {
+   "id": "c24292",
+   "en": "Pinon Colette\nA child prodigy who skipped ahead into Mihoshi\nShe also teaches the \"Special Lectures\" class",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Character card. Tokushu zagaku = \"Special Lectures\" (built on 'Lectures'); not in the glossary. 'Mihoshi Academy' shortened to 'Mihoshi' (glossary alias) for width. Shared M/F."
+  },
+  {
+   "id": "c24293",
+   "en": "Honestly, you people...",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24294",
+   "en": "Long time no see, Pinon-chan.\nHehe, still as tiny and cute as ever~",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24295",
+   "en": "Hey! Don't call me tiny!\nAnd call me Pinon-sensei!!",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24296",
+   "en": "I know, right?\nPinon-chan's still as tiny and cute as ever!",
+   "flags": [],
+   "notes": "Akimizu agreeing with Claire. Shared M/F."
+  },
+  {
+   "id": "c24297",
+   "en": "I said call me S-e-n-s-e-i!\nAnd stop saying I'm still tiny!!\nI've grown a little too, you know!!!",
+   "flags": [],
+   "notes": "Sensei spelled out syllable by syllable in the Japanese. Shared M/F."
+  },
+  {
+   "id": "c24298",
+   "en": "Sorry, but I'm bringing us back on topic.\nAs I was saying, you need to get a firm grip\non the basics...",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24299",
+   "en": "\\p, help me~!\nIt's Claire! Claire's got me~!!",
+   "flags": [],
+   "notes": "Japanese is just 'Claire is--! Claire is~!!'; 'got me' made explicit (Claire is hugging her, next row). Shared M/F."
+  },
+  {
+   "id": "c24300",
+   "en": "Ufufufu...\nHugging Pinon-chan still feels as amazing\nas ever...",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24301",
+   "en": "GYAAAAAAAAAAAAH!!",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24302",
+   "en": "(This doesn't look like it's wrapping up anytime\nsoon... Would it be okay if I just went home...?)",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24303",
+   "en": "(Still, honestly...\nEveryone around me is so lively and fun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24304",
+   "en": "(Well, class is over.\nMaybe I'll head home soon.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24305",
+   "en": "(I know he's warning me for my own good, but\nit looks like Yamashiro-sensei's talk is gonna\nrun long...)",
+   "flags": [],
+   "notes": "Female version of c24279."
+  },
+  {
+   "id": "c24306",
+   "en": "But if you go on that long,\neven \\p-chan is going to\nget sick of it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24307",
+   "en": "(Still, honestly...\nEveryone around me is so lively and fun.)",
+   "flags": [],
+   "notes": "Female version of c24303."
+  },
+  {
+   "id": "c24308",
+   "en": "(I came by S.M.S. since I was bored, but...)",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24309",
+   "en": "Goddammit!",
+   "flags": [],
+   "notes": "Ozma, before his name card. Shared M/F."
+  },
+  {
+   "id": "c24310",
+   "en": "Ozma Lee\nLeader of S.M.S.'s Skull Squadron\nRanka's adoptive brother, with a huge sister complex",
+   "flags": [],
+   "notes": "Character card. Shared M/F."
+  },
+  {
+   "id": "c24311",
+   "en": "Captain Ozma's so on edge...\nWhat on earth happened to him?",
+   "flags": [],
+   "notes": "Spoken aloud (Bobby answers). Aligned to the glossary decision of 2026-10-17."
+  },
+  {
+   "id": "c24312",
+   "en": "Seems Ranka-chan wants to go to\nSheryl's concert.",
+   "flags": [],
+   "notes": "Bobby, before his name card. Shared M/F."
+  },
+  {
+   "id": "c24313",
+   "en": "Bobby Margot\nHelmsman of the Macross Quarter\nA man with the heart of a maiden",
+   "flags": [],
+   "notes": "Character card. Shared M/F."
+  },
+  {
+   "id": "c24314",
+   "en": "But it's Sheryl's concert, of all things!\nTickets are so hard to get, poor Ozma's\nin a real pickle.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24315",
+   "en": "Ozma spoils Ranka rotten, as always.",
+   "flags": [],
+   "notes": "Canaria, before her name card. Shared M/F."
+  },
+  {
+   "id": "c24316",
+   "en": "Canaria Berstein\nA pilot with S.M.S.\nWorks as a medic when not in combat",
+   "flags": [],
+   "notes": "Character card. Shared M/F."
+  },
+  {
+   "id": "c24317",
+   "en": "Well, that's nothing new.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24318",
+   "en": "Dammit! I can't even get Ranka\none lousy ticket...",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24319",
+   "en": "Don't get so down, Captain Ozma.\nI'm sure you'll get your hands on a ticket.",
+   "flags": [],
+   "notes": "Shared M/F. Aligned to the glossary decision of 2026-10-17."
+  },
+  {
+   "id": "c24320",
+   "en": "Come to think of it, I hear you're doing\nstunts at Sheryl's concert.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24321",
+   "en": "Then getting one ticket should be a piece of\ncake for you, right?",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24322",
+   "en": "That's an order from your commander!\nGet me a ticket to Sheryl's concert, no matter what!",
+   "flags": [],
+   "notes": "Taichou meirei = an order from the squad leader. Shared M/F."
+  },
+  {
+   "id": "c24323",
+   "en": "And if you can't get one...\nyou know what'll happen, right?",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24324",
+   "en": "Y-yes sir!!",
+   "flags": [],
+   "notes": "Shared M/F; 'sir' is Ozma."
+  },
+  {
+   "id": "c24325",
+   "en": "Good! I'm counting on you, then.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24326",
+   "en": "(Captain Ozma... I know it's for Ranka, but\nhe doesn't have to make it an order...)",
+   "flags": [],
+   "notes": "Aligned to the glossary decision of 2026-10-17."
+  },
+  {
+   "id": "c24327",
+   "en": "(I mean, this is just a flat-out threat...)",
+   "flags": [],
+   "notes": "Kyouhaku = intimidation/blackmail. Shared M/F."
+  },
+  {
+   "id": "c24328",
+   "en": "Sounds rough, \\p.",
+   "flags": [],
+   "notes": "Klan, before her name card. Shared M/F."
+  },
+  {
+   "id": "c24329",
+   "en": "Klan Klang\nKlan Klang, macronized to Zentradi size\nLeader of S.M.S.'s Pixie Team",
+   "flags": [],
+   "notes": "Character card. Zentradi-ka = macronized. Shared M/F."
+  },
+  {
+   "id": "c24330",
+   "en": "Ozma's doting on Ranka is a real headache too.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24331",
+   "en": "Tell me about it...",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24332",
+   "en": "Heh, well, it's for Ranka's sake too.\nDo your best to get her that ticket, boy.",
+   "flags": [],
+   "notes": "Shounen = boy (male version only)."
+  },
+  {
+   "id": "c24333",
+   "en": "I'll do the best I can...",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24334",
+   "en": "(If I can't get that ticket,\nCaptain Ozma might actually kill me...)",
+   "flags": [],
+   "notes": "Aligned to the glossary decision of 2026-10-17."
+  },
+  {
+   "id": "c24335",
+   "en": "(Haah... I'd better give it my all...)",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24336",
+   "en": "Captain Ozma's so on edge...\nI wonder what on earth happened?",
+   "flags": [],
+   "notes": "Female version of c24311. Aligned to the glossary decision of 2026-10-17."
+  },
+  {
+   "id": "c24337",
+   "en": "(Captain Ozma...\nI know it's for Ranka-chan, but\nhe doesn't have to make it an order...)",
+   "flags": [],
+   "notes": "Aligned to the glossary decision of 2026-10-17."
+  },
+  {
+   "id": "c24338",
+   "en": "Heh, well, it's for Ranka's sake too.\nDo your best to get her that ticket.",
+   "flags": [],
+   "notes": "Female version: no 'boy'."
+  },
+  {
+   "id": "c24339",
+   "en": "(If I can't get that ticket,\nCaptain Ozma might kill me...)",
+   "flags": [],
+   "notes": "Aligned to the glossary decision of 2026-10-17."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c24275: zagaku class rendered \"Lectures\" (from schedule help u5458 'Attend lectures'); no glossary entry.",
+   "c24292: tokushu zagaku rendered \"Special Lectures\"; no glossary entry. 'Mihoshi Academy' shortened to 'Mihoshi' for width."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "zagaku (class) -> 'Lectures'; tokushu zagaku -> 'Special Lectures' (campus class names, not in terms.json)"
+  ],
+  "unfinished": []
+ }
+}

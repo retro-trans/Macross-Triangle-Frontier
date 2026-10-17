@@ -1,0 +1,527 @@
+{
+ "slice": 11,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o7_exd/1147",
+   "en": "Would you kindly give priority to intercepting the poachers and protecting the whales?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1147",
+   "en": "Priority: intercept the poachers and protect the whales.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1148",
+   "en": "We shall now begin the patrol unit's training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1148",
+   "en": "We're now starting the patrol unit's training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1149",
+   "en": "The next team has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1149",
+   "en": "The next team has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1150",
+   "en": "That is the last team, I believe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1150",
+   "en": "That's the last team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1151",
+   "en": "Liza has come to back us up, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1151",
+   "en": "Liza has come to back us up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1152",
+   "en": "Would you kindly cover Liza's withdrawal?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1152",
+   "en": "Cover Liza's withdrawal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1153",
+   "en": "Liza's withdrawal confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1153",
+   "en": "Liza's withdrawal confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1154",
+   "en": "Liza's craft appears to have been disabled.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1154",
+   "en": "Liza's craft has been disabled.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1155",
+   "en": "A missile appears to have been launched from the poachers' mothership. A reaction weapon, I suspect.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hannou-dan' written with 'group'; read as reaction weapon."
+  },
+  {
+   "id": "of_ktr/1155",
+   "en": "A missile was launched from the poachers' mothership. Probably a reaction weapon!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1156",
+   "en": "Missile believed to be a reaction weapon confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1156",
+   "en": "Probable reaction weapon missile confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1157",
+   "en": "Would you kindly destroy the reaction weapon?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1157",
+   "en": "Destroy the reaction weapon!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1158",
+   "en": "Protect the Galaxy Whales from the poachers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1158",
+   "en": "Protect the Galaxy Whales from the poachers!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1160",
+   "en": "The Presidential Office requests S.M.S. deployment. All squadrons, scramble. Mission code Victor 3. I repeat, Victor 3 has been issued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1160",
+   "en": "Presidential Office is requesting S.M.S. to deploy. All squadrons, scramble. Mission code Victor 3. I repeat, Victor 3 has been issued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1161",
+   "en": "Purple and Vermillion Flights wiped out. The final defense line has been breached, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1161",
+   "en": "Purple and Vermillion Flights wiped out. The final defense line's been breached.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1162",
+   "en": "We shall hold a joint exercise with the New U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1162",
+   "en": "We will hold a joint exercise with the New U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1163",
+   "en": "A Konig Monster has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1163",
+   "en": "A Konig Monster has appeared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1164",
+   "en": "Things are in confusion. The Presidential Office has given no launch clearance.",
+   "flags": [],
+   "notes": "hasshin (transmit) read as hasshin (launch)."
+  },
+  {
+   "id": "of_ktr/1164",
+   "en": "It seems to be chaos there. No launch clearance from the Presidential Office.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'shiteiru yo ne' read as 'shiteiru you ne' (it seems), as Claire and Misa say."
+  },
+  {
+   "id": "o7_exd/1165",
+   "en": "We shall hold a mock battle with Pixie Team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1165",
+   "en": "We'll hold a mock battle with Pixie Team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1166",
+   "en": "Defold reaction. It is Victor, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1166",
+   "en": "Defold reaction. It's Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1167",
+   "en": "Go and scout the thieves' hideout.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1167",
+   "en": "Go and scout the thieves' hideout.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1168",
+   "en": "We shall hold a mock battle with Skull Squadron.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1168",
+   "en": "We'll hold a mock battle with Skull Squadron.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1169",
+   "en": "Have you been shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1169",
+   "en": "You were shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1170",
+   "en": "Go and rescue our allies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1170",
+   "en": "Go rescue our allies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1171",
+   "en": "We have rescued our allies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1171",
+   "en": "We rescued our allies!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1172",
+   "en": "Escape from the enemy ship.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Exsedol's clip is an order (seyo), like Misa's; Yuu, Claire, Pinon and Itsuki say 'we're escaping'. Translated the order."
+  },
+  {
+   "id": "of_ktr/1172",
+   "en": "Please escape from the enemy ship.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Catherine's clip is a polite order (shite kudasai); translated as such, unlike the 'we're escaping' of most shared clips."
+  },
+  {
+   "id": "o7_exd/1173",
+   "en": "Macross Cannon, charging energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1173",
+   "en": "Macross Cannon, charging energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1174",
+   "en": "Our allies are in combat. Go and support them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1174",
+   "en": "Our allies are in combat! Go support them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1175",
+   "en": "Would you kindly put down the Zentradi riot that broke out on Gallia 4?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Garia-hou' read as Gallia 4 (Garia fo)."
+  },
+  {
+   "id": "of_ktr/1175",
+   "en": "Please put down the Zentradi riot that broke out on Gallia 4.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1176",
+   "en": "Would you kindly investigate the inside of the old Macross the Vajra are believed to have sunk?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1176",
+   "en": "Please investigate the inside of the old Macross the Vajra are believed to have sunk.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1177",
+   "en": "It is going to explode! Escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1177",
+   "en": "It's going to blow! Get out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1178",
+   "en": "An unidentified fold fault is heading this way. Evacuate at once.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'fooldo danso' read as fold dansou (fold fault)."
+  },
+  {
+   "id": "of_ktr/1178",
+   "en": "An unidentified fold fault is heading our way. Evacuate at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1179",
+   "en": "Numerous defold reactions confirmed in the space ahead. They keep increasing. Several carrier-class ships too. A veritable horde.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'chuuiki' read as 'chuuiki' (space zone); trailing 'desu ga' read as 'desu na'."
+  },
+  {
+   "id": "of_ktr/1179",
+   "en": "Many defold reactions confirmed in the space ahead. They keep increasing. Several carrier-class ships too. It's a huge fleet.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'default' read as defold."
+  },
+  {
+   "id": "o7_exd/1180",
+   "en": "Captain!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kanshou' read as 'kanchou' (captain), as the other operators say."
+  },
+  {
+   "id": "of_ktr/1180",
+   "en": "Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1181",
+   "en": "We shall conduct an experiment using Ranka Lee's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1181",
+   "en": "We'll run an experiment using Ranka Lee's song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1182",
+   "en": "Ranka Attack, commencing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1182",
+   "en": "Ranka Attack, begin!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Ranku' read as Ranka."
+  },
+  {
+   "id": "o7_exd/1183",
+   "en": "Would you kindly escort the Macross Quarter?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1183",
+   "en": "Please escort the Macross Quarter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1184",
+   "en": "Our gunfire is not getting through to the Vajra, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1184",
+   "en": "Gunfire isn't working on the Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1185",
+   "en": "Gunfire is not working. Take them down in melee.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kikimasun na' read as 'kikimasen na' (not working)."
+  },
+  {
+   "id": "of_ktr/1185",
+   "en": "Gunfire isn't working. Take them down in melee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1186",
+   "en": "Escort Battle Frontier until the ultra-long-range fold begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1186",
+   "en": "Please escort Battle Frontier until the ultra-long-range fold starts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1187",
+   "en": "Ultra-long-range fold commencing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1187",
+   "en": "Ultra-long-range fold starting.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 849-850: both new clips are orders ('escape from the enemy ship'), while most shared operator clips say 'we're escaping'; translated what these clips say."
+  ],
+  "whisper_doubt": [
+   "row 817: hannou-dan",
+   "row 834: you ne",
+   "row 855: Gallia 4",
+   "row 861: fold fault",
+   "rows 863-864: space zone, defold",
+   "row 865: kanchou",
+   "row 870: Ranka",
+   "row 875: kikimasen"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

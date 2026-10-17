@@ -1,0 +1,534 @@
+{
+ "slice": 29,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "of_ktr/3283",
+   "en": "VF-1 Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3284",
+   "en": "SDF-1 Macross, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3284",
+   "en": "SDF-1 Macross, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3285",
+   "en": "VT-1 Super Ostrich, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3285",
+   "en": "VT-1 Super Ostrich, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3286",
+   "en": "VF-4 Lightning III, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3286",
+   "en": "VF-4 Lightning III, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3287",
+   "en": "Regult, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Rinaado'; the operator script reads Rigaado (Regult)."
+  },
+  {
+   "id": "of_ktr/3287",
+   "en": "Regult, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3288",
+   "en": "Glaug, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3288",
+   "en": "Glaug, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3289",
+   "en": "Nousjadeul-Ger, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Nuujaderuna'; read as Nuujaderugaa (Nousjadeul-Ger)."
+  },
+  {
+   "id": "of_ktr/3289",
+   "en": "Nousjadeul-Ger, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3290",
+   "en": "All squad members, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3290",
+   "en": "All squad members, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Kurinariku'; read as Kuridanikku (Kridanik). Shirei written with the wrong kanji."
+  },
+  {
+   "id": "of_ktr/3291",
+   "en": "Fleet Commander Vrlitwhai Kridanik, stand by to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Shirei (commander) written with the wrong kanji; same reading."
+  },
+  {
+   "id": "o7_exd/3292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Kikan (main) written with the wrong kanji (engine); read as kikan kantai, main fleet."
+  },
+  {
+   "id": "of_ktr/3292",
+   "en": "Main Fleet Supreme Commander Golg Boddole Zer, stand by to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Kikan (main) written with the wrong kanji (engine); read as kikan kantai, main fleet."
+  },
+  {
+   "id": "o7_exd/3293",
+   "en": "VF-11 Thunderbolt, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3293",
+   "en": "VF-11 Thunderbolt, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3294",
+   "en": "YF-19 Excalibur, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3294",
+   "en": "YF-19 Excalibur, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3295",
+   "en": "YF-21 Sturmvogel, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Sutorumufoogeru'; read as Shuturumufoogeru (Sturmvogel)."
+  },
+  {
+   "id": "of_ktr/3295",
+   "en": "YF-21 Sturmvogel, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3296",
+   "en": "X-9 Ghost, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3296",
+   "en": "X-9 Ghost, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3297",
+   "en": "VF-17 Nightmare, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3297",
+   "en": "VF-17 Nightmare, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3298",
+   "en": "VF-19 Excalibur, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3298",
+   "en": "VF-19 Excalibur, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3299",
+   "en": "Mylene Valkyrie, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3299",
+   "en": "Mylene Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3300",
+   "en": "Fire Valkyrie, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3300",
+   "en": "Fire Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3301",
+   "en": "Storm Valkyrie, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3301",
+   "en": "Storm Valkyrie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3302",
+   "en": "Sound Force, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3302",
+   "en": "Sound Force, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3303",
+   "en": "VF-22 Sturmvogel II, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Sutorumufoogeru 2'; read as Sturmvogel II."
+  },
+  {
+   "id": "of_ktr/3303",
+   "en": "VF-22 Sturmvogel II, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3304",
+   "en": "Battle 7, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3304",
+   "en": "Battle 7, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3305",
+   "en": "Fz-109 Elgersoln, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Erugaazorumu'; read as Erugaazorun (Elgersoln)."
+  },
+  {
+   "id": "of_ktr/3305",
+   "en": "Fz-109 Elgersoln, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3306",
+   "en": "Az-130 Panzersoln, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3306",
+   "en": "Az-130 Panzersoln, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3307",
+   "en": "FBz-99 Zaubergeran, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3307",
+   "en": "FBz-99 Zaubergeran, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3308",
+   "en": "Queadluun-Rau, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Kuadoramuroo'; read as Kuadoranroo (Queadluun-Rau)."
+  },
+  {
+   "id": "of_ktr/3308",
+   "en": "Queadluun-Rau, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3309",
+   "en": "Glavil, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3309",
+   "en": "Glavil, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3310",
+   "en": "Lord Gepelnitchi, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Geberunicchi'; read as Geperunicchi (Gepelnitchi)."
+  },
+  {
+   "id": "of_ktr/3310",
+   "en": "Lord Gepelnitchi, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3311",
+   "en": "VF-5000 Star Mirage, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3311",
+   "en": "VF-5000 Star Mirage, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3312",
+   "en": "VA-C-3 Invader, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3312",
+   "en": "VA-C-3 Invader, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3313",
+   "en": "Graham Hoilie, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Foirii'; read as Hoirii (Graham Hoilie)."
+  },
+  {
+   "id": "of_ktr/3313",
+   "en": "Graham Hoilie, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3314",
+   "en": "Destroid Cheyenne II, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3314",
+   "en": "Destroid Cheyenne II, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3315",
+   "en": "VF-171 Nightmare Plus, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3315",
+   "en": "VF-171 Nightmare Plus, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3316",
+   "en": "VF-171EX Nightmare Plus, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3316",
+   "en": "VF-171EX Nightmare Plus, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3317",
+   "en": "RVF-171EX Nightmare Plus, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3317",
+   "en": "RVF-171EX Nightmare Plus, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3318",
+   "en": "VF-25 Messiah, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3318",
+   "en": "VF-25 Messiah, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3319",
+   "en": "RVF-25 Messiah, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3319",
+   "en": "RVF-25 Messiah, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3320",
+   "en": "Queadluun-Rhea, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3320",
+   "en": "Queadluun-Rhea, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3321",
+   "en": "Klan Klang's team, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'Kurankuran taimu'; read as Kurankuran taiin (Klan Klang's team), as the Catherine clip says."
+  },
+  {
+   "id": "of_ktr/3321",
+   "en": "Klan Klang's team, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3322",
+   "en": "Konig Monster, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3322",
+   "en": "Konig Monster, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3323",
+   "en": "Macross Quarter, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 2248: o7_exd/3287 Transcript 'Rinaado'; the operator script reads Rigaado (Regult).",
+   "row 2252: o7_exd/3289 Transcript 'Nuujaderuna'; read as Nuujaderugaa (Nousjadeul-Ger).",
+   "row 2256: o7_exd/3291 Transcript 'Kurinariku'; read as Kuridanikku (Kridanik). Shirei written with the wrong kanji.",
+   "row 2257: of_ktr/3291 Shirei (commander) written with the wrong kanji; same reading.",
+   "row 2258: o7_exd/3292 Kikan (main) written with the wrong kanji (engine); read as kikan kantai, main fleet.",
+   "row 2259: of_ktr/3292 Kikan (main) written with the wrong kanji (engine); read as kikan kantai, main fleet.",
+   "row 2264: o7_exd/3295 Transcript 'Sutorumufoogeru'; read as Shuturumufoogeru (Sturmvogel).",
+   "row 2280: o7_exd/3303 Transcript 'Sutorumufoogeru 2'; read as Sturmvogel II.",
+   "row 2284: o7_exd/3305 Transcript 'Erugaazorumu'; read as Erugaazorun (Elgersoln).",
+   "row 2290: o7_exd/3308 Transcript 'Kuadoramuroo'; read as Kuadoranroo (Queadluun-Rau).",
+   "row 2294: o7_exd/3310 Transcript 'Geberunicchi'; read as Geperunicchi (Gepelnitchi).",
+   "row 2300: o7_exd/3313 Transcript 'Foirii'; read as Hoirii (Graham Hoilie).",
+   "row 2316: o7_exd/3321 Transcript 'Kurankuran taimu'; read as Kurankuran taiin (Klan Klang's team), as the Catherine clip says."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,433 @@
+{
+ "slice": 129,
+ "rows_in_slice": 70,
+ "rows_examined": 70,
+ "rows": [
+  {
+   "id": "c09477",
+   "en": "(Today I'm going to a movie with Luca, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09478",
+   "en": "Luca's late... What's keeping the guy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09479",
+   "en": "I-I'm so sorry! I'm late!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09480",
+   "en": "There you are at last, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09481",
+   "en": "I'm really sorry...! I overslept...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09482",
+   "en": "It's rare for you to oversleep, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09483",
+   "en": "My alarm clock stopped...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09484",
+   "en": "I see...\nThen it can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09485",
+   "en": "Anyway, let's hurry up and go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09486",
+   "en": "That was a great movie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09487",
+   "en": "The last scene is burned into my mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09488",
+   "en": "I was so into it I watched\nall the way through the credits.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09489",
+   "en": "Oh, let's talk about it properly over a meal!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09490",
+   "en": "Yeah, let's do that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09491",
+   "en": "(Today I'm going to a movie with Luca-kun,\nbut...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09492",
+   "en": "Luca-kun's late...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09493",
+   "en": "You're finally here~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09494",
+   "en": "It's rare for you to oversleep, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09495",
+   "en": "I seeee...\nThen it can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09496",
+   "en": "Anyway, let's hurry up and go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09497",
+   "en": "That was a great movie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09498",
+   "en": "Yeah.",
+   "flags": [],
+   "notes": "x11, female player in several scenes (incl. the Christmas scenes); kept as a plain agreement."
+  },
+  {
+   "id": "c09499",
+   "en": "(Luca and I had plans to see a movie\nagain today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09500",
+   "en": "Hey, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09501",
+   "en": "You're early today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09502",
+   "en": "I made sure to keep an eye on the clock.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09503",
+   "en": "Oh, it's almost time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09504",
+   "en": "All right, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09505",
+   "en": "It was a long movie,\nbut it went by in a flash...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09506",
+   "en": "It was put together so you never got bored.\nAnd the foreshadowing was all\nproperly set up, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09507",
+   "en": "Well then, sad as it is to part,\nlet's call it a day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09508",
+   "en": "(Luca-kun and I had plans to see a movie\nagain today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09509",
+   "en": "Yo, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09510",
+   "en": "You're early today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09511",
+   "en": "Heehee! Is that so?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09512",
+   "en": "All right, let's gooo!",
+   "flags": [],
+   "notes": "Japanese writes 'let's go' in kana (rettsu goo); x2, female player."
+  },
+  {
+   "id": "c09513",
+   "en": "It was a long movie,\nbut it went by in a flash...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09514",
+   "en": "See ya~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09515",
+   "en": "(School's finally out...\nMaybe I'll walk a bit on the way home today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09516",
+   "en": "\\p-san...!\nWhat are you doing here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09517",
+   "en": "I'm taking a walk for a change of pace...\nWhat about you, Luca?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09518",
+   "en": "I was just taking a walk too,\nfor no particular reason.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09519",
+   "en": "That's kind of unusual for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09520",
+   "en": "...Is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09521",
+   "en": "I had this image of you as pretty organized.\nLike, 'Everything on schedule!'",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09522",
+   "en": "What kind of image do you have of me...?",
+   "flags": [],
+   "notes": "x4, also Shirakawa in nml_myk_002 (player imagines she likes classical music); works for both."
+  },
+  {
+   "id": "c09523",
+   "en": "Oh, it's about time I headed back...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09524",
+   "en": "Okay. I'm glad we got to talk.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09525",
+   "en": "Same here. Well, see you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09526",
+   "en": "(School's finally out...\nMaybe I'll walk a bit on the way home today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09527",
+   "en": "I'm taking a walk for a change of pace...\nWhat about you, Luca-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09528",
+   "en": "That's kind of unusual for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09529",
+   "en": "I had this image of you as pretty organized.\nLike, 'Everything on schedule!', you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09530",
+   "en": "Yeah, talking with you was fun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09531",
+   "en": "(School's finally out...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09532",
+   "en": "Want to take a little walk on the way home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09533",
+   "en": "A walk? Sure, I'd like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09534",
+   "en": "All right, where should we go...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09535",
+   "en": "So it's Griffith Park, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09536",
+   "en": "If you want to watch the sunset,\nthis is the place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09537",
+   "en": "...What a nice view.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09538",
+   "en": "Yeah, this sunset really perks you up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09539",
+   "en": "It makes you want to give it your all\ntomorrow too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09540",
+   "en": "Well then, shall we head home...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09541",
+   "en": "(That was another nice change of pace.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09542",
+   "en": "Hey, hey, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09543",
+   "en": "All right, where should we go~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09544",
+   "en": "If you want to watch the sunset,\nthis is the place!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09545",
+   "en": "Yeah, this sunset really perks you up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09546",
+   "en": "(That was another nice change of pace~)",
+   "flags": [],
+   "notes": "x4, also frd_myk_104/108 (incl. a male variant)."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

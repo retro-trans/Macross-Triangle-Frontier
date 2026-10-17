@@ -1,0 +1,515 @@
+{
+ "slice": 43,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "pf_bob/167",
+   "en": "Hit 'em hard!",
+   "flags": [],
+   "notes": "Melee order to the partner."
+  },
+  {
+   "id": "pf_bob/168",
+   "en": "I'm leaving close combat to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/169",
+   "en": "In love and war, patience is key.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/170",
+   "en": "Sometimes you need to pull back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/171",
+   "en": "Defend yourself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/172",
+   "en": "Go on, make it flashy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/173",
+   "en": "Let 'em have it!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'buchikawase' read as buchikamase."
+  },
+  {
+   "id": "pf_bob/174",
+   "en": "Put some spirit into it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/176",
+   "en": "All right!",
+   "flags": [
+    "uncertain",
+    "whisper_doubt"
+   ],
+   "notes": "Heard 'zero shaa'; guessed osshaa! (all right!), a skill shout between 'yosshaa!' (175) and 177."
+  },
+  {
+   "id": "pf_bob/177",
+   "en": "Looks like you went and made me mad.",
+   "flags": [],
+   "notes": "Rough male register."
+  },
+  {
+   "id": "pf_bob/178",
+   "en": "OK!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/179",
+   "en": "Aye aye!",
+   "flags": [],
+   "notes": "aissaa (aye, sir)."
+  },
+  {
+   "id": "pf_bob/180",
+   "en": "You got it!",
+   "flags": [],
+   "notes": "gatten shouchi."
+  },
+  {
+   "id": "pf_bob/181",
+   "en": "Captain, calm down a little.",
+   "flags": [],
+   "notes": "taichou = Captain (the player as team leader)."
+  },
+  {
+   "id": "pf_bob/182",
+   "en": "Captain, you're getting way too carried away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/183",
+   "en": "Captain, this is getting dangerous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/184",
+   "en": "Captain... how could you leave me behind?",
+   "flags": [],
+   "notes": "Captain shot down."
+  },
+  {
+   "id": "pf_bob/185",
+   "en": "No! This can't be happening!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/186",
+   "en": "Captain...!",
+   "flags": [],
+   "notes": "Only the word taichou (2.4 s), cried out."
+  },
+  {
+   "id": "pf_bob/187",
+   "en": "My heart won't stop pounding.",
+   "flags": [],
+   "notes": "Song lines (187-189)."
+  },
+  {
+   "id": "pf_bob/188",
+   "en": "What a lovely song. It makes my heart flutter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/189",
+   "en": "I can't stop it! My heart won't stop racing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/190",
+   "en": "Ooh! Captain, you're so cool!",
+   "flags": [],
+   "notes": "kyaa!"
+  },
+  {
+   "id": "pf_bob/191",
+   "en": "That's our Captain! Way to go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/192",
+   "en": "That's my darling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/193",
+   "en": "Eeek! Basara!",
+   "flags": [],
+   "notes": "Basara-sama: honorific dropped per voice style."
+  },
+  {
+   "id": "pf_bob/197",
+   "en": "Sorry about that. Thanks for the rescue.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/198",
+   "en": "Oh my, you saved me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/200",
+   "en": "Oh my, you're pretty good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/201",
+   "en": "Your skills aren't bad at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/210",
+   "en": "First, please calm down.",
+   "flags": [],
+   "notes": "Polite register in the TF partner lines 210-212."
+  },
+  {
+   "id": "pf_bob/211",
+   "en": "You're a bit too far forward.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/212",
+   "en": "This is getting dangerous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/213",
+   "en": "This is just too cruel.",
+   "flags": [],
+   "notes": "Partner shot down."
+  },
+  {
+   "id": "pf_bob/214",
+   "en": "No way. You're joking, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/215",
+   "en": "Damn it! Who the hell did this?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/216",
+   "en": "Impressive as always.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/217",
+   "en": "Ooh, that gives me shivers!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'shippireru' read as shibireru (thrilling)."
+  },
+  {
+   "id": "pf_bob/300",
+   "en": "Get in my way and I'll kill you!",
+   "flags": [],
+   "notes": "Partner lines with a male player (300-331)."
+  },
+  {
+   "id": "pf_bob/301",
+   "en": "Sorry, but I have the right to choose my men too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/302",
+   "en": "Teaming up with you is the worst!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/303",
+   "en": "I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/304",
+   "en": "Let's go. Follow me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/305",
+   "en": "Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/306",
+   "en": "Do your best. I'm expecting great things.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/307",
+   "en": "This is a piece of cake for us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/308",
+   "en": "With you, success is guaranteed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/309",
+   "en": "Don't worry. I may not look it, but I'm the devoted type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/310",
+   "en": "If you do well, I'll give you a reward later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/311",
+   "en": "Being with you makes me go all mushy.",
+   "flags": [],
+   "notes": "derechau."
+  },
+  {
+   "id": "pf_bob/320",
+   "en": "Don't you ever show me your face again!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/321",
+   "en": "You're a real disappointment.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'gakkori' read as gakkari."
+  },
+  {
+   "id": "pf_bob/322",
+   "en": "What a useless man.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/323",
+   "en": "Keep it up next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/324",
+   "en": "I expect you to handle at least this much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/325",
+   "en": "The mission's over. Shall we head home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/326",
+   "en": "You've gotten a little better, haven't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/327",
+   "en": "Good work. You looked cool out there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/328",
+   "en": "You did great. I'll give you a little praise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/329",
+   "en": "Now I'm sure. You... are my... destined one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/330",
+   "en": "I received your love, loud and clear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/331",
+   "en": "Let my feelings reach you! ...Huh?",
+   "flags": [
+    "uncertain",
+    "whisper_doubt"
+   ],
+   "notes": "'todoken' read as todoke(e)! - the trailing 'e?' suggests the partner reacts; kept as a surprised 'Huh?'."
+  },
+  {
+   "id": "pf_bob/340",
+   "en": "On a mission with a little girl? Just my luck.",
+   "flags": [],
+   "notes": "Partner lines with a female player (340-371): komusume."
+  },
+  {
+   "id": "pf_bob/341",
+   "en": "So it's with you. I'm worried.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/342",
+   "en": "I'm so worried. Will this really be okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/343",
+   "en": "Shall we put our backs into work again today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/344",
+   "en": "Relax. I'll back you up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/345",
+   "en": "Don't slack off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/346",
+   "en": "Two fine women together. Let's do our best.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/347",
+   "en": "You can do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/348",
+   "en": "Let's show them what we're made of.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/349",
+   "en": "You and me, the ultimate maiden duo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/350",
+   "en": "I've acknowledged you. Have some confidence.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/351",
+   "en": "Let's wrap this up quick and go have some tea.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/360",
+   "en": "This is why I didn't want to work with a little girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/361",
+   "en": "Hmm, I wore myself out for nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/362",
+   "en": "If stress ruins my skin, it's on you!",
+   "flags": [],
+   "notes": "Compressed 'what will you do (for me) if stress ruins my skin'."
+  },
+  {
+   "id": "pf_bob/363",
+   "en": "Learn from me and be a little more ladylike.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/364",
+   "en": "You did well. You're pretty good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/365",
+   "en": "I'll admit it, you've got skill.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3369 (pf_bob/176): Heard 'zero shaa'; guessed osshaa! (all right!), a skill shout between 'yosshaa!' (175) and 177.",
+   "row 3422 (pf_bob/331): 'todoken' read as todoke(e)! - the trailing 'e?' suggests the partner reacts; kept as a surprised 'Huh?'."
+  ],
+  "whisper_doubt": [
+   "row 3367 (pf_bob/173): 'buchikawase' read as buchikamase.",
+   "row 3369 (pf_bob/176): Heard 'zero shaa'; guessed osshaa! (all right!), a skill shout between 'yosshaa!' (175) and 177.",
+   "row 3398 (pf_bob/217): 'shippireru' read as shibireru (thrilling).",
+   "row 3412 (pf_bob/321): 'gakkori' read as gakkari.",
+   "row 3422 (pf_bob/331): 'todoken' read as todoke(e)! - the trailing 'e?' suggests the partner reacts; kept as a surprised 'Huh?'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

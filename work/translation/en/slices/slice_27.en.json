@@ -1,0 +1,379 @@
+{
+ "slice": 27,
+ "rows_in_slice": 58,
+ "rows_examined": 58,
+ "rows": [
+  {
+   "id": "u3369",
+   "en": "Macross: Do You Remember Love?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3370",
+   "en": "Lynn Minmay (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3371",
+   "en": "Maximilian Jenius (Giant)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3372",
+   "en": "Myung Fang Lone",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3373",
+   "en": "Maximilian Jenius (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3374",
+   "en": "Basara Nekki (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3375",
+   "en": "Macross F",
+   "flags": [],
+   "notes": "tm 'Macross Frontier' was 105 px in an 87 px box; 'Macross F' (glossary alias) fits and matches u3381 'Macross F Movie'."
+  },
+  {
+   "id": "u3376",
+   "en": "Klan Klang (Micronian)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3377",
+   "en": "Klan Klang (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3378",
+   "en": "Ranka Lee (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3379",
+   "en": "Sheryl Nome (Pilot Suit)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3380",
+   "en": "Nanase Matsuura",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Full glossary name; a little over the estimated box (108 px vs 87 px)."
+  },
+  {
+   "id": "u3381",
+   "en": "Macross F Movie",
+   "flags": [],
+   "notes": "'Macross Frontier Movie' (148 px) is over the 140 px box; glossary alias 'Macross F' used."
+  },
+  {
+   "id": "u3382",
+   "en": "Macross II",
+   "flags": [],
+   "notes": "Japanese writes Macross with a full-width 2; it is the Macross II category (glossary works: Macross II)."
+  },
+  {
+   "id": "u3383",
+   "en": "Hibiki Kanzaki",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Full glossary name; slightly over the estimated box (91 px vs 87 px)."
+  },
+  {
+   "id": "u3384",
+   "en": "Extra",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3385",
+   "en": "■Zero■",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3386",
+   "en": "■Macross■",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3387",
+   "en": "Super Pack (TV)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3388",
+   "en": "Zentradi Soldier (Green)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3389",
+   "en": "Zentradi Soldier (Purple)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3390",
+   "en": "■DYRL■",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3391",
+   "en": "Super Pack (Movie)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3392",
+   "en": "■Plus■",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3393",
+   "en": "Queadluun-Rau (Chlore)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3394",
+   "en": "■Dynamite 7■",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3395",
+   "en": "Armored (Final Battle)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3396",
+   "en": "■F Movie■",
+   "flags": [],
+   "notes": "Category tag like ■DYRL■; 'Frontier Movie' would not fit the 105 px box."
+  },
+  {
+   "id": "u3397",
+   "en": "VF-25A (Standard)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3398",
+   "en": "■Extra■",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3399",
+   "en": "VF-9 (Standard)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3400",
+   "en": "Aimo O.C. (Vocal)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Song 'Aimo O.C.' is not in the glossary (only 'Aimo'). (Vocal) as in the sound-test rows."
+  },
+  {
+   "id": "u3401",
+   "en": "Zero: Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3402",
+   "en": "Zero: Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3403",
+   "en": "SDF: Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3404",
+   "en": "SDF: Epilogue 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3405",
+   "en": "SDF: Epilogue 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3406",
+   "en": "DYRL: Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3407",
+   "en": "DYRL: Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3408",
+   "en": "Plus: Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3409",
+   "en": "Plus: Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3410",
+   "en": "Macross 7: Prologue",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tm kept; 2 px over the estimated box, same shape as u3418/u3419."
+  },
+  {
+   "id": "u3411",
+   "en": "Macross 7: Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3412",
+   "en": "D7: Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3413",
+   "en": "D7: Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3414",
+   "en": "Frontier: Prologue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3415",
+   "en": "Frontier: Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3416",
+   "en": "F Movie: Prologue",
+   "flags": [],
+   "notes": "Same short form as u3396 (F Movie = Macross Frontier movie)."
+  },
+  {
+   "id": "u3417",
+   "en": "F Movie: Epilogue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3418",
+   "en": "Macross II: Prologue",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Parallels 'Macross 7: Prologue' (u3410), which is also a few px over its estimated box."
+  },
+  {
+   "id": "u3419",
+   "en": "Macross II: Epilogue",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As u3418."
+  },
+  {
+   "id": "u3420",
+   "en": "Grace O'Connor (Queen)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3421",
+   "en": "Misa Hayase",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3422",
+   "en": "VF-0D (Standard)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3423",
+   "en": "VF-1A (Kakizaki, TV)",
+   "flags": [],
+   "notes": "Parallels u3424 'VF-1A (Kakizaki, Movie)'."
+  },
+  {
+   "id": "u3424",
+   "en": "VF-1A (Kakizaki, Movie)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3425",
+   "en": "VF-1A (Milia)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3426",
+   "en": "Queadluun-Rau (Rogue)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u3380, u3383: full names (Nanase Matsuura, Hibiki Kanzaki) run a few px past the estimated 87 px box.",
+   "u3410, u3418, u3419: 'Macross 7/II: Prologue/Epilogue' are 2-4 px over the 122 px estimate; kept for consistency (no shorter clear form).",
+   "u3375/u3381/u3396/u3416/u3417: Frontier shortened to 'Macross F' / 'F Movie' to fit; u3375 changed from tm 'Macross Frontier' (over its box). u3414/u3415 (tm) still read 'Frontier: Prologue/Epilogue'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Aimo O.C. (song, u3400)"
+  ],
+  "unfinished": []
+ }
+}

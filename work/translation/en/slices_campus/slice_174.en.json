@@ -1,0 +1,499 @@
+{
+ "slice": 174,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c12749",
+   "en": "Yeah, see you~",
+   "flags": [],
+   "notes": "Male, frd_rnk_003; also female in frd_rnk_114 and nml_myk_006. cf. c02019."
+  },
+  {
+   "id": "c12750",
+   "en": "(Looks like Ranka had a good time.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12751",
+   "en": "(Today I invited Ranka-chan out to Island 3.)",
+   "flags": [],
+   "notes": "Female, frd_rnk_003."
+  },
+  {
+   "id": "c12752",
+   "en": "Apparently they make it with\nfresh hippo-cow milk.",
+   "flags": [],
+   "notes": "Female; as c12729."
+  },
+  {
+   "id": "c12753",
+   "en": "Then let's go check them out!",
+   "flags": [],
+   "notes": "Female, after Ranka's 'Yes!!'."
+  },
+  {
+   "id": "c12754",
+   "en": "They're so big...",
+   "flags": [],
+   "notes": "Female; as c12735."
+  },
+  {
+   "id": "c12755",
+   "en": "Let's go see!!",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c12756",
+   "en": "Okay, well then...",
+   "flags": [],
+   "notes": "Female; giving in."
+  },
+  {
+   "id": "c12757",
+   "en": "Hey, hey!\nIts big round eyes are gazing at me!\n\\p-chan! Isn't it cute?!",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c12758",
+   "en": "Come on, \\p-chan!!\nLet's play with Mr. Hippo-cow some more!!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ranka, female; kabaushi-kun as c12745."
+  },
+  {
+   "id": "c12759",
+   "en": "Hearing you say that makes it worth inviting you.",
+   "flags": [],
+   "notes": "Female; as c12747."
+  },
+  {
+   "id": "c12760",
+   "en": "Yeah, see you!",
+   "flags": [],
+   "notes": "Female here; also male in frd_rnk_007."
+  },
+  {
+   "id": "c12761",
+   "en": "(Looks like Ranka-chan had a super fun time.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12762",
+   "en": "(I invited Ranka out to Folmo, but...)",
+   "flags": [],
+   "notes": "Male, frd_rnk_003 second visit."
+  },
+  {
+   "id": "c12763",
+   "en": "Looks like you're totally hooked\non that soft serve.",
+   "flags": [],
+   "notes": "Male. Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c12764",
+   "en": "This soft serve is really good!\nI feel like I could eat these all day!",
+   "flags": [],
+   "notes": "Ranka, both genders (nanko demo: any number). Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c12765",
+   "en": "If you eat that many,\nyou'll get a stomachache.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12766",
+   "en": "Mmph~! I know, but...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12767",
+   "en": "Oh, I know!\nWant to go see Mr. Hippo-cow?!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ranka, both genders; kabaushi-san, see c12745."
+  },
+  {
+   "id": "c12768",
+   "en": "Huh? Oh... yeah, let's go.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12769",
+   "en": "(She sure switches gears fast~)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12770",
+   "en": "That was fun again today!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12771",
+   "en": "Let's come again.\nAnd go easy on the soft serve.",
+   "flags": [],
+   "notes": "Male. Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c12772",
+   "en": "Aww~! I want to eat more~",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12773",
+   "en": "You'll turn into a hippo-cow.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12774",
+   "en": "I will not~! So there!",
+   "flags": [],
+   "notes": "Ranka, both genders (naranai yo~ da: teasing)."
+  },
+  {
+   "id": "c12775",
+   "en": "(That was a nice change of pace~)",
+   "flags": [],
+   "notes": "Male; cf. c04263."
+  },
+  {
+   "id": "c12776",
+   "en": "(I invited Ranka-chan out to Folmo, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12777",
+   "en": "Looks like you're totally hooked\non that soft serve.",
+   "flags": [],
+   "notes": "Female. Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c12778",
+   "en": "If you eat that many,\nyou'll get a stomachache, you know?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12779",
+   "en": "Let's come again, okay?\nOh, but go easy on the soft serve.",
+   "flags": [],
+   "notes": "Female. Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c12780",
+   "en": "(...That was a nice change of pace.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12781",
+   "en": "(Right, Ranka and I are going to the beach today.)",
+   "flags": [],
+   "notes": "Male, frd_rnk_004."
+  },
+  {
+   "id": "c12782",
+   "en": "Well then, let's get going!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12783",
+   "en": "Okay! Let's go!",
+   "flags": [],
+   "notes": "Ranka, both genders (rettsu goo)."
+  },
+  {
+   "id": "c12784",
+   "en": "Wow! It's the ocean!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12785",
+   "en": "Okay, then I guess I'll go\ndrop off our stuff.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12786",
+   "en": "Oh, then I'll go get changed first.",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c12787",
+   "en": "(I see, I see...)",
+   "flags": [],
+   "notes": "Male; looking at Ranka in her swimsuit."
+  },
+  {
+   "id": "c12788",
+   "en": "What is it?",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12789",
+   "en": "Nah, I was just thinking\nit really looks good on you.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12790",
+   "en": "Huh? Oh, th-thanks...",
+   "flags": [],
+   "notes": "Ranka, male; also Alto in scd_com_620 (Valentine), works for both."
+  },
+  {
+   "id": "c12791",
+   "en": "Well then, let's go!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12792",
+   "en": "Yahooo!!",
+   "flags": [],
+   "notes": "Ranka, both genders; as c05209."
+  },
+  {
+   "id": "c12793",
+   "en": "This feels amazing~!!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12794",
+   "en": "Heeey!",
+   "flags": [],
+   "notes": "Player, both genders; cf. c07619."
+  },
+  {
+   "id": "c12795",
+   "en": "(She sure looks like she's having fun.)",
+   "flags": [],
+   "notes": "Player, both genders; she = Ranka."
+  },
+  {
+   "id": "c12796",
+   "en": "You should come ride with me!!",
+   "flags": [],
+   "notes": "Ranka, both genders (riding a boat, see c12806)."
+  },
+  {
+   "id": "c12797",
+   "en": "Yeah, well...",
+   "flags": [],
+   "notes": "Player, both genders; noncommittal."
+  },
+  {
+   "id": "c12798",
+   "en": "It's so fun, you're missing out!!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12799",
+   "en": "Come on! Let's go, okay?!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12800",
+   "en": "No, wai-, hold on!",
+   "flags": [],
+   "notes": "Player, both genders; cut off."
+  },
+  {
+   "id": "c12801",
+   "en": "It's fine, it's fine! Come on, come on!",
+   "flags": [],
+   "notes": "Ranka, both genders; cf. c02204."
+  },
+  {
+   "id": "c12802",
+   "en": "Ahh, that was fun!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12803",
+   "en": "Yeah, that was fun...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12804",
+   "en": "Really?\nYour face is all stiff, though...",
+   "flags": [],
+   "notes": "Ranka, both genders (kao hikitsutteru)."
+  },
+  {
+   "id": "c12805",
+   "en": "No, it's not...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12806",
+   "en": "Then let's come again!\nAnd ride the boat too!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12807",
+   "en": "Nah, I think I'll pass on the boat...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12808",
+   "en": "(The boat, huh... But today was fun.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12809",
+   "en": "(Right, Ranka-chan and I are going\nto the beach today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12810",
+   "en": "\\p-chan,\nsorry to keep you waiting!",
+   "flags": [],
+   "notes": "Ranka, female; male twin c11759."
+  },
+  {
+   "id": "c12811",
+   "en": "Alright! Well then, let's go!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12812",
+   "en": "Okay, then let's go drop off our stuff.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12813",
+   "en": "Okay, and then we get changed, right?",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c12814",
+   "en": "Ohh~, mm-hmm, mm-hmm.",
+   "flags": [],
+   "notes": "Female; looking at Ranka in her swimsuit."
+  },
+  {
+   "id": "c12815",
+   "en": "Oh, nothing. I was just thinking\nit really looks good on you.",
+   "flags": [],
+   "notes": "Female (uun)."
+  },
+  {
+   "id": "c12816",
+   "en": "Really? Thanks!",
+   "flags": [],
+   "notes": "Ranka, female; also Akimizu in nml_yuu_017, both genders."
+  },
+  {
+   "id": "c12817",
+   "en": "Yeah, it was fun...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12818",
+   "en": "Hmm, I think I'll pass on the boat...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12819",
+   "en": "(The boat, huh... But today was fun.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12820",
+   "en": "(Today I invited Ranka out\nto the artificial island~)",
+   "flags": [],
+   "notes": "Male, frd_rnk_004 second visit."
+  },
+  {
+   "id": "c12821",
+   "en": "\\p-kun, you're late!\nIf we don't hurry, it'll get crowded!",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c12822",
+   "en": "Sorry, sorry.\nWell then, let's go.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12823",
+   "en": "We played so much, huh!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12824",
+   "en": "I can't move anymore...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12825",
+   "en": "Geez, you're such a wimp.",
+   "flags": [],
+   "notes": "Ranka, both genders (darashi ga nai, as c12718)."
+  },
+  {
+   "id": "c12826",
+   "en": "You've just got too much energy, Ranka.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12827",
+   "en": "But still, it was fun.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12828",
+   "en": "Yeah, me too!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c12758, c12767: kabaushi-kun / kabaushi-san rendered 'Mr. Hippo-cow' (see slice 173, c12745)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

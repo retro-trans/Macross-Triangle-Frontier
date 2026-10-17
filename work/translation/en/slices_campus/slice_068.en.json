@@ -1,0 +1,396 @@
+{
+ "slice": 68,
+ "rows_in_slice": 63,
+ "rows_examined": 63,
+ "rows": [
+  {
+   "id": "c05019",
+   "en": "(Today I came to a restaurant with Claire-senpai!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05020",
+   "en": "What a nice view...\nFood tastes extra special in a place like this.",
+   "flags": [],
+   "notes": "x6, all Claire in frd_cla_114."
+  },
+  {
+   "id": "c05021",
+   "en": "It really does.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05022",
+   "en": "Oh, the food's here!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05023",
+   "en": "It was even more delicious than I imagined.\nI'm amazed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05024",
+   "en": "The meat was so tender, it melted on my tongue.\nI've never had anything like it.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05025",
+   "en": "Let's come here together again, okay?",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c05026",
+   "en": "(Today I came to a restaurant with Claire-senpai.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05027",
+   "en": "It really does!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05028",
+   "en": "The meat was so tender, it just melted on my tongue.\nI've never had meat like that before.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05029",
+   "en": "(Today I came to the restaurant with Claire-senpai\nagain!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05030",
+   "en": "The view here is lovely every time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05031",
+   "en": "That meat is so good...\nI wish it would hurry up and get here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05032",
+   "en": "Senpai, you're such a glutton.",
+   "flags": [],
+   "notes": "Male only; 'kuishinbou', teasing."
+  },
+  {
+   "id": "c05033",
+   "en": "Hey, what's that supposed to mean...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05034",
+   "en": "Oh, the food's here~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05035",
+   "en": "This is a dish I could eat again and again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05036",
+   "en": "I wonder how they cook it...\nIt amazes me no matter how many times I eat it.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05037",
+   "en": "(Today I came to the restaurant with Claire-senpai\nagain.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05038",
+   "en": "Senpai, you're such a glutton~",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05039",
+   "en": "(Claire-senpai and I came to the artificial island!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05040",
+   "en": "Looking around like this without swimming\nisn't bad either.\nYou can feel time flowing so leisurely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05041",
+   "en": "It sure is.\nIt's like we've come to another world.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05042",
+   "en": "Hey, why don't we go down to the beach\nfor a bit?",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c05043",
+   "en": "Phew, we finally made it back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05044",
+   "en": "Did we walk a little too much?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c05045",
+   "en": "But it was fun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05046",
+   "en": "Did you have fun too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05047",
+   "en": "Of course!\nPlease hang out with me again!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05048",
+   "en": "Mm, I know.",
+   "flags": [],
+   "notes": "x5: Claire here; also the female player in nml_mcl_002."
+  },
+  {
+   "id": "c05049",
+   "en": "Be sure to invite me. Absolutely, okay?\nGot it?",
+   "flags": [],
+   "notes": "Claire tells the player to invite her next time (answers 'please hang out with me again')."
+  },
+  {
+   "id": "c05050",
+   "en": "(Claire-senpai and I came to the artificial island.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05051",
+   "en": "(Claire-senpai and I came to the artificial island\nagain!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05052",
+   "en": "Looking around like this without swimming\nisn't bad either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05053",
+   "en": "You can feel time flowing so leisurely,\nand the scenery looks different every time I come.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05054",
+   "en": "It sure does.\nThere's something new to discover every time.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05055",
+   "en": "Of course I did!\nPlease hang out with me again!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05056",
+   "en": "(Claire-senpai and I came to the artificial island\nagain.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05057",
+   "en": "(Claire-senpai said she wanted to visit the school,\nso here we are today!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05058",
+   "en": "This brings back memories.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05059",
+   "en": "Well, I was still going here a year ago.",
+   "flags": [],
+   "notes": "Claire graduated a year earlier."
+  },
+  {
+   "id": "c05060",
+   "en": "So it's only been that long.\nIt felt like such a long time ago.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05061",
+   "en": "Right... That means it's been a year since I met you.\nTime really flies, doesn't it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05062",
+   "en": "Sorry about today.\nI dragged you to school just because I wanted to.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05063",
+   "en": "I don't mind at all.\nIt was nice to remember how things were\na year ago.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05064",
+   "en": "I wish I could've gone to school with you too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05065",
+   "en": "Huh? Did you say something?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05066",
+   "en": "Nope, nothing.\nCome on, let's head home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05067",
+   "en": "(Claire-senpai said she wanted to visit the school,\nso here we are today.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05068",
+   "en": "Please don't worry about it!\nIt was nice to remember how things were\na year ago.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05069",
+   "en": "(Claire-senpai and I ended up hanging out\nat school, but...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05070",
+   "en": "This brings back memories~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05071",
+   "en": "Wait, what's with that face...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05072",
+   "en": "Well, Senpai... you're in uniform...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05073",
+   "en": "Wh-what's wrong with that!\nI can still totally pull it off! Totally!",
+   "flags": [],
+   "notes": "'Mada zenzen seefu': she still passes as a student."
+  },
+  {
+   "id": "c05074",
+   "en": "What? You got a problem with that...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05075",
+   "en": "N-no... No problem whatsoever!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05076",
+   "en": "Today was fun~\nAnd I got to sneak onto campus, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05077",
+   "en": "You're a graduate, so I think you could\njust walk in openly.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05078",
+   "en": "Geez... you just don't get it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05079",
+   "en": "Well, whatever...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05080",
+   "en": "Let's go home together?\nHand in hand, okay?",
+   "flags": [],
+   "notes": "'Ote-te tsunaide': babyish 'holding hands'."
+  },
+  {
+   "id": "c05081",
+   "en": "Well, Senpai... you're in uniform, so...",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c05039/c05050/c05051/c05056: jinkoutou rendered 'the artificial island' (not in the glossary; an earlier campus slice also says 'an artificial island').",
+   "c05073: 'mada watashi datte zenzen seefu yo' (Claire in her old uniform) rendered 'I can still totally pull it off!'."
+  ],
+  "missing_glossary": [
+   "jinkoutou (campus outing spot, Claire scenes frd_cla_107/115): rendered 'the artificial island', lowercase."
+  ],
+  "kept_omission": [],
+  "unfinished": []
+ }
+}

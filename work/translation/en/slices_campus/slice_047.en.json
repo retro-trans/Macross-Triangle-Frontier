@@ -1,0 +1,499 @@
+{
+ "slice": 47,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c03448",
+   "en": "I'm going all-out to the very end!",
+   "flags": [],
+   "notes": "Male only; follows the maguro bun choice in the last round."
+  },
+  {
+   "id": "c03449",
+   "en": "Always on the attack, huh... I kinda like that...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03450",
+   "en": "That's 20 plates for me.",
+   "flags": [],
+   "notes": "Male x3 (all three endings), female x1 (losing ending)."
+  },
+  {
+   "id": "c03451",
+   "en": "19 plates...",
+   "flags": [],
+   "notes": "Hoshimura's count; both genders."
+  },
+  {
+   "id": "c03452",
+   "en": "Yes!\nI win!!!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03453",
+   "en": "Ugh~\nI-I lost...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03454",
+   "en": "Oh well, I'll pay the bill.\nAww, man... and there was a part I wanted, too...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03455",
+   "en": "...It's fine. Let's split the bill.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03456",
+   "en": "Huh? You mean it!?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03457",
+   "en": "Yeah. It was fun, after all.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03458",
+   "en": "Yaaay~! Thanks,\n\\p!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03459",
+   "en": "(Pigging out once in a while isn't so bad!\nIt was a good way to blow off steam, too.)",
+   "flags": [],
+   "notes": "x6: all three endings, both genders."
+  },
+  {
+   "id": "c03460",
+   "en": "20 plates...",
+   "flags": [],
+   "notes": "Draw ending; both genders."
+  },
+  {
+   "id": "c03461",
+   "en": "So it's a draw...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03462",
+   "en": "Hmm, no winner, huh~",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03463",
+   "en": "Aww, there was a part I wanted, but oh well!",
+   "flags": [],
+   "notes": "Both genders; draw ending, each pays their own."
+  },
+  {
+   "id": "c03464",
+   "en": "That was fun, Hoshimura.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03465",
+   "en": "Right, right? Let's come eat here again!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03466",
+   "en": "21 plates...",
+   "flags": [],
+   "notes": "Both genders; Hoshimura wins."
+  },
+  {
+   "id": "c03467",
+   "en": "I-I lost...!!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03468",
+   "en": "Yes! Yes, yes, yes!\nI woooon!!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03469",
+   "en": "You're way too hyped...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03470",
+   "en": "Aww, sorry to make you treat me and all...\nHee-hee-hee!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03471",
+   "en": "Well, it was fun, so it's fine.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03472",
+   "en": "Let's come again!\nWe can just split the bill next time!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03473",
+   "en": "(Yui suddenly called me out here,\nbut...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03474",
+   "en": "You're full of energy today too, Yui.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03475",
+   "en": "So why did you call me out here?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03476",
+   "en": "...How come?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03477",
+   "en": "Whaaat~!!",
+   "flags": [],
+   "notes": "x3: ext_yui_001 female; frd_cla_007 both genders (Claire demands a crepe as punishment)."
+  },
+  {
+   "id": "c03478",
+   "en": "Uh, yes you do!\nI don't know anything about this!!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03479",
+   "en": "Oh, last time my opponent was Yuu, wasn't it...\nMy bad, my bad.",
+   "flags": [],
+   "notes": "Female only; Yuu Akimizu (given name as in the Japanese)."
+  },
+  {
+   "id": "c03480",
+   "en": "(So Yuu was a victim too...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03481",
+   "en": "Nice and simple.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03482",
+   "en": "So the timing of my orders matters too...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03483",
+   "en": "So what happens if I win?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03484",
+   "en": "Maguro buns to start!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03485",
+   "en": "When it comes to dim sum, it's xiaolongbao!\nI'll beat the heat with sheer guts!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03486",
+   "en": "Maybe I'll go for a sweeeet red bean bun!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03487",
+   "en": "Time to pick my second wave!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03488",
+   "en": "Shrimp dumplings to switch up the flavor!\nI've gotta mix things up...!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03489",
+   "en": "It's the big crowd-pleaser.\nNo way I'm not ordering it...!",
+   "flags": [],
+   "notes": "Female only; follows the maguro bun choice in round two."
+  },
+  {
+   "id": "c03490",
+   "en": "Urp...\nMy stomach's about to burst...\nTime for the final sprint!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03491",
+   "en": "Meat would be risky now...\nTo dodge the leftovers penalty,\nI'm moving on to dessert!",
+   "flags": [],
+   "notes": "Female only; follows the mango pudding choice."
+  },
+  {
+   "id": "c03492",
+   "en": "I'm going all-out to the very end!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03493",
+   "en": "That's 20 plates for me.",
+   "flags": [],
+   "notes": "Female x2 (win and draw endings)."
+  },
+  {
+   "id": "c03494",
+   "en": "Yes!\nI win!!!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03495",
+   "en": "That was fun, Yui.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03496",
+   "en": "I-I lost...!!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03497",
+   "en": "You're way too hyped...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03498",
+   "en": "(Finally, school's out~\nWhat should I do?)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03499",
+   "en": "Ah! Target spotted!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03500",
+   "en": "What's up, Hoshimura?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03501",
+   "en": "I've been looking for you!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03502",
+   "en": "Why were you looking for me?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03503",
+   "en": "There's a favor I wanted to ask...\nWill you hear me out?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03504",
+   "en": "Depends on what it is...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03505",
+   "en": "I want you to show me your EX-Gear!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03506",
+   "en": "My EX-Gear?\nYou've got your own...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03507",
+   "en": "Mine's no good for this.\nIt has to be yours!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03508",
+   "en": "O-okay, fine...\nI just have to show it to you, right?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03509",
+   "en": "All right!",
+   "flags": [],
+   "notes": "x6: Hoshimura here; player in frd_itk_114 and nml_cla_010 (both genders) when promised a treat."
+  },
+  {
+   "id": "c03510",
+   "en": "You've got your own, so why mine...",
+   "flags": [],
+   "notes": "Male x2 (also in the refusal branch), female x1 (same line in her refusal branch)."
+  },
+  {
+   "id": "c03511",
+   "en": "I wanted to get my hands on a stock EX-Gear.\nMine's all souped-up, and the thingy's all\nthingied, so...",
+   "flags": [],
+   "notes": "Both genders ('are ga are': deliberately vague)."
+  },
+  {
+   "id": "c03512",
+   "en": "So you've already modded yours...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03513",
+   "en": "I-it's just tuning...\nI haven't done anything naughty!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03514",
+   "en": "I see...",
+   "flags": [],
+   "notes": "x11: player in several scenes, Shirakawa in frd_myk_001/004; generic."
+  },
+  {
+   "id": "c03515",
+   "en": "Hmmm...\nYep, the factory radiator's the weak spot!\nArgh! I'm itching to fix it!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03516",
+   "en": "(What's Hoshimura going on about? She just\nstarted poking at it on her own...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03517",
+   "en": "...Say, couldn't you let me tinker with it,\njust a teeny bit?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03518",
+   "en": "...Can't I?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03519",
+   "en": "Hmm, what should I do...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03520",
+   "en": "Let her mod it",
+   "flags": [],
+   "notes": "Choice; 'her' = Hoshimura, both genders."
+  },
+  {
+   "id": "c03521",
+   "en": "Flatly refuse",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c03522",
+   "en": "Well, I guess it's okay, as long as you\ndon't break it...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03523",
+   "en": "For real!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03524",
+   "en": "Alriiight! Just relax, like you're sailing\non a boat made of mud!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Both genders. She garbles the idiom 'ride a big ship' (be reassured) into 'mud boat' (one that sinks); the player answers 'That'll sink!'. Kept the mud boat literally so the comeback works."
+  },
+  {
+   "id": "c03525",
+   "en": "That'll sink!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03526",
+   "en": "It's okay, it's A-okay!",
+   "flags": [],
+   "notes": "Both genders; 'daijoubui' (daijoubu + V sign) pun."
+  },
+  {
+   "id": "c03527",
+   "en": "Th-that's not reassuring...",
+   "flags": [],
+   "notes": "Male only ('fuan da': I'm uneasy)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c03524: Hoshimura's malapropism 'doro-bune ni notta tsumori de' (mud boat, for the reassuring 'big ship') kept as 'a boat made of mud' so the player's 'That'll sink!' (c03525/c03550) lands.",
+   "c03526: 'daijoubui' (daijoubu + V) rendered 'It's okay, it's A-okay!'.",
+   "c03509 'All right!' and c03514 'I see...' are shared generics (x6, x11); both read fine in every listed scene."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

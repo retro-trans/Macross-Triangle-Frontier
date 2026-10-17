@@ -1,0 +1,375 @@
+{
+ "slice": 122,
+ "rows_in_slice": 60,
+ "rows_examined": 60,
+ "rows": [
+  {
+   "id": "c08986",
+   "en": "(Swimming with Luca today.\nTime to get payback for our last training session.)",
+   "flags": [],
+   "notes": "Male, frd_luk_004. 'Revenge' for the bench-press fiasco in frd_luk_002."
+  },
+  {
+   "id": "c08987",
+   "en": "Oh, Luca! Perfect timing!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08988",
+   "en": "Y-you sure seem raring to go.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c08989",
+   "en": "I made a fool of myself in front of you last time.",
+   "flags": [],
+   "notes": "Male; 'in front of you' renders miseta (showed)."
+  },
+  {
+   "id": "c08990",
+   "en": "Come on, let's go swim!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08991",
+   "en": "(Luca's late...\nWhat's taking him so long?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08992",
+   "en": "Sorry to keep you waiting, \\p-san!",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c08993",
+   "en": "You took your time.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08994",
+   "en": "Mm-hm, hmm...",
+   "flags": [],
+   "notes": "Male; looking Luca over."
+  },
+  {
+   "id": "c08995",
+   "en": "Wh-what? Why are you staring at me like that...",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c08996",
+   "en": "(He kind of looks like a girl...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08997",
+   "en": "Okay, let's go!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08998",
+   "en": "Warm-ups first.\nSit on the edge of the pool and flutter kick!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08999",
+   "en": "The water's nice and cool.\nIt feels great.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09000",
+   "en": "Hehe, take that!",
+   "flags": [],
+   "notes": "x2, Luca splashes the player."
+  },
+  {
+   "id": "c09001",
+   "en": "Whoa, that's cold!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09002",
+   "en": "Payback! Take this!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09003",
+   "en": "Geez, that's mean!\n\\p-san~!",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09004",
+   "en": "You're the one who started it, Luca~!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09005",
+   "en": "Then I'll just have to...",
+   "flags": [],
+   "notes": "x2, Luca, both genders; deliberate trail-off (he splashes back), subject and verb restored."
+  },
+  {
+   "id": "c09006",
+   "en": "Phew...\nI meant to train, but we ended up playing around...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09007",
+   "en": "But it was fun.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09008",
+   "en": "Let's do it again!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09009",
+   "en": "(We didn't get any training done,\nbut that was fun.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09010",
+   "en": "(Swimming with Luca-kun today.\nTime to get payback for our last training session.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09011",
+   "en": "Oh, Luca-kun! Perfect timing!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09012",
+   "en": "I've got to get payback for last time.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09013",
+   "en": "Come on, let's go!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09014",
+   "en": "(Huh, looks like I came out first...)",
+   "flags": [],
+   "notes": "Female; out of the changing room before Luca."
+  },
+  {
+   "id": "c09015",
+   "en": "You're late, Luca-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09016",
+   "en": "Hmm...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09017",
+   "en": "No, it's nothing.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09018",
+   "en": "(He kind of looks like a girl...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09019",
+   "en": "Well then, let's go!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09020",
+   "en": "Warm-ups first.\nSit on the edge of the pool and flutter kick!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09021",
+   "en": "Yeah~ It feels great~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09022",
+   "en": "Eek, that's cold!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09023",
+   "en": "Ahaha!!",
+   "flags": [],
+   "notes": "Female scene, Luca."
+  },
+  {
+   "id": "c09024",
+   "en": "Geez...! Payback! Take that!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09025",
+   "en": "You're the one who started it, Luca-kun~!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09026",
+   "en": "Haah...\nI meant to train, but we ended up playing around...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09027",
+   "en": "Let's do it again!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09028",
+   "en": "(We didn't get any training done,\nbut that was really fun.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09029",
+   "en": "(Swim training with Luca today.\nI can't let us goof off like last time.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09030",
+   "en": "You're late, Luca!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09031",
+   "en": "We can't waste any more time!\nLet's get going!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09032",
+   "en": "H-hey, wait, don't pull me~",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09033",
+   "en": "I'm not going easy on you today~!",
+   "flags": [],
+   "notes": "Male; bishibishi iku."
+  },
+  {
+   "id": "c09034",
+   "en": "Haah... I'm exhausted...",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09035",
+   "en": "That's what happens when you swim without\npacing yourself. That's no way to train\nefficiently, you know?",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09036",
+   "en": "Nngh... You're quite right...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09037",
+   "en": "Sigh... What am I going to do with you...\nI'm hungry, so how about we stop by\nNyan-Nyan on the way home?",
+   "flags": [],
+   "notes": "x2, Luca, both genders. Nyan-Nyan from organizations.json."
+  },
+  {
+   "id": "c09038",
+   "en": "Yeah, sounds good!",
+   "flags": [],
+   "notes": "x4: also frd_rnk_114 both genders (Ranka offers a drink)."
+  },
+  {
+   "id": "c09039",
+   "en": "(That was some good training today~)",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09040",
+   "en": "(Swim training with Luca-kun today.\nI can't let us goof off like last time...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09041",
+   "en": "You're late, Luca-kun!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09042",
+   "en": "We can't waste any more time,\nso let's get a move on~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09043",
+   "en": "I'm not going easy on you today~!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09044",
+   "en": "I-I can't move anymore...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09045",
+   "en": "Nngh... I have absolutely no excuse...",
+   "flags": [],
+   "notes": "Female; kaesu kotoba mo gozaimasen (mock-humble)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c09005: Luca's trailing 'sorenara boku mo...' rendered 'Then I'll just have to...' (he splashes back)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

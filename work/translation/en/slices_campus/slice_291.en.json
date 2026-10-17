@@ -1,0 +1,493 @@
+{
+ "slice": 291,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c20870",
+   "en": "(I can't... I can't run anymore......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20871",
+   "en": "Who said you could take a break!?\n\\p!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20872",
+   "en": "S-sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20873",
+   "en": "(Just because the fighting with the Vajra's gotten\nfierce lately, he didn't have to spring special\ntraining on us out of nowhere...)",
+   "flags": [],
+   "notes": "'he' = Gary, who is running the training (subject restored)."
+  },
+  {
+   "id": "c20874",
+   "en": "Worn out after just this much? That's pathetic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20875",
+   "en": "You just have a pointless amount of stamina,\nYuuto.",
+   "flags": [],
+   "notes": "'Pointless' (muda ni) kept because Kagura's reply picks the word up."
+  },
+  {
+   "id": "c20876",
+   "en": "'Pointless'? How rude.\nIt goes without saying that a pilot needs\nstamina...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20877",
+   "en": "Then the answer here is obvious...\nLet's get you full-body implants~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20878",
+   "en": "With this, you too can easily score\na body that never gets tired~~!!",
+   "flags": [],
+   "notes": "'getto da ze' rendered as 'score'."
+  },
+  {
+   "id": "c20879",
+   "en": "Stop it, Hoshimura!\nA sound mind won't dwell in a body like that!\nIt's by training like this, you see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20880",
+   "en": "Sorry it's always so noisy,\n\\p-kun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20881",
+   "en": "I don't think you need to apologize, Shirakawa...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20882",
+   "en": "(Ha ha, everyone really is the same as alw......)",
+   "flags": [],
+   "notes": "Cut off mid-word as in the Japanese (interrupted by the emergency)."
+  },
+  {
+   "id": "c20883",
+   "en": "Listen up, you lot, it's an emergency!\nMultiple defold reactions have been detected\nin the space dead ahead of the Frontier fleet.",
+   "flags": [],
+   "notes": "Matches the finished S.M.S. twin c24069."
+  },
+  {
+   "id": "c20884",
+   "en": "It's a huge swarm of Vajra, several carrier-class\nincluded! We're moving out right away too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20885",
+   "en": "Roger!",
+   "flags": [],
+   "notes": "x8 (also scd_arm_910, scd_sms_807, scd_sms_910); same English as the plain ryoukai row c07659."
+  },
+  {
+   "id": "c20886",
+   "en": "(A huge swarm of Vajra...\nI have to protect Frontier, no matter what!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20887",
+   "en": "(I can't... I can't run anymore......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20888",
+   "en": "You just have a pointless amount of stamina,\nKagura-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20889",
+   "en": "Sorry it's always so noisy,\n\\p-san...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20890",
+   "en": "I don't think you need to apologize, Miyuki...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20891",
+   "en": "(We managed to protect Frontier from the Vajra,\nbut I wasn't much help...)",
+   "flags": [],
+   "notes": "Same as the finished female S.M.S. twin c24090."
+  },
+  {
+   "id": "c20892",
+   "en": "(Somehow we managed to keep Frontier\nsafe from the Vajra...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20893",
+   "en": "(Still, unlike usual, the Vajra were fighting\nin a coordinated way today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20894",
+   "en": "(From here on, the battles are probably going\nto be even tougher than before...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20895",
+   "en": "(We managed to protect Frontier from the Vajra,\nbut I wasn't much help...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20896",
+   "en": "(Somehow we managed to keep Frontier\nsafe from the Vajra...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20897",
+   "en": "(Still, unlike usual, the Vajra were fighting\nin a coordinated way today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20898",
+   "en": "(From here on, the battles are probably going\nto be even tougher than before...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20899",
+   "en": "The bill to move up the super-long-distance fold\nhas passed the Senate. The fold, originally set for\nsix months from now, will now take place in 2 weeks...",
+   "flags": [],
+   "notes": "x6 (arm, ciz_803, sms_808). 'super-long-distance fold' as in the finished S.M.S. rows."
+  },
+  {
+   "id": "c20900",
+   "en": "(Sure enough, the news lately is all about\nthe super-long-distance fold...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20901",
+   "en": "(The Vajra have started moving in a coordinated\nway, and the battles are getting tougher, too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20902",
+   "en": "(If we keep on fighting the Vajra like this,\nwe're bound to...)",
+   "flags": [],
+   "notes": "Trails off as in the Japanese; phrased like the finished S.M.S. twin c24129."
+  },
+  {
+   "id": "c20903",
+   "en": "(An emergency call at a time like this?\nDon't tell me the Vajra...!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20904",
+   "en": "Of all times for the Vajra to show up...\nright before the super-long-distance fold...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20905",
+   "en": "We were so close to getting away\nfrom the Vajra for good...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20906",
+   "en": "Well, griping about it here won't get us anywhere.\nWe're heading out too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20907",
+   "en": "(I can't go down in a place like this!\nI have to protect Frontier, no matter what!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20908",
+   "en": "(Sure enough, the news lately is all about\nthe super-long-distance fold...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20909",
+   "en": "(The Vajra have started moving in a coordinated\nway, and the battles are getting tougher, too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20910",
+   "en": "(If we keep on fighting the Vajra like this,\nwe're bound to...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20911",
+   "en": "(I can't go down in a place like this!\nI have to protect Frontier, no matter what!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20912",
+   "en": "(I didn't do much, but thanks to Ranka's song,\nit looks like the super-long-distance fold\nwas a success.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20913",
+   "en": "(Thanks to Ranka's song, it looks like\nthe super-long-distance fold was a success.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20914",
+   "en": "(So the fight with the Vajra is finally over...\nFrom now on we can live in peace.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20915",
+   "en": "(Thank goodness... Really, thank goodness...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20916",
+   "en": "(All right! Today we're all partying to celebrate\nthe successful super-long-distance fold!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20917",
+   "en": "(I didn't do much, but thanks to Ranka-chan's\nsong, it looks like the super-long-distance fold\nwas a success.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20918",
+   "en": "(Thanks to Ranka-chan's song, it looks like\nthe super-long-distance fold was a success.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20919",
+   "en": "(So the fight with the Vajra is finally over...\nFrom now on we can live in peace.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20920",
+   "en": "(Thank goodness... Really, thank goodness...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20921",
+   "en": "(All right! Today we're all partying to celebrate\nthe successful super-long-distance fold!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20922",
+   "en": "(Ranka's concert at Mihoshi Academy celebrating\nthe successful super-long-distance fold\nwas a total blast.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20923",
+   "en": "(We got away from the Vajra safely, and if we\nfind a new planet like this, everything will be\nperfect, but...)",
+   "flags": [],
+   "notes": "x6 across arm_809, ciz_804, sms_809, both genders."
+  },
+  {
+   "id": "c20924",
+   "en": "(Well, things probably won't go that smoo......)",
+   "flags": [],
+   "notes": "Cut off mid-word as in the Japanese (interrupted by the explosion)."
+  },
+  {
+   "id": "c20925",
+   "en": "(Another explosion!? What on earth...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20926",
+   "en": "(No way... That's......)",
+   "flags": [],
+   "notes": "Also used in scd_fes_201."
+  },
+  {
+   "id": "c20927",
+   "en": "(The Vajra!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20928",
+   "en": "(Why are there Vajra inside the ship!? Weren't\nwe supposed to have escaped them with the\nsuper-long-distance fold!?)",
+   "flags": [],
+   "notes": "Same as the finished female twin c24137."
+  },
+  {
+   "id": "c20929",
+   "en": "(Damn it! There's no point staying here!\nI need to get to the New U.N. Forces base\nand grab a weapon!)",
+   "flags": [],
+   "notes": "'base' added for 'go to the New U.N. Forces', matching the S.M.S. twin c24134."
+  },
+  {
+   "id": "c20930",
+   "en": "(Somehow I made it to the hangar...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20931",
+   "en": "Shirakawa! And Hoshimura and Yuuto too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20932",
+   "en": "You're all right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20933",
+   "en": "Just barely.\nBut how did the Vajra get in here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20934",
+   "en": "Maybe they've been breeding inside the Island...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20935",
+   "en": "Talking it over here won't get us anywhere.\nWe need to sortie too, fast, and wipe out\nthe Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20936",
+   "en": "Right! Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20937",
+   "en": "(I have to protect Frontier, no matter what!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20938",
+   "en": "(Ranka-chan's concert at Mihoshi Academy\ncelebrating the successful super-long-distance\nfold was a total blast.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20939",
+   "en": "(No way... That's......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20940",
+   "en": "(Why are there Vajra inside the ship!? Weren't\nwe supposed to have escaped them with the\nsuper-long-distance fold!?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20941",
+   "en": "(Ugh! There's no point staying here!\nI need to get to the New U.N. Forces base\nand grab a weapon!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20942",
+   "en": "Miyuki! And Yui and Kagura-kun too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20943",
+   "en": "Right! Let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20944",
+   "en": "(The Vajra nearly got me, but it looks like\nwe somehow managed to protect Frontier\nfrom them...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20945",
+   "en": "(Looks like we somehow managed to protect\nFrontier from the Vajra...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20946",
+   "en": "(But the damage is way too heavy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20947",
+   "en": "(The ship's in ruins, and the ecosystem\ncan't be sustained anymore...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20948",
+   "en": "(In a situation like this, what are we\nsupposed to do...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20949",
+   "en": "(The Vajra nearly got me, but it looks like\nwe somehow managed to wipe them out.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

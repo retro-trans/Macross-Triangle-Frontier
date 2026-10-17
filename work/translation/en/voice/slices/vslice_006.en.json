@@ -1,0 +1,525 @@
+{
+ "slice": 6,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o7_exd/415",
+   "en": "1",
+   "flags": [],
+   "notes": "Transcript 'ichi' (1) in kana."
+  },
+  {
+   "id": "of_ktr/415",
+   "en": "1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/416",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/416",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/417",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/417",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/418",
+   "en": "1 minute left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/418",
+   "en": "1 minute left!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/419",
+   "en": "30 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/419",
+   "en": "30 seconds left!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/420",
+   "en": "10 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/420",
+   "en": "10 seconds left!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/421",
+   "en": "5 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/421",
+   "en": "5 seconds!",
+   "flags": [],
+   "notes": "Transcript 'gobyo' in katakana = 5 seconds."
+  },
+  {
+   "id": "o7_exd/422",
+   "en": "4 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/422",
+   "en": "4 seconds!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "yomyou heard for yonbyou (4 seconds)."
+  },
+  {
+   "id": "o7_exd/423",
+   "en": "3",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard as 'sayounara'; the countdown slot is 'san' (3), as for every other operator."
+  },
+  {
+   "id": "of_ktr/423",
+   "en": "3",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard as 'saa'; the countdown slot is 'san' (3)."
+  },
+  {
+   "id": "o7_exd/424",
+   "en": "2",
+   "flags": [],
+   "notes": "Transcript 'ni' (2) in kana."
+  },
+  {
+   "id": "of_ktr/424",
+   "en": "2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/425",
+   "en": "1",
+   "flags": [],
+   "notes": "Transcript 'ichi' (1) in kana."
+  },
+  {
+   "id": "of_ktr/425",
+   "en": "1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/426",
+   "en": "The allotted time has elapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/426",
+   "en": "The set time has elapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/427",
+   "en": "The enemy is withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/427",
+   "en": "The enemy's retreating!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/428",
+   "en": "Operation time is over. Surely not...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/428",
+   "en": "Operation time's up. No...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/429",
+   "en": "We shall begin the test.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/429",
+   "en": "Starting the test.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/430",
+   "en": "The test time is 10 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/430",
+   "en": "The test time is 10 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/431",
+   "en": "The test time is 5 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/431",
+   "en": "The test time is 5 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/432",
+   "en": "The test time is 3 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/432",
+   "en": "The test time is 3 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/433",
+   "en": "The test time is 2 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/433",
+   "en": "The test time is 2 minutes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/434",
+   "en": "The test time is 1 minute.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/434",
+   "en": "The test time is 1 minute.",
+   "flags": [],
+   "notes": "Whisper flagged nospeech, but the transcript fits the line; kept."
+  },
+  {
+   "id": "o7_exd/435",
+   "en": "It seems we have gathered ample data. We shall end the combat.",
+   "flags": [],
+   "notes": "Transcript joins the sentences with 'desu ga'; read as two sentences."
+  },
+  {
+   "id": "of_ktr/435",
+   "en": "We've gathered enough data. Ending combat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/500",
+   "en": "Delta 1 to all squadrons. Move to combat readiness.",
+   "flags": [],
+   "notes": "Delta 1 kept as a call sign."
+  },
+  {
+   "id": "of_ktr/501",
+   "en": "Unidentified enemy contact confirmed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "teki e heard for tekiei 'enemy contact'."
+  },
+  {
+   "id": "of_ktr/502",
+   "en": "We'll hold a mock battle with the training units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/503",
+   "en": "Huh? What is it, all of a sudden?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/504",
+   "en": "It's a Vajra that's shed its shell! Be careful!",
+   "flags": [],
+   "notes": "dappi = molted."
+  },
+  {
+   "id": "of_ktr/505",
+   "en": "It's a mutated Vajra! Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/506",
+   "en": "It's not like the Vajra we've seen so far. Watch out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/507",
+   "en": "It seems to be highly resistant to gunfire.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "takai yo ne heard for takai you ne 'it seems high'."
+  },
+  {
+   "id": "of_ktr/508",
+   "en": "That's reckless, Ozma!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Ozumu heard for Ozma."
+  },
+  {
+   "id": "of_ktr/509",
+   "en": "Ozma! Respond! Ozma!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Ozuman heard for Ozma."
+  },
+  {
+   "id": "of_ktr/510",
+   "en": "Please refrain from personal chatter, Major.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "shigo 'after death' kanji for shigo 'private talk'."
+  },
+  {
+   "id": "of_ktr/511",
+   "en": "Hey, Ozma, why don't you stop by on your way home? I tried making pineapple cake.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "o-tsuma 'wife' heard for Ozma. pain keeki rendered pineapple cake (as row 318)."
+  },
+  {
+   "id": "of_ktr/512",
+   "en": "Idiot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/600",
+   "en": "The enemy chain of command appears to be in disarray.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/600",
+   "en": "The enemy chain of command is in disarray.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/601",
+   "en": "Would you defeat the belligerent enemy commander first?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/601",
+   "en": "Take out the belligerent enemy commander first.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "kousen 'engaging' kanji for kousen 'belligerent', as the other operators."
+  },
+  {
+   "id": "o7_exd/602",
+   "en": "It seems the enemy has begun to retreat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/602",
+   "en": "The enemy's started retreating!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/603",
+   "en": "It seems the enemy turned our Daedalus Attack against us and infiltrated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/603",
+   "en": "They turned our Daedalus Attack against us and infiltrated!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/604",
+   "en": "Wipe out the enemy that infiltrated the ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/604",
+   "en": "Wipe out the enemy that infiltrated the ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/605",
+   "en": "The enemy seems to be acting strangely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/605",
+   "en": "The enemy's acting strangely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/606",
+   "en": "We shall need to proceed with caution...",
+   "flags": [],
+   "notes": "Ends on a trailing 'ga'; kept as trailing."
+  },
+  {
+   "id": "of_ktr/606",
+   "en": "Proceed with caution.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/607",
+   "en": "Would you defeat Boddole Zer?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/607",
+   "en": "Defeat Boddole Zer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/608",
+   "en": "Mission complete, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/608",
+   "en": "Mission complete.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/609",
+   "en": "Would you move to the target area and send in the spy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/609",
+   "en": "Move to the target area and send in the spy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/610",
+   "en": "It seems we succeeded in sending in the spy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/610",
+   "en": "Looks like we got the spy in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/611",
+   "en": "It seems the enemy has fled inside the Macross.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/611",
+   "en": "The enemy fled inside the Macross!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/612",
+   "en": "Pursue them at once.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 416 of_ktr/422: yomyou heard for yonbyou (4 seconds).",
+   "row 417 o7_exd/423: Heard as 'sayounara'; the countdown slot is 'san' (3), as for every other operator.",
+   "row 418 of_ktr/423: Heard as 'saa'; the countdown slot is 'san' (3).",
+   "row 444 of_ktr/501: teki e heard for tekiei 'enemy contact'.",
+   "row 450 of_ktr/507: takai yo ne heard for takai you ne 'it seems high'.",
+   "row 451 of_ktr/508: Ozumu heard for Ozma.",
+   "row 452 of_ktr/509: Ozuman heard for Ozma.",
+   "row 453 of_ktr/510: shigo 'after death' kanji for shigo 'private talk'.",
+   "row 454 of_ktr/511: o-tsuma 'wife' heard for Ozma. pain keeki rendered pineapple cake (as row 318).",
+   "row 459 of_ktr/601: kousen 'engaging' kanji for kousen 'belligerent', as the other operators."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

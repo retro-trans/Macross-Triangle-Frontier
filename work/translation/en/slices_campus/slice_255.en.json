@@ -1,0 +1,394 @@
+{
+ "slice": 255,
+ "rows_in_slice": 63,
+ "rows_examined": 63,
+ "rows": [
+  {
+   "id": "c18391",
+   "en": "(Okay, time to eat lunch.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18392",
+   "en": "\\p-kun.\nAre you having lunch?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18393",
+   "en": "I brought a bento.\nWanna eat together?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18394",
+   "en": "Yes, I'd like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18395",
+   "en": "Wanna trade side dishes?\nHere, you can have my simmered pumpkin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18396",
+   "en": "...Munch, munch... What's wrong?\nThe pumpkin's really good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18397",
+   "en": "......D-d-d-delicious, I think...",
+   "flags": [],
+   "notes": "Stuttered oishii; stutter carried on 'delicious'."
+  },
+  {
+   "id": "c18398",
+   "en": "Go ahead, have as much as you want!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18399",
+   "en": "...Excuse me... I need to step away\nfor a moment!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18400",
+   "en": "(...What's wrong with her...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18401",
+   "en": "\\p-san.\nAre you having lunch?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18402",
+   "en": "I brought a bento.\nLet's eat together!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18403",
+   "en": "Let's trade side dishes!\nHere, you can have my simmered pumpkin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18404",
+   "en": "(Crap, I got the room for the next class wrong...!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18405",
+   "en": "You okay, Shirakawa?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18406",
+   "en": "Yeah, I'm fine.\nCan you stand, \\p-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18407",
+   "en": "(We crashed into each other pretty hard,\nbut Shirakawa didn't even budge.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18408",
+   "en": "Oh, I'm out of time!\nI'll go on ahead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18409",
+   "en": "(...Is Shirakawa really strong or something?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18410",
+   "en": "A-are you okay, Miyuki?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18411",
+   "en": "Yeah, I'm fine.\nCan you stand, \\p-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18412",
+   "en": "(We crashed into each other pretty hard,\nbut Miyuki didn't even budge.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18413",
+   "en": "(...Is Miyuki really strong...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18414",
+   "en": "I, um... overslept today.",
+   "flags": [],
+   "notes": "One male occurrence has speaker '-' at an odd script position; all real uses are Shirakawa's line."
+  },
+  {
+   "id": "c18415",
+   "en": "Are you about to eat too, Shirakawa?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18416",
+   "en": "Huh, where's your bento?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18417",
+   "en": "I see.\nWhat are you planning to eat?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18418",
+   "en": "Huh? Um...\nI was thinking of having fish at the cafeteria.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18419",
+   "en": "So you like Japanese food, huh?\nMaybe I'll do the same~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18420",
+   "en": "Then shall we go together?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18421",
+   "en": "(I'm getting hungry~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18422",
+   "en": "Huh, are you about to eat too, Miyuki?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18423",
+   "en": "What about your bento today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18424",
+   "en": "So you like Japanese food, huh?\nMaybe I'll do the same~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18425",
+   "en": "(Made it through EX-Gear training somehow!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18426",
+   "en": "Your flying is very straightforward,\nisn't it?",
+   "flags": [],
+   "notes": "sunao na hikou: 'straightforward' (honest, unaffected flying)."
+  },
+  {
+   "id": "c18427",
+   "en": "You were watching me, Shirakawa?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18428",
+   "en": "I-it's not like I was watching you\nor anything...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18429",
+   "en": "You just sort of... happened to be\nin my line of sight...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18430",
+   "en": "Th-that's right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18431",
+   "en": "...How about you, Shirakawa?\nHow was today's training?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18432",
+   "en": "I stayed focused and got through it fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18433",
+   "en": "Yes.\nNow, I have to go change,\nso if you'll excuse me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18434",
+   "en": "(...Okay, guess I'll go change too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18435",
+   "en": "(Made it through EX-Gear training somehow~!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18436",
+   "en": "You were watching me, Miyuki?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18437",
+   "en": "...How about you, Miyuki?\nHow was today's training?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18438",
+   "en": "Oh, I'm coming too~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18439",
+   "en": "(What a tiring week...\nWhat should I do this weekend...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18440",
+   "en": "Shirakawa, are you heading home now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18441",
+   "en": "Yes, though I'm doing a little shopping first.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18442",
+   "en": "Huh, so even you stop off places\non the way home, Shirakawa.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18443",
+   "en": "...I do that kind of thing too, you know!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18444",
+   "en": "I also have to get ready for a trip,\nso I'll be going on ahead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18445",
+   "en": "You're going on a weekend trip!\nHave fun~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18446",
+   "en": "Thank you.\nI'll bring you back a souvenir.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18447",
+   "en": "(A trip, huh~ Sounds nice...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18448",
+   "en": "(What a tiring week~\nWhat should I do this weekend...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18449",
+   "en": "Miyuki, are you heading home now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18450",
+   "en": "Huh, so even you stop off places\non the way home, Miyuki!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18451",
+   "en": "Ahaha... Sorry, sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18452",
+   "en": "You're going on a weekend trip!\nHave a great time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18453",
+   "en": "(A trip, huh~ Lucky you...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18414: one occurrence carries speaker '-' (male variant, odd script position); translated as Shirakawa's line, which it is everywhere else.",
+   "c18426: sunao na hikou rendered 'Your flying is very straightforward'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

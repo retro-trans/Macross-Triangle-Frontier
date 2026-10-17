@@ -1,0 +1,515 @@
+{
+ "slice": 9,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o7_exd/1061",
+   "en": "The enemy has made off with the reaction engine, it seems. Prevent their escape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1061",
+   "en": "The enemy took the reaction engine. Stop their escape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1062",
+   "en": "The reaction engine has been recovered.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1062",
+   "en": "The reaction engine's recovered!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1063",
+   "en": "The reaction engine has been seized, I fear.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Katakana 'dash' read as dasshu (seize), as in the shared clips."
+  },
+  {
+   "id": "of_ktr/1063",
+   "en": "The reaction engine was seized!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Katakana 'dash' read as dasshu (seize), as in the shared clips."
+  },
+  {
+   "id": "o7_exd/1064",
+   "en": "One gunboat closing fast. Range about 50 km, bearing 1 o'clock, altitude 300.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'ichiji houkou' written as 'temporary roar'; read as '1 o'clock direction'."
+  },
+  {
+   "id": "of_ktr/1064",
+   "en": "One gunboat closing fast. Range about 50 km, bearing 1 o'clock, altitude 300.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "As row 647: read as '1 o'clock direction'."
+  },
+  {
+   "id": "o7_exd/1065",
+   "en": "The enemy ship is still intact!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1065",
+   "en": "Enemy ship's still intact!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1066",
+   "en": "Battleship at 300 meters. Evasion impossible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1066",
+   "en": "Battleship at 300 meters. Evasion impossible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1068",
+   "en": "Enemy infiltrators aboard the ship. Go and intercept them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1068",
+   "en": "Enemy infiltrators aboard the ship. Go intercept them now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1069",
+   "en": "Civilians are under attack! Go and rescue them at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1069",
+   "en": "Civilians are under attack. Go rescue them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1070",
+   "en": "Civilians are falling!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1070",
+   "en": "Civilians are falling!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1071",
+   "en": "The civilians have been rescued, it would seem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1071",
+   "en": "The civilians have been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1072",
+   "en": "Gravity control system 11 damaged. Subsystems inoperable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1072",
+   "en": "Gravity control system 11 damaged. Subsystems inoperable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1073",
+   "en": "Bring back the training Valkyrie that launched without permission.",
+   "flags": [],
+   "notes": "hasshin (transmit) read as hasshin (launch)."
+  },
+  {
+   "id": "of_ktr/1073",
+   "en": "Retrieve the training Valkyrie that launched illicitly.",
+   "flags": [],
+   "notes": "hasshin (transmit) read as hasshin (launch)."
+  },
+  {
+   "id": "o7_exd/1074",
+   "en": "Protect the training Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1074",
+   "en": "Protect the training Valkyrie!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1075",
+   "en": "We shall now hold a joint exercise with the Destroid unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1075",
+   "en": "We'll run a joint drill with the Destroid unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1076",
+   "en": "The enemy has fled into a battleship, it seems. Would you kindly pursue them?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1076",
+   "en": "The enemy fled into a battleship. Pursue them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1077",
+   "en": "We shall recreate and play an ancient song of the Protoculture.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1077",
+   "en": "We'll recreate an ancient Protoculture song and play it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1078",
+   "en": "Massive energy reading confirmed. Evacuate immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1078",
+   "en": "Massive energy reading confirmed. Evacuate immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1079",
+   "en": "The enemy fortress is preparing to fire its main gun. Evacuate immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1079",
+   "en": "The enemy fortress is readying its main gun. Evacuate at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1080",
+   "en": "We are entering the enemy fortress.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1080",
+   "en": "We're storming the enemy fortress!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1082",
+   "en": "Starboard No. 2 thruster hit.",
+   "flags": [],
+   "notes": "hidan written with a homophone; read as 'hit'."
+  },
+  {
+   "id": "of_ktr/1082",
+   "en": "Starboard No. 2 thruster hit.",
+   "flags": [],
+   "notes": "hidan written with a homophone; read as 'hit'."
+  },
+  {
+   "id": "o7_exd/1083",
+   "en": "Missiles incoming. Deploying pinpoint barrier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1083",
+   "en": "Missiles incoming. Deploying pinpoint barrier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1084",
+   "en": "Sub-control system damaged.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1084",
+   "en": "Sub-control system damaged.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1085",
+   "en": "Blocks D3 and D7 hit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1085",
+   "en": "Blocks D3 and D7 hit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1086",
+   "en": "Secondary gun turrets 2 and 5 are down, it seems. Immediate repair is impossible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1086",
+   "en": "Secondary gun turrets 2 and 5 are down. They can't be repaired right away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1087",
+   "en": "Subsystems 1 and 2 are not responding.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1087",
+   "en": "Subsystems 1 and 2 not responding.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1088",
+   "en": "Rear of D block hit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kooku' read as 'koubu' (rear), as in the shared clips."
+  },
+  {
+   "id": "of_ktr/1088",
+   "en": "Rear of D block hit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'koukuu' (aviation) read as 'koubu' (rear)."
+  },
+  {
+   "id": "o7_exd/1089",
+   "en": "Engine Section 4 is devastated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1089",
+   "en": "Engine Section 4 devastated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1090",
+   "en": "Section 27 has been wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1090",
+   "en": "Section 27 wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1091",
+   "en": "All control systems are inoperable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1091",
+   "en": "All control systems inoperable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1092",
+   "en": "Macross disabled. We are withdrawing from the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1092",
+   "en": "Macross disabled. We're leaving the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1093",
+   "en": "Auxiliary reactor malfunction. The Macross is uncontrollable.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hojo hannou' read as hojo hannou-ro (auxiliary reactor)."
+  },
+  {
+   "id": "of_ktr/1093",
+   "en": "Auxiliary reactor malfunction. Macross uncontrollable.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'fushou' read as 'fuchou' (malfunction), 'sousa' (investigation) as 'sousa' (control)."
+  },
+  {
+   "id": "o7_exd/1095",
+   "en": "Lieutenant Isamu Dyson is at the controls. Do be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1095",
+   "en": "Lt. Isamu Dyson is at the controls. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1096",
+   "en": "The YF-19's test pilot is at the controls. Do be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1096",
+   "en": "The YF-19's test pilot is at the controls. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1097",
+   "en": "Development chief Guld Goa Bowman is at the controls. Do not let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1097",
+   "en": "Development chief Guld Goa Bowman is piloting. Don't get careless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1098",
+   "en": "The YF-21's test pilot is at the controls. Do not let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1098",
+   "en": "The YF-21's test pilot is at the controls. Don't get careless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1099",
+   "en": "Head for the next target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1099",
+   "en": "Head for the next target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1100",
+   "en": "Proceed to the next target area with all haste.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1100",
+   "en": "Hurry to the next target area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1101",
+   "en": "Target area passed. Proceed to the next.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1101",
+   "en": "Target area passed. Head for the next one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1102",
+   "en": "You have passed half of the target areas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1102",
+   "en": "Half the target areas passed.",
+   "flags": [],
+   "notes": "Kept the report style of the Japanese (no subject) for a 1.9 s clip."
+  },
+  {
+   "id": "o7_exd/1103",
+   "en": "The test is nearly at an end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1103",
+   "en": "The test is almost over.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "rows 645-646: dash = seized",
+   "rows 647-648: ichiji houkou = 1 o'clock",
+   "rows 691-692: kooku/koukuu = rear",
+   "rows 701-702: reactor / malfunction / control homophones"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,445 @@
+{
+ "slice": 248,
+ "rows_in_slice": 71,
+ "rows_examined": 71,
+ "rows": [
+  {
+   "id": "c17930",
+   "en": "I'm counting on you, then, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17931",
+   "en": "Yes, Alto-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17932",
+   "en": "(Luca and Alto seemed to be getting along well...\nHow long have those two known each other?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17933",
+   "en": "Luca, got a sec?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17934",
+   "en": "What is it, \\p-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17935",
+   "en": "You and Alto get along really well.\nHow long have you known each other?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17936",
+   "en": "I met Alto-senpai right before\nI graduated from middle school.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17937",
+   "en": "Alto-senpai suddenly came storming in,\nyelling, while wearing a beautiful dress.\nHonestly, it gave me quite a shock.",
+   "flags": [],
+   "notes": "Alludes to Alto in his stage costume in Macross Frontier episode 1."
+  },
+  {
+   "id": "c17938",
+   "en": "And that's also when I met Nanase-san...\nFor me, it was truly a fateful encounter......",
+   "flags": [],
+   "notes": "Read 'boku ni tottemo' as 'boku ni totte, tottemo' (for me, truly); could also be 'for me as well'."
+  },
+  {
+   "id": "c17939",
+   "en": "W-Well, good for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17940",
+   "en": "(Huh~ So that's how they met.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17941",
+   "en": "(It's so like Luca to start with Alto and end up\ntalking about how he met Nanase...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17942",
+   "en": "(Luca-kun and Saotome-kun seemed to get along\nwell... How long have those two known each other?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17943",
+   "en": "Luca-kun, got a sec?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17944",
+   "en": "You and Saotome-kun get along really well.\nHow long have you known each other?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17945",
+   "en": "W-Well, good for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17946",
+   "en": "(Huh~ So that's how they met.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17947",
+   "en": "(It's so like Luca-kun to start with Saotome-kun\nand end up talking about how he met Nanase...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17948",
+   "en": "Um, \\p-san,\naren't you hungry?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17949",
+   "en": "I guess I'm kind of hungry, but I was\nthinking of eating at home today......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17950",
+   "en": "You're hungry, right?!\nYou can't possibly hold out till you get home!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17951",
+   "en": "No, not really......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17952",
+   "en": "Then let's go to Nyan-Nyan!\nI just really want some Galaxy Ramen!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17953",
+   "en": "Oh, \\p-kun, Luca-kun,\nwelcome!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17954",
+   "en": "N-Nanase-san! You're the one who's\nworking so hard, thank you!",
+   "flags": [],
+   "notes": "Luca flustered: answers her 'welcome' with 'Nanase-san koso otsukaresama desu' (no, YOU are the one working hard)."
+  },
+  {
+   "id": "c17955",
+   "en": "(I see, so that's what this is about.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17956",
+   "en": "Sorry I can't keep you company, we're busy\nright now. Please take your time and relax.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17957",
+   "en": "Good luck with your work too, Nanase-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17958",
+   "en": "Luca-kun, we came here to eat, right?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The male player says 'Luca-kun' here (he says bare 'Luca' elsewhere); kept as in the Japanese, read as pointed teasing."
+  },
+  {
+   "id": "c17959",
+   "en": "O-Of course we did!\nWhat other reason could there possibly be?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17960",
+   "en": "(Luca's really got it bad...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17961",
+   "en": "Oh, \\p-san, Luca-kun,\nwelcome!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17962",
+   "en": "(I see, so that's what this is about.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17963",
+   "en": "Luca-kun, we came here to eat, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17964",
+   "en": "(Geez, Luca-kun's really got it bad...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17965",
+   "en": "(Huh, there's a crowd gathering...\nWhat's going on over there?)",
+   "flags": [],
+   "notes": "x4: also opens nml_rnk_025 (male and female)."
+  },
+  {
+   "id": "c17966",
+   "en": "Hey, Luca, that's Ranka over there, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17967",
+   "en": "Looks like it. Maybe they're filming something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17968",
+   "en": "Heyyy! Rankaaa! Go for it!!",
+   "flags": [],
+   "notes": "Also used in nml_rnk_025 (player alone at a commercial shoot)."
+  },
+  {
+   "id": "c17969",
+   "en": "W-Wait a minute!\n\\p-san!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17970",
+   "en": "Oh, looks like she noticed!",
+   "flags": [],
+   "notes": "x3: in nml_rnk_025 the player is alone, so 'noticed us' is avoided."
+  },
+  {
+   "id": "c17971",
+   "en": "Well, of course she'd notice...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17972",
+   "en": "Hi, you two!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17973",
+   "en": "We hardly ever see you at school, so I was\nworried, but I'm relieved you're doing well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17974",
+   "en": "Being full of energy is my only strong point!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17975",
+   "en": "Well then, say hi to Nana-chan for me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17976",
+   "en": "...Looks like you've found a good\nconversation starter.",
+   "flags": [],
+   "notes": "Teasing: something to talk to Nanase about."
+  },
+  {
+   "id": "c17977",
+   "en": "Wh-What are you talking about... Geez...\nLet's get back to shopping!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17978",
+   "en": "(Luca's not one to admit his feelings either, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17979",
+   "en": "Hey, Luca-kun, that's Ranka-chan over there, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17980",
+   "en": "Heyyy! Ranka-chaaan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17981",
+   "en": "...Looks like you've found a good\nconversation starter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17982",
+   "en": "(Luca-kun's not one to admit his feelings\neither, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17983",
+   "en": "(The department store's having a sale today...\nHope they've got something good.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17984",
+   "en": "Huh, isn't that...\nLuca and Nanase over there...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17985",
+   "en": "Hey, you two.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17986",
+   "en": "\\p-san!",
+   "flags": [],
+   "notes": "x4: Luca here; Shirakawa and Nanase in other scenes."
+  },
+  {
+   "id": "c17987",
+   "en": "Are you two on a date?\nMy, my, things are heating up~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17988",
+   "en": "No! Absolutely not!!\nWe just ran into each other by pure, pure chance,\nso we were talking a little! Just a tiny bit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17989",
+   "en": "That's right, isn't it? That's how it was,\nright, Luca-kun?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17990",
+   "en": "...Huh?\nOh, yes, that's right, yeah...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17991",
+   "en": "Well then, I'll be going!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17992",
+   "en": "Sorry, Luca...\nDinner's on me today...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17993",
+   "en": "Hahahaha... I'll be going too, then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17994",
+   "en": "(I never thought she'd deny it THAT hard...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17995",
+   "en": "(The department store's having a bargain sale\ntoday. Hope they've got something good.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17996",
+   "en": "Huh, isn't that...\nLuca-kun and Nanase over there...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17997",
+   "en": "Yoo-hoo~ you two!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17998",
+   "en": "Are you two on a date?\nKyaa~ How hot and heavy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17999",
+   "en": "Sorry, Luca-kun...\n...To make it up to you, how about\nI go on a date with you?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18000",
+   "en": "(...Huh? Did he just gently turn me down too?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c17958: the male player calls him 'Luca-kun' only in this line; kept as the Japanese.",
+   "c17938: 'boku ni tottemo' read as 'truly fateful for me'.",
+   "c17954: Luca's flustered 'Nanase-san koso otsukaresama desu' rendered as an over-eager thank-you."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,376 @@
+{
+ "slice": 247,
+ "rows_in_slice": 60,
+ "rows_examined": 60,
+ "rows": [
+  {
+   "id": "c17870",
+   "en": "(What should I do after school today?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17871",
+   "en": "\\p-san,\nif you're free, shall we stop off somewhere?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17872",
+   "en": "Sure, where should we go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17873",
+   "en": "I wonder if there's anywhere good...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17874",
+   "en": "Somewhere good, huh... Hmm...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17875",
+   "en": "What are you two up to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17876",
+   "en": "Oh, Alto...\nWe were trying to decide where to stop off\non the way home. Know anywhere good?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17877",
+   "en": "...Beats me.\nWhy not just go to Nyan-Nyan?\nNanase and the others will be there anyway.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17878",
+   "en": "Good idea. Let's go to Nyan-Nyan, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17879",
+   "en": "Sounds good. Alto-senpai, why don't you come too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17880",
+   "en": "Yeah, sure.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17881",
+   "en": "(I had a really fun time after school today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17882",
+   "en": "Somewhere good... Hmm...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17883",
+   "en": "Saotome-kun...\nWe were trying to decide where to stop off\non the way home. Know anywhere good?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17884",
+   "en": "Good idea. Let's go to Nyan-Nyan, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17885",
+   "en": "(I had a really fun time after school today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17886",
+   "en": "*Yaaawn*......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17887",
+   "en": "That was a big yawn. You look sleepy,\n\\p-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17888",
+   "en": "I stayed up a bit late last night...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17889",
+   "en": "Is that so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17890",
+   "en": "Oh, I know. Wait here a moment, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17891",
+   "en": "Here you go, some coffee to wake you up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17892",
+   "en": "Oh, thanks, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17893",
+   "en": "......Mm, this is good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17894",
+   "en": "You made this yourself, right, Luca?\nI think it's good enough to serve in a cafe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17895",
+   "en": "I'm flattered to get that much praise.\nThank you very much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17896",
+   "en": "There's a little trick to making\na good cup of coffee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17897",
+   "en": "Huh~ Then teach me the trick sometime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17898",
+   "en": "Just keep it a secret from everyone else.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17899",
+   "en": "(All right, thanks to Luca I'm wide awake.\nTime to give the rest of my classes my all!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17900",
+   "en": "Oh, thanks, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17901",
+   "en": "You made this yourself, didn't you, Luca-kun?\nI think it's good enough to serve in a cafe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17902",
+   "en": "Huh~ Then will you teach me the trick sometime?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17903",
+   "en": "(All right, thanks to Luca-kun I'm wide awake.\nI've gotta give the rest of my classes my all!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17904",
+   "en": "(Even setting aside the grade-skipping,\nhe really doesn't look like a high schooler...)",
+   "flags": [],
+   "notes": "Player watching Luca (he skipped a grade, as in c21156)."
+  },
+  {
+   "id": "c17905",
+   "en": "Hmmm......",
+   "flags": [],
+   "notes": "x6: the player thinking here; Hoshimura groaning in her sleep (nml_yui_015) and thinking (nml_yui_017). Neutral for all."
+  },
+  {
+   "id": "c17906",
+   "en": "What's wrong, \\p-san?\nYou look so troubled.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17907",
+   "en": "Well, I was just thinking that you\nreally don't look like a high schooler, Luca...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17908",
+   "en": "Geez~ Please don't treat me like a kid!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17909",
+   "en": "I'll have you know, I'm actually...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17910",
+   "en": "Luca-kuuun, here, have a candy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17911",
+   "en": "Yaaay, thank you very much!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17912",
+   "en": "What I'm trying to say is... (clack clack)\nthat I'd like people not to judge others\nby their looks... (clack clack)",
+   "flags": [],
+   "notes": "korokoro: the hard candy rattling in Luca's mouth."
+  },
+  {
+   "id": "c17913",
+   "en": "(Hard to take that seriously when he's\nsaying it with such a happy face...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17914",
+   "en": "Well, I was just thinking that you\nreally don't look like a high schooler, Luca-kun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17915",
+   "en": "(Hard to take that seriously when he's\nsaying it with such a happy face...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17916",
+   "en": "(Hmm, this has been bugging me for a while...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17917",
+   "en": "(Why does Luca wear shorts?\nThey suit him, so it's not a problem, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17918",
+   "en": "Hey, Luca, got a sec?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17919",
+   "en": "What is it?",
+   "flags": [],
+   "notes": "x4: Luca to the player here; also the player to Claire and to Klan in the White Day scenes (scd_com_722). Polite enough for both."
+  },
+  {
+   "id": "c17920",
+   "en": "This has been bugging me for a while...\nWhy do you wear shorts?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17921",
+   "en": "W-Well, that's...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17922",
+   "en": "I-I'm sorry,\nI just remembered something urgent, so I'll be going!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17923",
+   "en": "Ah, Luca...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17924",
+   "en": "(Could those shorts actually be hiding\nsome incredible secret?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17925",
+   "en": "(Why does Luca-kun wear shorts, I wonder?\nThey suit him, so it's not a problem, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17926",
+   "en": "Hey, Luca-kun, got a sec?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17927",
+   "en": "This has been bugging me for a while...\nWhy do you wear shorts?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17928",
+   "en": "Ah, Luca-kun...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17929",
+   "en": "(Could those shorts actually be hiding\nsome incredible secret?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c17912: 'korokoro' (candy rolling in the mouth) rendered as '(clack clack)'.",
+   "c17919 'nandesu?' is shared by Luca and by the player speaking to Claire/Klan on White Day: 'What is it?' fits all."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

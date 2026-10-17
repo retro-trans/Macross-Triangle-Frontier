@@ -1,0 +1,434 @@
+{
+ "slice": 86,
+ "rows_in_slice": 69,
+ "rows_examined": 69,
+ "rows": [
+  {
+   "id": "c06365",
+   "en": "Hm, I suppose that's true.\nThen let's try Western food today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06366",
+   "en": "You don't want Japanese food this time?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06367",
+   "en": "Some days my tongue just craves beef.\nOr would you have preferred fish?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06368",
+   "en": "No, I'm fine with anything!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06369",
+   "en": "Sigh... You're easy to please.\nWhy not try showing a bit more initiative?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06370",
+   "en": "Well, fine... Let's go to the restaurant.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06371",
+   "en": "Thanks for the meal!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06372",
+   "en": "Judging by that face, I take it\nyou had no complaints about the food.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06373",
+   "en": "You really do know all the good places, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06374",
+   "en": "Not really... Well then, shall we head home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06375",
+   "en": "(I'm stuffed, and it was a nice change of pace.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06376",
+   "en": "(Today I'm going to Yamashiro-sensei's\nfavorite restaurant again~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06377",
+   "en": "Yes. I don't know any places at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06378",
+   "en": "No, anything's fine with me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06379",
+   "en": "(I'm stuffed! That was a nice change of pace~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06380",
+   "en": "(I'm going shopping with\nYamashiro-sensei today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06381",
+   "en": "\\p.\nYou're early again today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06382",
+   "en": "Being five minutes early is\nbasic stuff for a student, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06383",
+   "en": "Hahaha, I see. That's a fine attitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06384",
+   "en": "Today we're picking out a toy\nfor your kitten, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06385",
+   "en": "That's right. Well then, shall we go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06386",
+   "en": "How's the kitten doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06387",
+   "en": "Fine. At first it was as timid as a borrowed\ncat, quite literally, but now it's so lively\nthat it's become a bit of a handful.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Idiom karite kita neko (a borrowed cat = unusually meek); the kitten was literally taken in. Kept the image with 'quite literally'."
+  },
+  {
+   "id": "c06388",
+   "en": "I can't be there for it all the time.\nI'd better buy it a toy or something\nto keep it in a good mood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06389",
+   "en": "Let me meet it sometime, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06390",
+   "en": "Yes, all right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06391",
+   "en": "So, what kind of toy are you going to buy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06392",
+   "en": "Let's see...\nSomething it can play with on its own would be good...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06393",
+   "en": "Hm? Is that...!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06394",
+   "en": "Did you find something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06395",
+   "en": "Sorry, but go on ahead\nto the pet supplies section.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06396",
+   "en": "Something urgent has come up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06397",
+   "en": "Hey, wait! Sensei!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06398",
+   "en": "You can't just run off like that, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06399",
+   "en": "Sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06400",
+   "en": "You could've at least said something.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06401",
+   "en": "I could hardly drag you along with me.\nNot for an errand like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06402",
+   "en": "Why not?\nI'd have gone along for something like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06403",
+   "en": "Yes... I never imagined I'd find it\nin a place like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06404",
+   "en": "The limited-edition reprint\nof the Complete VF Collection...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06405",
+   "en": "...You look happy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06406",
+   "en": "I've been searching for it for five years...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06407",
+   "en": "F-five years...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06408",
+   "en": "It was a long wait...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06409",
+   "en": "Now then, let's go buy the cat's toy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06410",
+   "en": "(That was fun! I even found out about\nSensei's surprising hobby!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06411",
+   "en": "(Today I'm going shopping\nwith Yamashiro-sensei.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06412",
+   "en": "Ehehe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06413",
+   "en": "Today we're picking out a toy for\nthe kitty from last time, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06414",
+   "en": "How's the kitty doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06415",
+   "en": "Please let me meet it sometime!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06416",
+   "en": "If you'd just said something...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06417",
+   "en": "Oh, who minds?\nIt's something you've wanted for ages, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06418",
+   "en": "Five years...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06419",
+   "en": "(We got a toy for the kitty, and I found out\nabout Sensei's surprising hobby. So fun!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06420",
+   "en": "(I came shopping with Yamashiro-sensei\nagain today, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06421",
+   "en": "Aren't you hunting for rare finds today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06422",
+   "en": "If they were easy to find, they wouldn't\nbe rare finds. I do try to keep\nan eye out, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06423",
+   "en": "Never mind me. Let's go look\nfor the cat's toy right away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06424",
+   "en": "Ah, wait for me~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06425",
+   "en": "I'm glad we found a good toy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06426",
+   "en": "Indeed. Now I should be able to\nlive in safety for a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06427",
+   "en": "Safety?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06428",
+   "en": "It claws up the whole house.\nIt's quite an ordeal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06429",
+   "en": "I'd better hurry home and get\non its good side.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06430",
+   "en": "Okay. See you, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06431",
+   "en": "Don't go wandering around.\nHead straight home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06432",
+   "en": "(Having a pet sure is tough.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06433",
+   "en": "(Keeping a pet really is a lot of work.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c06387: idiom karite kita neko ('a borrowed cat', i.e. unusually meek) applied literally to the adopted kitten; rendered 'as timid as a borrowed cat, quite literally'.",
+   "c06399 'Sorry...' is shared with Kagura turning down an invitation (nml_kgr_017); neutral wording works for both.",
+   "c06404: 'gentei fukkokuban VF zenshuu' rendered 'the limited-edition reprint of the Complete VF Collection' (no glossary entry; generic product, not a name).",
+   "c06398: 'komarimasu yo, sensei' (after Yamashiro ran off) rendered 'You can't just run off like that, Sensei.'"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

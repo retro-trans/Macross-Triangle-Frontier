@@ -1,0 +1,497 @@
+{
+ "slice": 133,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c09756",
+   "en": "Maybe I'll wander around the school\nfor a bit...",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c09757",
+   "en": "The art room, huh...\nMaybe I'll take a look inside...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09758",
+   "en": "Luuu-caaa!",
+   "flags": [],
+   "notes": "x2, male; drawn-out call."
+  },
+  {
+   "id": "c09759",
+   "en": "What's up? Lost in thought\nin the art room?",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09760",
+   "en": "N-No, i-it's nothing...",
+   "flags": [],
+   "notes": "x4, Luca, both genders."
+  },
+  {
+   "id": "c09761",
+   "en": "Ahh~ I get it, I get it...\nWell, that's youth for you!!",
+   "flags": [],
+   "notes": "x2, both genders. The player assumes Luca is in love (with someone in the art room)."
+  },
+  {
+   "id": "c09762",
+   "en": "Sorry, I didn't pick up on it at all.\nI'm rooting for you!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09763",
+   "en": "W-Wait, aren't you getting\nthe wrong idea here!?",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09764",
+   "en": "(Hahaha, hang in there, Luca!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09765",
+   "en": "(School's finally out...)",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c09766",
+   "en": "The art room, huh...\nMaybe I'll take a peek...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09767",
+   "en": "Heeey, Luca-kuuun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09768",
+   "en": "Luuu-caaa-kuuun!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09769",
+   "en": "Why didn't you tell me~? You could've\ncome to me...! If I'm any help,\nI'll cheer you on all you want!!",
+   "flags": [],
+   "notes": "Female. mizukusai = don't keep it from me."
+  },
+  {
+   "id": "c09770",
+   "en": "(Hehehe, good luck, Luca-kun!!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09771",
+   "en": "I sense someone in the art room...",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09772",
+   "en": "Lost in thought in the art room again?",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09773",
+   "en": "If something's bothering you, I'll listen, okay?\nSometimes talking it out\nmakes you feel better.",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09774",
+   "en": "...No, this is my own problem...",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09775",
+   "en": "...Really?\nWell, I'm rooting for you anyway.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09776",
+   "en": "...Okay. Thank you.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09777",
+   "en": "(...Hang in there, Luca!!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09778",
+   "en": "Heeey, Luca-kuuun~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09779",
+   "en": "Luuu-caaa-kyuuun!",
+   "flags": [],
+   "notes": "Female. kyuun = cutesy distortion of kun, kept as 'kyuuun'."
+  },
+  {
+   "id": "c09780",
+   "en": "...Really?\nWell, I'm rooting for you anyway.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09781",
+   "en": "(...Hang in there, Luca-kun!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09782",
+   "en": "(Okay, maybe I'll head home soon...)",
+   "flags": [],
+   "notes": "x2, male."
+  },
+  {
+   "id": "c09783",
+   "en": "\\p, got a sec?",
+   "flags": [],
+   "notes": "x4: Michel (frd_mcl_001) and Gary (scd_com), both genders."
+  },
+  {
+   "id": "c09784",
+   "en": "Hm? You need something from me, Michel?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09785",
+   "en": "Yeah, kind of...\nYou free after this?",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09786",
+   "en": "Yeah, I'm free, I guess...",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09787",
+   "en": "Glad to hear it.\nThen keep me company for a bit.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09788",
+   "en": "Sure, but where are we going,\nand what for?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09789",
+   "en": "Oh, to check out a new cafe\nahead of time.",
+   "flags": [],
+   "notes": "x2, Michel, both genders. No accent (Shift-JIS)."
+  },
+  {
+   "id": "c09790",
+   "en": "...Check out a cafe?",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09791",
+   "en": "The atmosphere and the clientele are both\ndecent. The food's a safe bet too...\nThis place should work fine for a date.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09792",
+   "en": "(I see, so he's scouting a place\nfor a date.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09793",
+   "en": "Is careful groundwork the secret\nto being popular with girls,\nMichel-sensei?",
+   "flags": [],
+   "notes": "Male. Joking 'Michel-sensei' (sensei honorific kept)."
+  },
+  {
+   "id": "c09794",
+   "en": "Well, doing this much homework\nis just common sense.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09795",
+   "en": "Common sense, huh...",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09796",
+   "en": "You've gotta get to where you can\ncasually bring a girl to a place like this\ntoo, y'know.",
+   "flags": [],
+   "notes": "Michel, male scene."
+  },
+  {
+   "id": "c09797",
+   "en": "But if everyone were like that,\nyou'd be in trouble too, right, Michel?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09798",
+   "en": "Haha, you've got a point there.",
+   "flags": [],
+   "notes": "Michel, male scene."
+  },
+  {
+   "id": "c09799",
+   "en": "Come to think of it, there's one thing\nI've been wondering about...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09800",
+   "en": "Why'd you ask me along?\nYou could've scouted it on your own, right?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09801",
+   "en": "Let's see...\nTwo guys having tea together is a bit iffy,\nbut it beats coming alone.",
+   "flags": [],
+   "notes": "Michel, male scene."
+  },
+  {
+   "id": "c09802",
+   "en": "So you invited me because you wanted\nsomeone to talk to?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09803",
+   "en": "That's part of it, but...",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09804",
+   "en": "Hm?",
+   "flags": [],
+   "notes": "Male; as c00275."
+  },
+  {
+   "id": "c09805",
+   "en": "If I sat having tea all by myself,\nthe older ladies around me\nwouldn't leave me alone.",
+   "flags": [],
+   "notes": "x2, Michel, both genders. onee-sama-gata = 'the older ladies', as other Michel rows (c10330, c24217)."
+  },
+  {
+   "id": "c09806",
+   "en": "Hey, I'm not your woman repellent!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09807",
+   "en": "Hahaha, I'm kidding.\nDon't pout like that.",
+   "flags": [],
+   "notes": "x3, Michel, both genders (twice in the female scene)."
+  },
+  {
+   "id": "c09808",
+   "en": "Hahahaha!",
+   "flags": [],
+   "notes": "x4: Michel and the player, both genders."
+  },
+  {
+   "id": "c09809",
+   "en": "(Still, Michel really goes to\na lot of trouble over this stuff.)",
+   "flags": [],
+   "notes": "Male. mame = diligent, attentive."
+  },
+  {
+   "id": "c09810",
+   "en": "(Hmm~ Maybe I should try a little harder\ntoo, like Michel...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09811",
+   "en": "(Okay, maybe I'll head home soon...)",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c09812",
+   "en": "Hm? You need something from me,\nMichel-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09813",
+   "en": "Sure, but where are we going,\nand what for?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09814",
+   "en": "(I see, so he's scouting a place\nfor a date.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09815",
+   "en": "Is careful groundwork the secret\nto being popular with girls,\nMichel-sensei?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09816",
+   "en": "Oh, come to think of it, there's one\nthing I've been wondering about...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09817",
+   "en": "Why'd you ask me along?\nYou could've scouted it on your own, right?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09818",
+   "en": "Having tea as a lone guy\nis kinda lonely, you know.",
+   "flags": [],
+   "notes": "Michel, female scene."
+  },
+  {
+   "id": "c09819",
+   "en": "So you invited me because you wanted\nsomeone to talk to?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09820",
+   "en": "Geez, Michel-kun,\nI'm not your woman repellent!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09821",
+   "en": "Honestly, Michel-kun...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09822",
+   "en": "(Still, Michel-kun really goes to\na lot of trouble over this stuff.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09823",
+   "en": "(I guess that's Michel-kun for you.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09824",
+   "en": "(School's over, so maybe I'll stop\nsomewhere on the way home.)",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09825",
+   "en": "Yo, \\p.\nHeading home now?",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09826",
+   "en": "Yeah, that's the plan.",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09827",
+   "en": "Remember that cafe we checked out before?\nWanna go there now?",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09828",
+   "en": "Sure, but...\nWhat's the occasion today?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09829",
+   "en": "Truth is...",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09830",
+   "en": "I just wanted to come have tea with you.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09831",
+   "en": "(The way he was dragging it out,\nI thought something was up...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09832",
+   "en": "C'mon, let's enjoy some tea time,\njust the two of us.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09833",
+   "en": "(Michel sure gets a kick out of\nteasing people...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09834",
+   "en": "(Sigh~ Oh well.\nI'll just enjoy having tea with Michel.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09835",
+   "en": "Sure, but...\nWhat's the occasion today?",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c09807: in the female version of frd_mcl_001 the line also sits right after the player asks why Michel invited her (before c09818), where it reads a little abruptly; it is a shared fixed line.",
+   "c09761/c09762/c09769: the player assumes Luca is lovesick (presumably over Nanase); kept implicit as in the Japanese.",
+   "c09779: kyuun (cutesy kun) rendered 'Luuu-caaa-kyuuun!'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

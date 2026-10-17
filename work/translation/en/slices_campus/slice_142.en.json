@@ -1,0 +1,397 @@
+{
+ "slice": 142,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c10401",
+   "en": "(Today I'm gonna enjoy lunch\nwith Michel at Nyan-Nyan.)",
+   "flags": [],
+   "notes": "Male (x2), frd_mcl_113."
+  },
+  {
+   "id": "c10402",
+   "en": "Nyan-Nyan's always packed, though.\nWhat do you think makes it so popular?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10403",
+   "en": "You can't even figure out\nsomething that simple, \\p?",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c10404",
+   "en": "What, you know why, Michel?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10405",
+   "en": "Of course I do.\nListen...",
+   "flags": [],
+   "notes": "x2, Michel."
+  },
+  {
+   "id": "c10406",
+   "en": "Cute girls like Ranka-chan and Nanase\nare walking around in China dresses...\nAny normal guy would come to look, right?",
+   "flags": [],
+   "notes": "x2, Michel, both genders. China dress as earlier slices; Ranka-chan / bare Nanase as in the Japanese."
+  },
+  {
+   "id": "c10407",
+   "en": "S-so it's not because the food's good...",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10408",
+   "en": "Well, to pull in this many customers,\ngood food is a basic requirement, sure.",
+   "flags": [],
+   "notes": "x2, Michel."
+  },
+  {
+   "id": "c10409",
+   "en": "Sorry to keep you waiting.",
+   "flags": [],
+   "notes": "x4, Nyan-Nyan clerk serving the food."
+  },
+  {
+   "id": "c10410",
+   "en": "Oh, looks like our food's here.\nLet's eat while it's hot.",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10411",
+   "en": "(Having lunch while chatting and having fun\nwith Michel like this isn't bad at all.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10412",
+   "en": "(Today I'm going to enjoy lunch\nwith Michel-kun at Nyan-Nyan.)",
+   "flags": [],
+   "notes": "Female (x2)."
+  },
+  {
+   "id": "c10413",
+   "en": "Nyan-Nyan's always packed, though.\nI wonder what makes it so popular?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10414",
+   "en": "What, you know why, Michel-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10415",
+   "en": "Yeah, let's do that.",
+   "flags": [],
+   "notes": "x3, female player agreeing to eat."
+  },
+  {
+   "id": "c10416",
+   "en": "(Having lunch while chatting and having fun\nwith Michel-kun like this isn't bad at all.)",
+   "flags": [],
+   "notes": "Female (x2)."
+  },
+  {
+   "id": "c10417",
+   "en": "Anyway, Nyan-Nyan's packed again today, huh.",
+   "flags": [],
+   "notes": "Male, second visit."
+  },
+  {
+   "id": "c10418",
+   "en": "I told you before, didn't I?\nEveryone's here for the China dresses.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c10419",
+   "en": "Well, I don't think you should\njust assume that...",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10420",
+   "en": "Of course that's why.",
+   "flags": [],
+   "notes": "x2, Michel."
+  },
+  {
+   "id": "c10421",
+   "en": "(In Michel's head,\nNyan-Nyan = China dresses...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10422",
+   "en": "Anyway, Nyan-Nyan's packed again today,\nisn't it?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10423",
+   "en": "(In Michel-kun's head,\nNyan-Nyan = China dresses...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10424",
+   "en": "(I came to the Observation Pier, but there's\nnothing much to do. Maybe I'll head home soon...)",
+   "flags": [],
+   "notes": "x4, both genders, frd_mcl_114. Observation Pier (glossary)."
+  },
+  {
+   "id": "c10425",
+   "en": "(Wait, huh? It's Michel.\nWhat's he doing here?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10426",
+   "en": "97, 98, 99, 9200...\n9201, 202, 3......",
+   "flags": [],
+   "notes": "x4, Michel counting stars; numbers kept as written."
+  },
+  {
+   "id": "c10427",
+   "en": "Michel, what are you doing,\ncounting like that?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10428",
+   "en": "Counting stars.",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10429",
+   "en": "Counting stars...?",
+   "flags": [],
+   "notes": "x4, player, both genders."
+  },
+  {
+   "id": "c10430",
+   "en": "Sigh... And I was so close\nto ten thousand, too......",
+   "flags": [],
+   "notes": "x4, Michel; the player's call made him lose count."
+  },
+  {
+   "id": "c10431",
+   "en": "What?! Were you really counting the stars?\nThey're so tiny... And ten thousand of them!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10432",
+   "en": "I've got good eyes.\nThis much is a piece of cake.",
+   "flags": [],
+   "notes": "x4, Michel (a sniper)."
+  },
+  {
+   "id": "c10433",
+   "en": "Wow~, that's amazing, Michel.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10434",
+   "en": "Aw, don't flatter me.\nSo what are you doing in a place like this?",
+   "flags": [],
+   "notes": "x4, Michel, both genders."
+  },
+  {
+   "id": "c10435",
+   "en": "I was just taking a walk.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10436",
+   "en": "I see. Then you're free, right?\nWanna go get some tea somewhere?",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10437",
+   "en": "(Still, counting stars...\nMichel, just how good are your eyes......)",
+   "flags": [],
+   "notes": "Male, thought addressed to Michel."
+  },
+  {
+   "id": "c10438",
+   "en": "(Wait, huh? Isn't that Michel-kun?\nI wonder what he's doing here.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10439",
+   "en": "Michel-kun, what are you doing,\ncounting like that?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10440",
+   "en": "What?! Were you really counting the stars?\nThey're so tiny... And ten thousand of them!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10441",
+   "en": "Wow~, that's amazing, Michel-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10442",
+   "en": "I was just taking a walk.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10443",
+   "en": "(Still, counting stars...\nMichel-kun, just how good are your eyes......)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10444",
+   "en": "(All right! Today I'm gonna do some\nself-training to improve my skills!)",
+   "flags": [],
+   "notes": "Male (x2), frd_mcl_115."
+  },
+  {
+   "id": "c10445",
+   "en": "Hm? If it isn't \\p.\nDid you come to train too?",
+   "flags": [],
+   "notes": "x4, Michel, both genders."
+  },
+  {
+   "id": "c10446",
+   "en": "You said 'too'...\nSo you're here to train too, Michel?",
+   "flags": [],
+   "notes": "Male. The Japanese stresses 'mo' (too) in quotes."
+  },
+  {
+   "id": "c10447",
+   "en": "Yeah, there's something about my acrobatics\nthat's been bugging me.",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10448",
+   "en": "(He's got talent, and he never slacks on effort.\nSo that's why he's No. 1 in our year...)",
+   "flags": [],
+   "notes": "Male. gakunen nanbaa wan = top of the year."
+  },
+  {
+   "id": "c10449",
+   "en": "There's only so much I can do training alone,\nso this works out great.",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10450",
+   "en": "Yeah, you're right.\nTraining together's probably more efficient.\nI'm counting on you, Michel.",
+   "flags": [],
+   "notes": "Male. yoroshiku tanomu yo: the player asks Michel."
+  },
+  {
+   "id": "c10451",
+   "en": "All right, first......",
+   "flags": [],
+   "notes": "Michel (male scene)."
+  },
+  {
+   "id": "c10452",
+   "en": "Well, that'll do for today.",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10453",
+   "en": "Phew~, after all that, you're not even out\nof breath. You really are amazing, Michel...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10454",
+   "en": "Your moves weren't half bad either.\nIf I'm not careful, you might even\novertake me...",
+   "flags": [],
+   "notes": "x4, Michel to the player; the player answers 'What?'."
+  },
+  {
+   "id": "c10455",
+   "en": "Come on, let's call it a day and head home.\nSee you.",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10456",
+   "en": "Yeah, see you.",
+   "flags": [],
+   "notes": "Male. Same English as the finished c02019."
+  },
+  {
+   "id": "c10457",
+   "en": "(All right, even Michel praised me.\nI'll keep working hard to hone my skills!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10458",
+   "en": "(All right! Today I'm going to do some\nself-training to improve my skills!)",
+   "flags": [],
+   "notes": "Female (x2)."
+  },
+  {
+   "id": "c10459",
+   "en": "You said 'too'...\nSo you're here to train too, Michel-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10460",
+   "en": "(He's got talent, and he never slacks on effort.\nSo that's why he's No. 1 in our year...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10461",
+   "en": "Yeah, that's true.\nTraining together's probably more efficient.\nI'm counting on you, Michel-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10462",
+   "en": "All right, first...",
+   "flags": [],
+   "notes": "x3, Michel, both genders (variant of c10451)."
+  },
+  {
+   "id": "c10463",
+   "en": "Phew~, after all that, you're not even out\nof breath. You really are amazing, Michel-kun...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10464",
+   "en": "(All right, even Michel-kun praised me.\nI'll keep working hard to hone my skills!)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

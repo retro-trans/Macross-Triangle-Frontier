@@ -1,0 +1,1174 @@
+{
+ "slice": 32,
+ "rows_in_slice": 187,
+ "rows_examined": 187,
+ "rows": [
+  {
+   "id": "u3721",
+   "en": "Nastasha Toto",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary status needs_check (Nastasha Toto)."
+  },
+  {
+   "id": "u3722",
+   "en": "Saori Kujo",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary status provisional."
+  },
+  {
+   "id": "u3723",
+   "en": "Amy Rock",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary status provisional."
+  },
+  {
+   "id": "u3724",
+   "en": "Feff",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3725",
+   "en": "Nexx Gilbert",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary status needs_check."
+  },
+  {
+   "id": "u3726",
+   "en": "Hibiki & Ishtar",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hibiki Kanzaki: glossary needs_check; Japanese uses the given name only."
+  },
+  {
+   "id": "u3727",
+   "en": "Silvie & Hibiki",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hibiki Kanzaki: glossary needs_check."
+  },
+  {
+   "id": "u3728",
+   "en": "Feff & Ishtar",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3729",
+   "en": "Hibiki",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hibiki Kanzaki: glossary needs_check."
+  },
+  {
+   "id": "u3730",
+   "en": "Silvie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3731",
+   "en": "Full Macross (ARMS)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Mission object label (m2_060 DEMO01). 'Full Macross' mirrors the existing 'Half Macross' (u3887); glossary entry for the half version is needs_research. ARMS kept as written."
+  },
+  {
+   "id": "u3732",
+   "en": "Full Macross (MS)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same as u3731; MS kept as written."
+  },
+  {
+   "id": "u3733",
+   "en": "Ingues",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3734",
+   "en": "Scott & Kannara & Nepias",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3735",
+   "en": "Ray & Veffidas",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3736",
+   "en": "Captain Max",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3737",
+   "en": "Kinryu",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3738",
+   "en": "Gamlin & Mylene",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3739",
+   "en": "Irina Hayakawa",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3740",
+   "en": "Ortek",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3741",
+   "en": "Matthews",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3742",
+   "en": "Dick",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3743",
+   "en": "Molly",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3744",
+   "en": "Gamlin Kizaki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3745",
+   "en": "Chlore",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3746",
+   "en": "Shin Kudo/VF-0D(SK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3747",
+   "en": "Carrier Asuka II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3748",
+   "en": "Shin Kudo/VF-0A(SK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3749",
+   "en": "Concert Ship",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary status provisional (Concert Ship)."
+  },
+  {
+   "id": "u3750",
+   "en": "Gary Murdoch/VF-25S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3751",
+   "en": "Luis Fernando/VF-25F",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3752",
+   "en": "Hilda V. Bergen/VF-25S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3753",
+   "en": "Yui Hoshimura/VF-25G",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3754",
+   "en": "Miyuki Shirakawa/VF-25F",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3755",
+   "en": "Carrier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3756",
+   "en": "Emerald Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3757",
+   "en": "Wilbur Garland",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3758",
+   "en": "Emilia Jenius",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3759",
+   "en": "Shin Kudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3760",
+   "en": "Blue Wind",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3761",
+   "en": "Warera Nantes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3762",
+   "en": "Loli Dosel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3763",
+   "en": "Conda Bromco",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3764",
+   "en": "Physica S. Fulcrum",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3765",
+   "en": "Matthew Langley",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3766",
+   "en": "Maria Velasquez Hoilie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3767",
+   "en": "Patrol Leader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3768",
+   "en": "Nene Rora",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3769",
+   "en": "Oigul",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3770",
+   "en": "Bruno J. Global",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3771",
+   "en": "Mariafokina Barnrose",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3772",
+   "en": "Gavigla",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3773",
+   "en": "Magic Mirror Base",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3774",
+   "en": "Gilliam Angreat",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3775",
+   "en": "Suzie Newtlet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3776",
+   "en": "Shun Toma",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3777",
+   "en": "Manfred Brando/VF-17S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3778",
+   "en": "Hayao Kakizaki/VF-1A(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3779",
+   "en": "Raramia Rerenia",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3780",
+   "en": "Maruyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3781",
+   "en": "Jun",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3782",
+   "en": "Konig Monster",
+   "flags": [],
+   "notes": "VB-6 Konig Monster; short form as in u1078 (no umlaut)."
+  },
+  {
+   "id": "u3783",
+   "en": "Prototype Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3784",
+   "en": "Yuuto Kagura/VF-25A",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3785",
+   "en": "Hayao Kakizaki/VF-0A(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3786",
+   "en": "Hayao Kakizaki/VF-0S(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3787",
+   "en": "Hayao Kakizaki/VF-1J(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3788",
+   "en": "Hayao Kakizaki/VF-1S(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3789",
+   "en": "Hayao Kakizaki/VF-4(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3790",
+   "en": "Hayao Kakizaki/VF-2SS(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3791",
+   "en": "Hayao Kakizaki/VF-1SS(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3792",
+   "en": "Hayao Kakizaki/VF-9(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3793",
+   "en": "Hayao Kakizaki/VF-11B(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3794",
+   "en": "Hayao Kakizaki/YF-19(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3795",
+   "en": "Hayao Kakizaki/YF-21(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3796",
+   "en": "Hayao Kakizaki/VF-17S(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3797",
+   "en": "Hayao Kakizaki/VF-17D(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3798",
+   "en": "Hayao Kakizaki/VF-11C(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3799",
+   "en": "Hayao Kakizaki/VF-19S(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3800",
+   "en": "Hayao Kakizaki/VF-19F(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3801",
+   "en": "Hayao Kakizaki/VF-22S(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3802",
+   "en": "Hayao Kakizaki/VF-171(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3803",
+   "en": "Hayao Kakizaki/VF-25A(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3804",
+   "en": "Hayao Kakizaki/VF-27(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3805",
+   "en": "Hayao Kakizaki/VF-171EX(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3806",
+   "en": "Hayao Kakizaki/VF-25S(HK)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3807",
+   "en": "Aries 1/VF-1J",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3808",
+   "en": "Aries 2/VF-1J",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3809",
+   "en": "Aries 3/VF-1J",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3810",
+   "en": "Taurus 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3811",
+   "en": "Taurus 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3812",
+   "en": "Taurus 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3813",
+   "en": "Gemini 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3814",
+   "en": "Gemini 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3815",
+   "en": "Gemini 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3816",
+   "en": "Cancer 1/VF-1J",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3817",
+   "en": "Cancer 2/VF-1J",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3818",
+   "en": "Cancer 3/VF-1J",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3819",
+   "en": "Leo 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3820",
+   "en": "Leo 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3821",
+   "en": "Leo 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3822",
+   "en": "Virgo 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3823",
+   "en": "Virgo 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3824",
+   "en": "Virgo 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3825",
+   "en": "Libra 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3826",
+   "en": "Libra 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3827",
+   "en": "Libra 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3828",
+   "en": "Scorpio 1",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Japanese reads 'Scorpion'; terms.json fixes the callsign as 'Scorpio'."
+  },
+  {
+   "id": "u3829",
+   "en": "Scorpio 2",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u3828."
+  },
+  {
+   "id": "u3830",
+   "en": "Scorpio 3",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u3828."
+  },
+  {
+   "id": "u3831",
+   "en": "Sagittarius 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3832",
+   "en": "Sagittarius 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3833",
+   "en": "Sagittarius 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3834",
+   "en": "Capricorn 1/VF-22S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3835",
+   "en": "Capricorn 2/VF-22S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3836",
+   "en": "Capricorn 3/VF-22S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3837",
+   "en": "Aquarius 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3838",
+   "en": "Aquarius 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3839",
+   "en": "Aquarius 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3840",
+   "en": "Pisces 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3841",
+   "en": "Pisces 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3842",
+   "en": "Pisces 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3843",
+   "en": "Pisces 4",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3844",
+   "en": "/Nanase Matsuura",
+   "flags": [],
+   "notes": "Leading full-width slash kept as ASCII slash (appended to a callsign at runtime)."
+  },
+  {
+   "id": "u3845",
+   "en": "/Elma Hoilie",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Elma Hoilie: glossary needs_check."
+  },
+  {
+   "id": "u3846",
+   "en": "/Myung Fang Lone",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3847",
+   "en": "Mylene Jenius/VF-25G",
+   "flags": [],
+   "notes": "Japanese gives Mylene Jenius without 'Flare'; kept as written."
+  },
+  {
+   "id": "u3848",
+   "en": "/Sara Nome",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3849",
+   "en": "/Ranka Lee",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3850",
+   "en": "/Ishtar",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3851",
+   "en": "/Lynn Minmay/VF-25F",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3852",
+   "en": "/Sheryl Nome/VF-25F",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3853",
+   "en": "Maximilian Jenius/VF-27",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3854",
+   "en": "Milia Fallyna/VF-27",
+   "flags": [],
+   "notes": "Japanese gives Milia Fallyna (maiden name), as u3903."
+  },
+  {
+   "id": "u3855",
+   "en": "Michael Blanc/VF-1S",
+   "flags": [],
+   "notes": "Japanese says Mihaeru, so Michael (not Michel)."
+  },
+  {
+   "id": "u3856",
+   "en": "Klan Klang/VF-1S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3857",
+   "en": "Luca Angeloni/VF-22S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3858",
+   "en": "/Nanase Matsuura/VF-22S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3859",
+   "en": "Brera Sterne/VF-17S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3860",
+   "en": "/Ranka Lee/VF-17S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3861",
+   "en": "/Sheryl Nome",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3862",
+   "en": "/Lynn Minmay",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3863",
+   "en": "Canaria & Ranka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3864",
+   "en": "Alto & Ranka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3865",
+   "en": "Hideout",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3866",
+   "en": "Michael & Ranka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3867",
+   "en": "Temjin",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3868",
+   "en": "Michael & Sheryl",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3869",
+   "en": "Large Vajra Mothership",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3870",
+   "en": "Sheryl & Michael",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3871",
+   "en": "Zolan Star Patrol",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3872",
+   "en": "Kariba",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3873",
+   "en": "Maximilian Jenius/VF-1A(MJ)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3874",
+   "en": "Warera 25258",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3875",
+   "en": "Loli 28356",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3876",
+   "en": "Conda 88333",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3877",
+   "en": "Ichijyo & Minmay",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3878",
+   "en": "Quamzin 03350",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3879",
+   "en": "Milia 639",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3880",
+   "en": "Ichijyo & Hayase",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3881",
+   "en": "Exsedol 4970",
+   "flags": [],
+   "notes": "Exsedol with his number, same pattern as Warera 25258 / Milia 639."
+  },
+  {
+   "id": "u3882",
+   "en": "Henry Gilliam",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3883",
+   "en": "Klan Klang/VF-25S(1P)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3884",
+   "en": "Michael Blanc/VF-25G(2P)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3885",
+   "en": "Vajra (Missile)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Demo object label in mk_061, literally 'Vajra for missile(s)'. Exact role unverified."
+  },
+  {
+   "id": "u3886",
+   "en": "Full Macross",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pairs with 'Half Macross' (u3887) in the same mission (mp_431)."
+  },
+  {
+   "id": "u3887",
+   "en": "Half Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3888",
+   "en": "Fighter (Ally)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3889",
+   "en": "Fighter (Enemy)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3890",
+   "en": "Goal",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3891",
+   "en": "Remote-Controlled Valkyrie",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary status provisional."
+  },
+  {
+   "id": "u3892",
+   "en": "Depot",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3893",
+   "en": "Door Switch",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3894",
+   "en": "Hikaru Ichijyo/VF-1S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3895",
+   "en": "Minmay & Kaifun",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3896",
+   "en": "Lynn Kaifun",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3897",
+   "en": "Lap Lamiz",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3898",
+   "en": "Factory/FACTORY",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3899",
+   "en": "Lap Lamiz/QDL-RAU",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3900",
+   "en": "Reaction Engine",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3901",
+   "en": "Quamzin & Lap Lamiz",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3902",
+   "en": "Sara Base",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3903",
+   "en": "Milia Fallyna/VF-1A(1P)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3904",
+   "en": "Maximilian Jenius/VF-1A(2P)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3905",
+   "en": "Max & Milia/VF-1D(MJ)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3906",
+   "en": "Boddole Zer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3907",
+   "en": "Parts BOX",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u3731/u3732/u3886 'Full Macross' (+ARMS/MS tags): no glossary entry; mirrors tm 'Half Macross' (u3887, glossary needs_research).",
+   "u3885 'Vajra (Missile)': demo object, role not verified.",
+   "u3828-u3830 'Scorpio n': Japanese says Scorpion, terms.json note says Scorpio; followed the glossary.",
+   "Macross II names with needs_check/provisional glossary status: Nastasha Toto, Saori Kujo, Amy Rock, Nexx Gilbert, Hibiki (Kanzaki), Elma Hoilie; Concert Ship and Remote-Controlled Valkyrie are provisional."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,537 @@
+{
+ "slice": 10,
+ "rows_in_slice": 86,
+ "rows_examined": 86,
+ "rows": [
+  {
+   "id": "u0830",
+   "en": "Quarter Cannon\nFires the Quarter Cannon",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u0831",
+   "en": "Jeffrey Voice\nJeffrey spurs you on",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0832",
+   "en": "Ghost Kamikaze\nSends Ghosts on suicide runs at many foes at once",
+   "flags": [],
+   "notes": "tm revised: line 2 compressed to fit 322 px"
+  },
+  {
+   "id": "u0833",
+   "en": "Kira☆\nStops time for an instant with a \"Kira☆\"",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0834",
+   "en": "Beam\nFires a gigantic beam",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0835",
+   "en": "Guided Multi-Laser\nFires lasers from its entire body",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0836",
+   "en": "Scatter Laser Machine Gun\nFires a scattering laser machine gun from its head",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0837",
+   "en": "Warp\nWarps with power beyond human understanding",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0838",
+   "en": "Medium-Caliber Charged Particle Beam Cannon\nBeam cannon mounted atop the head",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0839",
+   "en": "Close-Combat Small Homing Missile\nMissiles fired in succession at a single enemy",
+   "flags": [],
+   "notes": "tm revised: line 2 compressed to fit 322 px"
+  },
+  {
+   "id": "u0840",
+   "en": "Close-Combat Large Multi-Warhead Missile\nMissiles that cause a huge blast on impact",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0841",
+   "en": "Small-Caliber Anti-Air Laser Machine Gun\nAA machine gun mounted on the back of the head",
+   "flags": [],
+   "notes": "tm revised: line 2 'Anti-air' -> 'AA' to fit 322 px"
+  },
+  {
+   "id": "u0842",
+   "en": "Large-Caliber Impact Cannon\nImpact cannons mounted on both hands",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u0843",
+   "en": "Long-Range Charged Particle Beam Cannon\nBeam cannon mounted atop the head",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0844",
+   "en": "Close-Combat Homing Missile\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0845",
+   "en": "Small-Caliber Anti-Personnel Laser Machine Gun\nAnti-personnel machine gun mounted on the head",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0846",
+   "en": "Small Laser Machine Pistol\nPistol used by the Zentradi forces",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0847",
+   "en": "Large-Caliber Mid-Range Fluid Plasma Cannon\nPlasma cannon mounted on the right shoulder",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0848",
+   "en": "Medium-Caliber Rapid-Fire Impact Cannon\nCannon mounted on the chest",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0849",
+   "en": "Hand Grenade\nThrows a hand grenade",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0850",
+   "en": "Call Allies\nCalls in Nousjadeul-Ger units",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0851",
+   "en": "High-Speed Rotary 3-Barrel Laser Pulse Gun\nLaser gun mounted on the arm",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0852",
+   "en": "Close-Range Small High-Mobility Missile (Rapid)\nMissiles fired in succession at a single enemy",
+   "flags": [],
+   "notes": "tm revised: line 2 compressed to fit 322 px"
+  },
+  {
+   "id": "u0853",
+   "en": "Close-Range Sm. Hi-Mobility Missile (Rapid/Blast)\nRapid fire. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "tm revised: line 1 abbreviated (Sm., Hi-) to fit 322 px"
+  },
+  {
+   "id": "u0854",
+   "en": "Laser Machine Pistol (Machine Gun)\nPistol used by the Zentradi forces",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0855",
+   "en": "Laser Machine Pistol (Laser)\nPistol used by the Zentradi forces",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0856",
+   "en": "Net Gun\nCaptures the target with a net gun",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0857",
+   "en": "Call Allies\nCalls in Zentradi soldiers",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0858",
+   "en": "Quamzin Magic\nCalls in underlings of the Quamzin family",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0859",
+   "en": "Soldier Charge\nSends Zentradi troops to charge many foes at once",
+   "flags": [],
+   "notes": "tm revised: line 2 compressed to fit 322 px"
+  },
+  {
+   "id": "u0860",
+   "en": "Pipe Throw\nThrows a pipe",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0861",
+   "en": "Soldier Charge\nSends soldiers charging at several enemies at once",
+   "flags": [],
+   "notes": "tm revised: line 2 compressed to fit 322 px"
+  },
+  {
+   "id": "u0862",
+   "en": "Tentacle Attack\nExtends tentacles to attack the enemy",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0863",
+   "en": "Multi-Tentacle Attack\nTentacles that can attack several enemies at once",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0864",
+   "en": "Omnidirectional Tentacle Attack\nTentacles that attack in every direction",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0865",
+   "en": "Melee\nPerforms a melee attack with tentacles",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0866",
+   "en": "Spiritia Absorption Device\nAbsorbs the target's Spiritia (life force)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0867",
+   "en": "Flash Grenade\nA flash grenade that blinds the target",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0868",
+   "en": "Laser Gun\nLaser guns mounted on both shoulders",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0869",
+   "en": "Twin Swivel Heavy Autocannon\nAutocannons mounted on both shoulders",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0870",
+   "en": "Built-In Pulse Beam Cannon\nBeam cannons mounted on both hands",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0871",
+   "en": "Anti-Air Beam Cannon\nBeam cannons mounted on both shoulders",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0872",
+   "en": "Spiritia Spark Cannon\nAbsorbs the target's Spiritia (life force)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0873",
+   "en": "Summon Glavil",
+   "flags": [],
+   "notes": "new; shoukan (summon) as in u0882"
+  },
+  {
+   "id": "u0874",
+   "en": "Pentacle Beam\nA powerful beam fired from a pentagram",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0875",
+   "en": "Head Beam\nA beam fired from the head",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0876",
+   "en": "Pulse Wave\nA shockwave released from its entire body",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0877",
+   "en": "Spiritia Absorption Beam (Large)\nA beam that absorbs a large amount of Spiritia",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0878",
+   "en": "Spiritia Absorption Beam (Multi)\nFires Spiritia absorption beams from its entire body",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0879",
+   "en": "Black Hole\nA black hole that swallows everything",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0880",
+   "en": "Spiritia Absorption\nAbsorbs the target's Spiritia (life force)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0881",
+   "en": "Anti-Ship Impact Cannon\nBeam cannon mounted on the left shoulder",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u0882",
+   "en": "Summon Michel",
+   "flags": [],
+   "notes": "new; Klan's move, Michel as the Japanese says it"
+  },
+  {
+   "id": "u0883",
+   "en": "Machine Gun\nMachine gun built into the body",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0884",
+   "en": "Missile Vajra\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0885",
+   "en": "Impact Ram\nA powerful laser fired from the top of the head",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0886",
+   "en": "Call Allies\nCalls in Vajra (S)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0887",
+   "en": "Body Slam\nRams into the target with its body",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0888",
+   "en": "Glue Trap\nCaptures the target with sticky glue",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0889",
+   "en": "Impact Ram\nA powerful laser fired from both arms",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u0890",
+   "en": "Mantis Boomerang\nThrows its scythes like boomerangs",
+   "flags": [],
+   "notes": "new; kama = sickle/scythe of a mantis-type enemy"
+  },
+  {
+   "id": "u0891",
+   "en": "Close-In Defense Micro-Missile Phalanx\nRapid fire. Missiles causing a huge blast on impact",
+   "flags": [],
+   "notes": "tm revised: line 2 compressed to fit 322 px, parallel to u0853"
+  },
+  {
+   "id": "u0892",
+   "en": "Claw\nAttacks with the claws on both hands",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0893",
+   "en": "Small Missile (Rapid)\nMissiles fired in succession at a single enemy",
+   "flags": [],
+   "notes": "tm revised: line 2 compressed to fit 322 px"
+  },
+  {
+   "id": "u0894",
+   "en": "Small Missile (Multi)\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0895",
+   "en": "Small Missile (Multi/Blast)\nMulti-lock. Missiles that cause a blast on impact",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u0896",
+   "en": "Call Allies\nCalls in Gigamesh units",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0897",
+   "en": "Feelings for Mardook\nFeelings for Mardook raise attack power",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0898",
+   "en": "Paint Ball\nThrows a paint ball",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "new; Japanese 'color ball' is the dye-filled anti-crime ball thrown at fleeing suspects; owning unit not identified"
+  },
+  {
+   "id": "u0899",
+   "en": "Voice\nShouts to fire itself up",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "new; the Japanese 'puts spirit into oneself' (katsu wo ireru, written with a typo kanji); owner not identified, so 'itself' as in the other spec lines"
+  },
+  {
+   "id": "u0900",
+   "en": "V Formation\nFlies in a V formation",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u0901",
+   "en": "20mm Gatling Gun\nGatling gun mounted on the TYPE-14",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0902",
+   "en": "Air-to-Air Missile\nMissiles that can lock onto several enemies at once",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0903",
+   "en": "30mm Autocannon\nAutocannon mounted on the TYPE-29",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0904",
+   "en": "V Formation\nCalls allies to fly in a V formation",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0905",
+   "en": "Photo\nSnaps a scoop photo",
+   "flags": [],
+   "notes": "new; gekisha = snapping photos furiously"
+  },
+  {
+   "id": "u0906",
+   "en": "Flash\nFires a powerful flash to blind the enemy",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u0907",
+   "en": "Laser Cannon\nLaser cannon mounted on the front",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0908",
+   "en": "Long-Range High-Maneuver Missile (Rapid/Blast)\nRapid fire. Missiles causing a huge blast on impact",
+   "flags": [],
+   "notes": "tm revised: line 2 compressed to fit 322 px"
+  },
+  {
+   "id": "u0909",
+   "en": "Long-Range High-Maneuver Missile (Multi/Blast)\nMulti-lock. Missiles causing a huge blast on impact",
+   "flags": [],
+   "notes": "tm revised: line 2 compressed to fit 322 px"
+  },
+  {
+   "id": "u0910",
+   "en": "Hyper Speed Move\nMoves faster than the eye can follow",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0911",
+   "en": "Missile Jamming\nJams incoming missiles",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0912",
+   "en": "The U.N. Forces' main fighter\nSpecialized for air defense",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0913",
+   "en": "Full Salvo",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0914",
+   "en": "Cheyenne",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0915",
+   "en": "Prototype Destroid of the MDR-04\nUsed as anti-air weaponry on the carrier Asuka",
+   "flags": [],
+   "notes": "tm kept after review"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0898 'Paint Ball' for the Japanese color ball (dye ball); owning unit unknown",
+   "u0899 'Voice / Shouts to fire itself up': owner unknown, subject kept as 'itself' like the other spec lines",
+   "u0853 first line abbreviated 'Sm. Hi-Mobility' to fit the 322 px estimate"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

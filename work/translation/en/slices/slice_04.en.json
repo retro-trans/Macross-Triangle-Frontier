@@ -1,0 +1,516 @@
+{
+ "slice": 4,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0302",
+   "en": "A Maiden's Jealousy",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0303",
+   "en": "The Falling Little Devil",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0304",
+   "en": "Repel Protodeviln",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0305",
+   "en": "Men of Burning Flame",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0306",
+   "en": "Defeat Flagship Fast",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0307",
+   "en": "Death Struggle on Planet Lux",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0308",
+   "en": "Sink Enemy Flagship",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0309",
+   "en": "Rainbow Song Energy",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0310",
+   "en": "Annihilate all enemies / Outlast the timer",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0311",
+   "en": "Betrayal and a Girl's Tears",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0312",
+   "en": "Feelings Beyond the Stars",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0313",
+   "en": "Tuning Fight",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0314",
+   "en": "Nightmare Assault Operation",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0315",
+   "en": "Gamlin's Rebellion",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0316",
+   "en": "A Song Echoing Across the Galaxy",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0317",
+   "en": "Defeat the Protodeviln",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0318",
+   "en": "The Strongest Women's Fleet",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0319",
+   "en": "Adrift",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0320",
+   "en": "Defend the whales / Annihilate all enemies",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0321",
+   "en": "End Whale Poaching",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0322",
+   "en": "Star Patrol Training",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0323",
+   "en": "Clash with the Poachers",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0324",
+   "en": "Solitude",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0325",
+   "en": "Protect the target / Annihilate all enemies",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0326",
+   "en": "Ally Escapes Safely",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0327",
+   "en": "The Planet Where Galaxy Whales Sing",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0328",
+   "en": "All Whales Survive",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0329",
+   "en": "Close Encounter",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0330",
+   "en": "Private Army",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0331",
+   "en": "On Your Marks",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0332",
+   "en": "Defeat Pixie Team",
+   "flags": [],
+   "notes": "Glossary org: Pixie Team (as tm u0431)."
+  },
+  {
+   "id": "u0333",
+   "en": "Hide Away",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0334",
+   "en": "Raze Enemy Base",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0335",
+   "en": "Skull Squadron",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0336",
+   "en": "Defeat All Aces",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0337",
+   "en": "First Attack",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0338",
+   "en": "Rescue the allied unit",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0339",
+   "en": "Macross Quarter",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0340",
+   "en": "Friendly Fire",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0341",
+   "en": "Fastest Delivery",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0342",
+   "en": "Memory of Global",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0343",
+   "en": "Destroy the target",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0344",
+   "en": "Mother's Lullaby",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0345",
+   "en": "Annihilate the enemy battleships",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0346",
+   "en": "Destroy the Vajra Sub-Queen",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0347",
+   "en": "Ranka Attack",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0348",
+   "en": "Goodbye Sister",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0349",
+   "en": "Fold Fame",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0350",
+   "en": "Diamond Crevasse",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0351",
+   "en": "Northern Cross",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0352",
+   "en": "Sagittarius Squadron",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0353",
+   "en": "Last Frontier",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0354",
+   "en": "Vanquish the phantom",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0355",
+   "en": "Anata no Oto",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0356",
+   "en": "Defeat Grace O'Connor",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0357",
+   "en": "Invasion of the Unknown",
+   "flags": [],
+   "notes": "Macross F film missions: the Vajra are first reported as an 'Unknown'."
+  },
+  {
+   "id": "u0358",
+   "en": "Keep VF-171s Alive",
+   "flags": [],
+   "notes": "Condition 'VF-171 survive'; plural assumed (allied mass-produced units), MUF style 'Keep Ally Units Alive'."
+  },
+  {
+   "id": "u0359",
+   "en": "Vajra Attack",
+   "flags": [],
+   "notes": "Mission title (film); same wording as u0194 'Movie: Vajra Attack 1'."
+  },
+  {
+   "id": "u0360",
+   "en": "Vajra Simulator",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0361",
+   "en": "Clear Quickly",
+   "flags": [],
+   "notes": "Condition: clear in a short time."
+  },
+  {
+   "id": "u0362",
+   "en": "Battroid Attack F",
+   "flags": [],
+   "notes": "Glossary term (in-world arcade game)."
+  },
+  {
+   "id": "u0363",
+   "en": "Clear Battroid Attack F",
+   "flags": [],
+   "notes": "As tm u0240 'Clear Battroid Attack'."
+  },
+  {
+   "id": "u0364",
+   "en": "Galactic Fairy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Katakana-styled 'ginga no yousei' = Sheryl's title (glossary: Galactic Fairy). Translated rather than romanised; the sister title Anata no Oto (song) is romanised in the glossary, so a romanised 'Ginga no Yousei' is the alternative."
+  },
+  {
+   "id": "u0365",
+   "en": "Annihilate all enemies / Leave the area",
+   "flags": [],
+   "notes": "Two objectives joined by a space; ' / ' as MUF. 'Combat zone' shortened to 'the area' for width (u0377 alone keeps 'combat zone')."
+  },
+  {
+   "id": "u0366",
+   "en": "The Guided Fleet",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Film mission title 'michibikareta kantai' (the fleet that was led/guided). Literal; no official English title found."
+  },
+  {
+   "id": "u0367",
+   "en": "Obelisk",
+   "flags": [],
+   "notes": "Sheryl's song title (sound test row u2736); not in the glossary songs list."
+  },
+  {
+   "id": "u0368",
+   "en": "Destroy the Hound Vajra",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary: Hound Vajra (provisional)."
+  },
+  {
+   "id": "u0369",
+   "en": "Contact",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0370",
+   "en": "Emulator",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0371",
+   "en": "Cover the defense target's escape",
+   "flags": [],
+   "notes": "Ridatsu = withdraw/escape from the area."
+  },
+  {
+   "id": "u0372",
+   "en": "Drive Off Enemy Ship",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Condition 'enemy battleship, damage-retreat': read as forcing it to retreat through damage. Could also be a plain event label. 'Battleship' shortened to 'ship' for width."
+  },
+  {
+   "id": "u0373",
+   "en": "Mardook",
+   "flags": [],
+   "notes": "Glossary org (avoid Marduk)."
+  },
+  {
+   "id": "u0374",
+   "en": "Escape the enemy battleship with the target",
+   "flags": [],
+   "notes": "Boueimokuhyou = defense target, shortened to 'the target' as MUF did."
+  },
+  {
+   "id": "u0375",
+   "en": "The Ship of Ars",
+   "flags": [
+    "name_missing",
+    "uncertain"
+   ],
+   "notes": "Macross II mission. 'Arusu' not in the glossary; 'Ars' follows the tm profile u3524 ('Ars's song')."
+  },
+  {
+   "id": "u0376",
+   "en": "Stop the enemy advance",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0377",
+   "en": "Leave the combat zone",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0378",
+   "en": "Allied Withdrawal",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Condition 'allies withdraw'; kept as a neutral noun (goal or event not settled)."
+  },
+  {
+   "id": "u0379",
+   "en": "Shoot Down Enemy Ace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0380",
+   "en": "Sing Along",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0381",
+   "en": "Escort the Macross",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0364: Katakana-styled 'ginga no yousei' = Sheryl's title (glossary: Galactic Fairy). Translated rather than romanised; the sister title Anata no Oto (song) is romanised in the glossary, so a romanised 'Ginga no Yousei' is the alternative.",
+   "u0366: Film mission title 'michibikareta kantai' (the fleet that was led/guided). Literal; no official English title found.",
+   "u0368: Glossary: Hound Vajra (provisional).",
+   "u0372: Condition 'enemy battleship, damage-retreat': read as forcing it to retreat through damage. Could also be a plain event label. 'Battleship' shortened to 'ship' for width.",
+   "u0375: Macross II mission. 'Arusu' not in the glossary; 'Ars' follows the tm profile u3524 ('Ars's song').",
+   "u0378: Condition 'allies withdraw'; kept as a neutral noun (goal or event not settled)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Ars (Arusu, Macross II; u0375). Spelling taken from the tm profile u3524.",
+   "Obelisk (song, u0367): not in terms.json songs."
+  ],
+  "unfinished": []
+ }
+}

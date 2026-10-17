@@ -1,0 +1,499 @@
+{
+ "slice": 78,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c05781",
+   "en": "Huh? Well, that's...",
+   "flags": [],
+   "notes": "Both genders; answers Hilda's 'feel free to invite me'."
+  },
+  {
+   "id": "c05782",
+   "en": "I told you, looking out for my students is my job.\nOn duty or off, I'll take proper care of you.\nBe grateful.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05783",
+   "en": "Oh, okay. Thank you very much!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05784",
+   "en": "Mm, good. Now, let's call it a day.\nSee you.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05785",
+   "en": "(Ah, Hilda-sensei, what about the bill...)",
+   "flags": [],
+   "notes": "Male only; Hilda said 'my treat' but leaves without paying."
+  },
+  {
+   "id": "c05786",
+   "en": "(All right, time to fire myself up and work hard\ntoday too... Oh, it's Hilda-sensei.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05787",
+   "en": "No, I just got here...\nOh? Hilda-sensei, you're not in your tracksuit today...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05788",
+   "en": "Oh, really? So that's why you're in regular clothes today.\nThen maybe I'll head home today too...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05789",
+   "en": "Huh? Oh, okay!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05790",
+   "en": "Oh, okay!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05791",
+   "en": "Okay, thank you!\nThen, um, a milk tea and a strawberry shortcake...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05792",
+   "en": "But you said 'whatever I like'...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05793",
+   "en": "Oh, then I'll have the same.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05794",
+   "en": "Oh, is that what it was? I'm sorry.\nBut you really don't need to worry about me that much!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05795",
+   "en": "(That seems like a bit of a leap...)",
+   "flags": [],
+   "notes": "Female only; reacts to Hilda's life-or-death example."
+  },
+  {
+   "id": "c05796",
+   "en": "Besides, kids your age should be itching to have fun.\nDon't you even have a boyfriend?",
+   "flags": [],
+   "notes": "Hilda, female version only."
+  },
+  {
+   "id": "c05797",
+   "en": "Well, sadly, there's no one I could really call\na boyfriend...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05798",
+   "en": "Okaaay, I'm sorryyy...",
+   "flags": [],
+   "notes": "Female only; drawn-out apology."
+  },
+  {
+   "id": "c05799",
+   "en": "Oh, okay! Thank you very much!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05800",
+   "en": "(Ah, Hilda-sensei, the bill!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05801",
+   "en": "(All right! Today I'm definitely doing some training!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05802",
+   "en": "Huh, Sensei?\nYou're not in your tracksuit today either...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05803",
+   "en": "It's no good doing nothing but training.\nWe're unwinding again today, understood?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05804",
+   "en": "Thanks for the treat, Sensei!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05805",
+   "en": "Well, once in a while is fine.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05806",
+   "en": "Once again, I'm counting on you from here on!",
+   "flags": [],
+   "notes": "Both genders; formal 'aratamemashite, kongo mo yoroshiku'."
+  },
+  {
+   "id": "c05807",
+   "en": "Mm, indeed.",
+   "flags": [],
+   "notes": "x4: Hilda here, also Klan in frd_kln_004; neutral."
+  },
+  {
+   "id": "c05808",
+   "en": "(Hilda-sensei is surprisingly kind, you know...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05809",
+   "en": "(All right! Today I'm definitely doing some training!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05810",
+   "en": "Oh, Sensei?\nYou're not in your tracksuit today either...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05811",
+   "en": "(Hilda-sensei is surprisingly kind, you know...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05812",
+   "en": "(I promised to go out with Hilda-sensei again today.\nDoes this count as a date...?)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05813",
+   "en": "Oh, \\p-kun, sorry I'm late~",
+   "flags": [],
+   "notes": "Hilda, male version only; a joke, she imitates a girl arriving for a date (female version c05866 uses -chan)."
+  },
+  {
+   "id": "c05814",
+   "en": "Huh?! S-Sensei...?!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05815",
+   "en": "Just kidding. Come on, let's go.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05816",
+   "en": "(I never know how to react to Sensei's jokes...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05817",
+   "en": "Still, it's a strange thing, us doing this.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05818",
+   "en": "Huh? What do you mean?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05819",
+   "en": "Teacher and student. It's not that we have no ties,\nbut I don't have any other student\nI meet up with outside like this.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05820",
+   "en": "That's true.\nI wonder how we look to other people?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05821",
+   "en": "Well, teacher and student. What else could it be?",
+   "flags": [],
+   "notes": "Hilda, male only."
+  },
+  {
+   "id": "c05822",
+   "en": "...Well, I guess so...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05823",
+   "en": "Ah, there's that too.",
+   "flags": [],
+   "notes": "Hilda, male only."
+  },
+  {
+   "id": "c05824",
+   "en": "Huh?! What is it?",
+   "flags": [],
+   "notes": "Male here; also nml_gry_010 (female); neutral."
+  },
+  {
+   "id": "c05825",
+   "en": "We could pass for big sister and little brother.\nIn fact, that's more realistic.",
+   "flags": [],
+   "notes": "Hilda, male only."
+  },
+  {
+   "id": "c05826",
+   "en": "Well, I suppose so...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05827",
+   "en": "Oh, wait here a moment.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05828",
+   "en": "(What's she up to...?)",
+   "flags": [],
+   "notes": "Male only; subject (Hilda) restored."
+  },
+  {
+   "id": "c05829",
+   "en": "Sorry to keep you waiting. Here, eat.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05830",
+   "en": "Is this... a hot dog?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05831",
+   "en": "Well... yes. Bite into it like a man!",
+   "flags": [],
+   "notes": "Hilda, both versions; the female player answers 'I'm a girl, though' (c05869)."
+  },
+  {
+   "id": "c05832",
+   "en": "Yes, understood. One big bite!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05833",
+   "en": "...",
+   "flags": [],
+   "notes": "x6, silent beat; also frd_she_008."
+  },
+  {
+   "id": "c05834",
+   "en": "(Oh, it's tasty. The sausage is so juicy...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05835",
+   "en": "(Yeah, the veggies are nicely balanced too.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05836",
+   "en": "(And the sauce has just the right kick...\nthe right kick...)",
+   "flags": [],
+   "notes": "Both genders; 'piri-kara' (pleasantly spicy) repeated as the heat sets in."
+  },
+  {
+   "id": "c05837",
+   "en": ".........",
+   "flags": [],
+   "notes": "x4, three ellipsis characters; also frd_she_008."
+  },
+  {
+   "id": "c05838",
+   "en": "HOOOOOOT!!!",
+   "flags": [],
+   "notes": "Both genders; 'karai' (spicy-hot) drawn out."
+  },
+  {
+   "id": "c05839",
+   "en": "Ah-ha-ha-ha!",
+   "flags": [],
+   "notes": "Hilda, x4 (also frd_hld_008)."
+  },
+  {
+   "id": "c05840",
+   "en": "Sensei, it burns! Water! Water!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05841",
+   "en": "Hee-hee! Hee-heee!",
+   "flags": [],
+   "notes": "Hilda laughing breathlessly, x4 (also frd_hld_008)."
+  },
+  {
+   "id": "c05842",
+   "en": "Sensei, stop laughing and get me water! Water!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05843",
+   "en": "Hah, hah... Ah, sorry. Here.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05844",
+   "en": "*Gulp, gulp* Pwah!\nI thought my throat was on fire! That was mean, Sensei!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05845",
+   "en": "No, sorry. Someone pulled the same thing on me\nlong ago... and...\nI just...",
+   "flags": [],
+   "notes": "Hilda; trails off as the Japanese does ('chotto...')."
+  },
+  {
+   "id": "c05846",
+   "en": "...Sensei.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05847",
+   "en": "Sensei?!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05848",
+   "en": "Did something happen back then? With someone...?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05849",
+   "en": "No, it's something I've already forgotten. Never mind.\nCome on, hurry up and eat. We're off to the next place.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05850",
+   "en": "(I wonder what happened back then...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05851",
+   "en": "Right, this is where today's unwinding ends.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05852",
+   "en": "(We sure went to a lot of places.)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05853",
+   "en": "No, it's nothing.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05854",
+   "en": "...Nice view here, isn't it?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05855",
+   "en": "Oh, yes, it is!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05856",
+   "en": "It's a place where you can forget everything\naboard the Macross, even if only for a moment...\nThat's what this place is...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hilda. 'Makurosu kannai' kept literally as 'aboard the Macross' (the colony ship the campus is on)."
+  },
+  {
+   "id": "c05857",
+   "en": "If we keep getting through each day like this,\nI'm sure someday we'll find our own planet...",
+   "flags": [],
+   "notes": "Hilda; the colony fleet's search for a home planet."
+  },
+  {
+   "id": "c05858",
+   "en": "Yes, someday, I'm sure.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05859",
+   "en": "And in the meantime, how many times\nwill people meet, and then part...?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05860",
+   "en": "Huh... Sensei?!",
+   "flags": [],
+   "notes": "Both genders."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c05856: Hilda says 'Makurosu kannai' (inside the Macross); kept as 'aboard the Macross' rather than naming Frontier.",
+   "c05837 '.........' and c05833 '...': ellipsis-only rows rendered at three dots per ellipsis character (c24442 does the same; c00059 uses six dots for five).",
+   "c05813: male-only line where Hilda jokingly plays a girlfriend arriving for a date ('\\p-kun, sorry I'm late~'); -kun kept as in the Japanese."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

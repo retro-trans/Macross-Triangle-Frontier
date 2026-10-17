@@ -1,0 +1,516 @@
+{
+ "slice": 44,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "pf_bob/366",
+   "en": "I'm so glad you're safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/367",
+   "en": "I'm counting on you from now on too, partner.",
+   "flags": [],
+   "notes": "watashi no paatonaa."
+  },
+  {
+   "id": "pf_bob/368",
+   "en": "That's the girl I picked.",
+   "flags": [],
+   "notes": "Female-player result line (360-371): watashi no mitometa ko."
+  },
+  {
+   "id": "pf_bob/369",
+   "en": "Honestly, making me worry like that. You're a really bad girl.",
+   "flags": [],
+   "notes": "warui ko; female-player block, so 'girl'."
+  },
+  {
+   "id": "pf_bob/370",
+   "en": "I have nothing left to teach you. You're a fine maiden now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/371",
+   "en": "I've worked up a sweat. Let's hurry and go take a shower.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/400",
+   "en": "Bobby Margot, heading out!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name heard as 'Maruko'; glossary Bobby Margot."
+  },
+  {
+   "id": "pf_bob/1000",
+   "en": "OK, boss!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_bob/1001",
+   "en": "Here we go!",
+   "flags": [],
+   "notes": "ikuze!"
+  },
+  {
+   "id": "pf_blr/200",
+   "en": "As expected.",
+   "flags": [],
+   "notes": "Brera praising the partner: touzen no kekka da."
+  },
+  {
+   "id": "pf_blr/201",
+   "en": "Well done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_blr/210",
+   "en": "I'll cover you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_blr/211",
+   "en": "Fall back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_blr/212",
+   "en": "I'll protect you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_blr/213",
+   "en": "I couldn't protect you...",
+   "flags": [],
+   "notes": "Partner shot down (213-215)."
+  },
+  {
+   "id": "pf_blr/214",
+   "en": "They got you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_blr/215",
+   "en": "Seems it was my error in judgment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_blr/216",
+   "en": "Impressive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_blr/217",
+   "en": "Your skills aren't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "py_blr/1000",
+   "en": "Antares 1 to S.M.S. pilot. I'll support you from here.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes kikun in katakana; read as the formal 'you' (kikun). Antares 1 is Brera's callsign (glossary: Antares Squadron)."
+  },
+  {
+   "id": "py_blr/1001",
+   "en": "Never mind that. Hurry, go after the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "py_blr/1002",
+   "en": "Hmph. I only did what was natural.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/000",
+   "en": "Canaria here. Ready to launch anytime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/001",
+   "en": "I'm heading out too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/002",
+   "en": "All right, launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/003",
+   "en": "Too naive.",
+   "flags": [],
+   "notes": "amai na - enemy attack misses."
+  },
+  {
+   "id": "pf_cnr/004",
+   "en": "They're underestimating me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/005",
+   "en": "Useless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/006",
+   "en": "Not bad...",
+   "flags": [],
+   "notes": "yatte kureru - grudging, taking a hit."
+  },
+  {
+   "id": "pf_cnr/007",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/008",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt 'ugh'."
+  },
+  {
+   "id": "pf_cnr/009",
+   "en": "Drop dead!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/010",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/011",
+   "en": "This one'll hurt!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/012",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/013",
+   "en": "As if this is enough...",
+   "flags": [],
+   "notes": "kono teido de... (trails off)."
+  },
+  {
+   "id": "pf_cnr/014",
+   "en": "I can still fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/015",
+   "en": "Not a bad attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/016",
+   "en": "Is that all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/017",
+   "en": "Not bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/018",
+   "en": "This one too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/019",
+   "en": "You won't escape!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/020",
+   "en": "You're wide open.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/100",
+   "en": "Commencing the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/101",
+   "en": "Shall we begin?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/102",
+   "en": "Leave it to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/103",
+   "en": "Enemy acquired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/104",
+   "en": "Curse your luck for entering my sights.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'fukou to omoe' (consider it your misfortune) heard as 'fukou' = blow."
+  },
+  {
+   "id": "pf_cnr/105",
+   "en": "Sorry, but I'm shooting you down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/106",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/107",
+   "en": "If you don't want to die, get out of my sight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/109",
+   "en": "Further resistance is pointless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/110",
+   "en": "You're not ready to face me yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/111",
+   "en": "I'll take you down here and now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/112",
+   "en": "Your bad luck to show up in front of me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/113",
+   "en": "The natural result.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/114",
+   "en": "Sorry. It's just my job.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/115",
+   "en": "Attack target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/116",
+   "en": "I'll take that one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/117",
+   "en": "So that's the target.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/118",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/119",
+   "en": "That was nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/120",
+   "en": "Easy enough.",
+   "flags": [],
+   "notes": "kono teido wa na."
+  },
+  {
+   "id": "pf_cnr/121",
+   "en": "My shield's done for?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/122",
+   "en": "My shield, destroyed?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/123",
+   "en": "Damn! My shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/124",
+   "en": "Damage is light. Continuing the operation.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'keibi' (guard) kanji for keibi (slight)."
+  },
+  {
+   "id": "pf_cnr/125",
+   "en": "No effect on carrying out the mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/126",
+   "en": "No problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/127",
+   "en": "Seems I let them get too cocky.",
+   "flags": [],
+   "notes": "Enemy referred to as 'them'."
+  },
+  {
+   "id": "pf_cnr/128",
+   "en": "You're good, I'll give you that.",
+   "flags": [],
+   "notes": "yatte kureru ja nai ka."
+  },
+  {
+   "id": "pf_cnr/129",
+   "en": "I can't pull back now...",
+   "flags": [],
+   "notes": "Trails off in the Japanese."
+  },
+  {
+   "id": "pf_cnr/130",
+   "en": "Any more of this and I'm in trouble.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/131",
+   "en": "I never thought they'd be this strong...",
+   "flags": [],
+   "notes": "masaka kore hodo to wa; 'they' = the enemy."
+  },
+  {
+   "id": "pf_cnr/132",
+   "en": "Don't think this is enough to stop me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/133",
+   "en": "Unbelievable!",
+   "flags": [],
+   "notes": "nante yatsu da! (what an opponent)."
+  },
+  {
+   "id": "pf_cnr/134",
+   "en": "Not yet! I can still fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/135",
+   "en": "To think I'd be pushed this far...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/136",
+   "en": "Looks like this is it for me too, Eddie.",
+   "flags": [
+    "name_missing",
+    "uncertain"
+   ],
+   "notes": "Edi (Eddie) is not in the glossary; spelling guessed."
+  },
+  {
+   "id": "pf_cnr/137",
+   "en": "Sorry. The rest is up to you.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3519 (pf_cnr/136): Edi (Eddie) is not in the glossary; spelling guessed."
+  ],
+  "whisper_doubt": [
+   "row 3447 (pf_bob/400): Name heard as 'Maruko'; glossary Bobby Margot.",
+   "row 3460 (py_blr/1000): Transcript writes kikun in katakana; read as the formal 'you' (kikun). Antares 1 is Brera's callsign (glossary: Antares Squadron).",
+   "row 3488 (pf_cnr/104): 'fukou to omoe' (consider it your misfortune) heard as 'fukou' = blow.",
+   "row 3507 (pf_cnr/124): 'keibi' (guard) kanji for keibi (slight)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Edi / Eddie (row 3519 pf_cnr/136): someone Canaria addresses when shot down; not in the glossary."
+  ],
+  "unfinished": []
+ }
+}

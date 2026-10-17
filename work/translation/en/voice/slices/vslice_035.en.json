@@ -1,0 +1,517 @@
+{
+ "slice": 35,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p__fv2/133",
+   "en": "My craft won't hold!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji: kitai 'expectation' for kitai 'airframe' (kitai ga motanai)."
+  },
+  {
+   "id": "p__mv0/134",
+   "en": "Any more of this and I'm in trouble!",
+   "flags": [],
+   "notes": "kore ijou wa mazui"
+  },
+  {
+   "id": "p__mv1/134",
+   "en": "I can't take any more!",
+   "flags": [],
+   "notes": "kore ijou wa! (trailing; meaning restored)"
+  },
+  {
+   "id": "p__mv2/134",
+   "en": "Any more of this and I'm in trouble!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/134",
+   "en": "Keep moving just a bit longer!",
+   "flags": [],
+   "notes": "ato sukoshi dake ugoite: to her craft"
+  },
+  {
+   "id": "p__fv1/134",
+   "en": "Keep moving just a bit longer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/134",
+   "en": "Keep moving just a bit longer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/135",
+   "en": "I can't give up now...",
+   "flags": [],
+   "notes": "akirameru wake ni wa (trails off)"
+  },
+  {
+   "id": "p__mv1/135",
+   "en": "I can't give up now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/135",
+   "en": "I can't give up now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/135",
+   "en": "I have to do something...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/135",
+   "en": "I have to do something!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/135",
+   "en": "I have to do something...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/136",
+   "en": "Is this the end?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/136",
+   "en": "Is this really the end?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/136",
+   "en": "Is this the end?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/136",
+   "en": "Not here...",
+   "flags": [],
+   "notes": "konna tokoro de"
+  },
+  {
+   "id": "p__fv1/136",
+   "en": "Not here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/136",
+   "en": "Not here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/137",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream as the player is shot down (uwaaaa)."
+  },
+  {
+   "id": "p__mv1/137",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream (skipped by Whisper)."
+  },
+  {
+   "id": "p__mv2/137",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream (skipped by Whisper)."
+  },
+  {
+   "id": "p__fv0/137",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream (kyaaaa, skipped by Whisper)."
+  },
+  {
+   "id": "p__fv1/137",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream (aaah)."
+  },
+  {
+   "id": "p__fv2/137",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Scream; Whisper hallucinated a 'thanks for watching' caption."
+  },
+  {
+   "id": "p__mv0/138",
+   "en": "N-no good...",
+   "flags": [],
+   "notes": "da, dame ka"
+  },
+  {
+   "id": "p__mv1/138",
+   "en": "I-it's no good?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/138",
+   "en": "N-no good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/138",
+   "en": "N-no!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/138",
+   "en": "Ah, no!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/138",
+   "en": "No!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/139",
+   "en": "It's dangerous! Please fall back!",
+   "flags": [],
+   "notes": "to a partner in trouble"
+  },
+  {
+   "id": "p__mv1/139",
+   "en": "It's dangerous! Please fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/139",
+   "en": "It's dangerous! Fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/139",
+   "en": "It's dangerous! Please fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/139",
+   "en": "It's dangerous! Please fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/139",
+   "en": "It's dangerous! Fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/140",
+   "en": "Please don't be reckless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/140",
+   "en": "Please don't be reckless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/140",
+   "en": "Don't be reckless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/140",
+   "en": "I'll cover you.",
+   "flags": [],
+   "notes": "engo shimasu"
+  },
+  {
+   "id": "p__fv1/140",
+   "en": "I'll cover you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/140",
+   "en": "I'll cover you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/141",
+   "en": "I'm coming to help!",
+   "flags": [],
+   "notes": "ima tasukemasu"
+  },
+  {
+   "id": "p__mv1/141",
+   "en": "I'm coming to help!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/141",
+   "en": "I'm coming to help!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/141",
+   "en": "Are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/141",
+   "en": "Are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/141",
+   "en": "Are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/142",
+   "en": "Hurry and eject!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/142",
+   "en": "Hurry and eject!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/142",
+   "en": "Hurry and eject!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/142",
+   "en": "Hurry and eject!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/142",
+   "en": "Hurry and eject!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/142",
+   "en": "Hurry and eject!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/143",
+   "en": "Were you shot down?",
+   "flags": [],
+   "notes": "yarareta no ka: partner hit"
+  },
+  {
+   "id": "p__mv1/143",
+   "en": "You got shot down?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/143",
+   "en": "You got shot down?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/143",
+   "en": "Please! Answer me!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'houtou shite' read as outou shite (respond), as fv1/fv2 say."
+  },
+  {
+   "id": "p__fv1/143",
+   "en": "Please! Answer me!",
+   "flags": [],
+   "notes": "onegai, outou shite kudasai"
+  },
+  {
+   "id": "p__fv2/143",
+   "en": "Please! Answer me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/144",
+   "en": "Damn it! I couldn't protect them!",
+   "flags": [],
+   "notes": "Partner shot down; 'them' = the partner, gender unknown."
+  },
+  {
+   "id": "p__mv1/144",
+   "en": "I couldn't protect them...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/144",
+   "en": "Damn it! I couldn't protect them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/144",
+   "en": "What have they done!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "nante koto wo: dismay as the partner falls; read as aimed at the enemy, as slice 36 does for 151. Could also reproach the partner ('What did you do!')."
+  },
+  {
+   "id": "p__fv1/144",
+   "en": "What have they done...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/144",
+   "en": "What have they done...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/148",
+   "en": "Reinforcements! That's a relief!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/148",
+   "en": "Reinforcements? That's a relief.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/148",
+   "en": "Reinforcements! That helps!",
+   "flags": [],
+   "notes": "tasukaru"
+  },
+  {
+   "id": "p__fv0/148",
+   "en": "Reinforcements? What a relief.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/148",
+   "en": "Reinforcements! That's a relief!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/148",
+   "en": "Reinforcements? What a relief.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/149",
+   "en": "Thanks for the backup.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/149",
+   "en": "Thanks for the backup.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/149",
+   "en": "Thanks for the backup!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/149",
+   "en": "Thanks for the backup.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/149",
+   "en": "Thanks for the backup.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/149",
+   "en": "Thanks for the backup.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/150",
+   "en": "Let's start our counterattack from here!",
+   "flags": [],
+   "notes": "Same wording as slice 36 for mv1/150."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 2785 (p__fv0/144): nante koto wo: dismay as the partner falls; read as aimed at the enemy, as slice 36 does for 151. Could also reproach the partner ('What did you do!')."
+  ],
+  "whisper_doubt": [
+   "row 2721 (p__fv2/133): Wrong kanji: kitai 'expectation' for kitai 'airframe' (kitai ga motanai).",
+   "row 2779 (p__fv0/143): Transcript 'houtou shite' read as outou shite (respond), as fv1/fv2 say."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

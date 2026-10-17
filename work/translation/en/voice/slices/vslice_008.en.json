@@ -1,0 +1,542 @@
+{
+ "slice": 8,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o7_exd/1020",
+   "en": "Would you kindly escort the Valkyrie carrying civilians?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1020",
+   "en": "Escort the Valkyrie carrying civilians.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1021",
+   "en": "Escort the Macross until transformation begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1021",
+   "en": "Escort the Macross until transformation begins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1022",
+   "en": "All ships have begun transformation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1022",
+   "en": "All ships have begun transformation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1023",
+   "en": "Escort the Macross until the main gun fires.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1023",
+   "en": "Escort the Macross until the main gun fires.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1024",
+   "en": "The main gun cannot fire. Some manner of fault appears to have occurred.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'shuhou' (method) is surely shuhou 'main gun', as in the other operators' clips."
+  },
+  {
+   "id": "of_ktr/1024",
+   "en": "The main gun can't fire. There seems to be some kind of fault.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1025",
+   "en": "Would you kindly work with the Destroid unit and recover the supplies?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1025",
+   "en": "Work with the Destroid unit to recover the supplies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1026",
+   "en": "Numerous enemy combat units closing at high speed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kousoku' written as 'restraint'; read as 'high speed', as in the shared clips."
+  },
+  {
+   "id": "of_ktr/1026",
+   "en": "Many enemy combat units closing at high speed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kousoku' written as 'restraint'; read as 'high speed'."
+  },
+  {
+   "id": "o7_exd/1027",
+   "en": "Destroid 6th, 8th and 17th Squadrons wiped out. Many other losses as well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1027",
+   "en": "Destroid 6th, 8th and 17th Squadrons wiped out. Many other losses too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1028",
+   "en": "Enemy at 12 o'clock high has begun circling. A reconnaissance plane, I should think.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1028",
+   "en": "Enemy at 12 o'clock high has started circling. It's likely a recon plane.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1029",
+   "en": "Accompany Cat's Eye and go scout the enemy battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1029",
+   "en": "Accompany Cat's Eye and go scout the enemy battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1030",
+   "en": "We are infiltrating the enemy ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1030",
+   "en": "We're infiltrating the enemy ship!",
+   "flags": [],
+   "notes": "Whisper nospeech flag, but the transcript matches the shared line; kept."
+  },
+  {
+   "id": "o7_exd/1031",
+   "en": "Cat's Eye has been captured, it seems. Go aboard the enemy ship and rescue them.",
+   "flags": [],
+   "notes": "'them' for the Cat's Eye crew, as in the shared clips."
+  },
+  {
+   "id": "of_ktr/1031",
+   "en": "Cat's Eye was captured. Board the enemy ship and rescue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1032",
+   "en": "Escape from the enemy battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1032",
+   "en": "Escape the enemy battleship!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1033",
+   "en": "Many enemy pods are dropping in. It appears it will come to close-quarters combat.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'potto' read as 'poddo' (pod)."
+  },
+  {
+   "id": "of_ktr/1033",
+   "en": "Many enemy pods dropping in. It looks like close-quarters combat.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'hakuhei-sen' written with 'ship'; read as close-quarters combat."
+  },
+  {
+   "id": "o7_exd/1034",
+   "en": "The enemy is withdrawing, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1034",
+   "en": "The enemy's retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1035",
+   "en": "New barrier system, rapid deployment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1035",
+   "en": "New barrier system, rapid deployment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1036",
+   "en": "Would you strike down as many enemies as you can before the barrier is breached?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1036",
+   "en": "Hit as many enemies as you can before the barrier breaks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1037",
+   "en": "Barrier generators 4 and 7, power output dropping.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1037",
+   "en": "Barrier generators 4 and 7, power output dropping.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1038",
+   "en": "Fault in the Macross barrier system.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1038",
+   "en": "Fault in the Macross barrier system.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1039",
+   "en": "The barrier is going to explode! You, at least, must get away!",
+   "flags": [],
+   "notes": "omae-tachi dake demo: 'you, at least' (the speaker stays behind)."
+  },
+  {
+   "id": "of_ktr/1039",
+   "en": "The barrier's going to blow! At least save yourselves!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1040",
+   "en": "No enemy forces appear to remain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1040",
+   "en": "No enemy forces left, are there?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1041",
+   "en": "Escort the liaison shuttle heading to Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1041",
+   "en": "Escort the Earth-bound liaison shuttle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1042",
+   "en": "Lt. Ichijyo, would you proceed directly to point A3102 at once?",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Transcript 'Ichijou chuui' (written with 'attention') read as 'Ichijyo chuui' = Lt. Ichijyo, and 'shikyuu' read as 'at once'. The shared MUF operator clips render it 'Attention.'; all five other transcripts also start with 'Ichijou'."
+  },
+  {
+   "id": "of_ktr/1042",
+   "en": "Lt. Ichijyo, head straight to point A3102 at once.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "As row 605: 'Ichijou chuui' read as Lt. Ichijyo; the shared MUF clips say 'Attention.'"
+  },
+  {
+   "id": "o7_exd/1043",
+   "en": "The enemy fleet is retreating, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1043",
+   "en": "The enemy fleet's retreating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1044",
+   "en": "We would like you to broadcast Lynn Minmay's song to give the Boddole fleet a culture shock.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name mangled in the transcript; Lynn Minmay as in the other operators' clips."
+  },
+  {
+   "id": "of_ktr/1044",
+   "en": "We'd like you to broadcast Lynn Minmay's song to give the Boddole fleet a culture shock.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1045",
+   "en": "The decisive battle is at hand, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1045",
+   "en": "Decisive battle at last!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1046",
+   "en": "Work with Vrlitwhai's Adoclass fleet and destroy the Boddole fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1046",
+   "en": "Work with Vrlitwhai's Adoclass fleet and destroy the Boddole fleet.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Buri-tai' written as 'Buri squad'; it is Vrlitwhai (Britai)."
+  },
+  {
+   "id": "o7_exd/1047",
+   "en": "Rescue the survivors.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1047",
+   "en": "Rescue the survivors!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1048",
+   "en": "The survivors have been rescued, it would seem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1048",
+   "en": "The survivors have been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1050",
+   "en": "Some of the Zentradi have become a rioting mob. Would you kindly suppress them at once?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'booto' (boat) read as 'bouto' (rioters)."
+  },
+  {
+   "id": "of_ktr/1050",
+   "en": "Some of the Zentradi have turned into a rioting mob. Suppress them at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1051",
+   "en": "Protect the Micronizer from the rioting Zentradi.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'boutou-ka' (opening) read as 'bouto-ka' (turned rioters). Glossary terms.json: maikuroon souchi = 'micronization device'; the shared MUF operator clips say 'Micronizer'. Followed the glossary."
+  },
+  {
+   "id": "of_ktr/1051",
+   "en": "Protect the Micronizer from the rioting Zentradi.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "'booto-ka' read as 'bouto-ka'; 'jin' read as Zentradi-jin. Glossary terms.json: maikuroon souchi = 'micronization device'; the shared MUF operator clips say 'Micronizer'. Followed the glossary."
+  },
+  {
+   "id": "o7_exd/1052",
+   "en": "The Micronizer has been seized, it seems.",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Katakana 'dash' read as dasshu (seize), as in the shared clips. Glossary terms.json: maikuroon souchi = 'micronization device'; the shared MUF operator clips say 'Micronizer'. Followed the glossary."
+  },
+  {
+   "id": "of_ktr/1052",
+   "en": "The Micronizer was seized!",
+   "flags": [
+    "whisper_doubt",
+    "uncertain"
+   ],
+   "notes": "Katakana 'dash' read as dasshu (seize). Glossary terms.json: maikuroon souchi = 'micronization device'; the shared MUF operator clips say 'Micronizer'. Followed the glossary."
+  },
+  {
+   "id": "o7_exd/1053",
+   "en": "The defense target has been seized, it seems.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Katakana 'dash' read as dasshu (seize)."
+  },
+  {
+   "id": "of_ktr/1053",
+   "en": "The defense target was seized!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1054",
+   "en": "A Zentradi force has taken hostages and is demanding a battleship, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1054",
+   "en": "A Zentradi force has taken hostages and is demanding one battleship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1055",
+   "en": "Would you work with the Destroid unit and take them down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1055",
+   "en": "Join the Destroid unit and take them down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1056",
+   "en": "The hostages have been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1056",
+   "en": "We've rescued the hostages!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1057",
+   "en": "Protect the factory and the reaction engine from the Zentradi force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1057",
+   "en": "Protect the factory and reaction engine from the Zentradi force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1058",
+   "en": "The factory is under attack, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1058",
+   "en": "The factory's under attack!",
+   "flags": [],
+   "notes": "Whisper nospeech flag, but the transcript matches the shared line; kept."
+  },
+  {
+   "id": "o7_exd/1059",
+   "en": "Damage to the factory is spreading.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1059",
+   "en": "Damage to the factory is spreading.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1060",
+   "en": "The factory has been destroyed, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1060",
+   "en": "The factory's destroyed!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 605-606: read 'Ichijou chuui' as 'Lt. Ichijyo' (Hikaru); the shared MUF operator clips render the same line 'Attention.' One of the two readings is wrong; worth a check of the MUF English.",
+   "rows 621-624: used the glossary 'micronization device'; the shared MUF operator clips say 'Micronizer'."
+  ],
+  "whisper_doubt": [
+   "row 569: shuhou (method) -> main gun",
+   "rows 573-574: kousoku -> high speed",
+   "rows 587-588: pot -> pod, close-quarters",
+   "rows 605-606: Ichijou chuui",
+   "row 609: Lynn Minmay mangled",
+   "row 614: Buri-tai = Vrlitwhai",
+   "rows 619, 621-622: booto/boutou -> bouto (rioters)",
+   "rows 623-625: dasshu = seized"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

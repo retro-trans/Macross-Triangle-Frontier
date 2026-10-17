@@ -1,0 +1,530 @@
+{
+ "slice": 43,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u5458",
+   "en": "Attend lectures to earn mostly \"Mind\" EXP.",
+   "flags": [],
+   "notes": "zagaku = classroom lectures. Stat names kokoro/waza/tai rendered \"Mind\"/\"Technique\"/\"Body\" (not in glossary)."
+  },
+  {
+   "id": "u5459",
+   "en": "Do practical training for mostly \"Technique\" EXP.",
+   "flags": [],
+   "notes": "jitsugi kunren = practical training; waza = \"Technique\". Refit: this window neither wraps nor squeezes (docs/vwf.md); 365 px box."
+  },
+  {
+   "id": "u5460",
+   "en": "Do basic training to earn mostly \"Body\" EXP.",
+   "flags": [],
+   "notes": "kiso kunren = basic training; tai = \"Body\"."
+  },
+  {
+   "id": "u5461",
+   "en": "Take a rest to recover HP and MP.",
+   "flags": [],
+   "notes": "kyuuka command = \"Rest\"."
+  },
+  {
+   "id": "u5462",
+   "en": "Go out for a change of pace.",
+   "flags": [],
+   "notes": "Help for the kibun tenkan command (\"Hang Out\")."
+  },
+  {
+   "id": "u5463",
+   "en": "Learn and check abilities.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5464",
+   "en": "Open the system menu.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5465",
+   "en": "Who will you go on an \"Outing\" with?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "kibun tenkan (change of pace) command rendered \"Hang Out\"; not in glossary, other slices must match. Review: schedule command is 'Outing' (glossary); verb restored. 239 px vs 227 px estimate."
+  },
+  {
+   "id": "u5466",
+   "en": "Where will you go on an \"Outing\"?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same command name as u5465. Review: schedule command is 'Outing' (glossary)."
+  },
+  {
+   "id": "u5467",
+   "en": "Suspend Game",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "chuudan = interrupt/suspend. 92 px vs ~88 px estimated box (4 px over); 'Pause' would be wrong."
+  },
+  {
+   "id": "u5468",
+   "en": "Audio Settings",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5469",
+   "en": "Return to Top Menu",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5470",
+   "en": "Save data and return\nto the Top Menu.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5471",
+   "en": "Adjust the audio settings.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5472",
+   "en": "Return to the Top Menu\nwithout saving data.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5473",
+   "en": "No storage media\nis inserted.",
+   "flags": [],
+   "notes": "kiroku media = recording media (generic, kept generic)."
+  },
+  {
+   "id": "u5474",
+   "en": "Save data and return to the Top Menu.\nProceed?",
+   "flags": [],
+   "notes": "Confirmation wording as MUF ('Proceed?')."
+  },
+  {
+   "id": "u5475",
+   "en": "Return to the Top Menu without saving.\nProceed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5476",
+   "en": "Apply the event results to your stats.",
+   "flags": [],
+   "notes": "kakushu parameter = the various stats."
+  },
+  {
+   "id": "u5477",
+   "en": "Affinity has changed.",
+   "flags": [],
+   "notes": "Affinity per terms.json (provisional)."
+  },
+  {
+   "id": "u5478",
+   "en": "You learned a Command Skill.\nIf you already have one, you can swap it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5479",
+   "en": "You learned an Auto Skill.\nIf you already have 4, you can swap one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5480",
+   "en": "'s Affinity went up.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Fragment appended after a character name at runtime (name + no yuukoudo ga agatta); starts with the possessive."
+  },
+  {
+   "id": "u5481",
+   "en": "'s Affinity went down.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Fragment appended after a character name at runtime."
+  },
+  {
+   "id": "u5482",
+   "en": "Auto Skill \"",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Fragment: [Auto Skill \"] + skill name + [\" learned] (u5483). Quote brackets kakko rendered as double quotes."
+  },
+  {
+   "id": "u5483",
+   "en": "\" learned",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Closing fragment shared by Auto and Command Skill messages (u5482, u5484)."
+  },
+  {
+   "id": "u5484",
+   "en": "Command Skill \"",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Fragment, closed by u5483."
+  },
+  {
+   "id": "u5485",
+   "en": "Select your character's gender.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5486",
+   "en": "Select your character's voice type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5487",
+   "en": "Select your favorite color.\nIt will be your personal color in the game.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5488",
+   "en": "Enter your character's name.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5489",
+   "en": "Select the part of your name to use.\nIn the game, that part is what you're called.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "yobina = the name others call you; the player marks a range of the entered name, and the game's characters call the player by it."
+  },
+  {
+   "id": "u5490",
+   "en": "Select your character's birth month.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5491",
+   "en": "Select your character's birthday.",
+   "flags": [],
+   "notes": "Day of the month (after u5490)."
+  },
+  {
+   "id": "u5492",
+   "en": "Select your character's hometown.",
+   "flags": [],
+   "notes": "shusshinchi = place of origin."
+  },
+  {
+   "id": "u5493",
+   "en": "Select your course.",
+   "flags": [],
+   "notes": "rishuu course = course of study."
+  },
+  {
+   "id": "u5494",
+   "en": "Select the item to change.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5495",
+   "en": "Start the game with this character.\nProceed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5496",
+   "en": "Return to the Top Menu?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5497",
+   "en": "Select the item to change.",
+   "flags": [],
+   "notes": "Same as u5494 (source differs only by a final period)."
+  },
+  {
+   "id": "u5498",
+   "en": "Raises HP when piloting a unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5499",
+   "en": "Raises accuracy and damage of shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5500",
+   "en": "Raises accuracy and damage of melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5501",
+   "en": "Cuts damage taken and makes you hard to stagger.",
+   "flags": [],
+   "notes": "Refit: this window neither wraps nor squeezes (docs/vwf.md); 365 px box."
+  },
+  {
+   "id": "u5502",
+   "en": "Raises speed when piloting a unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5503",
+   "en": "Widens the lock-on range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5504",
+   "en": "Raises the SP gauge recovery rate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5505",
+   "en": "Raises the SP limit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5506",
+   "en": "Learn an Auto Skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5507",
+   "en": "Learn a Command Skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5508",
+   "en": "Select an Auto Skill to learn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5509",
+   "en": "Select a Command Skill to learn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5510",
+   "en": "Set the BGM volume.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5511",
+   "en": "Set the voice volume.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5512",
+   "en": "Set the sound effects volume.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5513",
+   "en": "Set up a Custom Soundtrack.",
+   "flags": [],
+   "notes": "prefilled from the MUF/AF translation; kept."
+  },
+  {
+   "id": "u5514",
+   "en": "Academy Mode complete.\nUse your remaining EXP to learn abilities.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "gakuen mode = Academy Mode. Line 1 is 161 px vs ~122 px per-line estimate; the box is as wide as the longer second line (~297 px)."
+  },
+  {
+   "id": "u5515",
+   "en": "Finish learning abilities?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5516",
+   "en": "%s can now\nbe used in the Campaign.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "%s = character name. Break moved earlier to keep line 1 short; the checker counts %s as 10 W (~140 px), so line 1 still shows over."
+  },
+  {
+   "id": "u5517",
+   "en": "%s's portrait\ncan now be viewed in the Gallery.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tachie = standing character portrait. Line 1 kept to name + portrait; the checker counts %s as 10 W, so it still shows over."
+  },
+  {
+   "id": "u5518",
+   "en": "A new course can now be selected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5519",
+   "en": "%s Route unlocked.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "%s = route name; over only because the checker counts %s as 10 W."
+  },
+  {
+   "id": "u5520",
+   "en": "Save the Academy Mode clear data?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5521",
+   "en": "[speed:400]Hello![wait:300]",
+   "flags": [],
+   "notes": "Operator Yuu Akimizu greets the player."
+  },
+  {
+   "id": "u5522",
+   "en": "[speed:300]I'm Yuu Akimizu, and I'll be explaining the features![wait:300]",
+   "flags": [],
+   "notes": "Name in glossary order (given name first)."
+  },
+  {
+   "id": "u5523",
+   "en": "[speed:100]I'll be explaining things at lots of points in the game,[wait:100]",
+   "flags": [],
+   "notes": "Sentence continues in u5524."
+  },
+  {
+   "id": "u5524",
+   "en": "[speed:100]so please listen carefully, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5525",
+   "en": "This game has[wait:100]",
+   "flags": [],
+   "notes": "Sentence runs u5525-u5529."
+  },
+  {
+   "id": "u5526",
+   "en": "\"Academy,\" where you train pilots,[wait:300]",
+   "flags": [],
+   "notes": "gakuen = the Academy mode."
+  },
+  {
+   "id": "u5527",
+   "en": "\"Campaign,\" where you relive many eras,[wait:300]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5528",
+   "en": "\"Network,\" for versus and co-op with friends,[wait:300]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5529",
+   "en": "and all kinds of other modes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5530",
+   "en": "First, you'll create a character to be your alter ego.[wait:300]",
+   "flags": [],
+   "notes": "jibun no bunshin = your other self."
+  },
+  {
+   "id": "u5531",
+   "en": "Once your character finishes Academy life,[wait:100]",
+   "flags": [],
+   "notes": "Sentence runs u5531-u5533."
+  },
+  {
+   "id": "u5532",
+   "en": "you can use them in \"Campaign\" too,[wait:100]",
+   "flags": [],
+   "notes": "Player character: gender-neutral 'them'."
+  },
+  {
+   "id": "u5533",
+   "en": "so raise them with lots of care!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5534",
+   "en": "In Academy life, you can choose four actions[wait:100]",
+   "flags": [],
+   "notes": "Sentence cut across u5534/u5535 as in the Japanese."
+  },
+  {
+   "id": "u5535",
+   "en": "each month.[wait:300]",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5536",
+   "en": "Choosing \"Class\" earns \"Mind/Technique/Body\" EXP,[wait:100]",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "jugyou command = \"Class\"; stats as in u5458-u5460. Not in glossary. Refit: this window neither wraps nor squeezes (docs/vwf.md); 333 px box."
+  },
+  {
+   "id": "u5537",
+   "en": "and choosing \"Rest\" restores your \"HP\" and \"MP\".[wait:100]",
+   "flags": [],
+   "notes": "Continues into u5538 (\"Hang Out\" is... a secret)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "Campus stats kokoro/waza/tai rendered 'Mind'/'Technique'/'Body' (u5458-u5460, u5536); slice 38 labels use the same kanji and must match.",
+   "Campus commands: jugyou = 'Class', kyuuka = 'Rest', kibun tenkan = 'Hang Out' (u5462, u5465, u5466, u5536, u5537; u5538 in the next slice must match).",
+   "u5480/u5481 are fragments appended after a character name (\"'s Affinity went up.\"); u5482-u5484 build 'Auto Skill \"X\" learned' / 'Command Skill \"X\" learned' around a runtime skill name.",
+   "u5489 yobina range selection: wording 'the part of your name to be called' is a best guess at the UI.",
+   "u5532/u5533 use 'them' for the player-created character (gender unknown)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "kokoro/waza/tai stats (Mind/Technique/Body)",
+   "campus commands jugyou/kyuuka/kibun tenkan (Class/Rest/Hang Out)"
+  ],
+  "unfinished": []
+ }
+}

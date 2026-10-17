@@ -1,0 +1,866 @@
+{
+ "slice": 1,
+ "rows_in_slice": 141,
+ "rows_examined": 141,
+ "rows": [
+  {
+   "id": "u0001",
+   "en": "Save the data?",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0002",
+   "en": "Saving...\nDo not remove the storage\nmedia or turn off the power.",
+   "flags": [],
+   "notes": "System message; source says 'recording media' (not Memory Stick as in MUF)."
+  },
+  {
+   "id": "u0003",
+   "en": "Transferring save data...\nDo not remove the storage\nmedia or turn off the power.",
+   "flags": [],
+   "notes": "Hikitsugi = carrying save data over; 'Transferring save data' as MUF shipped for the same message."
+  },
+  {
+   "id": "u0004",
+   "en": "Loading...\nDo not remove the storage\nmedia or turn off the power.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0005",
+   "en": "Delete the save data?",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0006",
+   "en": "Shin Kudo",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0007",
+   "en": "Roy Focker",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0008",
+   "en": "Sara Nome",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0009",
+   "en": "Nora Polyansky",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0010",
+   "en": "D.D. Ivanov",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0011",
+   "en": "Hikaru Ichijyo",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0012",
+   "en": "Maximilian Jenius",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0013",
+   "en": "Milia Fallyna",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0014",
+   "en": "Hayao Kakizaki",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0015",
+   "en": "Misa Hayase",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0016",
+   "en": "Lynn Minmay",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0017",
+   "en": "Quamzin Kravshera",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0018",
+   "en": "Milia 639",
+   "flags": [],
+   "notes": "Glossary alias 'Milia 639' (DYRL name)."
+  },
+  {
+   "id": "u0019",
+   "en": "Zentradi Soldier",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0020",
+   "en": "Vrlitwhai Kridanik",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0021",
+   "en": "Vrlitwhai 7018",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0022",
+   "en": "Boddole Zer",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0023",
+   "en": "Golg Boddole Zer",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0024",
+   "en": "Isamu Alva Dyson",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0025",
+   "en": "Yang Neumann",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0026",
+   "en": "Guld Goa Bowman",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0027",
+   "en": "Myung Fang Lone",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0028",
+   "en": "Sharon Apple",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0029",
+   "en": "Basara Nekki",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0030",
+   "en": "Mylene Flare Jenius",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0031",
+   "en": "Gamlin Kizaki",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0032",
+   "en": "Milia Fallyna Jenius",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0033",
+   "en": "Ray Lovelock",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0034",
+   "en": "Veffidas Feaze",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0035",
+   "en": "Exsedol Folmo",
+   "flags": [],
+   "notes": "Glossary en."
+  },
+  {
+   "id": "u0036",
+   "en": "Miho Miho",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary en; entry is needs_check (Japanese form not confirmed)."
+  },
+  {
+   "id": "u0037",
+   "en": "Docker",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0038",
+   "en": "Kinryu",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0039",
+   "en": "Gigile",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0040",
+   "en": "Gavil",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0041",
+   "en": "Gepelnitchi",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0042",
+   "en": "Sivil",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0043",
+   "en": "Graham Hoilie",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0044",
+   "en": "Liza Hoilie",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0045",
+   "en": "Elma Hoilie",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0046",
+   "en": "Alto Saotome",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0047",
+   "en": "Michael Blanc",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0048",
+   "en": "Luca Angeloni",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0049",
+   "en": "Ozma Lee",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0050",
+   "en": "Klan Klang",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0051",
+   "en": "Canaria Berstein",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0052",
+   "en": "Bobby Margot",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0053",
+   "en": "Jeffrey Wilder",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0054",
+   "en": "Ranka Lee",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0055",
+   "en": "Sheryl Nome",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0056",
+   "en": "Nanase Matsuura",
+   "flags": [],
+   "notes": "Glossary en."
+  },
+  {
+   "id": "u0057",
+   "en": "Brera Sterne",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0058",
+   "en": "Vajra (S)",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0059",
+   "en": "Vajra (L)",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0060",
+   "en": "Hound Vajra",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary en; entry is provisional (no wiki page)."
+  },
+  {
+   "id": "u0061",
+   "en": "Grace O'Connor",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0062",
+   "en": "Hibiki Kanzaki",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0063",
+   "en": "Silvie Gena",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0064",
+   "en": "Ishtar",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0065",
+   "en": "Gary Murdoch",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0066",
+   "en": "Hilda V. Bergen",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0067",
+   "en": "Yuuto Kagura",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0068",
+   "en": "Luis Fernando",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0069",
+   "en": "Miyuki Shirakawa",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0070",
+   "en": "Yui Hoshimura",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0071",
+   "en": "Aegis Focker",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0072",
+   "en": "Gilliam Angreat",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0073",
+   "en": "Academy 1: P1 Pilot",
+   "flags": [],
+   "notes": "Internal pilot-table slot for the Academy (campus) mode: slot 1, player 1 pilot. Format follows the 'Grunt: ...' rows."
+  },
+  {
+   "id": "u0074",
+   "en": "Academy 2: P2 Pilot",
+   "flags": [],
+   "notes": "As u0073."
+  },
+  {
+   "id": "u0075",
+   "en": "Academy 3: P3 Pilot",
+   "flags": [],
+   "notes": "As u0073."
+  },
+  {
+   "id": "u0076",
+   "en": "Academy 4: P4 Pilot",
+   "flags": [],
+   "notes": "As u0073."
+  },
+  {
+   "id": "u0077",
+   "en": "Academy 5: P1 Support",
+   "flags": [],
+   "notes": "As u0073; support slot for player 1."
+  },
+  {
+   "id": "u0078",
+   "en": "Academy 6: P2 Support",
+   "flags": [],
+   "notes": "As u0077."
+  },
+  {
+   "id": "u0079",
+   "en": "Academy 7: P3 Support",
+   "flags": [],
+   "notes": "As u0077."
+  },
+  {
+   "id": "u0080",
+   "en": "Academy 8: P4 Support",
+   "flags": [],
+   "notes": "As u0077."
+  },
+  {
+   "id": "u0081",
+   "en": "Rookie Soldier",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0082",
+   "en": "Grunt: Shot 0 Melee 0",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0083",
+   "en": "Grunt: Shot 0 Melee 1 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0084",
+   "en": "Grunt: Shot 0 Melee 2 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0085",
+   "en": "Grunt: Shot 0 Melee 3 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0086",
+   "en": "Grunt: Shot 1 Melee 0 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0087",
+   "en": "Grunt: Shot 1 Melee 1 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0088",
+   "en": "Grunt: Shot 1 Melee 2 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0089",
+   "en": "Grunt: Shot 1 Melee 3 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0090",
+   "en": "Grunt: Shot 2 Melee 0 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0091",
+   "en": "Grunt: Shot 2 Melee 1 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0092",
+   "en": "Grunt: Shot 2 Melee 2 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0093",
+   "en": "Grunt: Shot 2 Melee 3 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0094",
+   "en": "Grunt: Shot 3 Melee 0 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0095",
+   "en": "Grunt: Shot 3 Melee 1 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0096",
+   "en": "Grunt: Shot 3 Melee 2 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0097",
+   "en": "Grunt: Shot 3 Melee 3 Atk 3",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0098",
+   "en": "Grunt: Shot 0 Melee 1 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0099",
+   "en": "Grunt: Shot 0 Melee 2 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0100",
+   "en": "Grunt: Shot 0 Melee 3 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0101",
+   "en": "Grunt: Shot 1 Melee 0 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0102",
+   "en": "Grunt: Shot 1 Melee 1 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0103",
+   "en": "Grunt: Shot 1 Melee 2 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0104",
+   "en": "Grunt: Shot 1 Melee 3 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0105",
+   "en": "Grunt: Shot 2 Melee 0 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0106",
+   "en": "Grunt: Shot 2 Melee 1 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0107",
+   "en": "Grunt: Shot 2 Melee 2 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0108",
+   "en": "Grunt: Shot 2 Melee 3 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0109",
+   "en": "Grunt: Shot 3 Melee 0 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0110",
+   "en": "Grunt: Shot 3 Melee 1 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0111",
+   "en": "Grunt: Shot 3 Melee 2 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0112",
+   "en": "Grunt: Shot 3 Melee 3 Atk 2",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0113",
+   "en": "Grunt: Shot 0 Melee 1 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0114",
+   "en": "Grunt: Shot 0 Melee 2 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0115",
+   "en": "Grunt: Shot 0 Melee 3 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0116",
+   "en": "Grunt: Shot 1 Melee 0 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0117",
+   "en": "Grunt: Shot 1 Melee 1 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0118",
+   "en": "Grunt: Shot 1 Melee 2 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0119",
+   "en": "Grunt: Shot 1 Melee 3 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0120",
+   "en": "Grunt: Shot 2 Melee 0 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0121",
+   "en": "Grunt: Shot 2 Melee 1 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0122",
+   "en": "Grunt: Shot 2 Melee 2 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0123",
+   "en": "Grunt: Shot 2 Melee 3 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0124",
+   "en": "Grunt: Shot 3 Melee 0 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0125",
+   "en": "Grunt: Shot 3 Melee 1 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0126",
+   "en": "Grunt: Shot 3 Melee 2 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0127",
+   "en": "Grunt: Shot 3 Melee 3 Atk 1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0128",
+   "en": "Battleship: Atk Halved",
+   "flags": [],
+   "notes": "Internal pilot-table entry: for battleships, attack power halved. Abbreviation 'Atk' as the Grunt rows."
+  },
+  {
+   "id": "u0129",
+   "en": "Cheer (Skill)",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0130",
+   "en": "Pineapple Cake (Skill)",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0131",
+   "en": "Awakening (Skill)",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0132",
+   "en": "Destroyer (Skill)",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0133",
+   "en": "Sniper (Skill)",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0134",
+   "en": "Veteran Soldier",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0135",
+   "en": "Expert Marksman",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0136",
+   "en": "Melee Expert",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0137",
+   "en": "Ace & Sniper (Skill)",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0138",
+   "en": "Iron Wall Defender",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0139",
+   "en": "Flawless",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0140",
+   "en": "Ace",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0141",
+   "en": "Macross Triangle Frontier",
+   "flags": [],
+   "notes": "Game title (glossary)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0036: Glossary en; entry is needs_check (Japanese form not confirmed).",
+   "u0060: Glossary en; entry is provisional (no wiki page)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

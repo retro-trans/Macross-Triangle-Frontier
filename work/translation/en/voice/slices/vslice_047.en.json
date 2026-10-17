@@ -1,0 +1,498 @@
+{
+ "slice": 47,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "pf_mcl/1000",
+   "en": "This is the anti-Vajra combat simulator. Let's see what you've got.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Bajira' read as Bajura (Vajra)."
+  },
+  {
+   "id": "pf_mcl/1001",
+   "en": "Too early to get cocky.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1002",
+   "en": "On to the next one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1003",
+   "en": "The real thing starts now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1004",
+   "en": "I'd call that so-so.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1005",
+   "en": "Not bad. You've got some skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1006",
+   "en": "Heh, you don't have to tell me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1010",
+   "en": "Geez, I was only a little late, Klan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1011",
+   "en": "Guess I'm a bit late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1012",
+   "en": "Well then, shall we get going?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1013",
+   "en": "Let's see what you can do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1014",
+   "en": "Well, that'll do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1015",
+   "en": "It's about time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1016",
+   "en": "I don't plan on holding back either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1017",
+   "en": "I could go easy on you, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1018",
+   "en": "You're really fired up, Princess Alto.",
+   "flags": [],
+   "notes": "Alto-hime: the teasing nickname (glossary alias 'Princess'), not an honorific."
+  },
+  {
+   "id": "pf_mcl/1019",
+   "en": "Looks like that's it for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1020",
+   "en": "You're still sloppy, Princess Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/1021",
+   "en": "You said it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/000",
+   "en": "I'm Nanase Matsuura. Nice to work with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/001",
+   "en": "Looks like I took on quite the part-time job.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/002",
+   "en": "Good luck! I'll do my best supporting you, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/100",
+   "en": "I'll cheer you on with all I've got, so do your best.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/101",
+   "en": "You'll be fine, I'm sure. Have confidence.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/102",
+   "en": "If there's anything I can help with, just tell me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/106",
+   "en": "Go ahead, get them!",
+   "flags": [],
+   "notes": "mou yacchatte kudasai!"
+  },
+  {
+   "id": "pf_nns/107",
+   "en": "Um, I think now's your chance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/108",
+   "en": "I know you can do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/139",
+   "en": "Um, are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/140",
+   "en": "This is getting dangerous.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/141",
+   "en": "Um, aren't you in a tight spot?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/142",
+   "en": "No... How could this...",
+   "flags": [],
+   "notes": "Trails off in the Japanese."
+  },
+  {
+   "id": "pf_nns/143",
+   "en": "You were just a little off today, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/144",
+   "en": "I'm sorry it turned out like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/148",
+   "en": "Oh! Reinforcements! Reinforcements are here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/149",
+   "en": "Now we can relax.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/150",
+   "en": "Looks like friendlies have arrived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/154",
+   "en": "I'm glad it went off safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/155",
+   "en": "Was I of some help?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/156",
+   "en": "It was a success, right? Congratulations!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/175",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/176",
+   "en": "I can get things done when it counts, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/177",
+   "en": "It's okay! Leave it to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/178",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/179",
+   "en": "Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/180",
+   "en": "I'll do as you say.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/181",
+   "en": "Are you okay, Captain?",
+   "flags": [],
+   "notes": "taichou-san: honorific dropped, 'Captain'."
+  },
+  {
+   "id": "pf_nns/182",
+   "en": "Captain, that looks like it hurts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/183",
+   "en": "Everyone has off days, Captain.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/184",
+   "en": "I can't believe the Captain got shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/185",
+   "en": "No, the Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/186",
+   "en": "I don't want to believe this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/190",
+   "en": "Amazing! That's our Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/191",
+   "en": "Wonderful, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/192",
+   "en": "Amazing, Saotome!",
+   "flags": [],
+   "notes": "Saotome-kun: honorific dropped."
+  },
+  {
+   "id": "pf_nns/193",
+   "en": "So Luca can really fight too.",
+   "flags": [],
+   "notes": "Luca-kun: honorific dropped."
+  },
+  {
+   "id": "pf_nns/194",
+   "en": "I'll cheer you on with everything I've got!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/195",
+   "en": "Go! Go! You can do it!",
+   "flags": [],
+   "notes": "furee furee (cheer)."
+  },
+  {
+   "id": "pf_nns/200",
+   "en": "Wow, that's amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/201",
+   "en": "Keep it up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/210",
+   "en": "Are you really okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/211",
+   "en": "This feels kind of dangerous...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/212",
+   "en": "Are you having an off day?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/213",
+   "en": "Huh? Did you get shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/215",
+   "en": "Was I holding you back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/216",
+   "en": "Amazing! Impressive as always!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/217",
+   "en": "You looked really cool.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/320",
+   "en": "Please don't look at me like that.",
+   "flags": [],
+   "notes": "Result lines with a male player (320-331)."
+  },
+  {
+   "id": "pf_nns/321",
+   "en": "Geez, this is why I didn't want your help.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/322",
+   "en": "What is with you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/323",
+   "en": "Looks like it went well. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/324",
+   "en": "I feel kind of bad for the people on the other side.",
+   "flags": [],
+   "notes": "aite no katatachi ni wa warui koto shichaimashita ne."
+  },
+  {
+   "id": "pf_nns/325",
+   "en": "Let's keep it up next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/326",
+   "en": "We did it! Impressive!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/327",
+   "en": "Of course you succeeded.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/328",
+   "en": "You've helped me so much. Let me thank you at Nyan-Nyan sometime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/329",
+   "en": "I'm sure you can become everyone's hope.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/330",
+   "en": "Would you like to join the Ranka Lee fan club too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/331",
+   "en": "Just having you come back safe makes me so happy...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/360",
+   "en": "What exactly were you trying to do?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 3681 (pf_mcl/1000): 'Bajira' read as Bajura (Vajra)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

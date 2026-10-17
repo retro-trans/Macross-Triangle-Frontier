@@ -1,0 +1,511 @@
+{
+ "slice": 152,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c11090",
+   "en": "(Today I came to Silver Moon with Shirakawa!)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x2, male, frd_myk_103 (both visits use it). Silver Moon is provisional."
+  },
+  {
+   "id": "c11091",
+   "en": "This tea is delicious,\nisn't it, \\p-kun?",
+   "flags": [],
+   "notes": "Miyuki to the male player."
+  },
+  {
+   "id": "c11092",
+   "en": "Oh, so the tea here has Shirakawa's\nseal of approval, huh?",
+   "flags": [],
+   "notes": "Male (osumitsuki), teasing."
+  },
+  {
+   "id": "c11093",
+   "en": "Geez... Please don't tease me!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11094",
+   "en": "Yeah, I'm glad I got to talk with you about\nall sorts of things, Shirakawa.",
+   "flags": [],
+   "notes": "Male; follows Miyuki's 'Thanks for the meal'."
+  },
+  {
+   "id": "c11095",
+   "en": "As long as it's something I know,\nfeel free to ask me anything.",
+   "flags": [],
+   "notes": "x2, Miyuki; the player answers 'I'll do that.'"
+  },
+  {
+   "id": "c11096",
+   "en": "Oh, I've got plans after this,\nso I'll head home first.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11097",
+   "en": "(Today I came to Silver Moon with Miyuki.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female. Silver Moon is provisional."
+  },
+  {
+   "id": "c11098",
+   "en": "This tea is delicious,\nisn't it, \\p-san?",
+   "flags": [],
+   "notes": "Miyuki to the female player."
+  },
+  {
+   "id": "c11099",
+   "en": "Ooh, so the tea here has Miyuki's\nseal of approval~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11100",
+   "en": "Yeah, talking with you about all sorts\nof things was fun, Miyuki!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11101",
+   "en": "I'll do that.",
+   "flags": [],
+   "notes": "Female; same as the male c10290."
+  },
+  {
+   "id": "c11102",
+   "en": "The coffee's good too.",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11103",
+   "en": "It's good, but the menu's way too long.\nI can't make heads or tails of it...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11104",
+   "en": "Hehe, maybe you're right!",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11105",
+   "en": "Yeah, I'm glad I got to talk with you about\nall sorts of things again today, Shirakawa.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11106",
+   "en": "I had fun too.",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11107",
+   "en": "Hearing you say that makes me glad\nI invited you.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11108",
+   "en": "Oh, I've got a little something to do\nafter this, so I'll head home first.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11109",
+   "en": "(Today I came to Silver Moon with Miyuki again.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female. Silver Moon is provisional."
+  },
+  {
+   "id": "c11110",
+   "en": "The coffee's good too.\nAnd they have so many toppings to choose from.",
+   "flags": [],
+   "notes": "Miyuki, female scene."
+  },
+  {
+   "id": "c11111",
+   "en": "I like mine with loads of whipped cream.\nAnd I never forget the caramel sauce.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11112",
+   "en": "Hehe.\nAt that rate, you won't be able to tell it's coffee.",
+   "flags": [],
+   "notes": "Miyuki, female scene (casual ne)."
+  },
+  {
+   "id": "c11113",
+   "en": "Yeah, that was delicious~!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11114",
+   "en": "(Today I came to Central Park with Shirakawa!)",
+   "flags": [],
+   "notes": "Male, frd_myk_104."
+  },
+  {
+   "id": "c11115",
+   "en": "Shall we walk for a bit today?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11116",
+   "en": "The breeze felt nice, didn't it?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11117",
+   "en": "Yeah, I feel totally refreshed.",
+   "flags": [],
+   "notes": "x2, player, both genders (rifuresshu, not the sukkiri gag)."
+  },
+  {
+   "id": "c11118",
+   "en": "Me too...\nMaybe next time we could go cycling.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11119",
+   "en": "Yeah, the park seems pretty big, after all.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11120",
+   "en": "Well then, how about we go get some tea?\nI'm getting a little thirsty.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11121",
+   "en": "(Today I came to Central Park with Miyuki.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11122",
+   "en": "Well then, how about we go get some tea?\nI'm getting a little thirsty!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11123",
+   "en": "(Today I'm hanging out at Central Park\nwith Shirakawa again!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11124",
+   "en": "Sorry to keep you waiting, Shirakawa!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11125",
+   "en": "Shall we ride bikes today?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11126",
+   "en": "All right, let's race and see who can\ndo a lap faster!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11127",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11128",
+   "en": "That was so much fun!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11129",
+   "en": "You're really good at sports and stuff,\nhuh, Shirakawa.",
+   "flags": [],
+   "notes": "Male (karada ugokasu no ga tokui)."
+  },
+  {
+   "id": "c11130",
+   "en": "Th-that's not true... is it?",
+   "flags": [],
+   "notes": "x2, Miyuki, unsure."
+  },
+  {
+   "id": "c11131",
+   "en": "No way, you looked so full of life when\nyou were riding that bike, Shirakawa.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11132",
+   "en": "I can't really tell myself, but...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11133",
+   "en": "Well then, let's grab some tea somewhere\nbefore we head home.",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c11134",
+   "en": "(Today I came to Central Park with Miyuki again.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11135",
+   "en": "Sorry to keep you waiting, Miyuki!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11136",
+   "en": "All right, let's race and see who can\ndo a lap faster!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11137",
+   "en": "You're really good at sports and stuff,\nhuh, Miyuki...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11138",
+   "en": "No way, you looked so full of life when\nyou were riding that bike, Miyuki.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11139",
+   "en": "(Today I'm supposed to go to Deep Akihabara\nwith Shirakawa, but...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male, frd_myk_105. Deep Akihabara is provisional."
+  },
+  {
+   "id": "c11140",
+   "en": "\\p-kun,\nI'm sorry I'm late...",
+   "flags": [],
+   "notes": "Miyuki to the male player."
+  },
+  {
+   "id": "c11141",
+   "en": "Nah, don't worry about it.\nActually, I was running a little late too.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11142",
+   "en": "O-oh, were you?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11143",
+   "en": "Now I feel like I apologized for nothing!",
+   "flags": [],
+   "notes": "x2, Miyuki (ayamari-zon)."
+  },
+  {
+   "id": "c11144",
+   "en": "Sorry, sorry...\nWell then, shall we go shopping?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11145",
+   "en": "This town really does have all kinds of things.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11146",
+   "en": "This town's selling point is that it has everything.\nYou don't come here much, do you, Shirakawa?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11147",
+   "en": "No, I get most of my things\nin the Shibuya Area.",
+   "flags": [],
+   "notes": "x2, Miyuki; 'hai' agrees with the negative question, so 'No' in English."
+  },
+  {
+   "id": "c11148",
+   "en": "I see. So, did you learn a thing or two\nabout the real world?",
+   "flags": [],
+   "notes": "x2, player, both genders (shakai benkyou)."
+  },
+  {
+   "id": "c11149",
+   "en": "I had a really good time.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11150",
+   "en": "(Today I'm supposed to go to Deep Akihabara\nwith Miyuki, but...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female. Deep Akihabara is provisional."
+  },
+  {
+   "id": "c11151",
+   "en": "\\p-san,\nI'm sorry I'm late...",
+   "flags": [],
+   "notes": "Miyuki to the female player."
+  },
+  {
+   "id": "c11152",
+   "en": "Nah, don't worry about it.\nActually, I was running a little late too...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11153",
+   "en": "Sorry, sorry...\nWell then, let's go shopping!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11154",
+   "en": "This town's selling point is that it has everything~\nYou don't come here much, do you, Miyuki?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11155",
+   "en": "(Today I came to Deep Akihabara with Shirakawa\nagain.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male. Deep Akihabara is provisional."
+  },
+  {
+   "id": "c11156",
+   "en": "\\p-kun,\nsorry to keep you waiting.",
+   "flags": [],
+   "notes": "Miyuki to the male player; as c09341 (-san version)."
+  },
+  {
+   "id": "c11157",
+   "en": "Oh, you're right on time today.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11158",
+   "en": "O-oh, am I?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11159",
+   "en": "I meant to get here early, though...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11160",
+   "en": "Good thing neither of us got left waiting.\nWell then, let's go shopping.",
+   "flags": [],
+   "notes": "Male (machibouke)."
+  },
+  {
+   "id": "c11161",
+   "en": "They even sell tea leaves here.\nAnd rare ones, too...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11162",
+   "en": "No idea where they got 'em from, though...\nI think the taste should be fine.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11163",
+   "en": "I'll brew some as soon as I get home.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11164",
+   "en": "Let me know how it tastes.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11165",
+   "en": "Yes, next time.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11166",
+   "en": "(Today I came to Deep Akihabara with Miyuki\nagain.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female. Deep Akihabara is provisional."
+  },
+  {
+   "id": "c11167",
+   "en": "Oh, you're right on time today!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11168",
+   "en": "Good thing neither of us got left waiting.\nWell then, shall we go shopping?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11169",
+   "en": "No idea where they got 'em from, though...\nI think the taste should be fine~",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c11090, c11097, c11109: use Silver Moon (provisional in locations.json).",
+   "c11139, c11150, c11155, c11166: use Deep Akihabara (provisional in locations.json).",
+   "c11147: Miyuki's 'hai' agrees with the player's negative question ('you don't come here much, do you?'), rendered 'No, I get most of my things in the Shibuya Area.'"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

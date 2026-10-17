@@ -1,0 +1,469 @@
+{
+ "slice": 286,
+ "rows_in_slice": 76,
+ "rows_examined": 76,
+ "rows": [
+  {
+   "id": "c20482",
+   "en": "(Yikes, just one minute till my next class!\nI'd better hurry!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20483",
+   "en": "Ah, sorry, Akimizu! Are you okay?",
+   "flags": [],
+   "notes": "Male. After colliding with her."
+  },
+  {
+   "id": "c20484",
+   "en": "No, I'm the one who should be sorry!\nI was rushing around way too much...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20485",
+   "en": "You didn't get hurt? You're okay?",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20486",
+   "en": "Well, that's a reli...\nOh... Akimizu... your skirt...",
+   "flags": [],
+   "notes": "Male. Cut off mid-word on purpose."
+  },
+  {
+   "id": "c20487",
+   "en": "Huh? Hm?\nKYAAAAAAAAH!!!!!",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20488",
+   "en": "Did you see? You saw, didn't you?\nCould you see anything?",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20489",
+   "en": "It's fine, I only looked for a split second!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20490",
+   "en": "Ehhh~, so you DID see...",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c20491",
+   "en": "I barely saw anything!\nMore importantly, come on! We'll be late for class!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20492",
+   "en": "Oh!? That's right!\nI have to hurry! Umm, see you!",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c20493",
+   "en": "Phew, guess I managed to smooth that over...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20494",
+   "en": "(Feels like I kinda got lucky there!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20495",
+   "en": "(Aaah, one minute till my next class!\nI've gotta hurry!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20496",
+   "en": "Ah, sorry, Yuu! Are you okay?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20497",
+   "en": "Thank goodness~...\nOh... Yuu... your skirt...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20498",
+   "en": "It's fine, it only showed for a split second!",
+   "flags": [],
+   "notes": "Female. Japanese: it was only visible briefly."
+  },
+  {
+   "id": "c20499",
+   "en": "Ehh... But I'm glad it wasn't a boy who saw...",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c20500",
+   "en": "Exactly, we're both girls, so it's no problem!\nMore importantly, come on! We'll be late for class!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20501",
+   "en": "Oh!? That's right!\nI have to hurry! See you!",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c20502",
+   "en": "Well, at least it didn't turn into a big deal.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20503",
+   "en": "(So Yuu wears cute ones,\njust like you'd expect from her looks...)",
+   "flags": [],
+   "notes": "Female. Her underwear; the Japanese also only says 'cute ones'."
+  },
+  {
+   "id": "c20504",
+   "en": "(Lunchtime already, huh. I'm starving...\nWhat should I eat today... Tough call...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20505",
+   "en": "(Oh, it's Akimizu. Maybe I'll ask her.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20506",
+   "en": "Heyyy, Akimizu, got a sec?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20507",
+   "en": "Yeah, there's something I wanted to ask you.\nThis is out of nowhere, but what do you\nfeel like eating right now?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20508",
+   "en": "What I feel like eating right now?\nHmm~ let me see~...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20509",
+   "en": "Oh, you don't have to think that hard about it.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20510",
+   "en": "In that case~...\nA strawberry pie piled high with strawberries!",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20511",
+   "en": "Oh... I see...\nThat does sound tasty, but it's not\nreally lunch material...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20512",
+   "en": "...Oh!? Wait, that's what you meant?\nSorry for saying something weird...",
+   "flags": [],
+   "notes": "Akimizu, both genders. She realizes he meant lunch."
+  },
+  {
+   "id": "c20513",
+   "en": "(Akimizu really does love sweets, huh...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20514",
+   "en": "(Lunchtime already... I'm so hungry...\nWhat should I eat today... I can't decide...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20515",
+   "en": "(Oh, it's Yuu. Maybe I'll ask her.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20516",
+   "en": "Hey, Yuu, got a sec?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20517",
+   "en": "Oh, \\p-chan.\nWhat is it?",
+   "flags": [],
+   "notes": "Akimizu, female scenes (nml_yuu_009, 011). Matches male twin c11900."
+  },
+  {
+   "id": "c20518",
+   "en": "Yeah, there's something I wanted to ask you.\nThis is out of nowhere, but what do you\nfeel like eating right now?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20519",
+   "en": "Oh, you don't have to think that hard.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20520",
+   "en": "Oh, um... I see...\nThat does sound yummy, but it's not\nreally lunch material, is it...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20521",
+   "en": "(Yuu really does love sweet stuff...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20522",
+   "en": "(All right, nailed today's EX-Gear training too.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20523",
+   "en": "\\p-kun, great work out there!",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c20524",
+   "en": "Oh, Akimizu. What's up?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20525",
+   "en": "Your flying in class just now was amazing!\nBeing able to fly freely through the sky\nmust feel so good...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20526",
+   "en": "Yeah, it does feel good, sure...\nBut if everyone could fly freely,\nthat might be kind of a problem...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20527",
+   "en": "Huh!? Why's that?",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20528",
+   "en": "The roads are jammed enough already.\nWe don't want traffic jams in the sky too, right?",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20529",
+   "en": "Ahaha, that's true!",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20530",
+   "en": "When that happens, I'm counting on you\nto handle air traffic control, Akimizu.",
+   "flags": [],
+   "notes": "Male. A joke: she is an operator."
+  },
+  {
+   "id": "c20531",
+   "en": "That sounds like a lot of work... but roger that!",
+   "flags": [],
+   "notes": "Akimizu, both genders. Ryoukai shimashita, operator-style 'roger'."
+  },
+  {
+   "id": "c20532",
+   "en": "(But if the sky really did jam up,\nAkimizu would be in over her head...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20533",
+   "en": "(All right, nailed today's EX-Gear training too!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20534",
+   "en": "\\p-chan, great work out there!",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c20535",
+   "en": "Oh, Yuu. What's up?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20536",
+   "en": "Yeah, it does feel good...\nBut if everyone could fly freely,\nthat might be kind of a problem...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20537",
+   "en": "When that happens, I'm counting on you\nto handle air traffic control, Yuu.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20538",
+   "en": "(But if the sky really did jam up,\nYuu would probably be in over her head...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20539",
+   "en": "(All right, another week's over!\nWhat should I do this weekend?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20540",
+   "en": "(Oh, it's Akimizu...\nOkay, I'll ask about her weekend plans.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20541",
+   "en": "Hey, Akimizu, got a sec?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20542",
+   "en": "Yeah, I just thought I'd ask what\nyou're doing this weekend...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20543",
+   "en": "Let's see...\nCleaning up... my room, I guess...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20544",
+   "en": "Huh, is your room that messy?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20545",
+   "en": "No, it's not like that. Um... well...\nMy st... uffed... mals...",
+   "flags": [],
+   "notes": "Akimizu, both genders. She mumbles the word for stuffed animals in fragments."
+  },
+  {
+   "id": "c20546",
+   "en": "Huh? What?",
+   "flags": [],
+   "notes": "PLAYER, both genders; also scd_com_618 (Christmas)."
+  },
+  {
+   "id": "c20547",
+   "en": "Um... the stuffed animals... I collect...\nthere are just so many of them now...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20548",
+   "en": "Oh, so you're tidying those up...\n...Wait, if it takes up your day off,\nthat's gotta be a whole lot of...",
+   "flags": [],
+   "notes": "Male. Trails off."
+  },
+  {
+   "id": "c20549",
+   "en": "Huh!? N-no, there aren't... that many...\nI... think...\nUm, anyway, I'd better get going!",
+   "flags": [],
+   "notes": "Akimizu, both genders. Konohen de: she cuts the talk short."
+  },
+  {
+   "id": "c20550",
+   "en": "(So Akimizu collects stuffed animals...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20551",
+   "en": "(All right, another week done~\nWhat should I do this weekend?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20552",
+   "en": "(Oh, it's Yuu...\nOkay, I'll ask about her weekend plans.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20553",
+   "en": "Hey, Yuu, got a sec?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20554",
+   "en": "Yeah, I was just thinking I'd ask about\nyour weekend plans...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20555",
+   "en": "Ehh~, is your room messy? That's a surprise!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20556",
+   "en": "Oh, so you're tidying those up...\n...Wait, if it takes up your day off,\nthat's gotta be a whole lot of...",
+   "flags": [],
+   "notes": "Female. Trails off."
+  },
+  {
+   "id": "c20557",
+   "en": "(So Yuu collects stuffed animals...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

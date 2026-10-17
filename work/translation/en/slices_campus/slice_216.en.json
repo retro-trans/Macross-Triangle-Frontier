@@ -1,0 +1,515 @@
+{
+ "slice": 216,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c15777",
+   "en": "(Brera-san, who came as Ranka's bodyguard,\nhas such a blank face, I can never tell\nwhat he's thinking.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15778",
+   "en": "Damn it! What the hell is with that guy?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15779",
+   "en": "Come on, Alto, calm down a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15780",
+   "en": "I am calm!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15781",
+   "en": "(Well, I can't blame Alto for being mad.\nBrera-san threw him the moment they met...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15782",
+   "en": "I've got a mountain of questions for that guy...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15783",
+   "en": "I have nothing to tell you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15784",
+   "en": "Brera! You bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15785",
+   "en": "I said calm down, Alto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15786",
+   "en": "(These two really don't get along.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15787",
+   "en": "(Brera-san, who came as Ranka-chan's bodyguard,\nhas such a blank face, I can never tell\nwhat he's thinking.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15788",
+   "en": "Saotome-kun, calm down a little, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15789",
+   "en": "(Well, I can't blame Saotome-kun for being mad.\nBrera-san threw him the moment they met...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15790",
+   "en": "I said calm down, Saotome-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15791",
+   "en": "(These two really don't get along.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15792",
+   "en": "(I came out to the Shibuya Area,\nbut I don't really have anything to do here...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15793",
+   "en": "(Huh? It's Alto.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15794",
+   "en": "(Hm?\nSome sleazy-looking guy is talking to him...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15795",
+   "en": "(Don't tell me...\nHe's hitting on Alto, thinking he's a girl?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15796",
+   "en": "(Whoa, Alto's getting mad. Real mad.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15797",
+   "en": "(The guy realized Alto's a guy\nand took off.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15798",
+   "en": "(Alto's a hit even outside school, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15799",
+   "en": "(Okay, I'd better head home before\na grumpy Alto spots me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15800",
+   "en": "(I came out to the Shibuya Area,\nbut I don't really have anything to do here...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15801",
+   "en": "(Huh? It's Saotome-kun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15802",
+   "en": "(Hm?\nSome sleazy-looking guy is talking to him...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15803",
+   "en": "(Don't tell me...\nHe's hitting on Saotome-kun, thinking he's a girl?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15804",
+   "en": "(Whoa, Saotome-kun's getting mad. Real mad.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15805",
+   "en": "(The guy realized Saotome-kun's a guy\nand took off.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15806",
+   "en": "(Saotome-kun's a hit even outside school, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15807",
+   "en": "(Okay, I'd better head home before\na grumpy Saotome-kun spots me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15808",
+   "en": "(Class is over, so all that's left is to go home.\nMan, I'm starving...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15809",
+   "en": "Hey, Alto, wanna stop by Nyan-Nyan or something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15810",
+   "en": "Nah, I've got groceries I already bought,\nso I'll pass today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15811",
+   "en": "Huh? Alto, you cook for yourself?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15812",
+   "en": "I live alone. Of course I do.\nI can't afford to waste money.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15813",
+   "en": "I can handle cooking, cleaning and laundry\nwell enough.",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15814",
+   "en": "That's amazing, Alto.\nSeriously, you'd make a great wife!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15815",
+   "en": "Hey. What did you just say?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15816",
+   "en": "I meant \"house-husband.\" Sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15817",
+   "en": "(But I still think\n\"wife\" suits him better...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15818",
+   "en": "(Class is over, so all that's left is to go home.\nGosh, I'm starving...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15819",
+   "en": "Hey, Saotome-kun, wanna stop by Nyan-Nyan\nor something?",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15820",
+   "en": "Huh? Saotome-kun, you cook for yourself?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15821",
+   "en": "That's amazing, Saotome-kun.\nSeriously, you'd make a great wife!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15822",
+   "en": "(Oh, this is one of Sheryl's songs...\nSeriously, not a day goes by\nwithout hearing a Sheryl song.)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15823",
+   "en": "Come to think of it, Alto, you used to be\nin showbiz, right? Have you ever met Sheryl?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15824",
+   "en": "Of course not.\nDon't ask such stupid questions.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15825",
+   "en": "Hmm, so you've never met her.\nI wonder what kind of girl Sheryl is?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15826",
+   "en": "Showbiz people are bound to be short-tempered,\nselfish jerks anyway.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15827",
+   "en": "(True, Alto used to be in showbiz himself,\nand he's short-tempered and loves to grandstand...\nThat explains it.)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15828",
+   "en": "Hey, you're thinking something rude,\naren't you?",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15829",
+   "en": "N-No, not at all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15830",
+   "en": "(Alto's sharp at the weirdest times.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15831",
+   "en": "(Oh, this is one of Sheryl's songs...\nSeriously, not a day goes by\nwithout hearing a Sheryl song.)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15832",
+   "en": "Come to think of it, Saotome-kun, you used to be\nin showbiz, right? Have you ever met Sheryl?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15833",
+   "en": "Hmm, so you've never met her.\nI wonder what kind of girl Sheryl is?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15834",
+   "en": "(True, Saotome-kun used to be in showbiz himself,\nand he's short-tempered and loves to grandstand...\nThat explains it.)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15835",
+   "en": "(Geez, Saotome-kun's sharp at the weirdest times.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15836",
+   "en": "(Uh-oh, Alto looks like he's in a bad mood...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15837",
+   "en": "Damn it! That Michael...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15838",
+   "en": "Did you get into another fight with Michel, Alto?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15839",
+   "en": "I'm sick and tired of his sloppy,\nhalf-assed way of doing things!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15840",
+   "en": "But from where I'm standing, you and Michel\nseem to get along pretty well.\nThey say the more you fight, the closer you are, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15841",
+   "en": "Me, get along with that guy? No way.\nCan you even imagine it?\nMichael and me, being all buddy-buddy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15842",
+   "en": "Nice work, Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15843",
+   "en": "Heh.\nIt's all thanks to your cover, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15844",
+   "en": "What are you talking about?\nIt's because you're here, Alto,\nthat I can fly with peace of mind.",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15845",
+   "en": "I'm counting on you from here on too, partner!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15846",
+   "en": "And I'm counting on you, partner!\nNo... my precious partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15847",
+   "en": "Alto......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15848",
+   "en": "Michel......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15849",
+   "en": "(I managed to imagine it... but ew, that's creepy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15850",
+   "en": "A-ny-way!\nThere's absolutely no way I'd ever\nget along with that guy!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15851",
+   "en": "(They don't look like they get along badly to me...\nIs that just my imagination?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15852",
+   "en": "(Uh-oh, Saotome-kun looks like he's in a bad mood...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15853",
+   "en": "Did you get into another fight with Michel-kun,\nSaotome-kun?",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15854",
+   "en": "But from where I'm standing, you and Michel-kun\nseem to get along pretty well.\nThey say the more you fight, the closer you are, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15855",
+   "en": "(I managed to imagine it... but ew, that's creepy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15856",
+   "en": "(They don't look like they get along badly to me...\nIs that just my imagination?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c15842-c15848: Michel/Alto lines here are the player's imagined scene (nml_alt_020), shown with real name plates; translated as earnest buddy talk so the player's \"creepy\" reaction lands. Alto says Michael (Mihaeru), Michel says Michel, as in the Japanese.",
+   "c15816/c15817: shared by both genders; \"house-husband\" for shufu (the player corrects \"bride\" to \"house-husband\"), \"wife\" for okusan.",
+   "c15777/c15787: also used in nml_rnk_019 (same player monologue); wording works in both scenes."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

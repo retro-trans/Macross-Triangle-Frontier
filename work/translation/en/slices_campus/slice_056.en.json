@@ -1,0 +1,521 @@
+{
+ "slice": 56,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c04148",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite someone to go to\nCentral Park or something.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04149",
+   "en": "Well, I was wondering if you'd want to go to\nCentral Park or something with me this weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04150",
+   "en": "Central Park, huh... Not bad.\nBut I've got something going on this weekend.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04151",
+   "en": "Yeah, I was wondering if you'd want to go to\nCentral Park or something with me this weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04152",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite someone to go see\nthe Battle Frontier or something.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04153",
+   "en": "Well, I was wondering if you'd want to go see\nthe Battle Frontier or something with me\nthis weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04154",
+   "en": "The Battle Frontier, huh...\nIt's not like I'm not interested, but...\nI'll pass this time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04155",
+   "en": "(I guess the Battle Frontier was pushing it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04156",
+   "en": "Yeah, I was wondering if you'd want to go see\nthe Battle Frontier or something with me\nthis weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04157",
+   "en": "(Okay, that's it for classes...\nMaybe I'll ask Alto to stop off somewhere\nwith me on the way home...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04158",
+   "en": "Hey, Alto. You wanna stop off somewhere\non the way home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04159",
+   "en": "Hm, \\p.\nYeah, that doesn't sound bad...\n...Oh, wait.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04160",
+   "en": "Hm? What's up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04161",
+   "en": "Ah, I've got something after this...\nSorry! Ask me again sometime, okay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04162",
+   "en": "Okay. That's too bad, but it can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04163",
+   "en": "(Well, I can always ask again.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04164",
+   "en": "(Okay, that's it for classes...\nMaybe I'll ask Saotome-kun to stop off\nsomewhere with me on the way home...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04165",
+   "en": "Hey, Saotome-kun. You wanna stop off\nsomewhere on the way home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04166",
+   "en": "Hm? What's wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04167",
+   "en": "Okay. That's too bad, but it can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04168",
+   "en": "(Well, I can always ask again.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04169",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Alto to Griffith Park\nand just take it easy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04170",
+   "en": "Yeah, I was wondering if you'd want to spend\nthe weekend with me at Griffith Park...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04171",
+   "en": "Griffith Park, huh? That might be nice.\n...Oh, wait.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04172",
+   "en": "Ah, I just remembered I've got other plans\nthis weekend... Sorry! Ask me again\nsometime, okay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04173",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Saotome-kun to Griffith Park\nand just take it easy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04174",
+   "en": "Hey, Saotome-kun. You wanna stop off\nsomewhere on the way home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04175",
+   "en": "(Okay, that's it for classes...\nMaybe I'll ask Saotome-kun to stop off\nsomewhere with me on the way home...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female-variant monologue written with the male ending (da na); the English is gender-neutral anyway."
+  },
+  {
+   "id": "c04176",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Alto to go shopping\nin Deep Akihabara...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is provisional in the glossary."
+  },
+  {
+   "id": "c04177",
+   "en": "Well, I was wondering if you'd want to go\nshopping in Deep Akihabara with me this weekend...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is provisional in the glossary."
+  },
+  {
+   "id": "c04178",
+   "en": "Deep Akihabara, huh? That might be nice\nonce in a while.\n...Oh, wait.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is provisional in the glossary."
+  },
+  {
+   "id": "c04179",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Saotome-kun to go shopping\nin Deep Akihabara...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is provisional in the glossary."
+  },
+  {
+   "id": "c04180",
+   "en": "Yeah, I was wondering if you'd want to go\nshopping in Deep Akihabara with me this weekend...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is provisional in the glossary."
+  },
+  {
+   "id": "c04181",
+   "en": "(Now, what are my plans this weekend...\nMaybe Alto and I could go see a concert\nat the Sky Gate.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04182",
+   "en": "Well, I was wondering if you'd want to go see\na concert at the Sky Gate with me this weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04183",
+   "en": "A concert, huh? If I remember right,\nthat day I've got...\n...Oh, wait.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04184",
+   "en": "(Now, what are my plans this weekend...\nMaybe Saotome-kun and I could go see a concert\nat the Sky Gate.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04185",
+   "en": "Yeah, I was wondering if you'd want to go see\na concert at the Sky Gate with me this weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04186",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Alto to go see a concert\nat the Sky Gate...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04187",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Saotome-kun to go see\na concert at the Sky Gate...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04188",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Alto to Nyan-Nyan\nor something...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04189",
+   "en": "Well, I was thinking we could go to Nyan-Nyan\nthis weekend and eat something tasty...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04190",
+   "en": "Nyan-Nyan's food, huh... That sounds good.\n...Oh, wait.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04191",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Saotome-kun to Nyan-Nyan\nor something...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04192",
+   "en": "Yeah, I was thinking we could go to Nyan-Nyan\nthis weekend and eat something tasty...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04193",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Alto to go see\nthe Macross Quarter or something...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04194",
+   "en": "Well, I was thinking, how about we go see\nthe Macross Quarter or something this weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04195",
+   "en": "Wha-?! Why do I have to go to that place\neven on my day off...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04196",
+   "en": "Nah, I'm joking, just joking...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04197",
+   "en": "Geez, that's taking a joke way too far.\nAt least let me relax on my days off...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04198",
+   "en": "Ahaha, fair enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04199",
+   "en": "(I guess the Macross Quarter was a no-go...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04200",
+   "en": "(Now, what are my plans this weekend...\nMaybe I'll invite Saotome-kun to go see\nthe Macross Quarter or something...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04201",
+   "en": "Yeah, I was thinking, how about we go see\nthe Macross Quarter or something this weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04202",
+   "en": "Um, I said I'm joking! Just joking...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04203",
+   "en": "Ufufu, fair enough.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04204",
+   "en": "(I guess the Macross Quarter was a no-go...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04205",
+   "en": "(So, where should I go today?\nI could head out somewhere far... Having tea\nwouldn't be bad either~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04206",
+   "en": "(Hmm, what should I do...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04207",
+   "en": "\\p-kun,\nwhat's up? Why are you looking all around\nlike that out here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04208",
+   "en": "Claire-senpai! Hello!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04209",
+   "en": "Mm, I like the energy.\nSo, what's up? You're looking around\nlike a tourist.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04210",
+   "en": "I was thinking of going somewhere, but...\nI don't really know this city very well...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04211",
+   "en": "Hehe, so that's why you were looking around.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04212",
+   "en": "Hmm, what should I do...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04213",
+   "en": "What do you mean?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04214",
+   "en": "All right!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04215",
+   "en": "Good old Claire-senpai here will show you\naround her favorite spots!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04216",
+   "en": "You will, Claire-senpai?!\nAll right!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04217",
+   "en": "Then let's go~!\nFollow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04218",
+   "en": "(I followed her like she told me to,\nbut where are we?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04219",
+   "en": "This is Silver Moon in San Francisco,\na cafe that's popular with students.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in the glossary; 'cafe' without the accent (Shift-JIS)."
+  },
+  {
+   "id": "c04220",
+   "en": "I hope you'll be able to bring a girl here\nsomeday, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04221",
+   "en": "If you don't have anyone, I suppose I wouldn't\nmind joining you for a cup of tea, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04222",
+   "en": "Hehe!\nOkay, on to the next spot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04223",
+   "en": "(Hmm, no matter how I look at it, this is Deep\nAkihabara... Claire-senpai sure gets around...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is provisional in the glossary."
+  },
+  {
+   "id": "c04224",
+   "en": "This is Deep Akihabara,\na town where you can find just about anything.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is provisional in the glossary."
+  },
+  {
+   "id": "c04225",
+   "en": "You might've known that already,\nbut just in case.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04226",
+   "en": "Akihabara's near Shibuya, right?\nAnd in Shibuya, if I remember right...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The male player says plain Akihabara here (the female variant says Deep Akihabara); kept as written."
+  },
+  {
+   "id": "c04227",
+   "en": "...there's Nyan-Nyan too, right?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c04149/c04153/c04177/c04182/c04189/c04194 (male, 'iya, ...') open with 'Well,' and c04151/c04156/c04170/c04180/c04185/c04192/c04201 (female, 'un, ...') with 'Yeah,': both answer the partner's 'Hm, \\p? What's up?'. The shared rows also play in the Nanase, Sheryl and Akimizu (yuu) scenes, so they name no partner.",
+   "c04159/c04171/c04178/c04183/c04190: Alto's '...tto' (catching himself as he remembers his plans) rendered '...Oh, wait.'",
+   "c04175: female-variant monologue written with the male ending (da na); the English is neutral, so it matches c04164.",
+   "c04152-c04156, c04193-c04204: Battle Frontier and Macross Quarter (mecha.json) used with 'the' as ship names.",
+   "c04215: 'kono Claire-senpai ga' (Claire naming herself) rendered 'Good old Claire-senpai here'.",
+   "c04226: the male player says plain Akihabara (the female c04251 says Deep Akihabara); kept as said.",
+   "Deep Akihabara (c04176-c04180, c04223, c04224) and Silver Moon (c04219) are provisional in locations.json. 'cafe' without the accent (Shift-JIS)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

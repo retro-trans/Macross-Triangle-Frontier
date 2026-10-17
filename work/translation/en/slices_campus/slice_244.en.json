@@ -1,0 +1,452 @@
+{
+ "slice": 244,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c17667",
+   "en": "(Ahh~ I can't wait for Sheryl's concert.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17668",
+   "en": "\\p-san,\nwhat's got you so giddy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17669",
+   "en": "Oh, Luca... It's Sheryl's concert, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17670",
+   "en": "The Galactic Fairy is coming,\nand you're not excited, Luca?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17671",
+   "en": "Well, I'm taking part in it\nin my EX-Gear, so...",
+   "flags": [],
+   "notes": "Luca performs in the EX-Gear aerial show at Sheryl's concert, as in the anime."
+  },
+  {
+   "id": "c17672",
+   "en": "Oh, right. I'm so jealous.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17673",
+   "en": "It's not as great as it sounds...\nThe pressure's giving me a stomachache...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17674",
+   "en": "That may be true,\nbut I'm still jealous.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17675",
+   "en": "If you're coming to the concert,\nplease cheer for us too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17676",
+   "en": "Yeah, of course!",
+   "flags": [],
+   "notes": "Shared with scd_com_618."
+  },
+  {
+   "id": "c17677",
+   "en": "Well then, I have practice, so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17678",
+   "en": "(Getting to be part of the concert, huh...\nI'm so jealous.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17679",
+   "en": "(Ahh~ I can't wait for Sheryl's concert.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17680",
+   "en": "Oh, Luca-kun... It's Sheryl's concert, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17681",
+   "en": "The Galactic Fairy is coming,\nand you're not excited, Luca-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17682",
+   "en": "That may be true,\nbut I'm still jealous... *sigh*...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17683",
+   "en": "(Everyone in town seems to have calmed down...\nI guess having a destination really\nmakes a difference.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17684",
+   "en": "Who's that over there...?\nHey, Luca!",
+   "flags": [],
+   "notes": "Shared with nml_luk_005 (male)."
+  },
+  {
+   "id": "c17685",
+   "en": "Looks like they've finally found a new planet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17686",
+   "en": "Yeah. I wonder what kind of planet it is.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17687",
+   "en": "They've found one, but\nwhether we can reach it is another question...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17688",
+   "en": "Is it gonna be tough?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17689",
+   "en": "I suppose so...\nThe worries never end, but we have to do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17690",
+   "en": "Yeah, let's do our best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17691",
+   "en": "Well, I'll be heading home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17692",
+   "en": "(A new planet, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17693",
+   "en": "(Everyone in town seems to have calmed down...\nI guess having a destination really\nmakes a difference.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17694",
+   "en": "Who's that over there...?\nHey, Luca-kun!",
+   "flags": [],
+   "notes": "Shared with nml_luk_005 (female)."
+  },
+  {
+   "id": "c17695",
+   "en": "Yeah. I wonder what kind of planet it is?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17696",
+   "en": "Is it gonna be tough?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17697",
+   "en": "(...I'm hungry.\nMaybe I'll go buy a late-night snack.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17698",
+   "en": "\\p-san,\nwhat are you doing out at this hour?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17699",
+   "en": "Oh, you came to the convenience store too, Luca?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17700",
+   "en": "Yes. I was so focused, I forgot about dinner...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17701",
+   "en": "What were you up to...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17702",
+   "en": "...That's a trade secret...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17703",
+   "en": "Anyway, you sure get hungry this late, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17704",
+   "en": "You do... At this hour, don't you get a crazy\ncraving for stuff that's bad for you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17705",
+   "en": "I sure do. I was gonna buy some cup ramen myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17706",
+   "en": "I'm going to buy some cup yakisoba and head home.\nSee you at school.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17707",
+   "en": "(...Cup yakisoba sounds pretty tempting too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17708",
+   "en": "Oh, you came to the convenience store too,\nLuca-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17709",
+   "en": "What were you up to...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17710",
+   "en": "Anyway, you sure get hungry this late, huh~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17711",
+   "en": "I sure do. I was gonna buy some cup ramen myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17712",
+   "en": "(...Cup yakisoba sounds pretty tempting too!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17713",
+   "en": "(...Even this place got wrecked...)",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Passive as in the Japanese; the attacker is not named in the scene."
+  },
+  {
+   "id": "c17714",
+   "en": "\\p-san,\nwhat are you doing here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17715",
+   "en": "I could ask you the same thing.\nWhat are you doing here, Luca?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17716",
+   "en": "I came to check how bad the damage is.\nThis is our town, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17717",
+   "en": "Something like this must never happen again...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17718",
+   "en": "...I'm going back now.\n\\p-san, please don't stay\nout here too long either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17719",
+   "en": "(...I'll head home too.)",
+   "flags": [],
+   "notes": "Shared with nml_myk_005."
+  },
+  {
+   "id": "c17720",
+   "en": "I could ask you the same thing.\nWhat are you doing here, Luca-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17721",
+   "en": "(...I'll head home too.)",
+   "flags": [],
+   "notes": "Shared with nml_myk_005."
+  },
+  {
+   "id": "c17722",
+   "en": "(The tests are finally over...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17723",
+   "en": "\\p-san,\nyou look pretty worn out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17724",
+   "en": "Once the tests were over,\nI kind of ran out of steam.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17725",
+   "en": "How did they go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17726",
+   "en": "...I did everything I could.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17727",
+   "en": "I hope you get good results.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17728",
+   "en": "They were a breeze for you, right, Luca?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17729",
+   "en": "Hahaha... Not really...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17730",
+   "en": "In that case, why don't we stop somewhere\non the way home to unwind?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17731",
+   "en": "Let's go to Nyan-Nyan! Your treat, Luca!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17732",
+   "en": "Wha-- Hey, wait!\nThat's not happening~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17733",
+   "en": "(Today I'm eating with Luca!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17734",
+   "en": "(The tests are finally over...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17735",
+   "en": "...I did everything I could, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17736",
+   "en": "They were a breeze for you, right, Luca-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17737",
+   "en": "Let's go to Nyan-Nyan! Your treat, Luca-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17738",
+   "en": "(Today I'm eating with Luca-kun!)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c17685/c17687: 'they've found' - the subject of mitsukatta is impersonal (the fleet's leadership); 'they' kept vague; Luca then says 'we' for reaching it.",
+   "c17713: 'Even this place got wrecked' - passive kept; who wrecked it (the Vajra attack) is not said in the scene."
+  ],
+  "kept_omission": [
+   "c17713"
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

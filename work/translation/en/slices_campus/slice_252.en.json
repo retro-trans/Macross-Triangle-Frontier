@@ -1,0 +1,442 @@
+{
+ "slice": 252,
+ "rows_in_slice": 71,
+ "rows_examined": 71,
+ "rows": [
+  {
+   "id": "c18188",
+   "en": "(Come to think of it, Michel's eyesight is too good,\nso he wears glasses to correct it, right?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18189",
+   "en": "Hm? What is it, \\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18190",
+   "en": "Michel, your eyesight's better\nwith your glasses off, right?\nJust how much can you see with the naked eye?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18191",
+   "en": "Let's see...\nWell, I can count the stars exactly, at least.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18192",
+   "en": "Huh~ That's amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18193",
+   "en": "But keeping my eyesight in check\nactually helps me out, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18194",
+   "en": "Helps you out?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18195",
+   "en": "If I could spot any more beautiful ladies,\nI'd end up hitting on even more of them.\nThese are just right for keeping that in check.",
+   "flags": [],
+   "notes": "kirei na onee-sama: 'beautiful ladies'."
+  },
+  {
+   "id": "c18196",
+   "en": "Having eyes that see too much is a real pain\nin all kinds of ways, I tell ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18197",
+   "en": "(Michel... that's not the real reason\nhe wears corrective glasses, is it?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18198",
+   "en": "(Come to think of it, Michel-kun's eyesight\nis too good, so he wears glasses\nto correct it, right?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18199",
+   "en": "Michel-kun, your eyesight's better\nwith your glasses off, right?\nJust how much can you see with the naked eye?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18200",
+   "en": "Huh~ That's amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18201",
+   "en": "(Michel-kun... that's not the real reason\nhe wears corrective glasses, is it?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18202",
+   "en": "You made fun of me again!\nGrr... You'll pay for this! Michel!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18203",
+   "en": "(Klan-senpai and Michel are fighting again...\nCome to think of it, what's the deal\nbetween those two?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18204",
+   "en": "Michel, you and Klan-senpai are pretty close.\nWhat's your relationship, anyway?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18205",
+   "en": "Me and Klan, close...?\nHow on earth do you figure that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18206",
+   "en": "I see you two goofing around together\nall the time, having fun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18207",
+   "en": "That's not goofing around.\nI'm just teasing Klan, that's all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18208",
+   "en": "(Isn't that exactly what goofing around is...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18209",
+   "en": "Besides, Klan and I are just childhood friends.\nI'm always the one looking after her.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18210",
+   "en": "Is that so?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18211",
+   "en": "Yeah, it is!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18212",
+   "en": "O-okay, I get it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18213",
+   "en": "(Michel doesn't have to deny it that hard...\nOh, maybe he's just embarrassed?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18214",
+   "en": "(Klan-senpai and Michel-kun are fighting again...\nCome to think of it, what's the deal\nbetween those two?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18215",
+   "en": "Michel-kun, you and Klan-senpai are pretty\nclose. What's your relationship, anyway?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18216",
+   "en": "O-okay, I get it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18217",
+   "en": "(Michel-kun doesn't have to deny it that hard...\nOh, maybe he's just embarrassed?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18218",
+   "en": "\\p, sorry!\nHide me for a bit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18219",
+   "en": "Miche~~l!!\nToday I'll finally bring you to justice~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18220",
+   "en": "Uh, Michel...\nWhat on earth did you do to Klan-senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18221",
+   "en": "Nothing much. I just teased her a little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18222",
+   "en": "\"A little,\" huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18223",
+   "en": "Klan's so much fun to tease, I just can't help it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18224",
+   "en": "Michel! So this is where you were!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18225",
+   "en": "Whoops, she found me...\nLater, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18226",
+   "en": "Get back here~! Michel!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18227",
+   "en": "(Geez, Michel never learns.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18228",
+   "en": "Uh, Michel-kun...\nWhat on earth did you do to Klan-senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18229",
+   "en": "(Honestly, Michel-kun never learns.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18230",
+   "en": "(Next is Gary-sensei's Practical Training.\nI'd better get ready...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18231",
+   "en": "(Hm?\nWhat's up with Michel, spacing out like that?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18232",
+   "en": "Hey, Michel.\nIf you don't get ready for the next class,\nyou'll be late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18233",
+   "en": "Hm? Ah... Right......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18234",
+   "en": "What's wrong?\nYou've been spacing out this whole time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18235",
+   "en": "It's nothing.\nI was just thinking about my sister...",
+   "flags": [],
+   "notes": "nee-san (kinship): 'my sister'; the player's reply in c18236 makes it 'older sister'."
+  },
+  {
+   "id": "c18236",
+   "en": "Your sister?\nYou have an older sister, Michel?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18237",
+   "en": "Sorry, \\p...\nTell Gary-sensei I'm skipping\nPractical Training today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18238",
+   "en": "Huh?! Oh, hey, Michel...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18239",
+   "en": "(First I've ever heard of Michel having a sister...\nWhat's gotten into him......?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18240",
+   "en": "(Next is Gary-sensei's Practical Training.\nI'd better get ready...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18241",
+   "en": "(Hm?\nWhat's up with Michel-kun,\nspacing out like that?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18242",
+   "en": "Hey, Michel-kun.\nIf you don't get ready for the next class,\nyou'll be late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18243",
+   "en": "What's wrong?\nYou've been spacing out this whole time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18244",
+   "en": "Your sister?\nYou have an older sister, Michel-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18245",
+   "en": "Huh?! Oh, wait, Michel-kun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18246",
+   "en": "(First I've ever heard of Michel-kun having\na sister... What's gotten into him......?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18247",
+   "en": "Grr... Knock it off already! Michael!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18248",
+   "en": "You need something, \\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18249",
+   "en": "Michel, you and Alto get along great.\nHow long have you two known each other?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18250",
+   "en": "I'd love to hear exactly how you figure\nwe get along, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18251",
+   "en": "I met Alto right before we graduated junior high.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18252",
+   "en": "Alto came storming into the Pilot Course\nout of nowhere, wearing a pretty dress.\nSeriously, he looked like nothing but a girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18253",
+   "en": "Well, we've been stuck with each other ever since.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18254",
+   "en": "Huh~ So that's how it was.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18255",
+   "en": "(So that's how they met...\nMaybe that's why Alto's always picking fights\nwith Michel...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18256",
+   "en": "Michel-kun, you and Saotome-kun get along\ngreat. How long have you two known each other?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18257",
+   "en": "Huh~ So that's how it was.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18258",
+   "en": "(So that's how they met...\nMaybe that's why Saotome-kun\nis always picking fights with Michel-kun...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18235/c18236: nee-san translated 'my sister' / 'an older sister' (kinship word translated per brief).",
+   "c18206/c18207/c18208: jareau rendered 'goofing around' so the player's retort in c18208 echoes it."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

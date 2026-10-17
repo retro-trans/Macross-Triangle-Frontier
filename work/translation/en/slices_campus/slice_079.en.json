@@ -1,0 +1,502 @@
+{
+ "slice": 79,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c05861",
+   "en": "No, it's nothing...\nThat's it for today. It's getting late. Go home.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05862",
+   "en": "No, but...",
+   "flags": [],
+   "notes": "Both genders, frd_hld_006/007."
+  },
+  {
+   "id": "c05863",
+   "en": "Can't you do as your teacher says?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05864",
+   "en": "(Hilda-sensei... I wonder what happened back then...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05865",
+   "en": "(Unwinding with Hilda-sensei again today.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05866",
+   "en": "Oh, \\p-chan, did I keep you waiting?",
+   "flags": [],
+   "notes": "Hilda, female version only; joking (male version c05813)."
+  },
+  {
+   "id": "c05867",
+   "en": "That's definitely true.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05868",
+   "en": "(What's she up to...?)",
+   "flags": [],
+   "notes": "Female only; subject (Hilda) restored."
+  },
+  {
+   "id": "c05869",
+   "en": "I'm a girl, though...\nOh well... One big bite!",
+   "flags": [],
+   "notes": "Female only; answers 'bite into it like a man'."
+  },
+  {
+   "id": "c05870",
+   "en": "(Oh, it's tasty! The sausage is super juicy!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05871",
+   "en": "(Yeah, the veggies are nicely balanced too, I think.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05872",
+   "en": "No, it's nothing really.",
+   "flags": [],
+   "notes": "Female; also frd_she_004 (female)."
+  },
+  {
+   "id": "c05873",
+   "en": "(Hilda-sensei... I wonder what happened back then...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05874",
+   "en": "(I was supposed to go out with Hilda-sensei today...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05875",
+   "en": "No, I haven't been waiting at all.\nSo, where are we going today?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05876",
+   "en": "Hm... let's see...\nWell, leave it to me.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05877",
+   "en": "Phew. Well, shall we head back now?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05878",
+   "en": "Sure.\nThanks for everything again today!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05879",
+   "en": "Heh. I had fun too. See you.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05880",
+   "en": "(So Hilda-sensei had fun too.\nThat kinda makes me happy.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05881",
+   "en": "(I was supposed to go out with Hilda-sensei today...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05882",
+   "en": "No, I haven't been waiting at all.\nSo, where are we going today?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05883",
+   "en": "(So Hilda-sensei had fun too.\nThat kinda makes me happy.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05884",
+   "en": "(Training today, for the first time in a while.\nWell, at Island 3 it'll feel great.)",
+   "flags": [],
+   "notes": "Male only. Island 3 per glossary (resort)."
+  },
+  {
+   "id": "c05885",
+   "en": "Hey, \\p, sorry to keep you waiting!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05886",
+   "en": "I see. Then let's get started right away.\nThere's plenty of open space today,\nso we should get some good training in.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05887",
+   "en": "Mm, good answer.\nToday I'll be even tougher on you than usual.\nSo get fired up!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05888",
+   "en": "Yes, I came prepared!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05889",
+   "en": "(Even tougher than usual... *gulp*...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05890",
+   "en": "Heh. Just kidding.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05891",
+   "en": "You're an idiot, now and forever.\nWe come all the way out here, and you think we'd train?!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05892",
+   "en": "...Meaning?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05893",
+   "en": "We're at a resort, for once! We're here to unwind.\nIt's a vacation, obviously!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05894",
+   "en": "(Whoa, dazzling!)",
+   "flags": [],
+   "notes": "Male only; reacting to Hilda in beachwear."
+  },
+  {
+   "id": "c05895",
+   "en": "Come on, today we play as hard as we can. Follow me!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05896",
+   "en": "Come on, catch me if you can!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05897",
+   "en": "Sensei, wait for me!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05898",
+   "en": "Come on, over here!\nYes, that's it!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05899",
+   "en": "Senseeei, wait for me! Senseeei!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05900",
+   "en": "Not yet, not yet! Ahahaha!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05901",
+   "en": "Shenshe~e... wai' fo'...",
+   "flags": [],
+   "notes": "Both genders; out-of-breath slurring of 'sensei, matte kudasai', cut off."
+  },
+  {
+   "id": "c05902",
+   "en": "How pathetic. Are you even trying?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05903",
+   "en": "*Pant, pant*...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05904",
+   "en": "(Sensei's going at full speed, after all...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05905",
+   "en": "Oh, honestly, you're hopeless. Rest here for a bit.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05906",
+   "en": "*Pant, pant* Sorry...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05907",
+   "en": "Now, maybe I'll join in on that.",
+   "flags": [],
+   "notes": "Hilda; 'that' is an unseen beach activity."
+  },
+  {
+   "id": "c05908",
+   "en": "Watch closely from there. I'll show you my skills.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05909",
+   "en": "Her skills at what...?",
+   "flags": [],
+   "notes": "Male only; subject (Hilda) restored."
+  },
+  {
+   "id": "c05910",
+   "en": "All right!",
+   "flags": [],
+   "notes": "x6: Hilda, also Pinon in frd_pnn_107."
+  },
+  {
+   "id": "c05911",
+   "en": "Ooh!",
+   "flags": [],
+   "notes": "Audience."
+  },
+  {
+   "id": "c05912",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05913",
+   "en": "Ooooooooh!",
+   "flags": [],
+   "notes": "Audience."
+  },
+  {
+   "id": "c05914",
+   "en": "Hah!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05915",
+   "en": "Damn, that lady's incredible! Who is she?!",
+   "flags": [],
+   "notes": "Audience; 'sugee na, ano neechan' (rough, casual)."
+  },
+  {
+   "id": "c05916",
+   "en": "Phew, I really can't move like I used to\nafter such a long break.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05917",
+   "en": "No, no, that's not true at all!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05918",
+   "en": "No, I know my own body well.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05919",
+   "en": "...Is that how it works...?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05920",
+   "en": "Back when I was a duo with that one,\nI could move much more...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hilda; 'aitsu' (a past partner, gender not given) kept neutral as 'that one'."
+  },
+  {
+   "id": "c05921",
+   "en": "Sensei, who's 'that one'?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male only; quotes Hilda's 'aitsu' (c05920)."
+  },
+  {
+   "id": "c05922",
+   "en": "Hm? Ah, just talking to myself. Never mind...",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05923",
+   "en": "Prying into my past? That's cheeky of you.\nSince when did you get so high and mighty?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05924",
+   "en": "No, I never meant it like that...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05925",
+   "en": "Well, fine. Forget that, let's enjoy the present.\nCome on! That one's next!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05926",
+   "en": "Sensei! Wait, I'm still worn out from before...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05927",
+   "en": "That was pretty fun today.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05928",
+   "en": "Yes, it was, Sensei.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05929",
+   "en": "'You play hard like this so you can work hard\ntomorrow'... Huh, that's another thing\nthat one used to say...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hilda; 'aitsu' kept neutral as in c05920."
+  },
+  {
+   "id": "c05930",
+   "en": "...Sensei?",
+   "flags": [],
+   "notes": "x4: also nml_gry_011 (to Gary)."
+  },
+  {
+   "id": "c05931",
+   "en": "Right, that's it for today. See you.",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05932",
+   "en": "(Sensei seemed a little off somehow...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05933",
+   "en": "(Training today, for the first time in a while.\nWell, at Island 3 it should feel nice, I guess.)",
+   "flags": [],
+   "notes": "Female only; the Japanese second line starts with an indent space, dropped."
+  },
+  {
+   "id": "c05934",
+   "en": "Yes! I came prepared!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05935",
+   "en": "(Even tougher than usual... Will I be okay...?)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05936",
+   "en": "...Meaning?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05937",
+   "en": "(Hilda-sensei... wow...)",
+   "flags": [],
+   "notes": "Female only; reacting to Hilda in beachwear."
+  },
+  {
+   "id": "c05938",
+   "en": "Sensei, wait up!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05939",
+   "en": "Hah... hah...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05940",
+   "en": "(Sensei's going full speed, after all...)",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c05920/c05921/c05929: Hilda's past partner 'aitsu' is not identified and has no gender in the scene; rendered 'that one' ('Sensei, who's 'that one'?') to avoid assuming he/she.",
+   "c05907/c05925: 'are' (that thing she joins) is an unseen beach activity; kept as 'that'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

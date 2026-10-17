@@ -1,0 +1,383 @@
+{
+ "slice": 87,
+ "rows_in_slice": 60,
+ "rows_examined": 60,
+ "rows": [
+  {
+   "id": "c06434",
+   "en": "(There's a rumor going around that\na new planet has been found...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06435",
+   "en": "(If that's true, our life here\nwill be coming to an end...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06436",
+   "en": "Sigh...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Shared by the player, Yamashiro scene, Kagura (frd_kgr_112), Michel and Ranka (frd_rnk_005/008) and Hilda (nml_hld_008); 'Sigh...' fits all (Ranka's is followed by the player noticing her sigh)."
+  },
+  {
+   "id": "c06437",
+   "en": "What's wrong, \\p?\nYou're making a strange face.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06438",
+   "en": "Wait, a strange face?\nThat's harsh!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06439",
+   "en": "I'm joking.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06440",
+   "en": "That didn't sound like a joke at all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06441",
+   "en": "That aside, what's wrong?\nIs something bothering you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06442",
+   "en": "It's not really bothering me, exactly.\nI was just thinking how we'll be\nreaching the new planet soon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06443",
+   "en": "Once we reach the new planet,\na new life begins. The Academy isn't going\naway, but our days will be different.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06444",
+   "en": "What will you do once we reach the new\nplanet, Sensei? Will you keep your\ncurrent job?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06445",
+   "en": "I don't know.\nBut there is something I'd like to try.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06446",
+   "en": "What about you?\nDon't you have a dream for the future?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06447",
+   "en": "I've got things I'd like to try, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06448",
+   "en": "I do, but they're all kind of vague...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06449",
+   "en": "What do you want to do, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06450",
+   "en": "I'm thinking of opening a museum.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06451",
+   "en": "A museum...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06452",
+   "en": "Nothing grand, of course.\nJust something on the scale\nof a private exhibition.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06453",
+   "en": "Wow, that's amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06454",
+   "en": "If I could leave the wisdom and history\nhumanity has built up on the new planet,\nin a form people can see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06455",
+   "en": "Not that I was thinking anything like that\nwhile I was collecting, mind you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06456",
+   "en": "You should start sorting out your own\nthoughts now, too. If I can be of help,\nI'll gladly give you advice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06457",
+   "en": "Yes, I'd really appreciate that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06458",
+   "en": "There's no need to rush.\nYou're still young, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06459",
+   "en": "(Something I'd like to try...\nA dream, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06460",
+   "en": "(There's a rumor that\na new planet has been found...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06461",
+   "en": "(If so, our life here will be over,\nwon't it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06462",
+   "en": "Hey, calling it a strange face\nis so mean!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06463",
+   "en": "That really didn't sound like a joke...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06464",
+   "en": "It's not really a worry, but...\nI was just thinking we'll be reaching\nthe new planet soon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06465",
+   "en": "I have things I'd like to try, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06466",
+   "en": "Wow~, that's amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06467",
+   "en": "(The view from the roof is the best.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06468",
+   "en": "You're not old enough to be brooding\nat the sunset just yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06469",
+   "en": "S-Sensei!\nWhen did you get here...!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06470",
+   "en": "'When did you get here' is rude.\nI was here before you were.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06471",
+   "en": "Seriously!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06472",
+   "en": "Anyway, if something's bothering you,\ntry telling me. I'll give you advice,\nif I can be of help.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06473",
+   "en": "I don't really have any worries, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06474",
+   "en": "Then tell me how things have been lately.\nTalking to someone helps you\nput information in order.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06475",
+   "en": "Sounds like you've been leading\na full life.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06476",
+   "en": "I can't really tell myself, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06477",
+   "en": "We'll reach the new planet before long.\nTackle everything with a positive attitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06478",
+   "en": "(A positive attitude, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06479",
+   "en": "(The view from the roof is just wonderful.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06480",
+   "en": "Really!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06481",
+   "en": "(We arrived at the new planet,\nand a new life began.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06482",
+   "en": "(Yamashiro-sensei made his dream come\ntrue and opened a museum that's like\na little antique shop.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06483",
+   "en": "(As for me, I'm still a student,\nsearching for my dream for the future.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06484",
+   "en": "(Someday I want to make my dream come\ntrue, just like Yamashiro-sensei.\nI feel that more strongly every day.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06485",
+   "en": "Yamashiro-sensei, what's up?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ending scene; who came to whom is not shown. 'what's up?' stays neutral."
+  },
+  {
+   "id": "c06486",
+   "en": "I've made my dream come true.\nNow it's your turn.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06487",
+   "en": "Yes!\nI'll be counting on your advice!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06488",
+   "en": "Yamashiro ending (male).\nSlot filler for female.",
+   "flags": [],
+   "notes": "Developer placeholder under Alto's name plate (female branch of the male-only ending frd_itk_009); translated literally, as c04107."
+  },
+  {
+   "id": "c06489",
+   "en": "Yamashiro ending (female).\nSlot filler for male.",
+   "flags": [],
+   "notes": "Developer placeholder under Alto's name plate (male branch of the female-only ending frd_itk_010); translated literally, as c04107."
+  },
+  {
+   "id": "c06490",
+   "en": "(Yamashiro-sensei made his dream come\ntrue and opened a museum that's like\na little antique shop.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06491",
+   "en": "(As for me, I'm still a student,\nsearching for my dream for the future.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06492",
+   "en": "(Someday I want to make my dream come\ntrue, just like Yamashiro-sensei.\nI feel it so strongly...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06493",
+   "en": "Yes!\nPlease keep guiding me from now on, too!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c06436 'Sigh...' is shared by Yamashiro's scene (player), Kagura (frd_kgr_112), Michel and Ranka (frd_rnk_005/008) and Hilda (nml_hld_008); chose 'Sigh...' as the reading that fits all.",
+   "c06439 'I'm joking.' (Yamashiro) also closes his teasing in frd_itk_113 and frd_itk_116.",
+   "c06485: ending scene, it is not shown who came to whom; 'Yamashiro-sensei, what's up?' keeps it open.",
+   "c06488/c06489: developer placeholder text under Alto's name plate (unused gender branch of the endings); translated literally, as c04107 was in an earlier slice.",
+   "c06468: tasogareru (brooding in the twilight) rendered 'brooding at the sunset'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,460 @@
+{
+ "slice": 126,
+ "rows_in_slice": 74,
+ "rows_examined": 74,
+ "rows": [
+  {
+   "id": "c09266",
+   "en": "Well, as long as you're okay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09267",
+   "en": "(...The breeze feels nice.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09268",
+   "en": "Huh, it's Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09269",
+   "en": "I see. Same as me, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09270",
+   "en": "...Hey, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09271",
+   "en": "Let's keep our spirits up, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09272",
+   "en": "Well, as long as you're okay...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09273",
+   "en": "Yo, Luca. Long time no see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09274",
+   "en": "You look well,\n\\p-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09275",
+   "en": "You too, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09276",
+   "en": "Thankfully, my days have been\nvery fulfilling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09277",
+   "en": "So you spend your rare days off\nmaintaining 'Samson', huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09278",
+   "en": "Yes.\nIf I get too busy and don't give it attention,\nit gets in a bad mood, you see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09279",
+   "en": "Is that how it works...?",
+   "flags": [],
+   "notes": "Shared with frd_yuu_005 (player to Akimizu, answered 'Yes, that's how it is'); works for both."
+  },
+  {
+   "id": "c09280",
+   "en": "Is something wrong?",
+   "flags": [],
+   "notes": "Shared with Shirakawa in frd_myk_003 (player staring at her); works for both."
+  },
+  {
+   "id": "c09281",
+   "en": "N-no, nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09282",
+   "en": "You look like you're having fun, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09283",
+   "en": "Yes, very much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09284",
+   "en": "Want me to help?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09285",
+   "en": "No, thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09286",
+   "en": "Now, now, don't be shy...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09287",
+   "en": "Honestly! What if it breaks?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09288",
+   "en": "Uh, could you not talk like\nI'm going to break it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09289",
+   "en": "No way!\nI won't let you lay a finger on Samson!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09290",
+   "en": "Aw, come on, just a little bit is fine...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09291",
+   "en": "It is not fine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09292",
+   "en": "You're so stubborn...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09293",
+   "en": "Then I'm happy to be stubborn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09294",
+   "en": "Oh well. Let's wrap this up fast\nand go flying!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09295",
+   "en": "Luca ending (male).\nSlot filler for female.",
+   "flags": [],
+   "notes": "Developer filler text (name plate Alto), worded like the other ending fillers (c06488)."
+  },
+  {
+   "id": "c09296",
+   "en": "Luca ending (female).\nSlot filler for male.",
+   "flags": [],
+   "notes": "Developer filler text (name plate Alto), worded like the other ending fillers (c06488)."
+  },
+  {
+   "id": "c09297",
+   "en": "Hey, Luca-kun, long time no see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09298",
+   "en": "You too, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09299",
+   "en": "Spending your rare days off\nmaintaining 'Samson'?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09300",
+   "en": "N-no, nothing at all! Yep!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09301",
+   "en": "You look like you're having fun, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09302",
+   "en": "Want me to help out?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09303",
+   "en": "Aw, come on, just a little bit...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09304",
+   "en": "What's that supposed to mean?\nDon't talk like I'm going to break it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09305",
+   "en": "It is not fine!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09306",
+   "en": "Oh, whatever. Let's wrap this up fast\nand go flying!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09307",
+   "en": "(The hot dogs here are something else.\nI could eat any number of them.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09308",
+   "en": "Huh, \\p-san...\nWhat are you doing here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09309",
+   "en": "Hey, Luhka...\nYou here fo' hah-dahgs too?",
+   "flags": [],
+   "notes": "Player talking with a mouthful: garbled 'Hey, Luca... you here for hot dogs too?'"
+  },
+  {
+   "id": "c09310",
+   "en": "Honestly... talking with your mouth full\nis so unseemly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09311",
+   "en": "Besides, I don't eat hot dogs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09312",
+   "en": "*gulp*...\nAww, but they're so good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09313",
+   "en": "I've only just eaten.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09314",
+   "en": "So, what are you doing out here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09315",
+   "en": "Eating my way around town\nfor a change of pace, I guess?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09316",
+   "en": "...If you eat nothing but junk food,\nyou'll get fat, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09317",
+   "en": "It's fine, I'll just exercise it off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09318",
+   "en": "Well, if you say so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09319",
+   "en": "So with that, let's go train, Luca!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09320",
+   "en": "H-hey, wait!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09321",
+   "en": "(The hot dogs here are something else.\nI could eat any number of them.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09322",
+   "en": "Hey, Luhka-hun...\nLuhka-hun, you here fo' hah-dahgs too?",
+   "flags": [],
+   "notes": "Garbled mouthful; the -kun is garbled to '-hun' as the Japanese garbles it."
+  },
+  {
+   "id": "c09323",
+   "en": "Eating my way around town\nfor a change of pace, of course!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09324",
+   "en": "I-I'll exercise it off, so it's fine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09325",
+   "en": "So with that, let's go train, Luca-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09326",
+   "en": "(Today I went around having fun with Luca.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09327",
+   "en": "The hot dogs here are delicious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09328",
+   "en": "Right?\nI could eat any number of them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09329",
+   "en": "Well, one is plenty for me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09330",
+   "en": "Don't say that.\nTry this Chili-Chili Dog too!",
+   "flags": [],
+   "notes": "chirichiri doggu without 'super': 'Chili-Chili Dog' (glossary has Super Chili-Chili Dog)."
+  },
+  {
+   "id": "c09331",
+   "en": "I don't want it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09332",
+   "en": "S-stop it! Don't put it in my mouth!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09333",
+   "en": "Delicious, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09334",
+   "en": "It was so good you're speechless, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09335",
+   "en": "...I just lost my voice, that's all...",
+   "flags": [],
+   "notes": "Luca corrects 'speechless' (kotoba ga denai) to 'my voice won't come out' (koe ga denai): the chili."
+  },
+  {
+   "id": "c09336",
+   "en": "Hahaha, you're so dramatic, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09337",
+   "en": "(Today I went around having fun with Luca-kun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09338",
+   "en": "It was so good you're speechless, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09339",
+   "en": "Ahaha, you're so dramatic, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c09295/c09296: developer filler lines (name plate Alto) translated as filler, in the style of c06488.",
+   "c09330: chirichiri doggu without 'super' rendered 'Chili-Chili Dog'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

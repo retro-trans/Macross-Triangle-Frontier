@@ -1,0 +1,416 @@
+{
+ "slice": 61,
+ "rows_in_slice": 66,
+ "rows_examined": 66,
+ "rows": [
+  {
+   "id": "c04530",
+   "en": "(Claire-senpai is all smiles today.\nI wonder if something good happened?)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04531",
+   "en": "You're in a good mood, Claire-senpai.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c04532",
+   "en": "Well, the movie was fun,\nand the tea is delicious too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04533",
+   "en": "Last time was a total disaster, after all.",
+   "flags": [],
+   "notes": "Refers to frd_cla_005 (the outing went wrong)."
+  },
+  {
+   "id": "c04534",
+   "en": "Don't bring that up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04535",
+   "en": "Oh-ho? \\p!\nAnd Claire-senpai too!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04536",
+   "en": "Hm?\nHoshimura? What are you doing in a place like this?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04537",
+   "en": "I got hungry, so I came to buy maguro buns.\nThe ones here are sooo deee-licious, y'know!",
+   "flags": [],
+   "notes": "Yui's playful slurred 'oisui'."
+  },
+  {
+   "id": "c04538",
+   "en": "They really are good, huh.\nI mean to grab a quick bite, but I end up\neating a whole bunch.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04539",
+   "en": "Yup, yup, that's just how it is!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04540",
+   "en": "These things, y'know? There's gotta be\nsomething inside 'em that makes you\neat a bunch. For sure.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04541",
+   "en": "I know, I know.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04542",
+   "en": "Right? Right!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04543",
+   "en": "Ahem!!",
+   "flags": [],
+   "notes": "Claire's pointed cough."
+  },
+  {
+   "id": "c04544",
+   "en": "Claire-senpai, is something wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04545",
+   "en": "A bit of maguro bun just got stuck\nin my throat, that's all.",
+   "flags": [],
+   "notes": "Claire switches to stiff polite form (desu): a pointed excuse."
+  },
+  {
+   "id": "c04546",
+   "en": "That's no good~\nYou've gotta chew properly!",
+   "flags": [],
+   "notes": "Yui to Claire."
+  },
+  {
+   "id": "c04547",
+   "en": "Aren't you the one who's always\ntelling me that?",
+   "flags": [],
+   "notes": "Male only. Direction: Claire is always warning the player (to chew properly)."
+  },
+  {
+   "id": "c04548",
+   "en": "You're always getting scolded\nabout stuff like that!?",
+   "flags": [],
+   "notes": "Yui to the player."
+  },
+  {
+   "id": "c04549",
+   "en": "Claire-senpai's just like a mom!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04550",
+   "en": "M-mom...!?!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04551",
+   "en": "H-hey, Hoshimura...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04552",
+   "en": "Oh, looks like my maguro buns are ready.\nWell, see ya~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04553",
+   "en": "Um, well...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04554",
+   "en": "You and Yui-chan seem close.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04555",
+   "en": "Huh? You think so?\nI'd say we're just... normal, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04556",
+   "en": "I guess you'd rather hang out with someone\nyour own age after all...",
+   "flags": [],
+   "notes": "Shared by both genders: kept neutral."
+  },
+  {
+   "id": "c04557",
+   "en": "Shall we get going too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04558",
+   "en": "(She was so cheerful until a minute ago...\nWhat's gotten into Claire-senpai?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04559",
+   "en": "I had fun today.\nLet's go out again sometime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04560",
+   "en": "Yes, I'll get in touch!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04561",
+   "en": "Okay, I'll be waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04562",
+   "en": "(Ah, she's gone...\nShe stayed down right to the very end...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04563",
+   "en": "(Claire-senpai seems to be in a good mood\nall day today. I wonder if something good\nhappened?)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04564",
+   "en": "Oh-ho? \\p-cchi!\nAnd Claire-senpai too!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female only. Yui's cutesy nickname suffix -cchi kept like an honorific (no precedent in finished slices)."
+  },
+  {
+   "id": "c04565",
+   "en": "Oh, Yui!\nWhat are you doing here?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04566",
+   "en": "Yeah, yeah, they're so good~\nI mean to grab a quick bite,\nbut I always end up having a bunch more.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04567",
+   "en": "Yeah, yeah!\nThey're totally addictive!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04568",
+   "en": "Aren't you the one who's always\ntelling me that?",
+   "flags": [],
+   "notes": "Female only; same as the male line c04547."
+  },
+  {
+   "id": "c04569",
+   "en": "Y-Yui!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04570",
+   "en": "Okay, I'll get in touch.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04571",
+   "en": "(Nyan-Nyan's uniforms really are cute...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c04572",
+   "en": "What's with that face?\nOgling them like that...",
+   "flags": [],
+   "notes": "Hana no shita wo nobasu (ogling). Shared by both genders."
+  },
+  {
+   "id": "c04573",
+   "en": "Huh! N-no, it's n-nothing...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04574",
+   "en": "I bet you were thinking the Nyan-Nyan\nwaitresses are cuter than someone like me\nanyway, weren't you?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Tenin-san = shop staff; 'waitresses' inferred from the cute uniform the player was admiring."
+  },
+  {
+   "id": "c04575",
+   "en": "Th-there's no way I'd think that, honestly...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04576",
+   "en": "Yeah, right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04577",
+   "en": "Cl-Claire-senpai~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04578",
+   "en": "Hmph! Not listening!",
+   "flags": [],
+   "notes": "Tsuun: turning up her nose in a sulk."
+  },
+  {
+   "id": "c04579",
+   "en": "Th-the maguro buns were good, weren't they...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04580",
+   "en": "Were they...?\nI liked the sesame balls better.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04581",
+   "en": "...O-oh, okay...",
+   "flags": [],
+   "notes": "Consistent with c00353."
+  },
+  {
+   "id": "c04582",
+   "en": "Hmph!",
+   "flags": [],
+   "notes": "x6: Claire here, Alto in nml_alt_018/020."
+  },
+  {
+   "id": "c04583",
+   "en": "C-come on, please don't be mad...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04584",
+   "en": "I'm not angry or anything!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04585",
+   "en": "(She's totally furious...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04586",
+   "en": "(...Ugh, this is embarrassing, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04587",
+   "en": "...Y-you're way prettier, Senpai.\nI'm always captivated by you.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04588",
+   "en": "...O-oh, is that so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04589",
+   "en": "Heh~ I see, I see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04590",
+   "en": "(Oh, she's in a good mood again.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04591",
+   "en": "Well then, see you later!",
+   "flags": [],
+   "notes": "x4: Claire here, Ranka in frd_rnk_008. Consistent with c01557."
+  },
+  {
+   "id": "c04592",
+   "en": "(Ah, she's gone...\nMaybe Senpai was embarrassed too?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04593",
+   "en": "I'm NOT angry at all!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04594",
+   "en": "(She's totally furious...)",
+   "flags": [],
+   "notes": "Female only; the Japanese is polite in the monologue, no effect in English."
+  },
+  {
+   "id": "c04595",
+   "en": "...Y-you're way prettier, Senpai!\nI'm always admiring you!",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c04564: player name + cchi nickname suffix rendered '\\p-cchi' (Yui's cutesy suffix kept like an honorific; no precedent found)",
+   "c04574: tenin-san rendered 'waitresses' (inferred from the Nyan-Nyan uniform)"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

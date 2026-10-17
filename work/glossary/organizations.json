@@ -1,0 +1,1015 @@
+{
+ "_meta": {
+  "version": "0.1.0",
+  "updated": "2026-10-16",
+  "spelling_policy": "Macross Wiki (macross.fandom.com) article titles. Japanese forms are taken from the ja.wikipedia game article where it lists them.",
+  "seeded_from": "Macross Ultimate Frontier glossary (base) + Macross Ace Frontier glossary, merged by tools/glossary_seed.py",
+  "game_source": "https://ja.wikipedia.org/wiki/マクロスエースフロンティア",
+  "game_source_en": "https://macross.fandom.com/wiki/Macross_Ace_Frontier",
+  "fields": {
+   "af_uses": "How many Ace Frontier text entries (EBOOT, mission scripts, unit lists) contain the Japanese name or one of its ja_aliases. 0 = not in the dumped text; the name can still be heard in voice clips",
+   "tf_uses": "How many Triangle Frontier text entries outside the campus mode (EBOOT, menu CSVs, mission scripts, unit lists) contain the Japanese name or a ja_aliases form. 0 = not in the dumped text; it can still be heard in voice clips",
+   "tf_campus_uses": "How many campus event script lines contain the name",
+   "muf_role": "Role in Macross Ultimate Frontier, kept from the MUF glossary"
+  }
+ },
+ "organizations": [
+  {
+   "id": "un_forces",
+   "en": "U.N. Forces",
+   "ja": "地球統合軍",
+   "aliases": [
+    "United Nations Military",
+    "統合軍 (short form, used 54x in game)"
+   ],
+   "avoid": [
+    "Earth United Army"
+   ],
+   "description": "Military of the United Nations Government (Zero / SDF era).",
+   "sources": [
+    "https://macross.fandom.com/wiki/United_Nations_Military"
+   ],
+   "notes": "Wiki article: 'United Nations Military'. Use the short 'U.N. Forces' in UI/dialogue.",
+   "ja_aliases": [
+    "統合軍"
+   ],
+   "af_uses": 39,
+   "tf_uses": 83,
+   "tf_campus_uses": 67
+  },
+  {
+   "id": "un_government",
+   "en": "U.N. Government",
+   "ja": "地球統合政府",
+   "aliases": [
+    "United Nations Government"
+   ],
+   "avoid": [],
+   "description": "Unified Earth government formed after the ASS-1 crash.",
+   "sources": [
+    "https://macross.fandom.com/wiki/United_Nations_Government"
+   ],
+   "notes": "",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "un_spacy",
+   "en": "U.N. Spacy",
+   "ja": "統合宇宙軍",
+   "aliases": [],
+   "avoid": [
+    "UN Spacy",
+    "UNSpacy"
+   ],
+   "description": "Space military branch of the U.N. Forces.",
+   "sources": [
+    "https://macross.fandom.com/wiki/U.N._Spacy"
+   ],
+   "notes": "",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "new_un_forces",
+   "en": "New U.N. Forces",
+   "ja": "新統合軍",
+   "aliases": [],
+   "avoid": [],
+   "description": "Post-Space War I military of the New U.N. Government (parallel to 統合軍 → U.N. Forces).",
+   "sources": [
+    "https://macross.fandom.com/wiki/New_United_Nations_Spacy"
+   ],
+   "notes": "Decided 2026-10-15 to resolve a brief/glossary conflict: 新統合軍 → 'New U.N. Forces', 新統合宇宙軍 → 'New U.N. Spacy'.",
+   "status": "decided",
+   "af_uses": 15,
+   "tf_uses": 12,
+   "tf_campus_uses": 66
+  },
+  {
+   "id": "nuns",
+   "en": "New U.N. Spacy",
+   "ja": "新統合宇宙軍",
+   "aliases": [
+    "N.U.N.S.",
+    "New United Nations Spacy"
+   ],
+   "avoid": [],
+   "description": "Post-Space War I military (Plus / 7 / Frontier eras). The MUF original characters belong to its Special Forces.",
+   "sources": [
+    "https://macross.fandom.com/wiki/New_United_Nations_Spacy"
+   ],
+   "notes": "Space branch only. The game's usual 新統合軍 is the whole military: see new_un_forces.",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "anti_un",
+   "en": "Anti-U.N. Forces",
+   "ja": "反統合同盟",
+   "aliases": [
+    "Anti-U.N.",
+    "反統合同盟軍",
+    "反統合軍"
+   ],
+   "avoid": [
+    "Anti-Unification Alliance"
+   ],
+   "description": "Opponents of the U.N. Government in the Unification Wars (Macross Zero).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Anti-U.N._Forces"
+   ],
+   "notes": "",
+   "af_uses": 8,
+   "tf_uses": 42,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "zentradi",
+   "en": "Zentradi",
+   "ja": "ゼントラーディ",
+   "aliases": [
+    "Zentradi Army (ゼントラーディ軍)",
+    "Zentran"
+   ],
+   "avoid": [
+    "Zentraedi",
+    "Zentradie"
+   ],
+   "description": "Giant warrior race created by the Protoculture.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Zentradi"
+   ],
+   "notes": "'Zentraedi' is Robotech: never use.",
+   "af_uses": 87,
+   "tf_uses": 114,
+   "tf_campus_uses": 23
+  },
+  {
+   "id": "meltrandi",
+   "en": "Meltrandi",
+   "ja": "メルトランディ",
+   "aliases": [
+    "Meltran"
+   ],
+   "avoid": [
+    "Meltlandi"
+   ],
+   "description": "Female Zentradi (a separate faction in DYRL).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Meltrandi_(Faction)"
+   ],
+   "notes": "",
+   "af_uses": 1,
+   "tf_uses": 13,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "boddole_zer_main_fleet",
+   "en": "Boddole Zer Main Fleet",
+   "ja": "ボドル基幹艦隊",
+   "aliases": [],
+   "avoid": [],
+   "description": "Golg Boddole Zer's main Zentradi fleet.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Golg_Boddole_Zer"
+   ],
+   "notes": "ja form not confirmed. ボドルザー艦隊 / ゴル・ボドルザー艦隊 (and the typo ボドルザ艦隊) in mission text: 'Boddole Zer's fleet' / 'Golg Boddole Zer's fleet'.",
+   "af_uses": 3,
+   "ja_aliases": [
+    "ボドルザー艦隊",
+    "ゴル・ボドルザー艦隊",
+    "ボドルザ艦隊"
+   ],
+   "tf_added": true,
+   "tf_uses": 4,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "supervision_army",
+   "en": "Supervision Army",
+   "ja": "監察軍",
+   "aliases": [],
+   "avoid": [],
+   "description": "Faction that built the ship that became the SDF-1.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Supervision_Army"
+   ],
+   "notes": "",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "protoculture",
+   "en": "Protoculture",
+   "ja": "プロトカルチャー",
+   "aliases": [],
+   "avoid": [],
+   "description": "Ancient precursor race; also an exclamation used by Zentradi.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Protoculture"
+   ],
+   "notes": "",
+   "af_uses": 6,
+   "tf_uses": 3,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "skull_squadron",
+   "en": "Skull Squadron",
+   "ja": "スカル小隊",
+   "aliases": [
+    "Skull"
+   ],
+   "avoid": [
+    "Skull Platoon"
+   ],
+   "description": "Name used by Roy Focker's unit (Zero/SDF) and Ozma's S.M.S. unit (Frontier).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Skull_Squadron"
+   ],
+   "notes": "小隊 is translated 'Squadron' here for consistency with the wiki, even though it literally means platoon/flight. Ｓスカル小隊 = S.M.S. Skull Squadron.",
+   "af_uses": 6,
+   "ja_aliases": [
+    "Ｓスカル小隊"
+   ],
+   "tf_added": true,
+   "tf_uses": 10,
+   "tf_campus_uses": 3
+  },
+  {
+   "id": "pixie_team",
+   "en": "Pixie Team",
+   "ja": "ピクシー小隊",
+   "aliases": [
+    "Pixie Squadron",
+    "Pixie Platoon"
+   ],
+   "avoid": [],
+   "description": "S.M.S. all-Meltrandi Queadluun-Rhea team led by Klan Klang.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Pixie_Team"
+   ],
+   "notes": "",
+   "af_uses": 6,
+   "ja_aliases": [
+    "Ｓピクシー小隊"
+   ],
+   "tf_added": true,
+   "tf_uses": 22,
+   "tf_campus_uses": 3
+  },
+  {
+   "id": "sms",
+   "en": "S.M.S.",
+   "ja": "S.M.S",
+   "aliases": [
+    "Strategic Military Services"
+   ],
+   "avoid": [
+    "SMS"
+   ],
+   "description": "Private military company in the Frontier fleet.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Strategic_Military_Services"
+   ],
+   "notes": "",
+   "ja_aliases": [
+    "Ｓ．Ｍ．Ｓ"
+   ],
+   "af_uses": 19,
+   "tf_uses": 42,
+   "tf_campus_uses": 97
+  },
+  {
+   "id": "diamond_force",
+   "en": "Diamond Force",
+   "ja": "ダイヤモンドフォース",
+   "aliases": [],
+   "avoid": [],
+   "description": "Elite Macross 7 VF squadron (Gamlin, Kinryu, Docker).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Diamond_Force"
+   ],
+   "notes": "",
+   "af_uses": 1,
+   "tf_uses": 11,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "emerald_force",
+   "en": "Emerald Force",
+   "ja": "エメラルドフォース",
+   "aliases": [],
+   "avoid": [],
+   "description": "Escort unit for Sound Force, led by Docker.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Docker"
+   ],
+   "notes": "",
+   "af_uses": 0,
+   "tf_uses": 6,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "fire_bomber",
+   "en": "Fire Bomber",
+   "ja": "ファイヤーボンバー",
+   "aliases": [
+    "FIRE BOMBER"
+   ],
+   "avoid": [
+    "Fire Bomer"
+   ],
+   "description": "Basara's rock band (Basara, Mylene, Ray, Veffidas).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Fire_Bomber"
+   ],
+   "notes": "",
+   "ja_aliases": [
+    "ＦＩＲＥ　ＢＯＭＢＥＲ",
+    "Ｆｉｒｅ　Ｂｏｍｂｅｒ",
+    "ファイアーボンバー"
+   ],
+   "af_uses": 8,
+   "tf_uses": 19,
+   "tf_campus_uses": 13
+  },
+  {
+   "id": "sound_force",
+   "en": "Sound Force",
+   "ja": "サウンドフォース",
+   "aliases": [],
+   "avoid": [],
+   "description": "Fire Bomber's tactical unit fighting with Song Energy.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Sound_Force"
+   ],
+   "notes": "",
+   "af_uses": 3,
+   "tf_uses": 4,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "protodeviln",
+   "en": "Protodeviln",
+   "ja": "プロトデビルン",
+   "aliases": [],
+   "avoid": [
+    "Proto Devilin",
+    "Protodevilin"
+   ],
+   "description": "Energy beings that feed on Spiritia; Macross 7 antagonists.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Protodeviln"
+   ],
+   "notes": "",
+   "af_uses": 31,
+   "tf_uses": 38,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "varauta_army",
+   "en": "Varauta Army",
+   "ja": "バロータ軍",
+   "aliases": [
+    "Varauta"
+   ],
+   "avoid": [
+    "Barota",
+    "Valauta"
+   ],
+   "description": "Brainwashed army serving the Protodeviln.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Varauta"
+   ],
+   "notes": "",
+   "af_uses": 28,
+   "tf_uses": 48,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "zolan_star_patrol",
+   "en": "Zolan Star Patrol",
+   "ja": "ゾラ・パトロール",
+   "aliases": [
+    "Zola Patrol"
+   ],
+   "avoid": [],
+   "description": "Zola's patrol force (Liza Hoilie).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Liza_Hoilie"
+   ],
+   "notes": "ja form not confirmed; game unit name is 'パトロール隊仕様'. MUF shipped 'Zolan Star Patrol' for ゾラ星パトロール隊 (muf_tm).",
+   "af_uses": 0,
+   "ja_aliases": [
+    "ゾラ星パトロール隊"
+   ],
+   "tf_added": true,
+   "tf_uses": 4,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "poachers",
+   "en": "poachers",
+   "ja": "密漁団",
+   "aliases": [
+    "poaching gang"
+   ],
+   "avoid": [],
+   "description": "Galaxy Whale poachers in Dynamite 7.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Zolan"
+   ],
+   "notes": "Common noun: lowercase.",
+   "af_uses": 0,
+   "tf_uses": 24,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "vf_x_ravens",
+   "en": "VF-X Ravens",
+   "ja": "VF-Xレイヴンズ",
+   "aliases": [
+    "Ravens",
+    "727th AVF Special Corps"
+   ],
+   "avoid": [],
+   "description": "U.N. Spacy special-ops VF squadron (Macross VF-X2).",
+   "sources": [
+    "https://macross.fandom.com/wiki/VF-X_Ravens"
+   ],
+   "notes": "ja.wikipedia: 特務部隊VF-Xレイヴンズ → 'special forces unit VF-X Ravens'.",
+   "af_uses": 0,
+   "tf_uses": 2,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "vindirance",
+   "en": "Vindirance",
+   "ja": "ビンディランス",
+   "aliases": [],
+   "avoid": [
+    "Vindiranse",
+    "Bindirance"
+   ],
+   "description": "Anti-government organization in Macross VF-X2, led by Mariafokina Barnrose.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Vindirance"
+   ],
+   "notes": "",
+   "af_uses": 0,
+   "tf_uses": 6,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "mardook",
+   "en": "Mardook",
+   "ja": "マルドゥーク",
+   "aliases": [
+    "Mardook Army (マルドゥーク軍)"
+   ],
+   "avoid": [
+    "Marduk"
+   ],
+   "description": "Macross II antagonists who enslave Zentradi.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Mardook"
+   ],
+   "notes": "Wiki intro mentions 'commonly known as Marduk' but the article title is 'Mardook'.",
+   "af_uses": 0,
+   "tf_uses": 39,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "moon_island_platoon",
+   "en": "Moon Island Platoon",
+   "ja": "ムーンアイランド",
+   "aliases": [
+    "Moon Island"
+   ],
+   "avoid": [],
+   "description": "Codename of the New U.N. Spacy Special Forces unit made up of the MUF original characters.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Macross_Ultimate_Frontier",
+    "https://ja.wikipedia.org/wiki/マクロスアルティメットフロンティア"
+   ],
+   "notes": "Extra mission title: ムーンアイランド・プラトーン → 'Moon Island Platoon'.",
+   "af_uses": 0,
+   "ja_aliases": [
+    "ムーンアイランド小隊"
+   ],
+   "tf_added": true,
+   "tf_uses": 10,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "frontier_fleet",
+   "en": "Macross Frontier fleet",
+   "ja": "マクロス・フロンティア船団",
+   "aliases": [
+    "Frontier fleet",
+    "55th Long Distance Colony Fleet"
+   ],
+   "avoid": [],
+   "description": "Colony fleet led by the Battle Frontier (Macross F).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Macross_Frontier_(Spacecraft)",
+    "https://macross.fandom.com/wiki/55th_Long_Distance_Colony_Fleet"
+   ],
+   "notes": "AF's Battle Frontier profile calls the fleet 第２１次新マクロス級移民船団 ('21st New Macross-class emigrant fleet'). Most sources number Frontier the 25th; check before translating that line.",
+   "ja_aliases": [
+    "フロンティア船団",
+    "マクロスフロンティア船団"
+   ],
+   "af_uses": 4,
+   "status": "needs_check",
+   "tf_uses": 9,
+   "tf_campus_uses": 21
+  },
+  {
+   "id": "galaxy_fleet",
+   "en": "Macross Galaxy fleet",
+   "ja": "マクロス・ギャラクシー船団",
+   "aliases": [
+    "Galaxy fleet",
+    "51st Long Distance Colony Fleet"
+   ],
+   "avoid": [],
+   "description": "Cyborg-heavy colony fleet that Sheryl, Grace and Brera come from.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Macross_Galaxy"
+   ],
+   "notes": "",
+   "af_uses": 0,
+   "ja_aliases": [
+    "ギャラクシー船団"
+   ],
+   "tf_added": true,
+   "tf_uses": 9,
+   "tf_campus_uses": 11
+  },
+  {
+   "id": "macross7_fleet",
+   "en": "Macross 7 fleet",
+   "ja": "マクロス7船団",
+   "aliases": [
+    "37th Long Distance Colony Fleet"
+   ],
+   "avoid": [],
+   "description": "Colony fleet led by the Macross 7 (City 7 + Battle 7).",
+   "sources": [
+    "https://macross.fandom.com/wiki/37th_Long_Distance_Colony_Fleet"
+   ],
+   "notes": "",
+   "ja_aliases": [
+    "マクロス７船団"
+   ],
+   "af_uses": 20,
+   "tf_uses": 12,
+   "tf_campus_uses": 3
+  },
+  {
+   "id": "chlore_fleet",
+   "en": "Chlore Fleet",
+   "ja": "クロレ艦隊",
+   "aliases": [],
+   "avoid": [
+    "Kurore"
+   ],
+   "description": "Rogue Meltrandi fleet in Macross 7 (Queadluun-Rau 'Chlore type').",
+   "sources": [
+    "https://macross.fandom.com/wiki/Chlore_Fleet"
+   ],
+   "notes": "ja form not confirmed; game unit name is クァドラン・ロー（クロレ機）.",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "vajra",
+   "en": "Vajra",
+   "ja": "バジュラ",
+   "aliases": [],
+   "avoid": [
+    "Vajura",
+    "Bajura"
+   ],
+   "description": "Insect-like biomechanical alien race in Macross F.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Vajra"
+   ],
+   "notes": "",
+   "af_uses": 59,
+   "tf_uses": 189,
+   "tf_campus_uses": 177
+  },
+  {
+   "id": "shinsei_industries",
+   "en": "Shinsei Industries",
+   "ja": "新星インダストリー",
+   "aliases": [],
+   "avoid": [],
+   "description": "Maker of the YF-19.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Yang_Neumann"
+   ],
+   "notes": "",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "general_galaxy",
+   "en": "General Galaxy",
+   "ja": "ゼネラル・ギャラクシー",
+   "aliases": [],
+   "avoid": [],
+   "description": "Maker of the YF-21.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Guld_Goa_Bowman"
+   ],
+   "notes": "",
+   "af_uses": 1,
+   "tf_uses": 3,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "nyan_nyan",
+   "en": "Nyan-Nyan",
+   "ja": "娘々",
+   "aliases": [],
+   "avoid": [
+    "Nyan Nyan",
+    "NyanNyan"
+   ],
+   "description": "Chinese restaurant chain (Minmay's family, Ranka's workplace). In MUF also the in-game shop.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Nyan-Nyan"
+   ],
+   "notes": "娘々ショップ → 'Nyan-Nyan Shop'; 娘々ポイント → 'Nyan-Nyan Points'.",
+   "af_uses": 0,
+   "tf_uses": 22,
+   "tf_campus_uses": 367
+  },
+  {
+   "id": "vermillion_flight",
+   "en": "Vermillion Flight",
+   "ja": "バーミリオン小隊",
+   "aliases": [
+    "Vermillion"
+   ],
+   "avoid": [
+    "Vermilion Team",
+    "Vermilion"
+   ],
+   "description": "Hikaru, Max and Kakizaki's VF-1 flight.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Vermillion_Flight"
+   ],
+   "notes": "Wiki article title 'Vermillion Flight' (バーミリオン小隊).",
+   "af_uses": 1,
+   "tf_uses": 3,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "sagittarius_squadron",
+   "en": "Sagittarius Squadron",
+   "ja": "サジタリウス小隊",
+   "aliases": [],
+   "avoid": [],
+   "description": "N.U.N.S. VF-171 unit the player spars with in mission MF_185.",
+   "sources": [],
+   "notes": "",
+   "status": "provisional",
+   "af_uses": 0,
+   "tf_uses": 7,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "research_fleet_117",
+   "en": "117th Research Fleet",
+   "ja": "第１１７調査船団",
+   "aliases": [],
+   "avoid": [],
+   "description": "Lost N.U.N.S. research fleet; its flagship Global is found on Gallia 4.",
+   "sources": [
+    "https://macross.fandom.com/wiki/117th_Research_Fleet"
+   ],
+   "notes": "",
+   "status": "verified",
+   "af_uses": 1,
+   "tf_uses": 4,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "latence",
+   "en": "Latence",
+   "ja": "ラクテンス",
+   "aliases": [],
+   "avoid": [],
+   "description": "Earth-supremacist group, main antagonist of Macross VF-X2.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Latence"
+   ],
+   "notes": "",
+   "status": "verified",
+   "af_uses": 0,
+   "tf_uses": 2,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "dengeki_v",
+   "en": "Editorial Sentai Dengeki V",
+   "ja": "編集戦隊デンゲキＶ",
+   "aliases": [],
+   "avoid": [],
+   "description": "Parody team made of Dengeki magazine editors (password extra mission).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Macross_Ultimate_Frontier"
+   ],
+   "notes": "",
+   "status": "verified",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "weekly_famitsu",
+   "en": "Weekly Famitsu",
+   "ja": "週刊ファミ通",
+   "aliases": [],
+   "avoid": [],
+   "description": "Real game magazine; its editorial office is a parody boss stage.",
+   "sources": [],
+   "notes": "",
+   "status": "verified",
+   "af_uses": 1,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "pink_pecker",
+   "en": "Pink Pecker",
+   "ja": "ピンクペッカー",
+   "aliases": [],
+   "avoid": [],
+   "description": "Ray Lovelock's and Kinryu's former U.N. Spacy squadron.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Pink_Pecker"
+   ],
+   "notes": "",
+   "status": "verified",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "vrlitwhai_fleet",
+   "en": "Vrlitwhai's fleet",
+   "ja": "ブリタイ艦隊",
+   "aliases": [],
+   "avoid": [],
+   "description": "Zentradi branch fleet under Vrlitwhai.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Vrlitwhai_Kridanik"
+   ],
+   "notes": "",
+   "status": "verified",
+   "af_uses": 1,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "dalmatian_high",
+   "en": "Dalmatian High School",
+   "ja": "ダルメシアンハイスクール",
+   "aliases": [],
+   "avoid": [],
+   "description": "Isamu and Guld's school on Eden.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Eden"
+   ],
+   "notes": "",
+   "status": "verified",
+   "af_uses": 0,
+   "tf_uses": 3,
+   "tf_campus_uses": 2
+  },
+  {
+   "id": "purple_flight",
+   "en": "Purple Flight",
+   "ja": "パープル小隊",
+   "aliases": [
+    "Purple 1"
+   ],
+   "avoid": [
+    "Purple Squadron"
+   ],
+   "description": "Shin Kudo's U.N. Forces unit (Macross Zero).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Shin_Kudō"
+   ],
+   "notes": "",
+   "af_uses": 1,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "dancing_skull",
+   "en": "Dancing Skull",
+   "ja": "ダンシングスカル",
+   "aliases": [],
+   "avoid": [],
+   "description": "Max and Milia's special-forces VF squadron (Macross M3).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Dancing_Skull"
+   ],
+   "notes": "",
+   "af_uses": 0,
+   "tf_uses": 4,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "vector_productions",
+   "en": "Vector Productions",
+   "ja": "ベクタープロモーション",
+   "aliases": [],
+   "avoid": [],
+   "description": "Ranka's talent agency (Elmo Kridanik).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Elmo_Kridanik"
+   ],
+   "notes": "",
+   "af_uses": 0,
+   "tf_uses": 1,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "irina_squad",
+   "en": "Irina Squad",
+   "ja": "イリーナ隊",
+   "aliases": [],
+   "avoid": [],
+   "description": "Irina Hayakawa's unit.",
+   "sources": [],
+   "notes": "",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "critical_path",
+   "en": "Critical Path Corporation",
+   "ja": "クリティカル・パス社",
+   "aliases": [],
+   "avoid": [],
+   "description": "Manfred Brando's conglomerate (VF-X2).",
+   "sources": [
+    "https://macross.fandom.com/wiki/Manfred_Brando"
+   ],
+   "notes": "",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "new_un_government",
+   "en": "New U.N. Government",
+   "ja": "新統合政府",
+   "aliases": [],
+   "avoid": [],
+   "description": "Government formed after Space War I.",
+   "af_uses": 3,
+   "notes": "",
+   "sources": [],
+   "status": "provisional",
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "vsf",
+   "en": "",
+   "ja": "ＶＳＦ",
+   "aliases": [],
+   "avoid": [],
+   "description": "Affiliation shown on Sharon Apple's AF profile tab. Expansion not found on the Macross Wiki; keep 'VSF' as written until confirmed.",
+   "af_uses": 1,
+   "notes": "",
+   "sources": [],
+   "status": "needs_research",
+   "tf_uses": 2,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "macross_5_fleet",
+   "en": "Macross 5 fleet",
+   "ja": "マクロス５船団",
+   "aliases": [],
+   "avoid": [],
+   "description": "Emigrant fleet named in a Macross 7 briefing.",
+   "af_uses": 1,
+   "notes": "",
+   "sources": [],
+   "status": "provisional",
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "frontier_government",
+   "en": "Frontier Administrative Bureau",
+   "ja": "フロンティア行政府",
+   "aliases": [],
+   "avoid": [],
+   "description": "Civil government of the Macross Frontier fleet. English form not confirmed on the wiki.",
+   "af_uses": 1,
+   "notes": "",
+   "sources": [],
+   "status": "needs_research",
+   "tf_uses": 0,
+   "tf_campus_uses": 14
+  },
+  {
+   "id": "antares_squadron",
+   "en": "Antares Squadron",
+   "ja": "アンタレス小隊",
+   "aliases": [],
+   "avoid": [
+    "Antares Flight"
+   ],
+   "description": "Macross Galaxy squadron; Brera Sterne is Antares 1.",
+   "sources": [
+    "https://macross.fandom.com/wiki/Antares_Flight"
+   ],
+   "notes": "Wiki article title is 'Antares Flight', its text says 'Antares Squadron'. The glossary uses Squadron for 小隊 elsewhere (Skull Squadron), so Antares Squadron.",
+   "status": "wiki",
+   "tf_added": true,
+   "tf_uses": 4,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "faerie_squadron",
+   "en": "Faerie Squadron",
+   "ja": "フェアリー・リーダー隊",
+   "ja_aliases": [
+    "フェアリー・リーダー",
+    "フェアリー隊"
+   ],
+   "aliases": [],
+   "avoid": [
+    "Fairy Squadron"
+   ],
+   "description": "Silvie Gena's Valkyrie II squadron in Macross II.",
+   "sources": [
+    "https://myanimelist.net/character/70269"
+   ],
+   "notes": "TF writes フェアリー・リーダー隊 ('Faerie Leader's squadron') in M2_080. Spelling 'Faerie' as in the Macross II English dub.",
+   "status": "provisional",
+   "tf_added": true,
+   "tf_uses": 4,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "super_dimension_restaurant",
+   "en": "Super Dimension Restaurant",
+   "ja": "超時空飯店",
+   "aliases": [],
+   "avoid": [],
+   "description": "Full name of the Nyan-Nyan restaurant chain (超時空飯店 娘々).",
+   "sources": [],
+   "notes": "Decided 2026-10-17 (campus batch 2).",
+   "status": "decided",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 2
+  },
+  {
+   "id": "lai",
+   "en": "L.A.I.",
+   "ja": "L.A.I.",
+   "ja_aliases": [
+    "Ｌ．Ａ．Ｉ．",
+    "Ｌ．Ａ．Ｉ"
+   ],
+   "aliases": [
+    "L.A.I. Corporation"
+   ],
+   "avoid": [
+    "LAI"
+   ],
+   "description": "Frontier's aerospace company (developer of the VF-25).",
+   "sources": [
+    "https://macross.fandom.com/wiki/YF-25_Prophecy"
+   ],
+   "notes": "L.A.I.技研 'L.A.I.'s research labs'. Decided 2026-10-17 (campus batch 7).",
+   "status": "wiki",
+   "tf_added": true,
+   "tf_uses": 2,
+   "tf_campus_uses": 6
+  }
+ ]
+}

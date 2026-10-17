@@ -1,0 +1,496 @@
+{
+ "slice": 160,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c11714",
+   "en": "(School's over, so maybe I'll go have tea\nwith Nanase or something.)",
+   "flags": [],
+   "notes": "Male, frd_nns_006."
+  },
+  {
+   "id": "c11715",
+   "en": "Yeah. Well then, shall we go?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11716",
+   "en": "Mmm~! Tea and cake are delicious too, after all!",
+   "flags": [],
+   "notes": "x2, Nanase (yappari ... mo: besides Nyan-Nyan's dim sum)."
+  },
+  {
+   "id": "c11717",
+   "en": "Girls sure do love that stuff, huh.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11718",
+   "en": "Yes. They don't serve it at Nyan-Nyan,\nand it's not something you can whip up at home.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11719",
+   "en": "That's true.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11720",
+   "en": "Unless I come to a place like this,\nI don't really get the chance to have it.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11721",
+   "en": "Come to think of it, who else do you go\nto places like this with, Nanase?",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11722",
+   "en": "Let's see~...",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11723",
+   "en": "Ranka-san, kids from the art department...\nOh, and Saotome-kun, Michel-kun, and so on!",
+   "flags": [],
+   "notes": "x2, Nanase. bijutsuka 'art department' as c11846 (the Art Course term is geijutsuka)."
+  },
+  {
+   "id": "c11724",
+   "en": "Huh, so you've got friends in the Pilot Course too.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11725",
+   "en": "Yes, we worked together on a lot of things for our\njunior high graduation project... We've been\nfriends ever since.",
+   "flags": [],
+   "notes": "x2, Nanase (chuutoubu sotsugyou seisaku)."
+  },
+  {
+   "id": "c11726",
+   "en": "And then there's me... I guess...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11727",
+   "en": "That's right. Since starting high school... it's been\nover a year now. Do you think people see us\nas a couple, sitting together like this?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11728",
+   "en": "Well, some people might see it that way...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11729",
+   "en": "Oh, no, I didn't mean it like that...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11730",
+   "en": "Ahahaha, you don't have to deny it that hard.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11731",
+   "en": "Nanase?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11732",
+   "en": "Sorry, and I'm the one who brought it up...\nI'm... um... not very good with that kind of thing...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11733",
+   "en": "But I really like that I can just talk\nwith you normally like this, \\p-kun...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11734",
+   "en": "So please keep being a good friend to me, okay?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11735",
+   "en": "Of course. Same here, from now on too.",
+   "flags": [],
+   "notes": "Male (kongo mo yoroshiku)."
+  },
+  {
+   "id": "c11736",
+   "en": "(A good friend, huh. That's not so bad either.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11737",
+   "en": "(School's over, so I'll go have tea\nwith Nanase or something~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11738",
+   "en": "Yeah. Well then, let's go!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11739",
+   "en": "Girls really do love this stuff, right?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11740",
+   "en": "That's so true.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11741",
+   "en": "Huh, so you've got friends in the Pilot Course too.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11742",
+   "en": "And me too!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11743",
+   "en": "That's right. Since starting high school... it's been\nover a year now. Time sure flies.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11744",
+   "en": "It really does.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11745",
+   "en": "Please keep being a good friend to me, okay?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11746",
+   "en": "Of course! And the same goes for me!",
+   "flags": [],
+   "notes": "Female (kochira koso yoroshiku)."
+  },
+  {
+   "id": "c11747",
+   "en": "(Nanase really is a sweet girl.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11748",
+   "en": "(Well, class is over, so maybe I'll stop by\nSilver Moon with Nanase...)",
+   "flags": [],
+   "notes": "Male. Trailing blank line (full-width space) dropped as in c11799."
+  },
+  {
+   "id": "c11749",
+   "en": "Oh, \\p-kun.\nShall we go, then?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11750",
+   "en": "Taking a breather like this really is nice,\nisn't it?",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11751",
+   "en": "Yes. I love my art assignments and my job, but\nI guess I need a breather too...",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11752",
+   "en": "I see, you're right.\nBalance is key in everything, I guess.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11753",
+   "en": "(Nanase seems to give everything her all...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11754",
+   "en": "(Well, class is over, so I'll stop by\nSilver Moon with Nanase~)",
+   "flags": [],
+   "notes": "Female. Trailing blank line dropped."
+  },
+  {
+   "id": "c11755",
+   "en": "Oh, \\p-san.\nShall we go, then?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11756",
+   "en": "I see, that's so true.\nBalance is key in everything, I guess.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11757",
+   "en": "(Nanase seems to give everything her all, huh...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11758",
+   "en": "(I worked up the nerve to invite Nanase\nto the artificial island, but...)",
+   "flags": [],
+   "notes": "Male, frd_nns_007."
+  },
+  {
+   "id": "c11759",
+   "en": "\\p-kun,\nsorry to keep you waiting!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11760",
+   "en": "Oh, looks like you're all fired up, huh?",
+   "flags": [],
+   "notes": "Male; 'fired up' as c11801."
+  },
+  {
+   "id": "c11761",
+   "en": "Huh? N-No, I'm not...",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11762",
+   "en": "Well, shall we get going?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11763",
+   "en": "Wow~ This is amazing. It's just like the real sea.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11764",
+   "en": "Yeah, you'd never think we're in the middle of space.",
+   "flags": [],
+   "notes": "Male; same English as the female c11794."
+  },
+  {
+   "id": "c11765",
+   "en": "Ahahaha. Well then, shall we go get changed?",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11766",
+   "en": "Yeah, um... where's a place we can change...",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11767",
+   "en": "Wh-What's this...",
+   "flags": [],
+   "notes": "x2, player, seeing the line."
+  },
+  {
+   "id": "c11768",
+   "en": "Wh-What a huge line...",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11769",
+   "en": "Hmm...\nWell, I'm a guy, so I can just change\nin the shade of a tree, but...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11770",
+   "en": "Oh, I'll be fine too!\nI wore my swimsuit under my clothes, just in case...",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11771",
+   "en": "Wow, you came prepared.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11772",
+   "en": "Yes.\nBut... even so, it's still a little embarrassing...",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11773",
+   "en": "Could you keep watch so nobody peeks?",
+   "flags": [],
+   "notes": "x2, Nanase asks the player."
+  },
+  {
+   "id": "c11774",
+   "en": "No problem.",
+   "flags": [],
+   "notes": "Male (oyasui go-you)."
+  },
+  {
+   "id": "c11775",
+   "en": "No turning around, okay?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11776",
+   "en": "Ahahaha, I won't.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11777",
+   "en": "I'll change quickly, so please wait a moment.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11778",
+   "en": "Don't worry, I'm keeping watch.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11779",
+   "en": "Kyaaah!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11780",
+   "en": "Nanase? What's wrong?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11781",
+   "en": "Oh, there's a weird animal over there...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11782",
+   "en": "Ah!...",
+   "flags": [],
+   "notes": "Male; the player turns around."
+  },
+  {
+   "id": "c11783",
+   "en": "KYAAAAAAAAAAAAAAAH!!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11784",
+   "en": "Uh, sorry about that.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11785",
+   "en": "No, it was my fault.\nI screamed over such a little thing.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11786",
+   "en": "So you're not good with small animals, huh...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11787",
+   "en": "Yes...\nWell, let's forget about that and have fun, okay?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11788",
+   "en": "Yeah, we came all the way to such a nice place!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11789",
+   "en": "(I lost all track of time playing...\nBut it was really fun.)",
+   "flags": [],
+   "notes": "Male; as the female c11798."
+  },
+  {
+   "id": "c11790",
+   "en": "(I invited Nanase to the artificial island, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11791",
+   "en": "\\p-san,\nsorry to keep you waiting!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11792",
+   "en": "Oh, are you all fired up?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11793",
+   "en": "Well, whatever. Let's get going!",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c11723: bijutsuka rendered 'the art department' as in finished c11846; the glossary Art Course is geijutsuka.",
+   "c11760/c11792: harikitte iru 'all fired up', matching finished c11801/c11810."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

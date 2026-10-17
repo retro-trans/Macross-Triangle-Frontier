@@ -1,0 +1,504 @@
+{
+ "slice": 26,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o0_om0/2304",
+   "en": "Battle 7, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2304",
+   "en": "Battle 7, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2304",
+   "en": "Battle 7, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2305",
+   "en": "Fz-109 Elgersoln, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2305",
+   "en": "Fz-109 Elgersoln, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2305",
+   "en": "Fz-109 Elgersoln, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2305",
+   "en": "Fz-109 Elgersoln, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2305",
+   "en": "Fz-109 Elgersoln, you are cleared to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Erugaa zorumu' read as Erugaa zorun (Elgersoln)."
+  },
+  {
+   "id": "of_ktr/2305",
+   "en": "Fz-109 Elgersoln, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2306",
+   "en": "Az-130 Panzersoln, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2306",
+   "en": "Az-130 Panzersoln, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2306",
+   "en": "Az-130 Panzersoln, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2306",
+   "en": "Az-130 Panzersoln, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2306",
+   "en": "Az-130 Panzersoln, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2306",
+   "en": "Az-130 Panzersoln, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2307",
+   "en": "FBz-99 Zaubergeran, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2307",
+   "en": "FBz-99 Zaubergeran, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2307",
+   "en": "FBz-99 Zaubergeran, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2307",
+   "en": "FBz-99 Zaubergeran, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2307",
+   "en": "FBz-99 Zaubergeran, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2307",
+   "en": "FBz-99 Zaubergeran, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2308",
+   "en": "Queadluun-Rau, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2308",
+   "en": "Queadluun-Rau, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2308",
+   "en": "Queadluun-Rau, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2308",
+   "en": "Queadluun-Rau, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2308",
+   "en": "Queadluun-Rau, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2308",
+   "en": "Queadluun-Rau, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2309",
+   "en": "Glavil, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2309",
+   "en": "Glavil, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2309",
+   "en": "Glavil, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2309",
+   "en": "Glavil, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2309",
+   "en": "Glavil, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2309",
+   "en": "Glavil, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2310",
+   "en": "Lord Gepelnitchi, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2310",
+   "en": "Lord Gepelnitchi, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2310",
+   "en": "Lord Gepelnitchi, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2310",
+   "en": "Lord Gepelnitchi, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2310",
+   "en": "Lord Gepelnitchi, you are cleared to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Geferunicchi' read as Geperunicchi (Gepelnitchi)."
+  },
+  {
+   "id": "of_ktr/2310",
+   "en": "Lord Gepelnitchi, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2311",
+   "en": "VF-5000 Star Mirage, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2311",
+   "en": "VF-5000 Star Mirage, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2311",
+   "en": "VF-5000 Star Mirage, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2311",
+   "en": "VF-5000 Star Mirage, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2311",
+   "en": "VF-5000 Star Mirage, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2311",
+   "en": "VF-5000 Star Mirage, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2312",
+   "en": "VA-C-3 Invader, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2312",
+   "en": "VA-C-3 Invader, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2312",
+   "en": "VA-C-3 Invader, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2312",
+   "en": "VA-C-3 Invader, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2312",
+   "en": "VA-C-3 Invader, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2312",
+   "en": "VA-C-3 Invader, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2313",
+   "en": "Graham Hoilie, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2313",
+   "en": "Graham Hoilie, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2313",
+   "en": "Graham Hoilie, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2313",
+   "en": "Graham Hoilie, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2313",
+   "en": "Graham Hoilie, you are cleared to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Foirii' read as Hoirii (Hoilie)."
+  },
+  {
+   "id": "of_ktr/2313",
+   "en": "Graham Hoilie, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2314",
+   "en": "Destroid Cheyenne II, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2314",
+   "en": "Destroid Cheyenne II, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2314",
+   "en": "Destroid Cheyenne II, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2314",
+   "en": "Destroid Cheyenne II, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2314",
+   "en": "Destroid Cheyenne II, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2314",
+   "en": "Destroid Cheyenne II, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2315",
+   "en": "VF-171 Nightmare Plus, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2315",
+   "en": "VF-171 Nightmare Plus, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2315",
+   "en": "VF-171 Nightmare Plus, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2315",
+   "en": "VF-171 Nightmare Plus, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2315",
+   "en": "VF-171 Nightmare Plus, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2315",
+   "en": "VF-171 Nightmare Plus, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2316",
+   "en": "VF-171EX Nightmare Plus, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2316",
+   "en": "VF-171EX Nightmare Plus, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2316",
+   "en": "VF-171EX Nightmare Plus, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2316",
+   "en": "VF-171EX Nightmare Plus, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2316",
+   "en": "VF-171EX Nightmare Plus, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2316",
+   "en": "VF-171EX Nightmare Plus, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2317",
+   "en": "RVF-171EX Nightmare Plus, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2317",
+   "en": "RVF-171EX Nightmare Plus, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2317",
+   "en": "RVF-171EX Nightmare Plus, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2317",
+   "en": "RVF-171EX Nightmare Plus, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2317",
+   "en": "RVF-171EX Nightmare Plus, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 2008 (o7_exd/2305): 'Erugaa zorumu' read as Erugaa zorun (Elgersoln).",
+   "row 2038 (o7_exd/2310): 'Geferunicchi' read as Geperunicchi (Gepelnitchi).",
+   "row 2056 (o7_exd/2313): 'Foirii' read as Hoirii (Hoilie)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

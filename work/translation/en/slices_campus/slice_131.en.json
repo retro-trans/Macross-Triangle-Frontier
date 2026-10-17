@@ -1,0 +1,413 @@
+{
+ "slice": 131,
+ "rows_in_slice": 66,
+ "rows_examined": 66,
+ "rows": [
+  {
+   "id": "c09627",
+   "en": "Maybe not, but we got in,\nso what's done is done.",
+   "flags": [],
+   "notes": "Male. Answers Luca's c09626 (was it okay to go in there?)."
+  },
+  {
+   "id": "c09628",
+   "en": "Y-You've got a point there...",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09629",
+   "en": "(I came to the artificial island\nwith Luca-kun again today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09630",
+   "en": "Let's skip swimming and go exploring\nagain today!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09631",
+   "en": "Ooh, you're really getting into it!",
+   "flags": [],
+   "notes": "Female. Reacts to Luca's eager c09622."
+  },
+  {
+   "id": "c09632",
+   "en": "The cliffs and all really had\nan atmosphere, didn't they?",
+   "flags": [],
+   "notes": "Luca, female scene."
+  },
+  {
+   "id": "c09633",
+   "en": "If you fell from that height,\nyou'd never survive...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09634",
+   "en": "Maybe not, but we got in,\nso what's done is done!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09635",
+   "en": "Hey, Luca!",
+   "flags": [],
+   "notes": "x4, male player; as c01753."
+  },
+  {
+   "id": "c09636",
+   "en": "He's gone...",
+   "flags": [],
+   "notes": "x2, both genders; Luca walked off without answering."
+  },
+  {
+   "id": "c09637",
+   "en": "Guess I'll go after him!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09638",
+   "en": "What are you doing loitering outside Nyan-Nyan?\nPeople are gonna think you're some creep!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09639",
+   "en": "\\p-san!!",
+   "flags": [],
+   "notes": "x6, Luca, both genders (frd_luk_112/116)."
+  },
+  {
+   "id": "c09640",
+   "en": "Aren't you going into Nyan-Nyan?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09641",
+   "en": "Well, which is it?\nMake up your mind already...",
+   "flags": [],
+   "notes": "Male. Luca's answer 'e, ee...' (Y-Yes...) is noncommittal."
+  },
+  {
+   "id": "c09642",
+   "en": "Come on, let's go!\nLet's get Nanase to hook us up!",
+   "flags": [],
+   "notes": "Male. saabisu = special treatment/freebies from Nanase."
+  },
+  {
+   "id": "c09643",
+   "en": "W-Wait, please don't pull me!!",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09644",
+   "en": "I'm gonna eat a ton!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09645",
+   "en": "...I'll go after him!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09646",
+   "en": "What are you doing loitering outside Nyan-Nyan?\nPeople are gonna think you're some creep!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09647",
+   "en": "Hey, aren't you going into Nyan-Nyan?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09648",
+   "en": "Well, which is it?\nMake up your mind already...!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09649",
+   "en": "Come on, let's go!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09650",
+   "en": "I'm gonna eat a ton~!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09651",
+   "en": "(School's finally out...\nI'm a little peckish, so maybe I'll swing by\nNyan-Nyan.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09652",
+   "en": "Yes, what is it?",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09653",
+   "en": "Let's go to Nyan-Nyan!",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09654",
+   "en": "I don't mind, but...",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09655",
+   "en": "Alright, let's go.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09656",
+   "en": "Apparently it's half price today\nfor groups of two or more.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09657",
+   "en": "Then this is our chance.",
+   "flags": [],
+   "notes": "Luca, male scene."
+  },
+  {
+   "id": "c09658",
+   "en": "Then we'll have to eat twice as much\nas usual, right?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09659",
+   "en": "But then the bill would come out\nthe same as always...",
+   "flags": [],
+   "notes": "Luca, male scene."
+  },
+  {
+   "id": "c09660",
+   "en": "(School's finally out...\nI'm starving, so maybe I'll swing by\nNyan-Nyan?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09661",
+   "en": "Heeey, Luca-kuuun!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09662",
+   "en": "Apparently they're doing a half-price\ncampaign for couples today.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09663",
+   "en": "C-C-Couples???",
+   "flags": [],
+   "notes": "Luca, female scene."
+  },
+  {
+   "id": "c09664",
+   "en": "What? Am I not good enough for you?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09665",
+   "en": "N-No... I mean... well, yes...",
+   "flags": [],
+   "notes": "Luca, female scene. He admits she isn't good enough, hence c09666; kept the gag at full strength."
+  },
+  {
+   "id": "c09666",
+   "en": "How meeeean!!!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09667",
+   "en": "(...I wonder if today was\na nice change of pace?)",
+   "flags": [],
+   "notes": "Female. 'change of pace' as the recurring closing line."
+  },
+  {
+   "id": "c09668",
+   "en": "(I came to eat with Luca today.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09669",
+   "en": "Nyan-Nyan really is the most relaxing place.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09670",
+   "en": "The food's great too.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09671",
+   "en": "And the prices are just right!",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09672",
+   "en": "Yes, let's dig in!",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09673",
+   "en": "Thanks for the meal.",
+   "flags": [],
+   "notes": "x8: Luca (frd_luk) and Shirakawa (frd_myk), both genders; as c00480."
+  },
+  {
+   "id": "c09674",
+   "en": "You really put it away, huh?",
+   "flags": [],
+   "notes": "x2, both genders; as c02206."
+  },
+  {
+   "id": "c09675",
+   "en": "Ahaha...\nYou think so?",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09676",
+   "en": "You're a bit on the skinny side, Luca,\nso you've gotta eat lots and grow big!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09677",
+   "en": "(I came to eat with Luca-kun today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09678",
+   "en": "Nyan-Nyan really is the most relaxing place.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09679",
+   "en": "You're a bit on the skinny side, Luca-kun,\nso you've gotta eat lots and grow big!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09680",
+   "en": "(I came to eat with Luca again today.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09681",
+   "en": "Let's dig in again today!",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09682",
+   "en": "I haven't eaten a thing since this morning.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09683",
+   "en": "You're all fired up, huh!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09684",
+   "en": "You stacked up a whole tower\nof steamer baskets.",
+   "flags": [],
+   "notes": "Male. seiro = dim sum steamer baskets."
+  },
+  {
+   "id": "c09685",
+   "en": "Did I eat a little too much?",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09686",
+   "en": "I think it's fine once in a while.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09687",
+   "en": "Well then, shall we head home for today?",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09688",
+   "en": "Let's do that.",
+   "flags": [],
+   "notes": "x42, the player, both genders, many scenes (frd_luk/mcl/myk/pnn/yui, nml_myk, Christmas sub-scenes); generic agreement, as c07518."
+  },
+  {
+   "id": "c09689",
+   "en": "(I came to eat with Luca-kun again today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09690",
+   "en": "You're all fired up!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09691",
+   "en": "You stacked up a whole tower\nof steamer baskets~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09692",
+   "en": "Isn't it fine once in a while?",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c09673 (x8) Thanks for the meal. also closes Shirakawa's tea/coffee at Silver Moon in frd_myk_103; a little loose there but kept consistent with c00480.",
+   "c09642: saabisu shite morau rendered 'get Nanase to hook us up' (special treatment/freebies).",
+   "c09688 (x42) 'Let's do that.' used as a generic reply in many scenes; checked it follows a suggestion here."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

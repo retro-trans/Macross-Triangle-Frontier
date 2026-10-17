@@ -1,0 +1,509 @@
+{
+ "slice": 5,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o7_exd/331",
+   "en": "Perhaps you are what they call the Anima Spiritia...",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "anima supirichia = Anima Spiritia (Macross 7); not in the glossary. Ends on a trailing 'ga'; kept as trailing."
+  },
+  {
+   "id": "of_ktr/331",
+   "en": "Um, would you mind going shopping with me after this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/340",
+   "en": "Are you truly up to this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/340",
+   "en": "Just try not to get in the operation's way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/341",
+   "en": "You must succeed at an operation this simple.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/341",
+   "en": "Are you really fit to sortie?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/342",
+   "en": "This operation looks set to give you a little trouble.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/342",
+   "en": "This'll be tough, with skills like yours.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/343",
+   "en": "Operation start. I am counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/343",
+   "en": "Operation start. I'm praying for your success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/344",
+   "en": "You will heed my instructions.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/344",
+   "en": "The operation's starting. Don't let your guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/345",
+   "en": "Are you quite ready? The operation is starting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/345",
+   "en": "I'm expecting great results from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/346",
+   "en": "I am counting on you as the linchpin of this operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/346",
+   "en": "You'll be fine. Go out there with confidence.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/347",
+   "en": "With your skill, there should be no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/347",
+   "en": "I'm relying on your skill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/348",
+   "en": "I am praying for your success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/348",
+   "en": "The success of this operation rests on you. Do your best.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "seihin 'product' heard for seihi 'success or failure'."
+  },
+  {
+   "id": "o7_exd/349",
+   "en": "With you, I can give my instructions with peace of mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/349",
+   "en": "Be sure to come back. Promise me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/350",
+   "en": "This operation should present no problems whatsoever.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/350",
+   "en": "Don't do anything reckless and worry me too much, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/351",
+   "en": "There is nothing to worry about. I am counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/351",
+   "en": "I'm sorry. I keep relying on you for everything.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/360",
+   "en": "As I thought, the Meltrandi cannot be trusted.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Low-rating result line; 'Merutoran' kept as heard (Meltrandi, glossary). Odd line for any player; the transcript may be wrong."
+  },
+  {
+   "id": "of_ktr/360",
+   "en": "Stop fooling around and get back here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/361",
+   "en": "That was quite an ordeal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/361",
+   "en": "I'm amazed you made it back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/362",
+   "en": "Well, well. It seems the fleet commander's chair has slipped further away again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/362",
+   "en": "Succeeding at an operation like this is a given, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/363",
+   "en": "I am very glad you have come back safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/363",
+   "en": "Operation successful. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/364",
+   "en": "It seems the operation was a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/364",
+   "en": "You did well. Keep it up next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/365",
+   "en": "I am counting on you next time as well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/365",
+   "en": "Good work. The operation's a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/366",
+   "en": "You seem to be in rather fine form.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/366",
+   "en": "Keep this up in the next operation too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/367",
+   "en": "Results like these are beyond my expectations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/367",
+   "en": "We succeeded thanks to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/368",
+   "en": "Splendid skill!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/368",
+   "en": "Splendid results. Impressive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/369",
+   "en": "Even I have come to feel what they call Culture.",
+   "flags": [],
+   "notes": "bunka = Culture, capitalised as Zentradi speech (glossary)."
+  },
+  {
+   "id": "of_ktr/369",
+   "en": "Hurry back! If we don't hurry, the sale will be over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/370",
+   "en": "Somehow this old fellow feels rather embarrassed.",
+   "flags": [],
+   "notes": "ojisan: he calls himself an old man."
+  },
+  {
+   "id": "of_ktr/370",
+   "en": "I'm just happy you came back safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/371",
+   "en": "Oh! Deculture!",
+   "flags": [],
+   "notes": "Glossary: Deculture!"
+  },
+  {
+   "id": "of_ktr/371",
+   "en": "Honestly, I was worried about you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/400",
+   "en": "Our operation time is limited. Would you complete the mission promptly?",
+   "flags": [],
+   "notes": "Transcript joins the sentences with 'masu ga'; read as two sentences."
+  },
+  {
+   "id": "of_ktr/400",
+   "en": "Operation time is limited. Carry out the mission promptly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/401",
+   "en": "Would you bring the operation to a swift end?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/401",
+   "en": "Finish the operation quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/402",
+   "en": "There is ample time left for the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/402",
+   "en": "There's plenty of time left for the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/403",
+   "en": "Half the operation time has elapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/403",
+   "en": "Half the operation time has elapsed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/404",
+   "en": "Time is running short.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/404",
+   "en": "Not much time left!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/405",
+   "en": "There seems to be very little time left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/405",
+   "en": "Only a little time left!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/406",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/406",
+   "en": "3 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/407",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/407",
+   "en": "2 minutes left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/408",
+   "en": "1 minute left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/408",
+   "en": "1 minute left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/409",
+   "en": "30 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/409",
+   "en": "30 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/410",
+   "en": "10 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/410",
+   "en": "10 seconds left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/411",
+   "en": "5 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/411",
+   "en": "5 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/412",
+   "en": "4 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/412",
+   "en": "4 seconds",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/413",
+   "en": "3",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Heard as 'sayounara'; the countdown slot is 'san' (3), as for every other operator."
+  },
+  {
+   "id": "of_ktr/413",
+   "en": "3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/414",
+   "en": "2",
+   "flags": [],
+   "notes": "Transcript 'ni' (2) in kana."
+  },
+  {
+   "id": "of_ktr/414",
+   "en": "2",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 347 o7_exd/360: Low-rating result line; 'Merutoran' kept as heard (Meltrandi, glossary). Odd line for any player; the transcript may be wrong."
+  ],
+  "whisper_doubt": [
+   "row 340 of_ktr/348: seihin 'product' heard for seihi 'success or failure'.",
+   "row 397 o7_exd/413: Heard as 'sayounara'; the countdown slot is 'san' (3), as for every other operator."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Anima Spiritia (anima supirichia, Macross 7 term), row 321 o7_exd/331"
+  ],
+  "unfinished": []
+ }
+}

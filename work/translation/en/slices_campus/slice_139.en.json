@@ -1,0 +1,381 @@
+{
+ "slice": 139,
+ "rows_in_slice": 60,
+ "rows_examined": 60,
+ "rows": [
+  {
+   "id": "c10204",
+   "en": "(Still, hitting on girls again...\nI'll have to rat him out to Klan-senpai later.)",
+   "flags": [],
+   "notes": "Male. chikuru = tattle."
+  },
+  {
+   "id": "c10205",
+   "en": "Sure, I don't mind...\nAre you going to check out some new shop again?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10206",
+   "en": "So, what did you want to talk to me about?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10207",
+   "en": "(It's rare for Michel-kun to hesitate like this...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10208",
+   "en": "...What's gotten into you all of a sudden,\nMichel-kun? Did I do something\nto deserve your thanks?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10209",
+   "en": "Yeah, that goes without saying.\nAnd I'm counting on you too.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10210",
+   "en": "(Hmm, I don't really get it, but if Michel-kun's\nsatisfied, I guess that's fine...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10211",
+   "en": "Well then, might I interest you in a date\nwith your humble servant, somewhere more fun?",
+   "flags": [],
+   "notes": "Female. watakushime = mock-humble self-reference."
+  },
+  {
+   "id": "c10212",
+   "en": "As thanks for everything so far.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10213",
+   "en": "Okay, then let's have a blast!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10214",
+   "en": "Then, your hand, if you please, princess.",
+   "flags": [],
+   "notes": "Female. ohimesama -> 'princess'."
+  },
+  {
+   "id": "c10215",
+   "en": "(Getting thanked by Michel-kun\nwas a little embarrassing.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10216",
+   "en": "(I hope Michel-kun and I can keep\nhaving a good time like this from now on...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10217",
+   "en": "(Okay, today's classes are over.\nGuess I'll head home soon.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10218",
+   "en": "Yo, \\p.\nIf you're free, let's go to Silver Moon or something.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Both genders. Silver Moon is provisional in locations.json."
+  },
+  {
+   "id": "c10219",
+   "en": "Having tea with you like this\nisn't half bad, you know.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10220",
+   "en": "Huh?\nYou suddenly invited me to tea, so I wondered\nwhat was up... What's gotten into you, Michel?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10221",
+   "en": "Nothing. Just that I hope days like this keep going.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10222",
+   "en": "Geez, what a boring reaction.",
+   "flags": [],
+   "notes": "Both genders; answers the player's flat 'haa...'."
+  },
+  {
+   "id": "c10223",
+   "en": "Well, let's enjoy an elegant tea time.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10224",
+   "en": "(Like Michel said,\nI hope days like this keep going...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10225",
+   "en": "(Okay, today's classes are over.\nMaybe I'll head home soon.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10226",
+   "en": "Huh?\nYou suddenly invited me to tea, so I wondered what\nwas up... What's gotten into you, Michel-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10227",
+   "en": "(Like Michel-kun said,\nI hope days like this keep going...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10228",
+   "en": "By the way, Michel, I heard a rumor\nthat you've stopped hitting on girls lately.\nIs it true?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10229",
+   "en": "No, that's news to me...\nThere's a rumor like that going around?",
+   "flags": [],
+   "notes": "Both genders (frd_mcl_009 male, frd_mcl_010 female)."
+  },
+  {
+   "id": "c10230",
+   "en": "Oh, so it's just a rumor after all.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10231",
+   "en": "No, it's not just a rumor.\nI really don't hit on girls anymore.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10232",
+   "en": "Even I've found someone\nI'd risk my life to protect.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10233",
+   "en": "(Huh, so Michel's finally decided\nto be honest with himself...)",
+   "flags": [],
+   "notes": "Male. The player assumes he means Klan."
+  },
+  {
+   "id": "c10234",
+   "en": "I realized it. The person who matters most to me\nwas right by my side all along...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10235",
+   "en": "So... will you go out with me?\n...............\\p?",
+   "flags": [],
+   "notes": "Both genders. Another fake confession (joke revealed at c10238)."
+  },
+  {
+   "id": "c10236",
+   "en": "My love went missing in action, and I'd been\nsearching for it... You're the one who found it...",
+   "flags": [],
+   "notes": "Both genders. yukue fumei de tansakuchuu = MIA, search under way (military image)."
+  },
+  {
+   "id": "c10237",
+   "en": "Wha?! Huh? Y-you're serious...?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10238",
+   "en": "...Hey, come on!\nOf course it's a joke. Quit falling for it every time.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10239",
+   "en": "Huh?! What? A-a joke...?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10240",
+   "en": "Ugh... I got fooled yet again......",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10241",
+   "en": "Well, the part about liking you is true, though.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10242",
+   "en": "I'm counting on you from here on too, partner.",
+   "flags": [],
+   "notes": "Both genders. ore no paatonaa = 'my partner'; possessive folded into the address."
+  },
+  {
+   "id": "c10243",
+   "en": "Affinity ending.\nFiller for Michel (female).",
+   "flags": [],
+   "notes": "Developer placeholder text, as c04107/c06032."
+  },
+  {
+   "id": "c10244",
+   "en": "Affinity ending.\nFiller for Michel (male).",
+   "flags": [],
+   "notes": "Developer placeholder text, as c06033."
+  },
+  {
+   "id": "c10245",
+   "en": "By the way, Michel-kun, I heard a rumor\nthat you've stopped hitting on girls lately.\nIs it true?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10246",
+   "en": "Oh, so it's just a rumor after all.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10247",
+   "en": "(Huh, so Michel-kun's finally decided\nto be honest with himself...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10248",
+   "en": "(Okay, all that's left is to go home,\nbut just heading straight home seems kinda...)",
+   "flags": [],
+   "notes": "Male, frd_mcl_101/102 (x4)."
+  },
+  {
+   "id": "c10249",
+   "en": "(Oh, there's Michel. Perfect timing.)",
+   "flags": [],
+   "notes": "Male, frd_mcl_101/102 (x4)."
+  },
+  {
+   "id": "c10250",
+   "en": "Michel, want to go to Folmo or something?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10251",
+   "en": "Sorry, \\p.\nI've got something to take care of after this.\nAsk me again some other time.",
+   "flags": [],
+   "notes": "x8: frd_mcl_101/102, both genders."
+  },
+  {
+   "id": "c10252",
+   "en": "I see. Well, that can't be helped...",
+   "flags": [],
+   "notes": "Male, frd_mcl_101/102."
+  },
+  {
+   "id": "c10253",
+   "en": "Sorry about that.",
+   "flags": [],
+   "notes": "x10: Michel in frd_mcl_101/102 and nml_mcl_021 (apologising for leaving with Klan); both genders."
+  },
+  {
+   "id": "c10254",
+   "en": "(Oh well.\nGuess I'll go shopping at Folmo by myself...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10255",
+   "en": "(Okay, all that's left is to go home,\nbut just heading straight home seems kinda...)",
+   "flags": [],
+   "notes": "Female, frd_mcl_101/102."
+  },
+  {
+   "id": "c10256",
+   "en": "(Oh, there's Michel-kun. Perfect timing.)",
+   "flags": [],
+   "notes": "Female, frd_mcl_101/102."
+  },
+  {
+   "id": "c10257",
+   "en": "Michel-kun, want to go to Folmo or something?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10258",
+   "en": "I see. Well, that can't be helped...",
+   "flags": [],
+   "notes": "Female, frd_mcl_101/102."
+  },
+  {
+   "id": "c10259",
+   "en": "(Oh well.\nMaybe I'll go shopping at Folmo by myself...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10260",
+   "en": "Michel,\nwant to go to a hot dog joint or something?",
+   "flags": [],
+   "notes": "Male. 'hot dog joint' as c08477."
+  },
+  {
+   "id": "c10261",
+   "en": "(Oh well.\nGuess I'll go eat hot dogs by myself...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10262",
+   "en": "Michel-kun,\nwant to go to a hot dog joint or something?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10263",
+   "en": "(Oh well.\nMaybe I'll go eat hot dogs by myself...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c10218 uses Silver Moon, provisional in locations.json.",
+   "c10236: 'missing in action / under search' military image kept loosely ('went missing in action, and I'd been searching for it').",
+   "c10242: ore no paatonaa folded into 'partner' at the end of the line.",
+   "c10243/c10244 are developer placeholder lines (speaker plate Alto); translated as earlier filler rows.",
+   "c10253 'Sorry about that.' (x10) also Michel in nml_mcl_021, apologising as he leaves with Klan."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

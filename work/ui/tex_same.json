@@ -1,0 +1,270 @@
+{
+ "data/campus/interface/cha_make/cmd_menu20.gim": [
+  "data/campus/interface/schedule/cmd_menu20.gim",
+  "data/campus/interface/status/cmd_menu20.gim"
+ ],
+ "data/campus/interface/cha_make/wnd_msg_01.gim": [
+  "data/campus/interface/msgwnd/wnd_msg_01.gim",
+  "data/campus/interface/popupwnd/wnd_msg_01.gim",
+  "data/campus/interface/schedule/wnd_msg_01.gim"
+ ],
+ "data/campus/interface/popupwnd/status13.gim": [
+  "data/campus/interface/status/status13.gim"
+ ],
+ "data/campus/interface/recreation/date_02.gim": [
+  "data/campus/interface/status/date_02.gim"
+ ],
+ "data/campus/interface/recreation/date_05.gim": [
+  "data/campus/interface/status/date_05.gim"
+ ],
+ "data/campus/interface/recreation/date_06.gim": [
+  "data/campus/interface/status/date_06.gim"
+ ],
+ "data/campus/interface/recreation/date_07.gim": [
+  "data/campus/interface/status/date_07.gim"
+ ],
+ "data/campus/interface/recreation/date_11.gim": [
+  "data/campus/interface/status/date_11.gim"
+ ],
+ "data/campus/interface/recreation/date_12.gim": [
+  "data/campus/interface/status/date_12.gim"
+ ],
+ "data/campus/interface/schedule/cmd_menu02.gim": [
+  "data/campus/interface/status/cmd_menu02.gim"
+ ],
+ "data/campus/interface/schedule/cmd_menu03.gim": [
+  "data/campus/interface/status/cmd_menu03.gim"
+ ],
+ "data/campus/interface/schedule/cmd_menu05.gim": [
+  "data/campus/interface/status/cmd_menu05.gim"
+ ],
+ "data/campus/interface/schedule/cmd_menu08.gim": [
+  "data/campus/interface/status/cmd_menu08.gim"
+ ],
+ "data/campus/interface/schedule/cmd_menu10.gim": [
+  "data/campus/interface/status/cmd_menu10.gim"
+ ],
+ "data/cockpit/cockpit_4gauge_bar.gim": [
+  "data/cockpit/cockpit_partner_hp_bar.gim"
+ ],
+ "data/menu/arms_s/ar_bjq_s.gim": [
+  "data/menu/mecha_s/mb_bjq_s.gim"
+ ],
+ "data/menu/arms_s/ar_vjc_s.gim": [
+  "data/menu/arms_s/ar_vjd_s.gim"
+ ],
+ "data/menu/briefing/brief_map_01.gim": [
+  "data/menu/briefing/brief_map_17.gim"
+ ],
+ "data/menu/briefing/brief_map_18.gim": [
+  "data/menu/briefing/brief_map_32.gim"
+ ],
+ "data/menu/common_num/c_num_01.gim": [
+  "data/menu/setting/common_num/c_num_01.gim"
+ ],
+ "data/menu/common_num/dl01_num_01.gim": [
+  "data/menu/setting/common_num/dl01_num_01.gim"
+ ],
+ "data/menu/common_num/dl01_num_02.gim": [
+  "data/menu/setting/common_num/dl01_num_02.gim"
+ ],
+ "data/menu/face_m/pf_jef_m.gim": [
+  "data/menu/face_m/pf_jwc_m.gim"
+ ],
+ "data/menu/face_m/pf_lua_m.gim": [
+  "data/menu/face_m/pg_liz_m.gim",
+  "data/menu/face_m/pp_yan_m.gim",
+  "data/menu/face_m/pr_ags_m.gim",
+  "data/menu/face_m/pr_gli_m.gim",
+  "data/menu/face_m/ps_hik_m.gim",
+  "data/menu/face_m/ps_khd_m.gim",
+  "data/menu/face_m/ps_mis_m.gim",
+  "data/menu/face_m/px_sha_m.gim"
+ ],
+ "data/menu/face_s/pf_jef_s.gim": [
+  "data/menu/face_s/pf_jwc_s.gim"
+ ],
+ "data/menu/face_s/pf_lua_s.gim": [
+  "data/menu/face_s/pg_liz_s.gim",
+  "data/menu/face_s/pp_yan_s.gim",
+  "data/menu/face_s/pr_ags_s.gim",
+  "data/menu/face_s/pr_gli_s.gim",
+  "data/menu/face_s/ps_hik_s.gim",
+  "data/menu/face_s/ps_khd_s.gim",
+  "data/menu/face_s/ps_mis_s.gim",
+  "data/menu/face_s/px_sha_s.gim"
+ ],
+ "data/menu/face_ss/pf_jef_ss.gim": [
+  "data/menu/face_ss/pf_jwc_ss.gim"
+ ],
+ "data/menu/face_ss/pf_lua_ss.gim": [
+  "data/menu/face_ss/pg_liz_ss.gim",
+  "data/menu/face_ss/pp_yan_ss.gim",
+  "data/menu/face_ss/pr_ags_ss.gim",
+  "data/menu/face_ss/pr_gli_ss.gim",
+  "data/menu/face_ss/ps_hik_ss.gim",
+  "data/menu/face_ss/ps_khd_ss.gim",
+  "data/menu/face_ss/ps_mis_ss.gim",
+  "data/menu/face_ss/px_sha_ss.gim"
+ ],
+ "data/menu/gallery/attention_base_gal.gim": [
+  "data/menu/system/attention_base.gim"
+ ],
+ "data/menu/gallery/attention_word_gal.gim": [
+  "data/menu/system/attention_word.gim"
+ ],
+ "data/menu/gallery/common_new_mark.gim": [
+  "data/menu/hangar/common_new_mark.gim"
+ ],
+ "data/menu/gallery/gal_common_cursor_l.gim": [
+  "data/menu/setting/set_subwin_cursor_l.gim"
+ ],
+ "data/menu/gallery/gal_r_c_c_win_deco_blue.gim": [
+  "data/menu/result/res_r_c_c_win_deco_blue.gim"
+ ],
+ "data/menu/gallery/gal_r_c_c_win_deco_pink.gim": [
+  "data/menu/result/res_r_c_c_win_deco_pink.gim"
+ ],
+ "data/menu/gallery/gal_r_c_c_win_l_heart.gim": [
+  "data/menu/result/res_r_c_c_win_l_heart.gim"
+ ],
+ "data/menu/gallery/gal_r_c_c_win_l_heart_blue.gim": [
+  "data/menu/result/res_r_c_c_win_l_heart_blue.gim"
+ ],
+ "data/menu/gallery/gal_r_c_c_win_l_heart_pink.gim": [
+  "data/menu/result/res_r_c_c_win_l_heart_pink.gim"
+ ],
+ "data/menu/gallery/gal_r_c_c_win_s_heart.gim": [
+  "data/menu/result/res_r_c_c_win_s_heart.gim"
+ ],
+ "data/menu/gallery/gal_r_c_c_win_s_heart_blue.gim": [
+  "data/menu/result/res_r_c_c_win_s_heart_blue.gim"
+ ],
+ "data/menu/gallery/gal_r_c_c_win_s_heart_pink.gim": [
+  "data/menu/result/res_r_c_c_win_s_heart_pink.gim"
+ ],
+ "data/menu/gallery/gal_rank_star.gim": [
+  "data/cockpit/cockpit_o_player_top_mark.gim"
+ ],
+ "data/menu/gallery/hanger_black_plate.gim": [
+  "data/menu/hangar/hanger_black_plate.gim",
+  "data/menu/system/common_black_plate.gim"
+ ],
+ "data/menu/hangar/attention_icon_cursor_l.gim": [
+  "data/menu/system/attention_icon_cursor_l.gim"
+ ],
+ "data/menu/hangar/c_number00.gim": [
+  "data/menu/setting/c_number00.gim"
+ ],
+ "data/menu/hangar/dl01_num_01_00.gim": [
+  "data/menu/setting/dl01_num_01_00.gim",
+  "data/menu/system/dl01_num_01_00.gim"
+ ],
+ "data/menu/hangar/han_bar_all.gim": [
+  "data/menu/hangar/han_bar_all2.gim",
+  "data/menu/hangar/han_bar_all3.gim"
+ ],
+ "data/menu/hangar/han_color_edit.gim": [
+  "data/menu/hangar/han_mecha_edit.gim"
+ ],
+ "data/menu/hangar/han_s_icon_cursor_l.gim": [
+  "data/menu/vsnet/network_icon_cursor_l.gim"
+ ],
+ "data/menu/hangar/han_title_arrow_l.gim": [
+  "data/menu/setting/han_title_arrow_l.gim"
+ ],
+ "data/menu/hangar/han_title_arrow_r.gim": [
+  "data/menu/setting/han_title_arrow_r.gim"
+ ],
+ "data/menu/hangar/mission_part/han_mission_logo_d7.gim": [
+  "data/script/fesrat_m/fes_logo_d7.gim"
+ ],
+ "data/menu/hangar/mission_part/han_mission_logo_extra.gim": [
+  "data/script/fesrat_m/fes_logo_extra.gim"
+ ],
+ "data/menu/hangar/mission_part/han_mission_logo_m2.gim": [
+  "data/script/fesrat_m/fes_logo_m2.gim"
+ ],
+ "data/menu/hangar/mission_part/han_mission_logo_m7.gim": [
+  "data/script/fesrat_m/fes_logo_m7.gim"
+ ],
+ "data/menu/hangar/mission_part/han_mission_logo_mf.gim": [
+  "data/script/fesrat_m/fes_logo_mf.gim"
+ ],
+ "data/menu/hangar/mission_part/han_mission_logo_mf_movie.gim": [
+  "data/script/fesrat_m/fes_logo_mf_movie.gim"
+ ],
+ "data/menu/hangar/mission_part/han_mission_logo_movm.gim": [
+  "data/script/fesrat_m/fes_logo_movm.gim"
+ ],
+ "data/menu/hangar/mission_part/han_mission_logo_mp.gim": [
+  "data/script/fesrat_m/fes_logo_mp.gim"
+ ],
+ "data/menu/hangar/mission_part/han_mission_logo_mz.gim": [
+  "data/script/fesrat_m/fes_logo_mz.gim"
+ ],
+ "data/menu/hangar/mission_part/han_mission_logo_survival.gim": [
+  "data/script/fesrat_m/fes_logo_survival.gim"
+ ],
+ "data/menu/hangar/mission_part/han_mission_logo_tvm.gim": [
+  "data/script/fesrat_m/fes_logo_tvm.gim"
+ ],
+ "data/menu/hangar/set_icon_black.gim": [
+  "data/menu/setting/set_icon_black.gim"
+ ],
+ "data/menu/map_pict/map_pict06.gim": [
+  "data/menu/map_pict/map_pict18.gim"
+ ],
+ "data/menu/map_pict/map_pict11.gim": [
+  "data/menu/map_pict/map_pict12.gim",
+  "data/menu/map_pict/map_pict13.gim",
+  "data/menu/map_pict/map_pict14.gim",
+  "data/menu/map_pict/map_pict15.gim",
+  "data/menu/map_pict/map_pict23.gim"
+ ],
+ "data/menu/mecha_s/mb_brl_s.gim": [
+  "data/menu/mecha_s/mb_oct_s.gim"
+ ],
+ "data/menu/setting/dl01_num_02_00.gim": [
+  "data/menu/vsnet/dl01_num_02_00.gim"
+ ],
+ "data/menu/setting/dl_char00.gim": [
+  "data/menu/setting/set_char00.gim"
+ ],
+ "data/menu/setting/set_subwin_notitle_b.gim": [
+  "data/menu/setting/set_subwin_notitle_w.gim"
+ ],
+ "data/menu/shop/nyan_select_icon_00.gim": [
+  "data/menu/shop/nyan_select_icon_01.gim"
+ ],
+ "data/menu/shop/shop_attention_no_b.gim": [
+  "data/menu/system/attention_no_b.gim"
+ ],
+ "data/menu/shop/shop_attention_yes_b.gim": [
+  "data/menu/system/attention_yes_b.gim"
+ ],
+ "data/script/fesrat/base_mission.gim": [
+  "data/script/fesrat/base_mission_tr.gim"
+ ],
+ "data/script/fesrat/common_black_plate_mini.gim": [
+  "data/cockpit/sppl/common_black_plate_mini.gim"
+ ],
+ "data/script/fesrat/ope00_b.gim": [
+  "data/script/fesrat/ope08_b.gim"
+ ],
+ "data/script/fesrat/ope09_b.gim": [
+  "data/script/fesrat/ope26_b.gim"
+ ],
+ "data/script/fesrat/ope_00_arrow_a.gim": [
+  "data/cockpit/ope_00_arrow_a.gim"
+ ],
+ "data/script/fesrat/ope_i308.gim": [
+  "data/script/fesrat/ope_w211.gim"
+ ],
+ "data/script/fesrat_m/m2_060_title.gim": [
+  "data/script/fesrat_m/m2_061_title.gim"
+ ],
+ "data/script/fesrat_m/mp_000_organ.gim": [
+  "data/script/fesrat_m/ms_000_organ.gim"
+ ]
+}

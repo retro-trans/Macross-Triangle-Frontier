@@ -1,0 +1,497 @@
+{
+ "slice": 71,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c05242",
+   "en": "Hm? Oh, yeah, I guess it was fine?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05243",
+   "en": "What?! Which part was...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05244",
+   "en": "Ah, yeah, let's see...\nOverall... it was good.\nWell, I've got stuff to do, so clean up for me!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05245",
+   "en": "Th-thank you very much...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05246",
+   "en": "(Gary-sensei definitely wasn't watching...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05247",
+   "en": "(We were supposed to meet at the simulator\nagain today, right...)",
+   "flags": [],
+   "notes": "Female only; same as male c05235."
+  },
+  {
+   "id": "c05248",
+   "en": "(Gary-sensei definitely wasn't watching...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05249",
+   "en": "(I was told to wait off campus today, but...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05250",
+   "en": "Hey, you actually showed up!",
+   "flags": [],
+   "notes": "Shared by several scenes; neutral."
+  },
+  {
+   "id": "c05251",
+   "en": "Yes, but what are we doing today?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05252",
+   "en": "It's always training this, training that at school.\nIt gets stifling. So I figured today we'd\ncatch our breath somewhere relaxing.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05253",
+   "en": "Oh, is that so?",
+   "flags": [],
+   "notes": "Shared by the player, Luca and Nanase in several scenes; neutral."
+  },
+  {
+   "id": "c05254",
+   "en": "Yeah. Though if you're gonna come calling on me,\nI kinda think you oughta go and pick up\na girl or something instead.",
+   "flags": [],
+   "notes": "Male only. 'oneechan' = a girl (slangy)."
+  },
+  {
+   "id": "c05255",
+   "en": "No, um, I was hoping to do some training...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05256",
+   "en": "Ugh, that's exactly what makes you a pain.\nBe too serious and life'll suffocate you.\nLoosen up a little.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05257",
+   "en": "Listen.\nYou're a student, and you're doing\nplenty of stuff in class, right?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05258",
+   "en": "Uh, yes.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05259",
+   "en": "Then you just have to do that properly.\nAll that extra self-training and whatnot\nwill only wreck your concentration.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05260",
+   "en": "Is that how it works?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05261",
+   "en": "In class, you focus on class. When you play,\nyou play. Switching gears like that keeps\nyour focus sharp, no matter what you do.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05262",
+   "en": "Oh, I get it.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05263",
+   "en": "Plus, if you only ever do the same old stuff,\nyou'll end up a boring person.\nJust look at Itsuki.",
+   "flags": [],
+   "notes": "Both genders. Gary calls Yamashiro by his given name, bare."
+  },
+  {
+   "id": "c05264",
+   "en": "I think Yamashiro-sensei is pretty amazing\nin his own way, though...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05265",
+   "en": "Anyway, 'switch your mind on and off properly.'\nThat's where you start.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05266",
+   "en": "Okay, I'll keep that in mind.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05267",
+   "en": "Well,\nfrom now on, I could teach you 'how to have fun.'\nIf you can't find anything to do, just come ask me.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05268",
+   "en": "Okay, thank you very much!\nI can't believe you'd teach me all sorts of things\noutside of school, too...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05269",
+   "en": "Ooh, that one's nice. About an 85, I'd say...",
+   "flags": [],
+   "notes": "Both genders. Gary rating passers-by; kept as 'that one' (no gender stated)."
+  },
+  {
+   "id": "c05270",
+   "en": "Whoa! Now this one's perfect!\nThat's a 120, no question!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05271",
+   "en": "Sensei...",
+   "flags": [],
+   "notes": "Shared by many scenes (Gary and Hilda); neutral."
+  },
+  {
+   "id": "c05272",
+   "en": "Whoops, I just remembered I've got something to do.\nLet's leave it here for today. See ya.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05273",
+   "en": "(Sensei... you're way too obvious...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05274",
+   "en": "Oh, I see.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05275",
+   "en": "Yeah. Though if you've got time to fuss over me,\nI kinda think you oughta go and catch yourself\na guy or something instead.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05276",
+   "en": "No, um, I was hoping to do some training...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05277",
+   "en": "Oh, I get it.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05278",
+   "en": "I think Yamashiro-sensei is pretty amazing\nin his own way...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05279",
+   "en": "Okay! I'll keep that in mind.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05280",
+   "en": "(Sensei... you're so easy to read...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05281",
+   "en": "(I was told to wait off campus again today, but...)",
+   "flags": [],
+   "notes": "Both genders. Repeat visit."
+  },
+  {
+   "id": "c05282",
+   "en": "Does it matter?\nJust hurry up and sit down.\nNo sense talking standing up, right?",
+   "flags": [],
+   "notes": "Both genders. Answers the player's 'what are we doing today?'."
+  },
+  {
+   "id": "c05283",
+   "en": "Uh... okay...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05284",
+   "en": "And that's the deal. Got it?",
+   "flags": [],
+   "notes": "Both genders. Wraps up an off-screen talk."
+  },
+  {
+   "id": "c05285",
+   "en": "I see... You might be right about that...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05286",
+   "en": "Well, don't think too hard about it. See ya!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05287",
+   "en": "Yes, thank you very much!",
+   "flags": [],
+   "notes": "Shared by Gary and Hilda scenes; neutral."
+  },
+  {
+   "id": "c05288",
+   "en": "(So Gary-sensei does say sensible stuff\nonce in a while...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05289",
+   "en": "I see... You might really be right about that...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05290",
+   "en": "(So Gary-sensei does say sensible stuff\nonce in a while.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05291",
+   "en": "(Gary-sensei said 'Today it's the Sky Gate!'...\nIs something going on?)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05292",
+   "en": "Hey, glad you made it!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05293",
+   "en": "Sensei, you said the Sky Gate today...\nWhat's going on?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05294",
+   "en": "You idiot! You came here without knowing anything?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05295",
+   "en": "Um, yes. You only told me yesterday, so...",
+   "flags": [],
+   "notes": "Both genders. 'kinou no kyou': the invitation came only the day before."
+  },
+  {
+   "id": "c05296",
+   "en": "Ahh, how deplorable.\nTo think I'd end up coming here\nwith someone like this...",
+   "flags": [],
+   "notes": "Both genders: 'someone like this' keeps it neutral."
+  },
+  {
+   "id": "c05297",
+   "en": "(What could it be?\nIt's probably not a Sheryl concert or anything...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05298",
+   "en": "Do you know 'Fire Bomber'?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05299",
+   "en": "Yes, we covered them in class.\nI think they were from the Macross 7 fleet...",
+   "flags": [],
+   "notes": "Both genders. Trails off as the Japanese does."
+  },
+  {
+   "id": "c05300",
+   "en": "Ahh, that's all you know?\nTruly deplorable...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05301",
+   "en": "Uh... yeah... and so...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05302",
+   "en": "Listen up!\nToday's a 'Fire Bomber' concert!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05303",
+   "en": "Oh, is that so... wait, WHAT?!\nYou mean they're here? That legendary band?!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05304",
+   "en": "Well, mind you, it's a hologram concert.",
+   "flags": [],
+   "notes": "Both genders. 'rittai eizou' = 3D projection."
+  },
+  {
+   "id": "c05305",
+   "en": "Oh, is that right... That's a bit of a letdown.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05306",
+   "en": "Even so, a chance to see 'Fire Bomber' songs\nat full blast, with visuals, in a place like this\ndoesn't come around often, y'know.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05307",
+   "en": "I see. But yeah, that does sound amazing!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05308",
+   "en": "You bet. You won't regret it, guaranteed.\nToday we're going all out!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05309",
+   "en": "Haah~ That was amazing...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05310",
+   "en": "See? Aren't you glad you came?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05311",
+   "en": "Yes, it was the absolute best!\n'Fire Bomber' is incredible!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05312",
+   "en": "Obviously.\nGeez, kids these days don't even know that much...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05313",
+   "en": "'Burning Fire' especially,\nthat one was just the best!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05314",
+   "en": "Right?! That one was, uh...\nI think it was used as the opening for some game...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05315",
+   "en": "I see, now I'm really interested.\nI'll try listening to more of their stuff!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05316",
+   "en": "Well, then it was worth bringing you along.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05317",
+   "en": "Yep, I think I'll have sweet dreams tonight.\nSee ya!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05318",
+   "en": "(Gary-sensei's got a pretty good side to him...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05319",
+   "en": "(Gary-sensei said 'Today it's the Sky Gate!'...\nI wonder if something's going on?)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05320",
+   "en": "Wh-what... um... and so...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05321",
+   "en": "Yes, now I'm really interested.\nI'll try listening to more of their stuff!",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c05269/c05270: Gary scores passers-by (85, 120 points); the scene implies women ('oneechan' earlier) but no one is named, so 'that one'/'this one' stays neutral.",
+   "c05282: answers a player question not repeated in this repeat visit; read as the player's 'what are we doing today?' (c05251).",
+   "c05298-c05313: double-bracketed band and song names kept as single quotes ('Fire Bomber', 'Burning Fire')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,242 @@
+{
+ "slice": 36,
+ "rows_in_slice": 36,
+ "rows_examined": 36,
+ "rows": [
+  {
+   "id": "u4148",
+   "en": "Realizing that Sheryl's song was meant for Alto and the others on the battlefield,",
+   "flags": [],
+   "notes": "Sentence runs over 4148-4149; cut at the clause boundary (the Japanese cuts before 'realized')."
+  },
+  {
+   "id": "u4149",
+   "en": "Ranka found herself joining in with a song of her own.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4150",
+   "en": "When the song crossed space-time and flowed from Alto's earring, an anomaly occurred.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4151",
+   "en": "Drawn by the singing, the Vajra had folded toward the Frontier fleet.",
+   "flags": [],
+   "notes": "fold: glossary lowercase verb."
+  },
+  {
+   "id": "u4152",
+   "en": "A swarm of Vajra bore down on Sheryl's concert venue.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4153",
+   "en": "The citizens of the Frontier fleet fled in panic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4154",
+   "en": "And Ranka, who had made herself a decoy, was captured by the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4155",
+   "en": "But Sheryl, whose concert had been cut short, began to sing again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4156",
+   "en": "Ranka noticed, and she began to sing as well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4157",
+   "en": "Reacting to Sheryl and Ranka's voices, the Vajra fell into confusion.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4158",
+   "en": "Seizing that opening, S.M.S. and the Battle Frontier attacked,",
+   "flags": [],
+   "notes": "Sentence runs over 4158-4159."
+  },
+  {
+   "id": "u4159",
+   "en": "drove off the giant Vajra battleship, and the Vajra withdrew.",
+   "flags": [],
+   "notes": "'Vajra battleship' not in glossary as a unit name; translated literally (lowercase)."
+  },
+  {
+   "id": "u4160",
+   "en": "And so the Frontier fleet repelled the Vajra attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4161",
+   "en": "On Island 1, snow began to fall, as if to announce the end of the battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4162",
+   "en": "Yet the damage from this battle was far from small.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4163",
+   "en": "And above all, the Vajra threat had not truly passed...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4164",
+   "en": "The U.N. Forces stood helpless before the crushing assault of Ingues's Mardook Army.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ingues: glossary status 'wiki'. Mardook Army from the glossary alias."
+  },
+  {
+   "id": "u4165",
+   "en": "Silvie took Hibiki and slipped aboard the Macross.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hibiki Kanzaki: glossary status needs_check."
+  },
+  {
+   "id": "u4166",
+   "en": "With a surprise attack harnessing the Macross's runaway energy,",
+   "flags": [],
+   "notes": "Sentence runs over 4166-4167."
+  },
+  {
+   "id": "u4167",
+   "en": "they aimed to turn the tables by taking down Ingues.",
+   "flags": [],
+   "notes": "Subject restored as 'they' (Silvie and Hibiki, from 4165)."
+  },
+  {
+   "id": "u4168",
+   "en": "The Macross rose up and fired its main cannon at Ingues's ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4169",
+   "en": "But even with the Macross's runaway energy behind it,",
+   "flags": [],
+   "notes": "Sentence runs over 4169-4170."
+  },
+  {
+   "id": "u4170",
+   "en": "the attack had no effect at all on the Mardook Mothership.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Mardook Mothership: glossary status provisional."
+  },
+  {
+   "id": "u4171",
+   "en": "Hibiki and Silvie despaired at that overwhelming power.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hibiki Kanzaki: glossary status needs_check."
+  },
+  {
+   "id": "u4172",
+   "en": "But Ishtar, who had secretly come aboard the Macross, did not give up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4173",
+   "en": "Ishtar called out to the Mardook Army to stop fighting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4174",
+   "en": "Her plea seemed about to reach the Emulators,",
+   "flags": [],
+   "notes": "Sentence runs over 4174-4175. Emulator as in mission row u0370."
+  },
+  {
+   "id": "u4175",
+   "en": "but Ingues began punishing those who disobeyed him with death.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4176",
+   "en": "Seeing Ingues's punishments, Ishtar,",
+   "flags": [],
+   "notes": "Sentence runs over 4176-4177."
+  },
+  {
+   "id": "u4177",
+   "en": "her heart full of feelings, sang a song of love.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4178",
+   "en": "And on hearing that song, Feff at last rose up against Ingues.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4179",
+   "en": "To protect the Mardook, and to protect Ishtar.",
+   "flags": [],
+   "notes": "Deliberate fragment, kept as in the Japanese."
+  },
+  {
+   "id": "u4180",
+   "en": "Under a full barrage from the entire fleet, Ingues perished along with his ship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4181",
+   "en": "The battle ended, and a peace treaty was signed between the Mardook and Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4182",
+   "en": "With Earth's crisis over, Ishtar set off together with Feff and the others.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4183",
+   "en": "To build a culture for the Mardook, far out in space...",
+   "flags": [],
+   "notes": "Deliberate trailing fragment, kept."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u4164 Ingues (glossary status 'wiki'); u4165/u4171 Hibiki Kanzaki needs_check; u4170 Mardook Mothership provisional.",
+   "u4148-4149: Japanese cuts between the object clause and 'Ranka realized'; English cuts after the participial clause instead (same sentence, same two rows)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Vajra battleship (u4159, generic, lowercase)"
+  ],
+  "unfinished": []
+ }
+}

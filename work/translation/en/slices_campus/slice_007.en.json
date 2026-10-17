@@ -1,0 +1,501 @@
+{
+ "slice": 7,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c00446",
+   "en": "It's just, I can't decide what to get\nfor a Christmas present.",
+   "flags": [],
+   "notes": "Female version; same English as c00423."
+  },
+  {
+   "id": "c00447",
+   "en": "Oh my, is it for your boyfriend?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00448",
+   "en": "Sadly, no.\nIt's for the Christmas party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00449",
+   "en": "(He went on and on for almost an hour...)",
+   "flags": [],
+   "notes": "Female version; subject is Bobby (male per glossary)."
+  },
+  {
+   "id": "c00450",
+   "en": "(I'm kinda hungry... Maybe I'll grab\nsomething to eat on the way home.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00451",
+   "en": "Hello, Ozma-san.",
+   "flags": [],
+   "notes": "x4. The player says Ozma-san (san, not a rank)."
+  },
+  {
+   "id": "c00452",
+   "en": "What are you doing around here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00453",
+   "en": "I'm hungry, so I thought I'd get\nsomething to eat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00454",
+   "en": "You... You're not planning on going\nto Nyan-Nyan, are you?",
+   "flags": [],
+   "notes": "Male version; Ozma is protective of Ranka, who works there."
+  },
+  {
+   "id": "c00455",
+   "en": "N-no... I haven't decided where to go yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00456",
+   "en": "...If you're going, you're taking me with you...",
+   "flags": [],
+   "notes": "Menacing."
+  },
+  {
+   "id": "c00457",
+   "en": "(...I'm sensing serious murderous intent...)",
+   "flags": [],
+   "notes": "sakki = killing intent."
+  },
+  {
+   "id": "c00458",
+   "en": "What's the point of bullying a kid, Ozma?",
+   "flags": [],
+   "notes": "??? (man) is Bobby (named next row)."
+  },
+  {
+   "id": "c00459",
+   "en": "What do you want, Bobby?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00460",
+   "en": "My, what a charming greeting, Ozma.\nKeep being so cranky and girls will hate you.",
+   "flags": [],
+   "notes": "go-aisatsu ne: sarcastic."
+  },
+  {
+   "id": "c00461",
+   "en": "Mind your own business!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00462",
+   "en": "\\p-chan!\nFull of energy today too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00463",
+   "en": "Oh, yes!",
+   "flags": [],
+   "notes": "x8."
+  },
+  {
+   "id": "c00464",
+   "en": "What a nice answer! You're just bursting\nwith youth~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00465",
+   "en": "So you're going out to eat?\nMind if I tag along?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00466",
+   "en": "Why should I have to eat with you?\nI'm eating one-on-one with this kid.",
+   "flags": [],
+   "notes": "koitsu = the player; 'this kid' keeps it gender-neutral (shared row)."
+  },
+  {
+   "id": "c00467",
+   "en": "Oh, come on.\nFood tastes better with lots of people, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00468",
+   "en": "(I never said a single word about eating\nwith them...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00469",
+   "en": "So, where are we going?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00470",
+   "en": "Right, where's it gonna be?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00471",
+   "en": "Huh? Um...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00472",
+   "en": "Nyan-Nyan",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c00473",
+   "en": "Oden stall",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c00474",
+   "en": "Going home",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x4: a choice here, but also a spoken line by Pinon in ext_pnn_002 ('kaeru' = I'm going home). 'Going home' reads as both."
+  },
+  {
+   "id": "c00475",
+   "en": "W-well then, Nyan-Nyan...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00476",
+   "en": "I knew it! You WERE planning on Nyan-Nyan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00477",
+   "en": "Y-yiiikes!!",
+   "flags": [],
+   "notes": "x16."
+  },
+  {
+   "id": "c00478",
+   "en": "Oh, who cares? Let's go see Ranka-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00479",
+   "en": "Ahh! That was delicious!",
+   "flags": [],
+   "notes": "x4 (both branches)."
+  },
+  {
+   "id": "c00480",
+   "en": "Thanks for the meal.",
+   "flags": [],
+   "notes": "x6."
+  },
+  {
+   "id": "c00481",
+   "en": "How did I end up paying for this...",
+   "flags": [],
+   "notes": "Shared by the Nyan-Nyan and oden branches."
+  },
+  {
+   "id": "c00482",
+   "en": "You were yelling way too much in there.\nBe grateful you didn't get banned.",
+   "flags": [],
+   "notes": "Shared by both branches; 'in there' keeps it generic."
+  },
+  {
+   "id": "c00483",
+   "en": "Tch!",
+   "flags": [],
+   "notes": "x6."
+  },
+  {
+   "id": "c00484",
+   "en": "Well, I'm heading home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00485",
+   "en": "I'm leaving too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00486",
+   "en": "\\p-chan,\nsee you laterrr~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00487",
+   "en": "Okay!\nBye, Bobby-san, Ozma-san!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00488",
+   "en": "Say my name first! You idiot!",
+   "flags": [],
+   "notes": "bakamon ga at full strength."
+  },
+  {
+   "id": "c00489",
+   "en": "Yiiikes!!",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c00490",
+   "en": "(Ugh... I'm going home...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00491",
+   "en": "Then, the oden stall...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00492",
+   "en": "...You're not just forcing yourself, are you?",
+   "flags": [],
+   "notes": "Ozma suspects the player picked oden out of fear of him."
+  },
+  {
+   "id": "c00493",
+   "en": "I-I'm not!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00494",
+   "en": "Then it's settled! Let's gooo~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00495",
+   "en": "A-actually, I'm going home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00496",
+   "en": "H-hey!!",
+   "flags": [],
+   "notes": "x5."
+  },
+  {
+   "id": "c00497",
+   "en": "Whaaat!\nYou're going hooome~!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00498",
+   "en": "(I've gotta stay away from those two...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00499",
+   "en": "You planning on going to Nyan-Nyan?",
+   "flags": [],
+   "notes": "Female version of c00454."
+  },
+  {
+   "id": "c00500",
+   "en": "(Wasn't today an S.M.S. training day...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00501",
+   "en": "Hey, Alto.\nLet's go to S.M.S.",
+   "flags": [],
+   "notes": "x5; also tagged Michel/female in the script dump, but the text is the male player's."
+  },
+  {
+   "id": "c00502",
+   "en": "Yeah, sure.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00503",
+   "en": "Michel, you come too!",
+   "flags": [],
+   "notes": "Male version (bare Michel)."
+  },
+  {
+   "id": "c00504",
+   "en": "Yeah.",
+   "flags": [],
+   "notes": "x23 soudana: generic agreement used by many speakers."
+  },
+  {
+   "id": "c00505",
+   "en": "I wonder what we're doing in training today...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00506",
+   "en": "Who knows... Depends on the Captain's mood.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "taichou = Ozma; rendered 'the Major' per the brief (Ozma-taichou -> Major). Aligned to the glossary decision of 2026-10-17."
+  },
+  {
+   "id": "c00507",
+   "en": "Oh my, if it isn't a whole lineup of hunks...!",
+   "flags": [],
+   "notes": "Male version; ??? (man) is Bobby."
+  },
+  {
+   "id": "c00508",
+   "en": "Bobby-san!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00509",
+   "en": "Hellooo~ you three.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00510",
+   "en": "Hello. Are you headed to S.M.S. too,\nBobby-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00511",
+   "en": "Yes, to do some tuning on the Quarter.",
+   "flags": [],
+   "notes": "Quarter = Macross Quarter."
+  },
+  {
+   "id": "c00512",
+   "en": "Sounds like hard work.\nWith a ship that size, there must be a ton\nof things to check.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00513",
+   "en": "Well, it's my job, so it can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00514",
+   "en": "Now then, let's all four go together,\nnice and friendly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00515",
+   "en": "H-hey! Don't pull me!\nAnd quit linking arms with me!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00516",
+   "en": "Wh-why me too...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00517",
+   "en": "(...Bobby-san's skin is so smooth...!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00518",
+   "en": "Ahh, it's so nice to be young...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00519",
+   "en": "Oh, I know!\nHow about some tea after training?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00520",
+   "en": "(What should I do?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00521",
+   "en": "Go for tea",
+   "flags": [],
+   "notes": "Choice (nomi ni iku, here tea)."
+  },
+  {
+   "id": "c00522",
+   "en": "Something urgent came up",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c00523",
+   "en": "Okay, let's go then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00524",
+   "en": "And you princesses?",
+   "flags": [],
+   "notes": "hime-tachi = Alto and Michel, teasing."
+  },
+  {
+   "id": "c00525",
+   "en": "Oh my, here I am offering to treat you to tea,\nand Princess Alto isn't satisfied?",
+   "flags": [],
+   "notes": "Alto-hime = Princess Alto (teasing nickname, glossary alias)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c00474: shared by a menu choice and a spoken Pinon line; 'Going home' chosen to serve both.",
+   "c00506: bare taichou (Ozma) rendered 'the Major'.",
+   "c00501: script dump also lists this row under Michel and the female scene; translated as the male player's line it reads as."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

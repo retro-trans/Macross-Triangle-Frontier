@@ -1,0 +1,504 @@
+{
+ "slice": 53,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c03926",
+   "en": "(I promised to go out with Alto today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03927",
+   "en": "Hey, \\p.\nSo, where are we going today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03928",
+   "en": "Yeah... actually, I haven't thought about it at all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03929",
+   "en": "Hey, wait! You invited me out\nand you didn't plan anything?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03930",
+   "en": "Hey, calm down.\nIt's nice to spend a day like this once in a while, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03931",
+   "en": "Geez, this doesn't bode well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03932",
+   "en": "Hey, hurry up, or I'm leaving you behind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03933",
+   "en": "Heh, come on, that's way too tacky, isn't it?",
+   "flags": [],
+   "notes": "Outing montage: Alto reacts to something the player picks out (not shown)."
+  },
+  {
+   "id": "c03934",
+   "en": "Geez, we're still going?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03935",
+   "en": "Ahahaha, what kind of stupid stunt is that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03936",
+   "en": "Phew, I'm pretty worn out...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03937",
+   "en": "No wonder, after running around all day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03938",
+   "en": "Ah, sorry, sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03939",
+   "en": "There's a limit to everything, you know. Honestly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03940",
+   "en": "Yeah, you're right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03941",
+   "en": "But, well... it wasn't bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03942",
+   "en": "Having this much fun, I...\nNah, never mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03943",
+   "en": "What is it? Now you're creeping me out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03944",
+   "en": "I'm just saying, maybe a day like this\nis nice once in a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03945",
+   "en": "I see. Glad to hear it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03946",
+   "en": "But I'll pass for a good while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03947",
+   "en": "Hahaha.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03948",
+   "en": "(Guess things work out even without a plan.\nLooks like Alto had fun too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03949",
+   "en": "(I promised to go out with Saotome-kun today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03950",
+   "en": "Yeah... actually, I haven't thought about it at all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03951",
+   "en": "Come on, calm down!\nIt's nice to spend a day like this once in a while, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03952",
+   "en": "Come on, that's way too tacky, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03953",
+   "en": "Phew, I'm a little tired...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03954",
+   "en": "Ah, I'm really sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03955",
+   "en": "Yeah, you're right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03956",
+   "en": "Hm?",
+   "flags": [],
+   "notes": "Shared by both player genders in several scenes."
+  },
+  {
+   "id": "c03957",
+   "en": "What? Now you're creeping me out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03958",
+   "en": "I see. I'm glad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03959",
+   "en": "Ahaha.",
+   "flags": [],
+   "notes": "Used 30 times: both player genders, Luca, Akimizu; 'Ahaha' as in the finished slices."
+  },
+  {
+   "id": "c03960",
+   "en": "(Guess things work out even without a plan.\nLooks like Saotome-kun had fun too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03961",
+   "en": "(I'm going shopping with Alto again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03962",
+   "en": "Hey, Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03963",
+   "en": "Hey, \\p.\nYou did decide where we're going this time, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03964",
+   "en": "Well... sort of... more or less...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03965",
+   "en": "No plan again today...?\nGeez, you're hopeless...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03966",
+   "en": "Phew, I could do with a little less winging it.\nWell, it was fun enough, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03967",
+   "en": "Hahaha, all's well that ends well, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03968",
+   "en": "(I had a blast today too!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03969",
+   "en": "(I'm going shopping with Saotome-kun again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03970",
+   "en": "Ahaha, all's well that ends well, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03971",
+   "en": "(I had a blast today too!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03972",
+   "en": "(I'm supposed to meet Alto at \"Silver Moon.\")",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in locations.json."
+  },
+  {
+   "id": "c03973",
+   "en": "\\p.\nYou're here already?",
+   "flags": [],
+   "notes": "Shared by Alto and Yamashiro (frd_itk_112)."
+  },
+  {
+   "id": "c03974",
+   "en": "Yeah, I just got here, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03975",
+   "en": "By the way, did you see Luca's EX-Gear today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03976",
+   "en": "Huh? I wasn't paying any attention to it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03977",
+   "en": "His engine unit wasn't the usual one.\nHis acceleration and stability on the climb\nwere in a whole other league.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03978",
+   "en": "You two are close, so why not just ask him?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03979",
+   "en": "No, I did ask. And he goes,\n'Huh? What do you mean? It's the same as always?'\nHonestly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03980",
+   "en": "He doesn't have to hide it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03981",
+   "en": "Now, now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03982",
+   "en": "And then there's Michael. At the practical exam,\nhe goes, 'Ladies first. After you, Princess Alto,'\nthe jerk...",
+   "flags": [],
+   "notes": "Mihaeru in the Japanese, so 'Michael'. Alto's 'iiyagaru' (rude verb ending) carried by 'the jerk'. 'Princess Alto' as in the finished rows."
+  },
+  {
+   "id": "c03983",
+   "en": "Isn't that just his usual routine...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03984",
+   "en": "Geez, every last one of them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03985",
+   "en": "By the way, Alto, what do you usually do at home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03986",
+   "en": "Hm? Ah, let's see. Cleaning, laundry, cooking...\nI do the housework, and before I know it,\nthe time's gone. That kind of thing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03987",
+   "en": "Oh, you live on your own, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03988",
+   "en": "Yeah. It's been over a year now, I guess...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03989",
+   "en": "...Alto... you'd make a great wife...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03990",
+   "en": "Why, you little...!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03991",
+   "en": "Ah, sorry, I was just joking...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03992",
+   "en": "(Alto's vibe has kind of changed since before.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03993",
+   "en": "(I'm supposed to meet Saotome-kun at \"Silver Moon.\")",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in locations.json."
+  },
+  {
+   "id": "c03994",
+   "en": "Yeah, I just got here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03995",
+   "en": "That's just his usual routine, isn't it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03996",
+   "en": "By the way, Saotome-kun, what do you usually\ndo at home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03997",
+   "en": "Hm? Ah, let's see. Cleaning, laundry, cooking...\nI do the housework, and before I know it,\nthe time's gone. That kind of thing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03998",
+   "en": "Oh, you live on your own, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03999",
+   "en": "...Saotome-kun... you'd make a great wife...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04000",
+   "en": "Why... you... little...!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04001",
+   "en": "Ah, sorryyy, I'm kidding, just kidding...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04002",
+   "en": "(Saotome-kun's vibe might have changed since before.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04003",
+   "en": "(I'm supposed to meet Alto at \"Silver Moon\" again today.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in locations.json."
+  },
+  {
+   "id": "c04004",
+   "en": "Hey, \\p.\nYou got here earlier than I expected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04005",
+   "en": "...and that's how it went. Geez.\nCan you believe it?",
+   "flags": [],
+   "notes": "Time skip: Alto is ending a rant whose start is not shown."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c03972/c03993/c04003: use Silver Moon (provisional in locations.json).",
+   "c03990/c04000: Alto's 'kisama!!' (comic outburst at being called a good wife) rendered 'Why, you little...!!' / 'Why... you... little...!!'.",
+   "c03982: jitsugi shiken rendered 'the practical exam' (as in finished row c23021), not the event name 'Practical Test'.",
+   "c03933/c03935/c03952: outing-montage reactions with no visible prompt; translated as reactions to something the player did or picked."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

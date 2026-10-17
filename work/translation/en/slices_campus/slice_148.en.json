@@ -1,0 +1,457 @@
+{
+ "slice": 148,
+ "rows_in_slice": 73,
+ "rows_examined": 73,
+ "rows": [
+  {
+   "id": "c10817",
+   "en": "(I invited Shirakawa to come train today, but...)",
+   "flags": [],
+   "notes": "Male, frd_myk_006."
+  },
+  {
+   "id": "c10818",
+   "en": "(She hasn't stopped moving this whole time,\nso we haven't talked at all...)",
+   "flags": [],
+   "notes": "x2, player, both genders; 'she' = Miyuki in both."
+  },
+  {
+   "id": "c10819",
+   "en": "Ah, looks like she's done.\nNice work, Shirakawa. Here, some water.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10820",
+   "en": "Thanks...",
+   "flags": [],
+   "notes": "x2, Miyuki; plain arigatou (not her usual polite form), so 'Thanks'."
+  },
+  {
+   "id": "c10821",
+   "en": "You look like you're in good form.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10822",
+   "en": "Not really...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10823",
+   "en": "Really? It didn't look that way to me...",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10824",
+   "en": "...Did something happen?",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10825",
+   "en": "Everyone who pairs up with me\nends up having an accident...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10826",
+   "en": "Huh? No way...",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10827",
+   "en": "I think it's because I'm not paying\nenough attention to what's around me...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10828",
+   "en": "...Shirakawa.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10829",
+   "en": "Things I could always do before...\nall of a sudden, I just can't do them anymore...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10830",
+   "en": "My mind goes blank, and by the time\nI realize it, it's already too late.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10831",
+   "en": "(This must be a slump...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10832",
+   "en": "You told me before, didn't you, Shirakawa?\nThat flying through space feels wonderful.",
+   "flags": [],
+   "notes": "Male; refers back to frd_myk_004 (c10688)."
+  },
+  {
+   "id": "c10833",
+   "en": "You haven't forgotten that feeling, have you?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10834",
+   "en": "You're so serious, Shirakawa.\nI think you're overthinking things.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10835",
+   "en": "Thinking isn't bad. In fact, you should think.\nBut if you overthink so much you can't move,\nthen what's the point?",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10836",
+   "en": "Why not just move more naturally,\nthe way it feels right to you?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10837",
+   "en": "Well, I'm not exactly in a position\nto lecture anyone, though.",
+   "flags": [],
+   "notes": "Male; erasou na koto ieru tachiba ja nai."
+  },
+  {
+   "id": "c10838",
+   "en": "That's not true...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10839",
+   "en": "It makes me really happy...",
+   "flags": [],
+   "notes": "x2, Miyuki; subject restored (what the player said)."
+  },
+  {
+   "id": "c10840",
+   "en": "You know, I really like...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male. The Japanese boku wa suki da yo is complete with the object dropped, so Miyuki hears 'I like you'; the object comes in c10842 (inverted sentence). English cannot drop the object, so the line trails and c10842 completes it."
+  },
+  {
+   "id": "c10841",
+   "en": "......Excuse me!?",
+   "flags": [],
+   "notes": "Male, Miyuki (hai!? in shock)."
+  },
+  {
+   "id": "c10842",
+   "en": "...seeing you work so hard, Shirakawa.",
+   "flags": [],
+   "notes": "Male; completes c10840."
+  },
+  {
+   "id": "c10843",
+   "en": "...............Wha-huh?",
+   "flags": [],
+   "notes": "Male, Miyuki; hahi? = a garbled, flustered hai."
+  },
+  {
+   "id": "c10844",
+   "en": "Wait, what's wrong?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10845",
+   "en": "N-no, i-it's nothing...\nWell, it's not exactly nothing, but...",
+   "flags": [],
+   "notes": "Male, Miyuki."
+  },
+  {
+   "id": "c10846",
+   "en": "You're a weird one...",
+   "flags": [],
+   "notes": "Male; hen na yatsu."
+  },
+  {
+   "id": "c10847",
+   "en": "I don't want to hear that from you!!",
+   "flags": [],
+   "notes": "Male, Miyuki."
+  },
+  {
+   "id": "c10848",
+   "en": "Oh, honestly, let's go!!",
+   "flags": [],
+   "notes": "Male, Miyuki."
+  },
+  {
+   "id": "c10849",
+   "en": "Huh? Ah! Hey, wait!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10850",
+   "en": "Thank you for today...\nI feel like I understand, just a little...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10851",
+   "en": "Okay, I'm glad.",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10852",
+   "en": "(I'm glad she cheered up, even just a little!\nI'd better work hard too!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10853",
+   "en": "(I invited Miyuki to come train today, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10854",
+   "en": "Ah, looks like she's done.\nNice work, Miyuki. Here, some water.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10855",
+   "en": "You look like you're in good form.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10856",
+   "en": "......Miyuki.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10857",
+   "en": "(Could this be a slump...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10858",
+   "en": "You told me before, didn't you, Miyuki?\nThat flying through space feels wonderful.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10859",
+   "en": "You haven't forgotten that feeling, have you?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10860",
+   "en": "You're so serious, Miyuki.\nI think you're overthinking things.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10861",
+   "en": "Why not just move more naturally,\nthe way it feels right to you?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10862",
+   "en": "Well, I'm not really one to talk, though.",
+   "flags": [],
+   "notes": "Female; watashi ga ieru tachiba ja nai."
+  },
+  {
+   "id": "c10863",
+   "en": "You know, I really like...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female; same inverted sentence as c10840, completed by c10864."
+  },
+  {
+   "id": "c10864",
+   "en": "...seeing you work so hard, Miyuki.",
+   "flags": [],
+   "notes": "Female; completes c10863."
+  },
+  {
+   "id": "c10865",
+   "en": "Hehe... Thank you.",
+   "flags": [],
+   "notes": "Female, Miyuki; kusu' as c10698. Review: Miyuki's kusukusu/kusu is 'Hehe' (as elsewhere)."
+  },
+  {
+   "id": "c10866",
+   "en": "Yeah, let's hang out again sometime.",
+   "flags": [],
+   "notes": "Female; answers 'Well then, see you later.'"
+  },
+  {
+   "id": "c10867",
+   "en": "(I'm glad she cheered up, even just a little!\nI'd better work hard too!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10868",
+   "en": "(Training with Shirakawa again today.)",
+   "flags": [],
+   "notes": "Male; later visit."
+  },
+  {
+   "id": "c10869",
+   "en": "(Ah, she's already here. Better hurry!)",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10870",
+   "en": "\\p-kun,\nyou're late!",
+   "flags": [],
+   "notes": "Male, Miyuki; as the female c09095."
+  },
+  {
+   "id": "c10871",
+   "en": "S-sorry... Did I keep you waiting, Shirakawa?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10872",
+   "en": "Just kidding. I only just got here myself.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10873",
+   "en": "(Looks like she's managed to get\nher head back in the game.)",
+   "flags": [],
+   "notes": "Male; kimochi no kirikae."
+  },
+  {
+   "id": "c10874",
+   "en": "Let's do our best today too.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10875",
+   "en": "Sh-Shirakawa... you're pushing way too hard...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10876",
+   "en": "You're just a slacker, that's all.",
+   "flags": [],
+   "notes": "x2, Miyuki; anata ga darashi ga nai dake."
+  },
+  {
+   "id": "c10877",
+   "en": "Y-you think so...?",
+   "flags": [],
+   "notes": "x2, player; Miyuki answers 'That's right!' (c07821)."
+  },
+  {
+   "id": "c10878",
+   "en": "So let's eat something tasty\nand get our strength back.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10879",
+   "en": "Oh, sounds good!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10880",
+   "en": "Come on, let's go.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10881",
+   "en": "Ah, okay, wait for me!!",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10882",
+   "en": "(There's no stopping Shirakawa\nonce she's back on her feet.)",
+   "flags": [],
+   "notes": "Male; te ga tsukerarenai."
+  },
+  {
+   "id": "c10883",
+   "en": "(Training with Miyuki again today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10884",
+   "en": "S-sorry... Did I keep you waiting, Miyuki?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10885",
+   "en": "Oh, okay, that's good~",
+   "flags": [],
+   "notes": "Female; answers 'Just kidding, I only just got here myself.'"
+  },
+  {
+   "id": "c10886",
+   "en": "(Looks like she's managed to get\nher head back in the game...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10887",
+   "en": "M-Miyuki... you're pushing way too hard...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10888",
+   "en": "Ooh~ Sounds good, sounds good~!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10889",
+   "en": "(There's no stopping Miyuki\nonce she's back on her feet.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c10840/c10863: 'suki da yo' with the object dropped (Miyuki hears 'I like you'), completed by c10842/c10864 'seeing you work so hard'. English trails 'You know, I really like...' to keep the misunderstanding; the Japanese line itself is grammatically complete."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

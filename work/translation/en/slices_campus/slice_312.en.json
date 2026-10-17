@@ -1,0 +1,502 @@
+{
+ "slice": 312,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c22506",
+   "en": "I'll make it up to you next year.",
+   "flags": [],
+   "notes": "Shared by the male and female Gary scenes."
+  },
+  {
+   "id": "c22507",
+   "en": "Ehh, really...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22508",
+   "en": "Well, if I still remember by then!\nSee ya. Keep working hard next year too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22509",
+   "en": "Huh? Ah, okay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22510",
+   "en": "(I wonder how much of that Gary-sensei meant...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22511",
+   "en": "(Christmas again already this year, huh.\nTime sure flies...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22512",
+   "en": "Honestly, geez...",
+   "flags": [],
+   "notes": "Female Gary scene; the player grumbles after Gary's excuse (script order: c22505, c22512, c22506)."
+  },
+  {
+   "id": "c22513",
+   "en": "Yeah, next year it'll be a party night\nfor just the two of us!",
+   "flags": [],
+   "notes": "Answers the player's doubtful \"really?\" (c22507) in the female scene."
+  },
+  {
+   "id": "c22514",
+   "en": "Huh? You mean...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22515",
+   "en": "Oops, look at the time.\nSee ya. Keep working hard next year too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22516",
+   "en": "(I promised to go to this year's Christmas party\nwith Luis-san, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22517",
+   "en": "Yo, Fresh Boy.\nMerry Christmas!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22518",
+   "en": "Merry Christmas, Luis-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22519",
+   "en": "I'm looking forward to this year's Christmas party\ntoo. Let's all make it even livelier\nthan last year!",
+   "flags": [],
+   "notes": "x4: Luis and Klan scenes, both genders (polite form)."
+  },
+  {
+   "id": "c22520",
+   "en": "Me... I wouldn't mind spending\na Christmas night overflowing with passion\nwith just you...",
+   "flags": [],
+   "notes": "Luis to the player; shared male/female."
+  },
+  {
+   "id": "c22521",
+   "en": "Nah, never mind. Let's hurry to the venue.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22522",
+   "en": "All the passion around me got me fired up too.\nI just couldn't hold it back.",
+   "flags": [],
+   "notes": "Luis answering the player's \"that was fun\" (c22481)."
+  },
+  {
+   "id": "c22523",
+   "en": "I think so too.\nNext year, like this again... No, next year, how about\na Christmas party night for just the two of us?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22524",
+   "en": "...It's a joke!\nHeh, see you next year.",
+   "flags": [],
+   "notes": "Itsu a jooku: Luis's katakana English, \"It's a joke!\"."
+  },
+  {
+   "id": "c22525",
+   "en": "Okay, see you next year...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22526",
+   "en": "(I'm glad I got to have a fun Christmas...\nbut Luis-san's last remark kind of surprised me.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22527",
+   "en": "Yo, Fresh Girl.\nMerry Christmas!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22528",
+   "en": "(I'm glad I got to have a fun Christmas...\nbut Luis-san's last remark kind of surprised me.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22529",
+   "en": "(I'm supposed to meet Shirakawa\nat the school gate...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22530",
+   "en": "\\p-kun.\nMerry Christmas.",
+   "flags": [],
+   "notes": "Also Claire (male-player Claire scene)."
+  },
+  {
+   "id": "c22531",
+   "en": "Merry Christmas, Shirakawa.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22532",
+   "en": "I've been looking forward to this year's\nChristmas party too. Let's all make it\neven livelier than last year!",
+   "flags": [],
+   "notes": "Also the Ranka scene (male player)."
+  },
+  {
+   "id": "c22533",
+   "en": "...I wouldn't mind spending it with just you...",
+   "flags": [],
+   "notes": "Shirakawa (Miyuki) to the player; shared male/female."
+  },
+  {
+   "id": "c22534",
+   "en": "N-no, never mind. Let's go, shall we!?",
+   "flags": [],
+   "notes": "Ikimashou!? flustered: \"Let's go, shall we!?\"."
+  },
+  {
+   "id": "c22535",
+   "en": "Huh? Oh, hey, wait up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22536",
+   "en": "But I never thought Yamashiro-sensei\nwould show up dressed as Santa...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22537",
+   "en": "It really turned into a fun Christmas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22538",
+   "en": "But next year, maybe a Christmas party\nfor just the two of us would be nice...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22539",
+   "en": "...N-never mind!\nW-well then, see you next year...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22540",
+   "en": "Yeah, here's to next year too.",
+   "flags": [],
+   "notes": "Mata rainen mo yoroshiku: \"here's to next year too\". Also the Ranka scene."
+  },
+  {
+   "id": "c22541",
+   "en": "(I'm glad I got to have a fun Christmas...\nbut Shirakawa's last remark kind of surprised me~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22542",
+   "en": "(I've gotta enjoy today's Christmas party\neven more than last year's.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22543",
+   "en": "(I'm supposed to meet Miyuki at the school gate...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22544",
+   "en": "\\p-chan.\nMerry Christmas.",
+   "flags": [],
+   "notes": "Also Claire (female-player Claire scene)."
+  },
+  {
+   "id": "c22545",
+   "en": "Merry Christmas, Miyuki!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22546",
+   "en": "I'm looking forward to this year's Christmas party\ntoo. Let's all make it even livelier\nthan last year!",
+   "flags": [],
+   "notes": "x5, polite form, several female/male partner scenes."
+  },
+  {
+   "id": "c22547",
+   "en": "Huh? O-okay! Wait for meee!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22548",
+   "en": "Wow~ that was fun again this year~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22549",
+   "en": "...N-never mind!\nW-well then, see you next year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22550",
+   "en": "Yeah, here's to next year too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22551",
+   "en": "(I'm glad I got to have a fun Christmas...\nbut Miyuki's last remark kind of surprised me~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22552",
+   "en": "(I ended up going to the Academy's Christmas\nparty with Hilda-sensei, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22553",
+   "en": "I see. Still, Christmas puts you in a good mood\nno matter how old you get.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22554",
+   "en": "Huh? Even you, Sensei?\nThat's a little surprising...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22555",
+   "en": "Are you picking a fight with me?",
+   "flags": [],
+   "notes": "Kisama: Hilda's harsh \"you\", carried by the tone."
+  },
+  {
+   "id": "c22556",
+   "en": "No, not at all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22557",
+   "en": "Then quit the stupid wisecracks.\nCome on, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22558",
+   "en": "That was fun, wasn't it? The Christmas party!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22559",
+   "en": "Hm, well... I suppose so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22560",
+   "en": "You looked like you were having a great time, Sensei!\nI never imagined Hilda-sensei would get\nso carried away...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22561",
+   "en": "No, I... don't believe... that was the case...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22562",
+   "en": "I hope next year's Christmas is a good one too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22563",
+   "en": "Indeed. I'm counting on you next year too.",
+   "flags": [],
+   "notes": "Hilda: rainen mo yoroshiku tanomu; the player reads something into it (c22564)."
+  },
+  {
+   "id": "c22564",
+   "en": "Huh!? What do you mean by that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22565",
+   "en": "Nothing in particular. See you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22566",
+   "en": "(Who knew Hilda-sensei actually likes parties\nand stuff...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22567",
+   "en": "No, I just got here too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22568",
+   "en": "Huh? Even you, Sensei?\nThat's kind of surprising...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22569",
+   "en": "No, that's not what I meant...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22570",
+   "en": "Indeed. So apply yourself to your studies for it.\nIf you had to repeat a year, it'd be a sorry sight.",
+   "flags": [],
+   "notes": "Female Hilda scene: answers c22562."
+  },
+  {
+   "id": "c22571",
+   "en": "Mm. Well then, you head home soon too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22572",
+   "en": "(Who knew Hilda-sensei actually likes parties\nand stuff...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22573",
+   "en": "(I promised to go to this year's Christmas party\nwith Hoshimura, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22574",
+   "en": "Merry~! Merry~! Christmaaaas!!!\n\\p!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22575",
+   "en": "And thank you most sincerely for inviting me\ntoday, indeed... yes, most indeed!",
+   "flags": [],
+   "notes": "Yui mangles an over-polite greeting (gozaimasu de... gozaimasu)."
+  },
+  {
+   "id": "c22576",
+   "en": "Huh? What's with the sudden formality?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22577",
+   "en": "Well, I mean...\nIs it really okay for you to spend something as big\nas Christmas with someone like me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22578",
+   "en": "Of course it is. I made plans with you\nbecause I wanted to spend it with you, Hoshimura.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22579",
+   "en": "Uuu...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22580",
+   "en": "\\p, you natural-born flirt...",
+   "flags": [],
+   "notes": "Tennen tarashi: shared male/female, so gender-neutral \"natural-born flirt\"."
+  },
+  {
+   "id": "c22581",
+   "en": "Come on, let's hurry to the venue!\nI'll leave you behind, \\p!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22582",
+   "en": "Hey, wait up, Hoshimura.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22583",
+   "en": "Who'd have thought Luis-san would pull something\nlike that... Even I didn't see that coming...",
+   "flags": [],
+   "notes": "What Luis did at the party is not shown."
+  },
+  {
+   "id": "c22584",
+   "en": "It really was a great Christmas.",
+   "flags": [],
+   "notes": "x4: Yui, Pinon, Michel scenes."
+  },
+  {
+   "id": "c22585",
+   "en": "Yeah, it totally was.\nIt'd be the best if we could have this much fun\nnext year too!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c22517/c22527: furesshu booi / gaaru kept as 'Fresh Boy' / 'Fresh Girl' (see slices 310-311).",
+   "c22580: tennen tarashi (natural seducer) shared by both player genders: 'natural-born flirt'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Fresh Boy / Fresh Girl (Luis's nickname for the player)"
+  ],
+  "unfinished": []
+ }
+}

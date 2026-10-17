@@ -1,0 +1,458 @@
+{
+ "slice": 287,
+ "rows_in_slice": 73,
+ "rows_examined": 73,
+ "rows": [
+  {
+   "id": "c20558",
+   "en": "(Okay, P.E.'s next. Better give it my all...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20559",
+   "en": "(Huh, Akimizu? What's she doing here?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20560",
+   "en": "Akimizu! What's up? What are you doing here...?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20561",
+   "en": "Oh, \\p-kun!\n...Um... actually...",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c20562",
+   "en": "Next period is co-ed P.E., isn't it?\nBut being seen in gym clothes is kind of\nembarrassing...",
+   "flags": [],
+   "notes": "Akimizu, both genders. Boys and girls together."
+  },
+  {
+   "id": "c20563",
+   "en": "So I thought I'd wait here until class starts...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20564",
+   "en": "Oh, I see...\nBut once class starts, isn't it the same\nthing anyway...?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20565",
+   "en": "It is NOT!",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c20566",
+   "en": "Oh, r-right. Sorry...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20567",
+   "en": "(I guess Akimizu's worried about the guys\nlooking at her...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20568",
+   "en": "(Okay, P.E.'s next. Better give it my all...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20569",
+   "en": "(Huh, Yuu? What's she doing here?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20570",
+   "en": "Hey, Yuu! What's up? What are you doing here...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20571",
+   "en": "Oh, \\p-chan!\n...Um... actually...",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c20572",
+   "en": "Oh, I see...\nBut once class starts, won't it be the same\nthing anyway?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20573",
+   "en": "It's totally, completely different!",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c20574",
+   "en": "Oh, okay. Sorry...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20575",
+   "en": "(I guess Yuu's worried about the guys\nlooking at her...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20576",
+   "en": "(All right, I'm gonna have fun all day today!\n...But doing what...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20577",
+   "en": "(Maybe I should've invited someone along...\nHuh? Is that Akimizu over there?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20578",
+   "en": "Heyyy, Akimizu!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20579",
+   "en": "Huh!? Wait, what!?",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20580",
+   "en": "Akimizu!?",
+   "flags": [],
+   "notes": "Male. Puzzled by her reaction."
+  },
+  {
+   "id": "c20581",
+   "en": "Yes! Um, uh... what was your name again...",
+   "flags": [],
+   "notes": "Akimizu, both genders. She knows the face but cannot place the name; the next lines settle it."
+  },
+  {
+   "id": "c20582",
+   "en": "Huh? It's me! Me!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20583",
+   "en": "Yes, I know that, but...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20584",
+   "en": "Oh! \\p-kun!\nThat's right, it's \\p-kun!",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c20585",
+   "en": "Sorry, you're in regular clothes, so you\nlooked kind of different...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20586",
+   "en": "Well, that kind of thing... can... happen...\nI guess...",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20587",
+   "en": "(Wow, Akimizu is a total airhead...)",
+   "flags": [],
+   "notes": "Male. Tennen = airhead, as in ext_yuu_001."
+  },
+  {
+   "id": "c20588",
+   "en": "(All right, I'm gonna have fun all day today!\n...But doing what...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20589",
+   "en": "(I should've invited someone along...\nHuh? Is that Yuu over there?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20590",
+   "en": "Hey, Yuu!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20591",
+   "en": "Yuu!?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20592",
+   "en": "Huh? It's me! Me!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20593",
+   "en": "Oh! \\p-chan!\nThat's right, it's \\p-chan!",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c20594",
+   "en": "(Sheesh, Yuu is a total airhead...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20595",
+   "en": "(It's so hot today. Glad swimming's next~)",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20596",
+   "en": "Huh, is that Akimizu?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "PLAYER, male scene. Also two stray occurrences after 'I... I see...' (one in the female branch) that seem to be leftovers; the female scene's real line is c20608 'Yuu'."
+  },
+  {
+   "id": "c20597",
+   "en": "She's moving around like she's trying to\nhide behind people...",
+   "flags": [],
+   "notes": "PLAYER, both genders. 'She' = Akimizu, known in both scenes."
+  },
+  {
+   "id": "c20598",
+   "en": "Heyyy, Akimizu~",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20599",
+   "en": "What's up? Why are you hiding back there\nlike that...?",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20600",
+   "en": "Well, um...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20601",
+   "en": "The weather's so nice, so let's enjoy\nswimming to the fullest...",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20602",
+   "en": "...O-okay...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20603",
+   "en": "That's the spirit!\n...!?",
+   "flags": [],
+   "notes": "PLAYER, both genders. Then notices her figure."
+  },
+  {
+   "id": "c20604",
+   "en": "...Do I look weird or something?",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20605",
+   "en": "...I just get kind of embarrassed about\nswimsuits and stuff...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20606",
+   "en": "I... I see...",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20607",
+   "en": "(Akimizu's got a surprisingly nice figure...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20608",
+   "en": "Huh, is that Yuu?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20609",
+   "en": "Heyyy, Yuu~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20610",
+   "en": "(Yuu's got a surprisingly nice figure...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20611",
+   "en": "(Hmm~, what was my next class again...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20612",
+   "en": "Oh, \\p-kun.\nIs something wrong?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Akimizu, male scene. Also two stray occurrences plated PLAYER/none (male and female branch) right before the closing thought; translated for Akimizu's real use."
+  },
+  {
+   "id": "c20613",
+   "en": "Nah, I was just wondering what our next\nclass was...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20614",
+   "en": "Geez! You should at least remember your\ntimetable! A student's job is to study, you know!",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20615",
+   "en": "Yeah, you're right. I'll do better...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20616",
+   "en": "That's right. Just this once, I'll tell you\nas a special favor!",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20617",
+   "en": "Please do.",
+   "flags": [],
+   "notes": "PLAYER; also scd_com_510 and scd_fes_813, where the teacher offers to fill in the career form. 'Please do.' fits all."
+  },
+  {
+   "id": "c20618",
+   "en": "Next class is...\nUm, next class is...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20619",
+   "en": "Oh, ah, ahaha...\nLooks like I forgot...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20620",
+   "en": "Sorry for acting all high and mighty...",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c20621",
+   "en": "Nah, well, that happens sometimes.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20622",
+   "en": "(Akimizu really is an airhead...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20623",
+   "en": "(Um, what was my next class again...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20624",
+   "en": "Oh, \\p-chan.\nIs something wrong?",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c20625",
+   "en": "Yeah, I forgot what our next class is...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20626",
+   "en": "You're so right. I'll do better...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20627",
+   "en": "Okaaay, please do.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20628",
+   "en": "Sorryyy for acting all high and mighty...",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c20629",
+   "en": "It's okay, that happens sometimes.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20630",
+   "en": "(So Yuu's an airhead...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c20596: also used twice as a stray line after c20606 (once in the female branch, where the player would say 'Akimizu'); translated for the real male use.",
+   "c20612: Akimizu's greeting; two extra occurrences carry a PLAYER/none plate just before the closing thought in both branches, apparently leftovers; translated as Akimizu's line."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

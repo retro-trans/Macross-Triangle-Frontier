@@ -1,0 +1,388 @@
+{
+ "slice": 30,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c02175",
+   "en": "Heading home now, Shirakawa?",
+   "flags": [],
+   "notes": "Male; ext_myk_003 and 005."
+  },
+  {
+   "id": "c02176",
+   "en": "...Well, something like that.\nAre you on your way home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02177",
+   "en": "Yeah, that's right.",
+   "flags": [],
+   "notes": "x16 in the jealousy scenes, both genders."
+  },
+  {
+   "id": "c02178",
+   "en": "Huh? Yeah. What about it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02179",
+   "en": "Wh-why would I lie about that?",
+   "flags": [],
+   "notes": "Also to Akimizu (ext_yuu_003/005)."
+  },
+  {
+   "id": "c02180",
+   "en": "...Isn't there something you should tell me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02181",
+   "en": "What's with you all of a sudden...?\nSomething to tell you...? Not really... I think?\nProbably...",
+   "flags": [],
+   "notes": "x10 (male player, jealousy scenes); follows the shared c00235."
+  },
+  {
+   "id": "c02182",
+   "en": "Playing dumb, are you?\nHmmm...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02183",
+   "en": "...I hear you've gotten close with that woman\nlately? I heard the rumors, you know.",
+   "flags": [],
+   "notes": "ano onna no hito: who is meant is never said."
+  },
+  {
+   "id": "c02184",
+   "en": "But I... won't lose...\nI'm the one who'll win in the end!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02185",
+   "en": "Heading home now, Miyuki?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02186",
+   "en": "Yep~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02187",
+   "en": "Wh-why would I lie about that?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02188",
+   "en": "What's wrong all of a sudden...?\nSomething to tell you...? Not really... I think?\nProbably...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02189",
+   "en": "Shirakawa~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02190",
+   "en": "Hello,\n\\p-kun.",
+   "flags": [],
+   "notes": "x8: Shirakawa, Akimizu, Ranka, Claire; same form as c00646."
+  },
+  {
+   "id": "c02191",
+   "en": "What are you doing in front of Nyan-Nyan?",
+   "flags": [],
+   "notes": "Also ext_yuu_004."
+  },
+  {
+   "id": "c02192",
+   "en": "I was just thinking it looked tasty...",
+   "flags": [],
+   "notes": "Also Akimizu."
+  },
+  {
+   "id": "c02193",
+   "en": "Why don't you go in, then?",
+   "flags": [],
+   "notes": "Also to Hoshimura (ext_yui_004) and Akimizu."
+  },
+  {
+   "id": "c02194",
+   "en": "I don't have much money on me today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02195",
+   "en": "Then I'll treat you.",
+   "flags": [],
+   "notes": "Also ext_yuu_004."
+  },
+  {
+   "id": "c02196",
+   "en": "Oh no, I couldn't...",
+   "flags": [],
+   "notes": "sonna, warui wa."
+  },
+  {
+   "id": "c02197",
+   "en": "Come on, I'm hungry too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02198",
+   "en": "C'mon, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02199",
+   "en": "H-hey, quit pushing me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02200",
+   "en": "Okay, let's go all out!",
+   "flags": [],
+   "notes": "jaa, dondon ikou ka: ordering at the table."
+  },
+  {
+   "id": "c02201",
+   "en": "I feel kind of bad about this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02202",
+   "en": "Excuse meee!\nFour orders of maguro buns!!",
+   "flags": [],
+   "notes": "tenin-saan: calling the clerk."
+  },
+  {
+   "id": "c02203",
+   "en": "Th-that many?!",
+   "flags": [],
+   "notes": "Also Akimizu."
+  },
+  {
+   "id": "c02204",
+   "en": "It's fine, it's fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02205",
+   "en": "I'm so full...",
+   "flags": [],
+   "notes": "Also Akimizu."
+  },
+  {
+   "id": "c02206",
+   "en": "You really put it away, huh?",
+   "flags": [],
+   "notes": "naka naka ii tabeppuri."
+  },
+  {
+   "id": "c02207",
+   "en": "...Th-that's because you forced me to...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02208",
+   "en": "Ahaha!\nWell then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02209",
+   "en": "Excuse meee, could we get the check, please...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02210",
+   "en": "Whoa, that's pretty pricey.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02211",
+   "en": "Okay, my wallet, my wallet...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02212",
+   "en": "...Huh? Wait...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02213",
+   "en": "My wallet's not here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02214",
+   "en": "H-hey!\nWhat's that supposed to mean?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02215",
+   "en": "Um, could I maybe work here for a bit...?\nWashing dishes or something...",
+   "flags": [],
+   "notes": "To the Nyan-Nyan clerk."
+  },
+  {
+   "id": "c02216",
+   "en": "Th-thank you very much.",
+   "flags": [],
+   "notes": "Shirakawa waitressing; also the player to Yamashiro (frd_itk_107)."
+  },
+  {
+   "id": "c02217",
+   "en": "Welcome~!",
+   "flags": [],
+   "notes": "Also Akimizu."
+  },
+  {
+   "id": "c02218",
+   "en": "J-just a moment, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02219",
+   "en": "Th-thanks for all your hard work.",
+   "flags": [],
+   "notes": "otsukaresama."
+  },
+  {
+   "id": "c02220",
+   "en": "Sorry!\nFor getting you into this mess.",
+   "flags": [],
+   "notes": "Also to Akimizu."
+  },
+  {
+   "id": "c02221",
+   "en": "Well, it was good exercise after the meal...\nAnd I got to wear a Nyan-Nyan uniform...",
+   "flags": [],
+   "notes": "isshou: the waitress outfit."
+  },
+  {
+   "id": "c02222",
+   "en": "It looked great on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02223",
+   "en": "Th-there you go... saying things like that again!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02224",
+   "en": "But it's true...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02225",
+   "en": "...Sigh... Thanks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02226",
+   "en": "Well then, shall we head home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02227",
+   "en": "Let's do that.",
+   "flags": [],
+   "notes": "Also Luca (frd_luk_103) and Shirakawa (frd_myk_007)."
+  },
+  {
+   "id": "c02228",
+   "en": "Miyuki~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02229",
+   "en": "Hello,\n\\p-san.",
+   "flags": [],
+   "notes": "x8: Shirakawa, Luca."
+  },
+  {
+   "id": "c02230",
+   "en": "Then I'll treat you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02231",
+   "en": "Come on, I'm hungry too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02232",
+   "en": "Sorry!\nFor getting you into this mess.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02233",
+   "en": "It looks great on you~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02234",
+   "en": "You too...",
+   "flags": [],
+   "notes": "The player wore the uniform as well."
+  },
+  {
+   "id": "c02235",
+   "en": "Thanks!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02236",
+   "en": "Heh heh.",
+   "flags": [],
+   "notes": "fufu; also Alto (frd_alt_004) and Claire (scd_com_409)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c02183: 'ano onna no hito' rendered 'that woman'; the woman is never named.",
+   "c02236: 'fufu' shared by Shirakawa, Alto and Claire rendered 'Heh heh.' to suit all three."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

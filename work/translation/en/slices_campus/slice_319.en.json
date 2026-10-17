@@ -1,0 +1,497 @@
+{
+ "slice": 319,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c23050",
+   "en": "(I heard our class was running a cafe\nas its event this year, but...)",
+   "flags": [],
+   "notes": "Shared male/female. Culture Fest class attraction (dashimono). 'cafe' without accent (Shift-JIS)."
+  },
+  {
+   "id": "c23051",
+   "en": "Welcome home, Master!",
+   "flags": [],
+   "notes": "Ranka, maid-cafe greeting (goshujin-sama); the female version c23147 uses 'Milady'."
+  },
+  {
+   "id": "c23052",
+   "en": "Welcome to the 'Galactic Fairy' Cafe!",
+   "flags": [],
+   "notes": "Sheryl; shared male/female. The cafe is named after her title."
+  },
+  {
+   "id": "c23053",
+   "en": "Oh, wait... It's just \\p.",
+   "flags": [],
+   "notes": "Sheryl."
+  },
+  {
+   "id": "c23054",
+   "en": "(So it's a cafe, all right...\na maid cafe...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23055",
+   "en": "What are you spacing out for?!\nWe're almost out of time before we open.\nHurry up and get ready!",
+   "flags": [],
+   "notes": "Sheryl to the player; shared male/female."
+  },
+  {
+   "id": "c23056",
+   "en": "Welcome hoooome~~!!\nWill it be tea? Will it be swee~ts?\nOr perhaps... my-sel......",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hoshimura; shared male/female. The classic 'bath, dinner, or me (a-ta-shi)?' gag, cut off after 'a-ta'; cut 'myself' at the matching point."
+  },
+  {
+   "id": "c23057",
+   "en": "...Hoshimura, you're the one who remodeled\nthe classroom, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23058",
+   "en": "Yep, that's right!\nA job like this is a cinch for yours truly!",
+   "flags": [],
+   "notes": "Hoshimura; shared. 'Yours truly' for her old-fashioned voice."
+  },
+  {
+   "id": "c23059",
+   "en": "(Like last year, can you really call this\njust a remodel? I can see the ocean and\nan artificial island outside...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23060",
+   "en": "(Oh well... Better not dig too deep!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23061",
+   "en": "I'm counting on you today,\n\\p-kun.",
+   "flags": [],
+   "notes": "Claire."
+  },
+  {
+   "id": "c23062",
+   "en": "Huh?! Claire-senpai!\nIf you're wearing a maid outfit, then...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23063",
+   "en": "Yes, I came to lend a hand today.\nKlan came along to help too.",
+   "flags": [],
+   "notes": "Claire; shared."
+  },
+  {
+   "id": "c23064",
+   "en": "That said, it looks like Klan came\nfor another reason rather than to help...",
+   "flags": [],
+   "notes": "Claire; shared."
+  },
+  {
+   "id": "c23065",
+   "en": "Another reason?",
+   "flags": [],
+   "notes": "Shared."
+  },
+  {
+   "id": "c23066",
+   "en": "That. Over there.",
+   "flags": [],
+   "notes": "Claire points at Michel; shared."
+  },
+  {
+   "id": "c23067",
+   "en": "Welcome home, young master.",
+   "flags": [],
+   "notes": "Michel in a butler outfit (obocchama); female version c23154 'my lady'."
+  },
+  {
+   "id": "c23068",
+   "en": "A b-butler outfit...?!",
+   "flags": [],
+   "notes": "Shared."
+  },
+  {
+   "id": "c23069",
+   "en": "Miyuki got them ready to bring in\na wider range of customers.",
+   "flags": [],
+   "notes": "Michel; shared. Kyakusou wo fuyasu = broaden the clientele."
+  },
+  {
+   "id": "c23070",
+   "en": "Though apparently she couldn't rent many\nbutler outfits, so there aren't a lot of them.",
+   "flags": [],
+   "notes": "Michel; shared. 'She' = Miyuki (female)."
+  },
+  {
+   "id": "c23071",
+   "en": "Hmph! Even you clean up nice\nin the right clothes, Michel!",
+   "flags": [],
+   "notes": "Klan; shared. Mago nimo ishou (even a packhorse driver looks fine in good clothes): a backhanded compliment."
+  },
+  {
+   "id": "c23072",
+   "en": "But you in that butler outfit...\nI-it doesn't NOT suit you!!",
+   "flags": [],
+   "notes": "Klan; shared. Niattenaku mo nai = the grudging double negative kept."
+  },
+  {
+   "id": "c23073",
+   "en": "And your maid outfit...\nWell, it's not bad, I guess.",
+   "flags": [],
+   "notes": "Michel; shared."
+  },
+  {
+   "id": "c23074",
+   "en": "R-really...?",
+   "flags": [],
+   "notes": "Klan; shared."
+  },
+  {
+   "id": "c23075",
+   "en": "(They could just compliment each other\nlike normal people...)",
+   "flags": [],
+   "notes": "Shared."
+  },
+  {
+   "id": "c23076",
+   "en": "Those two really\ncan't be honest, can they?",
+   "flags": [],
+   "notes": "Luca; shared."
+  },
+  {
+   "id": "c23077",
+   "en": "Tell me about it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23078",
+   "en": "Oh, you're in a butler outfit too, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23079",
+   "en": "Yes, for some reason there was one in my size,\nso I figured I'd better wear it...",
+   "flags": [],
+   "notes": "Luca; shared."
+  },
+  {
+   "id": "c23080",
+   "en": "I see.\nHuh? Come to think of it, where's Alto?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23081",
+   "en": "Alto-senpai is over there.",
+   "flags": [],
+   "notes": "Luca; shared."
+  },
+  {
+   "id": "c23082",
+   "en": "Oh, a butler outfit.\nAnd here I was sure...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23083",
+   "en": "'I thought Alto would be in a maid outfit'...\nIs that what you were about to say,\n\\p?",
+   "flags": [],
+   "notes": "Alto. The quote is in his own words (third person), as in the Japanese."
+  },
+  {
+   "id": "c23084",
+   "en": "N-no way, of course not...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23085",
+   "en": "Hmph! Good, then.",
+   "flags": [],
+   "notes": "Alto; shared."
+  },
+  {
+   "id": "c23086",
+   "en": "You look pretty sharp in that, Alto.",
+   "flags": [],
+   "notes": "Sheryl; shared."
+  },
+  {
+   "id": "c23087",
+   "en": "Uh-huh, you look so cool, Alto-kun!",
+   "flags": [],
+   "notes": "Ranka; shared."
+  },
+  {
+   "id": "c23088",
+   "en": "You think? I'd say your maid outfits\nsuit you pretty well too...",
+   "flags": [],
+   "notes": "Alto to Sheryl and Ranka; shared."
+  },
+  {
+   "id": "c23089",
+   "en": "Oh... Why, you think so...?",
+   "flags": [],
+   "notes": "Sheryl; shared."
+  },
+  {
+   "id": "c23090",
+   "en": "Aw, you're making me blush, Alto-kun...",
+   "flags": [],
+   "notes": "Ranka; shared."
+  },
+  {
+   "id": "c23091",
+   "en": "But Alto, between Ranka-chan and me in our\nmaid outfits... I look better, don't I?",
+   "flags": [],
+   "notes": "Sheryl; shared."
+  },
+  {
+   "id": "c23092",
+   "en": "Ranka-chan's just sort of...\nlacking in sex appeal, isn't she?",
+   "flags": [],
+   "notes": "Sheryl; shared. Iroke ga nai, kept at full strength."
+  },
+  {
+   "id": "c23093",
+   "en": "I-I don't think having a great figure\nis everything!",
+   "flags": [],
+   "notes": "Ranka; shared."
+  },
+  {
+   "id": "c23094",
+   "en": "Pushing your chest out for no reason\nis kind of vulgar... or, how do I put it......",
+   "flags": [],
+   "notes": "Ranka; shared. Gehin = vulgar."
+  },
+  {
+   "id": "c23095",
+   "en": "V-vulgar...\nYou've got some nerve, Ranka-chan.",
+   "flags": [],
+   "notes": "Sheryl; shared."
+  },
+  {
+   "id": "c23096",
+   "en": "Alto! Hurry up and say who looks better!",
+   "flags": [],
+   "notes": "Sheryl; shared."
+  },
+  {
+   "id": "c23097",
+   "en": "Huh?! W-well, let's see...\nHey, \\p...",
+   "flags": [],
+   "notes": "Alto, looking to the player for help; shared."
+  },
+  {
+   "id": "c23098",
+   "en": "I'd better go get ready for opening...",
+   "flags": [],
+   "notes": "The player slipping away."
+  },
+  {
+   "id": "c23099",
+   "en": "Hey, don't run away!",
+   "flags": [],
+   "notes": "Alto; shared."
+  },
+  {
+   "id": "c23100",
+   "en": "Alto!",
+   "flags": [],
+   "notes": "Sheryl; shared."
+  },
+  {
+   "id": "c23101",
+   "en": "(Alto sure has it rough...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23102",
+   "en": "(Right, I'd better hurry and get ready too,\nor we won't be open in time.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23103",
+   "en": "(Sheryl Nome's pull is really something.\nThe response is so huge we're swamped.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23104",
+   "en": "\\p-kun,\nplease take the order at table 5.",
+   "flags": [],
+   "notes": "Nanase."
+  },
+  {
+   "id": "c23105",
+   "en": "Sure, got it.\nBy the way, Nanase, you've been working\nnonstop this whole time. Aren't you tired?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23106",
+   "en": "I'm fine!\nJust getting to see Ranka-san in a maid\noutfit is enough for me...",
+   "flags": [],
+   "notes": "Nanase; shared."
+  },
+  {
+   "id": "c23107",
+   "en": "Well, I'll go put the order through!",
+   "flags": [],
+   "notes": "Nanase; shared."
+  },
+  {
+   "id": "c23108",
+   "en": "\\p-kun,\nplease take this to table 3.",
+   "flags": [],
+   "notes": "Akimizu."
+  },
+  {
+   "id": "c23109",
+   "en": "Roger.\nAre you okay too, Akimizu? You've been\nworking nonstop this whole time...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23110",
+   "en": "No problem at all!\nJust getting to see Claire-senpai in a maid\noutfit is enough for me...",
+   "flags": [],
+   "notes": "Akimizu; shared."
+  },
+  {
+   "id": "c23111",
+   "en": "I'll go take the order at table 5!",
+   "flags": [],
+   "notes": "Akimizu; shared."
+  },
+  {
+   "id": "c23112",
+   "en": "(How should I put it...\nthose two run on the same fuel...)",
+   "flags": [],
+   "notes": "Gendouryoku = driving force."
+  },
+  {
+   "id": "c23113",
+   "en": "You keep worrying about everyone else,\nbut what about you, \\p-kun?\nAren't you tired?",
+   "flags": [],
+   "notes": "Shirakawa."
+  },
+  {
+   "id": "c23114",
+   "en": "I'm fine.\nWhat about you, Shirakawa? Are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23115",
+   "en": "Yes. I may not look it,\nbut I have plenty of stamina.",
+   "flags": [],
+   "notes": "Shirakawa; shared. Kore demo = despite appearances."
+  },
+  {
+   "id": "c23116",
+   "en": "In that case, the one who doesn't\nseem okay is...",
+   "flags": [],
+   "notes": "Shared."
+  },
+  {
+   "id": "c23117",
+   "en": "Pinon-chan, I suppose...",
+   "flags": [],
+   "notes": "Shirakawa; shared."
+  },
+  {
+   "id": "c23118",
+   "en": "She's been working so hard with that\nlittle body of hers...\nHey, Pinon-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23119",
+   "en": "Huff, huff... What is it... \\p...\nI'm incredibly busy right now......",
+   "flags": [],
+   "notes": "Pinon; shared."
+  },
+  {
+   "id": "c23120",
+   "en": "You look tired. Take a little break.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23121",
+   "en": "Wh-what are you talking about?!\nHuff, huff... I'm not tired at all!",
+   "flags": [],
+   "notes": "Pinon; shared."
+  },
+  {
+   "id": "c23122",
+   "en": "(She's definitely overdoing it.\nShe won't take a break no matter what I say,\nso in that case...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23123",
+   "en": "Pinon-chan...\nIf you say you won't take a break...",
+   "flags": [],
+   "notes": "Shared."
+  },
+  {
+   "id": "c23124",
+   "en": "If I say that, then what?",
+   "flags": [],
+   "notes": "Pinon; shared."
+  },
+  {
+   "id": "c23125",
+   "en": "Claire-senpaaai!",
+   "flags": [],
+   "notes": "Shared."
+  },
+  {
+   "id": "c23126",
+   "en": "What is it, \\p-kun?",
+   "flags": [],
+   "notes": "Claire."
+  },
+  {
+   "id": "c23127",
+   "en": "Pinon-chan says she wants to sleep over\nat your place tonight, Claire-senpai!\nIn her maid outfit, of course...",
+   "flags": [],
+   "notes": "Shared. Claire-senpai no ie = 'your place, Claire-senpai' since the player is talking to her."
+  },
+  {
+   "id": "c23128",
+   "en": "...I-is that true, Pinon-chan?!\nOf course it's fine by me!\nHehe, the two of us in the same bed...",
+   "flags": [],
+   "notes": "Claire; shared."
+  },
+  {
+   "id": "c23129",
+   "en": "Eek!!",
+   "flags": [],
+   "notes": "Pinon; shared."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c23056: Hoshimura's cut-off 'a-ta(shi)' gag rendered 'my-sel......' (shared male/female)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

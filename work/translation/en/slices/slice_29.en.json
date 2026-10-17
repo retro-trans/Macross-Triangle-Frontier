@@ -1,0 +1,500 @@
+{
+ "slice": 29,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u3507",
+   "en": "Alto's junior. An electronics whiz, he is also special adviser\nto major firm L.A.I.'s tech research division. In battle he flies\nthe EW RVF-25, controlling drone fighters. (CV: Jun Fukuyama)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3508",
+   "en": "Skull Squadron leader in S.M.S., Alto & co.'s private special-ops\nmilitary outfit. Ex-New U.N. Forces veteran, he took in Ranka\nfor certain reasons and cares for her. (CV: Katsuyuki Konishi)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3509",
+   "en": "S.M.S. Pixie Team leader, flying a crimson Queadluun-Rhea.\nIn battle she's a giant Zentradi, but when micronized her body\nturns into a little girl's. (CV: Megumi Toyoguchi)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3510",
+   "en": "S.M.S. Pixie Team leader. Micronized, a genetic anomaly\ngives her a young girl's body, and oddly a childish personality.\nMichel teases her; they always bicker. (CV: Megumi Toyoguchi)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3511",
+   "en": "An S.M.S. Skull Squadron pilot who serves as a medic when not in combat. A superb pilot, she flies the three-seat Konig Monster all by herself. (CV: Houko Kuwashima)",
+   "flags": [],
+   "notes": "Canaria Berstein (female per glossary). Konig without umlaut (font)."
+  },
+  {
+   "id": "u3512",
+   "en": "Helmsman of the Macross Quarter. He has a pure maiden's heart, but when he gets worked up in battle, rough macho talk may slip out... A maiden with a sweet crush on Ozma. (CV: Kenta Miyake)",
+   "flags": [],
+   "notes": "Bobby Margot: male per glossary, speaks in feminine Japanese; the source calls him a maiden (otome), kept."
+  },
+  {
+   "id": "u3513",
+   "en": "Captain of the Macross Quarter and the pillar of S.M.S.\nA former pilot, reportedly as skilled as Ozma, with a broad\nview that reads the tide of battle. (CV: Toru Okawa)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3514",
+   "en": "The Super Dimension Cinderella who met Alto & co. and ran up\nthe glorious stairway to idol stardom. Kira☆. Her love battle\nwith Sheryl over Alto has just begun. (CV: Megumi Nakajima)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3515",
+   "en": "A girl just starting up the stairway to idol stardom. Aiming for the top, she cosplays in all sorts of commercials. Apart from a song called \"Aimo,\" her childhood memories are gone. (CV: Megumi Nakajima)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3516",
+   "en": "A diva hailed as the Galactic Fairy. Supremely confident in herself as Sheryl, she is extremely proud. Her love battle with Ranka over Alto has only just begun. (CV: Aya Endo)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3517",
+   "en": "A diva hailed as the Galactic Fairy. Close to Alto, whom she met on Frontier, she oddly knows the one song Ranka remembered, raising suspicion she's a Galaxy spy. (CV: Aya Endo)",
+   "flags": [],
+   "notes": "'Galaxy' = the Macross Galaxy fleet, as the Japanese says."
+  },
+  {
+   "id": "u3518",
+   "en": "Alto & co.'s classmate. A part-timer at Chinese diner Nyan-Nyan, she met Ranka there and feels more than friendship for her. Ranka Lee Fan Club founder and fan No. 1. (CV: Houko Kuwashima)",
+   "flags": [],
+   "notes": "Nanase Matsuura (female per glossary)."
+  },
+  {
+   "id": "u3519",
+   "en": "A cyborg pilot who blocked Alto time and again. Emotionless,\nhe saw his missions as his whole reason to exist, but through\nhis time with Ranka he slowly changes. (CV: Soichiro Hoshi)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3520",
+   "en": "No description for the Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3521",
+   "en": "Sheryl's formidable manager, but in truth the mastermind who\nbrought the Vajra to the Frontier fleet. She schemes to use the\npower of Ranka and the Vajra to rule all. (CV: Kikuko Inoue)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3522",
+   "en": "An entertainment reporter for TV station SNN. Fighting the Mardook, he meets Silvie and Ishtar and awakens to a passion for bringing the truth to the people. (CV: Tsutomu Takayama)",
+   "flags": [],
+   "notes": "Hibiki Kanzaki (male per glossary)."
+  },
+  {
+   "id": "u3523",
+   "en": "Leader of the U.N. Forces' Faerie Squadron. A quarter Meltran, she inherited her grandmother's recklessness. She and Hibiki clash time and again, but slowly fall for each other. (CV: Yumi Toma)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silvie Gena. 'Faerie Squadron' is a provisional glossary entry (the Japanese says Fairy Leader squadron)."
+  },
+  {
+   "id": "u3524",
+   "en": "An Emulator of the Mardook army. Taken by Hibiki, she met\nEarth culture and learned what culture means. Through Ars's\nsong, she ended the Mardook war. (CV: Hiroko Kasahara)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3525",
+   "en": "Raised rich, he wanted for nothing, but bored of a life with no\nthrills, he became a pilot. A seasoned veteran, foul-mouthed\nbut admired as a good big brother. (CV: Tetsu Inada)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3526",
+   "en": "Trained hard from childhood by her mercenary father, she's\na proven pilot. Perhaps as a single dad raised her, she's rough,\nbut has a feminine side: her hobby is cooking. (CV: Miho Hino)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3527",
+   "en": "A rookie who has dreamed of being a pilot since he was small.\nHonest and earnest, with a slightly timid streak, but once his\nblood is up, he shows a bold side. (CV: Jun Konno)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3528",
+   "en": "A passionate pilot who deeply loves the sky. His impulsiveness\nlands him in all kinds of trouble, on and off the job. His hobby\nis collecting oddly patterned T-shirts. (CV: Yuki Hayashi)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3529",
+   "en": "Born into a military family where all must serve, she became\na pilot, rare for a woman even there. Bright and friendly to all,\nshe often gives men the wrong idea. (CV: Hinako Sasaki)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3530",
+   "en": "An unlucky girl who enlisted hoping to be a mechanic, only to be made a pilot by her aptitude test. She is a quarter Zentradi, and her strong point is being full of pointless energy. (CV: Yoko Nishino)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3531",
+   "en": "Aegis does not appear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3532",
+   "en": "Gilliam does not appear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3533",
+   "en": "Attack with melee strikes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3534",
+   "en": "Annihilate all enemies\nProtect the defense target",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3535",
+   "en": "Clear Level C",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3536",
+   "en": "Clear Level B",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3537",
+   "en": "Clear Level A",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3538",
+   "en": "Clear Level S",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3539",
+   "en": "Leave the combat area\nAnnihilate all enemies",
+   "flags": [],
+   "notes": "Second line matches the prefilled u3534."
+  },
+  {
+   "id": "u3540",
+   "en": "EX-Gear Basics: Walk Mode\nThese instructions use the default\ncontroller settings. Please keep this in mind.",
+   "flags": [],
+   "notes": "Same three-line shape for every EX-Gear Basics header (u3551, u3559, u3564, u3567, u3574, u3575, u3582)."
+  },
+  {
+   "id": "u3541",
+   "en": "Push the analog stick down\nto switch to Walk mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3542",
+   "en": "Press Up, Down, Left or Right on the D-pad\nto move forward, back, left or right.",
+   "flags": [],
+   "notes": "Same wording as the prefilled u3618 (same Japanese)."
+  },
+  {
+   "id": "u3543",
+   "en": "Quickly press the D-pad twice in the same\ndirection to step that way.\nKeep holding the D-pad to dash.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3544",
+   "en": "Press the × button to jump.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3545",
+   "en": "Keep holding the × button mid-jump\nto float in the air.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3546",
+   "en": "Press the D-pad while floating\nto move through the air, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3547",
+   "en": "You can dash even in mid-jump.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3548",
+   "en": "Practice the Walk mode controls.\nLeaving the room ends the training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3549",
+   "en": "You can lock on to the red rings\nby pressing the R button.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3550",
+   "en": "Press the L button to point the camera\nin the direction of travel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3551",
+   "en": "EX-Gear Basics: Hover Mode\nThese instructions use the default\ncontroller settings. Please keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3552",
+   "en": "Push the analog stick left or right\nto switch to Hover mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3553",
+   "en": "Press Left or Right on the D-pad to turn.\nPress the L button to stop in place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3554",
+   "en": "Quickly press the D-pad twice\nin the same direction to step\nthat way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3555",
+   "en": "At the end of a step,\nkeep holding the D-pad to dash.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3556",
+   "en": "Hold the × button to boost upward\nand gain altitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3557",
+   "en": "Quickly press the × button twice\nand keep holding it to boost\ndownward and lose altitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3558",
+   "en": "Practice the Hover mode controls.\nLeaving the room ends the training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3559",
+   "en": "EX-Gear Basics: Flight Mode\nThese instructions use the default\ncontroller settings. Please keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3560",
+   "en": "Push the analog stick up\nto switch to Flight mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3561",
+   "en": "Press Left or Right on the D-pad to turn,\nUp to nose down and descend,\nand Down to nose up and climb.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3562",
+   "en": "Press the × button\nto boost and speed up.\n",
+   "flags": [],
+   "notes": "Trailing newline kept as in the Japanese."
+  },
+  {
+   "id": "u3563",
+   "en": "Practice the Flight mode controls.\nLeaving the room ends the training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3564",
+   "en": "EX-Gear Basics: Flight Mode\nThese instructions use the default\ncontroller settings. Please keep this in mind.",
+   "flags": [],
+   "notes": "Japanese writes EX-Gear without the hyphen here; same English."
+  },
+  {
+   "id": "u3565",
+   "en": "Press the × button to boost.\nHold the △ button to brake\nand slow down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3566",
+   "en": "Quickly press Up, Left or Right on the D-pad\ntwice in the same direction to roll\nthat way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3567",
+   "en": "EX-Gear Basics: Shooting Attacks\nThese instructions use the default\ncontroller settings. Please keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3568",
+   "en": "Quickly press and release the R button\nto lock on to an enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3569",
+   "en": "While locked on, quickly press and release\nthe R button again to switch your lock\nto another enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3570",
+   "en": "Hold Up on the D-pad while locking on\nto switch your lock to enemy warships\nor enemy aces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3571",
+   "en": "Press the □ button to shoot the target\nyou're locked on to.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3572",
+   "en": "While the locked-on target is in front of you,\nyour hit rate goes up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3573",
+   "en": "Practice the shooting attack controls.\nLeaving the room ends the training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3574",
+   "en": "EX-Gear Basics: Shooting Attacks\nThese instructions use the default\ncontroller settings. Please keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3575",
+   "en": "EX-Gear Basics: Melee Attacks & Guard\nThese instructions use the default\ncontroller settings. Please keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3576",
+   "en": "In Walk and Hover modes, press\nthe △ button for melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3577",
+   "en": "Press the △ button repeatedly\nto chain melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3578",
+   "en": "Lock on to a target. The\ncloser you are to it, the easier\nit is to land melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3579",
+   "en": "In Walk mode, hold\nthe L button to guard.\nGuarding reduces the damage you take.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3580",
+   "en": "To dodge incoming balls,\nuse a step or a dash; to block them,\nyour best bet is to guard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3581",
+   "en": "Practice the melee attack controls.\nLeaving the room ends the training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3582",
+   "en": "EX-Gear Basics: Melee Attacks & Guard\nThese instructions use the default\ncontroller settings. Please keep this in mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3583",
+   "en": "Set a container down\nnear the start point to finish retrieving it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3584",
+   "en": "You can also lift containers\nin Hover mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3585",
+   "en": "Move close to a locked-on switch\nto open the door.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3586",
+   "en": "Press the R button to lock on\nto switches and containers.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u3523: 'Faerie Squadron' is a provisional glossary entry.",
+   "EX-Gear mode names written 'Walk mode', 'Hover mode', 'Flight mode' (lowercase 'mode', like the prefilled 'Fighter mode' / 'Battroid mode' rows in slice 30); header lines capitalize them ('EX-Gear Basics: Walk Mode')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Ars (u3524, prefilled row) is not in the glossary."
+  ],
+  "unfinished": []
+ }
+}

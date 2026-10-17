@@ -1,0 +1,504 @@
+{
+ "slice": 104,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c07651",
+   "en": "(I came to the simulator\nwith Yuuto today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07652",
+   "en": "\\p,\nlet's go at it as a team today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07653",
+   "en": "Yeah, sure.\nCombination practice, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07654",
+   "en": "Let's show them the power\nof our friendship!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07655",
+   "en": "I'm glad that went well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07656",
+   "en": "Of course it did!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07657",
+   "en": "But our finish is still sloppy...\nWe should be able to do even better...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07658",
+   "en": "So let's go again!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07659",
+   "en": "Roger!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07660",
+   "en": "(I came to the simulator\nwith Kagura-kun today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07661",
+   "en": "Yeah, sure.\nCombination practice, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07662",
+   "en": "I'm glad that went well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07663",
+   "en": "\\p,\nmind if we check our teamwork\nagain today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07664",
+   "en": "Yeah, sure.\nIt's hard to practice that unless\nwe're both here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07665",
+   "en": "All right, here we go!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07666",
+   "en": "That was perfect, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07667",
+   "en": "Yeah. That's the first flight I've been\nhappy with in a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07668",
+   "en": "But we should be able to do even better...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07669",
+   "en": "Yeah, let's try as many times\nas it takes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07670",
+   "en": "(I came to the simulator\nwith Kagura-kun again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07671",
+   "en": "Yes, of course.\nIt's hard to practice that unless\nwe're both here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07672",
+   "en": "That was perfect!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07673",
+   "en": "(I was planning to hang out at Folmo\nwith Yuuto today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07674",
+   "en": "Sorry I'm late, Yuuto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07675",
+   "en": "Nah, actually, I was running late too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07676",
+   "en": "What, really...?\nThen I apologized for nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07677",
+   "en": "\"For nothing\"...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07678",
+   "en": "Have some soft serve or something\nand cheer up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07679",
+   "en": "The soft serve here is superb.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07680",
+   "en": "So you like this soft serve too, Yuuto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07681",
+   "en": "Yeah. I hate milk,\nbut I can eat this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07682",
+   "en": "You're as picky as ever...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07683",
+   "en": "(I'm supposed to hang out at Folmo\nwith Kagura-kun today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07684",
+   "en": "Sorry I'm late, Kagura-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07685",
+   "en": "What's that supposed to mean~?\nThen I apologized for nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07686",
+   "en": "Do you like this soft serve too,\nKagura-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07687",
+   "en": "You're as picky as ever...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07688",
+   "en": "(I came to Folmo with Yuuto\nagain today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07689",
+   "en": "What should we do today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07690",
+   "en": "Hmm, how about we go see\nthe hippo-cows?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07691",
+   "en": "Yeah, let's go see them!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07692",
+   "en": "Whoa, they're bigger than I expected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07693",
+   "en": "I wonder how much milk\nyou can get from just one?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07694",
+   "en": "Who knows...\nI don't even know how much you get\nfrom a regular cow...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07695",
+   "en": "Now that you mention it, that's true...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07696",
+   "en": "Hmm, shall we go get some soft serve...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07697",
+   "en": "(I came to Folmo with Kagura-kun\nagain today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07698",
+   "en": "I wonder how much milk\nyou can get from just one?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07699",
+   "en": "Now that you mention it, that's true...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07700",
+   "en": "(Sometimes I just get this craving\nfor Nyan-Nyan's Galaxy Ramen.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07701",
+   "en": "(Aah~ Just thinking about it\nis making me hungry...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07702",
+   "en": "You look like you're about to drool\nany second. How unbecoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07703",
+   "en": "Ah, sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07704",
+   "en": "Wait, huh? Klan-senpai, it's you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07705",
+   "en": "Are you here to eat at Nyan-Nyan too,\nyoung man?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07706",
+   "en": "Yes.\nI was just dying for some Galaxy Ramen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07707",
+   "en": "Very well! Then as your senpai,\nit's my duty to treat you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07708",
+   "en": "Huh?! N-no, I couldn't let you do that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07709",
+   "en": "Don't worry about it.\nThis much is only natural.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07710",
+   "en": "Klan-senpai...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07711",
+   "en": "Then I'll gladly take you up on it.\nThanks for the treat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07712",
+   "en": "Mm. Then let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07713",
+   "en": "(Treating me to a meal...\nThat's Klan-senpai for you.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07714",
+   "en": "Here you are, one Galaxy Ramen.\nSorry for the wait!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07715",
+   "en": "Here it comes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07716",
+   "en": "Thanks for the foooood!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07717",
+   "en": "(The aroma of this hippo-cow broth...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07718",
+   "en": "*Slurp slurp*",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07719",
+   "en": "(And the Magellan fishcake swirls,\nof course...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07720",
+   "en": "*Sluuurp*...... Pwah~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07721",
+   "en": "(But the chashu pork is still the part\nI look forward to mo......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07722",
+   "en": "Don't mind if I do~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07723",
+   "en": "Huh?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07724",
+   "en": "The chashu is melting in my mouth~...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07725",
+   "en": "...............What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07726",
+   "en": "Why are you eating my chashu\nwithout asking?!\nKlan-senpai!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07727",
+   "en": "It was right in front of me,\nso I just couldn't help myself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07728",
+   "en": "Come on...\nThat's so mean, Klan-senpai......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07729",
+   "en": "Heh, sorry, sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07730",
+   "en": "\"Sorry, sorry\"? Apologizing that lightly\ndoesn't exactly......",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c07659 'ryoukai!' is used 28 times (player in friendship, Sports Day/festival/test scenes); 'Roger!' fits all, as c07535 'Roger!!'.",
+   "c07705: Klan calls the male player shounen; rendered 'young man', as c08263 in a finished slice.",
+   "c07719: Magellan naruto (the fishcake slice with a swirl, named after the Magellanic Clouds) rendered 'the Magellan fishcake swirls'; c07721/c07724/c07726 chaashuu rendered 'chashu pork' / 'chashu'. Not in the glossary; Galaxy Ramen follows the finished slices.",
+   "c07716 itadakimasu stretched by Klan rendered 'Thanks for the foooood!!' (finished slices use 'Thanks for the food!'); c07722 itadaki~ (her grabbing the player's chashu) rendered 'Don't mind if I do~!'.",
+   "c07657 tsume ga amai rendered 'our finish is still sloppy'; Kagura includes himself (he is speaking of their combination flight).",
+   "c07676/c07685 ayamari-zon (an apology wasted) rendered 'Then I apologized for nothing!'; c07677 echoes it.",
+   "c07702 darashinai from Klan rendered 'How unbecoming!' to fit her stiff, bossy voice (finished slices use 'pathetic' for other speakers).",
+   "c07730 trails off in the Japanese; kept unfinished."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Magellan naruto (c07719) and chaashuu (c07721) are not in the glossary (food items, rendered descriptively)."
+  ],
+  "unfinished": []
+ }
+}

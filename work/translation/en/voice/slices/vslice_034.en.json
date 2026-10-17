@@ -1,0 +1,522 @@
+{
+ "slice": 34,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p__fv0/120",
+   "en": "All right! I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/120",
+   "en": "All right! I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/120",
+   "en": "All right, I did it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/121",
+   "en": "It's only a shield!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'shiirudo kuraidee' read as shiirudo kurai de (over just a shield). Could also be shiirudo kurete yaru 'you can have my shield' (Gary's 121); either way the shield was lost."
+  },
+  {
+   "id": "p__mv1/121",
+   "en": "It's only a shield!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Same garble as mv0: read as shiirudo kurai de."
+  },
+  {
+   "id": "p__mv2/121",
+   "en": "It's only a shield!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'shiirudo kurai' (cut short) read as shiirudo kurai de."
+  },
+  {
+   "id": "p__fv0/121",
+   "en": "My shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/121",
+   "en": "My shield...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/121",
+   "en": "My shield...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/122",
+   "en": "Only my shield got hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/122",
+   "en": "Only my shield got hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/122",
+   "en": "Only my shield got hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/122",
+   "en": "I can manage without a shield!",
+   "flags": [],
+   "notes": "shiirudo gurai nakutatte: 'even without a shield (I'll be fine)'"
+  },
+  {
+   "id": "p__fv1/122",
+   "en": "I can manage without a shield!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/122",
+   "en": "It's only a shield!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'shiirudo kuraiden' read as shiirudo kurai de; may be a garbled shiirudo gurai nakutatte as fv0/fv1 say (same meaning in context)."
+  },
+  {
+   "id": "p__mv0/123",
+   "en": "I just have to dodge!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/123",
+   "en": "I just have to dodge!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/123",
+   "en": "I just have to dodge.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/123",
+   "en": "I can't let my guard down.",
+   "flags": [],
+   "notes": "yudan wa kinmotsu ne"
+  },
+  {
+   "id": "p__fv1/123",
+   "en": "I can't let my guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/123",
+   "en": "I can't let my guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/124",
+   "en": "Only a graze!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'katta ka' (did I win) read as kasutta ka (just grazed), as mv1/mv2 and the 124 damage slot suggest."
+  },
+  {
+   "id": "p__mv1/124",
+   "en": "A graze?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kasutaa' read as kasutta? (it grazed me?)."
+  },
+  {
+   "id": "p__mv2/124",
+   "en": "Only a graze!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kasutaga' read as kasutta ka (just grazed)."
+  },
+  {
+   "id": "p__fv0/124",
+   "en": "Not bad!",
+   "flags": [],
+   "notes": "yaru ja nai: grudging praise for the enemy that hit her"
+  },
+  {
+   "id": "p__fv1/124",
+   "en": "You've got some nerve!",
+   "flags": [],
+   "notes": "yatte kureru ja nai"
+  },
+  {
+   "id": "p__fv2/124",
+   "en": "Not bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/125",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/125",
+   "en": "I'm not done yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/125",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/125",
+   "en": "This is nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/125",
+   "en": "That won't stop me!",
+   "flags": [],
+   "notes": "kono teido de"
+  },
+  {
+   "id": "p__fv2/125",
+   "en": "This is nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/126",
+   "en": "You're good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/126",
+   "en": "You're good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/126",
+   "en": "You're good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/126",
+   "en": "You've done it now!",
+   "flags": [],
+   "notes": "yatte kureta wa ne: angry, after taking a hit"
+  },
+  {
+   "id": "p__fv1/126",
+   "en": "You've done it now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/126",
+   "en": "You've done it now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/127",
+   "en": "That's not enough!",
+   "flags": [],
+   "notes": "kore kurai de: 'this much (won't beat me)'"
+  },
+  {
+   "id": "p__mv1/127",
+   "en": "This is nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/127",
+   "en": "That's not enough!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/127",
+   "en": "Am I being pushed back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/127",
+   "en": "Am I being pushed back?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/127",
+   "en": "Am I being pushed back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/128",
+   "en": "You've got some nerve!",
+   "flags": [],
+   "notes": "yatte kureru"
+  },
+  {
+   "id": "p__mv1/128",
+   "en": "You'll pay for that!",
+   "flags": [],
+   "notes": "yatte kureta na"
+  },
+  {
+   "id": "p__mv2/128",
+   "en": "You've got some nerve!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/128",
+   "en": "You hit me, I hit back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/128",
+   "en": "You hit me, I hit back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/128",
+   "en": "You hit me, I hit back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/129",
+   "en": "Got careless, did I?",
+   "flags": [],
+   "notes": "yudan shita ka: self-reproach"
+  },
+  {
+   "id": "p__mv1/129",
+   "en": "I got careless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/129",
+   "en": "Got careless, did I?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/129",
+   "en": "I got careless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/129",
+   "en": "I got careless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/129",
+   "en": "I got careless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/130",
+   "en": "Hold together a little longer!",
+   "flags": [],
+   "notes": "mada motte kure yo: to the craft"
+  },
+  {
+   "id": "p__mv1/130",
+   "en": "Hold together a little longer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/130",
+   "en": "Hold together a little longer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/130",
+   "en": "This is bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/130",
+   "en": "This is bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/130",
+   "en": "This is bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/131",
+   "en": "I won't take this lying down!",
+   "flags": [],
+   "notes": "yararete damaru ka"
+  },
+  {
+   "id": "p__mv1/131",
+   "en": "I won't go down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/131",
+   "en": "I'm not going down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/131",
+   "en": "No! I'm going down!",
+   "flags": [],
+   "notes": "dame, yarareru"
+  },
+  {
+   "id": "p__fv1/131",
+   "en": "No! I'm going down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/131",
+   "en": "No! I'm going down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/132",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/132",
+   "en": "No way I'm losing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/132",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/132",
+   "en": "Ngh, I can still hold out!",
+   "flags": [],
+   "notes": "ku, mada motsu: could be the craft that holds; 'I' covers pilot and craft"
+  },
+  {
+   "id": "p__fv1/132",
+   "en": "Ngh! I can still hold out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/132",
+   "en": "Ngh, I can still hold out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/133",
+   "en": "My craft!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/133",
+   "en": "Ugh, my craft!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/133",
+   "en": "My craft!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/133",
+   "en": "My craft won't hold!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji: kitai 'expectation' for kitai 'airframe' (kitai ga motanai)."
+  },
+  {
+   "id": "p__fv1/133",
+   "en": "My craft won't hold!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji: kitai 'expectation' for kitai 'airframe'."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 2644 (p__mv0/121): Transcript 'shiirudo kuraidee' read as shiirudo kurai de (over just a shield). Could also be shiirudo kurete yaru 'you can have my shield' (Gary's 121); either way the shield was lost.",
+   "row 2645 (p__mv1/121): Same garble as mv0: read as shiirudo kurai de.",
+   "row 2646 (p__mv2/121): Transcript 'shiirudo kurai' (cut short) read as shiirudo kurai de.",
+   "row 2655 (p__fv2/122): Transcript 'shiirudo kuraiden' read as shiirudo kurai de; may be a garbled shiirudo gurai nakutatte as fv0/fv1 say (same meaning in context).",
+   "row 2662 (p__mv0/124): Transcript 'katta ka' (did I win) read as kasutta ka (just grazed), as mv1/mv2 and the 124 damage slot suggest.",
+   "row 2663 (p__mv1/124): Transcript 'kasutaa' read as kasutta? (it grazed me?).",
+   "row 2664 (p__mv2/124): Transcript 'kasutaga' read as kasutta ka (just grazed).",
+   "row 2719 (p__fv0/133): Wrong kanji: kitai 'expectation' for kitai 'airframe' (kitai ga motanai).",
+   "row 2720 (p__fv1/133): Wrong kanji: kitai 'expectation' for kitai 'airframe'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

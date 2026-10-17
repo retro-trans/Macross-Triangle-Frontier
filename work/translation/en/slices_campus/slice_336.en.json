@@ -1,0 +1,449 @@
+{
+ "slice": 336,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c24340",
+   "en": "(Today's the day of Sheryl's concert\nI've been waiting for.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24341",
+   "en": "(Just thinking I'll meet the Galactic Fairy\nmakes me nervous. I've gotta be careful\nnot to mess up during the real show...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24342",
+   "en": "Listen to my song~~!!!",
+   "flags": [],
+   "notes": "Sheryl's signature line, full force. Shared M/F."
+  },
+  {
+   "id": "c24343",
+   "en": "Sheryl Nome\nA top idol known as the \"Galactic Fairy\"\nVisiting the Frontier fleet on her galactic tour",
+   "flags": [],
+   "notes": "Character card. Shared M/F."
+  },
+  {
+   "id": "c24344",
+   "en": "Amazing...!",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24345",
+   "en": "The Galactic Fairy......",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24346",
+   "en": "(So this is the Galactic Fairy's performance...)",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24347",
+   "en": "(I get to see something this amazing up close...\nI'm really glad I got to be part of\nSheryl's concert...)",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24348",
+   "en": "Whoa, can't stand around gawking forever.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24349",
+   "en": "Hey, \\p.\nWe're on soon.\nDon't just stand there spacing out.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24350",
+   "en": "Y-yeah... I know, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24351",
+   "en": "Then let's go!",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24352",
+   "en": "(All right! I'll show them acrobatics that\ncan hold their own against Sheryl's song!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24353",
+   "en": "Geez, that Alto, pulling something\nthat reckless...",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24354",
+   "en": "But that sure was a shock, wasn't it?\nSheryl suddenly doing something that\nwasn't in the program.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24355",
+   "en": "Yeah, really.\nThose of us covering for Alto were pretty\nrattled too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24356",
+   "en": "(I guess she's free-spirited, just like you'd\nexpect from someone called the Galactic Fairy......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24357",
+   "en": "Huh?! An evacuation alert?!",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24358",
+   "en": "Let's go, Luca, \\p.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24359",
+   "en": "What on earth is going on, Michel?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24360",
+   "en": "Apparently the Frontier fleet is under attack\nby unidentified creatures that appeared\nout of nowhere.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24361",
+   "en": "Looks like the U.N. Government has also\nissued a sortie request to S.M.S.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Tougou seifu: per the brief tougou = U.N.; glossary has only chikyuu tougou seifu 'U.N. Government' / shin tougou seifu 'New U.N. Government'. Shared M/F."
+  },
+  {
+   "id": "c24362",
+   "en": "Our orders are to get back to S.M.S. right away\nand sortie immediately.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24363",
+   "en": "Looks like this is going to be\nyour first real combat.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24364",
+   "en": "(Real combat...\nNot the simulator, a real battle...!)",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24365",
+   "en": "You ready to sortie, \\p?",
+   "flags": [],
+   "notes": "Shared M/F; also scd_tst_005."
+  },
+  {
+   "id": "c24366",
+   "en": "Hey! Are you listening?!",
+   "flags": [],
+   "notes": "Shared M/F; also scd_tst_005."
+  },
+  {
+   "id": "c24367",
+   "en": "Ah! Y-yeah... Sorry, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24368",
+   "en": "This isn't training!\nYou'll get yourself killed like that!!",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24369",
+   "en": "(That's right, this isn't training.\nIf I get shot down, what's waiting for me is...)",
+   "flags": [],
+   "notes": "Trails off as in the Japanese."
+  },
+  {
+   "id": "c24370",
+   "en": "There's only one thing I can tell you.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24371",
+   "en": "......Don't die.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24372",
+   "en": "...Right!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24373",
+   "en": "All right! We're heading out too!!",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24374",
+   "en": "(I'm coming back alive, no matter what!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24375",
+   "en": "(Today's the day of Sheryl's concert\nI've been waiting for.)",
+   "flags": [],
+   "notes": "Female version of c24340."
+  },
+  {
+   "id": "c24376",
+   "en": "(Just thinking I'll meet the Galactic Fairy\nmakes me nervous. I've gotta be careful\nnot to mess up during the real show...)",
+   "flags": [],
+   "notes": "Female version of c24341."
+  },
+  {
+   "id": "c24377",
+   "en": "Y-yeah... I know, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24378",
+   "en": "(All right! I'll show them acrobatics that\ncan hold their own against Sheryl's song!!)",
+   "flags": [],
+   "notes": "Female version of c24352."
+  },
+  {
+   "id": "c24379",
+   "en": "Yeah, really.\nThose of us covering for Saotome-kun were\npretty rattled too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24380",
+   "en": "(I guess she's free-spirited, just like you'd\nexpect from someone called the Galactic Fairy......)",
+   "flags": [],
+   "notes": "Female version of c24356."
+  },
+  {
+   "id": "c24381",
+   "en": "What on earth is going on, Michel-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24382",
+   "en": "Ah! Y-yeah... Sorry, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24383",
+   "en": "(That's right, this isn't training.\nIf I get shot down, what's waiting for me is...)",
+   "flags": [],
+   "notes": "Female version of c24369."
+  },
+  {
+   "id": "c24384",
+   "en": "(I'm coming back alive, no matter what!)",
+   "flags": [],
+   "notes": "Female version of c24374."
+  },
+  {
+   "id": "c24385",
+   "en": "(Phew... I nearly got taken out,\nbut somehow I made it back in one piece...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24386",
+   "en": "It was your first real combat.\nJust making it back in one piece is good enough.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24387",
+   "en": "(Phew... Looks like I made it back\nin one piece.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24388",
+   "en": "Not bad for your first real combat.\nKeep it up.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24389",
+   "en": "(What the heck were those things?\nIn the end, I couldn't even tell what they\nwere after...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24390",
+   "en": "(I hope this is the end of the fighting...)",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24391",
+   "en": "(Phew... I nearly got taken out,\nbut somehow I made it back in one piece...)",
+   "flags": [],
+   "notes": "Female version of c24385."
+  },
+  {
+   "id": "c24392",
+   "en": "(Phew... Looks like I made it back\nin one piece.)",
+   "flags": [],
+   "notes": "Female version of c24387."
+  },
+  {
+   "id": "c24393",
+   "en": "(What on earth were those things?\nIn the end, I couldn't even tell what they\nwere after...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24394",
+   "en": "(Still, what a surprise.\nWho'd have thought Alto would join S.M.S....)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24395",
+   "en": "(Sounds like Captain Ozma and the others are\nputting him through the wringer, but hey,\nAlto'll be fine.)",
+   "flags": [],
+   "notes": "Aligned to the glossary decision of 2026-10-17."
+  },
+  {
+   "id": "c24396",
+   "en": "(There haven't been any Vajra attacks since then...\nI hope things stay quiet like this......)",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24397",
+   "en": "Emergency notice.\nDistress call received from the Galaxy fleet.\nCommencing rescue operation. Repeat...",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24398",
+   "en": "(A distress call from the Galaxy fleet?!)",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24399",
+   "en": "The Vajra have attacked the Galaxy fleet,\nand it's now in critical danger.",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24400",
+   "en": "(No way... the Galaxy fleet......)",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24401",
+   "en": "This mission, on Sheryl's order, is to rescue\nthe Galaxy fleet's evacuee ships.",
+   "flags": [],
+   "notes": "Sheryl no oodaa: she ordered (commissioned) the mission. Shared M/F."
+  },
+  {
+   "id": "c24402",
+   "en": "Mission code: \"Galactic Fairy\"!\nLet's go!",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24403",
+   "en": "(Still, what a surprise.\nWho'd have thought Saotome-kun would join\nS.M.S....)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24404",
+   "en": "(Sounds like Captain Ozma and the others are\nputting him through the wringer, but\nSaotome-kun will be fine.)",
+   "flags": [],
+   "notes": "Aligned to the glossary decision of 2026-10-17."
+  },
+  {
+   "id": "c24405",
+   "en": "(The mission seems to have succeeded,\nbut I think I held everyone back...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24406",
+   "en": "(Who'd have thought the Vajra would follow the\nGalaxy refugee ships and attack the\nFrontier fleet...)",
+   "flags": [],
+   "notes": "Shared M/F."
+  },
+  {
+   "id": "c24407",
+   "en": "(Thanks to Alto and the others, it looks like\nwe somehow managed to protect it...)",
+   "flags": [],
+   "notes": "Object (the fleet) carried from the previous row."
+  },
+  {
+   "id": "c24408",
+   "en": "(I don't think the Vajra attacks will end here...\nIf they show up again, I'll protect Frontier myself!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24409",
+   "en": "(The mission seems to have succeeded,\nbut I think I held everyone back...)",
+   "flags": [],
+   "notes": "Female version of c24405."
+  },
+  {
+   "id": "c24410",
+   "en": "(Thanks to Saotome-kun and the others, it looks\nlike we somehow managed to protect it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24411",
+   "en": "(I don't think the Vajra attacks will end here...\nIf they show up again, I'll protect Frontier myself!)",
+   "flags": [],
+   "notes": "Female version of c24408."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c24361: tougou seifu rendered 'the U.N. Government' (brief: tougou = U.N.); glossary lists only the Earth and New U.N. forms."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,522 @@
+{
+ "slice": 31,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p__fv0/001",
+   "en": "Launch prep complete. Launching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/001",
+   "en": "Launch prep complete. Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/001",
+   "en": "Launch prep complete. Heading out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/002",
+   "en": "I can do this too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/002",
+   "en": "Even I can do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/002",
+   "en": "I'm going out!",
+   "flags": [],
+   "notes": "Different line from the other voices: boku ga deru, 'I'll go out (and fight)'."
+  },
+  {
+   "id": "p__fv0/002",
+   "en": "I can do this too, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/002",
+   "en": "Even I can do this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/002",
+   "en": "I can do this too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/003",
+   "en": "I won't let you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/003",
+   "en": "I won't let you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/003",
+   "en": "No you don't!",
+   "flags": [],
+   "notes": "Saseru ka: rougher form of 'I won't let you'. Whisper flagged nospeech but the transcript fits the clip number."
+  },
+  {
+   "id": "p__fv0/003",
+   "en": "I won't let you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/003",
+   "en": "I won't let you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/003",
+   "en": "I won't let you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/004",
+   "en": "Close one!",
+   "flags": [],
+   "notes": "Abunai: dodge line (Yuuto 'Close one!')."
+  },
+  {
+   "id": "p__mv1/004",
+   "en": "That was close!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/004",
+   "en": "Close one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/004",
+   "en": "You can't hit me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/004",
+   "en": "Can't hit me!",
+   "flags": [],
+   "notes": "Kept the subjectless bark as the sister line (Miyuki 'Can't hit me!')."
+  },
+  {
+   "id": "p__fv2/004",
+   "en": "You won't hit me!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'atagenai wa'; read as ataranai wa, 'you won't hit me', as the other female voices."
+  },
+  {
+   "id": "p__mv0/005",
+   "en": "That won't work!",
+   "flags": [],
+   "notes": "Kikanai: an attack that does no harm."
+  },
+  {
+   "id": "p__mv1/005",
+   "en": "No effect!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/005",
+   "en": "Won't work on me!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kikan' written as 'return to base'; read as kikan, the blunt form of kikanai 'won't work', as the other voices."
+  },
+  {
+   "id": "p__fv0/005",
+   "en": "Won't work on me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/005",
+   "en": "That won't work!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/005",
+   "en": "That won't work!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/006",
+   "en": "Tch, damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/006",
+   "en": "D-damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/006",
+   "en": "Damn it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/006",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A short scream (gya)."
+  },
+  {
+   "id": "p__fv1/006",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A scream."
+  },
+  {
+   "id": "p__fv2/006",
+   "en": "Nooo!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Scream 'iyaa!' (no!); subtitled as a word. Could also be no_subtitle like the other female voices."
+  },
+  {
+   "id": "p__mv0/007",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A scream."
+  },
+  {
+   "id": "p__mv1/007",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A grunt and a scream."
+  },
+  {
+   "id": "p__mv2/007",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A scream."
+  },
+  {
+   "id": "p__fv0/007",
+   "en": "Wh-what?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/007",
+   "en": "Wh-what!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/007",
+   "en": "Wh-what!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/008",
+   "en": "They got me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/008",
+   "en": "I'm hit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/008",
+   "en": "So they got me...",
+   "flags": [],
+   "notes": "Yarareta ka: rueful 'got me, huh'."
+  },
+  {
+   "id": "p__fv0/008",
+   "en": "You've done it now.",
+   "flags": [],
+   "notes": "Yatte kureta wa ne: sarcastic, angry 'you really did it, didn't you'."
+  },
+  {
+   "id": "p__fv1/008",
+   "en": "Oh, you've done it now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/008",
+   "en": "You'll pay for that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/009",
+   "en": "Take this!",
+   "flags": [],
+   "notes": "Kono!: attack bark."
+  },
+  {
+   "id": "p__mv1/009",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/009",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/009",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/009",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/009",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/010",
+   "en": "It's over!",
+   "flags": [],
+   "notes": "Todome da: finishing blow."
+  },
+  {
+   "id": "p__mv1/010",
+   "en": "This is the end!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/010",
+   "en": "It's over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/010",
+   "en": "It's over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/010",
+   "en": "This is the end!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/010",
+   "en": "It's over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/011",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A yelp (uwa)."
+  },
+  {
+   "id": "p__mv1/011",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A shout; no words."
+  },
+  {
+   "id": "p__mv2/011",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "A scream."
+  },
+  {
+   "id": "p__fv0/011",
+   "en": "One more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/011",
+   "en": "One more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/011",
+   "en": "One more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/012",
+   "en": "I'm being pushed back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/012",
+   "en": "I'm losing ground!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/012",
+   "en": "They're pushing me back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/012",
+   "en": "What an attack!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/012",
+   "en": "What an attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/012",
+   "en": "What an attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/013",
+   "en": "This is bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/013",
+   "en": "Th-this is bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/013",
+   "en": "Not good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/013",
+   "en": "Th-this is bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/013",
+   "en": "Th-this is bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/013",
+   "en": "Th-this is bad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/014",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/014",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/014",
+   "en": "Not yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/014",
+   "en": "I can't take more...",
+   "flags": [],
+   "notes": "Kore ijou wa...: trails off, 'any more than this...'; subject restored."
+  },
+  {
+   "id": "p__fv1/014",
+   "en": "I can't take any more!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 2433: p__fv2/006 Scream 'iyaa!' (no!); subtitled as a word. Could also be no_subtitle like the other female voices.",
+   "rows 2443-2445: yatte kureta wa ne rendered three ways (done it now / pay for that); same meaning, varied per voice."
+  ],
+  "whisper_doubt": [
+   "row 2421: p__fv2/004 Transcript 'atagenai wa'; read as ataranai wa, 'you won't hit me', as the other female voices.",
+   "row 2424: p__mv2/005 Transcript 'kikan' written as 'return to base'; read as kikan, the blunt form of kikanai 'won't work', as the other voices."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

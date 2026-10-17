@@ -1,0 +1,503 @@
+{
+ "slice": 2,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0142",
+   "en": "Reserved enum0: No Launch",
+   "flags": [],
+   "notes": "Internal placeholder mission name (enum slot 0, not launchable). 'enum0' kept as written."
+  },
+  {
+   "id": "u0143",
+   "en": "Basic Skills Test: Walking",
+   "flags": [],
+   "notes": "Academy-mode practical test (jitsugi tesuto), basic level."
+  },
+  {
+   "id": "u0144",
+   "en": "Ring",
+   "flags": [],
+   "notes": "Object/target label for the walking test (rings to pass through)."
+  },
+  {
+   "id": "u0145",
+   "en": "Basic Skills Test: Hovering",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0146",
+   "en": "Basic Skills Test: Flight",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0147",
+   "en": "Basic Skills Test: Shooting",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0148",
+   "en": "Target",
+   "flags": [],
+   "notes": "Object label for the shooting test."
+  },
+  {
+   "id": "u0149",
+   "en": "Basic Skills Test: Melee",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0150",
+   "en": "Basic Skills Test: Transport",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0151",
+   "en": "Recover Containers",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0152",
+   "en": "Basic Skills Test: Zero-G",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0153",
+   "en": "Advanced Skills Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0154",
+   "en": "Container",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0155",
+   "en": "Skills Test: Trial Enrollment",
+   "flags": [],
+   "notes": "Taiken nyuugaku = trial enrollment (the tutorial course of Academy mode)."
+  },
+  {
+   "id": "u0156",
+   "en": "Tutorial Basics: Walking",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0157",
+   "en": "Tutorial Basics: Hovering",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0158",
+   "en": "Tutorial Basics: Flight",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0159",
+   "en": "Tutorial Basics: Shooting",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0160",
+   "en": "Tutorial Basics: Melee",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0161",
+   "en": "Tutorial Basics: Transport",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0162",
+   "en": "Tutorial: Trial Enrollment",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0163",
+   "en": "Trial: Hilda-sensei's Extra Lesson",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Academy-mode (campus) mission, so the honorific is kept: Hilda-sensei. Hoshuu = supplementary lesson. 'Trial' = for trial enrollment."
+  },
+  {
+   "id": "u0164",
+   "en": "Unused",
+   "flags": [],
+   "notes": "Ketsuban = unused/missing number (empty slot)."
+  },
+  {
+   "id": "u0165",
+   "en": "S.M.S. Final Enlistment Test",
+   "flags": [],
+   "notes": "Glossary: S.M.S. (avoid 'SMS')."
+  },
+  {
+   "id": "u0166",
+   "en": "Shoot Down Opponent",
+   "flags": [],
+   "notes": "Condition label, imperative as MUF's condition labels."
+  },
+  {
+   "id": "u0167",
+   "en": "S.M.S. Galaxy Rescue",
+   "flags": [],
+   "notes": "Galaxy = the Macross Galaxy fleet."
+  },
+  {
+   "id": "u0168",
+   "en": "S.M.S. Vajra Nest Survey",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0169",
+   "en": "S.M.S. Sub-Queen Mothership Raid",
+   "flags": [],
+   "notes": "Glossary: Vajra Sub-Queen Mothership; 'Vajra' dropped for width (it is the Vajra sub-queen in every context)."
+  },
+  {
+   "id": "u0170",
+   "en": "S.M.S. Ranka Escort Mission",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0171",
+   "en": "S.M.S. Frontier Escort Mission",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0172",
+   "en": "S.M.S. Vajra Outbreak",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0173",
+   "en": "S.M.S. Vajra Homeworld Battle",
+   "flags": [],
+   "notes": "Kessen = decisive battle."
+  },
+  {
+   "id": "u0174",
+   "en": "S.M.S. Vajra Homeworld Battle 2",
+   "flags": [],
+   "notes": "Kouhan = second half."
+  },
+  {
+   "id": "u0175",
+   "en": "U.N. Forces Final Enlistment Test",
+   "flags": [],
+   "notes": "Brief: toogoogun = U.N. Forces."
+  },
+  {
+   "id": "u0176",
+   "en": "U.N. Forces Galaxy Rescue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0177",
+   "en": "U.N. Forces Vajra Nest Survey",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0178",
+   "en": "U.N. Forces Sub-Queen Mothership Raid",
+   "flags": [],
+   "notes": "As u0169."
+  },
+  {
+   "id": "u0179",
+   "en": "U.N. Forces Frontier Escort Mission",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0180",
+   "en": "U.N. Forces Vajra Outbreak",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0181",
+   "en": "U.N. Forces Vajra Homeworld Final Battle",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0182",
+   "en": "U.N. Forces Vajra Homeworld Final Battle 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0183",
+   "en": "Movie Stunt: Chase vs. Alto",
+   "flags": [],
+   "notes": "Eiga satsuei = film shoot."
+  },
+  {
+   "id": "u0184",
+   "en": "Damage Threshold",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Condition 'damage, fixed value' in the stunt chase: a set amount of damage. Kept neutral (dealt or taken is not settled)."
+  },
+  {
+   "id": "u0185",
+   "en": "Shoot Down",
+   "flags": [],
+   "notes": "Condition label."
+  },
+  {
+   "id": "u0186",
+   "en": "Movie Stunt: Chase vs. Michael",
+   "flags": [],
+   "notes": "Mihaeru = Michael (Michel only when the Japanese says Misheru)."
+  },
+  {
+   "id": "u0187",
+   "en": "Movie Stunt: Dogfight vs. Alto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0188",
+   "en": "Shoot Down Alto",
+   "flags": [],
+   "notes": "Condition label, imperative."
+  },
+  {
+   "id": "u0189",
+   "en": "Shoot Down Luca",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0190",
+   "en": "Keep Michael Alive",
+   "flags": [],
+   "notes": "Seizon = survive; MUF style 'Keep Partner Alive'."
+  },
+  {
+   "id": "u0191",
+   "en": "Movie Stunt: Dogfight vs. Michael",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0192",
+   "en": "Keep Alto Alive",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0193",
+   "en": "Shoot Down Michael",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0194",
+   "en": "Movie: Vajra Attack 1",
+   "flags": [],
+   "notes": "Gekijouban = the Macross F film; first Vajra attack."
+  },
+  {
+   "id": "u0195",
+   "en": "Movie: Vajra Attack 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0196",
+   "en": "Of Sea and Wind",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0197",
+   "en": "Annihilate all enemies",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0198",
+   "en": "Keep Partner Alive",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0199",
+   "en": "Keep Ally Units Alive",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0200",
+   "en": "Enemy Ace Damaged",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Condition 'enemy ace damage'. Kept as a neutral noun phrase: it may be a goal (damage the ace) or a loss condition; same call as u0289/u0290/u0293 in slice 3."
+  },
+  {
+   "id": "u0201",
+   "en": "Mock Combat Training",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0202",
+   "en": "Stars on the Ground",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0203",
+   "en": "Defeat Enemy Ace",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0204",
+   "en": "Ace of the U.N. Forces",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0205",
+   "en": "Mao's Treasure",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0206",
+   "en": "Deadly Duel in Blue",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0207",
+   "en": "Annihilate all enemies / Protect the target",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0208",
+   "en": "Defend Successfully",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0209",
+   "en": "Stop Ace's Escape",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0210",
+   "en": "Jungle",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0211",
+   "en": "Protect the defense target",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0212",
+   "en": "Carry the AFOS fragment to the destination",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0213",
+   "en": "The One Who Steals the Stars",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0214",
+   "en": "Bird Human",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0215",
+   "en": "Destroy the AFOS",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0216",
+   "en": "Booby Trap",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0217",
+   "en": "Countdown",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0218",
+   "en": "Transformation",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0219",
+   "en": "Survive for the set time",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0220",
+   "en": "Skull Leader",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0221",
+   "en": "Daedalus Attack",
+   "flags": [],
+   "notes": "tm kept"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0163: Academy-mode (campus) mission, so the honorific is kept: Hilda-sensei. Hoshuu = supplementary lesson. 'Trial' = for trial enrollment.",
+   "u0184: Condition 'damage, fixed value' in the stunt chase: a set amount of damage. Kept neutral (dealt or taken is not settled).",
+   "u0200: Condition 'enemy ace damage'. Kept as a neutral noun phrase: it may be a goal (damage the ace) or a loss condition; same call as u0289/u0290/u0293 in slice 3."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

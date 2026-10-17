@@ -1,0 +1,445 @@
+{
+ "slice": 179,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c13103",
+   "en": "Wow, I've wandered into\nsomewhere pretty hectic...",
+   "flags": [],
+   "notes": "Male, frd_rnk_009 (ending: backstage at Ranka's concert)."
+  },
+  {
+   "id": "c13104",
+   "en": "Where's Ranka's dressing room...?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c13105",
+   "en": "Oh, here it is...",
+   "flags": [],
+   "notes": "x2, player (both genders)."
+  },
+  {
+   "id": "c13106",
+   "en": "Ye~s?",
+   "flags": [],
+   "notes": "x3, Ranka answering the knock; also the female player in frd_she_007."
+  },
+  {
+   "id": "c13107",
+   "en": "It's me.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c13108",
+   "en": "Oh, \\p-kun?!\nHang on, I'll open it right now!!",
+   "flags": [],
+   "notes": "Male, Ranka."
+  },
+  {
+   "id": "c13109",
+   "en": "Congrats on your concert!",
+   "flags": [],
+   "notes": "x2, player; raibu kaisai omedetou."
+  },
+  {
+   "id": "c13110",
+   "en": "Thank you!\nSorry for making you come all this way.",
+   "flags": [],
+   "notes": "x2, Ranka."
+  },
+  {
+   "id": "c13111",
+   "en": "No, I'm the one who should be sorry\nfor dropping in when you're busy...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c13112",
+   "en": "These flowers are to celebrate!\nThey're from everyone at Mihoshi!",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c13113",
+   "en": "Wow~! They're beautiful~!!",
+   "flags": [],
+   "notes": "x2, Ranka."
+  },
+  {
+   "id": "c13114",
+   "en": "I'm really looking forward to the concert.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c13115",
+   "en": "Yeah!\nIt's my first concert since we reached\nthe new planet! I'm all fired up!!",
+   "flags": [],
+   "notes": "x2, Ranka; kiai juubun ganbaru yo."
+  },
+  {
+   "id": "c13116",
+   "en": "(Yep, that's the same old energetic Ranka!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c13117",
+   "en": "\\p-kun!\nKeep cheering me on, okay?!",
+   "flags": [],
+   "notes": "Male, Ranka; kore kara mo ouen shite ne."
+  },
+  {
+   "id": "c13118",
+   "en": "Yeah, I'll always be cheering for you!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c13119",
+   "en": "Ranka ending (male).\nSlot filler for female.",
+   "flags": [],
+   "notes": "Developer placeholder under Alto's name plate, translated literally like c06488."
+  },
+  {
+   "id": "c13120",
+   "en": "Ranka ending (female).\nSlot filler for male.",
+   "flags": [],
+   "notes": "Developer placeholder under Alto's name plate, translated literally like c06489."
+  },
+  {
+   "id": "c13121",
+   "en": "I might've wandered into\nsomewhere pretty hectic...",
+   "flags": [],
+   "notes": "Female, frd_rnk_010."
+  },
+  {
+   "id": "c13122",
+   "en": "Where's Ranka-chan's dressing room...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13123",
+   "en": "It's me.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13124",
+   "en": "Oh, \\p-chan?!\nHang on, I'll open it right now!!",
+   "flags": [],
+   "notes": "Female, Ranka."
+  },
+  {
+   "id": "c13125",
+   "en": "I'm the one who should be sorry\nfor dropping in when you're busy.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13126",
+   "en": "(That's the same old energetic Ranka-chan!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13127",
+   "en": "\\p-chan!\nKeep cheering me on, okay?!",
+   "flags": [],
+   "notes": "Female, Ranka."
+  },
+  {
+   "id": "c13128",
+   "en": "I'll always be cheering for you!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13129",
+   "en": "Hello, \\p-kun.",
+   "flags": [],
+   "notes": "x3, Ranka (frd_rnk_101); also Nanase in nml_nns_001."
+  },
+  {
+   "id": "c13130",
+   "en": "Hey, Ranka. What are you doing here?",
+   "flags": [],
+   "notes": "x2, male player."
+  },
+  {
+   "id": "c13131",
+   "en": "Well, I had a little errand at school...",
+   "flags": [],
+   "notes": "x2, Ranka (polite in these outings)."
+  },
+  {
+   "id": "c13132",
+   "en": "Oh, I know! Shall we walk home together?",
+   "flags": [],
+   "notes": "x2, Ranka."
+  },
+  {
+   "id": "c13133",
+   "en": "Sure, let's stop somewhere on the way.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c13134",
+   "en": "We've got tests coming up soon.\nAre you studying properly, Ranka?",
+   "flags": [],
+   "notes": "Male; uchi = the player's course."
+  },
+  {
+   "id": "c13135",
+   "en": "Oh, I forgot!!\nPhew... That was a close one...",
+   "flags": [],
+   "notes": "x2, Ranka."
+  },
+  {
+   "id": "c13136",
+   "en": "Then you'd better study\nwhen you get home.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c13137",
+   "en": "Yes, you're right!",
+   "flags": [],
+   "notes": "x2, Ranka."
+  },
+  {
+   "id": "c13138",
+   "en": "Hello, \\p-chan.",
+   "flags": [],
+   "notes": "x2, Ranka (female scenes)."
+  },
+  {
+   "id": "c13139",
+   "en": "Ranka-chan, what are you doing here?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13140",
+   "en": "Okay! Let's stop somewhere on the way home.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13141",
+   "en": "We've got tests coming up soon.\nAre you studying, Ranka-chan?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13142",
+   "en": "Well, I had another errand at school...",
+   "flags": [],
+   "notes": "x2, Ranka."
+  },
+  {
+   "id": "c13143",
+   "en": "Oh, I know! Shall we go have some fun\nsomewhere?",
+   "flags": [],
+   "notes": "x2, Ranka."
+  },
+  {
+   "id": "c13144",
+   "en": "Sure, let's go have some fun~",
+   "flags": [],
+   "notes": "Male; asobi ni iku ka."
+  },
+  {
+   "id": "c13145",
+   "en": "By the way, how did your last test go?",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c13146",
+   "en": "Mmm~, so-so, I guess?",
+   "flags": [],
+   "notes": "x2, Ranka."
+  },
+  {
+   "id": "c13147",
+   "en": "You say that, but I bet you actually\ngot a good score, didn't you?",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c13148",
+   "en": "No, really, it was average!\nTotally average!",
+   "flags": [],
+   "notes": "x2, Ranka."
+  },
+  {
+   "id": "c13149",
+   "en": "Hey, Ranka-chan. What are you doing here?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13150",
+   "en": "Yeah, let's go have some fun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13151",
+   "en": "(Today I came to Central Park\nto hang out with Ranka.)",
+   "flags": [],
+   "notes": "Male, frd_rnk_102."
+  },
+  {
+   "id": "c13152",
+   "en": "\\p-kun, sorry to keep you waiting!",
+   "flags": [],
+   "notes": "x4, Ranka (also frd_rnk_104, frd_rnk_107)."
+  },
+  {
+   "id": "c13153",
+   "en": "Oh, okay. That's good, then.",
+   "flags": [],
+   "notes": "x2, Ranka; answers the player's shared 'I just got here myself' (c09418/c07338)."
+  },
+  {
+   "id": "c13154",
+   "en": "Let's take a little walk.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c13155",
+   "en": "It's a nice place, isn't it?\nThere are so many animals and plants.",
+   "flags": [],
+   "notes": "x2, Ranka."
+  },
+  {
+   "id": "c13156",
+   "en": "There's something here you just don't feel\nin everyday life. You don't get to see\nthis much green, either.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c13157",
+   "en": "Yeah. Every now and then,\nwe need to take a breather like this...",
+   "flags": [],
+   "notes": "x2, Ranka; generic subject rendered 'we'."
+  },
+  {
+   "id": "c13158",
+   "en": "Mmm~!\nThis feels great!",
+   "flags": [],
+   "notes": "x2, Ranka."
+  },
+  {
+   "id": "c13159",
+   "en": "(I came to Central Park\nto hang out with Ranka-chan.)",
+   "flags": [],
+   "notes": "x2, female player."
+  },
+  {
+   "id": "c13160",
+   "en": "\\p-chan, sorry to keep you waiting!",
+   "flags": [],
+   "notes": "x4, Ranka (also frd_rnk_104, frd_rnk_107)."
+  },
+  {
+   "id": "c13161",
+   "en": "There's something here you just don't feel\nin everyday life. You don't get to see\nthis much green, either.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13162",
+   "en": "(I came to Central Park\nwith Ranka again today.)",
+   "flags": [],
+   "notes": "Male, second visit."
+  },
+  {
+   "id": "c13163",
+   "en": "\\p-kun, you're la~te!",
+   "flags": [],
+   "notes": "x2, Ranka (also frd_rnk_103)."
+  },
+  {
+   "id": "c13164",
+   "en": "Sorry, sorry.\nI kind of overslept...",
+   "flags": [],
+   "notes": "x2, player; as c07490."
+  },
+  {
+   "id": "c13165",
+   "en": "Geez, you've even got bedhead.\nGet it together, okay?",
+   "flags": [],
+   "notes": "Male, Ranka."
+  },
+  {
+   "id": "c13166",
+   "en": "Ahaha... I've learned my lesson...",
+   "flags": [],
+   "notes": "Male; as c00734."
+  },
+  {
+   "id": "c13167",
+   "en": "I'm jealous... I'd love to live\nsurrounded by green~",
+   "flags": [],
+   "notes": "x2, Ranka; ii na."
+  },
+  {
+   "id": "c13168",
+   "en": "That might be pretty inconvenient, though.\nWithout electricity, it's pitch-black after dark,\nand even cooking is a real chore.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c13169",
+   "en": "That's why it's nice to come\nonce in a while, right?",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c13170",
+   "en": "Hmm, I guess you're right...",
+   "flags": [],
+   "notes": "x2, Ranka."
+  },
+  {
+   "id": "c13171",
+   "en": "\\p-chan, you're la~te!",
+   "flags": [],
+   "notes": "x2, Ranka (also frd_rnk_103)."
+  },
+  {
+   "id": "c13172",
+   "en": "Geez, your hair's a total mess, you know?\nYou're a girl, so you've gotta look neat...",
+   "flags": [],
+   "notes": "Female, Ranka."
+  },
+  {
+   "id": "c13173",
+   "en": "Ahaha... Lesson learned, lesson learned.",
+   "flags": [],
+   "notes": "Female; hansei hansei."
+  },
+  {
+   "id": "c13174",
+   "en": "That might be pretty inconvenient, though.\nWithout electricity, it's pitch-black after dark,\nand even cooking is a real chore.",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

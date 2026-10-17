@@ -1,0 +1,495 @@
+{
+ "slice": 153,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c11170",
+   "en": "Let me know how it tastes, okay?",
+   "flags": [],
+   "notes": "Female, frd_myk_105."
+  },
+  {
+   "id": "c11171",
+   "en": "(Today I came to see a concert with Shirakawa!)",
+   "flags": [],
+   "notes": "x2, male, frd_myk_106 (classical and jazz visits)."
+  },
+  {
+   "id": "c11172",
+   "en": "I-I just got here myself.",
+   "flags": [],
+   "notes": "Male, flustered."
+  },
+  {
+   "id": "c11173",
+   "en": "...Are you nervous?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11174",
+   "en": "It's my first time at a classical concert...\nI don't even know how I'm supposed to listen.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11175",
+   "en": "I think you can just act normal, you know?\nThe doors are about to open, so let's go!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11176",
+   "en": "(That 'normal' is exactly what I don't get~!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11177",
+   "en": "That was an amazing performance.\nAnd the hall's acoustics were excellent, too.",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11178",
+   "en": "I was just blown away...\nThe power of live music is something else...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11179",
+   "en": "Hehe, let's come again, okay?",
+   "flags": [],
+   "notes": "x4, Miyuki, both genders, both visits."
+  },
+  {
+   "id": "c11180",
+   "en": "Yeah, I'm looking forward to it.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11181",
+   "en": "(Today I came to see a concert with Miyuki.)",
+   "flags": [],
+   "notes": "x2, female (both visits)."
+  },
+  {
+   "id": "c11182",
+   "en": "I-I just got here too.",
+   "flags": [],
+   "notes": "Female, flustered."
+  },
+  {
+   "id": "c11183",
+   "en": "It's my first time at a classical concert...\nI don't know how I'm supposed to listen.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11184",
+   "en": "(That 'normal' is exactly what I don't get~!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11185",
+   "en": "That was a wonderful performance.\nAnd the hall's acoustics were excellent, too.",
+   "flags": [],
+   "notes": "Miyuki, female scene."
+  },
+  {
+   "id": "c11186",
+   "en": "I was just blown away...\nThe power of live music is something else...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11187",
+   "en": "Mm-hm, I'm looking forward to it!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11188",
+   "en": "Today's a jazz concert, right?",
+   "flags": [],
+   "notes": "x2, Miyuki (raibu = concert per glossary)."
+  },
+  {
+   "id": "c11189",
+   "en": "They're supposed to be a really famous band.\nI wonder what they'll sound like. Anyway,\nI can't wait.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11190",
+   "en": "Yes. The doors are about to open, so let's go!",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11191",
+   "en": "It wasn't just about the playing.\nThey were fun to watch, too.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11192",
+   "en": "Every player had such a strong personality.\nThat's a famous band for you~",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11193",
+   "en": "They're supposed to be a really famous band.\nI wonder what they'll sound like. Anyway,\nI can't wait!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11194",
+   "en": "The doors are about to open, so let's go!",
+   "flags": [],
+   "notes": "Miyuki, female scene."
+  },
+  {
+   "id": "c11195",
+   "en": "Every player had such a strong personality.\nThat's a famous band for you, huh~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11196",
+   "en": "(Today I'm going out to eat with Shirakawa!)",
+   "flags": [],
+   "notes": "Male, frd_myk_107."
+  },
+  {
+   "id": "c11197",
+   "en": "Hey, Shirakawa.\nDid I keep you waiting a bit?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11198",
+   "en": "Geez, you're late, you know?",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11199",
+   "en": "I'm really sorry!\nIt took me a while to get ready to go out.",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c11200",
+   "en": "Hehe, I'm just kidding.\nShall we go?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11201",
+   "en": "Your table manners are perfect, Shirakawa.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11202",
+   "en": "Th-that's not really true, but...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11203",
+   "en": "When I eat, my plates go clink-clank\nthe whole time.",
+   "flags": [],
+   "notes": "Male (kachakacha)."
+  },
+  {
+   "id": "c11204",
+   "en": "Once you get used to it, you'll eat\nthat way naturally.",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11205",
+   "en": "Oh, could you come shopping with me after this?",
+   "flags": [],
+   "notes": "x2, Miyuki asking the player; answered 'Okay, sure.'"
+  },
+  {
+   "id": "c11206",
+   "en": "(Today I came out to eat with Miyuki.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11207",
+   "en": "Sorry, Miyuki!\nDid I keep you waiting a bit?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11208",
+   "en": "Geez, you're late, you know...?",
+   "flags": [],
+   "notes": "Miyuki, female scene."
+  },
+  {
+   "id": "c11209",
+   "en": "Your table manners are perfect, Miyuki.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11210",
+   "en": "I never even know which fork\nI'm supposed to use first...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11211",
+   "en": "You just use them in order, from the outside in.",
+   "flags": [],
+   "notes": "Miyuki, female scene."
+  },
+  {
+   "id": "c11212",
+   "en": "(Today I'm going out to eat with Shirakawa again!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11213",
+   "en": "Hey, Shirakawa, here I am.",
+   "flags": [],
+   "notes": "Male (omatase as a casual greeting; she answers 'Hello' and he adds he is glad he did not keep her waiting)."
+  },
+  {
+   "id": "c11214",
+   "en": "Good, looks like I didn't keep you waiting.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11215",
+   "en": "Hehe, shall we go?\nI'm starving.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11216",
+   "en": "Yeah, me too.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11217",
+   "en": "I wonder how they get the meat this tender.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11218",
+   "en": "If it were that easy to figure out,\neveryone would be opening restaurants.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11219",
+   "en": "Fair enough...\nWell, when it comes to good food, eating\nbeats cooking.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11220",
+   "en": "(Today I'm going out to eat with Miyuki again.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11221",
+   "en": "Miyuki~ Here I am!",
+   "flags": [],
+   "notes": "Female (omatase as a greeting, as c11213)."
+  },
+  {
+   "id": "c11222",
+   "en": "Glad I didn't keep you waiting~!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11223",
+   "en": "Mm-hm, me too.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11224",
+   "en": "I wonder how they get the meat this tender?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11225",
+   "en": "Fair enough...\nWell, when it comes to good food, eating\nbeats cooking!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11226",
+   "en": "Well then, let's head home!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11227",
+   "en": "(Today I'm gonna swim at the pool\nwith Shirakawa~!)",
+   "flags": [],
+   "notes": "Male, frd_myk_108."
+  },
+  {
+   "id": "c11228",
+   "en": "I'm sorry I'm late...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11229",
+   "en": "Don't worry about it, I just got here myself.",
+   "flags": [],
+   "notes": "x2, male player (frd_myk_108 and frd_myk_113)."
+  },
+  {
+   "id": "c11230",
+   "en": "Oh, I see.\nW-well then, shall we go?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11231",
+   "en": "That was good exercise.\nThere weren't many people, so it was easy\nto swim.",
+   "flags": [],
+   "notes": "Miyuki, male scene."
+  },
+  {
+   "id": "c11232",
+   "en": "I'm totally wiped out...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11233",
+   "en": "Hehe, we've still got time,\nso let's swim a little more.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11234",
+   "en": "Huh? H-hold on a sec!",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11235",
+   "en": "Loser buys the other a juice!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11236",
+   "en": "Ngh! I won't lose~!",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11237",
+   "en": "(Today I came to the pool with Miyuki.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11238",
+   "en": "Don't worry about it, I just got here too.",
+   "flags": [],
+   "notes": "x2, female player (frd_myk_108 and frd_myk_113)."
+  },
+  {
+   "id": "c11239",
+   "en": "That was good exercise.\nThere aren't many people, so it's easy to swim.",
+   "flags": [],
+   "notes": "Miyuki, female scene."
+  },
+  {
+   "id": "c11240",
+   "en": "I'm totally wiped out~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11241",
+   "en": "(Today I came to the pool with Shirakawa again!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11242",
+   "en": "I'm sorry I'm late again today...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11243",
+   "en": "Don't worry about it. Getting ready and all\nmust be a lot of work, huh.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11244",
+   "en": "I-it's not really that much work, but...\nShall we go, then?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11245",
+   "en": "I got to swim with real focus again today.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11246",
+   "en": "The school pool's nothing to sneeze at, huh.",
+   "flags": [],
+   "notes": "Male (baka ni dekinai)."
+  },
+  {
+   "id": "c11247",
+   "en": "Now, we still have time,\nso shall we swim a little more?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11248",
+   "en": "Yeah, I need to get my revenge for last time.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11249",
+   "en": "In that case, loser buys the other\na juice again today!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c11213/c11221: omatase used as a casual 'here I am' greeting, since the player then says he/she is glad not to have kept Miyuki waiting (c11214/c11222)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

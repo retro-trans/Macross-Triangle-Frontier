@@ -1,0 +1,493 @@
+{
+ "slice": 192,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c14040",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Sheryl to Griffith Park\nand just take it easy...)",
+   "flags": [],
+   "notes": "Male, frd_she_110; pattern as c11899."
+  },
+  {
+   "id": "c14041",
+   "en": "Oh, \\p.\nWhat is it?",
+   "flags": [],
+   "notes": "x10, Sheryl, male."
+  },
+  {
+   "id": "c14042",
+   "en": "Griffith Park... Well, it's not bad...\nHmm...!?",
+   "flags": [],
+   "notes": "x4, Sheryl, both genders."
+  },
+  {
+   "id": "c14043",
+   "en": "Sorry, I've got a little work this weekend...\nAsk me again if you get the chance.",
+   "flags": [],
+   "notes": "x12, Sheryl, both genders."
+  },
+  {
+   "id": "c14044",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Sheryl-san to Griffith Park\nand just take it easy...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14045",
+   "en": "Oh, \\p-chan.\nWhat is it?",
+   "flags": [],
+   "notes": "x10, Sheryl, female."
+  },
+  {
+   "id": "c14046",
+   "en": "Um, I was wondering if you'd want to spend\nthe weekend with me at Griffith Park...",
+   "flags": [],
+   "notes": "Female; answers 'What is it?', so the opening hai is 'Um' here, not 'Yes'. Male twin c04170."
+  },
+  {
+   "id": "c14047",
+   "en": "(Okay, that's it for classes...\nMaybe I'll invite Sheryl to stop off\nsomewhere on the way home...)",
+   "flags": [],
+   "notes": "x4, male, frd_she_111/113; as c11889."
+  },
+  {
+   "id": "c14048",
+   "en": "Hey, Sheryl. You wanna stop off somewhere\non the way home?",
+   "flags": [],
+   "notes": "x4, male; as c11890."
+  },
+  {
+   "id": "c14049",
+   "en": "(Okay, that's it for classes...\nMaybe I'll invite Sheryl-san to stop off\nsomewhere on the way home.)",
+   "flags": [],
+   "notes": "x4, female."
+  },
+  {
+   "id": "c14050",
+   "en": "Oh, Sheryl-san.\nWould you like to stop off somewhere\non the way home?",
+   "flags": [],
+   "notes": "x4, female (polite)."
+  },
+  {
+   "id": "c14051",
+   "en": "(This weekend, maybe I'll invite Sheryl\nto go shopping in Deep Akihabara...)",
+   "flags": [],
+   "notes": "Male, frd_she_112."
+  },
+  {
+   "id": "c14052",
+   "en": "Deep Akihabara!? That sounds kind of fun!\n...Oh!?",
+   "flags": [],
+   "notes": "x4, Sheryl, both genders."
+  },
+  {
+   "id": "c14053",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Sheryl-san to go shopping\nin Deep Akihabara...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14054",
+   "en": "Um, I was wondering if you'd want to go\nshopping in Deep Akihabara with me this weekend...",
+   "flags": [],
+   "notes": "Female; male twin c04177."
+  },
+  {
+   "id": "c14055",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Sheryl to a concert\nat the Sky Gate.)",
+   "flags": [],
+   "notes": "Male, frd_she_114."
+  },
+  {
+   "id": "c14056",
+   "en": "Well, I was wondering if you'd want to go see\na concert at the Sky Gate with me this weekend...",
+   "flags": [],
+   "notes": "x4, male; also frd_yuu_114 (Akimizu). As c04182."
+  },
+  {
+   "id": "c14057",
+   "en": "Hmm, well... Once in a while, it might be nice\nto see someone else's concert...\n...Oh!?",
+   "flags": [],
+   "notes": "x4, Sheryl, both genders."
+  },
+  {
+   "id": "c14058",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Sheryl-san to go see\na concert at the Sky Gate...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14059",
+   "en": "Um, I was wondering if you'd want to go see\na concert at the Sky Gate with me this weekend...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14060",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Sheryl to go shopping at Folmo.)",
+   "flags": [],
+   "notes": "Male, frd_she_115."
+  },
+  {
+   "id": "c14061",
+   "en": "Well, I was wondering if you'd want to go\nshopping at Folmo with me this weekend...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14062",
+   "en": "I'm sorry...\nI'm just not in the mood for that right now...",
+   "flags": [],
+   "notes": "x8, Sheryl, both genders, frd_she_115/116 (low-mood refusal)."
+  },
+  {
+   "id": "c14063",
+   "en": "I'm really sorry. I'll be going, then...",
+   "flags": [],
+   "notes": "x8, Sheryl, both genders."
+  },
+  {
+   "id": "c14064",
+   "en": "Ah, wait, Sheryl...",
+   "flags": [],
+   "notes": "x4, male."
+  },
+  {
+   "id": "c14065",
+   "en": "(Sheryl...)",
+   "flags": [],
+   "notes": "x4, male."
+  },
+  {
+   "id": "c14066",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Sheryl-san to go shopping\nat Folmo.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14067",
+   "en": "Um, I was wondering if you'd want to go\nshopping at Folmo with me this weekend...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14068",
+   "en": "Ah, wait, Sheryl-san...",
+   "flags": [],
+   "notes": "x4, female."
+  },
+  {
+   "id": "c14069",
+   "en": "(Sheryl-san...)",
+   "flags": [],
+   "notes": "x4, female."
+  },
+  {
+   "id": "c14070",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Sheryl to get something\nto eat at Nyan-Nyan.)",
+   "flags": [],
+   "notes": "Male, frd_she_116."
+  },
+  {
+   "id": "c14071",
+   "en": "Well, I was wondering if you'd want to grab\na bite at Nyan-Nyan with me this weekend...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14072",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Sheryl-san to get something\nto eat at Nyan-Nyan.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14073",
+   "en": "Um, I was wondering if you'd want to grab\na bite at Nyan-Nyan with me this weekend...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14074",
+   "en": "(There's some EX-Gear maintenance stuff\nI don't get, so I'm sure Hoshimura and I\narranged for her to teach me, but...)",
+   "flags": [],
+   "notes": "Male, frd_yui_001."
+  },
+  {
+   "id": "c14075",
+   "en": "(Hoshimura sure is late...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14076",
+   "en": "Heyyy!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14077",
+   "en": "Oh, Hoshimura.\nYou didn't show up on time, so I was worried.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14078",
+   "en": "Sorry, sorry!\nI kinda got caught up in some... trouble?\nOr something like it, this morning...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14079",
+   "en": "What!?\nTrouble...? Are you okay, Hoshimura?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14080",
+   "en": "...Now, now, let's set that aside\nand go study EX-Gear maintenance~!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14081",
+   "en": "Huh! Oh, sure... let's do that......",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14082",
+   "en": "(She just blatantly changed the subject.\nWhat on earth was that trouble about?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14083",
+   "en": "Now then, let Yui-sensei's\nEX-Gear Maintenance Class begin~!",
+   "flags": [],
+   "notes": "Hoshimura, both genders; she styles herself Yui-sensei."
+  },
+  {
+   "id": "c14084",
+   "en": "My classes are as strict as Hilda-sensei's,\nso brace yourself.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14085",
+   "en": "Yeah, yeah. I'm in your hands,\nYui-sensei.",
+   "flags": [],
+   "notes": "Player, both genders (yoroshiku onegaishimasu, played along)."
+  },
+  {
+   "id": "c14086",
+   "en": "Mm, very good.\nSo, what is it you don't get?",
+   "flags": [],
+   "notes": "Hoshimura, both genders (old-fashioned umu, yoroshii)."
+  },
+  {
+   "id": "c14087",
+   "en": "It's the engine unit part...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14088",
+   "en": "Engine units are easy once you're used to 'em.\nListen up. Here, you do it like this...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14089",
+   "en": "Here you go WHAM! like so,\nand then it's all WHOOSH! and...",
+   "flags": [],
+   "notes": "Hoshimura, both genders; sound-effect explanation."
+  },
+  {
+   "id": "c14090",
+   "en": "......Hm? Uh-huh...?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14091",
+   "en": "Get this far and the rest is easy.\nA tweak here, a twiddle there, a twiddly-\ntweak and... ta-da, all done~!",
+   "flags": [],
+   "notes": "Hoshimura, both genders; choi / chochoi / chochoi no choi wordplay as tweak/twiddle."
+  },
+  {
+   "id": "c14092",
+   "en": "See? Easy, right?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14093",
+   "en": "...Huh? Uh, umm...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14094",
+   "en": "Sorry, but could you go over it again\nfrom the beginning...",
+   "flags": [],
+   "notes": "Player, both genders; verb restored."
+  },
+  {
+   "id": "c14095",
+   "en": "Awww, geez, you're hopeless...\nLike I said, here you do it like this......",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14096",
+   "en": "(When Hoshimura's explanation is mostly\nsound effects, I can't understand a thing...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14097",
+   "en": "Hmmm, why don't you get it~?\nLike I said, here it goes all WHOOSH and...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14098",
+   "en": "(Then tell me what I'm supposed to do\nwhen it goes WHOOSH...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14099",
+   "en": "Wait, huh? My tummy's\nsounding the rescue alarm!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14100",
+   "en": "(If I keep learning from Hoshimura like this,\nI don't think I'll ever understand it...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14101",
+   "en": "You seem hungry too, Hoshimura.\nHow about we stop studying here\nand go grab something to eat?",
+   "flags": [],
+   "notes": "Male; he says 'Hoshimura too' to her face, rendered as direct address."
+  },
+  {
+   "id": "c14102",
+   "en": "Ooh, yes, yes, let's do that!\nLemme see... then let's go eat\nsteak and pineapple salad~!",
+   "flags": [],
+   "notes": "Hoshimura, both genders. Steak and pineapple salad is the famous Macross death-flag meal; translated literally."
+  },
+  {
+   "id": "c14103",
+   "en": "Ooh, let's go, let's go!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14104",
+   "en": "Your treat, of course, right?",
+   "flags": [],
+   "notes": "x3, Hoshimura, both genders; also frd_yui_008."
+  },
+  {
+   "id": "c14105",
+   "en": "After all, I went to the trouble of teaching you\nas your sensei. Don't I deserve a little something?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14106",
+   "en": "...All right, you win.",
+   "flags": [],
+   "notes": "Player, both genders (resigned wakarimashita yo)."
+  },
+  {
+   "id": "c14107",
+   "en": "Yaaay! What a big spender~!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders (futoppara)."
+  },
+  {
+   "id": "c14108",
+   "en": "Steak awaits us~!\nAlriiight, away we gooo~!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders; rettsura go = 'away we go' (dated slang, fits her register)."
+  },
+  {
+   "id": "c14109",
+   "en": "(Well, if Hoshimura's this happy about it,\nmaybe treating her is fine...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14110",
+   "en": "Oh, by the way, Hoshimura,\nwhat was that trouble this morning, anyway?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14111",
+   "en": "Oversleeping, of course.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14112",
+   "en": "...Ah! Oops......",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14113",
+   "en": "...On second thought, let's scrap the treat.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14114",
+   "en": "Nooo~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14115",
+   "en": "(Geez... So it wasn't trouble after all.\nHoshimura just overslept...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14116",
+   "en": "(Honestly, Hoshimura's always so full of it.)",
+   "flags": [],
+   "notes": "Male (choushi ii)."
+  },
+  {
+   "id": "c14117",
+   "en": "(There's some EX-Gear maintenance stuff\nI don't get, so I'm sure Yui and I\narranged for her to teach me, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14118",
+   "en": "(Yui sure is late...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14119",
+   "en": "Oh, Yui.\nYou didn't show up on time, so I was worried.",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

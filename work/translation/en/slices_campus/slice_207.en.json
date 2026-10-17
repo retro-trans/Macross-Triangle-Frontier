@@ -1,0 +1,453 @@
+{
+ "slice": 207,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c15155",
+   "en": "Oh, you're early today too.",
+   "flags": [],
+   "notes": "Male, frd_yuu_003 second visit."
+  },
+  {
+   "id": "c15156",
+   "en": "Hey, I'm not late ALL the time, you know!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15157",
+   "en": "Ahaha, sorry, sorry.\nWell, shall we get going?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15158",
+   "en": "Ahh, cake really is soooo good!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15159",
+   "en": "Uh, is it... okay for you to eat that...?",
+   "flags": [],
+   "notes": "x2, player (her diet)."
+  },
+  {
+   "id": "c15160",
+   "en": "Oh, um... well...\nI'll... try hard starting tomorrow...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15161",
+   "en": "I see. Well, then I guess it's fine.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15162",
+   "en": "(Akimizu really can't resist sweets, huh...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15163",
+   "en": "(I was supposed to go to \"Silver Moon\" with\nYuu again today, but...)",
+   "flags": [],
+   "notes": "Female; twin of c15154 (past tense in the Japanese)."
+  },
+  {
+   "id": "c15164",
+   "en": "Oh, you're early today too.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15165",
+   "en": "Ahaha, sorry, sorry.\nWell, let's get going.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15166",
+   "en": "I see. Then no problem!\nI'm having more too!",
+   "flags": [],
+   "notes": "Female (watashi motto)."
+  },
+  {
+   "id": "c15167",
+   "en": "(Yuu really can't resist sweets, huh...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15168",
+   "en": "(Today I've got research to do in the library...\nAkimizu's going to help me,\nso let's get it done quickly.)",
+   "flags": [],
+   "notes": "Male, frd_yuu_004."
+  },
+  {
+   "id": "c15169",
+   "en": "Okay, looks like Akimizu isn't here yet,\nso I'll kill a little time...\nLet's see, any interesting books...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15170",
+   "en": "\"The Mystery of Fold: Can You Reach the Edge\nof the Galaxy?\" We covered some of it in class,\nbut it looks interesting.",
+   "flags": [],
+   "notes": "Male; book title in quotes."
+  },
+  {
+   "id": "c15171",
+   "en": "What else... let's see.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15172",
+   "en": "\"What Is Chiba Sound? The Menace of Song Energy!\"\nI've kind of heard of it, but Song Energy...?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x2, player. Chiba-song (the Song Energy unit named after Dr. Chiba) not in the glossary; 'Chiba Sound' assumed. The title says kyoui 'threat'; possibly a typo for 'wonder', kept literal."
+  },
+  {
+   "id": "c15173",
+   "en": "Hm?! What's this!",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15174",
+   "en": "\"Janice Merin: Exploring Her Allure\"\nUm, if I remember right, Miranda in the\nPerforming Arts Course is her...",
+   "flags": [],
+   "notes": "x2, player; trails off before the relation (Miranda's...). Janice Merin and Miranda (Miranda Merin, Macross Frontier actress) not in the glossary."
+  },
+  {
+   "id": "c15175",
+   "en": "Yep, they really do have all sorts of books here.\nHuh? Akimizu, you were already here?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15176",
+   "en": "Uh-huh, I see, I see...",
+   "flags": [],
+   "notes": "x2, Akimizu, reading to herself."
+  },
+  {
+   "id": "c15177",
+   "en": "Mm-hm, mm-hm, I see,\nexercise rather than food...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15178",
+   "en": "Whaaat~ This has THAT many calories...?",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15179",
+   "en": "Akimizu? Akimizu-saaan? Miss Akimizuuu~?",
+   "flags": [],
+   "notes": "Male (misu Akimizu)."
+  },
+  {
+   "id": "c15180",
+   "en": "Okay, if I work hard at this and this\nstarting tomorrow...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15181",
+   "en": "Eek! Um, yes?",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15182",
+   "en": "So you were already here.\nWhat were you reading?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15183",
+   "en": "Huh?! Ummm, this is~...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15184",
+   "en": "It sounded like you were saying something\nabout \"calories\"...",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15185",
+   "en": "Oh, look, the research!\nShall we hurry up and get it done?",
+   "flags": [],
+   "notes": "x2, Akimizu, changing the subject."
+  },
+  {
+   "id": "c15186",
+   "en": "Huh? Oh, sure, okay then...",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15187",
+   "en": "Phew... That was quicker than I expected.\nOr rather, it's all thanks to you, Akimizu.\nYou know where everything is in the library.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15188",
+   "en": "Oh, yeah, Claire-senpai's taught me all sorts...\nShe says, \"A real operator has to know\nplenty beyond what's taught in class!\"",
+   "flags": [],
+   "notes": "x2, Akimizu; quoting Claire."
+  },
+  {
+   "id": "c15189",
+   "en": "Wow~ You're really studious...\nSo what were you reading earlier?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15190",
+   "en": "Huh?! That was... ummm...\na book about health, I guess...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15191",
+   "en": "Oh, that's important.\nBeing healthy is what lets you take on anything.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15192",
+   "en": "Mm, right, right! Exactly!\nHealth is sooo important!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15193",
+   "en": "I'd love to read it too. What's it called?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15194",
+   "en": "Mm, huh? Ahh, what was it called again...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15195",
+   "en": "Didn't you just put it in your bag?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15196",
+   "en": "Ah, hey, Akimizu!",
+   "flags": [],
+   "notes": "Male; she runs off."
+  },
+  {
+   "id": "c15197",
+   "en": "(Did I put Akimizu on the spot a little?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15198",
+   "en": "(Today I've got research to do in the library...\nYuu's going to help me,\nso let's get it done quickly.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15199",
+   "en": "Okay, looks like Yuu isn't here yet,\nso I'll kill a little time...\nLet's see, any interesting books...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15200",
+   "en": "\"The Mystery of Fold: Can You Reach the Edge\nof the Galaxy?\" We covered some of it in class,\nbut it looks interesting.",
+   "flags": [],
+   "notes": "Female; same as c15170."
+  },
+  {
+   "id": "c15201",
+   "en": "Hmm, they really do have all sorts of books here.\nHuh? Yuu, you were already here?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15202",
+   "en": "Yuu? Yuu-saaan? Miss Akimizuuu~?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15203",
+   "en": "So you were already here.\nWhat were you reading?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15204",
+   "en": "Phew... That was quicker than I expected.\nOr rather, it's all thanks to you, Yuu.\nYou know where everything is in the library.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15205",
+   "en": "Wow~ You're really studious...\nSo what were you reading earlier?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15206",
+   "en": "Oh, that's important.\nBeing healthy is what lets you take on anything.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15207",
+   "en": "I'd love to read it too. What's it called?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15208",
+   "en": "Didn't you just put it in your bag?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15209",
+   "en": "Ah, hey, Yuu!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15210",
+   "en": "(Maybe I was a little mean to Yuu...)",
+   "flags": [],
+   "notes": "Female (ijiwaru)."
+  },
+  {
+   "id": "c15211",
+   "en": "(Okay, more research at the library today...\nAkimizu said she'd help,\nso let's get right to it.)",
+   "flags": [],
+   "notes": "Male, frd_yuu_004 second visit."
+  },
+  {
+   "id": "c15212",
+   "en": "Oh, \\p-kun, you're late!",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15213",
+   "en": "Huh? Akimizu, you're early.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15214",
+   "en": "Hee hee, I have my moments too, you know!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15215",
+   "en": "Uh, sorry, I guess...",
+   "flags": [],
+   "notes": "Male (nanka sumimasen)."
+  },
+  {
+   "id": "c15216",
+   "en": "Phew, we're finally done.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15217",
+   "en": "Seriously, it's all thanks to you, Akimizu.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15218",
+   "en": "Huh? Oh, not at all.\nFlattering me won't get you anything, you know.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15219",
+   "en": "Aw, too bad!",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15220",
+   "en": "(Akimizu's really reliable at times like this.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15221",
+   "en": "(Okay, more research at the library today...\nYuu said she'd help,\nso let's get right to it.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15222",
+   "en": "Oh, \\p-chan, you're late!",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c15223",
+   "en": "Huh? Yuu, you're early.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15224",
+   "en": "Oh, sorry, I guess...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15225",
+   "en": "Seriously, it's all thanks to you, Yuu.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15226",
+   "en": "(Yuu's really reliable at times like this.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c15172: book title; 'Chiba Sound' assumed for the Song Energy unit (katakana Chiba-song), and kyoui read literally as 'threat/menace' though it may be a typo for 'wonder'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Chiba-song (Song Energy unit, c15172): used 'Chiba Sound'",
+   "Janice Merin (c15174)",
+   "Miranda (Miranda Merin, Performing Arts Course, c15174)"
+  ],
+  "unfinished": []
+ }
+}

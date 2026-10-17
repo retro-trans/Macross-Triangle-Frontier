@@ -1,0 +1,508 @@
+{
+ "slice": 4,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o7_exd/243",
+   "en": "A friendly unit requests rescue. Support them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/243",
+   "en": "A friendly unit requests rescue. Go support them, now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/244",
+   "en": "Would you wipe out the enemy and open a path for the friendlies?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/244",
+   "en": "Wipe out the enemy and open a path for the friendlies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/246",
+   "en": "The enemy has broken through our defense line, I fear. Intercept them at once!",
+   "flags": [],
+   "notes": "Transcript joins the sentences with 'desu ga'; read as two sentences."
+  },
+  {
+   "id": "of_ktr/246",
+   "en": "The enemy broke through the defense line! Intercept them, quick!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/247",
+   "en": "Enemy reinforcements, it would seem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/247",
+   "en": "Enemy reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/248",
+   "en": "Enemies incoming!",
+   "flags": [],
+   "notes": "TF re-recording; the MUF clip was a different joke line."
+  },
+  {
+   "id": "o7_exd/248",
+   "en": "Enemy reinforcements, I see.",
+   "flags": [],
+   "notes": "Whisper flagged nospeech, but the transcript fits the line; kept."
+  },
+  {
+   "id": "of_ktr/248",
+   "en": "Enemy reinforcements incoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/249",
+   "en": "Enemy reinforcements confirmed!",
+   "flags": [],
+   "notes": "TF re-recording; the MUF clip said 'hey, an enemy'."
+  },
+  {
+   "id": "o7_exd/249",
+   "en": "Approaching enemies detected.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/249",
+   "en": "Enemies approaching. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/250",
+   "en": "Enemy confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/250",
+   "en": "Enemy confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/251",
+   "en": "New enemy confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/251",
+   "en": "New enemy confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/252",
+   "en": "Enemy signal acquired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/252",
+   "en": "Enemy signal caught!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/253",
+   "en": "The enemy reinforcements keep coming, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/253",
+   "en": "The reinforcements keep coming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/254",
+   "en": "Enemy signal confirmed. We cannot let our guard down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/254",
+   "en": "More enemy signals. Stay sharp.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/255",
+   "en": "The enemy reinforcements just keep coming.",
+   "flags": [],
+   "notes": "TF re-recording; close to the MUF line."
+  },
+  {
+   "id": "o7_exd/255",
+   "en": "Enemy signals confirmed once again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/255",
+   "en": "More enemies appearing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/256",
+   "en": "Numerous enemy signals confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/256",
+   "en": "Many enemy signals confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/257",
+   "en": "How long are these enemy reinforcements gonna keep coming?!",
+   "flags": [],
+   "notes": "Same line as MUF:vo0_of2_257."
+  },
+  {
+   "id": "o7_exd/257",
+   "en": "Multiple enemies closing in fast.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/257",
+   "en": "Multiple enemies closing in fast!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/258",
+   "en": "There seem to be a great many enemies. Will you be all right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/258",
+   "en": "There are a lot of enemies. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/300",
+   "en": "I do worry whether this operation will truly go well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/300",
+   "en": "Are you really up to this, I wonder?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/301",
+   "en": "It seems I cannot expect very much.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/301",
+   "en": "Just don't go acting on your own. Understood?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/302",
+   "en": "Would you at least refrain from getting in the operation's way?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/302",
+   "en": "You'd better succeed at an operation this simple.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/303",
+   "en": "We cannot afford to fail in this operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/303",
+   "en": "Operation start. Good luck.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "kentou 'consideration' kanji for kentou 'fight well' (good luck)."
+  },
+  {
+   "id": "o7_exd/304",
+   "en": "You will follow my instructions.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/304",
+   "en": "Stay sharp. The operation's starting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/305",
+   "en": "Operation start. Are you quite ready?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/305",
+   "en": "We can't afford to fail this operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/306",
+   "en": "With you, I expect there will be no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/306",
+   "en": "You'll be fine. I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/307",
+   "en": "Would you leave the support to me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/307",
+   "en": "I'm counting on you again. Good luck.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/308",
+   "en": "I would be grateful if you lived up to my expectations...",
+   "flags": [],
+   "notes": "Ends on a trailing 'ga'; kept as trailing."
+  },
+  {
+   "id": "of_ktr/308",
+   "en": "I'm leaving this operation to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/309",
+   "en": "I pray for your fortune in battle.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "gomuun 'no luck' kanji for gobuun 'fortune in battle'."
+  },
+  {
+   "id": "of_ktr/309",
+   "en": "Don't be reckless. Come back safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/310",
+   "en": "The success of this operation rests on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/310",
+   "en": "With your skill, an operation like this should be easy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/311",
+   "en": "Failure is hardly possible, but...",
+   "flags": [],
+   "notes": "Ends on a trailing 'ga'; kept as trailing."
+  },
+  {
+   "id": "of_ktr/311",
+   "en": "I believe in you. I know you'll pull it off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/320",
+   "en": "I did not think you would make it back in one piece.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/320",
+   "en": "I'm amazed you actually made it back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/321",
+   "en": "Well, well. That you succeeded could fairly be called a miracle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/321",
+   "en": "I was a fool to expect anything from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/322",
+   "en": "Is this what they mean when they say luck is part of skill?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "un wo heard for un mo (the saying 'un mo jitsuryoku no uchi')."
+  },
+  {
+   "id": "of_ktr/322",
+   "en": "Honestly, we really are short of people these days.",
+   "flags": [],
+   "notes": "A jab at the player: low-rating result line."
+  },
+  {
+   "id": "o7_exd/323",
+   "en": "Well, I suppose this is about what one would expect.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/323",
+   "en": "Operation successful. Return to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/324",
+   "en": "Your skill is not bad at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/324",
+   "en": "You did well. Good work.",
+   "flags": [],
+   "notes": "Whisper flagged nospeech, but the transcript fits the line; kept."
+  },
+  {
+   "id": "o7_exd/325",
+   "en": "I would like you to keep this up next time as well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/325",
+   "en": "Not bad at all. I'm expecting a lot next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/326",
+   "en": "Resting up for the next operation is also part of your duty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/326",
+   "en": "Keep this up next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/327",
+   "en": "Impressive, as expected. There is nothing more to say.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/327",
+   "en": "Better results than I imagined. Impressive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/328",
+   "en": "Splendid results!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/328",
+   "en": "Of course you succeeded. It's you, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/329",
+   "en": "Is this what they call the power of Culture?",
+   "flags": [],
+   "notes": "bunka = Culture, capitalised as Zentradi speech (glossary)."
+  },
+  {
+   "id": "of_ktr/329",
+   "en": "I made some pineapple cake. Would you have some?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "pain keeki: pineapple cake; not in the glossary as a Frontier food name."
+  },
+  {
+   "id": "o7_exd/330",
+   "en": "You seem tired. Then allow me to sing you a song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/330",
+   "en": "Making me worry about you... You idiot.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 318 of_ktr/329: pain keeki: pineapple cake; not in the glossary as a Frontier food name."
+  ],
+  "whisper_doubt": [
+   "row 282 of_ktr/303: kentou 'consideration' kanji for kentou 'fight well' (good luck).",
+   "row 293 o7_exd/309: gomuun 'no luck' kanji for gobuun 'fortune in battle'.",
+   "row 303 o7_exd/322: un wo heard for un mo (the saying 'un mo jitsuryoku no uchi')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

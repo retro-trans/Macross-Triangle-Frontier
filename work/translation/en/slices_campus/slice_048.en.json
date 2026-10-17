@@ -1,0 +1,498 @@
+{
+ "slice": 48,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c03528",
+   "en": "Okay, all finished!",
+   "flags": [],
+   "notes": "Male version."
+  },
+  {
+   "id": "c03529",
+   "en": "...Is this thing gonna be okay?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03530",
+   "en": "Well, duh! Of course!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03531",
+   "en": "...I'll look forward to next class, then.",
+   "flags": [],
+   "notes": "Male only; uneasy about the modded EX-Gear."
+  },
+  {
+   "id": "c03532",
+   "en": "See ya!\nThanks for saying yes!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03533",
+   "en": "(Her skills are pro-level, so I'll just trust\nit'll be fine...)",
+   "flags": [],
+   "notes": "Both genders; 'her' = Hoshimura."
+  },
+  {
+   "id": "c03534",
+   "en": "Nope, not happening.",
+   "flags": [],
+   "notes": "Both genders; refusal branch ('yappa dame')."
+  },
+  {
+   "id": "c03535",
+   "en": "Whaaat!!\nAw, c'mon, you cheapskate...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03536",
+   "en": "Call me a cheapskate, then!",
+   "flags": [],
+   "notes": "Both genders ('kechi de kekkou')."
+  },
+  {
+   "id": "c03537",
+   "en": "Fine, forget it!\nHmph!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03538",
+   "en": "Come on, don't be so mad.\nI'll treat you to tea at Silver Moon.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03539",
+   "en": "For real!?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03540",
+   "en": "Alrighty! Let's go!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03541",
+   "en": "(She sure is easy to please...)",
+   "flags": [],
+   "notes": "Male only ('tanjun na yatsu')."
+  },
+  {
+   "id": "c03542",
+   "en": "What's up, Yui?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03543",
+   "en": "Me? Why?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03544",
+   "en": "D-depends on what it is...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03545",
+   "en": "My EX-Gear?\nBut you've got your own.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03546",
+   "en": "O-okay, fine...\nI just have to show it to you, right?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03547",
+   "en": "You've got your own, so why mine...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03548",
+   "en": "So you've already modded yours...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03549",
+   "en": "(What is she going on about? She just\nstarted poking at it on her own...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03550",
+   "en": "That'll sink, you know.",
+   "flags": [],
+   "notes": "Female only; answers the mud-boat line c03524."
+  },
+  {
+   "id": "c03551",
+   "en": "Th-that's not reassuring...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03552",
+   "en": "Okey-dokey, all finished!",
+   "flags": [],
+   "notes": "Female version."
+  },
+  {
+   "id": "c03553",
+   "en": "...I'll look forward to next class, then.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03554",
+   "en": "Come on, don't be mad...\nI'll treat you to tea at Silver Moon...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03555",
+   "en": "(She sure is easy to please...)",
+   "flags": [],
+   "notes": "Female only ('tanjun na ko')."
+  },
+  {
+   "id": "c03556",
+   "en": "...Yo there,\n\\p-cchi.",
+   "flags": [],
+   "notes": "x4: ext_yui_003/005, both genders. '-cchi' as in c04564."
+  },
+  {
+   "id": "c03557",
+   "en": "Heading home, Hoshimura?",
+   "flags": [],
+   "notes": "Male; ext_yui_003 and ext_yui_005."
+  },
+  {
+   "id": "c03558",
+   "en": "...Yeah, something like that.\nAnd would ya be heading home all alone?",
+   "flags": [],
+   "notes": "x4, both genders ('chimi', old-fashioned 'kane')."
+  },
+  {
+   "id": "c03559",
+   "en": "...Reaaally all alone?",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c03560",
+   "en": "*sniff sniff*...\nI smell a lie...",
+   "flags": [],
+   "notes": "Male; ext_yui_003 and 005."
+  },
+  {
+   "id": "c03561",
+   "en": "I-I'm not lying!!\nWhat would I even gain by lying!!",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c03562",
+   "en": "...Isn't there something you want to tell me?\nI'm waiting, you know...",
+   "flags": [],
+   "notes": "x8: said twice in each of ext_yui_003/005, both genders."
+  },
+  {
+   "id": "c03563",
+   "en": "Sigh... Guess it can't be helped...",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c03564",
+   "en": "You've been getting close with that woman\nlately, huh... I heard the rumors...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "ext_yui_003, both genders. 'Ano onna no hito' is not named."
+  },
+  {
+   "id": "c03565",
+   "en": "But I... I won't lose!\n'Cause in the end, I'm the one who's gonna win!",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c03566",
+   "en": "Heading home, Yui?",
+   "flags": [],
+   "notes": "Female; ext_yui_003 and 005."
+  },
+  {
+   "id": "c03567",
+   "en": "*sniff sniff*...\nI smell a lie...",
+   "flags": [],
+   "notes": "Female; ext_yui_003 and 005 (same line, other kanji)."
+  },
+  {
+   "id": "c03568",
+   "en": "Hey, Hoshimura!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03569",
+   "en": "\\p-cchi!\nYoo-hoo-hoo!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03570",
+   "en": "What're you doing, hanging around\nin front of Nyan-Nyan?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03571",
+   "en": "Y'know, it's kinda lonely going in alone.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03572",
+   "en": "What's that supposed to mean?\nWant to go in with me, then?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03573",
+   "en": "Huh? You mean it?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03574",
+   "en": "Sure, I've got nothing better to do.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03575",
+   "en": "Well then! Here we gooo!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03576",
+   "en": "H-hey! Quit pushing...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03577",
+   "en": "Ahem!\nToday's on me, so eat up, eat up, eat up!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03578",
+   "en": "Huh!\nAre you sure!?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03579",
+   "en": "Heh heh heh! I'm gonna dig in too, y'hear~!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03580",
+   "en": "All right, it's an eating contest, then!!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03581",
+   "en": "I accept your challenge, lad!!",
+   "flags": [],
+   "notes": "Male only ('shounen'); old-fashioned diction."
+  },
+  {
+   "id": "c03582",
+   "en": "My belly's about to burst...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03583",
+   "en": "You sure ate a ton~",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03584",
+   "en": "Ya weren't too shabby yourself...\nWell then...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03585",
+   "en": "Excuse meee, we'd like the check, please.\nHow much is it?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03586",
+   "en": "...Wh-why, that's quite the hefty sum...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03587",
+   "en": "H-huh...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03588",
+   "en": "It's not here, nyaa...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03589",
+   "en": "Why, my wallet's gone...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03590",
+   "en": "I-I don't have this kind of money!?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03591",
+   "en": "I wonder if they'd let me work\na temp shift...",
+   "flags": [],
+   "notes": "Both genders; parallels Sheryl's c03365."
+  },
+  {
+   "id": "c03592",
+   "en": "Sorry things turned out like this.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03593",
+   "en": "Plus I got to see you in a Nyan-Nyan outfit,\nHoshimura.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03594",
+   "en": "Hey, hey, did it look good on me?\nOf course it did, right?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03595",
+   "en": "Y-yeah, I think it looked good...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03596",
+   "en": "Thank youuu!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03597",
+   "en": "Well then, let's head home.",
+   "flags": [],
+   "notes": "x4: Hoshimura in ext_yui_004 and Kagura in frd_kgr_008, both genders."
+  },
+  {
+   "id": "c03598",
+   "en": "Hey, Yui~!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03599",
+   "en": "Want to go in with me, then?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03600",
+   "en": "Sure, I've got nothing better to do.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03601",
+   "en": "H-hey! Don't push~",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03602",
+   "en": "What! Are you sure!?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03603",
+   "en": "All right, it's an eating contest, then!!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03604",
+   "en": "I accept your challenge, lass!!",
+   "flags": [],
+   "notes": "Female only ('shoujo'); old-fashioned diction."
+  },
+  {
+   "id": "c03605",
+   "en": "I-I don't have this kind of money!?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03606",
+   "en": "That was some good exercise after a big meal.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03607",
+   "en": "Plus I got to see you in a Nyan-Nyan outfit,\nYui.",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c03564: 'ano onna no hito' (that woman) the player is rumored to be close to is unnamed; used for both genders in ext_yui_003 (ext_yui_005 has 'that man', c03609).",
+   "c03581/c03604: 'shounen'/'shoujo' rendered 'lad'/'lass' for Hoshimura's old-fashioned diction."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

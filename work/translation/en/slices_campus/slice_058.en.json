@@ -1,0 +1,506 @@
+{
+ "slice": 58,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c04308",
+   "en": "L-let's switch to walking today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04309",
+   "en": "Sigh... It's not really anything to brag about,\nthough...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04310",
+   "en": "(I didn't get any of my own training done,\nbut I guess it was nice to see an unexpected\nside of Claire-senpai.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04311",
+   "en": "(Today's the rematch from last time...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Rebenji: from the following lines it is a rematch between Claire and the player (she vows to crush the player and loses again); the sport is never named."
+  },
+  {
+   "id": "c04312",
+   "en": "Sorry, I'm a little late, aren't I?\n\\p-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04313",
+   "en": "No, I just got here myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04314",
+   "en": "Oh, that won't do. Being right on time?\nYou should get there early and wait for the lady!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04315",
+   "en": "...Geez, that's rich, coming from the one\nwho showed up late...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04316",
+   "en": "Hehehe, just kidding!\nI'm really sorry, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04317",
+   "en": "Don't worry about it!\nNow then, let's have our rematch\nfrom the other day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04318",
+   "en": "Hmph! I'm gonna beat you to a pulp!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04319",
+   "en": "(The one who got beaten to a pulp\nwas Claire-senpai.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04320",
+   "en": "...Shall we head home...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04321",
+   "en": "Cheer up, Senpai...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04322",
+   "en": "Mm, you're right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04323",
+   "en": "(I'd like to help Senpai get\na little more athletic...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04324",
+   "en": "(Today's the rematch from last time...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04325",
+   "en": "Sorry, I'm a little late, aren't I?\n\\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04326",
+   "en": "No, I just got here myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04327",
+   "en": "Oh, that won't do. Being right on time...\nYou should always aim to be five minutes early.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04328",
+   "en": "...Geez, that's rich, coming from the one\nwho showed up late~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04329",
+   "en": "Don't worry about it.\nNow then, let's have our rematch\nfrom the other day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04330",
+   "en": "(Perfect beach weather!\nToday I'm gonna have tons of fun\nwith Claire-senpai!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04331",
+   "en": "You seem pretty excited,\n\\p-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04332",
+   "en": "Of course! We're going to the beach!\nThe weather's great too, I'm so excited!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04333",
+   "en": "Hehehe, then let's go get changed.\nWe'll meet up again later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04334",
+   "en": "Guess I was faster, of course.\nI hope Senpai gets here soon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04335",
+   "en": "Sorry to keep you waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04336",
+   "en": "Oh, Claire-senpa...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04337",
+   "en": "(Th-this is...!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04338",
+   "en": "What do you think of this swimsuit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04339",
+   "en": "It's amazing!\nI think it looks great on you!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04340",
+   "en": "You're exaggerating, but I'm happy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04341",
+   "en": "(She's too dazzling...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04342",
+   "en": "There sure are a lot of people, though...\nI wonder if there's any room left\nto put up a parasol?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04343",
+   "en": "I've got that covered, so don't worry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04344",
+   "en": "What do you want to do next? Go swimming?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04345",
+   "en": "Let's see... I'll sunbathe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04346",
+   "en": "(She's not good at exercise, after all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04347",
+   "en": "Is there some problem?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04348",
+   "en": "No, there's not!!\nNone at all, really!",
+   "flags": [],
+   "notes": "The player's garbled over-polite 'arimasen desu' shows panic; rendered as flustered denial."
+  },
+  {
+   "id": "c04349",
+   "en": "If you say so.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04350",
+   "en": "I-I'll go buy us something to drink.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04351",
+   "en": "Oh, never mind the drinks.\nThere's something I'd like you to help me with.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04352",
+   "en": "Help? With what??",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04353",
+   "en": "Could you rub some oil on me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04354",
+   "en": "I can't reach my back by myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04355",
+   "en": "Whaaat??",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04356",
+   "en": "Come ooon... Hurry uuup...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04357",
+   "en": "*gulp*...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04358",
+   "en": "It's my first time, so be gentle with me...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04359",
+   "en": "(Th-this is bliss~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04360",
+   "en": "Aah~ That was fun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04361",
+   "en": "I'm glad you enjoyed it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04362",
+   "en": "Didn't you have fun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04363",
+   "en": "I'm really tired... but it was fun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04364",
+   "en": "(I can still feel it on my hands...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04365",
+   "en": "Hehe, you're so cute, kouhai-kun,\nteasing you is just too much fun~",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "kouhai-kun as in c04288. Review: Claire's kouhai-kun/-chan kept as 'kouhai-kun'/'kouhai-chan', like -senpai."
+  },
+  {
+   "id": "c04366",
+   "en": "P-please don't tease me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04367",
+   "en": "Hehe!\nWell then, let's head home together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04368",
+   "en": "(That was a fun day~\nI'll try inviting her again.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04369",
+   "en": "(Today's perfect beach weather!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04370",
+   "en": "You seem pretty excited,\n\\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04371",
+   "en": "It's been ages since I went to the beach!\nThe weather's great too, I'm so excited!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04372",
+   "en": "Hehehe, then let's go get changed together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04373",
+   "en": "Th-there's something about the look\nin your eyes...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04374",
+   "en": "Heh heh heh heh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04375",
+   "en": "I sensed danger and changed right away, but...\nI hope Senpai gets here soon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04376",
+   "en": "(Wh-what in the world...!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04377",
+   "en": "I think it looks great on you!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04378",
+   "en": "Yours looks great on you too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04379",
+   "en": "(Is she even the same species as me...?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04380",
+   "en": "(She's not good at exercise, after all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04381",
+   "en": "No problem at all!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04382",
+   "en": "I-I'll go buy us something to drink.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04383",
+   "en": "(Whoa~ What is this~...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04384",
+   "en": "Hehe, you're so cute, kouhai-chan,\nteasing you is just too much fun~",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "kouhai-chan as in c04306. Review: Claire's kouhai-kun/-chan kept as 'kouhai-kun'/'kouhai-chan', like -senpai."
+  },
+  {
+   "id": "c04385",
+   "en": "(Another beach vacation with Claire-senpai today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04386",
+   "en": "The artificial island is such a great place,\nno matter how many times you come.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04387",
+   "en": "Well then, shall we go get changed?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c04311/c04324/c04317/c04329: 'rebenji' rendered 'rematch'. The lines that follow make it a rematch between Claire and the player (she vows to crush the player and is crushed); the sport is never named.",
+   "c04365/c04384: 'kouhai-kun' / 'kouhai-chan' as 'junior-kun' / 'junior-chan' (see slice 57).",
+   "c04358: Claire's innuendo ('It's my first time, so be gentle with me...?') kept at full strength.",
+   "c04386: jinkoutou rendered 'the artificial island' (lowercase common noun, as c23059); not in the glossary."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "jinkoutou (artificial island, campus beach outing spot; c04386): rendered 'the artificial island'."
+  ],
+  "unfinished": []
+ }
+}

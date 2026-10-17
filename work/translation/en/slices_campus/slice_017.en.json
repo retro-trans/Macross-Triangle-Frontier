@@ -1,0 +1,512 @@
+{
+ "slice": 17,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c01200",
+   "en": "(Yamashiro-sensei called me in again...\nWhat's he going to have me do...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01201",
+   "en": "\\p.\nDid I keep you waiting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01202",
+   "en": "No, I just got here myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01203",
+   "en": "Um, don't tell me... today, too...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01204",
+   "en": "There's no \"don't tell me\" about it.\nIt's a remedial lesson.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01205",
+   "en": "N-No way...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01206",
+   "en": "This is what happens when you don't study\nday to day. Do you understand that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01207",
+   "en": "Ugh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01208",
+   "en": "Then let's get started right away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01209",
+   "en": "Y-Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01210",
+   "en": "Don't be so stiff. Like last time, you only\nhave to solve a little set of problems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01211",
+   "en": "Last time's were hard enough...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01212",
+   "en": "Quit grumbling. Here we go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01213",
+   "en": "(Alright, I've just got to do it!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01214",
+   "en": "Lynn Minmay's father, Lynn Paochun, runs a\nChinese restaurant in Yokohama Chinatown.\nWhat is it called?",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Name of Minmay's father not in glossary; romanised from the katakana."
+  },
+  {
+   "id": "c01215",
+   "en": "Rinsharou",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Restaurant name (quiz choice); romanised from its furigana. Must stay distinct from the next choice."
+  },
+  {
+   "id": "c01216",
+   "en": "Minsharou",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Restaurant name (quiz choice); romanised from its furigana."
+  },
+  {
+   "id": "c01217",
+   "en": "Nyan-Nyan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01218",
+   "en": "How many times has the famous ace pilot Isamu\nDyson been awarded the Roy Focker Medal?",
+   "flags": [],
+   "notes": "Glossary alias 'Isamu Dyson' (the Japanese gives both names)."
+  },
+  {
+   "id": "c01219",
+   "en": "3 times",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01220",
+   "en": "4 times",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01221",
+   "en": "5 times",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01222",
+   "en": "Now, the last one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01223",
+   "en": "Which of these songs belongs to Alice Holiday,\nthe singer Mylene looks up to?",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Alice Holiday not in glossary; romanised from the katakana."
+  },
+  {
+   "id": "c01224",
+   "en": "Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01225",
+   "en": "Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01226",
+   "en": "Universe",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01227",
+   "en": "Is this really a test...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01228",
+   "en": "Hmm...\nNow, let's grade it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01229",
+   "en": "Every answer is correct.\nYou can do it when you try.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01230",
+   "en": "Of course! I take my classes seriously!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01231",
+   "en": "With this, you should be fine. But don't\nforget to keep studying day to day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01232",
+   "en": "(...Phew, I'm saved.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01233",
+   "en": "This is the last remedial lesson, but don't\nforget to study. Understood?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01234",
+   "en": "(...I-I'm wiped out...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01235",
+   "en": "(Yamashiro-sensei called me in again...\nI wonder what he wants me to do...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01236",
+   "en": "No, I just got here too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01237",
+   "en": "...So you came, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01238",
+   "en": "Huh, Yamashiro-sensei...\nWhat's going on?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01239",
+   "en": "I was waiting for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01240",
+   "en": "You've been out having quite a lot of fun\nlately, haven't you...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01241",
+   "en": "Wh-What's this all of a sudden!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01242",
+   "en": "I won't say going out to have fun is wrong...\nbut keep it in moderation, understood?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01243",
+   "en": "Being nice to everyone is not wrong in itself.\nBut don't behave in a way that raises people's hopes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01244",
+   "en": "I-I see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01245",
+   "en": "That is all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01246",
+   "en": "(Oh? Isn't that...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01247",
+   "en": "Hey, Yuuto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01248",
+   "en": "Did you need me for something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01249",
+   "en": "I just happened to spot you, Yuuto, so I thought I'd say hi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01250",
+   "en": "I'm surprised you could tell it was me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01251",
+   "en": "That long hair in back gives you away in a second.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01252",
+   "en": "Oh, this thing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01253",
+   "en": "I've been meaning to ask you...\nWhy do you grow your hair long in back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01254",
+   "en": "Looks cool, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01255",
+   "en": "(H-He didn't even hesitate.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01256",
+   "en": "Y-Yeah, I guess...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01257",
+   "en": "Why don't you grow yours out too, \\p?\nI think it'd suit you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01258",
+   "en": "No, thanks",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01259",
+   "en": "I'll think about it",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01260",
+   "en": "I think I'll pass...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01261",
+   "en": "Besides, I'd just be copying your look, Yuuto.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "kyara kaburu = 'our characters would overlap'; rendered as copying his look."
+  },
+  {
+   "id": "c01262",
+   "en": "I wouldn't mind, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01263",
+   "en": "Anyway, even if I grew my hair out in back,\nnobody would notice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01264",
+   "en": "Don't say something so sad...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01265",
+   "en": "I'll think about it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01266",
+   "en": "I'd have to grow my hair out first, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01267",
+   "en": "I'll tell you about my hair salon sometime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01268",
+   "en": "O-Okay... Thanks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01269",
+   "en": "They trim it perfectly, right down to the very tips.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01270",
+   "en": "For that braid of yours?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "osage (Kagura's long tail of back hair): rendered 'braid'; 'ponytail' if his design says otherwise."
+  },
+  {
+   "id": "c01271",
+   "en": "Yep, yep.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01272",
+   "en": "(He's really particular about it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01273",
+   "en": "So, are you free after this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01274",
+   "en": "I don't have any plans.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01275",
+   "en": "Then let's stop by a cafe on the way home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01276",
+   "en": "Let's do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01277",
+   "en": "(I really don't get Yuuto's sense of style...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01278",
+   "en": "Hey, Kagura-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01279",
+   "en": "I just happened to spot you, Kagura-kun,\nso I thought I'd say hi.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c01261: 'our characters would overlap' rendered as copying Yuuto's look",
+   "c01270: osage (Kagura's back hair) rendered 'braid'"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Lynn Paochun (Minmay's father, c01214)",
+   "Rinsharou / Minsharou (quiz-choice restaurant names, c01215-c01216)",
+   "Alice Holiday (singer Mylene admires, c01223)"
+  ],
+  "unfinished": []
+ }
+}

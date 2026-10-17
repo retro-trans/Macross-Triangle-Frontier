@@ -1,0 +1,497 @@
+{
+ "slice": 321,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c23210",
+   "en": "You gave me chocolate, so I couldn't\njust let it go! Go on, open it up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23211",
+   "en": "Oh, this is...",
+   "flags": [],
+   "notes": "Shirakawa."
+  },
+  {
+   "id": "c23212",
+   "en": "Yeah, when I think of your hobbies,\nShirakawa, it's tea, so I went with\na teacup.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23213",
+   "en": "What do you think?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23214",
+   "en": "Are you sure I can really have this?",
+   "flags": [],
+   "notes": "Shirakawa."
+  },
+  {
+   "id": "c23215",
+   "en": "Of course!\nI bought it for you, Shirakawa.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23216",
+   "en": "...Thank you... \\p-kun.\nI'll treasure it for the rest of my life...",
+   "flags": [],
+   "notes": "Shirakawa."
+  },
+  {
+   "id": "c23217",
+   "en": "(I'm glad Shirakawa seemed happy with it.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23218",
+   "en": "Oh, Hilda-sensei!\nThis is my return gift for Valentine's Day!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23219",
+   "en": "Hm? Ah, it's you?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c23220",
+   "en": "Yes, I thought it might do as thanks\nfor the other day...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23221",
+   "en": "This is... a cake...?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c23222",
+   "en": "Yes, it's from a popular shop\nin the Shibuya Area!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23223",
+   "en": "Are you an idiot?\nDon't hand me a lump of sugar and fat\nlike this!",
+   "flags": [],
+   "notes": "Hilda, full strength (baka)."
+  },
+  {
+   "id": "c23224",
+   "en": "Ah... that's... I'm sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23225",
+   "en": "Honestly, what were you thinking...",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c23226",
+   "en": "Oh, then I'll, um, come back another time.\nI'm sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23227",
+   "en": "No, wait.\nI'll gladly accept the gratitude behind it,\nso I'll take that too. Cake now and then is fine.",
+   "flags": [],
+   "notes": "Hilda. Tama ni wa keeki mo ii darou."
+  },
+  {
+   "id": "c23228",
+   "en": "But don't you repeat the same mistake\nnext time!",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c23229",
+   "en": "(Hilda-sensei really is kind underneath...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23230",
+   "en": "Here, Hoshimura.\nIt's White Day, so this is my return gift...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23231",
+   "en": "Ooh, now that you mention it, today's White Day!\nWell then, I'll accept it without\nfurther ado, I will!",
+   "flags": [],
+   "notes": "Hoshimura; itadakimasu-zei, old-fashioned flourish."
+  },
+  {
+   "id": "c23232",
+   "en": "I hope you like it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23233",
+   "en": "Wh-why, could this be...",
+   "flags": [],
+   "notes": "x2: Hoshimura (wrench) and Pinon (ribbon) on seeing the gift; works for both."
+  },
+  {
+   "id": "c23234",
+   "en": "Yeah, you love tinkering with machines,\nright, Hoshimura? So I figured maybe\na top-grade wrench, but...",
+   "flags": [],
+   "notes": "Trails off: Hoshimura answers '\\p...' (outside this slice) and the player panics."
+  },
+  {
+   "id": "c23235",
+   "en": "Huh, you don't want it?\nI'm really sorr...",
+   "flags": [],
+   "notes": "Cut off as in the Japanese (gome...)."
+  },
+  {
+   "id": "c23236",
+   "en": "No, no, I'm tickled pink! You truly mean it?!\nGivin' me something this fine!",
+   "flags": [],
+   "notes": "Hoshimura; meccha ureshii, old-fashioned voice."
+  },
+  {
+   "id": "c23237",
+   "en": "Of course.\nI bought it for you, Hoshimura.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23238",
+   "en": "Th-thank you kindly... \\p.",
+   "flags": [],
+   "notes": "Hoshimura."
+  },
+  {
+   "id": "c23239",
+   "en": "(Yeah, Hoshimura seemed happy too.\nI'm really glad I gave her a return gift.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23240",
+   "en": "(It's White Day today, but I wonder\nif Yamashiro-sensei remembered?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23241",
+   "en": "\\p, good timing.\nThere's something I want to give you.",
+   "flags": [],
+   "notes": "Yamashiro."
+  },
+  {
+   "id": "c23242",
+   "en": "This is a return gift for Valentine's.\nTake it.",
+   "flags": [],
+   "notes": "Yamashiro."
+  },
+  {
+   "id": "c23243",
+   "en": "Thank you, Yamashiro-sensei.\n...Wait, what is this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23244",
+   "en": "An assortment of homemade candy and cookies.\nAs a White Day return gift, nothing\ncould be more fitting.",
+   "flags": [],
+   "notes": "Yamashiro, formal voice (kore de arou)."
+  },
+  {
+   "id": "c23245",
+   "en": "Wow... Thank you so much, Yamashiro-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23246",
+   "en": "I'm glad to see you like it.",
+   "flags": [],
+   "notes": "Yamashiro."
+  },
+  {
+   "id": "c23247",
+   "en": "Oh, Akimizu.\nThis is my return gift for Valentine's Day...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23248",
+   "en": "Huh? Oh, th-thank you!",
+   "flags": [],
+   "notes": "Akimizu."
+  },
+  {
+   "id": "c23249",
+   "en": "I'm not sure if you'll like it, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23250",
+   "en": "Wow, it's so cute~!!\nThank you~!",
+   "flags": [],
+   "notes": "Akimizu."
+  },
+  {
+   "id": "c23251",
+   "en": "I remembered you collect stuffed animals\nand cute stuff... It's a plushie of\na creature called a 'Gyararashi'...",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Gyararashi (in quotes in the Japanese) is not in the glossary; romanized. Akimizu says it goes with Mylene of Fire Bomber."
+  },
+  {
+   "id": "c23252",
+   "en": "Uh-huh, it's really cute!\nIt's the one that's always with Mylene-san\nfrom Fire Bomber, right?",
+   "flags": [],
+   "notes": "Akimizu."
+  },
+  {
+   "id": "c23253",
+   "en": "Oh, is that so?\nYou really know your stuff, Akimizu.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23254",
+   "en": "Yes, I've actually wanted one for ages...\nso I'm really happy!",
+   "flags": [],
+   "notes": "Akimizu."
+  },
+  {
+   "id": "c23255",
+   "en": "Glad to hear it~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23256",
+   "en": "Even if it was by chance, you picked\nthe perfect thing! Let's keep getting\nalong from now on, okay?",
+   "flags": [],
+   "notes": "Akimizu. Sasuga = impressive / as expected."
+  },
+  {
+   "id": "c23257",
+   "en": "(I can't believe Akimizu was that happy...\nI'm glad I gave it to her!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23258",
+   "en": "Claire-senpai,\nit's White Day, so here's my return gift.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23259",
+   "en": "You went to the trouble of bringing it?\nThank you.",
+   "flags": [],
+   "notes": "Claire."
+  },
+  {
+   "id": "c23260",
+   "en": "Here, please go ahead and open it.",
+   "flags": [],
+   "notes": "x2: the player to Claire and to Klan (both senpai)."
+  },
+  {
+   "id": "c23261",
+   "en": "Oh my, this is...!",
+   "flags": [],
+   "notes": "Claire."
+  },
+  {
+   "id": "c23262",
+   "en": "Yes, I heard aromatherapy was your hobby,\nSenpai, so I got you an aroma candle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23263",
+   "en": "Are you sure I can really have this?",
+   "flags": [],
+   "notes": "x2: Claire and Ranka."
+  },
+  {
+   "id": "c23264",
+   "en": "Of course.\nI bought it for you, Senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23265",
+   "en": "Th-thank you...\nI'll use it with care.",
+   "flags": [],
+   "notes": "Claire."
+  },
+  {
+   "id": "c23266",
+   "en": "(I'm glad Claire-senpai seemed happy with it.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23267",
+   "en": "Here, Pinon-chan.\nIt's White Day, so this is my return gift...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23268",
+   "en": "Hm? Now that you mention it, today is\nWhite Day... Well then, I'll take it\nwithout holding back.",
+   "flags": [],
+   "notes": "Pinon."
+  },
+  {
+   "id": "c23269",
+   "en": "I hope you like it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23270",
+   "en": "Yeah, collecting ribbons is your hobby,\nright, Pinon-chan? So I bought a ribbon\nI thought would look cute on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23271",
+   "en": "Whoaaa~ It's so cute~\nIs it okay? Can I really have this?",
+   "flags": [],
+   "notes": "Pinon, forgetting her grown-up act."
+  },
+  {
+   "id": "c23272",
+   "en": "Of course.\nI'm glad you're that happy about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23273",
+   "en": "Ah!",
+   "flags": [],
+   "notes": "Pinon catching herself."
+  },
+  {
+   "id": "c23274",
+   "en": "N-no, I was only overdoing it\nto make YOU happy, got it?!",
+   "flags": [],
+   "notes": "Pinon."
+  },
+  {
+   "id": "c23275",
+   "en": "Well, I suppose I can at least\nsay thank you...",
+   "flags": [],
+   "notes": "Pinon."
+  },
+  {
+   "id": "c23276",
+   "en": "Th-thanks... \\p.",
+   "flags": [],
+   "notes": "x2: Pinon and Klan."
+  },
+  {
+   "id": "c23277",
+   "en": "(Pinon-chan seemed happy, so I'm\nreally glad I gave her a return gift.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23278",
+   "en": "(It's White Day today, but I wonder\nif Saotome-kun remembered?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23279",
+   "en": "Hey, \\p.\nHere, this is for the other day...",
+   "flags": [],
+   "notes": "Alto."
+  },
+  {
+   "id": "c23280",
+   "en": "Hm, thanks for Valentine's, you mean?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23281",
+   "en": "Mm, well, something like that.",
+   "flags": [],
+   "notes": "Alto."
+  },
+  {
+   "id": "c23282",
+   "en": "I see. Thank you, Saotome-kun!\nThis is, um...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23283",
+   "en": "Yeah, it's a 'tenugui,'\nthe same kind I use all the time.",
+   "flags": [],
+   "notes": "Alto. Tenugui (thin cotton hand towel) kept, since the player repeats the unfamiliar word next row."
+  },
+  {
+   "id": "c23284",
+   "en": "'Tenugui'?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23285",
+   "en": "Yeah. Unlike a towel, it dries fast and\nfeels nice on your skin, so I figured\nit'd be good for a woman.",
+   "flags": [],
+   "notes": "Alto."
+  },
+  {
+   "id": "c23286",
+   "en": "Just what I'd expect from a genius\nof female roles! You really know women!",
+   "flags": [],
+   "notes": "Tensai onnagata = kabuki actor of female roles (as slice 334: 'played female roles')."
+  },
+  {
+   "id": "c23287",
+   "en": "If you're gonna tease me,\ngive that back!",
+   "flags": [],
+   "notes": "Alto."
+  },
+  {
+   "id": "c23288",
+   "en": "Ah, sorry, sorry!\nI'll gratefully accept it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23289",
+   "en": "(Saotome-kun's surprisingly considerate.\nThat alone makes me kind of happy.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Gyararashi (c23251): plush creature associated with Mylene of Fire Bomber; romanized"
+  ],
+  "unfinished": []
+ }
+}

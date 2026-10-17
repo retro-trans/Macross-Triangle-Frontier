@@ -1,0 +1,502 @@
+{
+ "slice": 16,
+ "rows_in_slice": 79,
+ "rows_examined": 79,
+ "rows": [
+  {
+   "id": "c01121",
+   "en": "It's baseball, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01122",
+   "en": "It's soccer, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01123",
+   "en": "Which is it?!",
+   "flags": [],
+   "notes": "'docchi' written in katakana for emphasis."
+  },
+  {
+   "id": "c01124",
+   "en": "Baseball",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01125",
+   "en": "Soccer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01126",
+   "en": "B-baseball, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01127",
+   "en": "Wh-what did you say...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01128",
+   "en": "There, you see?!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01129",
+   "en": "Of course, of course! Meticulous strategy and\ncarefully laid setups, put to full use: baseball\nis the perfect sport for our next class!",
+   "flags": [],
+   "notes": "'fukusen' (foreshadowing) = plays set up in advance."
+  },
+  {
+   "id": "c01130",
+   "en": "All right, let's go,\n\\p!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01131",
+   "en": "Oh, okay!\nPlease don't drag me!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01132",
+   "en": "Damn it! You two'd better remember this!!",
+   "flags": [],
+   "notes": "'oboetero yo' = parting threat."
+  },
+  {
+   "id": "c01133",
+   "en": "S-soccer, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01134",
+   "en": "There, you see?! Gahaha!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01135",
+   "en": "Of course, of course!\nA ball's meant to be kicked, after all!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01136",
+   "en": "(Things are getting ugly... I have to do something!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01137",
+   "en": "Wh-why me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01138",
+   "en": "...So you've finally come,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01139",
+   "en": "Huh, Hilda-sensei... what's the matter?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01140",
+   "en": "...I was waiting for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01141",
+   "en": "...Isn't there something you ought to tell me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01142",
+   "en": "Where's this coming from all of a sudden...\nTell you? Not... really... anything? I think...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01143",
+   "en": "Sigh... then it can't be helped...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01144",
+   "en": "I have heard a rumor...\nthat you've been spending a lot of time with that girl...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'ano onna' = 'that girl' (the player's love interest, unnamed)."
+  },
+  {
+   "id": "c01145",
+   "en": "I cannot let this go unchecked!\n...A-as a teacher, that is!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01146",
+   "en": "That is all! Hurry home now!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01147",
+   "en": "Wh-what is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01148",
+   "en": "I have heard a rumor...\nthat you've been spending a lot of time with that boy...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'ano otoko'; labelled male variant though it reads as the counterpart of c01144 for a female player."
+  },
+  {
+   "id": "c01149",
+   "en": "Where's this coming from all of a sudden...\nTell you? Not... really... anything? I think...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01150",
+   "en": "I cannot let this go unchecked!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01151",
+   "en": "(Yamashiro-sensei called me in,\nbut what's this about...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01152",
+   "en": "\\p.\nSorry to keep you waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01153",
+   "en": "Hello, Yamashiro-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01154",
+   "en": "Mm.\nHave a seat there for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01155",
+   "en": "Um, what did you need me for today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01156",
+   "en": "\\p,\nI hear your lecture attendance leaves a lot to be desired.",
+   "flags": [],
+   "notes": "'zagaku' = classroom study (vs. flight training). Refit to the measured 420 px window."
+  },
+  {
+   "id": "c01157",
+   "en": "Th-that's not true...\nI go to class like I'm supposed to!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01158",
+   "en": "And so, I'll be looking after you myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01159",
+   "en": "Huh? You, Yamashiro-sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01160",
+   "en": "Helping students who've fallen behind improve\nis part of a teacher's duty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01161",
+   "en": "But I haven't fallen behind...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01162",
+   "en": "Relax, it's nothing difficult.\nYou'll just work through a little problem set.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01163",
+   "en": "If it's YOUR problem set, Sensei,\nit's bound to be hard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01164",
+   "en": "If you decide it's hard from the start,\nyou won't solve even the problems you could...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01165",
+   "en": "Now then, question one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01166",
+   "en": "(H-he's not taking no for an answer!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01167",
+   "en": "The ASS-1, later rebuilt as the SDF-1 Macross,\ncrashed on a lone island in the Pacific.\nWhat was the island's name?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01168",
+   "en": "East Liberia Island",
+   "flags": [],
+   "notes": "Wrong answer; invented name."
+  },
+  {
+   "id": "c01169",
+   "en": "South Ataria Island",
+   "flags": [],
+   "notes": "Glossary location."
+  },
+  {
+   "id": "c01170",
+   "en": "West Canaria Island",
+   "flags": [],
+   "notes": "Wrong answer; invented name."
+  },
+  {
+   "id": "c01171",
+   "en": "This one, maybe...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01172",
+   "en": "Question two.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01173",
+   "en": "This Macross Frontier we live on...\nwhich number Macross colony fleet is it?\n...Ah, that one's a freebie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01174",
+   "en": "25th Macross Colony Fleet",
+   "flags": [],
+   "notes": "'colony fleet' as in the corpus narration."
+  },
+  {
+   "id": "c01175",
+   "en": "17th Macross Colony Fleet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01176",
+   "en": "37th Macross Colony Fleet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01177",
+   "en": "It's this one, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01178",
+   "en": "On to the next one, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01179",
+   "en": "Which of these is the Zentradi word for \"enemy\"?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01180",
+   "en": "Yack",
+   "flags": [],
+   "notes": "As in 'Yack Deculture!' (corpus u2385)."
+  },
+  {
+   "id": "c01181",
+   "en": "Mizone",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Zentradi word 'miizoon', romanized here; no glossary or wiki spelling checked."
+  },
+  {
+   "id": "c01182",
+   "en": "Deburan",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Zentradi word 'deburan', romanized here; no glossary or wiki spelling checked."
+  },
+  {
+   "id": "c01183",
+   "en": "I think it's this one...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01184",
+   "en": "Hm...\nThen let's grade it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01185",
+   "en": "Hm, all correct.\nSo you can do it when you try.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01186",
+   "en": "Of course! I take my classes seriously!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01187",
+   "en": "Well, those were questions anyone should get right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01188",
+   "en": "Next time, I'll prepare something tougher.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01189",
+   "en": "See you,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01190",
+   "en": "(Wait, this isn't a one-time thing...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01191",
+   "en": "So you did need remedial lessons after all...\nAt this rate, your graduation is in jeopardy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01192",
+   "en": "Ugh, I'm sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01193",
+   "en": "Well, if you can't do it, you can't do it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01194",
+   "en": "I'll keep preparing questions for next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01195",
+   "en": "Th-that's not true...\nI go to class like I'm supposed to!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01196",
+   "en": "I don't think I've fallen behind, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01197",
+   "en": "If it's Yamashiro-sensei's problem set,\nit already sounds hard...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01198",
+   "en": "(H-he's not taking no for an answer!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01199",
+   "en": "I take my classes seriously!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c01144: 'ano onna' = 'that girl' (the player's love interest, unnamed).",
+   "c01148: 'ano otoko'; labelled male variant though it reads as the counterpart of c01144 for a female player.",
+   "c01181: Zentradi word 'miizoon', romanized here; no glossary or wiki spelling checked.",
+   "c01182: Zentradi word 'deburan', romanized here; no glossary or wiki spelling checked."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Zentradi words 'miizoon' and 'deburan' (quiz choices c01181, c01182): romanized 'Mizone', 'Deburan'."
+  ],
+  "unfinished": []
+ }
+}

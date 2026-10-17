@@ -1,0 +1,497 @@
+{
+ "slice": 25,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u3245",
+   "en": "Ranka: \"Here I'll explain the Anti-Missile Action.\"\nSheryl: \"Keep up with our explanation at Macross speed!\"",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Macross speed' renders makurosupiido, a play on 'Macross' + speed; kept literal."
+  },
+  {
+   "id": "u3246",
+   "en": "Practice the new special maneuvers.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3247",
+   "en": "Sheryl: \"Last of all, I'll explain the newly added controls.\"\nRanka: \"Thanks so much for listening all the way to the end!\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3248",
+   "en": "Train at the ground training field.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3249",
+   "en": "Sheryl: \"Now you're going to do combat training at the ground training field.\n         There are targets on the field too, so train however you like.\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3250",
+   "en": "Train at the space training field.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3251",
+   "en": "Ranka: \"Now you're going to do combat training at the space training field!\n        There are targets on the field too, so train however you like!\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3252",
+   "en": "Train at the in-base training field.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3253",
+   "en": "Sheryl: \"Now you're going to do combat training at the in-base training field.\n         There are targets on the field too, so train however you like.\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3254",
+   "en": "Train at the indoor training field.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3255",
+   "en": "Ranka: \"Now you're going to do combat training at the indoor training field!\n        There are targets on the field too, so train however you like!\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3256",
+   "en": "Train at the flight training field.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3257",
+   "en": "Sheryl: \"Now you're going to do combat training at the flight training field.\n         There are targets on the field too, so train however you like.\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3258",
+   "en": "TYPE-14\nA U.N. Forces fighter developed as the TYPE-4's successor.\nIt specializes in fleet air defense.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3259",
+   "en": "ADR-03-Mk III Cheyenne\nAn early Destroid fixed on the carrier Asuka as an AA battery.\nIt fought hard against SV-51s to defend the Asuka.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3260",
+   "en": "VF-0D Phoenix\nThe two-seat VF-0 of Shin and Edgar. Its two seats suggest a\ntrainer, but it outmaneuvers the A type in air combat.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3261",
+   "en": "VF-0A Phoenix\nThe standard VF-0, flown mostly by rank-and-file pilots. It\nfought fierce variable fighter battles with the Anti-U.N. Forces.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3262",
+   "en": "VF-0S Phoenix (Roy)\nFlown by Roy Focker in a new kind of transforming dogfight\nagainst Ivanov, an Anti-U.N. pilot and his former superior.",
+   "flags": [],
+   "notes": "Prefilled; kept. Japanese label says 'Focker's unit'; the prefilled '(Roy)' is left as MUF shipped it."
+  },
+  {
+   "id": "u3263",
+   "en": "HWR-00-Mk I Prototype Monster\nPrototype of the super-heavy Monster. The U.N. Forces' trump\ncard, it fired reaction weapons at the Bird Human.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3264",
+   "en": "TYPE-29\nAn Anti-U.N. Forces fighter, developed to counter the TYPE-14.\nIt excels in local-theater combat.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3265",
+   "en": "SV-51α (Standard)\nAn Anti-U.N. Forces variable fighter. Its original swing-wing\ndesign makes it agile despite its size. Fought on Mayan Island.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3266",
+   "en": "SV-51γ (Nora)\nUpgraded SV-51α. It gave the U.N.'s Shin Kudo a hard fight and took Sara, the Mayan Island priestess privy to the Bird Human's secret.",
+   "flags": [],
+   "notes": "Prefilled; kept. Review: restored 'Mayan Island' (in the Japanese, dropped in English). Compressed to keep 2 wrapped lines."
+  },
+  {
+   "id": "u3267",
+   "en": "SV-51γ (Ivanov)\nFlown by Ivanov, Focker's former CO. It fought Focker's VF-0S\nin a duel to the death. It bears a red skull as its personal mark.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3268",
+   "en": "Octos\nAn amphibious Anti-U.N. Destroid. Deployed en masse for the\nMayan Island landing, it made full use of being amphibious.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3269",
+   "en": "Bird Human (AFOS)\nA god from Mayan Island legend. The U.N. and Anti-U.N. Forces\nfought over its power, said to be enough to destroy the world.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3270",
+   "en": "ADR-04-Mk X Defender\nTwin AA guns on both arms and a big radar for very long-range\nspace combat. Defended the Macross in place of gun batteries.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3271",
+   "en": "MBR-07-Mk II Spartan\nBuilt for melee with giant aliens. After the war, it also put\ndown riots by aliens who could not adjust to life on Earth.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3272",
+   "en": "SDR-04-Mk XII Phalanx\nMissiles packed on both arms. With too few batteries after the\nZentradi raid, it served as the Macross's anti-air fire.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3273",
+   "en": "MBR-04-Mk IV Tomahawk\nBig beam cannons on both arms, plus missiles, MGs and more.\nReady for any front: ship assaults, city defense, interception.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3274",
+   "en": "HWR-00-Mk II Monster\nFour big cannons on its head, missile launchers on its arms.\nThe U.N. Forces' top firepower, but heavy arms make it slow.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3275",
+   "en": "VF-1D Valkyrie\nThe two-seat VF-1A, used mainly for training. Caught up in the\nZentradi raid, Hikaru Ichijyo flew it and saved Minmay.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3276",
+   "en": "VF-1A Valkyrie (Standard)\nThe Macross's most common variable fighter, flown by regular\npilots. It can handle any battlefield, from the ground to space.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3277",
+   "en": "VF-1A Valkyrie (Max)\nMax's personal unit, painted blue. Same specs as the standard\nmodel, but its genius pilot drew the eyes of friend and foe.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3278",
+   "en": "VF-1J Valkyrie (Hikaru)\nHikaru Ichijyo's unit after he became a U.N. Forces pilot.\nIt beats the A type, and twin head lasers add firepower.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3279",
+   "en": "VF-1J Valkyrie (Max)\nIssued to Max after he married Milia. It too is painted blue.\nFlying with Milia's red unit, he racked up even more victories.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3280",
+   "en": "VF-1J Valkyrie (Milia)\nIssued to Milia after she married Max. It too is painted red.\nFlying with Max's blue unit, she racked up even more victories.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3281",
+   "en": "VF-1S Valkyrie Roy Focker Special\nA high-performance unit for commander-class pilots. After\nFocker fell, his junior Hikaru flew it to defend the Macross.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3282",
+   "en": "SDF-1 Macross Daedalus Type\nAn alien battleship that suddenly fell to Earth. Through it,\nhumanity met OverTechnology far beyond any existing tech.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3283",
+   "en": "VT-1 Super Ostrich\nA two-seat trainer. Hikaru took it without permission for a\nSaturn date with Minmay, but the Zentradi captured them.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3284",
+   "en": "VF-1A Valkyrie (Hikaru)\nHikaru's VF-1A from the movie. Flying it, he defied Misa's\norders to rescue Minmay, and so the love triangle began.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3285",
+   "en": "VF-1S Valkyrie (Hikaru)\nA high-performance unit for commanders. In the final battle, it\ncharged the foe's ship with the Macross and beat Boddole Zer.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3286",
+   "en": "VF-1S Valkyrie (Max)\nA high-performance unit for commander-class pilots. Max flew\nit as Skull Squadron leader and won his duel with Milia.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3287",
+   "en": "VF-4 Lightning III\nDeveloped as the VF-1's successor. When the Megaroad-01 set\nout, Hikaru flew it as the ship's air group commander.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3288",
+   "en": "SDF-1 Macross Armored Type\nAn alien battleship that suddenly fell to Earth. In the movie,\nunlike the TV series, it has ARMD-01 and ARMD-02 as its arms.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3289",
+   "en": "Regult\nThe Zentradi forces' most widely used battle pod. Swapping\nweapons suits it to any operation. The troops think it's so-so.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3290",
+   "en": "Glaug\nA high-performance unit with big cannons on both arms, plus\nmany lasers and guns. Quamzin's unit, it plagued the Macross.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3291",
+   "en": "Nousjadeul-Ger (TV)\nA humanoid powered combat suit, nimbler and comfier than\na Regult, with shoulder cannons and many handheld weapons.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3292",
+   "en": "Nousjadeul-Ger (Movie)\nA humanoid powered combat suit, nimbler and comfier than\nthe Regult. Its design differs between TV and movie.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3293",
+   "en": "Queadluun-Rau (Standard)\nA high-performance Meltrandi battle suit. Highly mobile, it\nmenaced Valkyrie squadrons with big guns and many missiles.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3294",
+   "en": "Queadluun-Rau (Milia)\nMilia's red personal unit, unbeaten and feared even by allies.\nAfter a fierce dogfight, Max got on its tail and shot it down.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3295",
+   "en": "Queadluun-Rau (Max)\nThe blue unit Max flew after marrying Milia and growing to\nZentradi size. Paired with Milia's unit, it scored big wins.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3296",
+   "en": "Zentradi Soldier\nA Zentradi rank-and-file soldier. Despite wearing only a space\nsuit, at over 10 m tall they can match a Battroid hand to hand.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3297",
+   "en": "HWR-00-Mk II Monster (Ridden by Quamzin)\nA Monster with a delighted Boss Quamzin astride it. Apparently\nhe wanted to imitate a Western he'd once seen.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3298",
+   "en": "Vrlitwhai Kridanik\nA Zentradi fleet commander. Tougher than common troops, he\ncan briefly work unprotected in space. A strong fighter too.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3299",
+   "en": "Golg Boddole Zer\nZentradi Commander-in-Chief. Core bio-unit of a mobile\nfortress built 120,000 cycles ago; bigger than other Zentradi.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3300",
+   "en": "VF-11B Thunderbolt\nDeveloped to succeed the VF-1 as main fighter. Isamu flew it\nwhile hunting Zentradi remnants scattered across space.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3301",
+   "en": "YF-19 Excalibur (Isamu)\nNew engines gave it high mobility but made it hard to handle --\na wild bronco that Isamu called his \"little cutie.\"",
+   "flags": [],
+   "notes": "Prefilled; kept. '--' is plain ASCII (no em dash)."
+  },
+  {
+   "id": "u3302",
+   "en": "YF-21 Sturmvogel (Guld)\nA unit piloted by brain waves. To stop Sharon's new unmanned\nfighter Ghost, Guld made a suicide charge that downed both.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3303",
+   "en": "X-9 Ghost\nAn unmanned fighter hijacked by Sharon Apple. Its very high\nmobility toyed with Guld, but his suicide charge downed both.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3304",
+   "en": "VF-11C Thunderbolt\nThe U.N. Forces' main unit from 2040 on. Its forgiving handling\nand easy upkeep kept it the mainstay for a long time.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3305",
+   "en": "VF-17D Nightmare (Standard)\nA stealth unit for special missions, large and heavily armed.\nAfter the Protodeviln appeared, it mainly defended City 7.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3306",
+   "en": "VF-17S Nightmare (Kinryu/Gamlin)\nA VF-17 upgraded for commanders. After leader Kinryu died,\nGamlin became leader of Diamond Force and flew this unit.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3307",
+   "en": "VF-17S Nightmare (Milia)\nTo protect City 7, cut off from the fleet by an enemy ploy,\nMayor Milia flew this VF-17S, repainted red.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3308",
+   "en": "VF-19F Excalibur (Standard)\nDeployed to Emerald Force. The YF-19's peaky handling was\ntoned down so that rank-and-file pilots could fly it.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3309",
+   "en": "VF-19S Excalibur (Docker)\nDocker's unit as leader of Emerald Force. Unlike the standard\nunit, it adds four anti-air beam guns for more firepower.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3310",
+   "en": "VF-22S Sturmvogel II (Max)\nMax sortied in it to attack the Protodeviln nest. A high-end\nunit packed with new tech, such as solo fold capability.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3311",
+   "en": "VF-22S Sturmvogel II (Milia)\nMilia's red unit. She fought beside Max in Operation Stargazer,\nand once even sang in it with a Sound Booster fitted.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3312",
+   "en": "VF-19 Kai Fire Valkyrie (Basara)\nA modified VF-19. Its bright red frame has a big speaker and\nspeaker pods, and it roamed the galaxy blaring Basara's songs.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3313",
+   "en": "VF-11MAXL Kai Mylene Valkyrie (Mylene)\nA VF-11 modified for Mylene, its Battroid mode distinctly\nfeminine. She sang with Basara, the battlefield her stage.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3314",
+   "en": "VF-17T Kai Storm Valkyrie (Ray & Veffidas)\nA modified VF-17T. Ray and Veffidas flew it together as\nFIRE BOMBER members, firing up live shows even in battle.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3315",
+   "en": "Battle 7\nMacross 7 fleet flagship, captained by Maximilian Jenius. Its\ntrump card, the Macross Cannon, got it through many crises.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3316",
+   "en": "Queadluun-Quilqua\nAn upgraded, modified Queadluun-Rau. Emilia Jenius, daughter of Max and Milia, flew it in a singing showdown with Basara.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3317",
+   "en": "Fz-109A Elgersoln (Standard)\nA variable fighter for rank-and-file Varauta Army pilots. Said\nto derive from the U.N.'s VF-14, but nobody knows for sure.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3318",
+   "en": "Fz-109F Elgersoln (Gigile)\nThe Fz-109's commander model. Mainly Gigile's, it attacked\nBasara & co. repeatedly; Gamlin's team downed it over City 7.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3319",
+   "en": "Az-130A Panzersoln\nA variable attacker the Varauta Army made by upgrading the\nElgersoln. Its extra power made life harder still for Macross 7.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3320",
+   "en": "FBz-99G Zaubergeran (Gavil)\nGavil's own unit, a mighty variable bomber with all sorts of\nweapons. Supposedly. Yet Gamlin often downed it in one hit.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3321",
+   "en": "Queadluun-Rau (Chlore)\nPersonal unit of Chlore, who leads a rogue Meltrandi fleet.\nPilot skill plus performance let it land a hit on Basara himself.",
+   "flags": [],
+   "notes": "Prefilled; kept. Chlore's gender is unknown in the glossary; the line uses no pronoun for Chlore."
+  },
+  {
+   "id": "u3322",
+   "en": "Glavil\nGavil's physical body. It needs so much Spiritia that Gavil takes\na small spirit form, merging into Gavigla to fight all-out.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3323",
+   "en": "Gepelnitchi\nLeader of the Protodeviln. To build a world of endless Spiritia,\nhe attacks humans, the \"Spiritia-regenerating race\" he sought.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3324",
+   "en": "VT-1C Valkyrie\nA variable trainer for basic training. Basara flew it to make\nthe Galaxy Whale hear his song, but the whale shot it down.",
+   "flags": [],
+   "notes": "Prefilled; kept. Japanese names it 'VT-1C Valkyrie' here, not 'Ostrich'."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u3245: 'Macross speed' renders makurosupiido, a play on 'Macross' + speed; kept literal."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

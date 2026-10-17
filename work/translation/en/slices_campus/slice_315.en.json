@@ -1,0 +1,589 @@
+{
+ "slice": 315,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c22746",
+   "en": "(I'm supposed to meet Ranka-chan\nat the school gate, but...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22747",
+   "en": "\\p-chan!\nMerry Christmas!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22748",
+   "en": "Merry Christmas, Ranka-chan.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22749",
+   "en": "I can't wait for this year's Christmas party!\nLet's all have even more fun than last year!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22750",
+   "en": "Huh? Okay, hang on a sec~!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22751",
+   "en": "That was fun again this year~",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22752",
+   "en": "It turned out to be a fun Christmas~",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22753",
+   "en": "Yeah, here's to next year too!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22754",
+   "en": "(I'm glad I got to have a fun Christmas, but...\nthat last remark from Ranka-chan\nsurprised me a little~)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22755",
+   "en": "(I'm going to the Academy Christmas party\nwith Sheryl, but...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22756",
+   "en": "Hi~, \\p!\nMerry Christmas!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22757",
+   "en": "Oh, Sheryl...!\nWait, what's with that outfit?!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22758",
+   "en": "Oh, this...\nI got asked to sing a little\nat the party, you see.",
+   "flags": [],
+   "notes": "Both versions. Passive in the Japanese too (tanomarechatte); the asker is never named."
+  },
+  {
+   "id": "c22759",
+   "en": "Oh, I see.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22760",
+   "en": "So I got a costume ready\nto get in the mood.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22761",
+   "en": "Got it. Good luck!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22762",
+   "en": "Hee hee.\nI'm Sheryl. I'll just do what I always do.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22763",
+   "en": "Spoken like a true star!",
+   "flags": [],
+   "notes": "Sasuga da ne."
+  },
+  {
+   "id": "c22764",
+   "en": "That Christmas party was fun!\nAnd your song was great too, Sheryl.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22765",
+   "en": "Hee hee, thank you.\nI hope we can spend it like this next year, too.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22766",
+   "en": "Though a Christmas for just the two of us...\nmight not be bad either.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22767",
+   "en": "Hee hee, I'm joking.\nWell, I'm counting on you next year too.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22768",
+   "en": "(That was one amazing Christmas!)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22769",
+   "en": "(I'm going to the Academy Christmas party\nwith Sheryl-san, but...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22770",
+   "en": "Hi~, \\p-chan!\nMerry Christmas!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22771",
+   "en": "Oh, Sheryl-san...!\nWait, what's with that outfit?!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22772",
+   "en": "Oh, is that so?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22773",
+   "en": "Ahaha, good luck out there!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22774",
+   "en": "Spoken like a true star!",
+   "flags": [],
+   "notes": "Sasuga desu ne."
+  },
+  {
+   "id": "c22775",
+   "en": "That Christmas party was so fun!\nAnd your song was great too, Sheryl-san!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22776",
+   "en": "I really hope so too.",
+   "flags": [],
+   "notes": "Answers Sheryl's 'I hope we can spend it like this next year too'."
+  },
+  {
+   "id": "c22777",
+   "en": "Well, shall we head home?\nI'm counting on you next year too.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22778",
+   "en": "(That was one glamorous Christmas!)",
+   "flags": [],
+   "notes": "Gouka = luxurious, lavish."
+  },
+  {
+   "id": "c22779",
+   "en": "(I promised to go to this year's Christmas party\nwith Klan-senpai, but...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22780",
+   "en": "Merry Christmas to you,\n\\p!",
+   "flags": [],
+   "notes": "Klan (micronized, nanoda speech), both versions."
+  },
+  {
+   "id": "c22781",
+   "en": "You bet!\nWe're gonna have even more fun than last year!",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22782",
+   "en": "Though I'm sure a party with just\nthe two of us would've been fun, too.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22783",
+   "en": "Now, let's hurry to the party,\n\\p!",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22784",
+   "en": "Wow, that was fun again this year~",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22785",
+   "en": "Who'd have thought Michel would dress up\nas a girl together with Alto...",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22786",
+   "en": "Alto's one thing, but it kind of suited Michel\ntoo, which was a little creepy.",
+   "flags": [],
+   "notes": "Both versions. Kimochi warui = creepy/gross."
+  },
+  {
+   "id": "c22787",
+   "en": "But really, it was a fun Christmas.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22788",
+   "en": "Mm, it was.\nI'm glad I came to the party\nwith you today.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22789",
+   "en": "W-well, I'm heading home now.\nI'm counting on you next year too,\n\\p.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22790",
+   "en": "The same goes for me, Klan-senpai.",
+   "flags": [],
+   "notes": "Both versions. Kochira koso yoroshiku onegai shimasu."
+  },
+  {
+   "id": "c22791",
+   "en": "(I'm glad I got to have a fun Christmas.\nI hope I can have fun with Klan-senpai\nand the others next year too.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22792",
+   "en": "(I promised to go to this year's Christmas party\nwith Klan-senpai, but...)",
+   "flags": [],
+   "notes": "Female version; same English as c22779."
+  },
+  {
+   "id": "c22793",
+   "en": "(I'm glad I got to have a fun Christmas.\nI hope I can have fun with Klan-senpai\nand the others next year too.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22794",
+   "en": "(I wanted to give Kagura-kun the chocolate,\nbut the timing never worked out...)",
+   "flags": [],
+   "notes": "Valentine, female player."
+  },
+  {
+   "id": "c22795",
+   "en": "So this is where you were,\n\\p.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22796",
+   "en": "Kagura-kun?! What are you doing here?",
+   "flags": [],
+   "notes": "Ittai dou shita no."
+  },
+  {
+   "id": "c22797",
+   "en": "I heard you'd been looking for me all day,\nso I came looking for you too.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22798",
+   "en": "Oh, so that's why...\nHere, Kagura-kun. It's late, but\nthis is your Valentine's chocolate.",
+   "flags": [],
+   "notes": "Line break moved to fit; same meaning."
+  },
+  {
+   "id": "c22799",
+   "en": "Thanks, \\p.\nI'll be sure to enjoy it later.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22800",
+   "en": "I'll pay you back properly on White Day,\nso look forward to it.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22801",
+   "en": "Okay, I'll look forward to it.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22802",
+   "en": "(It was a bit late, but I'm glad I managed\nto give Kagura-kun the chocolate. I wonder\nwhat he'll give me back on White Day?)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22803",
+   "en": "(I wanted to give Gary-sensei the chocolate,\nbut the timing never worked out...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22804",
+   "en": "Hm, \\p?\nWhat's wrong? Why so down?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22805",
+   "en": "Oh, Gary-sensei, you're still here?",
+   "flags": [],
+   "notes": "Honorific irassharu: polite."
+  },
+  {
+   "id": "c22806",
+   "en": "Yeah, it's Valentine's Day, after all.\nIf I don't stick around school as long as I can,\nthe girls can't give me their feelings.",
+   "flags": [],
+   "notes": "Gary's 'bareintain' misspelling not reproduced."
+  },
+  {
+   "id": "c22807",
+   "en": "Hahaha, don't make that face, I'm joking.\nAll I got was a few obligation chocolates...\nKids these days don't know gratitude!",
+   "flags": [],
+   "notes": "Giri choco = 'obligation chocolate'."
+  },
+  {
+   "id": "c22808",
+   "en": "Um, Sensei, if you'd like, this is for you...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22809",
+   "en": "Huh? Oh, for me?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22810",
+   "en": "Yes. You always look out for me, after all.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22811",
+   "en": "I see. Then I'll gratefully accept it.\nI'll be sure to thank you properly on White Day.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22812",
+   "en": "Oh, you don't have to worry about that...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22813",
+   "en": "Well, if I still remember by then, that is!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22814",
+   "en": "(Is that Sensei's way of covering up\nhis embarrassment...?)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22815",
+   "en": "(I bought chocolate for Luis-san, who always\nlooks out for me, but now that it's time\nto give it to him, I'm nervous...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22816",
+   "en": "(I wanted to give Luis-san the chocolate,\nbut he pops up and vanishes so randomly\nthat I couldn't find him...)",
+   "flags": [],
+   "notes": "Shinshutsu kibotsu."
+  },
+  {
+   "id": "c22817",
+   "en": "What's with the sentimental face in a place\nlike this, fresh girl?",
+   "flags": [],
+   "notes": "Luis's English loanwords kept (furesshu gaaru, senchimentaru)."
+  },
+  {
+   "id": "c22818",
+   "en": "Luis-san?!\nI was just looking for you!",
+   "flags": [],
+   "notes": "The Japanese repeats his name; English uses 'you'."
+  },
+  {
+   "id": "c22819",
+   "en": "Hm? You've got business with me?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22820",
+   "en": "It's Valentine's Day, so I wanted to give you\nsome chocolate... Here, Luis-san.\nThis Valentine's chocolate is for you!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22821",
+   "en": "Come to think of it, today's Valentine's Day.\nTo think I'd forget even that...\nI must be going senile...",
+   "flags": [],
+   "notes": "Mouroku."
+  },
+  {
+   "id": "c22822",
+   "en": "Thanks, fresh girl!\nI'll be sure to savor it later.",
+   "flags": [],
+   "notes": "Sankusu (loanword)."
+  },
+  {
+   "id": "c22823",
+   "en": "And on White Day, I'll give you something back\nwith my whole soul in it, so look forward to it!",
+   "flags": [],
+   "notes": "Souru (loanword)."
+  },
+  {
+   "id": "c22824",
+   "en": "Okay, I'll be looking forward to it!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22825",
+   "en": "(It was a bit late, but I'm glad I managed\nto give Luis-san the chocolate. I wonder\nwhat he'll give me back on White Day?)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

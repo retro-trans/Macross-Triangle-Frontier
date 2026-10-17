@@ -1,0 +1,497 @@
+{
+ "slice": 157,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c11481",
+   "en": "(Well, classes are over. Maybe I'll chat\nwith someone before heading home...\nOh, it's Nanase.)",
+   "flags": [],
+   "notes": "x2, player, both genders, frd_nns_001."
+  },
+  {
+   "id": "c11482",
+   "en": "Hey, Nanase.",
+   "flags": [],
+   "notes": "x2, male."
+  },
+  {
+   "id": "c11483",
+   "en": "Oh, \\p-kun.\nWhat's up?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11484",
+   "en": "I just thought going straight home\nwould be kinda lonely...",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c11485",
+   "en": "Aren't you going home yet, Nanase?",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11486",
+   "en": "Nope. I don't have my part-time job today,\nso I thought I'd stop by the art room\nand work on my assignment a bit...",
+   "flags": [],
+   "notes": "x2, Nanase. hai answers the negative question, so 'Nope'."
+  },
+  {
+   "id": "c11487",
+   "en": "Wow, you're really dedicated, Nanase.",
+   "flags": [],
+   "notes": "Male (erai)."
+  },
+  {
+   "id": "c11488",
+   "en": "Huh? No, not at all.\nI only do it because I love it...",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11489",
+   "en": "By the way, the assignment's for the Art Course,\nright? What are you working on?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11490",
+   "en": "Ranka-sa... of course...\nUm... I mean, a painting with a person as the motif.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x2, Nanase blurts Ranka's name and cuts herself off. Word order changed (mochiron Ranka-sa...) so the cut name sits where she stops."
+  },
+  {
+   "id": "c11491",
+   "en": "Hm? Ranka, you said...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11492",
+   "en": "Ummm...\nYes, we work together at Nyan-Nyan.\nShe's sooo cute!",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11493",
+   "en": "We go to different schools, but\nwe go out shopping and stuff together a lot!",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11494",
+   "en": "Her voice is really cute too, and she always\ncalls me \"Nana-chaaan!\" and stuff.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11495",
+   "en": "It's not just about work anymore, I want...\nAh!? I'm sorry,\nI've been doing all the talking...",
+   "flags": [],
+   "notes": "x2, Nanase; trails off as in the Japanese."
+  },
+  {
+   "id": "c11496",
+   "en": "Nah, if you've got that much to say about her,\nyou two must be really close.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11497",
+   "en": "Yes, we are!",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11498",
+   "en": "Oh, I have to go open up the art room soon...\nSee you.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11499",
+   "en": "Okay, good luck with your assignment.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11500",
+   "en": "(Nanase's quite the chatterbox, huh.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11501",
+   "en": "Hey, Nanase.",
+   "flags": [],
+   "notes": "x2, female (nee)."
+  },
+  {
+   "id": "c11502",
+   "en": "Oh, \\p-san.\nWhat's up?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11503",
+   "en": "Hmm~, you're really dedicated, Nanase.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11504",
+   "en": "By the way, the assignment's for the Art Course,\nisn't it? What are you working on?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11505",
+   "en": "Huh, Ranka-chan...?",
+   "flags": [],
+   "notes": "Female; the player says Ranka-chan."
+  },
+  {
+   "id": "c11506",
+   "en": "Uh-huh, uh-huh.",
+   "flags": [],
+   "notes": "Female (funfun)."
+  },
+  {
+   "id": "c11507",
+   "en": "Uh-huh... right...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11508",
+   "en": "No, no, if you've got that much to say about her,\nyou two must be really close, huh.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11509",
+   "en": "Okay, good luck with your assignment!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11510",
+   "en": "(Nanase's quite the chatterbox, isn't she.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11511",
+   "en": "(Maybe I'll chat with Nanase again...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11512",
+   "en": "Oh, \\p-kun.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11513",
+   "en": "Working on your assignment in the art room again?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11514",
+   "en": "You sure work hard, huh.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11515",
+   "en": "Like I said, that's not true.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11516",
+   "en": "Ahaha. Well then, good luck with your assignment.",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c11517",
+   "en": "(Nanase must really love what she does.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11518",
+   "en": "(Think I'll go chat with Nanase again~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11519",
+   "en": "Oh, \\p-san.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11520",
+   "en": "Another assignment in the art room?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11521",
+   "en": "You sure work hard, don't you.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11522",
+   "en": "(Nanase really does love what she does.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11523",
+   "en": "(Maybe I'll stop by the art room\nand see how Nanase's doing.)",
+   "flags": [],
+   "notes": "Male, frd_nns_002."
+  },
+  {
+   "id": "c11524",
+   "en": "Oh, \\p-kun.\nWhat brings you here?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11525",
+   "en": "Yeah, I thought I'd come watch for a bit,\nif that's okay...",
+   "flags": [],
+   "notes": "x2, player (kengaku sasete morau)."
+  },
+  {
+   "id": "c11526",
+   "en": "I was just about to take a break myself.\nWould you like some tea with me?",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11527",
+   "en": "Thanks. You sure came prepared.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11528",
+   "en": "Oh no, I always have some tea or something\nwhen I take a breather.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11529",
+   "en": "Wow, that sounds kinda elegant.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11530",
+   "en": "Though it's just the same Chinese tea\nwe serve at Nyan-Nyan.\nBut it's really delicious.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11531",
+   "en": "So if you're making it, Nanase, that means\nI get to drink the same tea they serve at the shop.\nThat makes me kinda happy.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11532",
+   "en": "Huh? Oh, it's really nothing special.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11533",
+   "en": "Hey, it's the truth.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11534",
+   "en": "Geez, flattering me won't get you anything\nbut tea, you know.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11535",
+   "en": "Here you go.\nIt's hot, so please be careful.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11536",
+   "en": "Wow, it smells really nice.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11537",
+   "en": "Yes!\nYou can enjoy tea in lots of ways:\nby \"looking,\" \"smelling\" and \"drinking.\"",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11538",
+   "en": "You're right, it's a really pretty color.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11539",
+   "en": "And if you take a deep breath before a sip,\nit's amazing how calm it makes you feel.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11540",
+   "en": "Let's see...\nMmm, you're right. Funny how that works.",
+   "flags": [],
+   "notes": "Male (fushigi na mono da ne)."
+  },
+  {
+   "id": "c11541",
+   "en": "Yes. At work, Ranka-san sometimes makes\ntea for me on our breaks.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11542",
+   "en": "Tea made by Ranka-san is really something else.\nIt's sooo much better than what I usually drink!",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11543",
+   "en": "It's not just about work anymore, I want...\nAh!... I'm sorry, I'm doing all the talking again...",
+   "flags": [],
+   "notes": "x2, Nanase; trails off as in the Japanese (same opening as c11495)."
+  },
+  {
+   "id": "c11544",
+   "en": "No, no, you two really are close, huh.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11545",
+   "en": "Well, I'd just be in the way if I stayed forever,\nso I'll head home now.",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c11546",
+   "en": "I see.\nCome by anytime you feel like having tea again.",
+   "flags": [],
+   "notes": "x2, Nanase."
+  },
+  {
+   "id": "c11547",
+   "en": "Okay, thanks for the tea.",
+   "flags": [],
+   "notes": "Male (gochisousama)."
+  },
+  {
+   "id": "c11548",
+   "en": "(Phew, maybe it's thanks to the tea,\nbut my head feels kinda clear.)",
+   "flags": [],
+   "notes": "x2, player, both genders. sukkiri here is the ordinary word, not the 'refresh' gag, so not rendered 'refreshed'."
+  },
+  {
+   "id": "c11549",
+   "en": "(Think I'll stop by the art room\nand see how Nanase's doing~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11550",
+   "en": "Oh, \\p-san.\nWhat brings you here?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11551",
+   "en": "Thanks. You sure came prepared.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11552",
+   "en": "Wow, that sounds kinda elegant, huh.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11553",
+   "en": "So if you're making it, Nanase, that means\nI get to drink the same tea they serve at the shop.\nThat's kind of a treat.",
+   "flags": [],
+   "notes": "Female (chotto ureshii kamo)."
+  },
+  {
+   "id": "c11554",
+   "en": "Wow, it smells so nice.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11555",
+   "en": "You're right, it's such a pretty color.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11556",
+   "en": "Wow...\nMmm, you're right. It's strangely calming.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11557",
+   "en": "Okay, thank you for the tea.",
+   "flags": [],
+   "notes": "Female (gochisousama desu, a touch more polite)."
+  },
+  {
+   "id": "c11558",
+   "en": "(Maybe I'll stop by the art room again\nand see how Nanase's doing.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11559",
+   "en": "Oh, \\p-kun.\nYou came again.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11560",
+   "en": "Yeah. You're working on your assignment\nagain today, right, Nanase?",
+   "flags": [],
+   "notes": "Male."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c11490 (x2): Nanase starts to say 'Ranka-sa(n)' and cuts herself off; English moves 'of course' first so the cut name is where she stops. Also 'mochiron' could mean 'of course (I paint) Ranka', rendered that way."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

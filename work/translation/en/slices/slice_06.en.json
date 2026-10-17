@@ -1,0 +1,515 @@
+{
+ "slice": 6,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0462",
+   "en": "Macross Survival (Countdown)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0463",
+   "en": "Macross Survival (Transformation)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0464",
+   "en": "Macross Survival (Daedalus Attack)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0465",
+   "en": "Macross Survival (Bye-Bye Mars)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0466",
+   "en": "Macross Survival (Miss Macross)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0467",
+   "en": "Macross Survival (Blind Game)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0468",
+   "en": "Macross Survival (Big Escape)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0469",
+   "en": "Macross Survival (Blue Wind)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0470",
+   "en": "Macross Survival (Kung Fu Dandy)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0471",
+   "en": "Macross Survival (Pineapple Salad)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0472",
+   "en": "Macross Survival (Burst Point)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0473",
+   "en": "Macross Survival (Goodbye Girl)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0474",
+   "en": "Macross Survival (Virgin Road)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0475",
+   "en": "Macross Cont.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Category label: the later Macross TV episodes (Viva Maria to Farewell to Tenderness). Japanese prefix means 'continued'; rendered 'Macross Cont.'."
+  },
+  {
+   "id": "u0476",
+   "en": "Macross Cont. Survival (Viva Maria)",
+   "flags": [],
+   "notes": "Prefix 'Macross Cont.' as in u0475."
+  },
+  {
+   "id": "u0477",
+   "en": "Macross Cont. Survival (Satan Doll)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0478",
+   "en": "Macross Cont. Survival (Broken Heart)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0479",
+   "en": "Macross Cont. Survival (Romanesque)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0480",
+   "en": "Macross Cont. Survival (Farewell to Tenderness)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0481",
+   "en": "Remember Love Survival (Assault)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Prefix clips the DYRL title (literally 'love, remember'); rendered 'Remember Love Survival'. Subtitle from u0257 (tm)."
+  },
+  {
+   "id": "u0482",
+   "en": "Remember Love Survival (Minmay Date)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0483",
+   "en": "Remember Love Survival (Focker Forever)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0484",
+   "en": "Remember Love Survival (Milia Attacks)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0485",
+   "en": "Remember Love Survival (Do You Remember Love?)",
+   "flags": [],
+   "notes": "Prefix as u0481; subtitle per glossary missions."
+  },
+  {
+   "id": "u0486",
+   "en": "Macross Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0487",
+   "en": "Plus Survival (Deep Space)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0488",
+   "en": "Plus Survival (Project Super Nova)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0489",
+   "en": "Plus Survival (Hurry Hurry Hurry)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0490",
+   "en": "Plus Survival (In the Base)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0491",
+   "en": "Plus Survival (Battle Arena)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0492",
+   "en": "Plus Survival (In the Sky)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0493",
+   "en": "Plus Survival (Eden or Hell)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0494",
+   "en": "Plus Survival (After in the Dark)",
+   "flags": [],
+   "notes": "Subtitle row u0291 is todo; used the song title (glossary songs: After in the dark) in Title Case."
+  },
+  {
+   "id": "u0495",
+   "en": "Plus Survival (Dogfight)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0496",
+   "en": "Plus Survival (Voice of an Angel)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0497",
+   "en": "Macross 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0498",
+   "en": "Seven Survival (Spiritia Farm)",
+   "flags": [],
+   "notes": "Prefix clips 'Macross 7' as 'Seven' (Japanese sebun); kept parallel with Zero/Plus/Dynamite/Frontier."
+  },
+  {
+   "id": "u0499",
+   "en": "Seven Survival (Fold Out)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Source typo: the parentheses split the mission name fold-out (u0300 'Fold Out'). Rendered the intended name with one pair of parentheses."
+  },
+  {
+   "id": "u0500",
+   "en": "Seven Survival (A Maiden's Jealousy)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0501",
+   "en": "Seven Survival (The Falling Little Devil)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0502",
+   "en": "Seven Survival (Men of Burning Flame)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0503",
+   "en": "Seven Survival (Death Struggle on Planet Lux)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0504",
+   "en": "Seven Survival (Rainbow Song Energy)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0505",
+   "en": "Seven Survival (Betrayal and a Girl's Tears)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0506",
+   "en": "Seven Survival (Feelings Beyond the Stars)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0507",
+   "en": "Seven Survival (Nightmare Assault Operation)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0508",
+   "en": "Seven Survival (Gamlin's Rebellion)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0509",
+   "en": "Seven Survival (A Song Echoing Across the Galaxy)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "316 px vs 297 px estimate; kept the glossary episode title in full rather than clip it."
+  },
+  {
+   "id": "u0510",
+   "en": "Macross Dynamite 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0511",
+   "en": "Dynamite Survival (Star Patrol Training)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0512",
+   "en": "Dynamite Survival (Clash with the Poachers)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0513",
+   "en": "Dynamite Survival (Solitude)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0514",
+   "en": "Macross Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0515",
+   "en": "Frontier Survival (Close Encounter)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0516",
+   "en": "Frontier Survival (On Your Marks)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0517",
+   "en": "Frontier Survival (Miss Macross)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0518",
+   "en": "Frontier Survival (First Attack)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0519",
+   "en": "Frontier Survival (Macross Quarter)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0520",
+   "en": "Frontier Survival (Friendly Fire)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0521",
+   "en": "Frontier Survival (Fastest Delivery)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0522",
+   "en": "Frontier Survival (Memory of Global)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0523",
+   "en": "Frontier Survival (Mother's Lullaby)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0524",
+   "en": "Frontier Survival (Ranka Attack)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0525",
+   "en": "Frontier Survival (Goodbye Sister)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0526",
+   "en": "Frontier Survival (Fold Fame)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0527",
+   "en": "Frontier Survival (Diamond Crevasse)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0528",
+   "en": "Frontier Survival (Northern Cross)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0529",
+   "en": "Frontier Survival (Last Frontier)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0530",
+   "en": "Frontier Survival (Anata no Oto)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0531",
+   "en": "Macross F: False Songstress",
+   "flags": [],
+   "notes": "Movie: glossary works -> The False Songstress (short form 'False Songstress')."
+  },
+  {
+   "id": "u0532",
+   "en": "False Songstress Survival (Vajra Attack)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Subtitle row u0359 is todo; 'Vajra Attacks' matches the tm pattern 'Milia Attacks' (u0267). Review: subtitle matches the mission title u0359."
+  },
+  {
+   "id": "u0533",
+   "en": "False Songstress Survival (Galactic Fairy)",
+   "flags": [],
+   "notes": "Katakana spelling of Sheryl's title (glossary terms: Galactic Fairy). Subtitle row u0364 is todo."
+  },
+  {
+   "id": "u0534",
+   "en": "False Songstress Survival (The Guided Fleet)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Subtitle row u0366 is todo; literal 'the guided/led fleet'."
+  },
+  {
+   "id": "u0535",
+   "en": "False Songstress Survival (Obelisk)",
+   "flags": [],
+   "notes": "Song title Obelisk; subtitle row u0367 is todo."
+  },
+  {
+   "id": "u0536",
+   "en": "Macross II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0537",
+   "en": "Macross II Survival (Ishtar)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0538",
+   "en": "Macross II Survival (Emulator)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0539",
+   "en": "Macross II Survival (Mardook)",
+   "flags": [],
+   "notes": "Glossary organizations: Mardook. Subtitle row u0373 is todo."
+  },
+  {
+   "id": "u0540",
+   "en": "Macross II Survival (The Ship of Ars)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Ars not in glossary; spelling from tm profile u3524 ('Ars's song'). Subtitle row u0375 is todo. Review: subtitle matches the mission title u0375."
+  },
+  {
+   "id": "u0541",
+   "en": "Macross II Survival (Sing Along)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0475 'Macross Cont.' for the continued-Macross category label",
+   "u0481-u0485 prefix 'Remember Love Survival' for the clipped DYRL title",
+   "u0499 source typo in parentheses; rendered as Fold Out",
+   "u0532 'Vajra Attacks' and u0534 'The Guided Fleet': subtitle rows u0359/u0366 are still todo in slice 4; keep in sync",
+   "u0509 19 px over the estimated box; kept glossary title A Song Echoing Across the Galaxy"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Ars (Macross II legend, as in 'Ars's Ship'; tm u3524 uses 'Ars')"
+  ],
+  "unfinished": []
+ }
+}

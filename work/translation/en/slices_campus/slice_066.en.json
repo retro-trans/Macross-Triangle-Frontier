@@ -1,0 +1,436 @@
+{
+ "slice": 66,
+ "rows_in_slice": 70,
+ "rows_examined": 70,
+ "rows": [
+  {
+   "id": "c04885",
+   "en": "(Today I'm seeing a movie with Claire-senpai!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04886",
+   "en": "Hello!\nWe're both right on time!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c04887",
+   "en": "I'm glad I wasn't late.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c04888",
+   "en": "Well then, shall we head to the theater?",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c04889",
+   "en": "That was a good movie~\nThe last scene made me all teary-eyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04890",
+   "en": "Teary-eyed? Weren't you actually crying?",
+   "flags": [],
+   "notes": "Male, and female in the repeat visit."
+  },
+  {
+   "id": "c04891",
+   "en": "O-of course I wasn't...\nYou saw wrong! You totally saw wrong!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04892",
+   "en": "W-well then, let's go get something to eat!\nFollow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04893",
+   "en": "(Today was a nice change of pace.)",
+   "flags": [],
+   "notes": "x147, end line of Outing scenes; also used in female scenes, so kept gender-neutral."
+  },
+  {
+   "id": "c04894",
+   "en": "(Today I'm seeing a movie with Claire-senpai.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04895",
+   "en": "Teary-eyed? I think you were actually crying...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04896",
+   "en": "(Today was a nice change of pace.)",
+   "flags": [],
+   "notes": "x50, female ending; same English as c04893."
+  },
+  {
+   "id": "c04897",
+   "en": "(Today I'm seeing a movie with Claire-senpai again!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04898",
+   "en": "Hello!\nI'm glad we made it on time.",
+   "flags": [],
+   "notes": "Claire; 'not late' read as both of them, the player answers 'right on time'."
+  },
+  {
+   "id": "c04899",
+   "en": "Yeah, we were right on time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04900",
+   "en": "What a lovely movie...\nThe last scene made me all teary-eyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04901",
+   "en": "(Today I'm going shopping with Claire-senpai!\nWe're meeting up in Deep Akihabara, but...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04902",
+   "en": "\\p-kun, you're late!\nKeeping a woman waiting? That's no good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04903",
+   "en": "I-I'm sorry!!",
+   "flags": [],
+   "notes": "x3, both genders."
+  },
+  {
+   "id": "c04904",
+   "en": "Hehehe, be more careful from now on, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04905",
+   "en": "Well then, let's go shopping.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04906",
+   "en": "It's really hard to find, isn't it...",
+   "flags": [],
+   "notes": "They are hunting for a bath TV."
+  },
+  {
+   "id": "c04907",
+   "en": "Do they even make TVs for the bath?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04908",
+   "en": "It's been my dream for so long...\nWatching TV in the bath...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04909",
+   "en": "I wonder if there's one out there\nif we keep looking.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04910",
+   "en": "We keep looking until we find one!\nI need to do some research before next time...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04911",
+   "en": "(Claire-senpai is really fired up...)",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c04912",
+   "en": "(Today I'm going shopping with Claire-senpai.\nWe're meeting up in Deep Akihabara...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04913",
+   "en": "\\p-chan, you're late!\nKeeping a woman waiting? That's no good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04914",
+   "en": "I-I'm sorry!!\nWait, I'm a woman too, you know...",
+   "flags": [],
+   "notes": "Female player; 'woman' kept to match Claire's line."
+  },
+  {
+   "id": "c04915",
+   "en": "Are there really TVs made for the bath?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04916",
+   "en": "(Today I'm going shopping with Claire-senpai again!\nWe're meeting up in Deep Akihabara, but...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04917",
+   "en": "\\p-kun, you're late...\nHow many times have I told you\nnever to keep a woman waiting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04918",
+   "en": "Well then, let's go hunting!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04919",
+   "en": "No luck again today...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04920",
+   "en": "I wonder if they even make TVs for the bath...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04921",
+   "en": "We keep looking until we find one!\nI need to do even more research before next time...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04922",
+   "en": "(Today I'm going shopping with Claire-senpai again.\nWe're meeting up in Deep Akihabara, but...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04923",
+   "en": "\\p-chan, you're late...\nHow many times have I told you\nnever to keep a woman waiting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04924",
+   "en": "(Today I invited Claire-senpai to the pool!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04925",
+   "en": "Hello, \\p-kun.\nIt's been ages since I came to the Academy pool.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04926",
+   "en": "Well then, shall we go get changed?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c04927",
+   "en": "Do your warm-ups properly, okay?\nAccidents in the water are no joke.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04928",
+   "en": "Okay. You be careful too, Claire-senpai.",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c04929",
+   "en": "I'll be fine.\nI'm not going to swim...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04930",
+   "en": "Wh-what's with that look...\nI can't swim, so what else can I do...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04931",
+   "en": "Then I'll teach you!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04932",
+   "en": "Really?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04933",
+   "en": "Well then, maybe I'll take you up on that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04934",
+   "en": "(I spent the whole day swimming with\nClaire-senpai. What fun!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04935",
+   "en": "(Today I invited Claire-senpai to the pool.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04936",
+   "en": "Hello, \\p-chan.\nIt's been ages since I came to the Academy pool~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04937",
+   "en": "Then I'll teach you!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04938",
+   "en": "(I spent the whole day swimming with\nClaire-senpai. So fun!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04939",
+   "en": "(Today I invited Claire-senpai to the pool again!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04940",
+   "en": "Hello, \\p-kun.\nThe pool again, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04941",
+   "en": "Since we're here anyway,\nlet's get you swimming for real!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04942",
+   "en": "Let's do our warm-ups properly.",
+   "flags": [],
+   "notes": "Claire."
+  },
+  {
+   "id": "c04943",
+   "en": "Sure.\nThen, will you push on my back for me?",
+   "flags": [],
+   "notes": "Stretching help."
+  },
+  {
+   "id": "c04944",
+   "en": "......Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04945",
+   "en": "Why are you getting shy about it now...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04946",
+   "en": "You're making me embarrassed too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04947",
+   "en": "Th-then, here I go. I'm pushing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04948",
+   "en": "Mm, please do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04949",
+   "en": "(I spent the whole day swimming with\nClaire-senpai again.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04950",
+   "en": "(Today I invited Claire-senpai to the pool again.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04951",
+   "en": "Hello, \\p-chan.\nThe pool again, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04952",
+   "en": "Since we're here anyway,\nlet's get you swimming for real.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04953",
+   "en": "Mm-hm.\nThen, will you push on my back for me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04954",
+   "en": "(I spent the whole day swimming with\nClaire-senpai again.)",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c04893/c04896: Outing end line 'ii kibun tenkan' rendered '(Today was a nice change of pace.)', not the schedule label 'Outing'; c04893 (x147) also closes female scenes, so it is neutral.",
+   "c04898: 'jikan ni okurenakute yokatta' read as both of them making it on time ('I'm glad we made it on time.')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,502 @@
+{
+ "slice": 39,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c02832",
+   "en": "Yui, you're the one who needs to calm down most.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02833",
+   "en": "Clothes, huh~",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02834",
+   "en": "(Hang in there, Pinon-chan...!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02835",
+   "en": "Huh, Pinon-chan?\nWhat's up?",
+   "flags": [],
+   "notes": "Shared by ext_pnn_003/005, both genders."
+  },
+  {
+   "id": "c02836",
+   "en": "...I've been waiting for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02837",
+   "en": "Mm-hm...",
+   "flags": [],
+   "notes": "'Umu'."
+  },
+  {
+   "id": "c02838",
+   "en": "...*staaare*",
+   "flags": [],
+   "notes": "x8."
+  },
+  {
+   "id": "c02839",
+   "en": "I-is there something on my face?",
+   "flags": [],
+   "notes": "Male version."
+  },
+  {
+   "id": "c02840",
+   "en": "That is the face of someone hiding something...\nI read a book on face reading,\nso there's no mistake...",
+   "flags": [],
+   "notes": "'Ninsougaku' = physiognomy; 'kakushikoto' (sic) kept as 'hiding something'."
+  },
+  {
+   "id": "c02841",
+   "en": "Hiding something? What are you talking about!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02842",
+   "en": "...You really have nothing to tell me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02843",
+   "en": "What's gotten into you all of a sudden...\nTell you? ...Not really... nothing? Probably...",
+   "flags": [],
+   "notes": "Also ext_yui_003/005 (female)."
+  },
+  {
+   "id": "c02844",
+   "en": "I heard the rumors...\nThat you've been hanging out a lot\nwith that woman...",
+   "flags": [],
+   "notes": "ext_pnn_003 (both player genders in the data); 'ano onna' kept as 'that woman'."
+  },
+  {
+   "id": "c02845",
+   "en": "It's so frustrating...\nBut in the end, I'm the one who'll win!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02846",
+   "en": "I-is there something on my face?",
+   "flags": [],
+   "notes": "Female version."
+  },
+  {
+   "id": "c02847",
+   "en": "Pinon-chan~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02848",
+   "en": "Oh, it's you, \\p.\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02849",
+   "en": "What about you, Pinon-chan? You're pacing\naround in front of Nyan-Nyan.\nWhat are you up to?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02850",
+   "en": "I-I'm not pacing around!",
+   "flags": [],
+   "notes": "Male version."
+  },
+  {
+   "id": "c02851",
+   "en": "Then what's up? Why not just go in?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02852",
+   "en": "I'd go in even by myself, though.\nWanna go in together, then?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02853",
+   "en": "Today's my treat! Eat as much as you like!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02854",
+   "en": "Huh!\nAre you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02855",
+   "en": "I am a teacher, after all!\nOf course I look after my cute students.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02856",
+   "en": "Server!\nBring me ten orders of maguro buns!",
+   "flags": [],
+   "notes": "'Ten'in' = the staff; neutral 'Server'."
+  },
+  {
+   "id": "c02857",
+   "en": "Th-that's way too many!? Seriously!!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02858",
+   "en": "I-I'b so stuffed...",
+   "flags": [],
+   "notes": "'Guruchii' = slurred 'kurushii'."
+  },
+  {
+   "id": "c02859",
+   "en": "Pinon-chan, are you okay?",
+   "flags": [],
+   "notes": "Also nml_pnn_008."
+  },
+  {
+   "id": "c02860",
+   "en": "You definitely ate too much.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02861",
+   "en": "...Phew... Server, the check, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02862",
+   "en": "I-it's not here...",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Pinon finds no money/wallet; object left implicit as in the Japanese."
+  },
+  {
+   "id": "c02863",
+   "en": "I-I can't pay for all this!?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02864",
+   "en": "Wh-wh-wh-what do I do...\n*sniff*... *sniff*...",
+   "flags": [],
+   "notes": "'Hikku' = sobbing hiccups."
+  },
+  {
+   "id": "c02865",
+   "en": "Pinon-chan, don't cry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02866",
+   "en": "Ugh... *sniff*...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02867",
+   "en": "You have my thanks!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Addressee not shown (likely the shop staff who let them work off the bill)."
+  },
+  {
+   "id": "c02868",
+   "en": "Welcome!",
+   "flags": [],
+   "notes": "Pinon working as a waitress."
+  },
+  {
+   "id": "c02869",
+   "en": "Wait a moment!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02870",
+   "en": "G-good work...",
+   "flags": [],
+   "notes": "'Otsukaresama'; also ext_she_006."
+  },
+  {
+   "id": "c02871",
+   "en": "That was good exercise.\nThough for a while there, I wasn't sure\nhow it'd all turn out.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02872",
+   "en": "Plus, I got to see you in a Nyan-Nyan uniform,\nPinon-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02873",
+   "en": "It looked good on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02874",
+   "en": "What about you, Pinon-chan? You're pacing\naround in front of Nyan-Nyan.\nWhat's wrong?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02875",
+   "en": "I-I am NOT pacing around!",
+   "flags": [],
+   "notes": "Female version."
+  },
+  {
+   "id": "c02876",
+   "en": "I'd go in even by myself, though.\nWanna go in together, then?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02877",
+   "en": "Th-that's way too many!? Seriously!!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02878",
+   "en": "You ate too much...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02879",
+   "en": "I-I can't pay for all this!?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02880",
+   "en": "That was good exercise.\nThough for a while there, I wasn't sure\nhow it'd all turn out...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02881",
+   "en": "I heard the rumors...\nThat you've been hanging out a lot\nwith that man...",
+   "flags": [],
+   "notes": "ext_pnn_005 (both player genders in the data)."
+  },
+  {
+   "id": "c02882",
+   "en": "(Huh, isn't that...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02883",
+   "en": "Heeey, Ranka.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02884",
+   "en": "Oh, \\p-kun.",
+   "flags": [],
+   "notes": "Also Shirakawa (nml_myk_017) and Ranka elsewhere, male player."
+  },
+  {
+   "id": "c02885",
+   "en": "You on your own right now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02886",
+   "en": "Yeah, I'm on my way to my part-time job.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02887",
+   "en": "I see. That's rough.",
+   "flags": [],
+   "notes": "Also nml_rnk_017."
+  },
+  {
+   "id": "c02888",
+   "en": "Huh? Not really.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02889",
+   "en": "Oh, I know! Since you're here, why not come\nto Nyan-Nyan after this? I'll hook you up.",
+   "flags": [],
+   "notes": "'Saabisu suru yo': give you something extra."
+  },
+  {
+   "id": "c02890",
+   "en": "Really?\nWell then, maybe I'll go~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02891",
+   "en": "And just where do you think you're going?",
+   "flags": [],
+   "notes": "Name plate '???' (Ozma)."
+  },
+  {
+   "id": "c02892",
+   "en": "Eek!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02893",
+   "en": "I asked where you think you're going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02894",
+   "en": "B-Big Bro!",
+   "flags": [],
+   "notes": "Oniichan -> 'Big Bro' (brief)."
+  },
+  {
+   "id": "c02895",
+   "en": "Ranka... get to work already. This is what\nhappens when you dawdle: a guy like this\ngets his hooks in you.",
+   "flags": [],
+   "notes": "Male version ('konna otoko')."
+  },
+  {
+   "id": "c02896",
+   "en": "'A guy like this'...?\nHow can you say that about my friend, Big Bro!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02897",
+   "en": "Hey, you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02898",
+   "en": "You're Ranka's friend?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02899",
+   "en": "Is that true?",
+   "flags": [],
+   "notes": "Also Pinon in frd_pnn_003."
+  },
+  {
+   "id": "c02900",
+   "en": "Y-yes... probably...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02901",
+   "en": "'Probably'?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02902",
+   "en": "Big Bro!\nIf you glare at people with that scary face,\nof course they'll freak out!",
+   "flags": [],
+   "notes": "'Kowamote' = scary/tough face."
+  },
+  {
+   "id": "c02903",
+   "en": "Scary face...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02904",
+   "en": "R-Ranka...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02905",
+   "en": "Let's just leave Big Bro and go,\n\\p-kun.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02906",
+   "en": "Y-yeah...",
+   "flags": [],
+   "notes": "x44 across many scenes and speakers."
+  },
+  {
+   "id": "c02907",
+   "en": "See you later, Big Bro!",
+   "flags": [],
+   "notes": "Player teasingly calls Ozma 'oniisan'; 'Big Bro' sets up the reply."
+  },
+  {
+   "id": "c02908",
+   "en": "I'm not your big bro!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02909",
+   "en": "Eeek~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02910",
+   "en": "Sorry Big Bro acts like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02911",
+   "en": "He really cares about you, huh.",
+   "flags": [],
+   "notes": "Male only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c02867: Pinon's 'rei wo iu zo!' has no visible addressee (between the unpaid bill and her waitressing lines); rendered 'You have my thanks!'.",
+   "c02844/c02881: ext_pnn_003 says 'that woman' and ext_pnn_005 'that man', each in both player-gender variants per the data; translated literally."
+  ],
+  "kept_omission": [
+   "c02862: Pinon's 'na, nai...' after asking for the check: what is missing (wallet/money) is unstated; kept as 'it'."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

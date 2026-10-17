@@ -1,0 +1,523 @@
+{
+ "slice": 48,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "pf_nns/361",
+   "en": "I can't put up with you anymore. If you'll excuse me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/362",
+   "en": "I'm somehow just exhausted... from supporting you.",
+   "flags": [],
+   "notes": "Inverted Japanese order kept: tiredness first, then \"your support\"."
+  },
+  {
+   "id": "pf_nns/363",
+   "en": "Was I able to support you properly?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/364",
+   "en": "Congratulations. I'm so glad it was a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/365",
+   "en": "Looks like you made it back safely. What a relief.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/366",
+   "en": "With your skills, success is only natural.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/367",
+   "en": "Watching you work was simply breathtaking.",
+   "flags": [],
+   "notes": "horebore suru: admiring."
+  },
+  {
+   "id": "pf_nns/368",
+   "en": "I've kind of worked up a sweat. Shall we go take a shower together?",
+   "flags": [],
+   "notes": "360-371 are the female-partner result lines."
+  },
+  {
+   "id": "pf_nns/369",
+   "en": "Would you wear some clothes I designed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/370",
+   "en": "I'm just so happy I get to support you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_nns/371",
+   "en": "Um, could I draw a picture of you sometime?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_ozm/200",
+   "en": "Not bad at all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_ozm/201",
+   "en": "That's only to be expected.",
+   "flags": [],
+   "notes": "Praise line (200-201); kept neutral about whose skill is meant."
+  },
+  {
+   "id": "pf_ozm/210",
+   "en": "I'll move in to back you up.",
+   "flags": [],
+   "notes": "Ozma uses polite form in 210-217 (addressing a stranger or superior)."
+  },
+  {
+   "id": "pf_ozm/211",
+   "en": "Please fall back and regroup.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_ozm/212",
+   "en": "It's dangerous! Please fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_ozm/213",
+   "en": "No! Shot down, just like that!?",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Who was shot down is not said (listener or an ally); kept impersonal."
+  },
+  {
+   "id": "pf_ozm/214",
+   "en": "This has to be a joke...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_ozm/215",
+   "en": "To think it would end like this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_ozm/216",
+   "en": "Impressive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_ozm/217",
+   "en": "Seems your skills haven't dulled one bit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_ozm/1000",
+   "en": "I'm counting on you, Canaria.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_ozm/1001",
+   "en": "All units, don't fall behind!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_ozm/1005",
+   "en": "Who the hell are you!? What happened to Gilliam!?",
+   "flags": [],
+   "notes": "Gilliam = Henry Gilliam (Skull Squadron), Ozma context."
+  },
+  {
+   "id": "pf_ozm/1006",
+   "en": "Ranka! Are you okay!?",
+   "flags": [],
+   "notes": "Transcript has \"buji ka\" in katakana; reading is clear."
+  },
+  {
+   "id": "pf_ozm/1007",
+   "en": "Thank goodness.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_ozm/1008",
+   "en": "All units, charge! Totsugeki Love Heart!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pun on totsugeki (charge) and the Fire Bomber song \"Totsugeki Love Heart\" (glossary); Ozma is a Fire Bomber fan."
+  },
+  {
+   "id": "pf_ozm/1009",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Grunt (ku)."
+  },
+  {
+   "id": "pf_ozm/1010",
+   "en": "Sheryl! Leave this to me! So sing your heart out!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"utare\" (be shot) is surely \"utae\" (sing)."
+  },
+  {
+   "id": "pf_rnk/200",
+   "en": "Way to go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/201",
+   "en": "Amazing, amazing! That's amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/210",
+   "en": "Um, are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/211",
+   "en": "Please hang in there!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/212",
+   "en": "It's going to get dangerous at this rate!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/213",
+   "en": "No way, shot down!?",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Who was shot down is not said; kept impersonal."
+  },
+  {
+   "id": "pf_rnk/214",
+   "en": "I can't believe this is happening!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/215",
+   "en": "Please eject, quickly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/216",
+   "en": "Impressive, as always!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/217",
+   "en": "That was so cool!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1000",
+   "en": "Yay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1001",
+   "en": "No, stay away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1002",
+   "en": "B-Big brother?",
+   "flags": [],
+   "notes": "As MUF renders Ranka's \"oniichan\"."
+  },
+  {
+   "id": "pf_rnk/1003",
+   "en": "Alto!",
+   "flags": [],
+   "notes": "Honorific -kun dropped."
+  },
+  {
+   "id": "pf_rnk/1004",
+   "en": "Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1100",
+   "en": "Also, the number of combo hits changes with the pilot's melee stat.",
+   "flags": [],
+   "notes": "Training voice; terms as the in-game tutorial text (u3647)."
+  },
+  {
+   "id": "pf_rnk/1101",
+   "en": "Of course, the higher the stat, the more melee attacks you can chain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1102",
+   "en": "That covers the basic Special Maneuver controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1103",
+   "en": "Target area reached. That ends the Special Maneuvers training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1104",
+   "en": "Training time is up. That ends the Special Maneuvers training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1105",
+   "en": "...and Ranka Lee will walk you through the controls together!",
+   "flags": [],
+   "notes": "Second half of Sheryl 1104 \"From here on, Sheryl Nome...\"; cut at the same point."
+  },
+  {
+   "id": "pf_rnk/1106",
+   "en": "Um, so we're explaining Special Maneuvers 3, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1107",
+   "en": "Um, so we're explaining the Special Maneuvers, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1108",
+   "en": "Being able to lock on to enemy aces right away is a great feature!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1109",
+   "en": "Next up is the Anti-Missile Action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1110",
+   "en": "Idiot!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Bare \"baka!\" in the tutorial banter; target unclear (probably Sheryl)."
+  },
+  {
+   "id": "pf_rnk/1111",
+   "en": "Last up: the newly added controls and the ones that changed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1112",
+   "en": "Let's save the galaxy with our explanations, Sheryl!",
+   "flags": [],
+   "notes": "Answered by Sheryl 1109."
+  },
+  {
+   "id": "pf_rnk/1113",
+   "en": "But I want to explain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1114",
+   "en": "Yes, Sheryl!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1115",
+   "en": "With SP Gauge to spare, hold the L button and mash the Triangle button to use Charge Guard.",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "\"Charge Guard\" (chaaji gaado) is not in the glossary; looks like an alternate take of 1116 (Charge Break). Says renda (mash) and L only, unlike the final L+R command."
+  },
+  {
+   "id": "pf_rnk/1116",
+   "en": "With SP Gauge to spare, hold the L button and mash the Triangle button to use Charge Break.",
+   "flags": [],
+   "notes": "Says renda (mash) and L only; the in-game text says L+R and press."
+  },
+  {
+   "id": "pf_rnk/1117",
+   "en": "It's the same command as Charge Melee in the earlier games. Charge Melee is gone this time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1118",
+   "en": "While it's active you can't boost or use any attacks, so be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1119",
+   "en": "So knowing when to use it is key.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1120",
+   "en": "Of course, if you're not holding the L button, you can still multi-lock-on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1121",
+   "en": "For taking on a crowd of enemies at once, multi-lock-on...",
+   "flags": [],
+   "notes": "Sentence continues in Sheryl 1121 (Single Lock for one target)."
+  },
+  {
+   "id": "pf_rnk/1122",
+   "en": "Finally, I'll explain Plus Lock.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1123",
+   "en": "With missile-type special weapons that fire when you release the button, lock on to the target, then keep holding Circle for an attack power bonus.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1124",
+   "en": "Aim really carefully and the power goes up! Use it a lot, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1125",
+   "en": "That wraps up all the controls, right, Sheryl?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1126",
+   "en": "Sheryl?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1127",
+   "en": "Training ends when you reach the target area or time runs out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1128",
+   "en": "Target area reached. That ends the New Special Maneuvers training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_rnk/1129",
+   "en": "Training time is up. That ends the New Special Maneuvers training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/200",
+   "en": "See? You can do it when you try.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/201",
+   "en": "Keep it up like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/210",
+   "en": "I need you to pull yourself together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/211",
+   "en": "This is getting dangerous.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/212",
+   "en": "I can't count on you at all, can I?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/213",
+   "en": "You're kidding! Shot down!?",
+   "flags": [
+    "kept_omission"
+   ],
+   "notes": "Who was shot down is not said; kept impersonal."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3787 pf_ozm/1008: Pun on totsugeki (charge) and the Fire Bomber song \"Totsugeki Love Heart\" (glossary); Ozma is a Fire Bomber fan.",
+   "row 3815 pf_rnk/1110: Bare \"baka!\" in the tutorial banter; target unclear (probably Sheryl).",
+   "row 3820 pf_rnk/1115: \"Charge Guard\" (chaaji gaado) is not in the glossary; looks like an alternate take of 1116 (Charge Break). Says renda (mash) and L only, unlike the final L+R command."
+  ],
+  "whisper_doubt": [
+   "row 3789 pf_ozm/1010: Transcript \"utare\" (be shot) is surely \"utae\" (sing)."
+  ],
+  "kept_omission": [
+   "row 3777 pf_ozm/213: Who was shot down is not said (listener or an ally); kept impersonal.",
+   "row 3795 pf_rnk/213: Who was shot down is not said; kept impersonal.",
+   "row 3840 pf_she/213: Who was shot down is not said; kept impersonal."
+  ],
+  "missing_glossary": [
+   "Charge Guard (chaaji gaado): tutorial voice term, apparently an alternate/earlier name for Charge Break (row 3820)."
+  ],
+  "unfinished": []
+ }
+}

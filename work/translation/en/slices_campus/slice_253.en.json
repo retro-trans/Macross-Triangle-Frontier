@@ -1,0 +1,408 @@
+{
+ "slice": 253,
+ "rows_in_slice": 65,
+ "rows_examined": 65,
+ "rows": [
+  {
+   "id": "c18259",
+   "en": "Oh, Michel.\nWanna have lunch together, if you're free?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18260",
+   "en": "Yeah, sure.\nThen let's grab something and eat it\nup on the roof......",
+   "flags": [],
+   "notes": "Interrupted mid-verb (Klan calls out next); kept trailing."
+  },
+  {
+   "id": "c18261",
+   "en": "Hm? Hey, Klan. What's up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18262",
+   "en": "I-I made a bento today, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18263",
+   "en": "By mistake...\nYes, by mistake, I made two of them, so\nif you want, I suppose I could spare you one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18264",
+   "en": "(...Klan-senpai is so easy to read.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18265",
+   "en": "...Geez.\nMaking two by mistake? You're such a klutz.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18266",
+   "en": "Can't be helped.\nIt'd be a waste to let it go uneaten,\nso I'll eat it for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18267",
+   "en": "So yeah, sorry, \\p...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18268",
+   "en": "Sure. Go enjoy lunch with Klan-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18269",
+   "en": "Sorry about this, \\p.\nNow then, let's go eat right away, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18270",
+   "en": "(Say what they will, those two\nreally do get along...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18271",
+   "en": "Oh, Michel-kun.\nWanna have lunch together, if you're free?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18272",
+   "en": "(...Klan-senpai is so easy to read.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18273",
+   "en": "(Phew... a shower after EX-Gear training\nfeels so good...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18274",
+   "en": "Yo, \\p.\nToday's class was rougher than usual, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18275",
+   "en": "You call that rough?\nYou really do live up to the name 'Princess,'\ndon't you, Princess Alto?",
+   "flags": [],
+   "notes": "Quoted hime rendered 'Princess' in single quotes, title 'Princess Alto' as in earlier slices."
+  },
+  {
+   "id": "c18276",
+   "en": "Hey, you picking a fight... Michael?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18277",
+   "en": "Me, pick a fight? Perish the thought.\nI was just worried about Her Highness's\nhealth, that's all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18278",
+   "en": "Michael!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18279",
+   "en": "Geez, Alto, Michel, cut it out.\nDon't start fighting in the shower room.\nYou're bugging everyone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18280",
+   "en": "Aw, man. Guess I made him mad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18281",
+   "en": "Michel, you tease Alto way too much.\nYou know that's just how Alto is...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18282",
+   "en": "It's just my own way of showing affection, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18283",
+   "en": "...So you're the type who picks on\nthe one you like?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18284",
+   "en": "Heh, maybe so.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18285",
+   "en": "(I think that kind of affection\nbackfires with Alto, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18286",
+   "en": "(Phew... today's EX-Gear training\nwas a tough one.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18287",
+   "en": "Saotome-kun, Michel-kun, cut it out.\nDon't start fighting in such a cramped place.\nYou're bugging everyone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18288",
+   "en": "Michel-kun, you tease Saotome-kun way too much.\nYou know that's just how Saotome-kun is...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18289",
+   "en": "...You mean you're the type who picks on\nthe one you like?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18290",
+   "en": "(I think that kind of affection\nbackfires with Saotome-kun, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18291",
+   "en": "(Now, what should I buy today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18292",
+   "en": "(Hm? Is that Michel and Yamashiro-sensei?\nThat's an unusual pair...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18293",
+   "en": "What are you doing here,\nMichel, Yamashiro-sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18294",
+   "en": "Hm? If it isn't \\p.\nI was about to buy some new glasses\nwhen I happened to run into Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18295",
+   "en": "We were just having a passionate discussion\nabout glasses.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18296",
+   "en": "(A passionate discussion about glasses...\nWhat kind of conversation is that......?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18297",
+   "en": "I've always wanted to talk glasses theory\nwith Yamashiro-sensei sometime. It was by\nchance, but I'm really glad we got to talk today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18298",
+   "en": "Black horn-rims really do suit\nYamashiro-sensei perfectly.",
+   "flags": [],
+   "notes": "Michel praises Yamashiro in the third person, in front of him; kept third person."
+  },
+  {
+   "id": "c18299",
+   "en": "Heh, flattery won't get you anything...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18300",
+   "en": "But your glasses aren't bad either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18301",
+   "en": "Oh, looks like I'm intruding,\nso I'll be going now...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18302",
+   "en": "(Do people who wear glasses share\nsome kind of Way of the Glasses...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18303",
+   "en": "(Now, what should I buy today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18304",
+   "en": "(Hm? Is that Michel-kun and Yamashiro-sensei?\nThat's an unusual pair...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18305",
+   "en": "What are you doing here,\nMichel-kun, Yamashiro-sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18306",
+   "en": "(A passionate discussion about glasses...\nWhat kind of conversation is that......?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18307",
+   "en": "Oh, looks like I'm intruding,\nso I'll be going now...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18308",
+   "en": "(Do people who wear glasses share\nsome kind of Way of the Glasses...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18309",
+   "en": "(Summer break's started, but I'm so bored...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18310",
+   "en": "Hey, Shirakawa.\nHeading out somewhere?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18311",
+   "en": "Yes, to our villa on the artificial island.",
+   "flags": [],
+   "notes": "Possessive 'our' restored for the villa (the player answers that it is hers)."
+  },
+  {
+   "id": "c18312",
+   "en": "A villa?!\nJust what you'd expect from a rich girl.\nYou're on a whole other level...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18313",
+   "en": "W-well, I say villa, but it's really\nnothing all that special...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18314",
+   "en": "It's a really small place...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18315",
+   "en": "Just having a villa at all is plenty amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18316",
+   "en": "...W-well then, I'll be going.\nI'll bring you a souvenir, so look forward to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18317",
+   "en": "Yeah, see ya~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18318",
+   "en": "(...Guess I'll grab some ice cream\non the way home.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18319",
+   "en": "(Summer break's started, but I'm so bored...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18320",
+   "en": "Hiya, Miyuki!\nHeading out somewhere?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18321",
+   "en": "A villa?!\nJust what you'd expect from a rich girl.\nYou're on a whole other level...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18322",
+   "en": "Just having a villa at all is plenty amazing~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18323",
+   "en": "(...Guess I'll grab some ice cream\non the way home.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18260: interrupted line kept trailing at 'up on the roof......' (Japanese breaks off mid-verb).",
+   "c18298: Michel praises Yamashiro in the third person while facing him; kept.",
+   "c18311: 'our villa' restores the possessive (Japanese has only 'the villa on the artificial island').",
+   "c18275: 'Princess' in single quotes for the quoted hime."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

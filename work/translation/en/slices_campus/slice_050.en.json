@@ -1,0 +1,499 @@
+{
+ "slice": 50,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c03688",
+   "en": "(I wonder if she acts like that\naround boys too~)",
+   "flags": [],
+   "notes": "Female only; end of the swimming scene."
+  },
+  {
+   "id": "c03689",
+   "en": "Heading home, Akimizu?",
+   "flags": [],
+   "notes": "Male; ext_yuu_003 and 005."
+  },
+  {
+   "id": "c03690",
+   "en": "...Yes... I suppose I am...\nAre you heading home by yourself?",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c03691",
+   "en": "Really and truly?",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c03692",
+   "en": "But I... won't lose...\nI'm the one who's going to win in the end!",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c03693",
+   "en": "Are you heading home now?",
+   "flags": [],
+   "notes": "Female; ext_yuu_003 and 005."
+  },
+  {
+   "id": "c03694",
+   "en": "Wh-why would I lie about that?",
+   "flags": [],
+   "notes": "Female; matches the male c02179."
+  },
+  {
+   "id": "c03695",
+   "en": "What's gotten into you, Yuu...?\nTell you? ...Not really... nothing? Probably...",
+   "flags": [],
+   "notes": "Female; patterned on c02843."
+  },
+  {
+   "id": "c03696",
+   "en": "Hey, Akimizu~!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03697",
+   "en": "Oh... \\p-kun.\nHello.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03698",
+   "en": "Ehehe... I'm a little short on cash today...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03699",
+   "en": "Oh no, I couldn't...",
+   "flags": [],
+   "notes": "Both genders; declining the player's offer to treat her."
+  },
+  {
+   "id": "c03700",
+   "en": "I'm hungry too, so don't worry about it.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03701",
+   "en": "C'mon, let's go, let's go!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03702",
+   "en": "H-hey, don't push~",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03703",
+   "en": "Let's keep 'em coming!",
+   "flags": [],
+   "notes": "Both genders; ordering spree."
+  },
+  {
+   "id": "c03704",
+   "en": "I feel kind of bad about this...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03705",
+   "en": "Excuse meee!\nSix servings of maguro buns!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03706",
+   "en": "...W-well, that's because you ordered so much...\nAnd leaving food would be rude to the shop...",
+   "flags": [],
+   "notes": "Both genders; answers 'You really put it away, huh?'."
+  },
+  {
+   "id": "c03707",
+   "en": "...I might've left it at home...",
+   "flags": [],
+   "notes": "Both genders; the player's wallet."
+  },
+  {
+   "id": "c03708",
+   "en": "Did you look properly?\nYour pockets, your bag...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03709",
+   "en": "Ahahahaha... It's not there...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03710",
+   "en": "Th-thank you very much...",
+   "flags": [],
+   "notes": "Both genders; Akimizu working as a waitress."
+  },
+  {
+   "id": "c03711",
+   "en": "J-just a moment, please...",
+   "flags": [],
+   "notes": "Both genders; waitress line."
+  },
+  {
+   "id": "c03712",
+   "en": "Oh, no. It was nice exercise after the meal...\nAnd I got to wear a Nyan-Nyan outfit, too...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03713",
+   "en": "O-oh, come on, you're just saying that...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03714",
+   "en": "...Hehe... Thank you.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03715",
+   "en": "Yes, let's.",
+   "flags": [],
+   "notes": "Both genders; answers 'shall we head home?'."
+  },
+  {
+   "id": "c03716",
+   "en": "Hey, Yuu~!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03717",
+   "en": "Oh... \\p-chan.\nHello.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03718",
+   "en": "Then I'll treat you.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03719",
+   "en": "I'm hungry too, hehe.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03720",
+   "en": "Sorry for getting you into this mess...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03721",
+   "en": "I hear you've gotten close to that guy lately...?\nI heard the rumors.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "ext_yuu_005, both genders; patterned on c02372 ('that girl'). 'Ano otoko no hito' unnamed."
+  },
+  {
+   "id": "c03722",
+   "en": "(Looks like Alto's up on the roof.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03723",
+   "en": "Hey, Alto.\nWhat are you doing out here?",
+   "flags": [],
+   "notes": "Male; also frd_alt_004 (met outside at night)."
+  },
+  {
+   "id": "c03724",
+   "en": "Hm? Oh, just looking at the sky...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03725",
+   "en": "Huh. Can you see something unusual up there?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03726",
+   "en": "No...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03727",
+   "en": "By the way, about today's Practical Training class...",
+   "flags": [],
+   "notes": "Both genders; Alto does not answer."
+  },
+  {
+   "id": "c03728",
+   "en": "(Looks like he's lost in thought...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03729",
+   "en": "...Huh, \\p?\nWhat's up? You need something from me?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03730",
+   "en": "Nah, I just called out to you to chat a bit,\nbut you weren't reacting at all, so...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03731",
+   "en": "Sorry about that.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03732",
+   "en": "Nah, it's not like I needed anything in\nparticular, so don't worry about it.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03733",
+   "en": "Okay. Then that's fine.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03734",
+   "en": "But when you keep looking at the sky,\nit kind of calms you down, huh.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03735",
+   "en": "Yeah.\nEven if it's \"a sky like this,\" it's the only sky we've got.",
+   "flags": [],
+   "notes": "Both genders; Alto's scare quotes kept (the fleet's artificial sky)."
+  },
+  {
+   "id": "c03736",
+   "en": "I think I kind of get how you feel\nwhen you look at the sky, Alto.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03737",
+   "en": "Yeah. The sky isn't as complicated as people.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03738",
+   "en": "Haha, true.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03739",
+   "en": "You're in the Pilot Course, right?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03740",
+   "en": "Yeah, same course as you, Alto.\nDon't forget that.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03741",
+   "en": "There's something I wanted to ask you...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03742",
+   "en": "Hm, what is it?",
+   "flags": [],
+   "notes": "x3: frd_alt_001 (male player) and Luis in frd_lis_007 (both genders)."
+  },
+  {
+   "id": "c03743",
+   "en": "Nah, I'll save it for next time.\nIt's getting late.",
+   "flags": [],
+   "notes": "Male version."
+  },
+  {
+   "id": "c03744",
+   "en": "Come on, now I'm curious.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03745",
+   "en": "Well, guess I'll head home.\nIt'd be faster if I could just fly there.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03746",
+   "en": "Ahaha, no doubt about that.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03747",
+   "en": "(Alto really seems to love the sky.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03748",
+   "en": "(Looks like Saotome-kun's up on the roof.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03749",
+   "en": "Saotome-kun,\nwhat are you doing out here?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03750",
+   "en": "Huh. Can you see something unusual up there?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03751",
+   "en": "(Looks like he's lost in thought...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03752",
+   "en": "Oh, no, I just called out to you to chat a bit,\nbut you weren't reacting at all, so...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03753",
+   "en": "No, it's not like I needed anything either,\nso don't worry about it.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03754",
+   "en": "But looking at the sky for a while\nreally does calm you down, doesn't it.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03755",
+   "en": "I think I kind of get how you feel when\nyou look at the sky, Saotome-kun.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03756",
+   "en": "Ahaha, that's true.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03757",
+   "en": "Yeah, we're in the same course.\nDon't forget that.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03758",
+   "en": "Hm, what?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03759",
+   "en": "Nah, I'll ask you some other time.\nIt's getting late.",
+   "flags": [],
+   "notes": "Female version."
+  },
+  {
+   "id": "c03760",
+   "en": "What? Now I'm curious...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03761",
+   "en": "Ahaha, that's true enough.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03762",
+   "en": "(Saotome-kun really does love the sky.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c03763",
+   "en": "(Looks like Alto's up on the roof again...)",
+   "flags": [],
+   "notes": "Male; frd_alt_001 and frd_alt_008."
+  },
+  {
+   "id": "c03764",
+   "en": "Hey, Alto. Here again?",
+   "flags": [],
+   "notes": "Male; frd_alt_001/008 (roof) and frd_alt_002 (library): location-neutral."
+  },
+  {
+   "id": "c03765",
+   "en": "Yeah. Looking at the sky again...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03766",
+   "en": "You really love it, huh...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c03767",
+   "en": "Keeping me company just to look at the sky...\nYou're a weird one too.",
+   "flags": [],
+   "notes": "Both genders; the reply 'Yeah, maybe I am.' (c03768/c03774) follows."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c03721: 'that guy' (unnamed), patterned on the finished c02372 'that girl'.",
+   "c03735: Alto's quoted 'konna sora' kept in double quotes as \"a sky like this\" (Frontier's artificial sky).",
+   "c03765: 'aa, mata sora wo... na...' rendered 'Yeah. Looking at the sky again...'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

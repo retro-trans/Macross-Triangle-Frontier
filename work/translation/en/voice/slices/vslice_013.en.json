@@ -1,0 +1,520 @@
+{
+ "slice": 13,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o7_exd/1234",
+   "en": "An enemy has appeared. Vajra, I see.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'teki shitsuren' read as 'teki shutsugen' (enemy appeared)."
+  },
+  {
+   "id": "of_ktr/1234",
+   "en": "An enemy has appeared! It's Vajra!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1235",
+   "en": "Defold reaction confirmed ahead. Vajra, I see.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'default' read as defold."
+  },
+  {
+   "id": "of_ktr/1235",
+   "en": "Defold reaction confirmed ahead. It's Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1237",
+   "en": "It is the enemy! I fear they may launch a powerful attack.",
+   "flags": [],
+   "notes": "'teki desu ga' read as 'teki desu zo'."
+  },
+  {
+   "id": "of_ktr/1237",
+   "en": "It's the enemy! They may launch a powerful attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1238",
+   "en": "Enemy reinforcements. Beware of powerful attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1238",
+   "en": "Enemy reinforcements! Watch out for powerful attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1239",
+   "en": "An enemy with a powerful means of attack is approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1239",
+   "en": "An enemy with a powerful attack is approaching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1240",
+   "en": "Enemy air unit approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1240",
+   "en": "Enemy air unit approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1241",
+   "en": "Valkyrie team spotted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1241",
+   "en": "Valkyrie team spotted!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1242",
+   "en": "Battleship believed to be the enemy's main force confirmed. Would you kindly destroy it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1242",
+   "en": "Battleship, probably the enemy's main force, confirmed. Destroy it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1243",
+   "en": "That is a Ghost. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1243",
+   "en": "That's a... Ghost! Be careful!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1244",
+   "en": "Defold reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1244",
+   "en": "Defold reaction confirmed.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'default' read as defold."
+  },
+  {
+   "id": "o7_exd/1245",
+   "en": "Defold reactions increasing further.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1245",
+   "en": "Defold reactions increasing further.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'default' read as defold."
+  },
+  {
+   "id": "o7_exd/1246",
+   "en": "Numerous heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1246",
+   "en": "Many heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1247",
+   "en": "We shall conduct combat training with the prototype Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1247",
+   "en": "We'll do combat training with the prototype Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1249",
+   "en": "Heat source reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1249",
+   "en": "Heat source reaction confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1250",
+   "en": "Numerous heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1250",
+   "en": "Many heat source reactions confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1251",
+   "en": "Intercept them immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1253",
+   "en": "It is the Zentradi forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1253",
+   "en": "It's the Zentradi forces!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1254",
+   "en": "It is a Regult.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1254",
+   "en": "It's a Regult!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1255",
+   "en": "It is a Glaug.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1255",
+   "en": "It's a Glaug!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Gurajio' read as Glaug (Guraaji yo)."
+  },
+  {
+   "id": "o7_exd/1256",
+   "en": "It is a Nousjadeul-Ger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1256",
+   "en": "It's a Nousjadeul-Ger!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1257",
+   "en": "It is a Queadluun-Rau.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1257",
+   "en": "It's a Queadluun-Rau!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name garbled in the transcript; Queadluun-Rau, as the shared clips."
+  },
+  {
+   "id": "o7_exd/1258",
+   "en": "It is a Destroid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1258",
+   "en": "It's a Destroid!",
+   "flags": [],
+   "notes": "Whisper nospeech flag, but the transcript matches the shared line; kept."
+  },
+  {
+   "id": "o7_exd/1259",
+   "en": "It is the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1259",
+   "en": "It's the Varauta Army!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1260",
+   "en": "It is a Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1260",
+   "en": "It's a Protodeviln!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1261",
+   "en": "It is an Elgersoln.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name misheard ('Erunaa-zoron')."
+  },
+  {
+   "id": "of_ktr/1261",
+   "en": "It's an Elgersoln!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1262",
+   "en": "It is a Panzersoln.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name misheard ('pantsu wa zorun')."
+  },
+  {
+   "id": "of_ktr/1262",
+   "en": "It's a Panzersoln!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name garbled ('Pantsua-zoryu')."
+  },
+  {
+   "id": "o7_exd/1263",
+   "en": "It is a Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1263",
+   "en": "It's a Vajra!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Majira yo' read as 'Bajura yo'."
+  },
+  {
+   "id": "o7_exd/1264",
+   "en": "It is an enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1264",
+   "en": "It's an enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1265",
+   "en": "It is an enemy unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1265",
+   "en": "It's an enemy unit!",
+   "flags": [],
+   "notes": "Whisper nospeech flag, but the transcript matches the shared line; kept."
+  },
+  {
+   "id": "o0_of0/1267",
+   "en": "Launch authorized. Do your best, okay?",
+   "flags": [],
+   "notes": "Same line as MUF vo0_of0_1267; sister English kept."
+  },
+  {
+   "id": "o0_of1/1267",
+   "en": "Launch authorized. Give it your best.",
+   "flags": [],
+   "notes": "Same line as MUF vo0_of1_1267; sister English kept."
+  },
+  {
+   "id": "o0_of2/1267",
+   "en": "Launch authorized. Go do your best out there.",
+   "flags": [],
+   "notes": "Same line as MUF vo0_of2_1267; sister English kept."
+  },
+  {
+   "id": "o0_om0/1267",
+   "en": "Launch authorized. Go do your best!",
+   "flags": [],
+   "notes": "Same line as MUF vo0_om0_1267; sister English kept."
+  },
+  {
+   "id": "o7_exd/1267",
+   "en": "Launch is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1267",
+   "en": "Launch authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1268",
+   "en": "Sortie preparations appear to be complete. Launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1268",
+   "en": "Sortie prep complete. Please launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1269",
+   "en": "Stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1269",
+   "en": "Stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1271",
+   "en": "Destroid Cheyenne",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Sheiyan' read as Cheyenne (Shaian)."
+  },
+  {
+   "id": "of_ktr/1271",
+   "en": "Destroid Cheyenne",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1272",
+   "en": "VF-0 Phoenix",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1272",
+   "en": "VF-0 Phoenix",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1273",
+   "en": "SV-51",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1273",
+   "en": "SV-51",
+   "flags": [],
+   "notes": "Whisper nospeech flag, but the transcript matches the shared line; kept."
+  },
+  {
+   "id": "o7_exd/1274",
+   "en": "Octos",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1274",
+   "en": "Octos",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1275",
+   "en": "Prototype Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1275",
+   "en": "Prototype Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1276",
+   "en": "AFOS",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1276",
+   "en": "AFOS",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1277",
+   "en": "Destroid Defender",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 961: shutsugen",
+   "row 963, 980, 982: defold",
+   "rows 997, 1001, 1008, 1010-1011, 1013, 1028: mecha names garbled"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

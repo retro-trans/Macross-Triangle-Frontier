@@ -1,0 +1,509 @@
+{
+ "slice": 310,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c22346",
+   "en": "(All right! Now I just have to shoot this one down!!)",
+   "flags": [],
+   "notes": "Shared male/female (x4)."
+  },
+  {
+   "id": "c22347",
+   "en": "(Phew~ I'm beat...\nStill, I was in such good form in today's\nsimulator training that it surprised even me.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22348",
+   "en": "(I'd better keep working hard so I can\nget good results next time too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22349",
+   "en": "Yes? What is it, Gary-sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22350",
+   "en": "Your moves in today's simulator training\nweren't half bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22351",
+   "en": "So here's the thing...\nHow'd you like to enlist in the New U.N. Forces?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22352",
+   "en": "With your skills as they are now, you should be\nable to fight to protect Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22353",
+   "en": "Back at the career survey, you said you wanted\nto be a soldier, right? What do you say?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22354",
+   "en": "Well, I...",
+   "flags": [],
+   "notes": "Also scd_fes_813 (male)."
+  },
+  {
+   "id": "c22355",
+   "en": "I want to enlist in the New U.N. Forces",
+   "flags": [],
+   "notes": "Choice; nyuutai wo kibou suru."
+  },
+  {
+   "id": "c22356",
+   "en": "I want to join S.M.S.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22357",
+   "en": "Got it.\nThen I'll write you a letter of recommendation\nto the New U.N. Forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22358",
+   "en": "It's you guys who'll be protecting Frontier's\nfuture. Give it everything you've got.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22359",
+   "en": "(I don't know how far my abilities will take me...\nbut I'm gonna do my best for Frontier!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22360",
+   "en": "I see...\nThen I can't very well force a recommendation\non you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22361",
+   "en": "I'm sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22362",
+   "en": "Nah, don't worry about it.\nJust keep up the good work from here on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22363",
+   "en": "(I turned down the recommendation to the New\nU.N. Forces, but it makes me really happy that\nGary-sensei thinks so highly of me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22364",
+   "en": "Hey, \\p!\nWhat are you dawdling for?\nLet's hurry up and go grab something to eat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22365",
+   "en": "Oh, sorry, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22366",
+   "en": "By the way, I was watching you during simulator\ntraining. You're pretty good, you know that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22367",
+   "en": "(Not just Gary-sensei,\nbut even Michel is praising me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22368",
+   "en": "With skills like that, you could make it in S.M.S...",
+   "flags": [],
+   "notes": "Michel trails off before saying more about S.M.S.; kept unfinished as in the Japanese."
+  },
+  {
+   "id": "c22369",
+   "en": "Hm? What's wrong, Michel?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22370",
+   "en": "Nothing at all. Come on, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22371",
+   "en": "Yeah, let's...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22372",
+   "en": "(Michel was about to say something...\nI wonder what it was?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22373",
+   "en": "(Well, no point worrying about it.\nRight, I'd better hurry and go get changed...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22374",
+   "en": "(It's rare for Michel to praise me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22375",
+   "en": "(Phew~ I'm beat...\nStill, I was in such good form in today's\nsimulator training that it surprised even me.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22376",
+   "en": "Well, I...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22377",
+   "en": "(I don't know how far my abilities will take me...\nbut I'm gonna do my best for Frontier!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22378",
+   "en": "Oh, sorry, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22379",
+   "en": "(Not just Gary-sensei,\nbut even Michel-kun is praising me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22380",
+   "en": "Hm? What's wrong, Michel-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22381",
+   "en": "(Michel-kun was about to say something...\nI wonder what it was?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22382",
+   "en": "(It's rare for Michel-kun to praise me...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22383",
+   "en": "(All right, today's Sports Day!\nI'm gonna do my best to shine too!!)",
+   "flags": [],
+   "notes": "Also scd_fes_510 (male)."
+  },
+  {
+   "id": "c22384",
+   "en": "What is it, Gary-sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22385",
+   "en": "Thing is, there was a little mix-up, and we're\nshort on entrants for three events.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22386",
+   "en": "Sorry, but I need you to enter one of\nthe three events I'm about to name.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22387",
+   "en": "Actually, you don't get a say in this.",
+   "flags": [],
+   "notes": "Kyohiken wa nai: \"you have no right to refuse\"."
+  },
+  {
+   "id": "c22388",
+   "en": "Y-yes, understood...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22389",
+   "en": "The first event is the \"100m Dash.\"\nIf you're confident in your \"Stamina\" and\n\"Speed,\" give this one a shot.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Stat names (tairyoku/sokudo) rendered as pilot parameters \"Stamina\"/\"Speed\"; shared with scd_fes_510, both genders."
+  },
+  {
+   "id": "c22390",
+   "en": "The second event is the \"Tug-of-War.\"\nIf you're confident in your \"Melee\" and\n\"Defense,\" give this one a shot.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Kakutou/bougyo -> \"Melee\"/\"Defense\" (pilot parameters)."
+  },
+  {
+   "id": "c22391",
+   "en": "The third event is the \"Ball Toss.\"\nIf you're confident in your \"Shooting\" and\n\"Focus,\" give this one a shot.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Shageki/shuuchuu -> \"Shooting\"/\"Focus\" (pilot parameters). Tamaire = ball toss."
+  },
+  {
+   "id": "c22392",
+   "en": "Out of these three events,\nwhich one do you want to enter?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22393",
+   "en": "100m Dash",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22394",
+   "en": "Tug-of-War",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22395",
+   "en": "Ball Toss",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22396",
+   "en": "Got it, the 100m dash.\nI'll take care of the entry,\nso go warm up or something.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22397",
+   "en": "(I'm gonna do my best to take first place!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22398",
+   "en": "Who'd have thought I'd be running in the same\nheat as you. Just so you know, I'm not going easy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22399",
+   "en": "Yo, Fresh Boy.\nI'm going all out too, so brace yourself.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Luis calls the male player \"fresh boy\" (katakana English): kept as \"Fresh Boy\". Male only."
+  },
+  {
+   "id": "c22400",
+   "en": "Wait, why are you just casually\ntaking part, Luis-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22401",
+   "en": "Don't sweat the details.\nNow, the show's about to start!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22402",
+   "en": "I'm cheering for you like crazy too~!\nGo at it like your life depends on it~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22403",
+   "en": "(I can't lose to Alto or Luis-san.\nI'm definitely winning this!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22404",
+   "en": "(Yes~! First place!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22405",
+   "en": "Tch!\nI can't believe I lost to \\p...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22406",
+   "en": "Next time, I'm definitely winning!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22407",
+   "en": "So you made it over the wall that is me...\nNot bad, Fresh Boy.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22408",
+   "en": "Heh, something about you reminds me\nof myself when I was young...",
+   "flags": [],
+   "notes": "Shared male/female: no gendered wording."
+  },
+  {
+   "id": "c22409",
+   "en": "Nice one~, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22410",
+   "en": "Heh heh heh...\nBut don't gloat until you've beaten me...",
+   "flags": [],
+   "notes": "Hoshimura (Yui) boasting, then backing down in c22411 (presumably under a glare)."
+  },
+  {
+   "id": "c22411",
+   "en": "Uh, n-no, just kidding...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22412",
+   "en": "(I actually beat Alto and Luis-san.\nI'm so happy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22413",
+   "en": "(I'd better keep up my training so I can\nwin at next year's Sports Day too.)",
+   "flags": [],
+   "notes": "x10 across win and loss branches of both scenes; the Japanese has \"demo\" (next year too)."
+  },
+  {
+   "id": "c22414",
+   "en": "(Dammit! I was so close to winning...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22415",
+   "en": "I can't afford to lose to you,\nso I went all out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22416",
+   "en": "Looks like you're still nowhere near my level.\nGo retrain your passion,\nthen come challenge me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22417",
+   "en": "Whaaat, you lost~?\nAnd I bet on \\p to win...",
+   "flags": [],
+   "notes": "Yui lets slip she bet on the player; shared male/female."
+  },
+  {
+   "id": "c22418",
+   "en": "Uh... never mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22419",
+   "en": "(I really thought I'd take first place...\nI'll train hard so I definitely\ndon't lose at the next Sports Day!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22420",
+   "en": "Got it, the tug-of-war.\nI'll take care of the entry,\nso go warm up or something.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22421",
+   "en": "(All right! I'd better do my best too!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22422",
+   "en": "Oh, \\p-san,\nyou're in the tug-of-war too?\nLet's join forces and win this for sure!",
+   "flags": [],
+   "notes": "Luca uses \\p-san."
+  },
+  {
+   "id": "c22423",
+   "en": "If we all pull together, we're sure to win!\nLet's believe in our strength and seize victory!",
+   "flags": [],
+   "notes": "Kagura (Yuuto) speaking."
+  },
+  {
+   "id": "c22424",
+   "en": "G-good luck!\nAnd please be careful not to get hurt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22425",
+   "en": "(All right! I'm definitely winning this!)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c22389-c22391: Gary names stats in brackets (tairyoku, sokudo, kakutou, bougyo, shageki, shuuchuu). Not campus Mind/Technique/Body; read as pilot parameters and rendered 'Stamina', 'Speed', 'Melee', 'Defense', 'Shooting', 'Focus'. Should match the in-game parameter labels if they differ.",
+   "c22399/c22407: Luis's nickname for the male player, furesshu booi, kept as 'Fresh Boy' (no glossary entry; the female form furesshu gaaru appears 62 times elsewhere, suggest 'Fresh Girl').",
+   "c22368: Michel's cut-off line about S.M.S. kept unfinished."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Fresh Boy / Fresh Girl (Luis's nickname for the player)"
+  ],
+  "unfinished": []
+ }
+}

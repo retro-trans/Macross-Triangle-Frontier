@@ -1,0 +1,432 @@
+{
+ "slice": 217,
+ "rows_in_slice": 68,
+ "rows_examined": 68,
+ "rows": [
+  {
+   "id": "c15857",
+   "en": "Haha, don't get so mad, Princess Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15858",
+   "en": "Grr, Michael, you bastard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15859",
+   "en": "(Alto and Michel got into another fight, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15860",
+   "en": "(Those two are always fighting,\nbut how long have they known each other?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15861",
+   "en": "Alto, got a sec?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15862",
+   "en": "What is it, \\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15863",
+   "en": "You and Michel get along great, Alto.\nHow long have you two known each other?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15864",
+   "en": "Get along?\nWell, now I know your eyes are just for show...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15865",
+   "en": "Let's see...\nI met Michael right before we graduated junior high.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15866",
+   "en": "Somebody from the Pilot Course wrecked one of\nNanase's paintings, so I tried to make them apologize.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15867",
+   "en": "And that's when I met Michael...\nCome to think of it, I never did get him\nto apologize for that.",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15868",
+   "en": "Hey, Michael!\nAbout that time back then...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15869",
+   "en": "Huh? Oh, wait...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15870",
+   "en": "(I went and dug up an old feud...\nSorry, Michel!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15871",
+   "en": "(Saotome-kun and Michel-kun got into another fight,\nhuh...)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15872",
+   "en": "(Those two are always fighting,\nbut how long have they known each other?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15873",
+   "en": "Saotome-kun, got a sec?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15874",
+   "en": "You and Michel-kun get along great, Saotome-kun.\nHow long have you two known each other?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15875",
+   "en": "(I went and dug up an old feud...\nSorry, Michel-kun!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15876",
+   "en": "(Okay, time to give it my all again today...\nHm, Alto and Luca? ...Something feels off...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15877",
+   "en": "You'd never understand, Alto-senpai! Never!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15878",
+   "en": "Like you'd understand how I feel!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15879",
+   "en": "Nope! The stubborn one here is definitely you,\nAlto-senpai!",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15880",
+   "en": "Now, now, calm down, both of you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15881",
+   "en": "Oh, \\p...\nHey, hear me out for a sec...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15882",
+   "en": "Alto-senpai is being so mean! He said, \"Lucky you,\nLuca. You're younger than me and skipped a grade,\nand your grades are still perfect...\" and stuff...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15883",
+   "en": "Hey, it's the truth!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15884",
+   "en": "There are things even I can't do, no matter how hard\nI try! My flying is nowhere near as good as\nyours or Michel-senpai's, Alto-senpai...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15885",
+   "en": "Give it another year and you'll fly just like us!\nYou're only getting started!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15886",
+   "en": "There's no guarantee of that anywhere!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15887",
+   "en": "Then I'll guarantee it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15888",
+   "en": "Huh...!?\nSenpai...\nThank you so much!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15889",
+   "en": "(Well, it all worked out okay... I guess...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15890",
+   "en": "(Okay, time to do my best again today...\nHm, Saotome-kun and Luca-kun? ...Something feels off...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15891",
+   "en": "Come on, now, calm down, both of you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15892",
+   "en": "(Well, it all worked out okay... I guess...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15893",
+   "en": "(Okay, what's my next class...\nHuh? Alto and Ranka...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15894",
+   "en": "Alto-kun, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15895",
+   "en": "What are you thinking?\nThere's no way I could do that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15896",
+   "en": "Sure you can, Alto-kun!\nI just know the customers would love it, too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15897",
+   "en": "Quit messing around!\nWhat would I even get out of doing that...\nJust go do it yourself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15898",
+   "en": "Wha... You don't have to put it like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15899",
+   "en": "Come on, Alto, there's no need to get that mad...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15900",
+   "en": "Oh, \\p-kun!\nYou tell him too, \\p-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15901",
+   "en": "Huh? Tell him what?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15902",
+   "en": "Nyan-Nyan's holding a Uniform Beauty Contest soon,\nand I just know Alto-kun would win if he entered!\nSo...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15903",
+   "en": "Don't \"So...\" me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15904",
+   "en": "(Those two get along great, I bet...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15905",
+   "en": "(Okay, what's my next class...\nHuh? Saotome-kun and Ranka-chan...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15906",
+   "en": "Come on, Saotome-kun, there's no need to get that mad...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15907",
+   "en": "Oh, \\p-chan!\nYou tell him too, \\p-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15908",
+   "en": "(Those two get along great, I bet...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15909",
+   "en": "(Well, that's it for today's classes...\nHuh, it's Alto and Michel... Another fight?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15910",
+   "en": "I won't budge on this one. It's definitely you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15911",
+   "en": "Wha-!?\nNo way! It's obviously you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15912",
+   "en": "No, no,\nmy name's not nearly as well known as yours!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15913",
+   "en": "What on earth's going on? Why all the shouting...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15914",
+   "en": "Oh, \\p.\nWell, see, we were arguing over which of us\nwill get more chocolate this Valentine's...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15915",
+   "en": "Obviously it's gonna be this womanizer, right!?\nI'm not even all that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15916",
+   "en": "Hmm... You sure about that...?\nI know all about the presents from guys\nthat keep piling up in your locker...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15917",
+   "en": "Wha-!? Th-those don't count!\nBesides, I toss that stuff the second I get it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15918",
+   "en": "Oh-ho, so you admit you get them from guys,\nour gorgeous former female-role actor,\n\"Prin-cess Al-to.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15919",
+   "en": "Miii-chaaa-el!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15920",
+   "en": "(Both of them just take it for granted they'll get\ntons of chocolate... And they admit it about\neach other. That's impressive...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15921",
+   "en": "(Well, that's it for today's classes...\nHuh, it's Saotome-kun and Michel-kun... Another fight?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15922",
+   "en": "What on earth's going on? Why all the shouting...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15923",
+   "en": "Oh, \\p-chan.\nWell, see, we were arguing over which of us\nwill get more chocolate this Valentine's...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15924",
+   "en": "(Both of them just take it for granted they'll get\ntons of chocolate... They really do acknowledge\neach other.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c15866: the student from the Pilot Course who ruined Nanase's painting is unnamed; kept gender-neutral (\"Somebody ... them\"). c15867 reads that Alto still wants Michael to apologize (next line he shouts at Michael about it).",
+   "c15902: seifuku bijin kontesuto rendered \"Uniform Beauty Contest\" (not in glossary; an in-world Nyan-Nyan event).",
+   "c15918: \"a-ru-to-hi-me\" spelled out syllable by syllable rendered \"Prin-cess Al-to\"; moto bijin oyama = \"our gorgeous former female-role actor\" (kabuki onnagata, as in earlier finished lines).",
+   "c15904/c15908: also used in nml_she_019/020 (Alto and Sheryl); wording fits both scenes."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

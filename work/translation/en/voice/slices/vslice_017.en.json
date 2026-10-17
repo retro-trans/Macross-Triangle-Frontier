@@ -1,0 +1,515 @@
+{
+ "slice": 17,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "of_ktr/1414",
+   "en": "Many heat signatures confirmed. They're Regults.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1415",
+   "en": "Many heat signatures confirmed. They are Glaugs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1415",
+   "en": "Many heat signatures confirmed. They're Glaugs.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Glaug + yo heard as \"gurajio\""
+  },
+  {
+   "id": "o7_exd/1416",
+   "en": "Many heat signatures confirmed. They are Nousjadeul-Gers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1416",
+   "en": "Many heat signatures confirmed. They're Nousjadeul-Gers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1417",
+   "en": "Many heat signatures confirmed. They are Queadluun-Raus.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1417",
+   "en": "Many heat signatures confirmed. They're Queadluun-Raus.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Queadluun-Rau + yo heard as \"kuadoran roio\""
+  },
+  {
+   "id": "o7_exd/1418",
+   "en": "Many heat signatures confirmed. They are Destroids.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1418",
+   "en": "Many heat signatures confirmed. They're Destroids.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1419",
+   "en": "Many heat signatures confirmed. It is the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1419",
+   "en": "Many heat signatures confirmed. It's the Varauta Army.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1420",
+   "en": "Many heat signatures confirmed. They are Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1420",
+   "en": "Many heat signatures confirmed. They're Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1421",
+   "en": "Many heat signatures confirmed. They are Elgersolns.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1421",
+   "en": "Many heat signatures confirmed. They're Elgersolns.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1422",
+   "en": "Many heat signatures confirmed. They are Panzersolns.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1422",
+   "en": "Many heat signatures confirmed. They're Panzersolns.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1423",
+   "en": "Many heat signatures confirmed. They are Vajra.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1423",
+   "en": "Many heat signatures confirmed. They're Vajra.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Vajra yo heard as \"maji da yo\""
+  },
+  {
+   "id": "o7_exd/1424",
+   "en": "Many heat signatures confirmed. They are enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1424",
+   "en": "Many heat signatures confirmed. They're enemies.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1425",
+   "en": "Many heat signatures confirmed. They are enemy units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1425",
+   "en": "Many heat signatures confirmed. They're enemy units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1426",
+   "en": "It is the Zentradi forces. Intercept at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1426",
+   "en": "It's the Zentradi forces. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1427",
+   "en": "They are Regults. Intercept at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1427",
+   "en": "They're Regults. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1428",
+   "en": "They are Glaugs. Intercept at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1428",
+   "en": "They're Glaugs. Intercept immediately.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Glaug + yo heard as \"guraajio\""
+  },
+  {
+   "id": "o7_exd/1429",
+   "en": "They are Nousjadeul-Gers. Intercept at once.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Nousjadeul-Ger heard as \"muujaderunaa\""
+  },
+  {
+   "id": "of_ktr/1429",
+   "en": "They're Nousjadeul-Gers. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1430",
+   "en": "They are Queadluun-Raus. Intercept at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1430",
+   "en": "They're Queadluun-Raus. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1431",
+   "en": "They are Destroids. Intercept at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1431",
+   "en": "They're Destroids. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1432",
+   "en": "It is the Varauta Army! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1432",
+   "en": "It's the Varauta Army. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1433",
+   "en": "They are Protodeviln. Intercept at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1433",
+   "en": "They're Protodeviln. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1434",
+   "en": "They are Elgersolns. Intercept at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1434",
+   "en": "They're Elgersolns. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1435",
+   "en": "They are Panzersolns! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1435",
+   "en": "They're Panzersolns. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1436",
+   "en": "They are Vajra! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1436",
+   "en": "They're Vajra. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1437",
+   "en": "It is the enemy. Intercept at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1437",
+   "en": "It's the enemy. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1438",
+   "en": "It is an enemy force! Intercept at once!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1438",
+   "en": "It's an enemy force. Intercept immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1439",
+   "en": "It's Victor. Intercept immediately.",
+   "flags": [],
+   "notes": "Only Catherine has clip 1439. \"Victor\" alone as in MUF (\"Defold reaction. It's Victor.\")."
+  },
+  {
+   "id": "o7_exd/1450",
+   "en": "VF-0 Phoenix, Option Parts equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1450",
+   "en": "VF-0 Phoenix, you're cleared for the Option Parts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1451",
+   "en": "VF-0 Phoenix, Reactive Armor equipment authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says kyouka (reinforce); read as kyoka (authorize)"
+  },
+  {
+   "id": "of_ktr/1451",
+   "en": "VF-0 Phoenix, you're cleared for the Reactive Armor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1452",
+   "en": "SV-51, Twin Booster equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1452",
+   "en": "SV-51, you're cleared for the Twin Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1453",
+   "en": "VF-1 Valkyrie, Super Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1453",
+   "en": "VF-1 Valkyrie, you're cleared for the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1454",
+   "en": "VF-1 Valkyrie, Armored Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1454",
+   "en": "VF-1 Valkyrie, you're cleared for the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1455",
+   "en": "VF-1 Valkyrie, Strike Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1455",
+   "en": "VF-1 Valkyrie, you're cleared for the Strike Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1456",
+   "en": "VF-11 Thunderbolt, FAST Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1456",
+   "en": "VF-11 Thunderbolt, you're cleared for the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1457",
+   "en": "VF-11 Thunderbolt, Full Armored equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1457",
+   "en": "VF-11 Thunderbolt, you're cleared for the Full Armored gear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1458",
+   "en": "YF-19 Excalibur, FAST Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1458",
+   "en": "YF-19 Excalibur, you're cleared for the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1459",
+   "en": "YF-21 Sturmvogel, FAST Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1459",
+   "en": "YF-21 Sturmvogel, you're cleared for the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1460",
+   "en": "Mylene Valkyrie, Sound Booster equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1460",
+   "en": "Mylene Valkyrie, you're cleared for the Sound Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1461",
+   "en": "Fire Valkyrie, Sound Booster equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1461",
+   "en": "Fire Valkyrie, you're cleared for the Sound Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1462",
+   "en": "Storm Valkyrie, Sound Booster equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1462",
+   "en": "Storm Valkyrie, you're cleared for the Sound Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1463",
+   "en": "VF-22 Sturmvogel II, FAST Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1463",
+   "en": "VF-22 Sturmvogel II, you're cleared for the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1464",
+   "en": "VF-171EX Nightmare Plus, Armored Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1464",
+   "en": "VF-171EX Nightmare Plus, you're cleared for the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 1330: Catherine's \"Vikutaa yo\" rendered \"It's Victor\" (no other operator has clip 1439)."
+  ],
+  "whisper_doubt": [
+   "row 1283: Glaug + yo heard as \"gurajio\"",
+   "row 1287: Queadluun-Rau + yo heard as \"kuadoran roio\"",
+   "row 1299: Vajra yo heard as \"maji da yo\"",
+   "row 1309: Glaug + yo heard as \"guraajio\"",
+   "row 1310: Nousjadeul-Ger heard as \"muujaderunaa\"",
+   "row 1333: Transcript says kyouka (reinforce); read as kyoka (authorize)"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

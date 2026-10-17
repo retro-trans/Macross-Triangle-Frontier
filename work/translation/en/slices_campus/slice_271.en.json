@@ -1,0 +1,403 @@
+{
+ "slice": 271,
+ "rows_in_slice": 65,
+ "rows_examined": 65,
+ "rows": [
+  {
+   "id": "c19459",
+   "en": "(I'm happy for her, but it also feels like\nRanka's gone somewhere far away,\nand that's a little lonely...)",
+   "flags": [],
+   "notes": "Male. Ranka posters everywhere (c18826)."
+  },
+  {
+   "id": "c19460",
+   "en": "Oh, \\p-kun!",
+   "flags": [],
+   "notes": "Ranka, male; also nml_rnk_020."
+  },
+  {
+   "id": "c19461",
+   "en": "Huh? Ranka!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19462",
+   "en": "What a coincidence!\nI'm so happy I ran into you here!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19463",
+   "en": "Yeah, I'm happy to see you too, but...\nYou're out here without even a disguise.\nYou've got to remember you're famous now...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19464",
+   "en": "It's fine!\nI'm not that big yet, so it's no problem.",
+   "flags": [],
+   "notes": "Ranka, both genders. 'watashi nante mada mada' = she is nowhere near famous yet."
+  },
+  {
+   "id": "c19465",
+   "en": "(With this many Ranka posters on display,\nI really don't think that's true...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19466",
+   "en": "Hey, isn't that Ranka-chan...?\nThink she'd give me an autograph?",
+   "flags": [],
+   "notes": "Ranka Fan (man), both genders."
+  },
+  {
+   "id": "c19467",
+   "en": "Kyaaa! She's even cuter in person~!",
+   "flags": [],
+   "notes": "Ranka Fan (woman), both genders."
+  },
+  {
+   "id": "c19468",
+   "en": "Ranka, you'd better get out of here\nbefore this turns into a big scene...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19469",
+   "en": "Y-yeah, looks like it.\nSee you, \\p-kun!",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c19470",
+   "en": "(Even as a star,\nRanka's still Ranka after all.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19471",
+   "en": "(I'm happy for her, but it also feels like\nRanka-chan's gone somewhere far away,\nand that's a little lonely...)",
+   "flags": [],
+   "notes": "Female twin of c19459."
+  },
+  {
+   "id": "c19472",
+   "en": "Oh, \\p-chan!",
+   "flags": [],
+   "notes": "Ranka, female; also nml_rnk_020."
+  },
+  {
+   "id": "c19473",
+   "en": "Huh? Ranka-chan!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19474",
+   "en": "Yeah, I'm happy to see you too, but...\nYou're out here without even a disguise.\nYou've got to remember you're famous now...",
+   "flags": [],
+   "notes": "Female twin of c19463."
+  },
+  {
+   "id": "c19475",
+   "en": "(With this many Ranka-chan posters on display,\nI really don't think that's true...)",
+   "flags": [],
+   "notes": "Female twin of c19465."
+  },
+  {
+   "id": "c19476",
+   "en": "Ranka-chan, you'd better get out of here\nbefore this turns into a big scene...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19477",
+   "en": "Y-yeah, looks like it.\nSee you, \\p-chan!",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c19478",
+   "en": "(Even as a star, Ranka-chan\nis still Ranka-chan after all.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19479",
+   "en": "Sorry...\nI'm kind of causing trouble for everyone...",
+   "flags": [],
+   "notes": "Ranka, both genders. Brera is following her around as bodyguard (c15777)."
+  },
+  {
+   "id": "c19480",
+   "en": "Seriously, it's no problem.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19481",
+   "en": "(Though it's a little unnerving having him stand\nbehind us all class with that blank face...)",
+   "flags": [],
+   "notes": "PLAYER, both genders. 'him' = Brera, male in glossary."
+  },
+  {
+   "id": "c19482",
+   "en": "Oh, but Brera-san is a really nice person!\nWhen my recording wasn't going well,\nhe cheered me up.",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19483",
+   "en": "So I hope he can get along with Alto-kun\nand the others too, but...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19484",
+   "en": "Ranka, it's time for your recording.",
+   "flags": [],
+   "notes": "Brera, both genders."
+  },
+  {
+   "id": "c19485",
+   "en": "Okay, Brera-san.\nSee you, \\p-kun.",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c19486",
+   "en": "(I hope he gets along with Alto,\nbut there's probably no way that'll happen...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19487",
+   "en": "Really, it's no problem.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19488",
+   "en": "Okay, Brera-san.\nSee you, \\p-chan.",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c19489",
+   "en": "(I hope he gets along with Saotome-kun,\nbut there's probably no way that'll happen...)",
+   "flags": [],
+   "notes": "Female; she calls Alto Saotome-kun as in the Japanese."
+  },
+  {
+   "id": "c19490",
+   "en": "(Okay, where should I go to have fun today...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19491",
+   "en": "Huh? Isn't that Ranka?\nWhat's with the big hurry?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19492",
+   "en": "I got my part-time shift time mixed up,\nso if I don't hurry, I'm gonna be late.",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19493",
+   "en": "Yikes, that's bad.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19494",
+   "en": "Yeah, it is...\nSigh~ Why am I such a klutz...?",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19495",
+   "en": "Um, sorry to interrupt while you're feeling down,\nbut, Ranka...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19496",
+   "en": "What is it, \\p-kun?",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c19497",
+   "en": "Didn't you need to hurry so you wouldn't\nbe late for your part-time job?",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c19498",
+   "en": "Ah!\nS-see you later, \\p-kun!",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c19499",
+   "en": "(Ha ha, Ranka really is a scatterbrain.)",
+   "flags": [],
+   "notes": "Male. 'scatterbrain' as in c19388."
+  },
+  {
+   "id": "c19500",
+   "en": "(Okay, where should I go to have fun today...)",
+   "flags": [],
+   "notes": "Female twin of c19490."
+  },
+  {
+   "id": "c19501",
+   "en": "Huh? Isn't that Ranka-chan?\nWhat's with the big hurry?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19502",
+   "en": "Oh no, that's bad.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19503",
+   "en": "Um, sorry to interrupt while you're feeling down,\nbut, Ranka-chan...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19504",
+   "en": "What is it, \\p-chan?",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c19505",
+   "en": "Ah!\nS-see you later, \\p-chan!",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c19506",
+   "en": "(Hee hee, Ranka-chan really is a scatterbrain.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19507",
+   "en": "(Taking a different way home like this\nonce in a while isn't so bad.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19508",
+   "en": "(Hm? I hear singing...\nWait, is that Ranka?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19509",
+   "en": "(Wow~ She's really good...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19510",
+   "en": "Oh, \\p-kun...\n...Were you watching me sing, by any chance?",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c19511",
+   "en": "Yeah, sorry.\nBut wow, you were really good.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19512",
+   "en": "I really love singing,\nand I hope that someday I can be like Sheryl...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19513",
+   "en": "You can do it, Ranka.\nI guarantee it.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19514",
+   "en": "Thanks! Even if it's just flattery,\nit makes me super happy.",
+   "flags": [],
+   "notes": "Ranka, both genders, twice per version. 'flattery' kept: the player's closing thought answers it."
+  },
+  {
+   "id": "c19515",
+   "en": "Oh, it's almost time for my part-time job!\nSee you!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19516",
+   "en": "(Hmm... I wasn't trying to flatter her\nor anything, though...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19517",
+   "en": "(Taking a different way home like this\nonce in a while isn't so bad.)",
+   "flags": [],
+   "notes": "Female twin of c19507."
+  },
+  {
+   "id": "c19518",
+   "en": "(Hm? I hear singing...\nWait, is that Ranka-chan?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19519",
+   "en": "(Wow~ She's really good...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19520",
+   "en": "Oh, \\p-chan...\n...Were you watching me sing, by any chance?",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c19521",
+   "en": "Yeah, sorry.\nBut wow, you were really good.",
+   "flags": [],
+   "notes": "Female twin of c19511."
+  },
+  {
+   "id": "c19522",
+   "en": "You can do it, Ranka-chan.\nI guarantee it.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19523",
+   "en": "(Hmm... I wasn't trying to flatter her\nor anything, though...)",
+   "flags": [],
+   "notes": "Female twin of c19516."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

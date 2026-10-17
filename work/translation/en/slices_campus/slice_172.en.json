@@ -1,0 +1,435 @@
+{
+ "slice": 172,
+ "rows_in_slice": 70,
+ "rows_examined": 70,
+ "rows": [
+  {
+   "id": "c12599",
+   "en": "(I have to say, that was a surprise...)",
+   "flags": [],
+   "notes": "Male, frd_pnn_115 and frd_pnn_116."
+  },
+  {
+   "id": "c12600",
+   "en": "(I never thought Pinon-chan would be the one\nto ask me to walk home together...)",
+   "flags": [],
+   "notes": "Player, both genders, frd_pnn_115/116."
+  },
+  {
+   "id": "c12601",
+   "en": "Hey, \\p...\nI wasn't a nuisance, was I?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12602",
+   "en": "Huh? What do you mean?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12603",
+   "en": "W-well, I mean, me inviting you...",
+   "flags": [],
+   "notes": "Pinon, both genders; trails off."
+  },
+  {
+   "id": "c12604",
+   "en": "A nuisance? No way, not at all.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12605",
+   "en": "R-really?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12606",
+   "en": "Of course, really.\nI'd be happy if you invited me again.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12607",
+   "en": "...Okay, got it!\nI'll invite you next time too,\nso don't you dare say no!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12608",
+   "en": "As you wish, Pinon-chan.",
+   "flags": [],
+   "notes": "Player, both genders; playful kashikomarimashita."
+  },
+  {
+   "id": "c12609",
+   "en": "(I'll look forward to Pinon-chan\ninviting me out like this again.)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12610",
+   "en": "(I have to say, that was a surprise...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12611",
+   "en": "Of course, really.\nI'd be happy if you invited me again.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12612",
+   "en": "(I promised to go shopping with Ranka today.)",
+   "flags": [],
+   "notes": "Male, frd_rnk_001."
+  },
+  {
+   "id": "c12613",
+   "en": "(She said something like, 'I want to ask\nyour advice about some shopping...'\nI wonder what it's about...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12614",
+   "en": "Ranka's late...",
+   "flags": [],
+   "notes": "Male; as c10486."
+  },
+  {
+   "id": "c12615",
+   "en": "\\p-kun,\nsorry to keep you waiting!",
+   "flags": [],
+   "notes": "Ranka, male; also frd_rnk_109/111."
+  },
+  {
+   "id": "c12616",
+   "en": "Sorry I'm late.\nI kind of got lost on the way...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12617",
+   "en": "Nah, it's fine.\nMore importantly, what's this 'advice\nabout shopping' thing?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12618",
+   "en": "Um...\nI want to buy some everyday things for Big Bro...",
+   "flags": [],
+   "notes": "Ranka, both genders. oniichan = Big Bro as c02894."
+  },
+  {
+   "id": "c12619",
+   "en": "Everyday things, you mean...\n...like a toothbrush?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12620",
+   "en": "Exactly!\nI wanted a guy's opinion on things like\nwhat kind you normally use, so...",
+   "flags": [],
+   "notes": "Ranka, male version only."
+  },
+  {
+   "id": "c12621",
+   "en": "I see.\nWell then, let's get going.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12622",
+   "en": "Come to think of it, Ranka, your big brother\nis that overprotective...",
+   "flags": [],
+   "notes": "Male; continues in c12623."
+  },
+  {
+   "id": "c12623",
+   "en": "...Ozma-san, right?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12624",
+   "en": "Ahahaha.\nYes, 'that' brother of mine...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12625",
+   "en": "Ozma-san's a former pilot, right...?\nThen maybe he'd like something manly?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12626",
+   "en": "Well, here's the thing...\nBig Bro is surprisingly fussy at home.",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12627",
+   "en": "Huh?! I didn't know that...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12628",
+   "en": "He nitpicks every little thing I do...\nDon't you think that's awful?",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12629",
+   "en": "Doesn't that just show how much\nhe cares about you, Ranka?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12630",
+   "en": "He's WAY too overprotective!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12631",
+   "en": "You two get along so well, though.\nI'm kind of jealous...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12632",
+   "en": "But we're always fighting, you know?",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12633",
+   "en": "Now, now, they do say the more\nyou fight, the closer you are.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12634",
+   "en": "Mmmph~...",
+   "flags": [],
+   "notes": "Ranka, both genders; pouting."
+  },
+  {
+   "id": "c12635",
+   "en": "Hahaha, well, let's just do our shopping for now.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12636",
+   "en": "Thank you so much for today!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12637",
+   "en": "Was my opinion actually any help?",
+   "flags": [],
+   "notes": "Male (boku nanka: modest)."
+  },
+  {
+   "id": "c12638",
+   "en": "Yes, it was a huge help!\nI'm sure Big Bro will be happy too!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12639",
+   "en": "Glad to hear it. Say hi to Ozma-san for me.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12640",
+   "en": "Okay. Well then, I should be heading home now.",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12641",
+   "en": "Okay, see you, then.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12642",
+   "en": "(Ranka really loves her big brother, huh.)",
+   "flags": [],
+   "notes": "Male (oniichanko)."
+  },
+  {
+   "id": "c12643",
+   "en": "(I promised to go shopping with Ranka-chan today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12644",
+   "en": "(She said something like, 'I want to ask\nyour advice about some shopping...'\nI wonder what it's about...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12645",
+   "en": "Ranka-chan's late...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12646",
+   "en": "\\p-chan,\nsorry to keep you waiting!",
+   "flags": [],
+   "notes": "Ranka, female; also frd_rnk_109."
+  },
+  {
+   "id": "c12647",
+   "en": "Don't worry about it at all.\nSo what are we going shopping for today?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12648",
+   "en": "Yes, exactly!!",
+   "flags": [],
+   "notes": "Ranka, female version (answers 'like a toothbrush?')."
+  },
+  {
+   "id": "c12649",
+   "en": "Come to think of it, Ranka-chan, your big brother\nis that overprotective...",
+   "flags": [],
+   "notes": "Female; continues in c12623."
+  },
+  {
+   "id": "c12650",
+   "en": "Ozma-san's a former pilot, right...?\nThen maybe he'd like something manly?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12651",
+   "en": "Huh?! Really?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12652",
+   "en": "Doesn't that just show how much\nhe cares about you, Ranka-chan?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12653",
+   "en": "Well, they do say the more\nyou fight, the closer you are.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12654",
+   "en": "Ahaha, well, let's just do our shopping for now.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12655",
+   "en": "Was my opinion actually any help?",
+   "flags": [],
+   "notes": "Female (watashi nanka: modest)."
+  },
+  {
+   "id": "c12656",
+   "en": "(Ranka-chan really loves her big brother, huh.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12657",
+   "en": "\\p-kun, sorry to keep you waiting.",
+   "flags": [],
+   "notes": "Ranka, male (second visit); also Akimizu in frd_yuu_003/008."
+  },
+  {
+   "id": "c12658",
+   "en": "Okay, let's get going, then.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12659",
+   "en": "Thank you again today!\nYou even carried my bags for me...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12660",
+   "en": "That's no trouble at all.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12661",
+   "en": "Come by Nyan-Nyan sometime.\nI'll make it up to you for today.",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12662",
+   "en": "You really don't have to worry about it.\nBut I'll definitely come eat there.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12663",
+   "en": "Well then, I'll head home for today.\nSee you next time!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c12664",
+   "en": "(Ranka sure is full of energy.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12665",
+   "en": "\\p-chan, sorry to keep you waiting.",
+   "flags": [],
+   "notes": "Ranka, female; also Akimizu in frd_yuu_003/008."
+  },
+  {
+   "id": "c12666",
+   "en": "Yeah, let's get going.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12667",
+   "en": "That's no trouble at all.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12668",
+   "en": "(Ranka-chan sure is full of energy.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c12625/c12650: the player calls Ozma a 'former pilot' (moto pairotto) as the Japanese says, though he is an active S.M.S. pilot in the series; translated literally."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

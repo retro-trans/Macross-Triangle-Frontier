@@ -1,0 +1,388 @@
+{
+ "slice": 222,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c16183",
+   "en": "(Well, I left the house, but now\nI can't decide what to do...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16184",
+   "en": "Oh, \\p, what's up?\nYou look like you've got time to kill.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16185",
+   "en": "You're sharp, Sensei...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16186",
+   "en": "You're young, and look at you. Hopeless.\nSummer's all about the sea and women!\nJust get yourself to the pool or the beach!",
+   "flags": [],
+   "notes": "Shared male/female. Gary says 'the sea and women' to the female player too; she objects in c16195."
+  },
+  {
+   "id": "c16187",
+   "en": "That's pretty extreme, Sensei...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16188",
+   "en": "You idiot!\nThat's what summer's always been about! Go ask Itsuki!",
+   "flags": [],
+   "notes": "Shared male/female. Itsuki = Yamashiro-sensei (Gary uses his given name)."
+  },
+  {
+   "id": "c16189",
+   "en": "...I seriously doubt he'd say the same thing...",
+   "flags": [],
+   "notes": "Male scene. Muttered aside; Gary half-hears it."
+  },
+  {
+   "id": "c16190",
+   "en": "Huh? You say something?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16191",
+   "en": "Nothing at all! Thank you very much!",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16192",
+   "en": "(I bet Sensei spent his summers\nchasing the sea and women...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16193",
+   "en": "(Well, I left the house, but now\nI'm not sure what I should do...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16194",
+   "en": "Sensei, you're kind of sharp...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16195",
+   "en": "Sensei, I'm a girl, you know...\nAnd that's kind of extreme...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16196",
+   "en": "...I really doubt he'd give the same answer...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16197",
+   "en": "Nothing! Thank you very much!",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16198",
+   "en": "(Sensei must have spent his summers with\nthe sea and women. I just know it.)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16199",
+   "en": "(Just a few more days till Sheryl's concert.\nCan't wait~)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16200",
+   "en": "Oh, \\p, what's up?\nWhat's with that big grin on your face?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16201",
+   "en": "Nothing, I was just thinking\nSheryl's concert is coming up soon...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16202",
+   "en": "!?\n...Don't tell me... you're going...?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16203",
+   "en": "Yes, though only as part of the stunt crew...",
+   "flags": [],
+   "notes": "Shared male/female. The player flies stunts at the concert."
+  },
+  {
+   "id": "c16204",
+   "en": "*ahem* Ah, right, I heard something about that...\nYou know, I wouldn't mind going in your place...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16205",
+   "en": "No, well, I mean, I've got better flying skills.\nWhen it comes to stunts, compared to you...",
+   "flags": [],
+   "notes": "Shared male/female. Trails off; the player answers with silence."
+  },
+  {
+   "id": "c16206",
+   "en": "...Yeah, figured as much...\nAlright, off you go! Show 'em the Mihoshi spirit!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16207",
+   "en": "(Gary-sensei... So he wanted to go...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16208",
+   "en": "Yeah, I was just thinking\nSheryl's concert is coming up soon...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16209",
+   "en": "(Gary-sensei... So he really wanted to go...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16210",
+   "en": "(So they've finally found a new planet...)",
+   "flags": [],
+   "notes": "Male scene. hoshi read as the new planet the fleet has found."
+  },
+  {
+   "id": "c16211",
+   "en": "Oh, what's up, \\p?\nYou've got a pretty serious look on your face.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16212",
+   "en": "Gary-sensei...\nWhat do you think about the new planet?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16213",
+   "en": "What do I think...? Nothing much...\nIt's like a new woman. Whether you stick\ntogether or drift apart, it's all fate.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16214",
+   "en": "Huh... It's that simple...?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16215",
+   "en": "Don't overthink it.\nEverything works out the way it's meant to.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16216",
+   "en": "Oh, okay...\nI'm kind of starting to feel that way too.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16217",
+   "en": "That's the spirit. Don't go thinking\nabout stuff you don't need to.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16218",
+   "en": "(Gary-sensei says something good\nonce in a while.)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16219",
+   "en": "(They've finally found a new planet, huh...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16220",
+   "en": "(Maybe Gary-sensei does say something good\nonce in a while.)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16221",
+   "en": "(Whoa~ It's already this late...\nI'd better hurry home...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16222",
+   "en": "Hey~! \\p! *hic*...\nFound you~!! *hic*...",
+   "flags": [],
+   "notes": "Shared male/female. Gary is drunk."
+  },
+  {
+   "id": "c16223",
+   "en": "Huh, Gary-sensei?\n(Ugh, he reeks of booze...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16224",
+   "en": "Shameful... *hic*...\nOut at... *hic*... this hour... *hic*...\nwandering around...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16225",
+   "en": "(Ugh, I can barely tell what he's saying anymore...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16226",
+   "en": "As punishment, you're taking me home~!! *hic*...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16227",
+   "en": "Huh? Come on, I don't even know\nwhere you live in the first place...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16228",
+   "en": "\\p, sorry for the trouble.",
+   "flags": [],
+   "notes": "Shared male/female. Yamashiro apologises on Gary's behalf."
+  },
+  {
+   "id": "c16229",
+   "en": "Yamashiro-sensei?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16230",
+   "en": "I'll take this guy home.\nYou hurry home too.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16231",
+   "en": "(Maybe Gary-sensei can't hold his liquor...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16232",
+   "en": "(Whoa~ It's already this late...\nI've gotta hurry home...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16233",
+   "en": "Huh, Gary-sensei?\n(Eww, he totally smells of booze~...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16234",
+   "en": "(Hmm, I can't even tell what he's saying anymore...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16235",
+   "en": "Huh, seriously? I don't even know\nwhere you live in the first place...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16236",
+   "en": "Okay, I'll leave him to you.",
+   "flags": [],
+   "notes": "Female scene. yoroshiku onegaishimasu: handing Gary over to Yamashiro."
+  },
+  {
+   "id": "c16237",
+   "en": "(I can't believe the city... ended up like this...)",
+   "flags": [],
+   "notes": "Shared male/female. After an attack on the city."
+  },
+  {
+   "id": "c16238",
+   "en": "Shit!",
+   "flags": [],
+   "notes": "Shared male/female. kusoga: kept at full strength."
+  },
+  {
+   "id": "c16239",
+   "en": "I was... I was right here,\nand it happened again...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16240",
+   "en": "No more... I won't let them do any more...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16241",
+   "en": "Listen. You'd better take this to heart too.\nThis is a fight where it's live or die...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16242",
+   "en": "...Yes...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16243",
+   "en": "(Being a military pilot too,\nthis must be hard on him...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16244",
+   "en": "(Being a military pilot too,\nthis must be really hard on him...)",
+   "flags": [],
+   "notes": "Female scene."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c16210/c16219/c16212: atarashii hoshi read as 'the new planet' the fleet has found (not a star).",
+   "c16238: kusoga rendered 'Shit!' (full strength, Gary's rough speech)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

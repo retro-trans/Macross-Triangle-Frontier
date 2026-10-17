@@ -1,0 +1,506 @@
+{
+ "slice": 164,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c11983",
+   "en": "(Pinon-chan asked me to help her with something,\nbut what could it be?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11984",
+   "en": "You got here before me? So you can do it\nwhen you try. I'm counting on you today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11985",
+   "en": "I don't mind helping, but...\nwhat exactly do you need help with?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11986",
+   "en": "Oh, didn't I tell you what it was about?\nThe truth is, I want you to help me train\nwith tongue twisters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11987",
+   "en": "Tongue-twister training?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11988",
+   "en": "Indeed. A good operator needs clear diction\nso that orders get across.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11989",
+   "en": "So I want to practice tongue twisters\nfor that, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11990",
+   "en": "I don't really know many tongue twisters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11991",
+   "en": "So I thought I'd have you give me some to try.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11992",
+   "en": "I see.\nOkay, got it.\nThen let's start the training right away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11993",
+   "en": "Okay, I'll start with an easy one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11994",
+   "en": "Right! Bring it on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11995",
+   "en": "Say the title of Sheryl's fourth single,\n\"What 'bout my star?\",\nthree times in a row.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11996",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11997",
+   "en": "What 'bout my star!\nWhat 'bout my star!\nWhat 'bout my st-nyaaa~!!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The Japanese garbles the last 'star' (sutaa) into 'su-nyaa'; rendered 'st-nyaaa~'."
+  },
+  {
+   "id": "c11998",
+   "en": "...Hm?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11999",
+   "en": "Yes! Perfect!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12000",
+   "en": "...Um, at the end you said 'st-nyaaa~'...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12001",
+   "en": "I didn't flub it!\nYou just weren't listening properly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12002",
+   "en": "Huh... W-was that how it went...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12003",
+   "en": "Honestly... You're hopeless.\nThen give me a harder tongue twister.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12004",
+   "en": "Okay, next is:\n\"Gubaba hop-hop, three hop-hops,\nadd 'em up, hop-hop, six hop-hops.\"",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Parody of the classic Japanese twister 'kaeru pyoko pyoko mi pyoko pyoko, awasete pyoko pyoko mu pyoko pyoko' with Gubaba in place of the frog; translated literally so Pinon's flub on the first word (c12006) still works."
+  },
+  {
+   "id": "c12005",
+   "en": "Got it. Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12006",
+   "en": "..........................................\n.............................Gubyabya!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pinon flubs the very first word, Gubaba, after a long pause (Japanese 'gubyabya')."
+  },
+  {
+   "id": "c12007",
+   "en": "(Huh?! She flubs it THERE?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12008",
+   "en": "...I flubbed it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12009",
+   "en": "(And now she's crying!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12010",
+   "en": "P-Pinon-chan!\nI'll treat you to ice cream! See? Hippo-cow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12011",
+   "en": "(Then again, there's no way she'd stop crying\nover something like that...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12012",
+   "en": "Huh?! Really?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12013",
+   "en": "(Sh-she stopped crying?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12014",
+   "en": "Then it's decided! Let's hurry to Folmo!\nCome on, come on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12015",
+   "en": "Don't rush so much, Pinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12016",
+   "en": "(In the end, it didn't turn into tongue-twister\ntraining at all... Is that okay...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12017",
+   "en": "(Well, Pinon-chan ended up happy,\nso I guess this works too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12018",
+   "en": "(Pinon-chan asked me to help her with something,\nbut what could it be?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12019",
+   "en": "I see.\nOkay, got it.\nThen let's start the training right away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12020",
+   "en": "(Then again, there's no way she'd stop crying\nover something like that...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12021",
+   "en": "(In the end, it didn't turn into tongue-twister\ntraining at all... Is that okay...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12022",
+   "en": "(Well, Pinon-chan ended up happy,\nso I guess this works too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12023",
+   "en": "(I'm helping Pinon-chan with her tongue-twister\ntraining again today, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12024",
+   "en": "(No matter how many times she practices,\nshe flubs it in the same spot...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12025",
+   "en": "Th-that one was perfect, right?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12026",
+   "en": "No, you flubbed it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12027",
+   "en": "That can't be!\nYou misheard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12028",
+   "en": "(Even though she flubbed it that obviously...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12029",
+   "en": "...Pinon-chan,\nyou've practiced hard enough today. Why don't\nwe go to Folmo and get some soft serve?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12030",
+   "en": "Hey, \\p...\nYou're not trying to change the subject, are you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12031",
+   "en": "Y-you're imagining things.\nCome on, let's hurry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12032",
+   "en": "(Well, an operator who flubs her lines now and then\nlike Pinon-chan isn't so bad...\nProbably......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12033",
+   "en": "(No matter how many times she practices,\nshe flubs it in the same spot...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12034",
+   "en": "No, you flubbed it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12035",
+   "en": "...Pinon-chan,\nyou've practiced hard enough today. Why don't\nwe go to Folmo and get some soft serve?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12036",
+   "en": "Y-you're imagining things.\nCome on, let's hurry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12037",
+   "en": "(Well, an operator who flubs her lines now and then\nlike Pinon-chan isn't so bad...\nProbably......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12038",
+   "en": "(Pinon-chan asked me to help her with something\nagain, but what could it be?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12039",
+   "en": "(I bet it's helping her with some kind\nof training again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12040",
+   "en": "\\p.\nSorry I kept you waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12041",
+   "en": "Hey, Pinon-chan.\nI just got here myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12042",
+   "en": "I see. Then there's no problem.\nLet's go, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12043",
+   "en": "Umm... Go where?\nYou haven't told me what I'm helping with\nthis time either...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12044",
+   "en": "Hm, now that you mention it, I haven't...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12045",
+   "en": "W-well, um, today...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12046",
+   "en": "I want you to help me with swimming practice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12047",
+   "en": "Swimming?\nSo does that mean, Pinon-chan, you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12048",
+   "en": "S-so what if it does?! I can't swim!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12049",
+   "en": "(I can't believe Pinon-chan can't swim...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12050",
+   "en": "(No, actually, it's just what I expected...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12051",
+   "en": "S-sorry I kept you waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12052",
+   "en": "Okay then, swimming practice...\nHuh? Pinon-chan,\nare you okay without your glasses?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12053",
+   "en": "Well, I can't exactly wear glasses in the pool.\nAnd you're here, so I'll probably be fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12054",
+   "en": "Hm? \\p... It is you, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12055",
+   "en": "...Are you really okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12056",
+   "en": "I-I'm fine!\nIt was just a little hard to see, that's all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12057",
+   "en": "But you can't tell who I am unless you get\nthis close, right? I knew it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12058",
+   "en": "You're worrying way too much!\nHmm?! Are you treating me like a child?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12059",
+   "en": "That's not what I mean...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12060",
+   "en": "If I say I'm fine, then I'm fine!\nHonestly...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12061",
+   "en": "Ah! Watch out, Pinon-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12062",
+   "en": "Huh? Hyaah!!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c11995: Sheryl's single title written in full-width letters in the source, rendered as plain ASCII \"What 'bout my star?\" (not in the glossary songs list).",
+   "c11997/c12000: Pinon's flub on the last 'star' (su-nyaa) rendered 'st-nyaaa~'.",
+   "c12004/c12006: Gubaba version of the frog tongue twister translated literally ('Gubaba hop-hop, three hop-hops...') so that the flub 'Gubyabya!' on the first word still lands; not an English tongue twister.",
+   "kamu (to flub / trip over one's words) rendered 'flub' throughout."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "What 'bout my star? (Sheryl's fourth single, per c11995)"
+  ],
+  "unfinished": []
+ }
+}

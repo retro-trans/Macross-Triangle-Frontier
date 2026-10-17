@@ -1,0 +1,414 @@
+{
+ "slice": 161,
+ "rows_in_slice": 66,
+ "rows_examined": 66,
+ "rows": [
+  {
+   "id": "c11794",
+   "en": "Yeah, you'd never think we're in the middle of space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11795",
+   "en": "I wore my swimsuit under my clothes, so I could\njust change behind a tree or something...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11796",
+   "en": "We both came prepared!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11797",
+   "en": "Okay, we're both changed,\nso let's have all the fun we can!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11798",
+   "en": "(I lost all track of time playing...\nBut it was so much fun~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11799",
+   "en": "(All right, it's the artificial island\nwith Nanase again today!)",
+   "flags": [],
+   "notes": "Source ends with a newline plus a full-width space (an empty second line); dropped, the English breaks naturally."
+  },
+  {
+   "id": "c11800",
+   "en": "Okay, \\p-kun,\nshall we head right out?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11801",
+   "en": "Oh, you're all fired up again today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11802",
+   "en": "Huh?! I-I'm not...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11803",
+   "en": "Haah~ The sea really does feel great!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11804",
+   "en": "Yeah. It's weird to have a sea out\nin the middle of space, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11805",
+   "en": "It is. But when you look at it like this,\nit really looks just like the real thing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11806",
+   "en": "You said it!\nWell, let's play a little longer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11807",
+   "en": "(Man, I really played my heart out!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11808",
+   "en": "(All right, it's the artificial island\nwith Nanase again today!)",
+   "flags": [],
+   "notes": "Source ends with a newline plus a full-width space (an empty second line); dropped."
+  },
+  {
+   "id": "c11809",
+   "en": "Okay, \\p-san,\nshall we head right out?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11810",
+   "en": "Oh, looks like you're all fired up again today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11811",
+   "en": "Yeah. It's weird to have a sea out\nin the middle of space, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11812",
+   "en": "You said it!\nOkay, let's play a little longer!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11813",
+   "en": "(Phew~ I really played my heart out!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11814",
+   "en": "(Class is over, so maybe I'll peek\ninto the art room.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11815",
+   "en": "Oh, \\p-kun.\nI was just about to take a break.\nWould you like to join me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11816",
+   "en": "Well then, I'll gladly take you up on it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11817",
+   "en": "Phew~ The Chinese tea you make really is\ndelicious, Nanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11818",
+   "en": "Huh? But I made black tea today...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11819",
+   "en": "Huh? Really? Man, that's embarrassing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11820",
+   "en": "Hee hee, I'm just kidding.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11821",
+   "en": "You got me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11822",
+   "en": "But it's rare for you to crack a joke, Nanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11823",
+   "en": "Huh? It's not that rare... I think...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11824",
+   "en": "Well, it's not like there's anything weird about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11825",
+   "en": "...If it is rare...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11826",
+   "en": "If it is rare,\nmaybe it's because it's you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11827",
+   "en": "Huh? What do you mean?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11828",
+   "en": "Well, it's like I can talk to you without feeling\nself-conscious... Like I can just talk naturally...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11829",
+   "en": "I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11830",
+   "en": "Of course, I can talk normally with\nSaotome-kun and Michel-kun too, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11831",
+   "en": "Hmm~ Is that so?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11832",
+   "en": "Because it's you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11833",
+   "en": "Oh, no, it's nothing.\nCome on, drink your tea before it gets cold!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11834",
+   "en": "Okay then, let me try that again.\nThanks for the tea!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11835",
+   "en": "(I wonder what Nanase was going to say?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11836",
+   "en": "(Class is over, so I'll go peek\ninto the art room.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11837",
+   "en": "Oh, \\p-san.\nI was just about to take a break.\nWould you like to join me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11838",
+   "en": "Sure, I'll gladly have some~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11839",
+   "en": "Phew~ The Chinese tea you make really is\ndelicious, Nanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11840",
+   "en": "Huh? It's not? That's weird...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11841",
+   "en": "Geez...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11842",
+   "en": "But it's kind of rare for you to crack a joke,\nNanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11843",
+   "en": "Well, it's not like there's anything weird about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11844",
+   "en": "Like, you're easy to talk to,\nor, how do I put it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11845",
+   "en": "Hmm~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11846",
+   "en": "Of course, I can talk normally with Ranka-san\nand the kids in the art department too,\nbut this feels a little different.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11847",
+   "en": "Okay then, let me try that again.\nThanks for the tea~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11848",
+   "en": "(I wonder what Nanase was trying to say?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11849",
+   "en": "Oh, \\p-kun.\nWelcome! I'll make some more tea.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11850",
+   "en": "Thanks.\nSorry, it's like I came here asking for it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11851",
+   "en": "Huh? You mean you didn't?\nJust kidding.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11852",
+   "en": "Phew.\nYour tea really is delicious, Nanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11853",
+   "en": "Honestly, tea is all I can offer, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11854",
+   "en": "That's too bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11855",
+   "en": "(Spending time with Nanase in the art room\nis so relaxing.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11856",
+   "en": "Oh, \\p-san.\nWelcome! I'll make some more tea.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11857",
+   "en": "Thanks.\nSorry, it's like I came here asking for it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11858",
+   "en": "Haah.\nYour tea really is delicious, Nanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c11859",
+   "en": "That's too bad.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c11825/c11826: dato shitara read as 'if it really is rare (that I joke)', picking up the player's remark two rows earlier; rendered 'If it is rare...'.",
+   "c11840 (female): the player answers Nanase's 'I made black tea today' with 'Huh? It's not? That's weird...' (Japanese 'are? sou? okashii naa'), matching the male 'Really? Man, that's embarrassing'.",
+   "c11846: bijutsuka rendered as 'the kids in the art department' (not the glossary Art Course term geijutsuka, which is a different word).",
+   "c11799/c11808: the source's trailing empty line (newline + full-width space) was dropped."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,511 @@
+{
+ "slice": 75,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c05541",
+   "en": "Well, I was wondering if you'd want to go out\nto the artificial island with me this weekend...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05542",
+   "en": "The artificial island...?\nWhy would I go somewhere like that with you...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05543",
+   "en": "Now if you were some cute girlie,\nthat'd be another story...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05544",
+   "en": "(...Figures...)",
+   "flags": [],
+   "notes": "Male only; shared with Hilda invitation scenes (frd_hld_101-106)."
+  },
+  {
+   "id": "c05545",
+   "en": "Yes, I was wondering if you'd want to go out\nto the artificial island with me this weekend...",
+   "flags": [],
+   "notes": "Female (Gary); also male in frd_hld_106. Neutral."
+  },
+  {
+   "id": "c05546",
+   "en": "Now if you were a grown-up babe with a nice bod,\nthat'd be another story...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05547",
+   "en": "(Jeez! How rude!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05548",
+   "en": "Well, I was wondering if you'd want to go\nto \"199\" with me this weekend...",
+   "flags": [],
+   "notes": "Male only. Shop name in double quotes, as in earlier slices."
+  },
+  {
+   "id": "c05549",
+   "en": "\"199\"...?\nWhy would I go somewhere like that with you...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05550",
+   "en": "Yes, I was wondering if you'd want to go\nto \"199\" with me this weekend...",
+   "flags": [],
+   "notes": "Female (Gary); also male in frd_hld_105. Neutral."
+  },
+  {
+   "id": "c05551",
+   "en": "Well, I was wondering if you'd want to go see\nthe Battle Frontier with me this weekend...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05552",
+   "en": "Yes, I was wondering if you'd want to go see\nthe Battle Frontier with me this weekend...",
+   "flags": [],
+   "notes": "Female (Gary); both genders in frd_hld_108. Neutral."
+  },
+  {
+   "id": "c05553",
+   "en": "(Okay, that's it for classes...\nMaybe I'll try talking to Gary-sensei...)",
+   "flags": [],
+   "notes": "Male only (frd_gry_109/111/113)."
+  },
+  {
+   "id": "c05554",
+   "en": "Excuse me, Gary-sensei, are you free after this?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05555",
+   "en": "Hm, it's \\p, huh?\nSorry, after this I've got a thing with some ladies...\ny'know...",
+   "flags": [],
+   "notes": "Both genders. 'oneechan-tachi' = 'some ladies'."
+  },
+  {
+   "id": "c05556",
+   "en": "So yeah, that's how it is.\nDon't let this put you off. Ask me again sometime.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05557",
+   "en": "Okay. Sorry to bother you.",
+   "flags": [],
+   "notes": "Shared by Gary and Hilda scenes, both genders; neutral."
+  },
+  {
+   "id": "c05558",
+   "en": "(A thing with some ladies...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05559",
+   "en": "(Okay, that's it for classes...\nMaybe I'll try talking to Gary-sensei...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05560",
+   "en": "Some ladies...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05561",
+   "en": "(A thing with some ladies... Jeez!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05562",
+   "en": "(Now, my plans for this weekend...\nMaybe I'll invite Gary-sensei to Griffith Park...\nHow about that?)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05563",
+   "en": "Hm, it's \\p. What's up?",
+   "flags": [],
+   "notes": "Shared by Gary and Hilda invitation scenes; neutral."
+  },
+  {
+   "id": "c05564",
+   "en": "Yes, I was thinking maybe we could spend\nthis weekend together at Griffith Park...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05565",
+   "en": "Griffith Park...\nHmm, well, a place like that might be nice\nonce in a while, but...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05566",
+   "en": "Oh, then...",
+   "flags": [],
+   "notes": "Both genders (frd_gry_110/114)."
+  },
+  {
+   "id": "c05567",
+   "en": "Ahh, but dang it...\nThis weekend I've... kinda got a thing...",
+   "flags": [],
+   "notes": "Both genders (frd_gry_110/114/115/116)."
+  },
+  {
+   "id": "c05568",
+   "en": "Oh, I see. Sorry to bother you.",
+   "flags": [],
+   "notes": "Shared by Gary and Hilda scenes; neutral."
+  },
+  {
+   "id": "c05569",
+   "en": "(Well, maybe next time...)",
+   "flags": [],
+   "notes": "Male only; Gary and Hilda scenes."
+  },
+  {
+   "id": "c05570",
+   "en": "(Now, my plans for this weekend...\nMaybe I'll invite Gary-sensei to Griffith Park...\nHow does that sound?)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05571",
+   "en": "(Well, maybe... next time...)",
+   "flags": [],
+   "notes": "Female only; Gary and Hilda scenes."
+  },
+  {
+   "id": "c05572",
+   "en": "(Now, my plans for this weekend...\nMaybe I'll invite Gary-sensei to a concert\nat the Sky Gate...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05573",
+   "en": "Yes, I was thinking maybe we could go\nto a concert at the Sky Gate this weekend...",
+   "flags": [],
+   "notes": "Both genders; also frd_hld_114. Neutral."
+  },
+  {
+   "id": "c05574",
+   "en": "A concert, huh... Not bad...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05575",
+   "en": "So, then...",
+   "flags": [],
+   "notes": "Shared by Gary and Hilda scenes; neutral."
+  },
+  {
+   "id": "c05576",
+   "en": "But... this weekend's concert is\n\"Kiichiro Tokugawa,\" right...\nI've got zero interest in that...",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Both genders. Singer name not in the glossary; romanized, given name first."
+  },
+  {
+   "id": "c05577",
+   "en": "(Yeah, enka was probably asking too much...)",
+   "flags": [],
+   "notes": "Male only. Enka: the singer is evidently an enka act."
+  },
+  {
+   "id": "c05578",
+   "en": "(Enka was a no-go after all...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05579",
+   "en": "(Now, my plans for this weekend...\nMaybe I'll invite Gary-sensei shopping\nin Deep Akihabara...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Both genders. Deep Akihabara is provisional in the glossary."
+  },
+  {
+   "id": "c05580",
+   "en": "Yes, I was thinking maybe we could go\nshopping in Deep Akihabara this weekend...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Both genders. Deep Akihabara provisional."
+  },
+  {
+   "id": "c05581",
+   "en": "Deep Akihabara, huh...\nNot bad at all. It's a place you never get tired of...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Both genders. Deep Akihabara provisional."
+  },
+  {
+   "id": "c05582",
+   "en": "(Now, my plans for this weekend...\nMaybe I'll invite Gary-sensei to Nyan-Nyan...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05583",
+   "en": "Yes, I was thinking maybe we could\ngrab a meal at Nyan-Nyan this weekend...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05584",
+   "en": "What? You trying to mooch off me?\nWell, I guess that's not so bad once in a while...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05585",
+   "en": "(Now, my plans for this weekend...\nMaybe the artificial island with Gary-sensei...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05586",
+   "en": "Yes, I was wondering, how about\nthe artificial island this weekend...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05587",
+   "en": "Oh~!\nYou're starting to get it! That's right,\non your days off, it's vacation, full blast!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05588",
+   "en": "Come out right now, or I'll shear the mane\noff that precious horse of yours!",
+   "flags": [],
+   "notes": "Hilda (frd_gyr_009/010); same line as c05502 without the break."
+  },
+  {
+   "id": "c05589",
+   "en": "(It's nice to talk with a teacher once in a while...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05590",
+   "en": "Hey, \\p. Sorry to keep you waiting.",
+   "flags": [],
+   "notes": "Hilda, many scenes; neutral."
+  },
+  {
+   "id": "c05591",
+   "en": "No, I just got here.",
+   "flags": [],
+   "notes": "Shared by several Hilda scenes; neutral."
+  },
+  {
+   "id": "c05592",
+   "en": "I see. Then let's get started right away.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05593",
+   "en": "What?! Get started with what...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05594",
+   "en": "Asking me to coach your 'self-training.'\nThat's the right attitude. No time to dawdle.\nWe'll start with stretches.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05595",
+   "en": "Uh... um...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05596",
+   "en": "Don't 'uh, um' me!\nWhere's your answer?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05597",
+   "en": "Good, that's an answer!\nFirst, loosen up properly. If your body isn't\nwarmed up, it's easy to get hurt.",
+   "flags": [],
+   "notes": "Both genders. The player's reply is off-screen."
+  },
+  {
+   "id": "c05598",
+   "en": "Listen, the basic rule of stretching is 'Hurts-Good.'\nRemember that. Bend to where it only 'hurts'\nand all you'll do is injure yourself.",
+   "flags": [],
+   "notes": "Both genders. 'itakimo' (itai + kimochii) rendered 'Hurts-Good'."
+  },
+  {
+   "id": "c05599",
+   "en": "'It hurts, but it feels good.' Stay within that\nand gradually widen your joints' range of motion.\nGot it?!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05600",
+   "en": "Yes, understood.\nHup...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05601",
+   "en": "What, are you playing around?\nCome on, reach! You can bend further than that!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05602",
+   "en": "Ah, Hilda-sensei, it hurts! I can't!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05603",
+   "en": "Don't be ridiculous!\nThis doesn't even count as stretching!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05604",
+   "en": "(Didn't she say 'Hurts-Good' a minute ago...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05605",
+   "en": "Ow ow ow... everything hurts...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05606",
+   "en": "Alright, that's probably enough stretching.\nNext, running. Twenty laps of the schoolyard!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05607",
+   "en": "Wh... Twenty laps...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05608",
+   "en": "And when that's done, it's strength training!\nNo dawdling. Focus on how your muscles move!\nGo on, get running!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05609",
+   "en": "(...N-no way...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05610",
+   "en": "Alright, let's call it a day.\nBut are you even taking my classes seriously?\nHonestly, I dread to think what's ahead...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05611",
+   "en": "Yes, from now on I'll focus and work hard in class!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05612",
+   "en": "Mm. Good answer. See you.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05613",
+   "en": "(Phew, never thought it'd turn out like this...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05614",
+   "en": "(It's nice to talk with a teacher once in a while...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05615",
+   "en": "No, I only just got here, so...",
+   "flags": [],
+   "notes": "Female in several Hilda scenes; male in frd_hld_007. Neutral."
+  },
+  {
+   "id": "c05616",
+   "en": "Yes, understood.\nHeave-ho...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05617",
+   "en": "Ah, Hilda-sensei, it... kinda hurts! I can't!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05618",
+   "en": "(She said 'Hurts-Good' just a minute ago...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05619",
+   "en": "Owww... my whole body hurts...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05620",
+   "en": "Um... twenty laps...",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c05576: the singer's name (Tokugawa Kiichirou, in quotes) is not in the glossary; written \"Kiichiro Tokugawa\", given name first. The next line (c05577) calls the act enka.",
+   "c05598/c05599/c05604/c05618: Hilda's stretching rule 'itakimo' (itai-kedo-kimochii, 'hurts but feels good') rendered 'Hurts-Good' and kept the same in the player's monologue.",
+   "c05596: 'henji wa dou shita?' (where is your reply?) rendered 'Where's your answer?'; the player's reply is not shown (c05597 'yoshi, ii henji da').",
+   "c05555/c05558/c05560/c05561: Gary's 'oneechan-tachi' rendered 'some ladies' and echoed by the player.",
+   "c05579-c05581: Deep Akihabara is 'provisional' in the glossary.",
+   "c05575 ('e, sore jaa') rendered 'So, then...' and c05566 ('a, sore jaa') 'Oh, then...' to keep the two apart."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Kiichiro Tokugawa (Tokugawa Kiichirou, enka singer named in frd_gry_112)",
+   "\"199\" (shop) is not in the glossary; written as in earlier campus slices."
+  ],
+  "unfinished": []
+ }
+}

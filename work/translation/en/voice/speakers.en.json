@@ -1,0 +1,643 @@
+{
+ "_meta": {
+  "about": "Who speaks each voice prefix (data/sound/voice/<prefix>/). From MUF and AF, plus the TF speakers."
+ },
+ "speakers": {
+  "o0_of0": {
+   "name": "Yuu Akimizu",
+   "series": "MUF original",
+   "role": "operator (player's choice)",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "polite, -desu/-masu"
+  },
+  "o0_of1": {
+   "name": "Claire Stanford",
+   "series": "MUF original",
+   "role": "operator",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "cool, mature"
+  },
+  "o0_of2": {
+   "name": "Pinon Colette",
+   "series": "MUF original",
+   "role": "operator",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "bossy, tomboyish (-zo, -da)"
+  },
+  "o0_om0": {
+   "name": "Itsuki Yamashiro",
+   "series": "MUF original",
+   "role": "operator",
+   "gender": "male",
+   "confidence": "high",
+   "manner": "brisk, commanding"
+  },
+  "o7_exd": {
+   "name": "Exsedol Folmo",
+   "series": "Macross 7",
+   "role": "operator (player's choice)",
+   "gender": "male",
+   "confidence": "high",
+   "manner": "elderly Zentradi scholar, calm and formal"
+  },
+  "of_ktr": {
+   "name": "Catherine Glass",
+   "series": "Macross Frontier",
+   "role": "operator (player's choice)",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "N.U.N.S. lieutenant, crisp and proper"
+  },
+  "os_mis": {
+   "name": "Misa Hayase",
+   "series": "SDF Macross",
+   "role": "operator",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "officer, crisp"
+  },
+  "p0_of0": {
+   "name": "Miyuki Shirakawa",
+   "series": "MUF original",
+   "role": "custom pilot",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "p0_of1": {
+   "name": "Hilda V. Bergen",
+   "series": "MUF original",
+   "role": "custom pilot",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "p0_of2": {
+   "name": "Yui Hoshimura",
+   "series": "MUF original",
+   "role": "custom pilot",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "p0_om0": {
+   "name": "Yuuto Kagura",
+   "series": "MUF original",
+   "role": "custom pilot (player or partner)",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "p0_om1": {
+   "name": "Gary Murdoch",
+   "series": "MUF original",
+   "role": "custom pilot",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "p0_om2": {
+   "name": "Luis Fernando",
+   "series": "MUF original",
+   "role": "custom pilot",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "p2_hbk": {
+   "name": "Hibiki Kanzaki",
+   "series": "Macross II",
+   "role": "pilot / reporter",
+   "gender": "male",
+   "confidence": "high",
+   "manner": "brash young reporter"
+  },
+  "p2_ish": {
+   "name": "Ishtar",
+   "series": "Macross II",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "p2_slv": {
+   "name": "Silvie Gena",
+   "series": "Macross II",
+   "role": "pilot (Metal Siren)",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "proud ace, blunt"
+  },
+  "p7_exd": {
+   "name": "Exsedol Folmo",
+   "series": "Macross 7",
+   "role": "pilot lines (4 clips)",
+   "gender": "male",
+   "confidence": "medium",
+   "manner": "elderly Zentradi scholar, calm and formal"
+  },
+  "p7_gam": {
+   "name": "Gamlin Kizaki",
+   "series": "Macross 7",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "p7_mac": {
+   "name": "Maximilian Jenius",
+   "series": "Macross 7",
+   "role": "variant with the same lines",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "p7_max": {
+   "name": "Maximilian Jenius",
+   "series": "Macross 7",
+   "role": "flying his Valkyrie",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "p7_mil": {
+   "name": "Milia Fallyna Jenius",
+   "series": "Macross 7",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "p7_mjc": {
+   "name": "Maximilian Jenius",
+   "series": "Macross 7",
+   "role": "commanding Battle 7 (the ship)",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "p7_mln": {
+   "name": "Mylene Flare Jenius",
+   "series": "Macross 7",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "p7_nkb": {
+   "name": "Basara Nekki",
+   "series": "Macross 7",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "p7_ray": {
+   "name": "Ray Lovelock",
+   "series": "Macross 7",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "p7_vef": {
+   "name": "Veffidas Feaze",
+   "series": "Macross 7",
+   "gender": "female",
+   "confidence": "high",
+   "note": "never speaks; her clips are drum or effect sounds"
+  },
+  "p__fv0": {
+   "name": "Academy player (female voice 1)",
+   "series": "TF original",
+   "role": "the Academy-created player character, voice type 1",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "student pilot; the player's own voice"
+  },
+  "p__fv1": {
+   "name": "Academy player (female voice 2)",
+   "series": "TF original",
+   "role": "the Academy-created player character, voice type 2",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "student pilot; the player's own voice"
+  },
+  "p__fv2": {
+   "name": "Academy player (female voice 3)",
+   "series": "TF original",
+   "role": "the Academy-created player character, voice type 3",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "student pilot; the player's own voice"
+  },
+  "p__mv0": {
+   "name": "Academy player (male voice 1)",
+   "series": "TF original",
+   "role": "the Academy-created player character, voice type 1",
+   "gender": "male",
+   "confidence": "high",
+   "manner": "student pilot; the player's own voice"
+  },
+  "p__mv1": {
+   "name": "Academy player (male voice 2)",
+   "series": "TF original",
+   "role": "the Academy-created player character, voice type 2",
+   "gender": "male",
+   "confidence": "high",
+   "manner": "student pilot; the player's own voice"
+  },
+  "p__mv2": {
+   "name": "Academy player (male voice 3)",
+   "series": "TF original",
+   "role": "the Academy-created player character, voice type 3",
+   "gender": "male",
+   "confidence": "high",
+   "manner": "student pilot; the player's own voice"
+  },
+  "pa_roy": {
+   "name": "Roy Focker",
+   "series": "Macross Zero",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pa_sar": {
+   "name": "Sara Nome",
+   "series": "Macross Zero",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "pa_sin": {
+   "name": "Shin Kudo",
+   "series": "Macross Zero",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pa_snt": {
+   "name": "Sara Nome",
+   "series": "Macross Zero",
+   "role": "as the Mayan wind priestess; some clips are silent or Mayan words (Kadun, Karun)",
+   "gender": "female",
+   "confidence": "medium"
+  },
+  "pd_ggl": {
+   "name": "Gigile",
+   "series": "Macross 7",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pd_gpr": {
+   "name": "Gepelnitchi",
+   "series": "Macross 7",
+   "gender": "male",
+   "confidence": "medium",
+   "note": "processed voice; Whisper fails on many clips"
+  },
+  "pd_gvl": {
+   "name": "Gavil",
+   "series": "Macross 7",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pd_svl": {
+   "name": "Sivil",
+   "series": "Macross 7",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "pf_alt": {
+   "name": "Alto Saotome",
+   "series": "Macross Frontier",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pf_blr": {
+   "name": "Brera Sterne",
+   "series": "Macross Frontier",
+   "role": "pilot",
+   "gender": "male",
+   "confidence": "high",
+   "manner": "cold, terse"
+  },
+  "pf_bob": {
+   "name": "Bobby Margot",
+   "series": "Macross Frontier",
+   "role": "Macross Quarter helmsman",
+   "gender": "male",
+   "confidence": "high",
+   "manner": "flamboyant, feminine speech (onee-kotoba)"
+  },
+  "pf_cnr": {
+   "name": "Canaria Berstein",
+   "series": "Macross Frontier",
+   "role": "pilot (VB-6 Konig Monster)",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "calm veteran"
+  },
+  "pf_jef": {
+   "name": "Jeffrey Wilder",
+   "series": "Macross Frontier",
+   "role": "flying a Valkyrie",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pf_jwc": {
+   "name": "Jeffrey Wilder",
+   "series": "Macross Frontier",
+   "role": "commanding the Macross Quarter",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pf_klm": {
+   "name": "Klan Klang",
+   "series": "Macross Frontier",
+   "role": "micronized",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "pf_kln": {
+   "name": "Klan Klang",
+   "series": "Macross Frontier",
+   "role": "Meltrandi size",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "pf_luk": {
+   "name": "Luca Angeloni",
+   "series": "Macross Frontier",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pf_mcl": {
+   "name": "Michael Blanc",
+   "series": "Macross Frontier",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pf_nns": {
+   "name": "Nanase Matsuura",
+   "series": "Macross Frontier",
+   "role": "pilot",
+   "gender": "female",
+   "confidence": "high",
+   "manner": "polite, gentle"
+  },
+  "pf_ozm": {
+   "name": "Ozma Lee",
+   "series": "Macross Frontier",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pf_ply": {
+   "name": "(unknown, 3 clips)",
+   "series": "Macross Frontier",
+   "role": "check the transcripts",
+   "gender": "",
+   "confidence": "low",
+   "manner": ""
+  },
+  "pf_rl0": {
+   "name": "Ranka Lee",
+   "series": "Macross Frontier",
+   "role": "variant (2 clips)",
+   "gender": "female",
+   "confidence": "medium"
+  },
+  "pf_rl1": {
+   "name": "Ranka Lee",
+   "series": "Macross Frontier",
+   "role": "variant (2 clips)",
+   "gender": "female",
+   "confidence": "medium"
+  },
+  "pf_rl2": {
+   "name": "Ranka Lee",
+   "series": "Macross Frontier",
+   "role": "variant (2 clips)",
+   "gender": "female",
+   "confidence": "medium"
+  },
+  "pf_rnk": {
+   "name": "Ranka Lee",
+   "series": "Macross Frontier",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "pf_she": {
+   "name": "Sheryl Nome",
+   "series": "Macross Frontier",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "pf_sn0": {
+   "name": "Sheryl Nome",
+   "series": "Macross Frontier",
+   "role": "variant (2 clips)",
+   "gender": "female",
+   "confidence": "medium"
+  },
+  "pf_sn1": {
+   "name": "Sheryl Nome",
+   "series": "Macross Frontier",
+   "role": "variant (2 clips)",
+   "gender": "female",
+   "confidence": "medium"
+  },
+  "pg_elm": {
+   "name": "Elma Hoilie",
+   "series": "Macross Dynamite 7",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "pg_ghh": {
+   "name": "Graham Hoilie",
+   "series": "Macross Dynamite 7",
+   "role": "variant with the same script as pg_grh (no portrait file)",
+   "gender": "male",
+   "confidence": "medium"
+  },
+  "pg_grh": {
+   "name": "Graham Hoilie",
+   "series": "Macross Dynamite 7",
+   "gender": "male",
+   "confidence": "medium"
+  },
+  "ph_ddi": {
+   "name": "D.D. Ivanov",
+   "series": "Macross Zero",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "ph_nor": {
+   "name": "Nora Polyansky",
+   "series": "Macross Zero",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "pi_max": {
+   "name": "Maximilian Jenius",
+   "series": "Macross: Do You Remember Love?",
+   "gender": "male",
+   "confidence": "medium"
+  },
+  "pp_ism": {
+   "name": "Isamu Alva Dyson",
+   "series": "Macross Plus",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pp_myu": {
+   "name": "Myung Fang Lone",
+   "series": "Macross Plus",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "ps_hik": {
+   "name": "Hikaru Ichijyo",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "ps_hyo": {
+   "name": "Hayao Kakizaki",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "ps_lmc": {
+   "name": "Lynn Minmay",
+   "series": "SDF Macross",
+   "role": "variant (2 clips)",
+   "gender": "female",
+   "confidence": "medium"
+  },
+  "ps_lmm": {
+   "name": "Lynn Minmay",
+   "series": "SDF Macross",
+   "role": "variant (2 clips)",
+   "gender": "female",
+   "confidence": "medium"
+  },
+  "ps_lmn": {
+   "name": "Lynn Minmay",
+   "series": "SDF Macross",
+   "role": "variant (2 clips)",
+   "gender": "female",
+   "confidence": "medium"
+  },
+  "ps_lms": {
+   "name": "Lynn Minmay",
+   "series": "SDF Macross",
+   "role": "variant (2 clips)",
+   "gender": "female",
+   "confidence": "medium"
+  },
+  "ps_lmy": {
+   "name": "Lynn Minmay",
+   "series": "SDF Macross",
+   "role": "variant (2 clips)",
+   "gender": "female",
+   "confidence": "medium"
+  },
+  "ps_lyn": {
+   "name": "Lynn Minmay",
+   "series": "SDF Macross",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "ps_max": {
+   "name": "Maximilian Jenius",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "ps_mil": {
+   "name": "Milia Fallyna",
+   "series": "SDF Macross",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "ps_mis": {
+   "name": "Misa Hayase",
+   "series": "SDF Macross",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "ps_roy": {
+   "name": "Roy Focker",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "px_gld": {
+   "name": "Guld Goa Bowman",
+   "series": "Macross Plus",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "px_sha": {
+   "name": "Sharon Apple",
+   "series": "Macross Plus",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "px_sra": {
+   "name": "Sharon Apple (as the enemy)",
+   "series": "Macross Plus",
+   "gender": "female",
+   "confidence": "low"
+  },
+  "py_bjh": {
+   "name": "Vajra",
+   "series": "Macross Frontier",
+   "role": "Vajra (red head); likely cries, not speech",
+   "gender": "unknown",
+   "confidence": "medium"
+  },
+  "py_bjs": {
+   "name": "Vajra",
+   "series": "Macross Frontier",
+   "role": "Vajra (beige head); likely cries, not speech",
+   "gender": "unknown",
+   "confidence": "medium"
+  },
+  "py_blr": {
+   "name": "Brera Sterne",
+   "series": "Macross Frontier",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "py_gos": {
+   "name": "Grace O'Connor",
+   "series": "Macross Frontier",
+   "role": "second variant (glasses portrait)",
+   "gender": "female",
+   "confidence": "medium"
+  },
+  "py_gra": {
+   "name": "Grace O'Connor",
+   "series": "Macross Frontier",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "pz_bd2": {
+   "name": "Golg Boddole Zer",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "medium"
+  },
+  "pz_bdz": {
+   "name": "Golg Boddole Zer",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "medium"
+  },
+  "pz_bti": {
+   "name": "Vrlitwhai Kridanik",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "high"
+  },
+  "pz_ipn": {
+   "name": "Zentradi soldier",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "medium"
+  },
+  "pz_mil": {
+   "name": "Milia Fallyna (Zentradi size)",
+   "series": "SDF Macross",
+   "gender": "female",
+   "confidence": "high"
+  },
+  "pz_qmj": {
+   "name": "Quamzin Kravshera",
+   "series": "SDF Macross",
+   "gender": "male",
+   "confidence": "high"
+  }
+ }
+}

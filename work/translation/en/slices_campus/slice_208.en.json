@@ -1,0 +1,459 @@
+{
+ "slice": 208,
+ "rows_in_slice": 73,
+ "rows_examined": 73,
+ "rows": [
+  {
+   "id": "c15227",
+   "en": "(Going out alone felt lonely, so I invited her,\nbut she seemed a little hesitant.\nMaybe I was bothering her...)",
+   "flags": [],
+   "notes": "Male, frd_yuu_005; 'her' = Yuu."
+  },
+  {
+   "id": "c15228",
+   "en": "\\p-kun,\nI'm sorry, I'm late again...",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15229",
+   "en": "No, it's not even time to meet yet,\nso it's fine.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15230",
+   "en": "Oh, really? I always get here after you,\n\\p-kun, so I just assumed I was late.",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15231",
+   "en": "Haha, you're such a scatterbrain.",
+   "flags": [],
+   "notes": "Male (ukkari-san)."
+  },
+  {
+   "id": "c15232",
+   "en": "Hee hee, I guess so.\nSo, where were we planning to go today?",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15233",
+   "en": "Mainly I want to do some shopping, but...",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15234",
+   "en": "Okay, then let's get going.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15235",
+   "en": "Man, I'm glad I invited you, Akimizu.\nYou've got great taste,\nand shopping was fun too.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15236",
+   "en": "Huh? Oh, not at all.\nClaire-senpai's always telling me, \"Yuu,\nyou need to polish yourself more as a woman!\"",
+   "flags": [],
+   "notes": "x2, Akimizu quoting Claire."
+  },
+  {
+   "id": "c15237",
+   "en": "Really? Claire-senpai's tough...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15238",
+   "en": "But Senpai's really amazing, so no matter\nwhat she says, I end up agreeing...",
+   "flags": [],
+   "notes": "x2, Akimizu; Senpai = Claire."
+  },
+  {
+   "id": "c15239",
+   "en": "Yes, that's right.",
+   "flags": [],
+   "notes": "x4: Akimizu here; also the player answering Klan in nml_kln_010 ('Off to PE?')."
+  },
+  {
+   "id": "c15240",
+   "en": "I see...\nAnyway, what should we do next?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15241",
+   "en": "Oh, I think I'm getting a little hungry...\nWant to stop by Nyan-Nyan?\nLooks like they're running some campaign now.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15242",
+   "en": "Sounds good. To thank you,\nI'll treat you today.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15243",
+   "en": "Hmm~ Then I guess I'll take you up on that!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15244",
+   "en": "\"Nyan-Nyan-Nyan Half-Price Campaign!\"...\nNyan-Nyan-Nyan...?! Feels like one too many...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male. Pun: the campaign name writes the Nyan-Nyan character three times; the extra one reads 'girl' (explained in c15255). Rendered Nyan-Nyan-Nyan."
+  },
+  {
+   "id": "c15245",
+   "en": "Wooow, half price!\nWe've just gotta go in!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15246",
+   "en": "Ah, wait...",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15247",
+   "en": "Welcome to Nyan-Nyan~!",
+   "flags": [],
+   "notes": "x2, Clerk A."
+  },
+  {
+   "id": "c15248",
+   "en": "We're running a campaign right now,\nand everyone who takes part gets\neverything on the menu at half price~",
+   "flags": [],
+   "notes": "x2, Clerk A."
+  },
+  {
+   "id": "c15249",
+   "en": "Oh, yes, yes! Count me in!",
+   "flags": [],
+   "notes": "x2, Akimizu; quoted back in c15256."
+  },
+  {
+   "id": "c15250",
+   "en": "Thank you very much! Miss, this way, please.\nAnd sir, let me show you to your table~",
+   "flags": [],
+   "notes": "Clerk A, male scene."
+  },
+  {
+   "id": "c15251",
+   "en": "(Huh?! What on earth is going on...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15252",
+   "en": "Um, sorry to keep you waiting...",
+   "flags": [],
+   "notes": "x2, Akimizu, now in a Nyan-Nyan uniform."
+  },
+  {
+   "id": "c15253",
+   "en": "Huh?! Akimizu, what happened to you?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15254",
+   "en": "Apparently the \"Nyan-Nyan-Nyan Campaign\" means\nyou get half price if the girl of a couple\nchanges into a Nyan-Nyan uniform...",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15255",
+   "en": "...Oh, I get it... A girl in a Nyan-Nyan outfit...\n...So that's why it's \"Nyan-Nyan-Nyan\"...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male; pun explanation (Nyan-Nyan + girl); the wordplay does not survive in English."
+  },
+  {
+   "id": "c15256",
+   "en": "Ugh, I shouldn't have gotten carried away\nand said \"Count me in!\"...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15257",
+   "en": "Well, if it gets us half price,\nthat's a small price to pay!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15258",
+   "en": "Geez! Easy for you to say!",
+   "flags": [],
+   "notes": "Akimizu, male scene (hitogoto)."
+  },
+  {
+   "id": "c15259",
+   "en": "Now, now...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15260",
+   "en": "And calling us a \"couple\" of all things...",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15261",
+   "en": "Huh, so people see us that way too?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15262",
+   "en": "Huh? Th-that's...",
+   "flags": [],
+   "notes": "Akimizu, male scene; flustered."
+  },
+  {
+   "id": "c15263",
+   "en": "Well, let's call it a day.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15264",
+   "en": "(Things got a little awkward, but...\nI got to see Akimizu in a Nyan-Nyan uniform...\nMaybe I got lucky.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15265",
+   "en": "(Going out alone felt lonely, so I invited her,\nbut she seemed a little hesitant.\nMaybe I was bothering her...)",
+   "flags": [],
+   "notes": "Female; same English as c15227."
+  },
+  {
+   "id": "c15266",
+   "en": "\\p-chan,\nI'm sorry, I'm late again...",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c15267",
+   "en": "No, it's not even time to meet yet,\nso it's fine.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15268",
+   "en": "Oh, really? I always get here after you,\n\\p-chan, so I just assumed I was late.",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c15269",
+   "en": "Haha, you're such a scatterbrain.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15270",
+   "en": "Man, I'm glad I invited you, Yuu.\nYou've got great taste,\nand shopping was fun too.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15271",
+   "en": "Really? Claire-senpai's tough...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15272",
+   "en": "Is that how it works...?",
+   "flags": [],
+   "notes": "Female; as c09279, the male twin."
+  },
+  {
+   "id": "c15273",
+   "en": "I see...\nAnyway, what should we do next?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15274",
+   "en": "Sounds good. To thank you,\nI'll treat you today.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15275",
+   "en": "\"Nyan-Nyan-Nyan Half-Price Campaign!\"...\nNyan-Nyan-Nyan...?! Isn't that one too many...?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female; pun as c15244."
+  },
+  {
+   "id": "c15276",
+   "en": "Thank you very much!\nThe two of you, this way please~",
+   "flags": [],
+   "notes": "Clerk A, female scene."
+  },
+  {
+   "id": "c15277",
+   "en": "(Huh?! Why are they taking us\nto the changing room...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15278",
+   "en": "Apparently the \"Nyan-Nyan-Nyan Campaign\" means\nyou get half price if the female customers\nchange into Nyan-Nyan uniforms...",
+   "flags": [],
+   "notes": "Akimizu, female scene; both girls are in uniform."
+  },
+  {
+   "id": "c15279",
+   "en": "I can't believe I ended up in this too...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15280",
+   "en": "Well, if it gets us half price,\nthat's a small price to pay!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15281",
+   "en": "Yeah... well... I guess you're right!",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c15282",
+   "en": "(Nyan-Nyan-Nyan was a bit of a shock,\nbut it was fun.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15283",
+   "en": "(Right, I'm supposed to go out with Akimizu today...)",
+   "flags": [],
+   "notes": "Male, frd_yuu_005 second visit."
+  },
+  {
+   "id": "c15284",
+   "en": "\\p-kun, I'm sorry.\nI'm late again...",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15285",
+   "en": "No, I haven't been waiting that long,\nso it's fine.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15286",
+   "en": "Phew, good. Then let's get going!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15287",
+   "en": "Whew, I'm tired. And hungry too.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15288",
+   "en": "Yeah, I can't wait for the food to come~",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15289",
+   "en": "Oh, by the way, what about the\n\"Nyan-Nyan-Nyan Campaign\" today...?",
+   "flags": [],
+   "notes": "x2, player."
+  },
+  {
+   "id": "c15290",
+   "en": "I'm. Not. Doing. It!",
+   "flags": [],
+   "notes": "x2, Akimizu (ya-ri-ma-se-n)."
+  },
+  {
+   "id": "c15291",
+   "en": "Yeah, figured~...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15292",
+   "en": "Honestly, geez!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15293",
+   "en": "(Guess she's not doing that again...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15294",
+   "en": "(Right, I'm supposed to go out with Yuu today...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15295",
+   "en": "\\p-chan, I'm sorry.\nI'm late again...",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c15296",
+   "en": "No, I haven't been waiting long. It's fine.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15297",
+   "en": "Whew, I'm tired. And hungry too.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15298",
+   "en": "Y-yeah, of course not~...",
+   "flags": [],
+   "notes": "Female; relieved, since she would have to dress up too."
+  },
+  {
+   "id": "c15299",
+   "en": "(Come to think of it, it wasn't just her problem...)",
+   "flags": [],
+   "notes": "Female (hitogoto ja nakatta): the campaign would have put her in a uniform too."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c15244/c15255/c15275: the campaign pun (the Nyan-Nyan character written three times, the extra one read as 'girl') kept as 'Nyan-Nyan-Nyan'; c15255 explains it as 'a girl in a Nyan-Nyan outfit', but the wordplay itself is lost."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

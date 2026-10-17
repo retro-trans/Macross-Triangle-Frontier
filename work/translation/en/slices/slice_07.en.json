@@ -1,0 +1,504 @@
+{
+ "slice": 7,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0542",
+   "en": "Ace Attack ☆",
+   "flags": [],
+   "notes": "Star marks kept (allowed characters)."
+  },
+  {
+   "id": "u0543",
+   "en": "Ace Attack ☆☆",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0544",
+   "en": "Ace Attack ☆☆☆",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0545",
+   "en": "Ace Battle Survival (Moon Festival)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Same event as the Macross II Moon Festival (briefings u3039/u3045 say muun fesutibaru); the Japanese here says 'lunar-surface festival'. Subtitle row u0425 (slice 5) is todo."
+  },
+  {
+   "id": "u0546",
+   "en": "Ace Battle Survival (Sound Force)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0547",
+   "en": "Ace Battle Survival (Protodeviln)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0548",
+   "en": "Ace Battle Survival (Sturmvogel)",
+   "flags": [],
+   "notes": "Glossary mecha: VF-22S Sturmvogel II; the Japanese gives the bare name. Subtitle row u0430 is todo."
+  },
+  {
+   "id": "u0549",
+   "en": "Ace Battle Survival (Pixie Team)",
+   "flags": [],
+   "notes": "Glossary organizations: Pixie Team."
+  },
+  {
+   "id": "u0550",
+   "en": "Ace Battle Survival (Ace of the Meltrandi)",
+   "flags": [],
+   "notes": "Literally 'the Meltran ace (shoot-down king)'; glossary Meltrandi. Subtitle row u0433 is todo. Review: subtitle matches the mission title u0433."
+  },
+  {
+   "id": "u0551",
+   "en": "Ace Battle Survival (Diamond Force)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0552",
+   "en": "Ace Battle Survival (Antares Squadron)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0553",
+   "en": "Ace Battle Survival (Mardook Commander)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0554",
+   "en": "Ace Battle Survival (Destroid Monster)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0555",
+   "en": "Ace Battle Survival (Moon Island: Strike)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary: Moon Island (codename). The suffix is the kanji for 'strike/shoot' (sibling row u0440 uses the kanji for 'flash'). Rendered 'Moon Island: Strike'. Subtitle row u0441 is todo."
+  },
+  {
+   "id": "u0556",
+   "en": "Ace Battle Survival (Next-Gen Mainstay VF)",
+   "flags": [],
+   "notes": "The next main variable fighter (Project Super Nova). Subtitle row u0442 is todo. Review: subtitle matches the mission title u0442."
+  },
+  {
+   "id": "u0557",
+   "en": "Boss Attack",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0558",
+   "en": "Defeat the target",
+   "flags": [],
+   "notes": "Objective, sentence case like the tm 'Defeat the VF-0S'."
+  },
+  {
+   "id": "u0559",
+   "en": "Boss Battle Survival (Fleet Cmdr. Boddole Zer)",
+   "flags": [],
+   "notes": "Source writes the typo form boduruza; glossary Boddole Zer. 'Fleet Commander' abbreviated to fit (333 px in full vs 306 px)."
+  },
+  {
+   "id": "u0560",
+   "en": "Boss Battle Survival (Mardook Ship Battle)",
+   "flags": [],
+   "notes": "Literally 'Mardook ship battle'."
+  },
+  {
+   "id": "u0561",
+   "en": "Boss Battle Survival (Sharon Apple)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0562",
+   "en": "Boss Battle Survival (Gepelnitchi)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0563",
+   "en": "Like I Could Fight Scared of Booze!",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0564",
+   "en": "Defeat the VF-0S",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0565",
+   "en": "The Fool Risking His Life for a Woman",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0566",
+   "en": "Defeat the VF-0A",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0567",
+   "en": "Aces of the Anti-U.N. Forces",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0568",
+   "en": "Defeat the two SV-51γ",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0569",
+   "en": "Guide of the Wind",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0570",
+   "en": "Defeat the Bird Human",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0571",
+   "en": "The Genius and the Ace",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0572",
+   "en": "Defeat the two Queadluun-Rau",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0573",
+   "en": "The Boss in a Fine Mood",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0574",
+   "en": "Defeat the Monster",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0575",
+   "en": "The Menace of Boddole Zer",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0576",
+   "en": "Dalmatian High School Duo",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0577",
+   "en": "Defeat the YF-19 and YF-21",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0578",
+   "en": "Eyes on the monitor!",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0579",
+   "en": "Defeat the Battle 7",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0580",
+   "en": "Beauty and Monster",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0581",
+   "en": "Defeat the Protodeviln",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0582",
+   "en": "His Excellency Gepelnitchi",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0583",
+   "en": "Diamond Force Spirit",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0584",
+   "en": "Defeat the VF-22S",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0585",
+   "en": "Dynamite Explosion",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0586",
+   "en": "Defeat the VF-19P and Diving Suit",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0587",
+   "en": "Flag Crusher",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0588",
+   "en": "Defeat the VF-25S",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0589",
+   "en": "Bearer of the Macross Name",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0590",
+   "en": "Defeat the Macross Quarter",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0591",
+   "en": "Klan Enraged",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0592",
+   "en": "Defeat Klan Klang",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0593",
+   "en": "That's Why We Can Love Someone!!",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0594",
+   "en": "Defeat the VF-25F and VF-27",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0595",
+   "en": "Guardian of the Planet",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0596",
+   "en": "That's not Ranka! Shoot that fake!",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0597",
+   "en": "Super Dimension Lifeforms",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0598",
+   "en": "Defeat the Vajra Queen",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0599",
+   "en": "Mardook's Spell",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literally 'the binding spell of Mardook' (Emulators bind the Mardook with song)."
+  },
+  {
+   "id": "u0600",
+   "en": "Wipe out the Mardook fleet",
+   "flags": [],
+   "notes": "Kanji for annihilate -> 'Wipe out', as tm u3041."
+  },
+  {
+   "id": "u0601",
+   "en": "Vajra Fleet Mop-Up",
+   "flags": [],
+   "notes": "Literally 'Vajra fleet sweep-up battle'."
+  },
+  {
+   "id": "u0602",
+   "en": "Wipe out the Vajra fleet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0603",
+   "en": "Hold the concert hall to the end",
+   "flags": [],
+   "notes": "Literally 'defend the concert venue to the end'; 'hall' and 'Hold' to fit 210 px."
+  },
+  {
+   "id": "u0604",
+   "en": "Fighter Piloting Drill",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0605",
+   "en": "Battroid Piloting Drill",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0606",
+   "en": "GERWALK Piloting Drill",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0607",
+   "en": "Shooting Attack Drill",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0608",
+   "en": "Melee Attack Drill",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0609",
+   "en": "Special Maneuvers Drill 1",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0610",
+   "en": "Special Maneuvers Drill 2",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0611",
+   "en": "Container Transport Drill",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0612",
+   "en": "Reach the target point / Collect containers",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0613",
+   "en": "Real Flight Piloting Drill",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0614",
+   "en": "Special Maneuvers Drill 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0615",
+   "en": "Missile Shoot-Down Drill",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0616",
+   "en": "New Special Maneuvers Drill",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0617",
+   "en": "Ground Training Field",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0618",
+   "en": "Conduct combat training on the ground",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0619",
+   "en": "Space Training Field",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0620",
+   "en": "Conduct combat training in space",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0621",
+   "en": "In-Base Training Field",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0545 'Moon Festival' for the lunar-surface festival (Macross II)",
+   "u0555 'Moon Island: Strike' (sibling u0440 in slice 5 is the 'flash' variant; keep the two in step)",
+   "u0599 'Mardook's Spell' for the binding-spell title",
+   "Subtitles shared with slice 5 rows still todo (u0425, u0430, u0433, u0441, u0442): keep in sync"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

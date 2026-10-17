@@ -1,0 +1,531 @@
+{
+ "slice": 10,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o7_exd/1104",
+   "en": "You need not destroy anything but the targets to clear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1104",
+   "en": "Only the targets need destroying to clear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1105",
+   "en": "Many drones have launched from a bomber. Would you kindly intercept them?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1105",
+   "en": "Many drones have launched from a bomber. Intercept them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1106",
+   "en": "Destroy the carrier, but watch out for the escort ships and Destroid units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1106",
+   "en": "Destroy the carrier, but watch out for escort ships and Destroid units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1107",
+   "en": "Destroy the base, but watch out for the Destroid units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1107",
+   "en": "Destroy the base, but watch out for the Destroid units.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1108",
+   "en": "The objective, mind you, is to observe the performance of the YF-19 and YF-21.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1108",
+   "en": "The objective is to see how the YF-19 and YF-21 perform.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1109",
+   "en": "Attack without holding back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1109",
+   "en": "Don't hold back. Attack!",
+   "flags": [],
+   "notes": "Whisper nospeech flag, but the transcript matches the shared line; kept."
+  },
+  {
+   "id": "o7_exd/1110",
+   "en": "Unmanned enemy aircraft controlled by someone have appeared. Intercept them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1110",
+   "en": "Unmanned enemy craft controlled by someone have appeared. Intercept them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1111",
+   "en": "Destroy the satellite.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1111",
+   "en": "Destroy the satellite!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1112",
+   "en": "We shall now descend to Earth, hidden among the satellite debris.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1112",
+   "en": "We're going down to Earth now, hidden in the satellite debris.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1113",
+   "en": "Friendly aircraft are withdrawing, I see.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'yuugun' read as 'yuugun' (friendly forces), homophone."
+  },
+  {
+   "id": "of_ktr/1113",
+   "en": "Friendly aircraft are leaving.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "As row 739. Whisper nospeech flag; transcript matches the shared line."
+  },
+  {
+   "id": "o7_exd/1114",
+   "en": "Stop the Macross that Sharon is controlling.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1114",
+   "en": "Stop the Macross Sharon is controlling!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'tomeru na yo' (don't stop) read as 'tomeru no yo' (stop it), as the other operators say."
+  },
+  {
+   "id": "o7_exd/1116",
+   "en": "Ignore the singing unidentified craft and concentrate on annihilating the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1116",
+   "en": "Ignore the singing unknown craft and focus on wiping out the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1117",
+   "en": "There are citizens inside the containers. Prevent the enemy's escape at all costs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1117",
+   "en": "There are citizens inside the containers. Stop the enemy escaping at all costs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1118",
+   "en": "Carry the container to a safe place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1118",
+   "en": "Get the container to a safe place!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'hakobu na yo' (don't carry) read as 'hakobu no yo' (carry it)."
+  },
+  {
+   "id": "o7_exd/1119",
+   "en": "Would you protect the Destroids carrying civilians?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1119",
+   "en": "Protect the Destroids carrying civilians.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1120",
+   "en": "The Destroids carrying civilians are taking damage, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1120",
+   "en": "The Destroids carrying civilians are taking damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1121",
+   "en": "The Destroids carrying civilians have been wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1121",
+   "en": "The Destroids carrying civilians were wiped out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1122",
+   "en": "Retake the fold generator, whatever it takes.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript ends 'dakkan shiyou' (let us retake); most likely 'dakkan seyo' (retake it), Exsedol's order form and the other operators' line."
+  },
+  {
+   "id": "of_ktr/1122",
+   "en": "Retake the fold generator, whatever it takes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1123",
+   "en": "Defend the generator unit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript garbled after 'generator'; read as 'souchi wo bouei seyo' (defend the unit), as the other operators say."
+  },
+  {
+   "id": "of_ktr/1123",
+   "en": "Defend the generator unit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1124",
+   "en": "Destroy the generator unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1124",
+   "en": "Destroy the generator unit!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1125",
+   "en": "Defold reaction in nearby airspace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1125",
+   "en": "Defold reaction in nearby airspace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1126",
+   "en": "A large ship has appeared. The enemy flagship, I should think.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kikan' (engine) read as 'kikan' (flagship), homophone."
+  },
+  {
+   "id": "of_ktr/1126",
+   "en": "A large ship has appeared. It looks like the enemy flagship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "As row 763: flagship."
+  },
+  {
+   "id": "o7_exd/1127",
+   "en": "Kinryu has come to back us up, it seems.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcript has 'Kinryu taii' (Capt. Kinryu); other operators' transcripts vary (taii / taiin / tai) and the shared English drops the rank. Rank left out."
+  },
+  {
+   "id": "of_ktr/1127",
+   "en": "Kinryu has come to back us up!",
+   "flags": [],
+   "notes": "Transcript 'Kinryu taiin'; rank or title dropped as in the shared clips."
+  },
+  {
+   "id": "o7_exd/1128",
+   "en": "Estimated length, 300 meters. Clearly unlike any enemy we have seen so far.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1128",
+   "en": "Estimated length, 300 meters. It's clearly unlike any enemy so far.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'taichou' (captain) read as 'taichou' (body length), homophone."
+  },
+  {
+   "id": "o7_exd/1129",
+   "en": "Docker has come to back us up, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1129",
+   "en": "Docker has come to back us up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1130",
+   "en": "A training unit has appeared, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1130",
+   "en": "A training unit has appeared.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1131",
+   "en": "Aircraft sighted. A training unit, I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1131",
+   "en": "Aircraft sighted. It's a training unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1132",
+   "en": "The next training unit is coming!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'enshuu-ki' written with 'period'; read as training unit."
+  },
+  {
+   "id": "of_ktr/1132",
+   "en": "The next training unit is coming!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "As row 775."
+  },
+  {
+   "id": "o7_exd/1133",
+   "en": "Work with Sound Force and destroy Gepelnitchi.",
+   "flags": [],
+   "notes": "Name slightly misheard in the transcript; Gepelnitchi."
+  },
+  {
+   "id": "of_ktr/1133",
+   "en": "Work with Sound Force and take down Gepelnitchi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1135",
+   "en": "Annihilate the enemies hindering the Spiritia collection.",
+   "flags": [],
+   "notes": "'Supirichua' = Spiritia."
+  },
+  {
+   "id": "of_ktr/1135",
+   "en": "Wipe out the enemies blocking Spiritia collection.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1136",
+   "en": "Enemy contact confirmed. Those samples, I see.",
+   "flags": [],
+   "notes": "Protodeviln-side mission: humans are 'samples'."
+  },
+  {
+   "id": "of_ktr/1136",
+   "en": "Enemy contact confirmed. It's those samples.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1137",
+   "en": "Sample reinforcements are on their way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1137",
+   "en": "Sample reinforcements incoming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1138",
+   "en": "Readings from those samples. Intercept them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1138",
+   "en": "Sample signatures detected. Intercept them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1139",
+   "en": "A great many samples have arrived, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1139",
+   "en": "A large number of samples have arrived.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1140",
+   "en": "Numerous samples are approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1140",
+   "en": "Many samples are approaching.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1141",
+   "en": "These are orders from Lord Gepelnitchi. Annihilate the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1141",
+   "en": "Orders from Lord Gepelnitchi. Annihilate the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1142",
+   "en": "Annihilate the foolish samples who dare defy us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1142",
+   "en": "Wipe out the foolish samples who defy us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1143",
+   "en": "Annihilate the Anima Spiritia together with Lord Gepelnitchi.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name misheard as 'Gepelmitchi'."
+  },
+  {
+   "id": "of_ktr/1143",
+   "en": "Wipe out the Anima Spiritia alongside Lord Gepelnitchi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1145",
+   "en": "Numerous Galaxy Whales have appeared. Patrol unit, launch at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1145",
+   "en": "Many Galaxy Whales have appeared. Patrol unit, launch immediately.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1146",
+   "en": "Graham Hoilie and a civilian craft confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1146",
+   "en": "Graham Hoilie and a civilian craft confirmed.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 765-766: Kinryu's rank (taii in Exsedol's transcript) left out, as in the shared operator clips; rank not verified."
+  ],
+  "whisper_doubt": [
+   "rows 739-740: yuugun homophone",
+   "rows 742, 748: 'na yo' read as 'no yo' (positive order)",
+   "row 755: shiyou read as seyo",
+   "row 757: garbled, read as 'defend the generator unit'",
+   "rows 763-764: kikan = flagship",
+   "row 768: taichou = body length",
+   "rows 775-776: training unit",
+   "row 795: Gepelnitchi misheard"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

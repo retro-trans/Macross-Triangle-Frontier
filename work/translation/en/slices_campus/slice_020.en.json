@@ -1,0 +1,512 @@
+{
+ "slice": 20,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c01421",
+   "en": "(Ugh, I got stuck with math homework...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01422",
+   "en": "Klan-senpai!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01423",
+   "en": "(What should I do when I get home~\nWait, huh... Isn't that...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01424",
+   "en": "Hey, Klan-senpai!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01425",
+   "en": "Hm?\nOh, it's \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01426",
+   "en": "Are you heading home now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01427",
+   "en": "Yes. Are you meeting someone, Klan-senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01428",
+   "en": "Hm, w-well, s-something like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01429",
+   "en": "Why are you so flustered...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01430",
+   "en": "I am not flustered!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01431",
+   "en": "So, who are you waiting for?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01432",
+   "en": "Does it matter who?\nIf you've no business here, go home!\nShoo, shoo!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01433",
+   "en": "Whoa!\nDon't push me, geez!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01434",
+   "en": "You two sure get along.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01435",
+   "en": "M-Michel!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01436",
+   "en": "You heading home too, Michel?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01437",
+   "en": "Yeah, I am, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01438",
+   "en": "Quit flirting around here, you two,\nand let's head home already.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01439",
+   "en": "F-Flirting!? We're doing no such thing!\nWhat nonsense are you spouting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01440",
+   "en": "I just wanted to find out who Klan-senpai was waiting for.",
+   "flags": [],
+   "notes": "Refit to the measured 420 px window."
+  },
+  {
+   "id": "c01441",
+   "en": "Huh... Who were you waiting for, Klan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01442",
+   "en": "D-Doesn't matter who!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01443",
+   "en": "Forget it! Let's go!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01444",
+   "en": "Huh? You don't have to wait?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01445",
+   "en": "Don't just stand there!\nLet's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01446",
+   "en": "...You heard her, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01447",
+   "en": "I wonder who she was waiting for.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01448",
+   "en": "Who knows...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01449",
+   "en": "\"Who knows\"...?\nAren't you curious, Michel?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01450",
+   "en": "...Good question.\nAnyway, leave Klan alone too long and\nshe'll start yelling at us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01451",
+   "en": "Heyyy!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01452",
+   "en": "See?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01453",
+   "en": "...Well, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01454",
+   "en": "We're stopping by Silver Moon!\nAnd it's on you two!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon: glossary status provisional."
+  },
+  {
+   "id": "c01455",
+   "en": "Good grief...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01456",
+   "en": "(I just don't get Senpai.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01457",
+   "en": "You heading home too, Michel-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01458",
+   "en": "I just wanted to find out who Klan-senpai was waiting for.",
+   "flags": [],
+   "notes": "Refit to the measured 420 px window."
+  },
+  {
+   "id": "c01459",
+   "en": "...You heard her, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01460",
+   "en": "\"Who knows\"...?\nAren't you curious, Michel-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01461",
+   "en": "...Well then, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01462",
+   "en": "Huh, Klan-senpai... What's wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01463",
+   "en": "...Don't you have something to tell me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01464",
+   "en": "Sigh... Then it can't be helped...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01465",
+   "en": "I've heard the rumors...\nThe rumors that you've been running around\nwith that girl a lot!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "ano onna = 'that woman': rendered 'that girl'."
+  },
+  {
+   "id": "c01466",
+   "en": "As your senpai, I can't let this slide!\nI'll be giving you a lecture soon, so brace yourself!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01467",
+   "en": "What's gotten into you...?\nSomething to tell you... Nothing in particular... I think...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01468",
+   "en": "As your senpai, I can't overlook this!\nI'll be giving you a lecture soon, so brace yourself!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01469",
+   "en": "Klan-senpai~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01470",
+   "en": "\\p?\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01471",
+   "en": "What about you, Klan-senpai, hanging\naround outside Nyan-Nyan?\nWhat are you up to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01472",
+   "en": "I-I am not hanging around!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01473",
+   "en": "Then what?\nIf you need something, why not just go in?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01474",
+   "en": "I don't feel comfortable going into a place like this alone...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01475",
+   "en": "I'd go in by myself, though~\nIf you want, shall we go in together?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01476",
+   "en": "...Now there's an idea.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01477",
+   "en": "Then let's go! Follow me!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01478",
+   "en": "(Someone's all fired up~)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Used in three scenes (Klan, Pinon, Sheryl): kept the subject impersonal ('someone') rather than 'she'."
+  },
+  {
+   "id": "c01479",
+   "en": "Today it's my treat, as your senpai!\nEat as much as you like!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01480",
+   "en": "Looking after my cute junior is only natural!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01481",
+   "en": "Hey, clerk!\nBring us 15 orders of maguro buns!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "maguro-man (Nyan-Nyan's tuna bun from Macross Frontier) not in glossary: 'maguro buns'."
+  },
+  {
+   "id": "c01482",
+   "en": "Th-That's way too many! Seriously!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01483",
+   "en": "I-I ate too much...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01484",
+   "en": "You ordered way too many maguro buns...",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "maguro buns: see c01481."
+  },
+  {
+   "id": "c01485",
+   "en": "...I don't think I can move for a while...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01486",
+   "en": "I bet...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01487",
+   "en": "...Phew... Clerk, bring me the bill!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01488",
+   "en": "Here's your bill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01489",
+   "en": "...Hmm, that's quite a price...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01490",
+   "en": "My wallet, my wallet... let's see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01491",
+   "en": "Huh, wh-what...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01492",
+   "en": "I-It's not here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01493",
+   "en": "My wallet's gone...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01494",
+   "en": "I must've dropped it somewhere...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01495",
+   "en": "I-I don't have that kind of money!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01496",
+   "en": "Ugh... What do I do...\n\\p...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01497",
+   "en": "U-Um... excuse me...\nCould we do a temp job here or something...?",
+   "flags": [],
+   "notes": "tenin-san (vocative to the clerk): 'excuse me'; clerk's gender unknown."
+  },
+  {
+   "id": "c01498",
+   "en": "Thanks a lot!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "arigatou na: start of Klan's waitress montage, so read as thanking a customer; could also be thanking the player. English works either way."
+  },
+  {
+   "id": "c01499",
+   "en": "Welcome! Make yourself at home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01500",
+   "en": "Stand by for a while!",
+   "flags": [],
+   "notes": "taiki da: Klan's military wording for 'please wait'; kept."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c01454: Silver Moon is provisional in the glossary",
+   "c01465: ano onna rendered 'that girl'",
+   "c01478: shared by three scenes, subject made impersonal ('Someone's all fired up')",
+   "c01498: 'Thanks a lot!' read as waitress line to a customer; may be to the player"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "maguro buns (maguro-man, c01481, c01484)"
+  ],
+  "unfinished": []
+ }
+}

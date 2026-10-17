@@ -1,0 +1,403 @@
+{
+ "slice": 209,
+ "rows_in_slice": 65,
+ "rows_examined": 65,
+ "rows": [
+  {
+   "id": "c15300",
+   "en": "(Akimizu was saying, \"I should get some exercise\nonce in a while...\" so I invited her, but...)",
+   "flags": [],
+   "notes": "Male, frd_yuu_006."
+  },
+  {
+   "id": "c15301",
+   "en": "\\p-kun!\nWe're both on time today.",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15302",
+   "en": "Yeah. When we're going all the way to the\nartificial island, we need to plan ahead a bit.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15303",
+   "en": "Uh-huh!\nI kept a close eye on the time today too.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15304",
+   "en": "You're really fired up.\nWell, shall we go?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15305",
+   "en": "Wow~ The sea and the beach really are great!\nI feel so free!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15306",
+   "en": "Yeah, I'm really glad there's a place\nlike this aboard the ship.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15307",
+   "en": "Um, well then, I'll go get changed...",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15308",
+   "en": "Oh, okay. Then I'll go change too...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15309",
+   "en": "Akimizu's taking a while...\nDoes changing really take that long...?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15310",
+   "en": "\\p-kun,\nsorry to keep you waiting~...",
+   "flags": [],
+   "notes": "Akimizu, male scene; as c13443."
+  },
+  {
+   "id": "c15311",
+   "en": "Oh, Akimizu, you took a while.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15312",
+   "en": "(Whoa, th-this is...)",
+   "flags": [],
+   "notes": "Male; seeing her swimsuit."
+  },
+  {
+   "id": "c15313",
+   "en": "It's embarrassing,\nso don't stare too much, okay?",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15314",
+   "en": "(No, no, how do I put it...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15315",
+   "en": "Ahh~ You've got a pervy look in your eyes~!",
+   "flags": [],
+   "notes": "Akimizu, male scene (iyarashii me)."
+  },
+  {
+   "id": "c15316",
+   "en": "Wha-, no, I don't!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15317",
+   "en": "Kidding, kidding. Just a joke.",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15318",
+   "en": "(Phew...)",
+   "flags": [],
+   "notes": "x3, player; also nml_kln_017 after Klan leaves."
+  },
+  {
+   "id": "c15319",
+   "en": "But in a swimsuit you can feel the breeze.\nIt really feels great~",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15320",
+   "en": "Yeah, it's hard to believe\nthis is inside a ship.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15321",
+   "en": "Okay, time to get moving!\nFirst up, that banana boat!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15322",
+   "en": "Ah, I'm coming too!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15323",
+   "en": "We sure played a lot~\nI'm totally beat.",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15324",
+   "en": "(...Akimizu's surprisingly athletic...\nI'm pretty worn out...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15325",
+   "en": "\\p-kun,\nthank you so much for today. It was fun.",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15326",
+   "en": "No, I had fun too.\nI'm glad we're friends, Akimizu.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15327",
+   "en": "Huh?!\n...\"Friends,\" huh...",
+   "flags": [],
+   "notes": "Akimizu, male scene; disappointed."
+  },
+  {
+   "id": "c15328",
+   "en": "Oh, um, it's nothing.\nShall we head home? It's getting late...",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c15329",
+   "en": "Yeah. I'll sleep well tonight~",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15330",
+   "en": "(Seemed like Akimizu wanted to say something...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15331",
+   "en": "(Yuu was saying, \"I should get some exercise\nonce in a while...\" so I invited her, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15332",
+   "en": "\\p-chan!\nWe're both on time today.",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c15333",
+   "en": "Yeah. When we're going all the way to the\nartificial island, we need to plan ahead a bit.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15334",
+   "en": "You're really fired up.\nWell, let's go.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15335",
+   "en": "Yeah, I'm really glad there's a place\nlike this aboard the ship.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15336",
+   "en": "Oh, wait, I'm coming too.",
+   "flags": [],
+   "notes": "Female; both go to change."
+  },
+  {
+   "id": "c15337",
+   "en": "Yuu's taking a while...\nAnd she told me to \"go on ahead\"...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15338",
+   "en": "Oh, Yuu, you took a while.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15339",
+   "en": "(Wow, Yuu really is something...)",
+   "flags": [],
+   "notes": "Female; her figure (cf. c15150)."
+  },
+  {
+   "id": "c15340",
+   "en": "Sorry I took so long...\nMy swimsuit was a little... No, never mind.",
+   "flags": [],
+   "notes": "Akimizu, female scene; cut off as in the Japanese."
+  },
+  {
+   "id": "c15341",
+   "en": "(Too small... I bet...)",
+   "flags": [],
+   "notes": "Female; completes Yuu's cut-off line."
+  },
+  {
+   "id": "c15342",
+   "en": "Yeah, it's hard to believe\nthis is inside a ship.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15343",
+   "en": "Ah, I'm coming too!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15344",
+   "en": "(...Yuu's surprisingly athletic...\nI might be pretty worn out...)",
+   "flags": [],
+   "notes": "Female (tsukareta kamo)."
+  },
+  {
+   "id": "c15345",
+   "en": "\\p-chan,\nthank you so much for today. It was fun.",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c15346",
+   "en": "No, I had fun too.\nI'm really glad we're friends, Yuu.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15347",
+   "en": "Yeah, me too!",
+   "flags": [],
+   "notes": "Akimizu, female scene (un, sou da ne)."
+  },
+  {
+   "id": "c15348",
+   "en": "Well, shall we head home?\nIt's getting late...",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c15349",
+   "en": "Yeah. I'll sleep well tonight~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15350",
+   "en": "(Today was so much fun~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15351",
+   "en": "(All right, the artificial island\nwith Akimizu again today!)",
+   "flags": [],
+   "notes": "Male, frd_yuu_006 second visit."
+  },
+  {
+   "id": "c15352",
+   "en": "Okay, today we're gonna play hard~!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15353",
+   "en": "Ahaha, you're really pumped.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15354",
+   "en": "Of course!",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15355",
+   "en": "Wow~ We played a lot again today~",
+   "flags": [],
+   "notes": "x2, Akimizu."
+  },
+  {
+   "id": "c15356",
+   "en": "...Akimizu, you've got\nsurprising stamina...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15357",
+   "en": "N-no, I really don't...\nWhew~ I'm all worn out~...",
+   "flags": [],
+   "notes": "x2, Akimizu; obviously faking."
+  },
+  {
+   "id": "c15358",
+   "en": "Y-you're not fooling anyone...",
+   "flags": [],
+   "notes": "Male (shirajirashii)."
+  },
+  {
+   "id": "c15359",
+   "en": "(That was another fun day.)",
+   "flags": [],
+   "notes": "Male; cf. c05954."
+  },
+  {
+   "id": "c15360",
+   "en": "(All right! The artificial island\nwith Yuu again today!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15361",
+   "en": "Ahaha, you're really pumped.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15362",
+   "en": "...Yuu, you've got surprising stamina...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15363",
+   "en": "Y-you're not fooling anyone...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15364",
+   "en": "(That was another fun day~)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

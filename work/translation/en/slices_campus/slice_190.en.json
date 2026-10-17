@@ -1,0 +1,433 @@
+{
+ "slice": 190,
+ "rows_in_slice": 70,
+ "rows_examined": 70,
+ "rows": [
+  {
+   "id": "c13904",
+   "en": "(All right, a whole day on the artificial island\nwith Sheryl-san!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13905",
+   "en": "Hi~, \\p-chan.\nDid you manage to sleep last night?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13906",
+   "en": "Yes, well, about as usual.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13907",
+   "en": "That might be true...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13908",
+   "en": "Sheryl-san's taking a while...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13909",
+   "en": "Sheryl-san! How long does it take to change...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13910",
+   "en": "(Wow~! That's the Galactic Fairy for you!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13911",
+   "en": "Now, let's enjoy our vacation to the fullest!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13912",
+   "en": "Come on, \\p-chan,\nyou come over here too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13913",
+   "en": "Oh, you got me! Take thaaat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13914",
+   "en": "Phew, I'm tired~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13915",
+   "en": "I'm no match for you, Sheryl-san...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13916",
+   "en": "No, I had fun too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13917",
+   "en": "(Sheryl-san seemed different from usual...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13918",
+   "en": "(All right, the artificial island with Sheryl\nagain today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13919",
+   "en": "You're late, \\p!\nHurry up, let's go! The sea's going to run away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13920",
+   "en": "The sea's going to run away...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13921",
+   "en": "Still pathetic as ever, worn out by just this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13922",
+   "en": "Yeah, I'm ashamed of myself...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13923",
+   "en": "Hee hee, you're hopeless.\nMake sure you can keep going longer by next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13924",
+   "en": "(The Galactic Fairy's got amazing stamina too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13925",
+   "en": "(All right, the artificial island with Sheryl-san\nagain today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13926",
+   "en": "You're late, \\p-chan!\nHurry up, let's go! The sea's going to run away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13927",
+   "en": "Phew... I'm beeeat...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13928",
+   "en": "No, I'm sure it's just that your stamina,\nSheryl-san, is...",
+   "flags": [],
+   "notes": "Trails off as in the Japanese ('your stamina is [greater]...')."
+  },
+  {
+   "id": "c13929",
+   "en": "(The Galactic Fairy's stamina is amazing too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13930",
+   "en": "(She said she wanted to \"talk somewhere quiet,\"\nso I invited her to the roof, but what could it\nbe... Could it be...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13931",
+   "en": "Oh, you took your time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13932",
+   "en": "Sorry, did I keep you waiting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13933",
+   "en": "No, I was thinking some things over, so\ndon't worry about it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13934",
+   "en": "So, what did you want to \"talk\" about?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13935",
+   "en": "You know, I'm glad I came to Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13936",
+   "en": "...Yeah.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13937",
+   "en": "Away from my work, I met all kinds of people,\nsaw all kinds of things, learned all kinds\nof things...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13938",
+   "en": "But that's all over now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13939",
+   "en": "I was only supposed to stay a year at most,\nbut I selfishly kept dragging it out...\nBut now time's up...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13940",
+   "en": "I have to go back now...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13941",
+   "en": "My two years in Frontier were really fun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13942",
+   "en": "Everyone was kind to me, and I made lots of friends.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13943",
+   "en": "But I can't just stay here like this...\nBecause I'm Sheryl... Sheryl Nome.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13944",
+   "en": "I see. You're right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13945",
+   "en": "\\p,\nI'm truly grateful to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13946",
+   "en": "When I came here to play an ordinary student,\nI called out to you because you seemed the most\nordinary. Looks like that was the right call.",
+   "flags": [],
+   "notes": "x2 both genders."
+  },
+  {
+   "id": "c13947",
+   "en": "Oh, so that's how it was.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13948",
+   "en": "Yes. When we first met, anyway.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13949",
+   "en": "But now, you're just a little bit special.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13950",
+   "en": "Hee hee, just kidding!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13951",
+   "en": "Geez, what was that about!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13952",
+   "en": "I don't want things getting all teary,\nso don't come to see me off, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13953",
+   "en": "Aw, you're so cold, geez...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13954",
+   "en": "(So it's goodbye to Sheryl...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13955",
+   "en": "(She said she wanted to \"talk somewhere quiet,\"\nso I invited her to the roof, but what could\nit be...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13956",
+   "en": "Sorry I kept you waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13957",
+   "en": "So, what did you want to \"talk\" about?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13958",
+   "en": "Huh, is that so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13959",
+   "en": "That's... true, I suppose...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13960",
+   "en": "\\p-chan,\nI'm truly grateful to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13961",
+   "en": "Oh, so that's how it was.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13962",
+   "en": "Oh, geez, what was that about!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13963",
+   "en": "Oh... don't say that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13964",
+   "en": "(So it's goodbye to Sheryl-san...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13965",
+   "en": "(I asked Sheryl to come to the roof, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13966",
+   "en": "Sigh... She's not coming after all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13967",
+   "en": "Well, she's probably already made up her mind...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13968",
+   "en": "Oh well, guess I'll head home...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13969",
+   "en": "(Sheryl's really going back, isn't she...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13970",
+   "en": "(I asked Sheryl-san to come to the roof, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13971",
+   "en": "Sigh... She's not coming after all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13972",
+   "en": "Well, she's probably already made up her mind...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13973",
+   "en": "(Sheryl-san's really going back, isn't she...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

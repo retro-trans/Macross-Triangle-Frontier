@@ -1,0 +1,393 @@
+{
+ "slice": 119,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c08766",
+   "en": "(Now, what should I buy in the Shibuya Area today?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08767",
+   "en": "Heh, I scored another T-shirt today\nthat really makes my soul tremble.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08768",
+   "en": "(A T-shirt Luis-san likes, huh...\nThe designs on the T-shirts he buys are, well...)",
+   "flags": [],
+   "notes": "Trails off as in the Japanese."
+  },
+  {
+   "id": "c08769",
+   "en": "(Oh well, I'll keep shopping.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08770",
+   "en": "(A T-shirt Luis-san likes, huh...\nThe designs on the T-shirts he buys are, well...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08771",
+   "en": "(Oh well, I'll keep shopping.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08772",
+   "en": "(I came to the artificial island, but there's\nreally no point in coming here alone...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08773",
+   "en": "All riiight!\nHey, ocean! Watch me swim!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08774",
+   "en": "(Whoa, Luis-san's amazing.\nHe's already swum way out there...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Name plate says Luis in 4 of 6 uses, but the line is the player's inner monologue about Luis (brackets, -san); translated as the player's thought."
+  },
+  {
+   "id": "c08775",
+   "en": "(Hmm, playing in the sea with Luis-san sounds\nlike risking my life. I'll just head home\nfor today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08776",
+   "en": "(Whoa, Luis-san's amazing.\nHe's already swum way out there...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08777",
+   "en": "(Hmm, playing in the sea with Luis-san sounds\nlike risking my life. Maybe I'll just head home\nfor today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08778",
+   "en": "(Griffith Park in the evening\nreally does feel kind of melancholy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08779",
+   "en": "Your Nyan-Nyan Dance doesn't come close\nto the sharpness of mine!\nGo back and start over from scratch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08780",
+   "en": "(Huh?! Was Luis-san having a Nyan-Nyan Dance\nshowdown with someone?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08781",
+   "en": "(I-I'm curious, but...\nLuis-san's already gone home,\nso I'll head home for today too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08782",
+   "en": "(But a Nyan-Nyan Dance showdown...?\nWhat on earth...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08783",
+   "en": "(Griffith Park in the evening\nreally does feel kind of melancholy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08784",
+   "en": "(I-I'm curious, but...\nLuis-san's already gone home,\nso I'll head home for today too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08785",
+   "en": "(I came shopping at Folmo today,\nand at times like this, I always...)",
+   "flags": [],
+   "notes": "Sentence completed by c08786 / c08791."
+  },
+  {
+   "id": "c08786",
+   "en": "(Yep, I run into Luis-san.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08787",
+   "en": "I'm gonna sing for you again today!\nListen to my sooong!!",
+   "flags": [],
+   "notes": "Ore no uta o kike: the standard 'Listen to my song!' (Basara's catchphrase)."
+  },
+  {
+   "id": "c08788",
+   "en": "Another great gig full of passion today...\nTo be continued tomorrow!\nSee ya!",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c08789",
+   "en": "(There was hardly anyone in the audience\nfor Luis-san's songs, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08790",
+   "en": "(Personally, I don't mind your songs, Luis-san.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08791",
+   "en": "(Yep, I run into Luis-san.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08792",
+   "en": "(Personally, I don't mind your songs, Luis-san.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08793",
+   "en": "(I came to have some fun in Deep Akihabara today,\nand at times like this, I always...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08794",
+   "en": "(Yep, it's Luis-san.\nWait, what's he doing in front of the maid cafe?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08795",
+   "en": "Goddammit!",
+   "flags": [],
+   "notes": "kusottare, as c24309 ('Goddammit!')."
+  },
+  {
+   "id": "c08796",
+   "en": "I'm telling 'em I'll work at their maid cafe,\nso why won't they hire me?!\nThis is why people with no passion...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08797",
+   "en": "(...I kind of get why they won't, though.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08798",
+   "en": "Geez, with passion like mine,\nwaiting on customers hand and foot\nwould be a breeze...",
+   "flags": [],
+   "notes": "go-houshi = maid-cafe 'service'."
+  },
+  {
+   "id": "c08799",
+   "en": "(Luis-san would probably squeeze himself into\na maid outfit and do the job anyway...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08800",
+   "en": "(Yep, it's Luis-san.\nWait, what's he doing in front of the maid cafe?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08801",
+   "en": "(Luis-san would probably squeeze himself into\na maid outfit and do the job anyway...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08802",
+   "en": "(Oops, I left something in the storeroom.\nI'd better go get it before I forget...)",
+   "flags": [],
+   "notes": "souko rendered 'storeroom' (a storage room the player can walk back to)."
+  },
+  {
+   "id": "c08803",
+   "en": "Hm? Oh, if it isn't Fresh Boy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08804",
+   "en": "L-Luis-san?!\nWhat are you doing in a place like this?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08805",
+   "en": "This place is just right for a nap,\nso I use it every now and then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08806",
+   "en": "(Luis-san really does whatever he likes...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08807",
+   "en": "So, with that said,\nI'm gonna catch a few more Z's.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08808",
+   "en": "Oh, good ni......",
+   "flags": [],
+   "notes": "Cut off mid-word, as the Japanese (oyasumina...)."
+  },
+  {
+   "id": "c08809",
+   "en": "Snoooore! Snoooore!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08810",
+   "en": "(He's asleep already?! You fall asleep way\ntoo fast, Luis-san...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08811",
+   "en": "(Hmm... Luis-san really is\none strange guy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08812",
+   "en": "(Oops, I left something in the storeroom.\nI'd better go get it before I forget...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08813",
+   "en": "Hm? Oh, if it isn't Fresh Girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08814",
+   "en": "(Luis-san really does whatever he likes...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08815",
+   "en": "(Hmm... Luis-san really is\none strange guy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08816",
+   "en": "(Maybe I'll watch a movie today.\nLet's see... What's showing right now...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08817",
+   "en": "Dammit! It won't stop!\nThe sweat of my heart... keeps pouring\nfrom my eyes without end!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08818",
+   "en": "(Y-you're bawling your eyes out, Luis-san...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08819",
+   "en": "Tch! Me, of all people, crying at a movie...\nJust how pure can my soul be?!",
+   "flags": [],
+   "notes": "Luis's doubled 'ore no mai souru' (my my soul) smoothed to 'my soul'."
+  },
+  {
+   "id": "c08820",
+   "en": "Dammit! I made a total fool of myself\nin front of all these people...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08821",
+   "en": "(Oh, so you do have a sense of shame,\nLuis-san...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08822",
+   "en": "Heh, can't be helped.\nLuis Fernando shall make a dashing exit...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08823",
+   "en": "(Ah, Luis-san ran away.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08824",
+   "en": "(Luis-san really does stand out\nwherever he goes...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08825",
+   "en": "(Maybe I'll watch a movie today.\nLet's see... What's showing right now...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08826",
+   "en": "(Ah, Luis-san ran away.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08827",
+   "en": "(Luis-san really does stand out\nwherever he goes...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c08774: name plate is Luis for 4 of 6 uses, but the text is the player's bracketed thought about Luis; translated as the player's monologue. The plate itself may need a fix at insertion.",
+   "c08779/c08780/c08782: 'Nyan-Nyan Dance' (not in the glossary), as in slice 118.",
+   "c08795: kusottare rendered 'Goddammit!' as c24309.",
+   "c08819: Luis's doubled 'my my soul' (ore no mai souru) smoothed to 'my soul'.",
+   "c08793: Deep Akihabara is 'provisional' in locations.json."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

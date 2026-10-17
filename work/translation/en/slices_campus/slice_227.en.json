@@ -1,0 +1,482 @@
+{
+ "slice": 227,
+ "rows_in_slice": 77,
+ "rows_examined": 77,
+ "rows": [
+  {
+   "id": "c16515",
+   "en": "(My packed lunch today was onigiri, right?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16516",
+   "en": "\\p, having lunch?\nThat's something unusual you're eating.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16517",
+   "en": "Oh, Hilda-sensei.\nThis? It's called an \"onigiri.\" It's rice\npressed together into a nice, firm shape.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16518",
+   "en": "Oh, is that so?\nIt looks... yes, like that thing called \"sushi.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16519",
+   "en": "I guess so.\nBut unlike \"sushi,\" there's a filling inside,\nso there's a little thrill to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16520",
+   "en": "I see. Interesting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16521",
+   "en": "Would you like one too, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16522",
+   "en": "Then I'll take one...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16523",
+   "en": "It's nicely salted. Quite tasty.\nAnd the filling... the filling... this is...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16524",
+   "en": "Oh, that's an \"umeboshi,\" a pickled plum.\nIt's sour, so it goes perfectly with rice.",
+   "flags": [],
+   "notes": "'a pickled plum' added as a gloss: the player is explaining Japanese food to Hilda."
+  },
+  {
+   "id": "c16525",
+   "en": "Ugh... I-I see...\nOh?! Right, I just remembered something I have to do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16526",
+   "en": "I'll gratefully take this with me.\nS-see you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16527",
+   "en": "H-huh? Hilda-sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16528",
+   "en": "(Could it be that Hilda-sensei\ncan't stand umeboshi...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16529",
+   "en": "(My packed lunch today was onigiri, wasn't it?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16530",
+   "en": "Oh, that's an \"umeboshi,\" a pickled plum.\nIt's sour, so it goes perfectly with rice, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16531",
+   "en": "(Next is Hilda-sensei's class.\nIf I'm late, I'm in trouble!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16532",
+   "en": "S-sorry! Hilda...-sensei...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16533",
+   "en": "Honestly, what do you think you're doing?!\nWhat if somebody got hurt over something like this?!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Who would get hurt is unstated (you / me); kept impersonal with 'somebody'."
+  },
+  {
+   "id": "c16534",
+   "en": "Sorry...\n...Was that scream just now... yours, Hilda-sensei?\nIt sounded awfully cute...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16535",
+   "en": "What are you babbling about?! Get going!\nIf you're late, I'll have you running laps all class!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16536",
+   "en": "Y-yes! Excuse me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16537",
+   "en": "(When she's caught off guard, Sensei makes\na surprisingly cute sound...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16538",
+   "en": "(Next is Hilda-sensei's class.\nI can't be late!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16539",
+   "en": "Eek!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female-only no-name-plate yelp, x4 (also nml_nns_007, nml_she_007, nml_yuu_008, all female collisions): read as the player's yelp. 'Eek!' also works if it is Hilda's scream."
+  },
+  {
+   "id": "c16540",
+   "en": "Sorry...\n...Was that scream just now... yours, Hilda-sensei?\nYour voice sounded kind of different from usual...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16541",
+   "en": "Y-yes! I'm sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16542",
+   "en": "(All right, lunch break! What should I eat...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16543",
+   "en": "(Huh? Is Hilda-sensei having lunch?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16544",
+   "en": "Hilda-sensei, are you about to have lunch?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16545",
+   "en": "Yes, that's right.\nThe weather's nice, so I thought I'd eat outside.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16546",
+   "en": "Is that so?\nHuh? But what are you going to eat?\nAll I can see is a thermos...",
+   "flags": [],
+   "notes": "'potto' read as a food thermos (the pot-au-feu is inside it)."
+  },
+  {
+   "id": "c16547",
+   "en": "Hm? Oh, I brought it in here.\nSee?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16548",
+   "en": "(Wow, that smells great! Is that pot-au-feu...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16549",
+   "en": "I ended up making too much last night,\nso I figured I might as well bring it for lunch.\nWell? Do you want some too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16550",
+   "en": "Then I'll gladly take you up on that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16551",
+   "en": "Mm. There's plenty, so don't hold back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16552",
+   "en": "(Hilda-sensei's cooking was delicious!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16553",
+   "en": "(Okay, lunch break! What should I eat~...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16554",
+   "en": "(Hm? Is Hilda-sensei having lunch?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16555",
+   "en": "Oh, really?\nHuh...? But what are you going to eat?\nAll I can see is a thermos...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16556",
+   "en": "(Wow, that smells great! That's pot-au-feu, right...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16557",
+   "en": "Then I'll gladly take you up on that~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16558",
+   "en": "(Hilda-sensei's cooking was delicious!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16559",
+   "en": "(Okay, EX-Gear training's over. Next class is...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16560",
+   "en": "Hey, \\p!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16561",
+   "en": "Yes?! Hilda-sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16562",
+   "en": "Were you taking that class seriously just now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16563",
+   "en": "Yes, of course!\nIt'd be harder to slack off while flying through the air!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16564",
+   "en": "I see. I suppose so...\nIn that case, you should build more strength in your core.",
+   "flags": [],
+   "notes": "'koshimawari' (around the hips/waist) rendered as 'core'."
+  },
+  {
+   "id": "c16565",
+   "en": "Huh? Uh...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16566",
+   "en": "Since you lack the strength, your posture\nin the air was strained, and you were wobbling a bit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16567",
+   "en": "Huh, was I?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16568",
+   "en": "Yes. Build a bit more strength, and you should be\nable to fly with ease. Keep that in mind for a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16569",
+   "en": "(Hilda-sensei really keeps an eye on us,\neven in classes that aren't hers.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16570",
+   "en": "Yes, of course!\nIt's way harder to slack off while flying, anyway!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16571",
+   "en": "Huh? Sorry?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16572",
+   "en": "(Hilda-sensei really keeps an eye on us,\neven in classes that aren't hers~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16573",
+   "en": "(Okay, that's the end of another week...\nWhat should I do this weekend...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16574",
+   "en": "(Oh, it's Hilda-sensei...\nMaybe I'll ask about her weekend plans for ideas.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16575",
+   "en": "Hilda-sensei, do you have a moment?",
+   "flags": [],
+   "notes": "x3: also scd_com_321 (White Day, Hilda)."
+  },
+  {
+   "id": "c16576",
+   "en": "Hm? \\p?\nWhat is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16577",
+   "en": "Well, I thought I'd ask about your weekend plans,\nSensei, and get some ideas...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16578",
+   "en": "Hm, I see. I doubt they'll be much help, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16579",
+   "en": "Huh, really?\nBut I'd still like to hear them, if you don't mind...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16580",
+   "en": "Ah, I see. Well...\nThis weekend, I was planning to do some cooking...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16581",
+   "en": "I see!\n...But the whole weekend?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16582",
+   "en": "Yes, that's right.\nI'm going to try my hand at a curry\nwith my own original spice blend.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16583",
+   "en": "Original... spice blend... huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16584",
+   "en": "Maybe you should find a hobby and give it a try too.\nWell, get home safe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16585",
+   "en": "(Hilda-sensei's cooking is the real deal, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16586",
+   "en": "(Okay, that's the end of another week.\nWhat should I do this weekend~...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16587",
+   "en": "(Oh, Hilda-sensei...\nI'll ask about her weekend plans for some ideas.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16588",
+   "en": "Um, I was thinking I'd ask about your weekend plans,\nSensei, for some ideas...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16589",
+   "en": "Huh, really?\nBut I'd still like to hear them, if that's okay...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16590",
+   "en": "Wow!\n...But the whole weekend?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16591",
+   "en": "(Hilda-sensei's cooking is the real deal...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c16533: Who would get hurt is unstated (you / me); kept impersonal with 'somebody'.",
+   "c16539: Female-only no-name-plate yelp, x4 (also nml_nns_007, nml_she_007, nml_yuu_008, all female collisions): read as the player's yelp. 'Eek!' also works if it is Hilda's scream."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

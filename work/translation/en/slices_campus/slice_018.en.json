@@ -1,0 +1,383 @@
+{
+ "slice": 18,
+ "rows_in_slice": 61,
+ "rows_examined": 61,
+ "rows": [
+  {
+   "id": "c01280",
+   "en": "Looks cool, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01281",
+   "en": "No, thanks",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01282",
+   "en": "I'll think about it",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01283",
+   "en": "I think I'll pass...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01284",
+   "en": "Even if I grew my hair out in back,\nnobody would notice anyway...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01285",
+   "en": "I see... I really think it'd suit you, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01286",
+   "en": "Oh, well...\nAre you free after this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01287",
+   "en": "I'll think about it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01288",
+   "en": "I'd have to grow my hair out first, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01289",
+   "en": "Nope, no plans in particular~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01290",
+   "en": "Then let's stop by a cafe on the way home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01291",
+   "en": "Yeah, let's!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01292",
+   "en": "(I really don't get Kagura-kun's sense of style...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01293",
+   "en": "(Lunch break at last~\nMaybe I'll eat with somebody~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01294",
+   "en": "\\p, let's get lunch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01295",
+   "en": "Sure, sounds good.\nI was just about to ask you, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01296",
+   "en": "Let's swing by the school store and head up to the roof.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01297",
+   "en": "Okay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01298",
+   "en": "The breeze feels nice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01299",
+   "en": "Yeah.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01300",
+   "en": "Hey, that's Shirakawa.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01301",
+   "en": "She's eating by herself...\nMind if we invite her?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01302",
+   "en": "I don't mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01303",
+   "en": "Hey, Shirakawa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01304",
+   "en": "...??",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01305",
+   "en": "Want to eat with us?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01306",
+   "en": "I don't particularly mind.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01307",
+   "en": "Great, let's eat together, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01308",
+   "en": "Oh, you brought a homemade lunch, Shirakawa.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01309",
+   "en": "Y-Yes...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01310",
+   "en": "That looks tasty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01311",
+   "en": "You want some?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01312",
+   "en": "Yeah.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01313",
+   "en": "Sigh... I suppose it can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01314",
+   "en": "Oh, I scored some karaage!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01315",
+   "en": "It's delicious!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01316",
+   "en": "Thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01317",
+   "en": "...It's not fair if I just keep taking, so here, have this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01318",
+   "en": "What's wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01319",
+   "en": "N-Nothing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01320",
+   "en": "It's pumpkin pie. It's really good, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01321",
+   "en": "...P-Pumpkin pie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01322",
+   "en": "Since you went to the trouble...\nI-I'll have some...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01323",
+   "en": "H-Hey!\nDon't do it!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Kagura's warning: read as aimed at Shirakawa, who is about to eat the pie; works for either listener."
+  },
+  {
+   "id": "c01324",
+   "en": "It's good, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01325",
+   "en": "Oh, boy...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01326",
+   "en": "I-I jusht... remembered shomething I hafta do...",
+   "flags": [],
+   "notes": "Slurred speech in the Japanese (she is sick from the pumpkin); kept as slurring."
+  },
+  {
+   "id": "c01327",
+   "en": "Huh? She left...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01328",
+   "en": "Sigh...\nShirakawa hates pumpkin, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01329",
+   "en": "What! Seriously!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01330",
+   "en": "Halloween trauma...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01331",
+   "en": "Trauma!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01332",
+   "en": "Come on, we'll be late for class.\nLet's head back too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01333",
+   "en": "O-Okay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01334",
+   "en": "(Wh-What happened to her...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01335",
+   "en": "Sure, sounds good.\nI was just about to ask you, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01336",
+   "en": "She's eating by herself...\nCan we invite her?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01337",
+   "en": "Yoo-hoo, Miyuki!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01338",
+   "en": "Ooh, you made your own lunch, Miyuki.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01339",
+   "en": "That looks yummy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01340",
+   "en": "Ooh, karaage! Score!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c01323: Kagura's 'Don't do it!' read as aimed at Shirakawa"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

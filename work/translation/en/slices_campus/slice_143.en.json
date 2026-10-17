@@ -1,0 +1,498 @@
+{
+ "slice": 143,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c10465",
+   "en": "(Hmm, I came to Deep Akihabara by myself,\nbut maybe I should've invited someone...)",
+   "flags": [],
+   "notes": "x3, both genders, frd_mcl_116. Deep Akihabara (glossary)."
+  },
+  {
+   "id": "c10466",
+   "en": "What are you doing in a place like this,\n\\p?",
+   "flags": [],
+   "notes": "x4, Michel, both genders."
+  },
+  {
+   "id": "c10467",
+   "en": "Oh, Michel.\nI just came to hang out in Deep Akihabara.\nWhat about you, Michel? What brings you here?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10468",
+   "en": "Actually, I was thinking of\nchecking out a maid cafe...",
+   "flags": [],
+   "notes": "x2, Michel (joking, see c10470). maid cafe as 'butler cafe' in slice 110."
+  },
+  {
+   "id": "c10469",
+   "en": "What?! A maid cafe?!\nA-are you serious, Michel?!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10470",
+   "en": "Geez, obviously I'm joking.\nDon't actually believe me, \\p.",
+   "flags": [],
+   "notes": "x2, Michel."
+  },
+  {
+   "id": "c10471",
+   "en": "R-right... Of course you are!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10472",
+   "en": "You've got nothing to do, right?\nI'm done shopping and free too,\nso let's stop by the arcade or something.",
+   "flags": [],
+   "notes": "x2, Michel."
+  },
+  {
+   "id": "c10473",
+   "en": "(Michel going to a maid cafe...\nPhew~, I'm really glad that was a joke...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10474",
+   "en": "Oh, Michel-kun.\nI just came to hang out in Deep Akihabara.\nWhat about you, Michel-kun? What brings you here?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10475",
+   "en": "What?! A maid cafe?!\nA-are you serious, Michel-kun?!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10476",
+   "en": "R-right... Of course you are!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10477",
+   "en": "(Michel-kun going to a maid cafe...\nPhew~, I'm really glad that was a joke...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10478",
+   "en": "Oh, Michel.\nI was just wandering around with nothing to do.\nWhat about you, Michel? What were you up to?",
+   "flags": [],
+   "notes": "Male, second visit."
+  },
+  {
+   "id": "c10479",
+   "en": "Just doing a little shopping.",
+   "flags": [],
+   "notes": "x2, Michel."
+  },
+  {
+   "id": "c10480",
+   "en": "If you've got nothing in particular to do,\nwell, I'm done shopping and free too,\nso let's stop by the arcade or something.",
+   "flags": [],
+   "notes": "x2, Michel."
+  },
+  {
+   "id": "c10481",
+   "en": "(Hanging out at the arcade with Michel\nwas a nice change of pace today.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10482",
+   "en": "(Hmm, I came to Deep Akihabara by myself,\nbut maybe I should've invited someone...)",
+   "flags": [],
+   "notes": "Female (kashira variant of c10465)."
+  },
+  {
+   "id": "c10483",
+   "en": "Oh, Michel-kun.\nI was just wandering around with nothing to do.\nWhat about you, Michel-kun? What were you up to?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10484",
+   "en": "(Hanging out at the arcade with Michel-kun\nwas a nice change of pace today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10485",
+   "en": "(I promised to go shopping with Shirakawa,\nbut...)",
+   "flags": [],
+   "notes": "Male, frd_myk_001. Shirakawa = Miyuki Shirakawa (female); the male player uses her bare surname."
+  },
+  {
+   "id": "c10486",
+   "en": "Shirakawa's late...",
+   "flags": [],
+   "notes": "Male, spoken aloud."
+  },
+  {
+   "id": "c10487",
+   "en": "Hey, Shirakawa.",
+   "flags": [],
+   "notes": "x3, male player."
+  },
+  {
+   "id": "c10488",
+   "en": "Hello, \\p-kun.",
+   "flags": [],
+   "notes": "Miyuki to the male player."
+  },
+  {
+   "id": "c10489",
+   "en": "You seem kinda stiff. What's up?\nAre you nervous?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10490",
+   "en": "I'm not nervous at all.",
+   "flags": [],
+   "notes": "x2, Miyuki, both genders."
+  },
+  {
+   "id": "c10491",
+   "en": "Okay. Well, as long as you're fine.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10492",
+   "en": "Well, well, but this is...",
+   "flags": [],
+   "notes": "Male, looking her over."
+  },
+  {
+   "id": "c10493",
+   "en": "Wh-what is it?\nPlease don't stare at me like that...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10494",
+   "en": "It's just, seeing you in casual clothes\nfeels kinda fresh, Shirakawa.",
+   "flags": [],
+   "notes": "Male. shifuku = casual clothes (not the uniform)."
+  },
+  {
+   "id": "c10495",
+   "en": "Oh, um, is that so...",
+   "flags": [],
+   "notes": "Miyuki."
+  },
+  {
+   "id": "c10496",
+   "en": "Your casual clothes suit you, too.\nYou look cute.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10497",
+   "en": "Ah! Wh-what are you SAYING?!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Miyuki, flustered; the Japanese writes desuka in katakana for a stilted, cracked delivery, rendered with caps."
+  },
+  {
+   "id": "c10498",
+   "en": "Hm? Did I say something weird?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10499",
+   "en": "Yes, you did! Honestly, what is with you?!",
+   "flags": [],
+   "notes": "Miyuki."
+  },
+  {
+   "id": "c10500",
+   "en": "Oh, honestly! Let's just go already!!",
+   "flags": [],
+   "notes": "Miyuki."
+  },
+  {
+   "id": "c10501",
+   "en": "Wait, where are you going? Not that way!",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10502",
+   "en": "I know that!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10503",
+   "en": "Today was fun.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10504",
+   "en": "I got to see you know a ton about tea, too.\nYou're amazing, Shirakawa!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10505",
+   "en": "I don't think it's anything special.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10506",
+   "en": "Hmm, you don't have to be so modest.",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10507",
+   "en": "There are plenty of people\nwho know a lot about it.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10508",
+   "en": "Well, no one around me ever knew\nas much about it as you do, Shirakawa...",
+   "flags": [],
+   "notes": "Male (boku)."
+  },
+  {
+   "id": "c10509",
+   "en": "And getting to see you in such cute casual\nclothes was great too, Shirakawa.\nToday was a really nice change of pace.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10510",
+   "en": "Oh, come on, stop it!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10511",
+   "en": "Hahaha, well then, shall we head home?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10512",
+   "en": "Yes.\nWell then, see you at school.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10513",
+   "en": "(Wow, a real young lady, all right.\nShe looks so dignified even walking away...)",
+   "flags": [],
+   "notes": "x2, both genders. ojousama = young lady of good family (Miyuki is from an elite family)."
+  },
+  {
+   "id": "c10514",
+   "en": "(I made plans to go shopping with Miyuki,\nbut...)",
+   "flags": [],
+   "notes": "Female; the female player uses her given name."
+  },
+  {
+   "id": "c10515",
+   "en": "Miyuki's late...",
+   "flags": [],
+   "notes": "Female, spoken aloud."
+  },
+  {
+   "id": "c10516",
+   "en": "Oh, Miyuki.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10517",
+   "en": "Huh, you seem kinda stiff... What's up?\nAre you nervous?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10518",
+   "en": "Okay. Well, if you say so...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10519",
+   "en": "Hmm, hmm...",
+   "flags": [],
+   "notes": "Female, looking her over."
+  },
+  {
+   "id": "c10520",
+   "en": "It's just, seeing you in casual clothes\nfeels kinda fresh, Miyuki.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10521",
+   "en": "You look super cute!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10522",
+   "en": "You're cute when you're embarrassed, too!",
+   "flags": [],
+   "notes": "Female; teruteru Miyuki mo kawaii."
+  },
+  {
+   "id": "c10523",
+   "en": "Oh, stop teasing me!\nCome on, let's go.",
+   "flags": [],
+   "notes": "Miyuki."
+  },
+  {
+   "id": "c10524",
+   "en": "Today was fun, wasn't it?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10525",
+   "en": "I got to see you know a ton about tea, too.\nYou're amazing, Miyuki!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10526",
+   "en": "Well, no one around me ever knew\nas much about it as you do, Miyuki...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10527",
+   "en": "And getting to see you in such cute casual\nclothes was great too, Miyuki.\nToday was a really nice change of pace.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10528",
+   "en": "Hahaha, well then, let's head home.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10529",
+   "en": "(I've gotten totally hooked on tea...\nToday I'll get some more advice\nfrom Shirakawa-sensei~)",
+   "flags": [],
+   "notes": "Male. Playful 'sensei' for Miyuki as tea teacher. koucha = (black) tea."
+  },
+  {
+   "id": "c10530",
+   "en": "(Shirakawa's late...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10531",
+   "en": "I'm sorry I'm late.",
+   "flags": [],
+   "notes": "x2, Miyuki, both genders."
+  },
+  {
+   "id": "c10532",
+   "en": "It's fine. I just got here myself.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10533",
+   "en": "You seem like the type who'd say that\nto anyone.",
+   "flags": [],
+   "notes": "Miyuki teasing the male player."
+  },
+  {
+   "id": "c10534",
+   "en": "Th-that's not true!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10535",
+   "en": "I'm kidding.",
+   "flags": [],
+   "notes": "Miyuki."
+  },
+  {
+   "id": "c10536",
+   "en": "It doesn't sound like you're kidding!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10537",
+   "en": "Hehe... Now, shall we go?",
+   "flags": [],
+   "notes": "Miyuki (kusukusu). Review: Miyuki's kusukusu/kusu is 'Hehe' (as elsewhere)."
+  },
+  {
+   "id": "c10538",
+   "en": "Thanks, I found some good water.",
+   "flags": [],
+   "notes": "Male; water for brewing tea."
+  },
+  {
+   "id": "c10539",
+   "en": "It also depends on how it suits the tea leaves,\nso ask me again when you brew\nother kinds of tea.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10540",
+   "en": "I see. There's a lot more to it\nthan I thought...",
+   "flags": [],
+   "notes": "Male (okubukai)."
+  },
+  {
+   "id": "c10541",
+   "en": "That's what makes it fun.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10542",
+   "en": "Well then, I'll be going now.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10543",
+   "en": "(Okay, time to head home and have some tea~)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10544",
+   "en": "(I've gotten totally hooked on tea...\nToday I'll get some more advice\nfrom Miyuki-sensei~)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c10497: Miyuki's flustered line writes desuka in katakana (stilted, voice cracking); rendered as 'Wh-what are you SAYING?!' with caps.",
+   "c10529/c10544: the player jokingly calls Miyuki 'Shirakawa-sensei' / 'Miyuki-sensei' as their tea teacher; honorific kept as in the Japanese."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

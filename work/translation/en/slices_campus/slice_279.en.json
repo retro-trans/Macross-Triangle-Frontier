@@ -1,0 +1,451 @@
+{
+ "slice": 279,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c20012",
+   "en": "(I came to the convenience store for a\nlate-night snack. Is there anything else\nI should pick up?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20013",
+   "en": "Out this late at night? Ooh, naughty, naughty~\nI'm gonna tattle to Sensei tomorrow~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20014",
+   "en": "Hey, Hoshimura.\nBut you're just as guilty, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20015",
+   "en": "Oh, now that you mention it, I guess so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20016",
+   "en": "Then let's both keep it a secret!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20017",
+   "en": "Sure, sure.\nSo what'd you come to the store for, Hoshimura?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20018",
+   "en": "Me, I got hungry, so I came to buy snacks.\nWhat about you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20019",
+   "en": "I got hungry too, s......",
+   "flags": [],
+   "notes": "Deliberately cut off mid-word (the Japanese breaks off in 'kara'); Yui interrupts with her misunderstanding."
+  },
+  {
+   "id": "c20020",
+   "en": "Oh, sorry, that was a tactless thing to ask...\nYou're sneaking out to a convenience store\nat this hour. A healthy boy can't help it...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Yui assumes the male player is secretly buying something racy; the implication is kept as vague as the Japanese."
+  },
+  {
+   "id": "c20021",
+   "en": "Yup, you and I never met.\nSo let's just say I have no idea what\nyou were trying to buy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20022",
+   "en": "What are you talking about, Hoshimura?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20023",
+   "en": "Mm-hm, see ya!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20024",
+   "en": "(What on earth did she get the wrong idea\nabout? Honestly, that Hoshimura...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20025",
+   "en": "(I came to the convenience store for a\nlate-night snack. Is there anything else\nI should pick up?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20026",
+   "en": "Oh, Yui.\nBut you're just as guilty, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20027",
+   "en": "Sure, sure.\nSo what'd you come to the store for, Yui?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20028",
+   "en": "I got a little hungry too, so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20029",
+   "en": "You're quite the daredevil yourself, huh?\nSnacking at this hour.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20030",
+   "en": "You're doing the same thing, Yui, aren't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20031",
+   "en": "Urk! Well, yeah, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20032",
+   "en": "Just a little should be okay, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20033",
+   "en": "Probably...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20034",
+   "en": "Then don't sweat it, don't sweat it!\nSee ya!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20035",
+   "en": "(Just a little should be okay...\nright......?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20036",
+   "en": "(So these are the scars of the battle...\nI had no idea the damage was this bad......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20037",
+   "en": "Why did it have to come to this, huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20038",
+   "en": "So you came here too, Hoshimura...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20039",
+   "en": "All we're doing is looking for a planet we can\nlive on... So why... why did this happen...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20040",
+   "en": "Hoshimura...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20041",
+   "en": "Sorry... I ended up dumping\nall my whining on you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20042",
+   "en": "Don't worry about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20043",
+   "en": "There's no use moping around forever, right!\nLet's go at it with a full tank of energy,\nenough to fix this whole town in one go~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20044",
+   "en": "Yeah, that's it. You're way better when\nyou're full of energy, Hoshimura.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20045",
+   "en": "Right? Energy's my selling point, after all!\nAlrighty~! Bring it onnn~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20046",
+   "en": "(Even if she's only putting on a brave face,\nthat's better than being gloomy right now...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20047",
+   "en": "(So these are the scars of the battle...\nI had no idea the damage was this bad......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20048",
+   "en": "So you came here too, Yui...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20049",
+   "en": "Yui...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20050",
+   "en": "It's fine, don't worry about it.",
+   "flags": [],
+   "notes": "Shared: female player to Yui (nml_yui_005) and Claire to the player (scd_com_716); works for both."
+  },
+  {
+   "id": "c20051",
+   "en": "Yeah, that's it. You're way better when\nyou're full of energy, Yui.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20052",
+   "en": "(Even if she's only putting on a brave face,\nthat's better than being gloomy right now...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20053",
+   "en": "(Phew~ The tests are finally over~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20054",
+   "en": "Uuuuugh~......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20055",
+   "en": "(Whoa, there's somebody lying dead over there...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20056",
+   "en": "Hoshimura... Was it really that bad?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20057",
+   "en": "Don't ask... don't ask me anything right now......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20058",
+   "en": "(It must've been really bad...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20059",
+   "en": "Ha ha ha ha ha!!\nNo use staying down in the dumps forever!\nTests are over, so all that's left is fun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20060",
+   "en": "All right! Let's go out and have a blast~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20061",
+   "en": "Ah, Hoshimura...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20062",
+   "en": "(Hoshimura's finally escaped from reality...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20063",
+   "en": "(Whoa, there's somebody lying dead over there...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20064",
+   "en": "Yui... Was it really that bad?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20065",
+   "en": "(Looks like it was really bad...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20066",
+   "en": "Ah, Yui...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20067",
+   "en": "(Yui's finally escaped from reality...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20068",
+   "en": "(Lunchtime at last.\nWhat should I eat today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20069",
+   "en": "Yo~, \\p!\nWhatcha gonna do for lunch today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20070",
+   "en": "I haven't decided yet...\nWhat are you going to eat, Hoshimura?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20071",
+   "en": "I haven't decided yet either.\nWell, since we're both here, let's eat together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20072",
+   "en": "Sure, let's.\nHoshimura, is there any food you don't like?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20073",
+   "en": "Hmm... Food I don't like, huh......\nFood I don't like...\nHmmm............",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20074",
+   "en": "(I didn't think I'd asked a question\nhard enough to agonize over like that...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20075",
+   "en": "Yup! I thought it over real hard, and\nI don't think there's any food I hate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20076",
+   "en": "Being picky is such a waste, after all.\nIf it's edible, you gotta eat it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20077",
+   "en": "So, can you even eat really bizarre food?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20078",
+   "en": "Easy-peasy!\nOnce you're at Yui-san's level, stuff like that\ngoes down in a single bite, I tell ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20079",
+   "en": "(She's not just bluffing. Hoshimura really\nwould eat it without a second thought...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20080",
+   "en": "(Lunchtime at last.\nWhat should I eat today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20081",
+   "en": "I haven't decided yet...\nWhat are you going to eat, Yui?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20082",
+   "en": "Sure, let's.\nYui, is there any food you don't like?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20083",
+   "en": "(She's not just bluffing. Yui really\nwould eat it without a second thought...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c20020: Yui's misunderstanding (she thinks the male player sneaked out to buy something racy) kept as implied as in the Japanese.",
+   "c20013: 'sensei ni chikuccha o' -> 'tattle to Sensei' (unnamed teacher).",
+   "c20050: shared by the female player (to Yui) and Claire (scd_com_716); neutral 'It's fine, don't worry about it.'"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

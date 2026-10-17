@@ -1,0 +1,467 @@
+{
+ "slice": 318,
+ "rows_in_slice": 75,
+ "rows_examined": 75,
+ "rows": [
+  {
+   "id": "c22975",
+   "en": "(The Practical Test is coming up soon,\nso maybe I'll get in some training\non my own today.)",
+   "flags": [],
+   "notes": "Shared male/female. Jishu-tore = self-directed training."
+  },
+  {
+   "id": "c22976",
+   "en": "Oh, if it isn't \\p.\nYou showed up at just the right time.",
+   "flags": [],
+   "notes": "Michel; shared male/female."
+  },
+  {
+   "id": "c22977",
+   "en": "Yes. The thing is, the Pilot Course got a job\nrequest asking us to perform EX-Gear\nacrobatics at a concert.",
+   "flags": [],
+   "notes": "Luca, answering the player's 'Need something from me?'. Koukuuka = Pilot Course (glossary)."
+  },
+  {
+   "id": "c22978",
+   "en": "So we'd like you to be in that concert too...\nThat's no problem, right?",
+   "flags": [],
+   "notes": "Michel asks the player to perform."
+  },
+  {
+   "id": "c22979",
+   "en": "What?!\nAre you sure it's okay for someone like me\nto be in it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22980",
+   "en": "With your skills, \\p-san,\nit won't be a problem at all.",
+   "flags": [],
+   "notes": "Luca."
+  },
+  {
+   "id": "c22981",
+   "en": "We're giving you our seal of approval.\nSo go in with some confidence.",
+   "flags": [],
+   "notes": "Michel. Taikoban wo osu = vouch for, guarantee."
+  },
+  {
+   "id": "c22982",
+   "en": "Michel... Luca...\nAll right, I'd love to perform too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22983",
+   "en": "Great, so that settles the performers\nfor the 'Sheryl' concert.\nNo problem there, right, Luca?",
+   "flags": [],
+   "notes": "The Japanese sets Sheryl in quotes; the player has not caught on yet. Kept the quotes."
+  },
+  {
+   "id": "c22984",
+   "en": "Right.\nNow all that's left is to decide on the\nacrobatics program for the 'Sheryl' concert!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22985",
+   "en": "...Huh? What?\n...What do you mean, the 'Sheryl' concert?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c22986",
+   "en": "What?! \\p-san...\nDon't tell me you don't know\nabout the famous Sheryl?",
+   "flags": [],
+   "notes": "Luca; 'ano Sheryl' = that (famous) Sheryl."
+  },
+  {
+   "id": "c22987",
+   "en": "If the Sheryl you're talking about, Luca,\nis 'Sheryl Nome,'\nthen of course I know her...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22988",
+   "en": "Wait, you really mean the Galactic Fairy...?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c22989",
+   "en": "Yeah. We're going to be in the concert\nof the Galactic Fairy, 'Sheryl Nome.'",
+   "flags": [],
+   "notes": "Michel."
+  },
+  {
+   "id": "c22990",
+   "en": "Wha...............",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c22991",
+   "en": "Whaaaaaaaaaaaaaat?!!!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c22992",
+   "en": "Y-you're kidding me, right?! Luca?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22993",
+   "en": "No, of course it's true,\n\\p-san.",
+   "flags": [],
+   "notes": "Luca."
+  },
+  {
+   "id": "c22994",
+   "en": "We'll be flying at Sheryl's concert.\nIf we messed up, it'd be a disaster...",
+   "flags": [],
+   "notes": "Michel, teasing."
+  },
+  {
+   "id": "c22995",
+   "en": "That's true.\nIf we messed up...",
+   "flags": [],
+   "notes": "Luca joins the teasing."
+  },
+  {
+   "id": "c22996",
+   "en": "Come on, don't you two suddenly\nput that kind of pressure on me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22997",
+   "en": "Haha, I'm just kidding.\nLike I said, you'll do just fine.",
+   "flags": [],
+   "notes": "Michel."
+  },
+  {
+   "id": "c22998",
+   "en": "Besides, Sheryl's concert or not,\nwhat we're doing is no different from usual.\nLet's just take it easy.",
+   "flags": [],
+   "notes": "Michel."
+  },
+  {
+   "id": "c22999",
+   "en": "Sigh... There's no way I can\nshrug it off like you, Michel, but...",
+   "flags": [],
+   "notes": "Warikiru = treat it matter-of-factly."
+  },
+  {
+   "id": "c23000",
+   "en": "Yeah! I'll perform at\nSheryl's concert too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23001",
+   "en": "...Besides, I'd like to meet Sheryl.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23002",
+   "en": "Heh, I'm counting on you, \\p.",
+   "flags": [],
+   "notes": "Michel."
+  },
+  {
+   "id": "c23003",
+   "en": "(I'm going to be performing at Sheryl Nome's\nconcert... I still can't believe it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23004",
+   "en": "(I'll actually get to meet the Galactic Fairy...\nI'd better at least be ready\nto get an autograph...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23005",
+   "en": "What?!\nAre you sure it's okay for someone like me\nto be in it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23006",
+   "en": "Michel-kun... Luca-kun...\nAll right, I'd love to perform too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23007",
+   "en": "If the Sheryl you're talking about, Luca-kun,\nis 'Sheryl Nome,'\nthen of course I know her...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23008",
+   "en": "Y-you're kidding me, right?! Luca-kun?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23009",
+   "en": "Come on, don't you two suddenly\nput that kind of pressure on me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23010",
+   "en": "Sigh... There's no way I can\nshrug it off like you, Michel-kun, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23011",
+   "en": "Yeah! I'll perform at\nSheryl's concert too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23012",
+   "en": "(I'm going to be performing at Sheryl Nome's\nconcert... I still can't believe it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23013",
+   "en": "(I'll actually get to meet the Galactic Fairy...\nI'd better at least be ready\nto get an autograph...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23014",
+   "en": "(There was a rumor that a transfer student\nwas coming to our class, so I was looking\nforward to seeing who it'd be, but...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23015",
+   "en": "I'm Ranka Lee, and I've transferred into\nthe Performing Arts Course.\nIt's nice to meet you all!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x4 (also scd_fes_201). Geinou course = Performing Arts Course, a provisional glossary entry."
+  },
+  {
+   "id": "c23016",
+   "en": "(I never imagined the transfer student\nwould be Ranka...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23017",
+   "en": "That was a surprise.\nI never thought you'd transfer to Mihoshi,\nRanka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23018",
+   "en": "Hehe, I kept it a secret from everyone.\nIf you were surprised, then it worked\nperfectly!",
+   "flags": [],
+   "notes": "Ranka; shared male/female."
+  },
+  {
+   "id": "c23019",
+   "en": "But why did you transfer to Mihoshi, anyway?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23020",
+   "en": "Well, the thing is...\nI got scouted by a talent agency and started\nworking, so I couldn't stay at my old school.",
+   "flags": [],
+   "notes": "Ranka; shared male/female."
+  },
+  {
+   "id": "c23021",
+   "en": "So I took Mihoshi's transfer exam.\nI was so nervous~ It's famous for being\ntough, with practical exams and everything.",
+   "flags": [],
+   "notes": "Ranka; x4 (also scd_fes_201). Reflowed within 3 lines."
+  },
+  {
+   "id": "c23022",
+   "en": "And you passed, so as of today\nyou're a Mihoshi student, huh?",
+   "flags": [],
+   "notes": "Also used in scd_fes_201 (male)."
+  },
+  {
+   "id": "c23023",
+   "en": "Yep, that's right.\nSo look out for me at school too from now on,\n\\p-kun.",
+   "flags": [],
+   "notes": "Ranka; also scd_fes_201. Korekara wa gakkou demo yoroshiku."
+  },
+  {
+   "id": "c23024",
+   "en": "Okay, I'm going to go say hi to Alto-kun\nand the others too. See you, \\p-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23025",
+   "en": "(Ranka transferring here was a surprise,\nbut now we get to enjoy school life together.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23026",
+   "en": "(It'd be nice if Ranka and I could get\neven closer than before......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23027",
+   "en": "(Wait, there's a commotion in the schoolyard.\nWhat's going on?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23028",
+   "en": "(Huh?! That's Sheryl, isn't it...?\nWhy is the Galactic Fairy at Mihoshi?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23029",
+   "en": "(It's been a few days since Sheryl's surprise\nvisit, and Mihoshi should've calmed down\nby now, but...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23030",
+   "en": "(How did it come to this?\nHow......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23031",
+   "en": "I've transferred into the Pilot Course.\nI'm Sheryl Nome.",
+   "flags": [],
+   "notes": "x4 (also scd_fes_201). Pairotto koosu = Pilot Course (glossary alias)."
+  },
+  {
+   "id": "c23032",
+   "en": "(The Galactic Fairy, Sheryl Nome,\nhas transferred to Mihoshi!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23033",
+   "en": "I transferred here because I wanted\nto get a little taste of high school life.",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c23034",
+   "en": "Nice to meet you.",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c23035",
+   "en": "(Not just Ranka, but even THE Sheryl\ntransferring here...)",
+   "flags": [],
+   "notes": "'Ano Sheryl' = the famous Sheryl."
+  },
+  {
+   "id": "c23036",
+   "en": "(This really isn't a dream... is it...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23037",
+   "en": "(I never imagined the transfer student\nwould be Ranka-chan...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23038",
+   "en": "That was a surprise.\nI never thought you'd transfer to Mihoshi,\nRanka-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23039",
+   "en": "And you passed, so as of today\nyou're a Mihoshi student, right?",
+   "flags": [],
+   "notes": "Also used in scd_fes_201 (female)."
+  },
+  {
+   "id": "c23040",
+   "en": "Yep, that's right.\nSo look out for me at school too from now on,\n\\p-chan.",
+   "flags": [],
+   "notes": "Ranka; also scd_fes_201."
+  },
+  {
+   "id": "c23041",
+   "en": "Okay, I'm going to go say hi to Alto-kun\nand the others too. See you, \\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23042",
+   "en": "(Ranka-chan transferring here was a surprise,\nbut now we get to enjoy school life together.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23043",
+   "en": "(It'd be nice if Ranka-chan and I could get\neven closer than before......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23044",
+   "en": "(Wait, there's a commotion in the schoolyard.\nWhat's going on?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23045",
+   "en": "(Huh?! That's Sheryl, isn't it...?\nWhy is the Galactic Fairy at Mihoshi?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23046",
+   "en": "(How did it come to this?\nHow......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23047",
+   "en": "(The Galactic Fairy, Sheryl Nome,\nhas transferred to Mihoshi!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23048",
+   "en": "(Not just Ranka-chan, but even THE Sheryl\ntransferring here...)",
+   "flags": [],
+   "notes": "The female player says bare 'Sheryl' here (no -san), as in the Japanese."
+  },
+  {
+   "id": "c23049",
+   "en": "(This really isn't a dream... is it...?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c23015: Geinou course = 'Performing Arts Course', glossary entry still provisional."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

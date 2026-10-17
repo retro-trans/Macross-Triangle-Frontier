@@ -1,0 +1,394 @@
+{
+ "slice": 132,
+ "rows_in_slice": 63,
+ "rows_examined": 63,
+ "rows": [
+  {
+   "id": "c09693",
+   "en": "(What should I do after school today...)",
+   "flags": [],
+   "notes": "x4, both genders (frd_luk_114)."
+  },
+  {
+   "id": "c09694",
+   "en": "\\p-san,\nis something the matter?",
+   "flags": [],
+   "notes": "x6: Luca (frd_luk_114) and Nanase (nml_nns_010/014), both genders; works for all."
+  },
+  {
+   "id": "c09695",
+   "en": "I've got nothing to do, y'know.",
+   "flags": [],
+   "notes": "x2, male. hima = free/bored."
+  },
+  {
+   "id": "c09696",
+   "en": "I see...\nWell then...",
+   "flags": [],
+   "notes": "x2, Luca, both genders; he is about to leave."
+  },
+  {
+   "id": "c09697",
+   "en": "Now now now now...\nLet's stop somewhere on the way home~\nLucaaa~",
+   "flags": [],
+   "notes": "Male. Whiny voice, which Luca calls out in c09698."
+  },
+  {
+   "id": "c09698",
+   "en": "Please don't use that weird voice...\nSo, where do you want to stop?",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09699",
+   "en": "Hmm~ Where would be good?",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09700",
+   "en": "You haven't decided...?\nThen please come along to the place\nI want to stop by.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09701",
+   "en": "Deep Akihabara, huh?",
+   "flags": [],
+   "notes": "Male. Spoken, no brackets in the Japanese."
+  },
+  {
+   "id": "c09702",
+   "en": "A part I've been wanting just came out\nrecently, you see.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09703",
+   "en": "Then let's go buy those parts!",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09704",
+   "en": "I've got nothing to do~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09705",
+   "en": "Hey hey heyyy~\nLet's stop somewhere on the way home~\nLuca-kuuun~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09706",
+   "en": "Oh, Deep Akihabara, huh?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09707",
+   "en": "Again...?\nI'm not tagging along with you today...",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09708",
+   "en": "Whaaat?! Don't leave me behind, Lucaaa~\nLet's go have some fun on the way home~\nLucaaa~",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09709",
+   "en": "Please don't whine at me in that weird voice...\nFine, you win...",
+   "flags": [],
+   "notes": "x2, Luca, both genders. wakarimashita kara = okay, I get it."
+  },
+  {
+   "id": "c09710",
+   "en": "Is Deep Akihabara okay again today?",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09711",
+   "en": "Yeah, anywhere's OK by me.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09712",
+   "en": "This town's always so dim,\nno matter when you come.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09713",
+   "en": "It's an underground town, after all.\nJust like the name says.",
+   "flags": [],
+   "notes": "x2, Luca, both genders. 'Deep' in the name = underground."
+  },
+  {
+   "id": "c09714",
+   "en": "Alright, let's go shopping right away.",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09715",
+   "en": "I've got nothing to do.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09716",
+   "en": "Whaaat?! Don't leave me behind, Luca-kuuun!\nLet's go have some fun on the way home~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09717",
+   "en": "Yeah, anywhere's OK by me!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09718",
+   "en": "This town's always so dim,\nno matter when you come.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09719",
+   "en": "(Right, I had simulator training\nwith Luca today.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09720",
+   "en": "We shouldn't waste any time.\nLet's head to the facility.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09721",
+   "en": "Getting ready took me forever.\nSorry, Luca.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09722",
+   "en": "No, I know how much of a hassle it is.",
+   "flags": [],
+   "notes": "x2, Luca, both genders. kurou wa wakattemasu."
+  },
+  {
+   "id": "c09723",
+   "en": "Well then, let's give it a try.",
+   "flags": [],
+   "notes": "Luca, male scene."
+  },
+  {
+   "id": "c09724",
+   "en": "Ngh, I lost...",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09725",
+   "en": "Man, all that practice paid off!\nThat was a good match, Luca.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09726",
+   "en": "Looks like there's nothing left\nfor me to teach you.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09727",
+   "en": "Th-That's not true!\nI can't handle Ghosts at all!!",
+   "flags": [],
+   "notes": "Male. Ghost = Luca's drones."
+  },
+  {
+   "id": "c09728",
+   "en": "No, \\p-san, I'm sure\nyou can do anything.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09729",
+   "en": "Flattering me won't get you anything,\nyou know?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09730",
+   "en": "Ahahaha!\nShall we go one more round?",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09731",
+   "en": "(Right, I had simulator training\nwith Luca-kun today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09732",
+   "en": "Getting ready took me forever.\nSorry, Luca-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09733",
+   "en": "It makes me happy to hear you say that.",
+   "flags": [],
+   "notes": "Female; answers c09722."
+  },
+  {
+   "id": "c09734",
+   "en": "Well then, let's give it our all today too.",
+   "flags": [],
+   "notes": "Luca, female scene."
+  },
+  {
+   "id": "c09735",
+   "en": "Ahah, all that practice paid off!\nThat was a good match, Luca-kun!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09736",
+   "en": "Th-That's not true!\nI can't handle Ghosts at all!!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09737",
+   "en": "Geez... Flattering me won't get you\nanything, you know?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09738",
+   "en": "(I had simulator training with Luca\nagain today.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09739",
+   "en": "Well then, let's head to the facility.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09740",
+   "en": "Looks like you're all set, Luca.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09741",
+   "en": "Let's get started right away.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09742",
+   "en": "Ooh, you're really fired up.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09743",
+   "en": "Haha, today's win goes to me.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09744",
+   "en": "Ngh... I lost...\nWas last time just a fluke...?",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09745",
+   "en": "I studied your behavior patterns inside out,\nso of course you lost.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09746",
+   "en": "...Th-That's so petty, Luca!",
+   "flags": [],
+   "notes": "Male. otonagenai = petty, unsporting."
+  },
+  {
+   "id": "c09747",
+   "en": "I'll do whatever it takes to win.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c09748",
+   "en": "Grrr!! I demand a rematch!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09749",
+   "en": "Bring it on!",
+   "flags": [],
+   "notes": "x4: Luca here, Ranka in nml_she_020 (accepting Sheryl's challenge); fits both."
+  },
+  {
+   "id": "c09750",
+   "en": "(Simulator training with Luca-kun\nagain today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09751",
+   "en": "I just got here too.",
+   "flags": [],
+   "notes": "Female; as c07338."
+  },
+  {
+   "id": "c09752",
+   "en": "Looks like you're all set, Luca-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09753",
+   "en": "Oho? You're really fired up, huh?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09754",
+   "en": "...Th-That's so petty, Luca-kun!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09755",
+   "en": "Grrr!! I demand a rematch!!",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c09746/c09754: otonagenai rendered 'so petty' (Luca studied the player's patterns to win).",
+   "c09701/c09706/c09710: Deep Akihabara (locations.json)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

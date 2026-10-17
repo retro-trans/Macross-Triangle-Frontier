@@ -1,0 +1,527 @@
+{
+ "slice": 46,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "pf_cnr/324",
+   "en": "Looks like you made it back in one piece.",
+   "flags": [],
+   "notes": "Result lines (320-331)."
+  },
+  {
+   "id": "pf_cnr/325",
+   "en": "I'm counting on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/326",
+   "en": "I look forward to seeing how you grow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/327",
+   "en": "You're quite skilled. Keep it up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/328",
+   "en": "Seems you've grown enough to keep up with me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/329",
+   "en": "I'm really glad you're my partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/330",
+   "en": "I acknowledged you. This much is a given.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/331",
+   "en": "Come to a concert with me sometime. Kiichiro Tokugawa's.",
+   "flags": [
+    "name_missing",
+    "uncertain",
+    "whisper_doubt"
+   ],
+   "notes": "Tail heard as 'Tokugawa Kiichirou no na' (the name of); read as '...no na' (one of his). Kiichiro Tokugawa (a singer, presumably) is not in the glossary."
+  },
+  {
+   "id": "pf_cnr/340",
+   "en": "Amazing you'd show up on a battlefield with skills like that.",
+   "flags": [],
+   "notes": "Second partner set (340-371)."
+  },
+  {
+   "id": "pf_cnr/341",
+   "en": "Looks like I'd be more efficient alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/342",
+   "en": "Don't go sticking your hand in too much.",
+   "flags": [],
+   "notes": "amari te wo dasu n ja nai zo."
+  },
+  {
+   "id": "pf_cnr/343",
+   "en": "Don't do anything reckless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/344",
+   "en": "Let's go! Follow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/345",
+   "en": "Don't let the battlefield swallow you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/346",
+   "en": "I'll be relying on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/347",
+   "en": "Don't die. That's all I can tell you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/348",
+   "en": "I have high hopes for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/349",
+   "en": "I'm counting on you, partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/350",
+   "en": "We can do it. After all, I've got you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/351",
+   "en": "I'll watch your back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/360",
+   "en": "From now on, I'll do it alone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/361",
+   "en": "I didn't think you'd be this worthless.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/362",
+   "en": "If you don't want to die, never set foot on a battlefield again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/363",
+   "en": "Glad you made it back safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/364",
+   "en": "Mission successful. Shall we head back too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/365",
+   "en": "Not bad. I'm counting on you next time too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/366",
+   "en": "Excellent results. Impressive as always.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/367",
+   "en": "I'm glad you lived up to my expectations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/368",
+   "en": "Your work was a sight to behold.",
+   "flags": [],
+   "notes": "horebore suru hatarakiburi."
+  },
+  {
+   "id": "pf_cnr/369",
+   "en": "You're a really dependable partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/370",
+   "en": "I look forward to staying your partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/371",
+   "en": "To think you'd be the one watching my back. You've grown.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/1000",
+   "en": "Rabbit 1, starting interception. If you don't want to die, get out of my sight!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Callsign 'Rabitto Wan' (Rabbit 1) is not in the glossary."
+  },
+  {
+   "id": "pf_cnr/1001",
+   "en": "Drop dead, you monsters!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/1002",
+   "en": "I'm heading out, Eddie.",
+   "flags": [
+    "name_missing",
+    "uncertain"
+   ],
+   "notes": "Edi (Eddie) is not in the glossary; same name as pf_cnr/136."
+  },
+  {
+   "id": "pf_cnr/1003",
+   "en": "I'll fly gently. As much as I can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_cnr/1004",
+   "en": "For our future!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_klm/200",
+   "en": "That much is only natural!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_klm/201",
+   "en": "Well done! You've earned my praise!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'homedeiaru' read as homete yaru (I'll praise you)."
+  },
+  {
+   "id": "pf_klm/210",
+   "en": "Looks like you need cover.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_klm/211",
+   "en": "Fall back!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'sakare' (wrong kanji) read as sagare!"
+  },
+  {
+   "id": "pf_klm/212",
+   "en": "Keep that up and you're in danger!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_klm/213",
+   "en": "They got you?",
+   "flags": [],
+   "notes": "Partner shot down (213-215)."
+  },
+  {
+   "id": "pf_klm/214",
+   "en": "Answer me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_klm/215",
+   "en": "Is this my fault?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_klm/216",
+   "en": "Impressive!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_klm/217",
+   "en": "What an incredible performance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_klm/1000",
+   "en": "You're late, Michel!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_klm/1001",
+   "en": "Quit dawdling, Michel!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_kln/200",
+   "en": "That much is only natural.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_kln/201",
+   "en": "Well done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_kln/211",
+   "en": "Fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_kln/215",
+   "en": "Never thought it would end like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_kln/216",
+   "en": "Impressive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_kln/217",
+   "en": "An incredible performance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_kln/1000",
+   "en": "Let's go, Michel! Formation MM Jenius! Don't you dare miss!",
+   "flags": [],
+   "notes": "Formation 'MM Jiinasu' = MM Jenius."
+  },
+  {
+   "id": "pf_kln/1001",
+   "en": "What?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_luk/200",
+   "en": "I can't fall behind either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_luk/201",
+   "en": "I can do that much too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_luk/210",
+   "en": "This is getting dangerous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_luk/211",
+   "en": "Please fall back and regroup!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_luk/212",
+   "en": "I'll back you up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_luk/213",
+   "en": "Please eject, quickly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_luk/214",
+   "en": "No... How could this...",
+   "flags": [],
+   "notes": "Trails off in the Japanese."
+  },
+  {
+   "id": "pf_luk/215",
+   "en": "All because I wasn't good enough...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_luk/216",
+   "en": "Amazing! I need to learn from you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_luk/217",
+   "en": "Impressive as always.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_luk/1000",
+   "en": "You two, don't forget this is a movie shoot!",
+   "flags": [],
+   "notes": "eiga no satsuei (the Bird Human film mission)."
+  },
+  {
+   "id": "pf_luk/1001",
+   "en": "You two are getting way too worked up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_luk/1002",
+   "en": "All the best parts got taken, huh.",
+   "flags": [
+    "kept_omission",
+    "uncertain"
+   ],
+   "notes": "ii tokoro wa minna motte ikarechaimashita ne: who took them (and from whom) is not stated; kept the agentless passive."
+  },
+  {
+   "id": "pf_mcl/200",
+   "en": "I won't let you hog all the glory.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/201",
+   "en": "I'd better show off a little too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/210",
+   "en": "I'll move in to cover you.",
+   "flags": [],
+   "notes": "Polite register (enjo ni mairimasu) in the TF partner lines 210-217."
+  },
+  {
+   "id": "pf_mcl/211",
+   "en": "Please fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/212",
+   "en": "That's way too reckless, even for you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/213",
+   "en": "Don't tell me they got you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/214",
+   "en": "Damn! Like hell I'll accept this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/215",
+   "en": "Because my cover came too late...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_mcl/216",
+   "en": "Splendid skill.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'odemae' (delivery) read as otemae (skill)."
+  },
+  {
+   "id": "pf_mcl/217",
+   "en": "I can't fall behind either.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3608 (pf_cnr/331): Tail heard as 'Tokugawa Kiichirou no na' (the name of); read as '...no na' (one of his). Kiichiro Tokugawa (a singer, presumably) is not in the glossary.",
+   "row 3635 (pf_cnr/1002): Edi (Eddie) is not in the glossary; same name as pf_cnr/136.",
+   "row 3670 (pf_luk/1002): ii tokoro wa minna motte ikarechaimashita ne: who took them (and from whom) is not stated; kept the agentless passive."
+  ],
+  "whisper_doubt": [
+   "row 3608 (pf_cnr/331): Tail heard as 'Tokugawa Kiichirou no na' (the name of); read as '...no na' (one of his). Kiichiro Tokugawa (a singer, presumably) is not in the glossary.",
+   "row 3639 (pf_klm/201): 'homedeiaru' read as homete yaru (I'll praise you).",
+   "row 3641 (pf_klm/211): 'sakare' (wrong kanji) read as sagare!",
+   "row 3679 (pf_mcl/216): 'odemae' (delivery) read as otemae (skill)."
+  ],
+  "kept_omission": [
+   "row 3670 (pf_luk/1002): ii tokoro wa minna motte ikarechaimashita ne: who took them (and from whom) is not stated; kept the agentless passive."
+  ],
+  "missing_glossary": [
+   "Rabbit 1 (row 3633 pf_cnr/1000): Canaria's callsign 'Rabitto Wan'.",
+   "Edi / Eddie (row 3635 pf_cnr/1002): same name as in slice 44.",
+   "Kiichiro Tokugawa (row 3608 pf_cnr/331): the person whose concert ('raibu') Canaria invites the partner to."
+  ],
+  "unfinished": []
+ }
+}

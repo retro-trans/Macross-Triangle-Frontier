@@ -1,0 +1,1452 @@
+{
+ "_meta": {
+  "note": "Hand-kept Triangle Frontier additions. tools/glossary_seed.py merges this file into the seeded glossary, so a re-seed keeps it. 'aliases' adds Japanese forms (ja_aliases) or English aliases to an existing entry, found by its ja; 'entries' adds new entries to a file/group. Sources: Macross Wiki (macross.fandom.com) unless noted; 'muf_tm' = the English Macross Ultimate Frontier 0.7.1 shipped for the identical Japanese string.",
+  "updated": "2026-10-17"
+ },
+ "aliases": [
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "金龍",
+   "ja_aliases": [
+    "金竜"
+   ],
+   "notes_add": "TF's pilot table writes 金竜."
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "エキセドル・フォルモ",
+   "ja_aliases": [
+    "エキセドル4970"
+   ],
+   "aliases": [
+    "Exsedol 4970"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "神崎ヒビキ",
+   "ja_aliases": [
+    "ヒビキ"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "シルビー・ジーナ",
+   "ja_aliases": [
+    "シルビー"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "カナリア・ベルシュタイン",
+   "ja_aliases": [
+    "カナリア"
+   ]
+  },
+  {
+   "file": "mecha",
+   "group": "units",
+   "ja": "バジュラクィーン",
+   "ja_aliases": [
+    "バジュラ女王"
+   ]
+  },
+  {
+   "file": "mecha",
+   "group": "units",
+   "ja": "AIF-9V ゴーストV9",
+   "ja_aliases": [
+    "ゴーストＶ－９"
+   ],
+   "notes_add": "MUF shipped 'Ghost V-9' for ゴーストＶ－９ (muf_tm)."
+  },
+  {
+   "file": "mecha",
+   "group": "units",
+   "ja": "X-9 ゴースト",
+   "ja_aliases": [
+    "ゴーストＸ－９"
+   ]
+  },
+  {
+   "file": "mecha",
+   "group": "units",
+   "ja": "ダイダロスタイプ",
+   "ja_aliases": [
+    "マクロス ダイダロスタイプ"
+   ]
+  },
+  {
+   "file": "organizations",
+   "group": "organizations",
+   "ja": "ゾラ・パトロール",
+   "ja_aliases": [
+    "ゾラ星パトロール隊"
+   ],
+   "notes_add": "MUF shipped 'Zolan Star Patrol' for ゾラ星パトロール隊 (muf_tm)."
+  },
+  {
+   "file": "organizations",
+   "group": "organizations",
+   "ja": "スカル小隊",
+   "ja_aliases": [
+    "Ｓスカル小隊"
+   ],
+   "notes_add": "Ｓスカル小隊 = S.M.S. Skull Squadron."
+  },
+  {
+   "file": "organizations",
+   "group": "organizations",
+   "ja": "ピクシー小隊",
+   "ja_aliases": [
+    "Ｓピクシー小隊"
+   ]
+  },
+  {
+   "file": "organizations",
+   "group": "organizations",
+   "ja": "マクロス・ギャラクシー船団",
+   "ja_aliases": [
+    "ギャラクシー船団"
+   ]
+  },
+  {
+   "file": "organizations",
+   "group": "organizations",
+   "ja": "ムーンアイランド",
+   "ja_aliases": [
+    "ムーンアイランド小隊"
+   ]
+  },
+  {
+   "file": "locations",
+   "group": "locations",
+   "ja": "美星学園",
+   "aliases": [
+    "Mihoshi"
+   ],
+   "notes_add": "TF: the school of the Academy (campus) mode; campus text also says just 美星."
+  },
+  {
+   "file": "terms",
+   "group": "lore",
+   "ja": "ゼントラーディ兵",
+   "ja_aliases": [
+    "ゼントラーディ兵士"
+   ],
+   "notes_add": "MUF shipped 'Zentradi Soldier' for the unit/pilot label ゼントラーディ兵士 (muf_tm)."
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "D.D.イワノフ",
+   "ja_aliases": [
+    "デイジー・イワノフ"
+   ]
+  },
+  {
+   "file": "locations",
+   "group": "locations",
+   "ja": "アスカⅡ",
+   "ja_aliases": [
+    "空母アスカⅡ"
+   ],
+   "notes_add": "MUF shipped 'Carrier Asuka II' for 空母アスカⅡ (muf_tm)."
+  },
+  {
+   "file": "mecha",
+   "group": "units",
+   "ja": "バジュラ母艦",
+   "ja_aliases": [
+    "バジュラ大型母艦"
+   ],
+   "notes_add": "MUF shipped 'Large Vajra Mothership' for the label バジュラ大型母艦 (muf_tm)."
+  },
+  {
+   "file": "organizations",
+   "group": "organizations",
+   "ja": "ボドル基幹艦隊",
+   "ja_aliases": [
+    "ボドルザー艦隊",
+    "ゴル・ボドルザー艦隊",
+    "ボドルザ艦隊"
+   ],
+   "notes_add": "ボドルザー艦隊 / ゴル・ボドルザー艦隊 (and the typo ボドルザ艦隊) in mission text: 'Boddole Zer's fleet' / 'Golg Boddole Zer's fleet'."
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "カグラ・ユウト",
+   "ja_aliases": [
+    "ユウト",
+    "カグラ"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "シラカワ・ミユキ",
+   "ja_aliases": [
+    "ミユキ",
+    "シラカワ"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "ゲイリー・マードック",
+   "ja_aliases": [
+    "ゲイリー"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "ヒルダ・V・ベルゲン",
+   "ja_aliases": [
+    "ヒルダ"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "ホシムラ・ユイ",
+   "ja_aliases": [
+    "ユイ"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "ルイス・フェルナンド",
+   "ja_aliases": [
+    "ルイス"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "アキミズ・ユウ",
+   "ja_aliases": [
+    "アキミズ"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "クレア・スタンフォード",
+   "ja_aliases": [
+    "クレア"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "ヤマシロ・イツキ",
+   "ja_aliases": [
+    "イツキ",
+    "ヤマシロ"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "ピノン・コレット",
+   "ja_aliases": [
+    "ピノン"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "キャサリン・グラス",
+   "ja_aliases": [
+    "キャシー",
+    "キャサリン"
+   ]
+  },
+  {
+   "file": "characters",
+   "group": "characters",
+   "ja": "松浦ナナセ",
+   "ja_aliases": [
+    "ナナセ"
+   ]
+  },
+  {
+   "file": "terms",
+   "group": "lore",
+   "ja": "巨人化",
+   "ja_aliases": [
+    "ゼントラ化"
+   ],
+   "notes_add": "Campus: ゼントラ化 'macronized'; ゼントラサイズ 'Zentradi size'."
+  }
+ ],
+ "entries": {
+  "characters/characters": [
+   {
+    "id": "saori_kujo",
+    "en": "Saori Kujo",
+    "ja": "九條 沙織",
+    "aliases": [
+     "Saori"
+    ],
+    "avoid": [
+     "Saori Kujou",
+     "Saori Kujyo"
+    ],
+    "gender": "female",
+    "species": "Human",
+    "series": [
+     "Macross II"
+    ],
+    "position": "Valkyrie II pilot, Faerie Squadron",
+    "affiliation": [
+     "U.N. Spacy",
+     "Faerie Squadron"
+    ],
+    "personality": "Interested in Nexx Gilbert and always looking for a way to get closer to him.",
+    "notes": "Macross II calls her only Saori; the surname 九條 comes from TF's unit lists. Romanised without the long vowel (Kujo), as Shin Kudo.",
+    "sources": [
+     "https://myanimelist.net/character/70269"
+    ],
+    "status": "provisional",
+    "tf_role": "allied / enemy pilot in the Macross II missions (m2_010, m2_080)"
+   },
+   {
+    "id": "amy_rock",
+    "en": "Amy Rock",
+    "ja": "エイミー・ロック",
+    "aliases": [
+     "Amy"
+    ],
+    "avoid": [],
+    "gender": "female",
+    "species": "Human",
+    "series": [
+     "Macross II"
+    ],
+    "position": "Valkyrie II pilot, Faerie Squadron",
+    "affiliation": [
+     "U.N. Spacy",
+     "Faerie Squadron"
+    ],
+    "personality": "",
+    "notes": "Macross II calls her only Amy; the surname ロック comes from TF's unit lists. 'Rock' is the plain reading; no source spelling found.",
+    "sources": [
+     "https://myanimelist.net/character/37441"
+    ],
+    "status": "provisional",
+    "tf_role": "allied / enemy pilot in the Macross II missions"
+   },
+   {
+    "id": "nastasha_toto",
+    "en": "Nastasha Toto",
+    "ja": "ナスターシャ・トート",
+    "aliases": [
+     "Nastasha"
+    ],
+    "avoid": [
+     "Natasha"
+    ],
+    "gender": "female",
+    "species": "Human",
+    "series": [
+     "Macross II"
+    ],
+    "position": "Pilot (Faerie Squadron in TF; also flies the Proto Metal Siren at the Moon Festival)",
+    "affiliation": [
+     "U.N. Spacy"
+    ],
+    "personality": "",
+    "notes": "Macross II credits a Nastasha (voice: Yumi Hikita). The surname トート comes from TF; the reading Toto / Tote / Thoth is a guess. Decide before translating the Macross II missions.",
+    "sources": [],
+    "status": "needs_check",
+    "tf_role": "allied / enemy pilot in the Macross II missions (m2_010, m2_030, m2_080, me_430, me_520)"
+   },
+   {
+    "id": "ingues",
+    "en": "Ingues",
+    "ja": "イングス",
+    "aliases": [],
+    "avoid": [],
+    "gender": "male",
+    "species": "Mardook",
+    "series": [
+     "Macross II"
+    ],
+    "position": "Mardook commander",
+    "affiliation": [
+     "Mardook"
+    ],
+    "personality": "",
+    "notes": "Listed on the Macross Wiki Macross II page under Mardook. Gender from the anime; check the wiki page if it is created.",
+    "sources": [
+     "https://macross.fandom.com/wiki/Super_Dimensional_Fortress_Macross_II:_Lovers_Again"
+    ],
+    "status": "wiki",
+    "tf_role": "enemy (Mardook flagship, m2_061, me_720)"
+   },
+   {
+    "id": "luca_ghost_simon",
+    "en": "Simon",
+    "ja": "シモン",
+    "aliases": [],
+    "avoid": [],
+    "gender": "unknown",
+    "species": "QF-4000 Ghost drone",
+    "series": [
+     "Macross Frontier"
+    ],
+    "position": "Luca's Ghost drone",
+    "affiliation": [
+     "S.M.S."
+    ],
+    "personality": "",
+    "notes": "Luca names his three Ghosts after apostles: Simon, John and Peter (wiki). MUF shipped the same three names.",
+    "sources": [
+     "https://macross.fandom.com/wiki/Luca_Angeloni"
+    ],
+    "status": "wiki",
+    "tf_role": "allied unit label"
+   },
+   {
+    "id": "luca_ghost_john",
+    "en": "John",
+    "ja": "ヨハネ",
+    "aliases": [],
+    "avoid": [
+     "Johannes",
+     "Johanne"
+    ],
+    "gender": "unknown",
+    "species": "QF-4000 Ghost drone",
+    "series": [
+     "Macross Frontier"
+    ],
+    "position": "Luca's Ghost drone",
+    "affiliation": [
+     "S.M.S."
+    ],
+    "personality": "",
+    "notes": "See Simon. Wiki and MUF: John.",
+    "sources": [
+     "https://macross.fandom.com/wiki/Luca_Angeloni"
+    ],
+    "status": "wiki",
+    "tf_role": "allied unit label"
+   },
+   {
+    "id": "luca_ghost_peter",
+    "en": "Peter",
+    "ja": "ペテロ",
+    "aliases": [],
+    "avoid": [
+     "Petro"
+    ],
+    "gender": "unknown",
+    "species": "QF-4000 Ghost drone",
+    "series": [
+     "Macross Frontier"
+    ],
+    "position": "Luca's Ghost drone",
+    "affiliation": [
+     "S.M.S."
+    ],
+    "personality": "",
+    "notes": "See Simon.",
+    "sources": [
+     "https://macross.fandom.com/wiki/Luca_Angeloni"
+    ],
+    "status": "wiki",
+    "tf_role": "allied unit label"
+   },
+   {
+    "id": "yasaburo",
+    "en": "Yasaburo",
+    "ja": "矢三郎",
+    "aliases": [],
+    "avoid": [
+     "Yasaburou"
+    ],
+    "gender": "male",
+    "species": "Human",
+    "series": [
+     "Macross Frontier"
+    ],
+    "position": "Kabuki actor of the Saotome school, Alto's elder disciple-brother",
+    "affiliation": [
+     "Saotome kabuki school"
+    ],
+    "personality": "Calm, devoted to Alto's father.",
+    "notes": "No long vowel in romaji, as Kudo.",
+    "sources": [
+     "https://macross.fandom.com/wiki/Alto_Saotome"
+    ],
+    "status": "provisional",
+    "tf_role": "campus speaker"
+   },
+   {
+    "id": "ranzo_saotome",
+    "en": "Ranzo Saotome",
+    "ja": "嵐蔵",
+    "aliases": [
+     "Ranzo"
+    ],
+    "avoid": [
+     "Ranzou"
+    ],
+    "gender": "male",
+    "species": "Human",
+    "series": [
+     "Macross Frontier"
+    ],
+    "position": "Kabuki master, Alto's father",
+    "affiliation": [
+     "Saotome kabuki school"
+    ],
+    "personality": "Strict, traditional.",
+    "notes": "The campus name plate says 嵐蔵 only: 'Ranzo'.",
+    "sources": [
+     "https://macross.fandom.com/wiki/Alto_Saotome"
+    ],
+    "status": "provisional",
+    "tf_role": "campus speaker"
+   },
+   {
+    "id": "ars",
+    "en": "Ars",
+    "ja": "アルス",
+    "aliases": [],
+    "avoid": [],
+    "gender": "unknown",
+    "species": "Mardook",
+    "series": [
+     "Macross II"
+    ],
+    "position": "Mardook (his ship is a mission target)",
+    "affiliation": [
+     "Mardook"
+    ],
+    "personality": "",
+    "notes": "No wiki page found; spelling from the prefilled MUF profile translation. Neutral wording until checked.",
+    "sources": [],
+    "status": "provisional"
+   },
+   {
+    "id": "jessica_blanc",
+    "en": "Jessica",
+    "ja": "ジェシカ",
+    "aliases": [
+     "Jessica Blanc"
+    ],
+    "avoid": [],
+    "gender": "female",
+    "species": "Human",
+    "series": [
+     "Macross Frontier"
+    ],
+    "position": "Michel's late elder sister, a sniper",
+    "affiliation": [
+     "S.M.S."
+    ],
+    "personality": "",
+    "notes": "Named in Klan's childhood memory (campus).",
+    "sources": [
+     "https://macross.fandom.com/wiki/Michael_Blanc"
+    ],
+    "status": "wiki"
+   },
+   {
+    "id": "janice_merin",
+    "en": "Janice Merin",
+    "ja": "ジャニス・メリン",
+    "aliases": [],
+    "avoid": [],
+    "gender": "female",
+    "species": "Human",
+    "series": [
+     "Macross Frontier"
+    ],
+    "position": "Actress; subject of a book in Akimizu's scenes (c15174)",
+    "affiliation": [],
+    "personality": "",
+    "notes": "Mentioned only. Added 2026-10-17 (campus batch 11); unverified."
+   },
+   {
+    "id": "miranda_merin",
+    "en": "Miranda Merin",
+    "ja": "ミランダ",
+    "aliases": [],
+    "avoid": [],
+    "gender": "female",
+    "species": "Human",
+    "series": [
+     "Macross Frontier"
+    ],
+    "position": "Mihoshi Academy Performing Arts Course student (Macross Frontier); related to Janice Merin",
+    "affiliation": [],
+    "personality": "",
+    "notes": "Mentioned only. Added 2026-10-17 (campus batch 11); unverified."
+   }
+  ],
+  "mecha/units": [
+   {
+    "ja": "ＹＦ－２５ プロフェシー",
+    "en": "YF-25 Prophecy",
+    "ja_aliases": [
+     "ＹＦ－２５"
+    ],
+    "series": "Macross Frontier (Macross The Ride; game original in AF/MUF/TF)",
+    "sources": [
+     "https://macross.fandom.com/wiki/YF-25_Prophecy"
+    ],
+    "status": "wiki"
+   },
+   {
+    "ja": "ＶＦ－２５Ａ メサイア 一般機",
+    "en": "VF-25A Messiah",
+    "ja_aliases": [
+     "ＶＦ－２５Ａ",
+     "ＶＦ－２５Ａ 一般機",
+     "ＶＦ－２５ 一般機"
+    ],
+    "notes": "一般機 = the standard (unnamed pilot) version; MUF shipped 'VF-25 (Standard)' for ＶＦ－２５ 一般機 (muf_tm). Follow the '(Standard)' convention.",
+    "sources": [
+     "https://macross.fandom.com/wiki/VF-25A_Messiah"
+    ],
+    "status": "wiki"
+   },
+   {
+    "ja": "ＶＡ－１ＳＳ メタルサイレーン",
+    "en": "VA-1SS Metal Siren",
+    "ja_aliases": [
+     "ＶＡ－１ＳＳ",
+     "ＶＡー１ＳＳ メタルサイレーン",
+     "メタルサイレーン"
+    ],
+    "series": "Macross II",
+    "notes": "The game writes ＶＡー１ＳＳ (long-vowel mark) in one place; same unit.",
+    "sources": [
+     "https://macross.fandom.com/wiki/VA-1SS_Metal_Siren"
+    ],
+    "status": "wiki"
+   },
+   {
+    "ja": "プロトメタルサイレーン",
+    "en": "Proto Metal Siren",
+    "series": "Macross II",
+    "notes": "TF: the Metal Siren prototype shown at the Moon Festival. No wiki page; plain translation.",
+    "status": "provisional"
+   },
+   {
+    "ja": "クァドラン・キルカ",
+    "en": "Queadluun-Quilqua",
+    "series": "Macross 7",
+    "notes": "Emilia Jenius's Queadluun (wiki infobox spelling).",
+    "sources": [
+     "https://macross.fandom.com/wiki/Emilia_Jenius"
+    ],
+    "status": "wiki"
+   },
+   {
+    "ja": "ＳＮＮバルキリー",
+    "en": "SNN Valkyrie",
+    "ja_aliases": [
+     "VC-079 SNNバルキリー"
+    ],
+    "series": "Macross II",
+    "notes": "VC-079 Civilian Valkyrie of the Scramble News Network. The game calls it SNN Valkyrie (wiki kanji: VC-079 SNNバルキリー).",
+    "sources": [
+     "https://macross.fandom.com/wiki/VC-079_Civilian_Valkyrie"
+    ],
+    "status": "wiki"
+   },
+   {
+    "ja": "ハウンドバジュラ",
+    "en": "Hound Vajra",
+    "series": "Macross Frontier (The False Songstress)",
+    "notes": "The mantis-like Vajra that tries to carry Ranka off. No wiki page found; plain translation.",
+    "status": "provisional"
+   },
+   {
+    "ja": "デストロイド・モンスター",
+    "en": "Destroid Monster",
+    "series": "SDF Macross",
+    "notes": "HWR-00 Monster (unit label in me_650).",
+    "status": "wiki"
+   },
+   {
+    "ja": "リモコンバルキリー",
+    "en": "Remote-Controlled Valkyrie",
+    "series": "TF original",
+    "notes": "Training targets in mq_040 (VF-1J/A/S models).",
+    "status": "provisional"
+   },
+   {
+    "ja": "コンサート船",
+    "en": "Concert Ship",
+    "ja_aliases": [
+     "シェリルコンサート船"
+    ],
+    "series": "Macross Frontier",
+    "notes": "シェリルコンサート船 = 'Sheryl's Concert Ship'.",
+    "status": "provisional"
+   },
+   {
+    "ja": "ダルフィム",
+    "en": "",
+    "series": "Macross II?",
+    "notes": "Collection item (nn_ext 6241) between the EX-Gear and the concert ship. Not found on the wiki; find what it is before translating.",
+    "status": "needs_research"
+   },
+   {
+    "ja": "マルドゥーク母艦",
+    "en": "Mardook Mothership",
+    "series": "Macross II",
+    "status": "provisional"
+   },
+   {
+    "ja": "バトルポッド（指揮官用）",
+    "en": "Battle Pod (Commander Type)",
+    "ja_aliases": [
+     "バトルポッド"
+    ],
+    "series": "Macross II",
+    "notes": "Mardook Battle Pod (Commander Type) on the wiki. MUF shipped 'Battle Pod' for バトルポッド (muf_tm).",
+    "sources": [
+     "https://macross.fandom.com/wiki/Super_Dimensional_Fortress_Macross_II:_Lovers_Again"
+    ],
+    "status": "wiki"
+   },
+   {
+    "ja": "クォーターキャノン",
+    "en": "Quarter Cannon",
+    "notes": "Macross Quarter's main gun.",
+    "status": "wiki"
+   }
+  ],
+  "mecha/packs": [
+   {
+    "ja": "ＶＦ－２５用トルネードパック",
+    "en": "Tornado Pack",
+    "ja_aliases": [
+     "トルネードパック"
+    ],
+    "notes": "From Macross Frontier Movie: The Wings of Goodbye (VF-25F/TW1 Tornado Messiah). 'VF-25 Tornado Pack' where the full label is needed.",
+    "sources": [
+     "https://macross.fandom.com/wiki/VF-25F/TW1_Tornado_Messiah"
+    ],
+    "status": "wiki"
+   }
+  ],
+  "organizations/organizations": [
+   {
+    "id": "antares_squadron",
+    "en": "Antares Squadron",
+    "ja": "アンタレス小隊",
+    "aliases": [],
+    "avoid": [
+     "Antares Flight"
+    ],
+    "description": "Macross Galaxy squadron; Brera Sterne is Antares 1.",
+    "sources": [
+     "https://macross.fandom.com/wiki/Antares_Flight"
+    ],
+    "notes": "Wiki article title is 'Antares Flight', its text says 'Antares Squadron'. The glossary uses Squadron for 小隊 elsewhere (Skull Squadron), so Antares Squadron.",
+    "status": "wiki"
+   },
+   {
+    "id": "faerie_squadron",
+    "en": "Faerie Squadron",
+    "ja": "フェアリー・リーダー隊",
+    "ja_aliases": [
+     "フェアリー・リーダー",
+     "フェアリー隊"
+    ],
+    "aliases": [],
+    "avoid": [
+     "Fairy Squadron"
+    ],
+    "description": "Silvie Gena's Valkyrie II squadron in Macross II.",
+    "sources": [
+     "https://myanimelist.net/character/70269"
+    ],
+    "notes": "TF writes フェアリー・リーダー隊 ('Faerie Leader's squadron') in M2_080. Spelling 'Faerie' as in the Macross II English dub.",
+    "status": "provisional"
+   },
+   {
+    "id": "super_dimension_restaurant",
+    "en": "Super Dimension Restaurant",
+    "ja": "超時空飯店",
+    "aliases": [],
+    "avoid": [],
+    "description": "Full name of the Nyan-Nyan restaurant chain (超時空飯店 娘々).",
+    "sources": [],
+    "notes": "Decided 2026-10-17 (campus batch 2).",
+    "status": "decided"
+   },
+   {
+    "id": "lai",
+    "en": "L.A.I.",
+    "ja": "L.A.I.",
+    "ja_aliases": [
+     "Ｌ．Ａ．Ｉ．",
+     "Ｌ．Ａ．Ｉ"
+    ],
+    "aliases": [
+     "L.A.I. Corporation"
+    ],
+    "avoid": [
+     "LAI"
+    ],
+    "description": "Frontier's aerospace company (developer of the VF-25).",
+    "sources": [
+     "https://macross.fandom.com/wiki/YF-25_Prophecy"
+    ],
+    "notes": "L.A.I.技研 'L.A.I.'s research labs'. Decided 2026-10-17 (campus batch 7).",
+    "status": "wiki"
+   }
+  ],
+  "locations/locations": [
+   {
+    "id": "griffith_park",
+    "en": "Griffith Park",
+    "ja": "グリフィスパーク",
+    "aliases": [],
+    "avoid": [],
+    "era": "2059",
+    "sources": [
+     "https://macross.fandom.com/wiki/Aimo"
+    ],
+    "notes": "Park on Island 1 (The False Songstress: Ranka sings Aimo there)."
+   },
+   {
+    "id": "central_park",
+    "en": "Central Park",
+    "ja": "セントラルパーク",
+    "aliases": [],
+    "avoid": [],
+    "era": "2059",
+    "sources": [],
+    "notes": "Campus-mode outing spot."
+   },
+   {
+    "id": "silver_moon",
+    "en": "Silver Moon",
+    "ja": "シルバームーン",
+    "aliases": [],
+    "avoid": [],
+    "era": "2059",
+    "sources": [],
+    "notes": "Campus-mode café ('let's have tea at Silver Moon'). Not the song 'Silver Moon, Red Moon'.",
+    "status": "provisional"
+   },
+   {
+    "id": "arlington_cemetery",
+    "en": "Arlington Cemetery",
+    "ja": "アーリントン墓地",
+    "aliases": [],
+    "avoid": [],
+    "era": "2059",
+    "sources": [],
+    "notes": "Campus-mode location on the Frontier.",
+    "status": "provisional"
+   },
+   {
+    "id": "st_maria_academy",
+    "en": "St. Maria Academy",
+    "ja": "聖マリア学園",
+    "aliases": [],
+    "avoid": [],
+    "era": "2059",
+    "sources": [],
+    "notes": "Another school named in campus dialogue.",
+    "status": "provisional"
+   },
+   {
+    "id": "deep_akihabara",
+    "en": "Deep Akihabara",
+    "ja": "深・秋葉原",
+    "aliases": [],
+    "avoid": [],
+    "era": "2059",
+    "sources": [],
+    "notes": "Campus outing spot, an underground mall (pun on Akihabara).",
+    "status": "provisional"
+   },
+   {
+    "id": "sky_gate",
+    "en": "Sky Gate",
+    "ja": "天空門",
+    "aliases": [],
+    "avoid": [
+     "Tenkumon"
+    ],
+    "era": "2059",
+    "sources": [],
+    "notes": "Concert venue in the Beijing Area. Decided 2026-10-16 in the first review (slices disagreed or the term was missing).",
+    "status": "decided"
+   },
+   {
+    "id": "san_francisco_area",
+    "en": "San Francisco Area",
+    "ja": "サンフランシスコエリア",
+    "aliases": [],
+    "avoid": [],
+    "era": "2059",
+    "sources": [],
+    "notes": "District of Island 1.",
+    "status": "term"
+   },
+   {
+    "id": "shibuya_area",
+    "en": "Shibuya Area",
+    "ja": "渋谷エリア",
+    "aliases": [],
+    "avoid": [],
+    "era": "2059",
+    "sources": [],
+    "notes": "District of Island 1.",
+    "status": "term"
+   },
+   {
+    "id": "beijing_area",
+    "en": "Beijing Area",
+    "ja": "北京エリア",
+    "aliases": [],
+    "avoid": [],
+    "era": "2059",
+    "sources": [],
+    "notes": "District of Island 1.",
+    "status": "term"
+   },
+   {
+    "id": "folmo",
+    "en": "Folmo",
+    "ja": "フォルモ",
+    "aliases": [],
+    "avoid": [
+     "Formo"
+    ],
+    "era": "2059",
+    "sources": [],
+    "notes": "Shopping mall on the Frontier (campus outings). Same katakana as Exsedol Folmo; spelled as the corpus place list (slice 39). Decided 2026-10-17.",
+    "status": "decided"
+   },
+   {
+    "id": "observation_pier",
+    "en": "Observation Pier",
+    "ja": "展望桟橋",
+    "aliases": [],
+    "avoid": [],
+    "era": "2059",
+    "sources": [],
+    "notes": "Campus outing spot (corpus place list u4355). The capitalised 'Artificial Island' is the place-list label; in dialogue 'the artificial island'.",
+    "status": "decided"
+   }
+  ],
+  "terms/game_system": [
+   {
+    "ja": "航宙科",
+    "en": "Pilot Course",
+    "notes": "Mihoshi Academy course of the pilot students (the Macross Wiki calls it the pilot training course). Students: 航宙科生徒 \"Pilot Student\". Decided 2026-10-16 for consistency across campus slices.",
+    "status": "decided",
+    "ja_aliases": [
+     "パイロットコース",
+     "パイロット養成コース"
+    ]
+   },
+   {
+    "ja": "芸能科",
+    "en": "Performing Arts Course",
+    "ja_aliases": [
+     "芸能コース"
+    ],
+    "notes": "Mihoshi Academy course (wiki: 'performing arts').",
+    "status": "provisional"
+   },
+   {
+    "ja": "サムソン",
+    "en": "Samson",
+    "notes": "Luca's EX-Gear (wiki).",
+    "sources": [
+     "https://macross.fandom.com/wiki/Luca_Angeloni"
+    ],
+    "status": "wiki"
+   },
+   {
+    "ja": "アリエス",
+    "en": "Aries",
+    "notes": "Zodiac callsigns of the enemy team in ME_810/ME_820, written with a number (アリエス１ = Aries 1). Same pattern: タウラス Taurus, ジェミニ Gemini, キャンサー Cancer, レオ Leo, バルゴ Virgo, ライブラ Libra, スコーピオン Scorpio, サジタリウス Sagittarius, カプリコーン Capricorn, アクエリアス Aquarius, ピスケス Pisces.",
+    "ja_aliases": [
+     "タウラス",
+     "ジェミニ",
+     "キャンサー",
+     "レオ",
+     "バルゴ",
+     "ライブラ",
+     "スコーピオン",
+     "カプリコーン",
+     "サジタリウス",
+     "アクエリアス",
+     "ピスケス"
+    ],
+    "status": "term"
+   },
+   {
+    "ja": "バトロイド・アタックＦ",
+    "en": "Battroid Attack F",
+    "notes": "In-world arcade game in MK_035; MUF shipped 'Battroid Attack' for バトロイド・アタック (muf_tm).",
+    "status": "term"
+   },
+   {
+    "ja": "心",
+    "en": "Mind",
+    "notes": "Campus stat (心・技・体 = Mind / Technique / Body). Short form in tight UI: as the Japanese is one character, the English word itself. Decided 2026-10-16 (campus term consistency).",
+    "status": "decided"
+   },
+   {
+    "ja": "技",
+    "en": "Technique",
+    "notes": "Campus stat. Not 'Skill': skills are a separate system. Decided 2026-10-16 (campus term consistency).",
+    "status": "decided"
+   },
+   {
+    "ja": "体",
+    "en": "Body",
+    "notes": "Campus stat. Decided 2026-10-16 (campus term consistency).",
+    "status": "decided"
+   },
+   {
+    "ja": "授業",
+    "en": "Class",
+    "notes": "Campus schedule command. Decided 2026-10-16 (campus term consistency).",
+    "status": "decided"
+   },
+   {
+    "ja": "休暇",
+    "en": "Rest",
+    "notes": "Campus schedule command (restores HP/MP). Decided 2026-10-16 (campus term consistency).",
+    "status": "decided"
+   },
+   {
+    "ja": "気分転換",
+    "en": "Outing",
+    "notes": "Campus schedule command (go out for a change of pace). Decided 2026-10-16 (campus term consistency).",
+    "status": "decided"
+   },
+   {
+    "ja": "キャラブースト",
+    "en": "Chara Boost",
+    "notes": "Campus system: a character's support bonus. Decided 2026-10-16 (campus term consistency).",
+    "status": "decided"
+   },
+   {
+    "ja": "学園モード",
+    "en": "Academy Mode",
+    "ja_aliases": [
+     "学園"
+    ],
+    "notes": "The campus mode; 学園 alone = 'the Academy'. Decided 2026-10-16 (campus term consistency).",
+    "status": "decided"
+   },
+   {
+    "ja": "ムーンフェスティバル",
+    "en": "Moon Festival",
+    "notes": "Macross II event (M2 missions).",
+    "status": "wiki"
+   },
+   {
+    "ja": "ＥＸ－ギア",
+    "en": "EX-Gear",
+    "ja_aliases": [
+     "EX-ギア",
+     "ＥＸギア"
+    ],
+    "notes": "Powered exoskeleton of Macross Frontier (wiki spelling).",
+    "status": "wiki"
+   },
+   {
+    "ja": "ガンドロイド",
+    "en": "Gundroid",
+    "notes": "VA-1SS Metal Siren's fourth mode (wiki spelling). 'Gundroid mode'.",
+    "sources": [
+     "https://macross.fandom.com/wiki/VA-1SS_Metal_Siren"
+    ],
+    "status": "wiki"
+   },
+   {
+    "ja": "チャージブレイク",
+    "en": "Charge Break",
+    "notes": "Special maneuver (training mission text).",
+    "status": "term"
+   },
+   {
+    "ja": "プラスロック",
+    "en": "Plus Lock",
+    "notes": "Lock-on maneuver (training mission text).",
+    "status": "term"
+   },
+   {
+    "ja": "文化祭",
+    "en": "Culture Fest",
+    "notes": "Mihoshi school event. Not the お祭り route ('Festival Route'). Decided 2026-10-16 in the first review (slices disagreed or the term was missing).",
+    "status": "decided"
+   },
+   {
+    "ja": "隊長",
+    "en": "Captain",
+    "notes": "Title of a squad leader, not a rank: オズマ隊長 'Captain Ozma', bare 隊長 'Captain'. The rank 少佐 stays 'Major' (オズマ少佐 'Major Ozma'). Decided 2026-10-17 (campus batch 2: slices disagreed).",
+    "status": "decided"
+   },
+   {
+    "ja": "座学",
+    "en": "Lectures",
+    "notes": "Campus class type (classroom study). Decided 2026-10-17 (campus batch 2: slices disagreed).",
+    "status": "decided"
+   },
+   {
+    "ja": "特殊座学",
+    "en": "Special Lectures",
+    "notes": "Campus class type. Decided 2026-10-17 (campus batch 2: slices disagreed).",
+    "status": "decided"
+   },
+   {
+    "ja": "体育祭",
+    "en": "Sports Day",
+    "notes": "Mihoshi school event (calendar label in the corpus). Decided 2026-10-17 (campus batch 2: slices disagreed).",
+    "status": "decided"
+   },
+   {
+    "ja": "実技テスト",
+    "en": "Practical Test",
+    "notes": "Campus test events (Practical Test 1-8).",
+    "status": "decided"
+   },
+   {
+    "ja": "芸術科",
+    "en": "Art Course",
+    "notes": "Mihoshi course of Nanase (not the Performing Arts Course, 芸能科). Decided 2026-10-17 (campus batch 2).",
+    "status": "decided"
+   },
+   {
+    "ja": "実技",
+    "en": "Practical Training",
+    "notes": "Campus class type (schedule help u5459). Decided 2026-10-17 (campus batch 2).",
+    "status": "decided"
+   },
+   {
+    "ja": "基礎",
+    "en": "Basic Training",
+    "notes": "Campus class type (schedule help u5460), when it names the class. Decided 2026-10-17 (campus batch 2).",
+    "status": "decided"
+   },
+   {
+    "ja": "体力",
+    "en": "Stamina",
+    "notes": "Pilot parameter. Decided 2026-10-17 (campus batch 3); also the ID-card stat labels for the texture redraw.",
+    "status": "decided"
+   },
+   {
+    "ja": "速度",
+    "en": "Speed",
+    "notes": "Pilot parameter. Decided 2026-10-17 (campus batch 3); also the ID-card stat labels for the texture redraw.",
+    "status": "decided"
+   },
+   {
+    "ja": "格闘",
+    "en": "Melee",
+    "notes": "Pilot parameter. Decided 2026-10-17 (campus batch 3); also the ID-card stat labels for the texture redraw.",
+    "status": "decided"
+   },
+   {
+    "ja": "防御",
+    "en": "Defense",
+    "notes": "Pilot parameter. Decided 2026-10-17 (campus batch 3); also the ID-card stat labels for the texture redraw.",
+    "status": "decided"
+   },
+   {
+    "ja": "射撃",
+    "en": "Shooting",
+    "notes": "Pilot parameter. Decided 2026-10-17 (campus batch 3); also the ID-card stat labels for the texture redraw.",
+    "status": "decided"
+   },
+   {
+    "ja": "集中",
+    "en": "Focus",
+    "notes": "Pilot parameter. Decided 2026-10-17 (campus batch 3); also the ID-card stat labels for the texture redraw.",
+    "status": "decided"
+   },
+   {
+    "ja": "覚醒",
+    "en": "Awakening",
+    "notes": "Pilot parameter. Decided 2026-10-17 (campus batch 3); also the ID-card stat labels for the texture redraw.",
+    "status": "decided"
+   },
+   {
+    "ja": "フレッシュボーイ",
+    "en": "Fresh Boy",
+    "ja_aliases": [
+     "フレッシュガール"
+    ],
+    "notes": "Luis's nickname for the player: フレッシュボーイ 'Fresh Boy', フレッシュガール 'Fresh Girl'. Decided 2026-10-17.",
+    "status": "decided"
+   },
+   {
+    "ja": "ライブ",
+    "en": "concert",
+    "notes": "A live show by Sheryl, Ranka, Fire Bomber or Luis: 'concert' (most campus slices already use it); 'gig' for Luis's small street shows is fine where the Japanese stresses that. Decided 2026-10-17 (campus batch 7).",
+    "status": "decided"
+   },
+   {
+    "ja": "娘々ダンス",
+    "en": "Nyan-Nyan Dance",
+    "notes": "Luis's dance gag. Decided 2026-10-17 (campus batch 7).",
+    "status": "decided"
+   },
+   {
+    "ja": "美術科",
+    "en": "art department",
+    "notes": "Nanase's word for the art students; distinct from the Art Course (芸術科). Decided 2026-10-17 (campus batch 9).",
+    "status": "decided"
+   },
+   {
+    "ja": "整備コース",
+    "en": "Maintenance Course",
+    "notes": "Academy course, by analogy with Pilot Course (c20348). Added 2026-10-17 (campus batch 14).",
+    "status": "decided"
+   }
+  ],
+  "terms/lore": [
+   {
+    "ja": "青い風",
+    "en": "Blue Wind",
+    "notes": "Quel-Quallie scouting operation in Space War I (Loli, Conda, Warera); TF uses it as an enemy name in ME_420. MUF shipped 'Blue Wind' (muf_tm).",
+    "sources": [
+     "https://macross.fandom.com/wiki/Quel-Quallie"
+    ],
+    "status": "wiki"
+   },
+   {
+    "ja": "自動防衛サテライト",
+    "en": "automated defense satellite",
+    "notes": "Common noun; 'auto-defense satellite' where space is short.",
+    "status": "term"
+   },
+   {
+    "ja": "カバ牛",
+    "en": "hippo-cow",
+    "notes": "Campus running gag: hippo-cow milk, ice cream, beef bowl. Decided in campus batch 1 for consistency.",
+    "status": "decided"
+   },
+   {
+    "ja": "まぐろ饅",
+    "en": "maguro bun",
+    "notes": "Nyan-Nyan's tuna bun (Macross Frontier). Plural 'maguro buns'.",
+    "status": "decided"
+   },
+   {
+    "ja": "スッキリ",
+    "en": "refresh",
+    "notes": "Campus running gag (the ??? woman's treatment): 'refreshed'; フルボディスッキリ 'the Full-Body Refresh'. Decided in campus batch 1.",
+    "status": "decided"
+   },
+   {
+    "ja": "七色にんじん",
+    "en": "rainbow carrots",
+    "ja_aliases": [
+     "七色ニンジン",
+     "なないろにんじん"
+    ],
+    "notes": "Nanase's carrots (campus). Decided 2026-10-17.",
+    "status": "decided"
+   },
+   {
+    "ja": "人工島",
+    "en": "artificial island",
+    "notes": "Campus outing spot; lowercase 'the artificial island'. Decided 2026-10-17 (two slices agreed).",
+    "status": "decided"
+   },
+   {
+    "ja": "スーパーチリチリドッグ",
+    "en": "Super Chili-Chili Dog",
+    "ja_aliases": [
+     "チリドッグ"
+    ],
+    "notes": "The very spicy hot dog of the campus scenes; チリドッグ alone 'chili dog'. Decided 2026-10-17.",
+    "status": "decided"
+   },
+   {
+    "ja": "ギャラクシーパフェ",
+    "en": "Galaxy Parfait",
+    "notes": "Cafe menu item in Nanase's campus scenes (c11616). Decided 2026-10-17 (campus batch 9).",
+    "status": "decided"
+   },
+   {
+    "ja": "チバソング",
+    "en": "Chiba Sound",
+    "notes": "Dr. Chiba's unit of Song Energy (Macross 7). Campus book title c15172. Added 2026-10-17 (campus batch 11).",
+    "status": "wiki"
+   },
+   {
+    "ja": "スターライト納豆",
+    "en": "Starlight Natto",
+    "notes": "Product in Gary's campus scenes (c16264). Macross Frontier sponsor brand. Added 2026-10-17 (campus batch 12).",
+    "status": "decided"
+   },
+   {
+    "ja": "冷やしギャラクシー中華",
+    "en": "Chilled Galaxy Noodles",
+    "notes": "Cold noodle dish, Nanase's scenes (c18913). Added 2026-10-17 (campus batch 13).",
+    "status": "decided"
+   },
+   {
+    "ja": "激辛マグロチリチリ丼",
+    "en": "Super-Spicy Maguro Chili-Chili Bowl",
+    "notes": "Rice bowl, Nanase's scenes (c18914); built on maguro bun and Super Chili-Chili Dog. Added 2026-10-17 (campus batch 13).",
+    "status": "decided"
+   },
+   {
+    "ja": "なないろニンジンパン",
+    "en": "rainbow carrot bun",
+    "notes": "Luca's scenes (c17865); built on rainbow carrots. Added 2026-10-17 (campus batch 13).",
+    "status": "decided"
+   },
+   {
+    "ja": "ゼントラ胡麻団子",
+    "en": "Zentradi Sesame Balls",
+    "notes": "Nyan-Nyan menu item (c19914); goma dango alone 'sesame balls'. Added 2026-10-17 (campus batch 14).",
+    "status": "decided"
+   },
+   {
+    "ja": "ソフトクリーム",
+    "en": "soft serve",
+    "notes": "No hyphen, also before a noun ('soft serve stand'). Decided 2026-10-17 (campus review).",
+    "status": "decided"
+   }
+  ],
+  "terms/works": [
+   {
+    "ja": "イツワリノウタヒメ",
+    "en": "The False Songstress",
+    "ja_aliases": [
+     "劇場版マクロスＦ 虚空歌姫～イツワリノウタヒメ～"
+    ],
+    "notes": "Macross Frontier Movie: The False Songstress. New TF missions MK_*. Short form in tight UI: 'False Songstress'.",
+    "sources": [
+     "https://macross.fandom.com/wiki/Macross_Triangle_Frontier"
+    ],
+    "status": "wiki"
+   },
+   {
+    "ja": "マクロスⅡ",
+    "en": "Macross II",
+    "notes": "Super Dimensional Fortress Macross II: Lovers Again. New TF missions M2_*.",
+    "status": "wiki"
+   },
+   {
+    "ja": "マクロストライアングルフロンティア",
+    "en": "Macross Triangle Frontier",
+    "status": "verified"
+   }
+  ],
+  "terms/honorifics": [
+   {
+    "ja": "さん",
+    "en": "-san",
+    "notes": "Decided 2026-10-16 by the user: keep Japanese honorifics in the campus (Academy) text, romaji after the name with a hyphen. Campaign, mission and voice text follow MUF (no honorifics). Rules: docs/translation_brief.md 'Honorifics'. Luis-san, Sheryl-san.",
+    "status": "decided"
+   },
+   {
+    "ja": "ちゃん",
+    "en": "-chan",
+    "notes": "See -san. Pinon-chan, Ranka-chan.",
+    "status": "decided"
+   },
+   {
+    "ja": "君",
+    "en": "-kun",
+    "ja_aliases": [
+     "くん"
+    ],
+    "notes": "See -san. After a name only (ミシェル君 Michel-kun, 早乙女君 Saotome-kun); standalone 君 means 'you' and is translated.",
+    "status": "decided"
+   },
+   {
+    "ja": "先生",
+    "en": "-sensei",
+    "aliases": [
+     "Sensei"
+    ],
+    "notes": "See -san. After a name: Hilda-sensei. Alone as a form of address: 'Sensei'. As a common noun: 'teacher(s)'.",
+    "status": "decided"
+   },
+   {
+    "ja": "先輩",
+    "en": "-senpai",
+    "aliases": [
+     "Senpai"
+    ],
+    "notes": "See -san. After a name: Klan-senpai. Alone as a form of address: 'Senpai'.",
+    "status": "decided"
+   },
+   {
+    "ja": "様",
+    "en": "-sama",
+    "ja_aliases": [
+     "さま"
+    ],
+    "notes": "See -san. Sheryl-sama. Not in set phrases (ご馳走様 'thanks for the meal').",
+    "status": "decided"
+   },
+   {
+    "ja": "殿",
+    "en": "-dono",
+    "notes": "See -san. Akimizu-dono.",
+    "status": "decided"
+   },
+   {
+    "ja": "後輩",
+    "en": "kouhai",
+    "notes": "Claire's nickname for the player, 後輩クン / 後輩ちゃん: 'kouhai-kun' / 'kouhai-chan', kept like -senpai. Decided 2026-10-17 (campus review).",
+    "status": "decided"
+   }
+  ],
+  "terms/songs": [
+   {
+    "ja": "オベリスク",
+    "en": "Obelisk",
+    "notes": "Sheryl's song (Macross Frontier).",
+    "status": "wiki"
+   },
+   {
+    "ja": "ユニバーサル・バニー",
+    "en": "Universal Bunny",
+    "notes": "Sheryl's song (Macross Frontier).",
+    "status": "wiki"
+   },
+   {
+    "ja": "ダイアモンドクレバス",
+    "en": "Diamond Crevasse",
+    "ja_aliases": [
+     "ダイアモンド クレバス"
+    ],
+    "notes": "Sheryl's song (Macross Frontier); Macross Wiki title.",
+    "status": "wiki"
+   },
+   {
+    "ja": "Ｗｈａｔ ’ｂｏｕｔ ｍｙ ｓｔａｒ？",
+    "en": "What 'bout my star?",
+    "notes": "Sheryl's song (Macross Frontier); written in full-width letters in the campus text (c11995).",
+    "status": "wiki"
+   }
+  ]
+ }
+}

@@ -1,0 +1,496 @@
+{
+ "slice": 324,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c23450",
+   "en": "I'm sorry.\nHe's always this unfriendly,\nso please don't let it bother you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23451",
+   "en": "Sheryl seems to be really looking forward\nto school life this time around.\nIf you'd like, please be a good friend to her.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23452",
+   "en": "Well, I have work to get to,\nso I'll be taking my leave now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23453",
+   "en": "Okay, see you...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23454",
+   "en": "(Sheryl's manager and bodyguard, huh...\nBrera-san was kinda unfriendly and scary,\nbut Grace-san seemed like a nice person.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23455",
+   "en": "(Still, what were they talking about\nin a place like this?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23456",
+   "en": "(Well, no point worrying about it.\nI'd better head back to class too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23457",
+   "en": "(Ever since Sheryl-san came to Mihoshi,\nthe whole school's been in an uproar...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23458",
+   "en": "(But why did Sheryl-san transfer to Mihoshi\nin the first place?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23459",
+   "en": "(Could it be she read the message I sent...\nNo, there's no way.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23460",
+   "en": "(Hm? I hear voices. What could that be?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23461",
+   "en": "(The voices were coming from over here,\nweren't they...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23462",
+   "en": "(Huh?! Why is someone pointing\na knife at me?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23463",
+   "en": "(Ph-phew... I'm saved...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23464",
+   "en": "Oh, you're Sheryl's manager?\nI'm \\p.",
+   "flags": [],
+   "notes": "Bare 'Sheryl' here as in the Japanese."
+  },
+  {
+   "id": "c23465",
+   "en": "So you're...\n\\p-san...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23466",
+   "en": "(She knows who I am?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23467",
+   "en": "(No reaction...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23468",
+   "en": "(Sheryl's manager and bodyguard, huh...\nBrera-san was kind of unfriendly and scary,\nbut Grace-san seemed like a nice person.)",
+   "flags": [],
+   "notes": "Bare 'Sheryl' as in the Japanese."
+  },
+  {
+   "id": "c23469",
+   "en": "(Still, what could they have been talking\nabout in a place like this?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23470",
+   "en": "(Well, no point worrying about it.\nI'd better head back to class too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23471",
+   "en": "Whaaat?! You're not wearing it, Alto-kun?!\nI just know it'd look great on you...",
+   "flags": [],
+   "notes": "The women's china dress (Culture Fest)."
+  },
+  {
+   "id": "c23472",
+   "en": "Ranka... not you too......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23473",
+   "en": "Ranka-chan's right.\nQuit fussing and put it on, Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23474",
+   "en": "I refuse!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23475",
+   "en": "Wha-! The great Sheryl is asking you nicely,\nand you've got the nerve to say no?!",
+   "flags": [],
+   "notes": "kono Sheryl ga tanonde ageteru = 'I, Sheryl, am graciously asking'."
+  },
+  {
+   "id": "c23476",
+   "en": "'Asking nicely,' my foot!\nAll you're doing is talking down to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23477",
+   "en": "U-um!\nYou two, please stop fighting...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23478",
+   "en": "(I'd better leave the peacemaking here\nto Ranka. Nobody can stop those two\nanyway...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23479",
+   "en": "(Okay, it's almost opening time.\nI'd better get ready too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23480",
+   "en": "(I'd better leave the peacemaking here\nto Ranka-chan. Nobody can stop those two\nanyway...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23481",
+   "en": "(Okay, it's almost opening time.\nI'd better get ready too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23482",
+   "en": "I can't decide who to cheer for...",
+   "flags": [],
+   "notes": "Sports festival (scd_fes_510)."
+  },
+  {
+   "id": "c23483",
+   "en": "But if I cheer for everybody, no problem, right?\nGo, everybody! Do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23484",
+   "en": "Amazing, amazing! That's amazing,\n\\p-kun!\nYou really took first place!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23485",
+   "en": "Yeah! I'm gonna try to take first place too,\nso cheer me on, \\p-kun!",
+   "flags": [],
+   "notes": "Follows her own line c23484 directly in the script; Ranka says she will compete for first place too (her event is not shown)."
+  },
+  {
+   "id": "c23486",
+   "en": "So close, \\p-kun.\nBut you looked really cool running.\nI hope you take first place next year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23487",
+   "en": "You do understand, don't you? I, Sheryl Nome,\nwill NOT allow you to lose!\nYou'd better win, no matter what!!",
+   "flags": [],
+   "notes": "Tug-of-war branch."
+  },
+  {
+   "id": "c23488",
+   "en": "Hmph! Of course you won.\nI was the one cheering for you, after all.\nLosing was simply out of the question.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23489",
+   "en": "Still...\nI suppose you all did pretty well.\nYou've earned a little praise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23490",
+   "en": "I cheered for you myself, and you lost...?\nWhat do you all think you're doing?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23491",
+   "en": "(Phew, Sports Day's finally over.\nI'm beat, but it was exciting and really fun.)",
+   "flags": [],
+   "notes": "Aligned to the glossary decision of 2026-10-17."
+  },
+  {
+   "id": "c23492",
+   "en": "Amazing, amazing! That's amazing,\n\\p-chan!\nYou really took first place!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23493",
+   "en": "Yeah! I'm gonna try to take first place too,\nso cheer me on, \\p-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23494",
+   "en": "So close, \\p-chan.\nBut you looked really cool running.\nI hope you take first place next year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23495",
+   "en": "(Sheryl personally invited me to her concert\ntoday... but is it really okay for me to be here?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23496",
+   "en": "(When I showed my ticket at the reception desk,\nfor some reason they took me\nto the dressing room...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23497",
+   "en": "Oh, \\p. So you came.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23498",
+   "en": "Of course!\nThanks for inviting me to your concert today,\nSheryl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23499",
+   "en": "And sorry for barging in before the show.\nWhen I showed my ticket, for some reason\nthey brought me all the way back here...",
+   "flags": [],
+   "notes": "'back here' = the dressing room."
+  },
+  {
+   "id": "c23500",
+   "en": "Well, of course they did.\nI'm the one who told the staff\nto bring you here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23501",
+   "en": "Look, I called Alto and the others here too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23502",
+   "en": "Oh, so Alto and the others got brought\nto the dressing room too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23503",
+   "en": "Seriously, it surprised me. We were headed\nfor our seats when all of a sudden they\nshowed us to the dressing room.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23504",
+   "en": "You could at least have told us ahead\nof time, couldn't you, Sheryl-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23505",
+   "en": "But that'd be no fun!\nI wanted to see Alto and the rest of you\nall flustered like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23506",
+   "en": "Ngh! Sheryl!\nWhy, you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23507",
+   "en": "Now, now, calm down, Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23508",
+   "en": "Hehe, wanting to see your flustered faces\nwas only half a joke.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23509",
+   "en": "(Oh, so the other half was serious...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23510",
+   "en": "I wanted to surprise everyone today.\nThat's why I invited you to my concert.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23511",
+   "en": "Actually, \\p, I was planning to ask you\nand the others to do EX-Gear acrobatics\nas part of the concert's performance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23512",
+   "en": "But in the end, today I wanted you\nto watch my concert as audience members.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23513",
+   "en": "Hehe, you're going to be amazed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23514",
+   "en": "Wow, so it's that amazing of a con......",
+   "flags": [],
+   "notes": "Interrupted mid-word as in the Japanese. Shared male/female."
+  },
+  {
+   "id": "c23515",
+   "en": "Sheryl-san!\nWhat on earth is going on with Ranka-san?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23516",
+   "en": "Oh, Nanase.\nThanks for coming to see my concert today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23517",
+   "en": "N-not at all...\nThank you for inviting me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23518",
+   "en": "...No, that's not the point!\nWhy is Ranka-san in your concert...?!",
+   "flags": [],
+   "notes": "Nanase is cut off before spelling it out; kept vague so the reveal still lands."
+  },
+  {
+   "id": "c23519",
+   "en": "Stop right there, Nanase.\nIt'd be no fun if you spilled it here, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23520",
+   "en": "Don't worry, Ranka-chan will do just fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23521",
+   "en": "(Hm? Did something happen with Ranka?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23522",
+   "en": "Huh? Come to think of it, didn't you invite\nRanka to today's concert?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23523",
+   "en": "Of course I invited her! Obviously!",
+   "flags": [],
+   "notes": "ni kimatteru ja nai: emphatic."
+  },
+  {
+   "id": "c23524",
+   "en": "\\p...\nDo you take me for the wicked stepmother\nwho bullies Cinderella?",
+   "flags": [],
+   "notes": "Nod to Ranka's title, Super Dimension Cinderella."
+  },
+  {
+   "id": "c23525",
+   "en": "Hmph, well, whatever...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23526",
+   "en": "Now then, the concert's about to start.\nYou and the others had better head\nto your seats soon too, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23527",
+   "en": "Yeah, I guess I will.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23528",
+   "en": "Enjoy my concert to your heart's content today!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23529",
+   "en": "You bet!\nWell, good luck out there, Sheryl.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c23485/c23493: 'I'm gonna try to take first place too, so cheer me on' follows Ranka's own congratulation directly; which event she enters is not shown in the scene.",
+   "c23518: Nanase's cut-off line kept vague ('Why is Ranka-san in your concert...?!') so the reveal still lands."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

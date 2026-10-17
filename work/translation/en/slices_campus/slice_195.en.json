@@ -1,0 +1,493 @@
+{
+ "slice": 195,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c14280",
+   "en": "Run for it! Hoshim...\nWait, she's already gone!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14281",
+   "en": "(Somehow I managed to get away, but...)",
+   "flags": [],
+   "notes": "x2, player, both genders. Subject restored as 'I' (the player's own escape); 'we' would also fit."
+  },
+  {
+   "id": "c14282",
+   "en": "How on earth did you get away?\nThe moment I took my eyes off you,\nyou were out of there before me...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14283",
+   "en": "Heh heh heh... That, I cannot tell you!\nAnyway, good thing Hilda-sensei didn't\ncatch us. All's well!",
+   "flags": [],
+   "notes": "Hoshimura, both genders (old-fashioned oshierare masen na)."
+  },
+  {
+   "id": "c14284",
+   "en": "Seems we won't be playing in the pool\nany more today. Shall we be off home, then?",
+   "flags": [],
+   "notes": "Hoshimura, both genders (old-fashioned kaerimashou kai)."
+  },
+  {
+   "id": "c14285",
+   "en": "Yeah, that seems like the best idea.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14286",
+   "en": "Well then, see ya laterrr~",
+   "flags": [],
+   "notes": "Hoshimura, both genders; as c12233."
+  },
+  {
+   "id": "c14287",
+   "en": "(Phew, I'm glad Hilda-sensei didn't catch me~)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14288",
+   "en": "(But still, Hoshimura...\nHow did she get out of the pool and away\nfaster than me...? It's a mystery......)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14289",
+   "en": "(I snuck into the school pool with Yui\nwithout permission again...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14290",
+   "en": "Run for it! Yu...\nWait, she's already gone!!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14291",
+   "en": "How on earth did you get away?\nThe moment I took my eyes off you,\nyou were out of there before me...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14292",
+   "en": "Yeah, that seems like the best idea.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14293",
+   "en": "(But still, Yui...\nHow did she get out of the pool and away\nfaster than me...? It's a mystery......)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14294",
+   "en": "(I never thought I was this frail...\nWho'd have thought I'd catch a cold\nand end up in the hospital......)",
+   "flags": [],
+   "notes": "Male, frd_yui_004."
+  },
+  {
+   "id": "c14295",
+   "en": "(And after I'd promised Hoshimura\nwe'd go see a concert at the Sky Gate...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14296",
+   "en": "Heyyy! You doin' all right~!?\n\\p!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14297",
+   "en": "Wait, you're in the hospital,\nso of course you're not all right.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14298",
+   "en": "Hoshimura...\nI'm glad you came to visit me, but\ncould you keep your voice down a bit...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14299",
+   "en": "Sorry, sorry. More to the point,\nhow fares your health?",
+   "flags": [],
+   "notes": "Hoshimura, both genders (o-kagen, old-fashioned)."
+  },
+  {
+   "id": "c14300",
+   "en": "Health-wise, I'm fine now.\nThey say I can leave the hospital soon.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14301",
+   "en": "Ooh! That's great to hear.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14302",
+   "en": "Oh, that's right, I brought you\na get-well gift. I'll go get it\nready real quick.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14303",
+   "en": "You really don't have to, Hoshimura.\nJust coming to visit me is more than enough...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14304",
+   "en": "Don't sweat it!\nLeave it to Yui-san, curry in a hurry~!",
+   "flags": [],
+   "notes": "Hoshimura, male scene. Nonsense rhyme tag (makasenasai no Indo karee): rendered as a rhyme that keeps the curry."
+  },
+  {
+   "id": "c14305",
+   "en": "(Not only did she come to visit me,\nshe even went and bought me a gift...\nThanks, Hoshimura.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14306",
+   "en": "(I wonder if she got me some fruit,\nlike the usual get-well gift?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14307",
+   "en": "Whew~ Sorry, sorry.\nThat took longer than I thought.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14308",
+   "en": "No, it's no proble......",
+   "flags": [],
+   "notes": "Player, both genders; cut off."
+  },
+  {
+   "id": "c14309",
+   "en": "Wait, hey!\nWhat's with that outfit!? Hoshimura!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14310",
+   "en": "Huh? Can't you tell just by looking?\nThis is......",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14311",
+   "en": "A nurse's uniform!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14312",
+   "en": "Why a nurse's uniform!?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14313",
+   "en": "I figured I'd nurse you, and everything\nstarts with looking the part, right? I even\nbought a syringe! Aren't I a good girl?",
+   "flags": [],
+   "notes": "Hoshimura, both genders (erai deshou)."
+  },
+  {
+   "id": "c14314",
+   "en": "Yeah... Good girl, good girl......",
+   "flags": [],
+   "notes": "Male; echoes her 'erai'."
+  },
+  {
+   "id": "c14315",
+   "en": "Aww, flattery won't get you anything~",
+   "flags": [],
+   "notes": "Hoshimura, both genders; same as c14224."
+  },
+  {
+   "id": "c14316",
+   "en": "(I was an idiot to expect\na normal gift from Hoshimura...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14317",
+   "en": "Haaah... I think I'm getting a headache...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14318",
+   "en": "What!? Why, that's a grave matter!\nThe angel who descended to earth...\nLeave it all to Nurse Yui, I say~!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders (makasenshai, dialect/old-fashioned)."
+  },
+  {
+   "id": "c14319",
+   "en": "Okay, first we take your temperature.\nHuh? I didn't bring a thermometer...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14320",
+   "en": "...All right! Bring your face over here!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14321",
+   "en": "I'll take your temperature with\nthe thermometer known as my forehead~!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14322",
+   "en": "Come on! Bring it ooon!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14323",
+   "en": "...Hoshimura, got a sec?\nThis is really hard to say, but......",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14324",
+   "en": "Hm? What's the matter?",
+   "flags": [],
+   "notes": "x4, Hoshimura, both genders; also nml_yui_019."
+  },
+  {
+   "id": "c14325",
+   "en": "Go change back right now!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14326",
+   "en": "Tch, and I went to the trouble of buying it~\nWhat about it didn't suit your fancy?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14327",
+   "en": "It's not a question of whether\nit suits my fancy or not...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14328",
+   "en": "Well, I got to see you're well enough to shout,\nso I guess I'll head home for today.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14329",
+   "en": "(Hoshimura came to visit me while I'm sick...\nright? I can't help feeling she just\ncame to goof around...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14330",
+   "en": "Oh, that's right!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14331",
+   "en": "Forget something?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14332",
+   "en": "If you ever wanna see me as a nurse, just say\nthe word! Byyye~!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14333",
+   "en": "(That's Hoshimura for you...\nEverything she says and does is so out there,\nI just can't compete...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14334",
+   "en": "(I never thought I was this frail...\nWho'd have thought I'd catch a cold\nand end up in the hospital......)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14335",
+   "en": "(And after I'd promised Yui\nwe'd go see a concert at the Sky Gate...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14336",
+   "en": "Yui...\nI'm glad you came to visit me, but\ncould you keep your voice down a bit...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14337",
+   "en": "Health-wise, I'm fine now.\nThey told me I can leave the hospital soon.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14338",
+   "en": "You really don't have to, Yui.\nJust coming to visit me is more than enough...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14339",
+   "en": "Don't sweat it!\nLeave it to Yui-san, curry in a hurry~",
+   "flags": [],
+   "notes": "Hoshimura, female scene; same gag as c14304."
+  },
+  {
+   "id": "c14340",
+   "en": "(Not only did she come to visit me,\nshe even went and bought me a gift...\nThanks, Yui.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14341",
+   "en": "(I wonder if she got me some fruit,\nlike the usual get-well gift?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14342",
+   "en": "Wait!\nWhat's with that outfit!? Yui!!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14343",
+   "en": "Huh? Can't you tell just by looking?\nThis is...",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14344",
+   "en": "Yeah... Good girl, good girl......",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14345",
+   "en": "(I was an idiot to expect\na normal gift from Yui...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14346",
+   "en": "...Yui, have you got a moment?\nThis is really hard to say, but......",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14347",
+   "en": "Go change back right now!!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14348",
+   "en": "It's not a question of whether\nit suits my fancy or not...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14349",
+   "en": "(Yui came to visit me while I'm sick...\nright? I can't help feeling she just\ncame to goof around...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14350",
+   "en": "Forget something?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14351",
+   "en": "(That's Yui for you...\nEverything she says and does is so out there,\nI just can't compete...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14352",
+   "en": "(I'm fully recovered now,\nso today I'm going to enjoy a concert\nat the Sky Gate with Hoshimura!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14353",
+   "en": "Hey, \\p!\nYou look perfectly healthy now.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14354",
+   "en": "Thanks to you.",
+   "flags": [],
+   "notes": "Player, both genders (okagesama de)."
+  },
+  {
+   "id": "c14355",
+   "en": "Yup, it really is wonderful\nthat you're in tip-top shape, but...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14356",
+   "en": "You don't have any plans to go back\ninto the hospital, do you?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14357",
+   "en": "'Cause, y'know~\nI went to all the trouble of buying a nurse outfit,\nand I haven't had a single chance to wear it~!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14358",
+   "en": "C'mon, c'mon!\nGo back in the hospital for me...",
+   "flags": [],
+   "notes": "Hoshimura, both genders; cut off by the player."
+  },
+  {
+   "id": "c14359",
+   "en": "Maybe I'll head home now...",
+   "flags": [],
+   "notes": "Male."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

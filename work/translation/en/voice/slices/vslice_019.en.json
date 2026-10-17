@@ -1,0 +1,536 @@
+{
+ "slice": 19,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "of_ktr/1482",
+   "en": "YF-25 Prophecy, you're cleared for the Tornado Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1483",
+   "en": "SNN Valkyrie, you're cleared to equip the Large Booster.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"SNN Valkyrie Large Booster\")."
+  },
+  {
+   "id": "o0_of1/1483",
+   "en": "SNN Valkyrie, I authorize the Large Booster.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"SNN Valkyrie Large Booster\")."
+  },
+  {
+   "id": "o0_of2/1483",
+   "en": "SNN Valkyrie, I'll let you equip the Large Booster.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"SNN Valkyrie Large Booster\")."
+  },
+  {
+   "id": "o0_om0/1483",
+   "en": "SNN Valkyrie, equipping the Large Booster is authorized.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"SNN Valkyrie Large Booster\")."
+  },
+  {
+   "id": "os_mis/1483",
+   "en": "SNN Valkyrie, equipping the Large Booster is permitted.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"SNN Valkyrie Large Booster\")."
+  },
+  {
+   "id": "o7_exd/1483",
+   "en": "SNN Valkyrie, Large Booster equipment authorized.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"SNN Valkyrie Large Booster\")."
+  },
+  {
+   "id": "of_ktr/1483",
+   "en": "SNN Valkyrie, you're cleared for the Large Booster.",
+   "flags": [],
+   "notes": "Pack name as in the corpus (\"SNN Valkyrie Large Booster\")."
+  },
+  {
+   "id": "o0_of0/1484",
+   "en": "YF-25 Prophecy, you're cleared to equip the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1484",
+   "en": "YF-25 Prophecy, I authorize the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1484",
+   "en": "YF-25 Prophecy, I'll let you equip the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1484",
+   "en": "YF-25 Prophecy, equipping the Super Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1484",
+   "en": "YF-25 Prophecy, equipping the Super Pack is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1484",
+   "en": "YF-25 Prophecy, Super Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1484",
+   "en": "YF-25 Prophecy, you're cleared for the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1485",
+   "en": "YF-25 Prophecy, you're cleared to equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1485",
+   "en": "YF-25 Prophecy, I authorize the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1485",
+   "en": "YF-25 Prophecy, I'll let you equip the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1485",
+   "en": "YF-25 Prophecy, equipping the Armored Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1485",
+   "en": "YF-25 Prophecy, equipping the Armored Pack is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1485",
+   "en": "YF-25 Prophecy, Armored Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1485",
+   "en": "YF-25 Prophecy, you're cleared for the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1486",
+   "en": "YF-25 Prophecy, you're cleared to equip the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1486",
+   "en": "YF-25 Prophecy, I authorize the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1486",
+   "en": "YF-25 Prophecy, I'll let you equip the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1486",
+   "en": "YF-25 Prophecy, equipping the Fold Speaker is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1486",
+   "en": "YF-25 Prophecy, equipping the Fold Speaker is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1486",
+   "en": "YF-25 Prophecy, Fold Speaker equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1486",
+   "en": "YF-25 Prophecy, you're cleared for the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1487",
+   "en": "VF-17 Nightmare, you're cleared to equip the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1487",
+   "en": "VF-17 Nightmare, I authorize the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1487",
+   "en": "VF-17 Nightmare, I'll let you equip the Super Pack.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Nightmare heard as \"raitomea\""
+  },
+  {
+   "id": "o0_om0/1487",
+   "en": "VF-17 Nightmare, equipping the Super Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1487",
+   "en": "VF-17 Nightmare, equipping the Super Pack is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1487",
+   "en": "VF-17 Nightmare, Super Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1487",
+   "en": "VF-17 Nightmare, you're cleared for the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1488",
+   "en": "VF-17 Nightmare, you're cleared to equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1488",
+   "en": "VF-17 Nightmare, I authorize the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1488",
+   "en": "VF-17 Nightmare, I'll let you equip the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1488",
+   "en": "VF-17 Nightmare, equipping the FAST Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1488",
+   "en": "VF-17 Nightmare, equipping the FAST Pack is permitted.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1488",
+   "en": "VF-17 Nightmare, FAST Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1488",
+   "en": "VF-17 Nightmare, you're cleared for the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1500",
+   "en": "Please go rescue Lieutenant Hayase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1500",
+   "en": "Go rescue Lieutenant Hayase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1500",
+   "en": "Go rescue Lieutenant Hayase!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1500",
+   "en": "Go rescue Lieutenant Hayase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1500",
+   "en": "Would you be so kind as to go rescue Lieutenant Hayase?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1500",
+   "en": "Go rescue Lieutenant Hayase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1501",
+   "en": "Lieutenant Hayase has been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1501",
+   "en": "Lieutenant Hayase has been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1501",
+   "en": "We rescued Lieutenant Hayase!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1501",
+   "en": "Lieutenant Hayase has been rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1501",
+   "en": "Lieutenant Hayase successfully rescued.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1501",
+   "en": "We've rescued Lieutenant Hayase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1502",
+   "en": "Combat preparations complete. This ship will now provide support as well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1502",
+   "en": "Combat preparations complete. This ship will now provide support too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1502",
+   "en": "Combat preparations complete! This ship's backing you up now too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1502",
+   "en": "Combat preparations complete. This ship will now provide support too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1502",
+   "en": "Ready for combat. This ship will now provide support as well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1502",
+   "en": "Combat preparations complete. This ship shall now lend its support as well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1502",
+   "en": "Combat preparations complete. This ship will provide support too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1504",
+   "en": "Unknowns advancing from the space ahead. Please engage them immediately.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound."
+  },
+  {
+   "id": "o0_of1/1504",
+   "en": "Unknowns advancing from the space ahead. Engage them immediately.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound."
+  },
+  {
+   "id": "o0_of2/1504",
+   "en": "Unknowns advancing from the space ahead! Engage them right now!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound."
+  },
+  {
+   "id": "o0_om0/1504",
+   "en": "Unknowns advancing from the space ahead. Engage them immediately.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound."
+  },
+  {
+   "id": "os_mis/1504",
+   "en": "Unknowns advancing from the space ahead. Engage them immediately.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound."
+  },
+  {
+   "id": "o7_exd/1504",
+   "en": "Unknowns advancing from the space ahead. Engage them at once.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound."
+  },
+  {
+   "id": "of_ktr/1504",
+   "en": "Unknowns advancing from the space ahead. Engage them immediately.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound."
+  },
+  {
+   "id": "o0_of0/1505",
+   "en": "Enemies have entered the Island. Please pursue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1505",
+   "en": "Enemies have entered the Island. Pursue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1505",
+   "en": "Enemies have entered the Island! Go after them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1505",
+   "en": "Enemies have entered the Island. Pursue them.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "tsuigeki (pursue) written as tsuugeki"
+  },
+  {
+   "id": "os_mis/1505",
+   "en": "Enemies have entered the Island. Pursue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1505",
+   "en": "Enemies have entered the Island. Pursue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1505",
+   "en": "Enemies have entered the Island. Pursue them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1506",
+   "en": "Galaxy refugee fleet detected at 02, ahead of this ship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone); \"zero-tsui\" is zero-two. \"02\" kept as a position code."
+  },
+  {
+   "id": "o0_of1/1506",
+   "en": "Galaxy refugee fleet detected at 02, ahead of this ship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone). \"02\" kept as a position code."
+  },
+  {
+   "id": "o0_of2/1506",
+   "en": "Galaxy refugee fleet detected at 02, ahead of this ship!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone). \"02\" kept as a position code."
+  },
+  {
+   "id": "o0_om0/1506",
+   "en": "Galaxy refugee fleet detected at 02, ahead of this ship.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone). \"02\" kept as a position code."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "rows 1510-1516: \"airando\" rendered \"the Island\" as MUF voice does (glossary only has Island 1)."
+  ],
+  "whisper_doubt": [
+   "row 1472: Nightmare heard as \"raitomea\"",
+   "row 1503: chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound.",
+   "row 1504: chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound.",
+   "row 1505: chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound.",
+   "row 1506: chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound.",
+   "row 1507: chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound.",
+   "row 1508: chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound.",
+   "row 1509: chuuiki written as \"middle area\" instead of \"space zone\" (homophone). shinkou read as \"advancing\"; could be \"invading\", same sound.",
+   "row 1513: tsuigeki (pursue) written as tsuugeki",
+   "row 1517: sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone); \"zero-tsui\" is zero-two. \"02\" kept as a position code.",
+   "row 1518: sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone). \"02\" kept as a position code.",
+   "row 1519: sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone). \"02\" kept as a position code.",
+   "row 1520: sendan (fleet) written as \"war corps\" instead of \"ship group\" (homophone). \"02\" kept as a position code."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,460 @@
+{
+ "slice": 90,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c06623",
+   "en": "(I came to the library with\nYamashiro-sensei today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06624",
+   "en": "\\p.\nI never expected you to volunteer\nfor extra lessons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06625",
+   "en": "W-well...\nIf I'm going to study anyway,\nI want to do it properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06626",
+   "en": "I see. Then I'll live up to\nyour expectations.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06627",
+   "en": "Let's stop here for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06628",
+   "en": "You've got good instincts. Now learn to apply\nwhat you know. Do that, and your grades\nwill improve dramatically.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06629",
+   "en": "Shall we go get something to eat, then?\nYou must be hungry too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06630",
+   "en": "Lead the way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06631",
+   "en": "(Today was a good day.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06632",
+   "en": "(I came to the library with\nYamashiro-sensei today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06633",
+   "en": "I'm starving!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06634",
+   "en": "\\p.\nTo think you'd want extra lessons\nagain and again...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06635",
+   "en": "You explain things so well, Sensei,\nI figured I'd listen as many times as I can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06636",
+   "en": "Flattery won't get you anything, you know.\n...Well, fine. Let's get started.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06637",
+   "en": "That should do it for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06638",
+   "en": "You've gotten much better at applying what\nyou know. But don't get careless.\nNever skip preparing and reviewing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06639",
+   "en": "(I came to Griffith Park with\nYamashiro-sensei today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06640",
+   "en": "This place has a nice view.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06641",
+   "en": "It's my favorite spot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06642",
+   "en": "Mind if I take in the view for a while?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06643",
+   "en": "It shouldn't be a very big city, but\nlooking out over it all, you can see\nso many different things.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06644",
+   "en": "Yeah, the school, houses, parks...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06645",
+   "en": "And to think all this is inside\na colony ship...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06646",
+   "en": "You forget that when you live here,\ndon't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06647",
+   "en": "Well, let's head back.\nThe wind's picking up, too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06648",
+   "en": "(I came to Griffith Park with\nYamashiro-sensei today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06649",
+   "en": "It's my favorite place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06650",
+   "en": "It's always nice here,\nwhenever you come...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06651",
+   "en": "It's so calming.\nThe breeze feels nice, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06652",
+   "en": "Shall we walk around here for a while?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06653",
+   "en": "Getting in touch with nature regularly\nisn't half bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06654",
+   "en": "Maybe I'll try growing a houseplant\nor something.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06655",
+   "en": "...Just don't let it die on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06656",
+   "en": "Well, let's head back.\nIt's gotten quite cold.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06657",
+   "en": "(I'm at the artificial island with\nYamashiro-sensei today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06658",
+   "en": "Took you long enough, \\p.\nI got tired of waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06659",
+   "en": "S-sorry...\nSomething took me longer than expected...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06660",
+   "en": "Let's skip the beach today\nand explore a bit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06661",
+   "en": "Hm, so there are plenty of places\nto pass the time besides the beach.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06662",
+   "en": "It's an island built for leisure, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06663",
+   "en": "True enough.\nI don't come here often,\nso it all felt new to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06664",
+   "en": "Me too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06665",
+   "en": "Well then, let's head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06666",
+   "en": "(I'm at the artificial island with\nYamashiro-sensei today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06667",
+   "en": "Same here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06668",
+   "en": "For now, let's skip the beach and explore\na bit today. That area around the cliff\nhas caught my interest.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06669",
+   "en": "So that cliff is used as\na movie location.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06670",
+   "en": "Looks like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06671",
+   "en": "It's dangerous to go in there,\nso be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06672",
+   "en": "Don't worry.\nI only ever come here to swim.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06673",
+   "en": "Then that's fine.\nShall we head home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06674",
+   "en": "(I'm going to Deep Akihabara with\nYamashiro-sensei today!)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is 'provisional' in locations.json."
+  },
+  {
+   "id": "c06675",
+   "en": "Sorry I'm late,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06676",
+   "en": "I just got here too,\nso it's totally fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06677",
+   "en": "I see. Then I'm sorry, but bear with me.\nThere's something I can only find here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06678",
+   "en": "Too bad. It was the Complete VF Collection\nyou were looking for, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06679",
+   "en": "Ngh... If I can't find it even here...\nI may have no choice but to go\nto another fleet...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06680",
+   "en": "What! Seriously!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06681",
+   "en": "That's just how determined I am...\nSorry, but let's call it a day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06682",
+   "en": "(Yamashiro-sensei looks really down...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06683",
+   "en": "(I'm going to Deep Akihabara with\nYamashiro-sensei today.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is 'provisional' in locations.json."
+  },
+  {
+   "id": "c06684",
+   "en": "I just got here too,\nso don't worry about it at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06685",
+   "en": "(I'm going to Deep Akihabara with\nYamashiro-sensei again today!)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is 'provisional' in locations.json."
+  },
+  {
+   "id": "c06686",
+   "en": "I just got here too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06687",
+   "en": "I've gathered all sorts of information\non the shops... Today looks promising.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06688",
+   "en": "No luck again today, huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06689",
+   "en": "Ngh... If I can't find it even here...\nIs it hopeless...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06690",
+   "en": "Come on, don't be so down...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06691",
+   "en": "No... It's fine...\nSorry, but let's go home for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06692",
+   "en": "(I'm going to Deep Akihabara with\nYamashiro-sensei again today.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is 'provisional' in locations.json."
+  },
+  {
+   "id": "c06693",
+   "en": "I just got here myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06694",
+   "en": "Please don't be so down...",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c06674/c06683/c06685/c06692 use Deep Akihabara, which is 'provisional' in locations.json.",
+   "c06675 'Sorry I'm late, \\p.' is shared with Kagura (frd_kgr_102).",
+   "c06657/c06666 also open frd_itk_116; matched slice 92's c06806/c06813 wording ('I'm at the artificial island with Yamashiro-sensei...').",
+   "c06658: 'osokatta na' rendered 'Took you long enough', as c06580 in slice 89; 'machikutabireta' as slice 92's 'I got tired of waiting'.",
+   "c06678: the VF set Yamashiro seeks is the 'Complete VF Collection' as in c06404 (slice 86; that branch has him already finding it, this one has not).",
+   "c06663: 'shinsen na kibun' rendered 'it all felt new to me' to keep clear of the glossary 'refresh' gag term."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

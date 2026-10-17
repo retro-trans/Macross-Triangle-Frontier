@@ -1,0 +1,391 @@
+{
+ "slice": 197,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c14440",
+   "en": "Well, we can't just sit here staring blankly\nat the sea forever, so shall we start\ngetting ready to head home?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14441",
+   "en": "Let's do that.",
+   "flags": [],
+   "notes": "Male; x2 (frd_yui_005 and frd_yui_006); as c08074."
+  },
+  {
+   "id": "c14442",
+   "en": "(I had a lot of fun with Hoshimura today.\nIt was a nice change of pace.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14443",
+   "en": "(I came to the artificial island\nwith Yui again, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14444",
+   "en": "Hey, Yui, let's hurry up and go swimming.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14445",
+   "en": "(Weird stuff...?\nWas it really that embarrassing for her......)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14446",
+   "en": "Okay... I swear I'll never say 'cute,'\nso let's hurry up and go play.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14447",
+   "en": "(Then what am I supposed to do...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14448",
+   "en": "(I had a lot of fun with Yui today.\nIt was a nice change of pace.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14449",
+   "en": "(Today I'm going to enjoy some shopping\nat Folmo with Hoshimura!)",
+   "flags": [],
+   "notes": "Male, frd_yui_006."
+  },
+  {
+   "id": "c14450",
+   "en": "(Huh? Wait...\nHoshimura got here first? That's unusual.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14451",
+   "en": "Sorry, Hoshimura. Did I keep you waiting?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14452",
+   "en": "Hmph! You're late!\nJust how long were you planning\nto keep me waiting?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14453",
+   "en": "Sorry, sorry...\nWait, it's still ten minutes before\nthe time we said we'd meet......",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14454",
+   "en": "Oops, busted.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14455",
+   "en": "Geez, don't startle me like that.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14456",
+   "en": "Still, for you not to be late, Hoshimura,\nand even show up early... That's unusual.\nDid something happen?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14457",
+   "en": "...Hmm~?\nI just kinda woke up early, and waiting at home\nwas boring, so I figured I'd head out early.",
+   "flags": [],
+   "notes": "Hoshimura, both genders. x4."
+  },
+  {
+   "id": "c14458",
+   "en": "Getting to a meetup first once in a while\nisn't so bad, huh?\nEven the waiting is kinda fun.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14459",
+   "en": "...But anyway, enough of that.\nShall we be off to enjoy some shopping, then?",
+   "flags": [],
+   "notes": "Hoshimura, both genders. (old-fashioned shimashou kai)."
+  },
+  {
+   "id": "c14460",
+   "en": "Here, Hoshimura.",
+   "flags": [],
+   "notes": "Male; handing her an ice cream (see c14462)."
+  },
+  {
+   "id": "c14461",
+   "en": "What's with the 'Huh?' Why so surprised?",
+   "flags": [],
+   "notes": "Male; her \"heh?\" is not a separate row here."
+  },
+  {
+   "id": "c14462",
+   "en": "You always eat my ice cream without asking,\nright, Hoshimura? So this time,\nI'm offering it to you first...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male (saki ni douzo). Reading of saki ni douzo: the player offers her the ice cream first because she always eats his; it could also mean he bought her one of her own."
+  },
+  {
+   "id": "c14463",
+   "en": "Oh, come on!\nWhen have I ever done something that greedy?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14464",
+   "en": "Last time we came here...\nActually, I think you do it every time...?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14465",
+   "en": "Uhh... Did I?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14466",
+   "en": "You did.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14467",
+   "en": "I-I think I'll pass today~\nI'm already full anyway...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14468",
+   "en": "What! Hoshimura turning something down?\nThat's a first. Are you feeling sick or something?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14469",
+   "en": "Nah, I'm super healthy!\nBoundless energy is Yui-san's selling point,\nafter all!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14470",
+   "en": "...Is what I'd like to say, but...\nI'm kinda not myself today, am I......",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14471",
+   "en": "What's going on with me?\nBeing with you is fun, and yet...?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14472",
+   "en": "Hmm... Shall we just go home for today?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14473",
+   "en": "Let's do that. Looks like you're not quite\nyourself today either, Hoshimura.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14474",
+   "en": "Yeah, sorry. See ya.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14475",
+   "en": "(Hmm, Hoshimura wasn't her usual self today.\nWhat on earth is going on with her?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14476",
+   "en": "(I hope Hoshimura goes back to her\nusual energetic self soon...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14477",
+   "en": "(Today I'm going to enjoy some shopping\nat Folmo with Yui!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14478",
+   "en": "(Huh? Wait...\nYui got here first? That's unusual.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14479",
+   "en": "Sorry, Yui. Did I keep you waiting?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14480",
+   "en": "Geez, don't startle me like that.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14481",
+   "en": "Still, for you not to be late, Yui,\nand even show up early... That's unusual.\nDid something happen?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14482",
+   "en": "Here, Yui.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14483",
+   "en": "What's with the 'Huh?' Why so surprised?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14484",
+   "en": "You always eat my ice cream without asking,\nright, Yui? So this time,\nI'm offering it to you first...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female; as c14462. Reading of saki ni douzo: the player offers her the ice cream first because she always eats his; it could also mean he bought her one of her own."
+  },
+  {
+   "id": "c14485",
+   "en": "What! Yui turning something down?\nThat's a first. Are you feeling sick or something?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14486",
+   "en": "Let's do that. Looks like you're not quite\nyourself today either, Yui.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14487",
+   "en": "(Hmm, Yui wasn't her usual self today.\nWhat on earth is going on with her?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14488",
+   "en": "(I hope Yui goes back to her\nusual energetic self soon...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14489",
+   "en": "(I came to Folmo by myself today,\nbut maybe I should've invited Hoshimura too.)",
+   "flags": [],
+   "notes": "Male, frd_yui_006 second visit."
+  },
+  {
+   "id": "c14490",
+   "en": "(All right, I'll try giving Hoshimura a call.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14491",
+   "en": "Hello hello, Yui here~\nAnd to whom am I speaking, pray tell?",
+   "flags": [],
+   "notes": "Hoshimura, both genders. (old-fashioned deshou kai)."
+  },
+  {
+   "id": "c14492",
+   "en": "Oh, Hoshimura.\nIt's \\p.\nIf you're free, want to come to Folmo now?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14493",
+   "en": "Uhh, well, ummm...\nSorry, I'm actually super busy right now.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14494",
+   "en": "Oh, you've got something to do...\nWell, can't be helped, then.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14495",
+   "en": "S-sorry...\nInvite me again next time! Okay, bye! Later!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14496",
+   "en": "(And here I wanted to hang out with Hoshimura...\nOh well, guess I'll have fun on my own......)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14497",
+   "en": "(I came to Folmo by myself today,\nbut maybe I should've invited Yui too.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14498",
+   "en": "(All right, I'll try giving Yui a call.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14499",
+   "en": "Oh, Yui.\nIt's \\p.\nIf you're free, want to come to Folmo now?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14500",
+   "en": "Oh, you've got something to do...\nWell, can't be helped, then.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14501",
+   "en": "(And here I wanted to hang out with Yui...\nOh well, guess I'll have fun on my own......)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c14462 / c14484: Reading of saki ni douzo: the player offers her the ice cream first because she always eats his; it could also mean he bought her one of her own."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

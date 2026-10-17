@@ -1,0 +1,391 @@
+{
+ "slice": 64,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c04753",
+   "en": "(Today I'm going shopping with Claire-senpai!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04754",
+   "en": "Why, \\p-kun.\nYou're early.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x5: Claire in the male scene, but also listed with no name plate in both versions of frd_cla_102 (a -kun line in the female version too). Translated as Claire's line."
+  },
+  {
+   "id": "c04755",
+   "en": "Alright~ I'm gonna buy lots again today~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04756",
+   "en": "Come along!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04757",
+   "en": "W-wait for me!\nClaire-senpai!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04758",
+   "en": "We sure bought a lot, didn't we.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04759",
+   "en": "Y-yeah, I guess...",
+   "flags": [],
+   "notes": "x17 across scenes and speakers (also Shirakawa); kept generic."
+  },
+  {
+   "id": "c04760",
+   "en": "(I wonder how much Senpai spent...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04761",
+   "en": "Let's hang out again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04762",
+   "en": "(Today was fun~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04763",
+   "en": "(Today I'm going shopping with Claire-senpai!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04764",
+   "en": "Why, \\p-chan.\nYou're early.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04765",
+   "en": "(Senpai got me carried away,\nand I ended up buying a ton too...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04766",
+   "en": "(I'm going shopping with Claire-senpai\nagain today!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04767",
+   "en": "Why, \\p-kun.\nEarly again today. Good, very good.",
+   "flags": [],
+   "notes": "Male only. Kanshin kanshin."
+  },
+  {
+   "id": "c04768",
+   "en": "Alright, I'm gonna buy lots again today~!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04769",
+   "en": "Let's hit the sales together again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04770",
+   "en": "(Today was fun again~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04771",
+   "en": "(I'm going shopping with Claire-senpai\nagain today!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04772",
+   "en": "Why, \\p-chan.\nYou're early. I'm impressed.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04773",
+   "en": "Alright, I'm gonna buy lots again today~",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04774",
+   "en": "(I came to Folmo to have fun\nwith Claire-senpai!)",
+   "flags": [],
+   "notes": "Male only. Folmo/Formo (the mall) is not in the glossary; used 'Formo'. Glossary: Folmo."
+  },
+  {
+   "id": "c04775",
+   "en": "The ice cream shop here is really good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04776",
+   "en": "Oh, really?\nI'll go buy us some.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04777",
+   "en": "Oh, get me a mixed double, okay?",
+   "flags": [],
+   "notes": "Male only. Two scoops, mixed flavours."
+  },
+  {
+   "id": "c04778",
+   "en": "Got it!",
+   "flags": [],
+   "notes": "x3: also frd_hld_006 (both genders)."
+  },
+  {
+   "id": "c04779",
+   "en": "That was fun.\nLet's hang out again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04780",
+   "en": "Yes! I had fun too.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04781",
+   "en": "(Hanging out with Claire-senpai\nwas a nice change of pace.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04782",
+   "en": "(I came to Folmo to have fun\nwith Claire-senpai!)",
+   "flags": [],
+   "notes": "Female only. Folmo/Formo (the mall) is not in the glossary; used 'Formo'. Glossary: Folmo."
+  },
+  {
+   "id": "c04783",
+   "en": "Wow~ Really?\nI'll go buy us some.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04784",
+   "en": "Oh, get me a triple, okay?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04785",
+   "en": "O-okaaay!",
+   "flags": [],
+   "notes": "Female only. Consistent with c05016."
+  },
+  {
+   "id": "c04786",
+   "en": "Yes! I had fun too.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04787",
+   "en": "(I came back to Folmo to have fun\nwith Claire-senpai!)",
+   "flags": [],
+   "notes": "Male only. Folmo/Formo (the mall) is not in the glossary; used 'Formo'. Glossary: Folmo."
+  },
+  {
+   "id": "c04788",
+   "en": "The ice cream shop here really is good,\nisn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04789",
+   "en": "Oh, I'll go buy us some.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04790",
+   "en": "This time I'll go get them for you.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04791",
+   "en": "Thank you.",
+   "flags": [],
+   "notes": "x10 across scenes; consistent with c00783."
+  },
+  {
+   "id": "c04792",
+   "en": "Today was fun too.\nLet's hang out again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04793",
+   "en": "(I came back to Folmo to have fun\nwith Claire-senpai!)",
+   "flags": [],
+   "notes": "Female only. Folmo/Formo (the mall) is not in the glossary; used 'Formo'. Glossary: Folmo."
+  },
+  {
+   "id": "c04794",
+   "en": "I'll go buy us some.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04795",
+   "en": "Oh, today I'll go get them for you.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04796",
+   "en": "(Hanging out with Claire-senpai\nwas a nice change of pace~)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04797",
+   "en": "(I came to have tea with Claire-senpai.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04798",
+   "en": "Phew, the tea is delicious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04799",
+   "en": "Yes, this really is a great place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04800",
+   "en": "Hehehe, I'm glad you like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04801",
+   "en": "It's been ages since I got to relax like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04802",
+   "en": "It's all thanks to you. Thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04803",
+   "en": "Oh, not at all. I'm the one who had\na great time.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04804",
+   "en": "Well then, see you later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04805",
+   "en": "(That was a nice change of pace.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04806",
+   "en": "(I came to have tea with Claire-senpai.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04807",
+   "en": "Oh, not at all. I'm the one who had\na great time.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04808",
+   "en": "(That was a nice change of pace~)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04809",
+   "en": "Phew, the tea is delicious again today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04810",
+   "en": "Yes, it tastes great every time I come!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04811",
+   "en": "Hehehe, it was worth introducing you to it.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04812",
+   "en": "I'm glad I got to relax again today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04813",
+   "en": "Yes, the tea's great every time I come.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04814",
+   "en": "Hehehe, it was worth introducing you to it.",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c04754: Claire's '-kun' greeting also appears with no name plate in the female version of frd_cla_102; translated as Claire's line"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Folmo / Formo (katakana forumo): campus outing spot, a mall with an ice cream shop (c04774, c04782, c04787, c04793). Used 'Formo'; may be named after Exsedol Folmo, in which case 'Folmo'. Not confirmed on the wiki."
+  ],
+  "unfinished": []
+ }
+}

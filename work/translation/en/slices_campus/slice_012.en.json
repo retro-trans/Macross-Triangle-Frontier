@@ -1,0 +1,506 @@
+{
+ "slice": 12,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c00826",
+   "en": "Stop it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00827",
+   "en": "A mother is still a woman!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00828",
+   "en": "A woman has to keep shining!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00829",
+   "en": "What are you talking about!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00830",
+   "en": "(Canaria-san, my condolences.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00831",
+   "en": "(I just sort of wandered into the hangar...\nI don't want to get in anyone's way,\nso it feels kind of awkward.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00832",
+   "en": "You too, Canaria-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00833",
+   "en": "I know what you mean...",
+   "flags": [],
+   "notes": "sou desu ne (x7): agreement."
+  },
+  {
+   "id": "c00834",
+   "en": "(I went out for an aimless wander, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00835",
+   "en": "My head hurts...\nMaybe I'll skip the shopping\nand head home early...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00836",
+   "en": "Say, you there...",
+   "flags": [],
+   "notes": "Speaker plate ??? (woman); scene file ext_gra = Grace, name not revealed in the text."
+  },
+  {
+   "id": "c00837",
+   "en": "???",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00838",
+   "en": "Over here. Right here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00839",
+   "en": "Wh-who are you!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00840",
+   "en": "H-hello...\n...Have we... met somewhere before?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00841",
+   "en": "Hmm, I think you must have me\nconfused with someone else...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00842",
+   "en": "I-is that so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00843",
+   "en": "(...Who was she again?)",
+   "flags": [],
+   "notes": "Speaker is a woman (plate ??? (woman)), so 'she'."
+  },
+  {
+   "id": "c00844",
+   "en": "(My head's all foggy,\nI can't remember...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00845",
+   "en": "You don't look well, do you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00846",
+   "en": "No, I've got a headache...",
+   "flags": [],
+   "notes": "hai answers 'you look unwell' in the affirmative; English 'No' agrees with 'you don't look well, do you?'."
+  },
+  {
+   "id": "c00847",
+   "en": "Oh my, that's terrible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00848",
+   "en": "Shall I recommend a hospital that'll\nleave you feeling refreshed?",
+   "flags": [],
+   "notes": "sukkiri ('refreshed', clear-headed) is the running gag of the ext_gra scenes; rendered 'refresh(ed)' throughout."
+  },
+  {
+   "id": "c00849",
+   "en": "A hospital that... refreshes you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00850",
+   "en": "Yes, just a little treatment and you'll\nfeel refreshed. Back home the same day,\nno pain, and free of charge, of course.",
+   "flags": [],
+   "notes": "Three JP lines reflowed into three English lines (same count); roha = old slang for 'free'."
+  },
+  {
+   "id": "c00851",
+   "en": "Back home the same day, no pain... free...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00852",
+   "en": "(Hmmm...\nWhat should I do...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00853",
+   "en": "Get refreshed",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c00854",
+   "en": "Don't get refreshed",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c00855",
+   "en": "I'd like to get refreshed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00856",
+   "en": "Well then, shall we go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00857",
+   "en": "O-okay...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00858",
+   "en": "It's all right...\nJust leave yourself in my hands...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00859",
+   "en": "Ah-ah-aaah...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00860",
+   "en": "Well? Do you feel refreshed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00861",
+   "en": "I feel refreshed!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00862",
+   "en": "(If anything, I feel better than usual!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00863",
+   "en": "Thank you, miss... whoever you are!",
+   "flags": [],
+   "notes": "mizu shirazu no o-nee-san (a stranger) -> 'miss', per brief."
+  },
+  {
+   "id": "c00864",
+   "en": "Well then, until we meet again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00865",
+   "en": "Okay, goodbye!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00866",
+   "en": "(Maybe I'll grab some hippo-cow milk\non the way home!)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "kaba-ushi (a Frontier livestock animal, lit. 'hippo cow') is not in the glossary; 'hippo-cow' used provisionally."
+  },
+  {
+   "id": "c00867",
+   "en": "Huh...? Something's wrong with my body...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00868",
+   "en": "(I think I feel even worse than before...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00869",
+   "en": "Oh dear, looks like they botched it...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "aitsura ('those guys'): unseen accomplices; 'they' kept vague as in the Japanese."
+  },
+  {
+   "id": "c00870",
+   "en": "Huh?\nB-botched it!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00871",
+   "en": "Oh... No, it's nothing at all,\nohohohoho!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00872",
+   "en": "Well then, get well soon!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00873",
+   "en": "N-no way...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00874",
+   "en": "(Sigh... I'll just go home and stay in bed...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00875",
+   "en": "I think I'll pass.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00876",
+   "en": "Oh my, are you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00877",
+   "en": "Yes, I'll just rest at home...\nI'm sorry, after you went to the trouble\nof recommending it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00878",
+   "en": "Tch!\n...Oh well. It'd be bad to drag you\nthere by force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00879",
+   "en": "(D-did I just hear her click her tongue...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00880",
+   "en": "Well, take good care of yourself, then!!",
+   "flags": [],
+   "notes": "seizei daiji ni suru koto ne: sarcastic, spiteful send-off."
+  },
+  {
+   "id": "c00881",
+   "en": "(Wh-what was that all about...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00882",
+   "en": "(If anything, I feel better than usual!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00883",
+   "en": "(Maybe I'll grab some hippo-cow milk\non the way home!)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "See c00866."
+  },
+  {
+   "id": "c00884",
+   "en": "(I went out for another aimless wander,\nbut...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00885",
+   "en": "Hmm, where am I...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00886",
+   "en": "Oh my, aren't you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00887",
+   "en": "Huh? Oh, hello...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00888",
+   "en": "Hehe.\nHello.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00889",
+   "en": "Is something troubling you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00890",
+   "en": "Yes, I can't find my way...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00891",
+   "en": "My, that is a problem...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00892",
+   "en": "I know!\nWhy not get refreshed so you'll know\nthe way?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00893",
+   "en": "Huh? Refreshed??",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00894",
+   "en": "Yes, a refreshing brain refresh.\nYou'll know your way around the whole\nMacross perfectly.",
+   "flags": [],
+   "notes": "Macross = the Macross Frontier ship the story takes place in."
+  },
+  {
+   "id": "c00895",
+   "en": "What do you say? Want to get refreshed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00896",
+   "en": "Hmmm...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00897",
+   "en": "(What should I do?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00898",
+   "en": "I want to get refreshed again!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00899",
+   "en": "It's all right, just leave yourself\nin my hands.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00900",
+   "en": "Well? Do you feel refreshed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00901",
+   "en": "(Refreshed doesn't even begin to cover it!\nI feel like I can see the whole galaxy,\nnot just the Macross!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00902",
+   "en": "(Maybe I'll grab some hippo-cow ice cream\non the way home!)",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "See c00866."
+  },
+  {
+   "id": "c00903",
+   "en": "Huh...? Something's wrong with my head...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00904",
+   "en": "Where am I?\nHuh? Huh? Huuuh??",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00905",
+   "en": "Yes, I'll try to sort it out on my own.\nI'm sorry, after you went to the trouble\nof recommending it...",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c00869: aitsura = unseen accomplices of the ??? woman; 'they' kept vague.",
+   "sukkiri gag rendered 'refreshed' throughout (choices c00853/c00854 'Get refreshed' / 'Don't get refreshed')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "kaba-ushi (Frontier 'hippo cow' livestock; milk and ice cream) -> 'hippo-cow' provisional (c00866, c00883, c00902)"
+  ],
+  "unfinished": []
+ }
+}

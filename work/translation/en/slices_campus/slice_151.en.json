@@ -1,0 +1,421 @@
+{
+ "slice": 151,
+ "rows_in_slice": 66,
+ "rows_examined": 66,
+ "rows": [
+  {
+   "id": "c11024",
+   "en": "Come on, come on, don't be shy!",
+   "flags": [],
+   "notes": "Male ending frd_myk_009; the player coaxes Miyuki into serving."
+  },
+  {
+   "id": "c11025",
+   "en": "Hey, cut it out...",
+   "flags": [],
+   "notes": "x2, Miyuki, both endings (casual speech here)."
+  },
+  {
+   "id": "c11026",
+   "en": "You wanted to try opening a cafe, didn't you,\nMiyuki?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x2, player, both endings. kissaten, hajimete mitakatta read as 'wanted to try starting a cafe'; the male player calls her Miyuki here as the Japanese does."
+  },
+  {
+   "id": "c11027",
+   "en": "Then go ahead and pour it just like that.\nAnd don't forget to smile!",
+   "flags": [],
+   "notes": "x2, player, both endings."
+  },
+  {
+   "id": "c11028",
+   "en": "Just one 'yeah' will do!",
+   "flags": [],
+   "notes": "x2, player, both endings; scolds her doubled 'Yeah, yeah.' (c03244, henji wa ikkai)."
+  },
+  {
+   "id": "c11029",
+   "en": "Allow me to pour your tea, Master!",
+   "flags": [],
+   "notes": "Male ending; maid-cafe goshujin-sama."
+  },
+  {
+   "id": "c11030",
+   "en": "Yep, nicely done!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11031",
+   "en": "Is the tea good?",
+   "flags": [],
+   "notes": "x2, Miyuki to the player, both endings."
+  },
+  {
+   "id": "c11032",
+   "en": "Yeah, it's 50% better thanks to your smile,\nMiyuki.",
+   "flags": [],
+   "notes": "Male (5-wari mashi = 50% more)."
+  },
+  {
+   "id": "c11033",
+   "en": "Isn't there more to it than that?",
+   "flags": [],
+   "notes": "x2, Miyuki, both endings."
+  },
+  {
+   "id": "c11034",
+   "en": "It's 100% better, because it's packed with love!",
+   "flags": [],
+   "notes": "Male (10-wari mashi = 100% more, i.e. doubled)."
+  },
+  {
+   "id": "c11035",
+   "en": "Shirakawa ending (male).\nSlot filler for female.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Developer placeholder under Alto's name plate (frd_myk_009 female branch, frd_myk_090); translated literally as for the Luca/Yamashiro endings."
+  },
+  {
+   "id": "c11036",
+   "en": "Shirakawa ending (female).\nSlot filler for male.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Developer placeholder under Alto's name plate (frd_myk_010 male branch); translated literally."
+  },
+  {
+   "id": "c11037",
+   "en": "Come on, come on, don't be shy now!",
+   "flags": [],
+   "notes": "Female ending frd_myk_010."
+  },
+  {
+   "id": "c11038",
+   "en": "Allow me to pour your tea, milady!",
+   "flags": [],
+   "notes": "Female ending; maid-cafe ojou-sama."
+  },
+  {
+   "id": "c11039",
+   "en": "Mm-hm, nicely done!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11040",
+   "en": "Mm-hm, your smile makes it 50% better,\nMiyuki.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11041",
+   "en": "It's 100% better, because it's packed\nwith friendship!",
+   "flags": [],
+   "notes": "Female (yuujou instead of the male version's aijou)."
+  },
+  {
+   "id": "c11042",
+   "en": "Shirakawa ending (male).",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Developer placeholder under Alto's name plate (frd_myk_090); translated literally."
+  },
+  {
+   "id": "c11043",
+   "en": "(Today I'm seeing a movie with Shirakawa!)",
+   "flags": [],
+   "notes": "Male, frd_myk_101."
+  },
+  {
+   "id": "c11044",
+   "en": "Sorry to keep you waiting,\n\\p-kun.",
+   "flags": [],
+   "notes": "x7, Miyuki greeting the male player (frd_myk_101/104/106/113/115); matches c09417 (-san version)."
+  },
+  {
+   "id": "c11045",
+   "en": "Oh, I see.\nWell then, shall we go?",
+   "flags": [],
+   "notes": "x2, Miyuki, both genders; answers 'I just got here myself'."
+  },
+  {
+   "id": "c11046",
+   "en": "That was a good movie.\nI never saw where the second half was going...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11047",
+   "en": "It caught me off guard, in a good way.",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c11048",
+   "en": "All the foreshadowing was carefully laid out,\nso I bet it'd feel different on a second watch...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11049",
+   "en": "Oh, it's getting late, so I'll head home now.",
+   "flags": [],
+   "notes": "x4, Miyuki, both genders."
+  },
+  {
+   "id": "c11050",
+   "en": "Please invite me again.",
+   "flags": [],
+   "notes": "x8, Miyuki, both genders (frd_myk_101/103/109)."
+  },
+  {
+   "id": "c11051",
+   "en": "(Today I came to see a movie with Miyuki.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11052",
+   "en": "(Today I'm seeing a movie with Shirakawa again!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11053",
+   "en": "I'm sorry to keep you waiting,\n\\p-kun.",
+   "flags": [],
+   "notes": "Miyuki to the male player."
+  },
+  {
+   "id": "c11054",
+   "en": "I just got here myself, so don't worry.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11055",
+   "en": "Oh, I see...\nShall we go, then?",
+   "flags": [],
+   "notes": "x2, Miyuki, both genders."
+  },
+  {
+   "id": "c11056",
+   "en": "That was another good movie.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11057",
+   "en": "A classic formula, I guess you'd call it.\nIt was easy to follow, and I could just sit\nback and enjoy it.",
+   "flags": [],
+   "notes": "x2, player, both genders (oudou = the classic, by-the-book story)."
+  },
+  {
+   "id": "c11058",
+   "en": "It didn't try anything gimmicky,\nbut it never got boring, did it?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11059",
+   "en": "(Today I came to see a movie with Miyuki again.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11060",
+   "en": "I'm sorry to keep you waiting,\n\\p-san.",
+   "flags": [],
+   "notes": "Miyuki to the female player."
+  },
+  {
+   "id": "c11061",
+   "en": "I just got here myself, so don't worry.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11062",
+   "en": "(Today I came to Folmo with Shirakawa!)",
+   "flags": [],
+   "notes": "Male, frd_myk_102."
+  },
+  {
+   "id": "c11063",
+   "en": "What a big town this is.",
+   "flags": [],
+   "notes": "x2, Miyuki. Folmo is called a machi (town) here."
+  },
+  {
+   "id": "c11064",
+   "en": "Yeah, it's a Zentradi town, after all...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11065",
+   "en": "Why don't we look around a little?",
+   "flags": [],
+   "notes": "x4, Miyuki, both genders."
+  },
+  {
+   "id": "c11066",
+   "en": "Before that, let's get some ice cream.\nThe ice cream here's got a great reputation.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11067",
+   "en": "I could eat these all day, huh.",
+   "flags": [],
+   "notes": "Male (ikutsu demo taberarechau)."
+  },
+  {
+   "id": "c11068",
+   "en": "Yes, it's delicious!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11069",
+   "en": "Just as I thought, you like sweets too,\nShirakawa.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11070",
+   "en": "There isn't a girl alive who hates sweets.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11071",
+   "en": "Well then, let's walk around a bit.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11072",
+   "en": "(Today I came to Folmo with Miyuki.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11073",
+   "en": "Yeah, it's a Zentradi town, after all~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11074",
+   "en": "Before that, let's get some ice cream.\nThe ice cream here's got a great reputation!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11075",
+   "en": "I could eat these all day, right...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11076",
+   "en": "Just as I thought, you've got a weakness\nfor sweets too, Miyuki.",
+   "flags": [],
+   "notes": "Female (me ga nai)."
+  },
+  {
+   "id": "c11077",
+   "en": "(Today I came to Folmo with Shirakawa again!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11078",
+   "en": "No matter how often I see it, it's such a big town.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11079",
+   "en": "Yeah, it looks like it's got plenty to explore.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11080",
+   "en": "Let's grab some ice cream before that.",
+   "flags": [],
+   "notes": "Male (answers 'shall we look around')."
+  },
+  {
+   "id": "c11081",
+   "en": "I could eat these all day, right?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11082",
+   "en": "Yes, it's delicious.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11083",
+   "en": "You've got a real sweet tooth too, Shirakawa!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c11084",
+   "en": "I-It's not like I'll eat anything as long as\nit's sweet, you know?",
+   "flags": [],
+   "notes": "x2, Miyuki, flustered."
+  },
+  {
+   "id": "c11085",
+   "en": "...Let's walk around a bit!",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c11086",
+   "en": "(Today I came to Folmo with Miyuki again.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11087",
+   "en": "Yeah, but that makes it all the more fun\nto explore.",
+   "flags": [],
+   "notes": "Female (sono bun tanken shigai ga aru)."
+  },
+  {
+   "id": "c11088",
+   "en": "Before that, let's get some ice cream.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c11089",
+   "en": "Haah... I could eat these all day, right?",
+   "flags": [],
+   "notes": "Female (a contented sigh)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c11026: 'kissaten, hajimete mitakatta' read as Miyuki wanting to try opening (starting) a cafe; it could also mean trying out cafe work. Rendered 'You wanted to try opening a cafe, didn't you, Miyuki?'.",
+   "c11035, c11036, c11042: developer placeholder lines under Alto's name plate (Shirakawa ending / slot filler), translated literally as for the Luca and Yamashiro endings.",
+   "c11038: ojou-sama in the maid-cafe roleplay rendered 'milady' (goshujin-sama in the male version = 'Master')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,437 @@
+{
+ "slice": 91,
+ "rows_in_slice": 70,
+ "rows_examined": 70,
+ "rows": [
+  {
+   "id": "c06695",
+   "en": "(Today I'm here to ride the simulator\nwith Yamashiro-sensei.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c06696",
+   "en": "It's been a while since we came here.\nHow confident are you feeling?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06697",
+   "en": "Leave it to me!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c06698",
+   "en": "That's quite some confidence...\nThen let's see what you've got.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06699",
+   "en": "Not bad at all.\nJust what I'd expect from someone who's\nsurvived Gary and the others' drilling.",
+   "flags": [],
+   "notes": "Yamashiro says bare 'Gary' (colleague)."
+  },
+  {
+   "id": "c06700",
+   "en": "But the simulator only resembles real combat.\nIn real combat, a mistake means death.\nYou do understand that...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06701",
+   "en": "Y-yes! Of course!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c06702",
+   "en": "...With eyes like those, you'll be fine.\nWell then, shall we head back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06703",
+   "en": "(Today I'm here to ride the simulator\nwith Yamashiro-sensei.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c06704",
+   "en": "(I'm here to ride the simulator with\nYamashiro-sensei again today.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c06705",
+   "en": "You really do love this...\nIf it's the simulator you want,\nyou could just invite Gary.",
+   "flags": [],
+   "notes": "Male version."
+  },
+  {
+   "id": "c06706",
+   "en": "Oh, come on, what's the harm?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c06707",
+   "en": "Well then, shall we begin?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06708",
+   "en": "You've become much steadier.\nWatching from here, I didn't see\na single thing that worried me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06709",
+   "en": "It'd be best if real combat never came,\nbut the way you are now, you'll be fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06710",
+   "en": "I'll do my best!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c06711",
+   "en": "Yes. Well then, shall we head back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06712",
+   "en": "(I'm here to ride the simulator with\nYamashiro-sensei again today.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c06713",
+   "en": "You really do love this...\nIf it's the simulator you want,\nyou could just invite Hilda.",
+   "flags": [],
+   "notes": "Female version."
+  },
+  {
+   "id": "c06714",
+   "en": "Ehehe... Oh, come on, what's the harm?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c06715",
+   "en": "(Today I came to see a concert\nwith Yamashiro-sensei.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c06716",
+   "en": "Yeah, I've been looking forward to it.",
+   "flags": [],
+   "notes": "Male only; answers 'You're here already?'."
+  },
+  {
+   "id": "c06717",
+   "en": "A healthy curiosity is a fine thing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06718",
+   "en": "Well then, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06719",
+   "en": "An orchestra united under its conductor...\nHow much effort must it have taken\nto achieve that sense of unity...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06720",
+   "en": "Truly fascinating...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06721",
+   "en": "Y-yeah...\nI was completely overwhelmed.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c06722",
+   "en": "The acoustics were superb as well.\nTo think I'd get to see such\nprofessional work...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06723",
+   "en": "(Yamashiro-sensei is really moved...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c06724",
+   "en": "The excitement just won't fade...!\nWe'll talk about it till dawn today!",
+   "flags": [],
+   "notes": "Male version (kyou); the female version says konya (tonight)."
+  },
+  {
+   "id": "c06725",
+   "en": "(...I got to see a different side of\nYamashiro-sensei today.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c06726",
+   "en": "(Today I came to see a concert\nwith Yamashiro-sensei.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c06727",
+   "en": "Yes, I've been looking forward to it.",
+   "flags": [],
+   "notes": "Female only; the Japanese has a slightly garbled polite form, rendered plainly."
+  },
+  {
+   "id": "c06728",
+   "en": "The excitement just won't fade...!\nWe'll talk about it till dawn tonight!",
+   "flags": [],
+   "notes": "Female version."
+  },
+  {
+   "id": "c06729",
+   "en": "(...I got to see a different side of\nYamashiro-sensei today.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c06730",
+   "en": "(I'm here to see a concert with\nYamashiro-sensei again today.)",
+   "flags": [],
+   "notes": "Male only. raibu = 'live show', kept apart from the concert (konsaato) scene. Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c06731",
+   "en": "\\p.\nI've been waiting for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06732",
+   "en": "Sorry for keeping you waiting...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c06733",
+   "en": "No, it seems I just came too early.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06734",
+   "en": "Well then, let's get in line.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06735",
+   "en": "Seeing a popular artist live isn't bad at all.\nStudying up yesterday paid off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06736",
+   "en": "S-studying up?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c06737",
+   "en": "Only enough to memorize every song and lyric.\nI didn't get as far as the performance\nbits you only see live.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06738",
+   "en": "Well, I'm thirsty.\nLet's have some tea before heading home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06739",
+   "en": "(I'm here to see a concert with\nYamashiro-sensei again today.)",
+   "flags": [],
+   "notes": "Female only. Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c06740",
+   "en": "(Today was such a nice change of pace~)",
+   "flags": [],
+   "notes": "Female only; variant of the recurring change-of-pace line (with naa~)."
+  },
+  {
+   "id": "c06741",
+   "en": "(Today I'm going to Nyan-Nyan\nwith Yamashiro-sensei.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c06742",
+   "en": "Sorry to keep you waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06743",
+   "en": "No, I haven't been waiting at all.",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c06744",
+   "en": "I see... Then shall we go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06745",
+   "en": "You're treating me today, right?",
+   "flags": [],
+   "notes": "Followed by 'Just kidding.' (shared row)."
+  },
+  {
+   "id": "c06746",
+   "en": "Huh? Wh-what are you talking about?!\nWe're splitting the bill! Splitting it!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c06747",
+   "en": "With dim sum, you really can just\nkeep on eating, can't you.",
+   "flags": [],
+   "notes": "yamucha rendered 'dim sum'."
+  },
+  {
+   "id": "c06748",
+   "en": "Each piece isn't very big, after all.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c06749",
+   "en": "Which is why one ends up ordering\nso many. I must be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06750",
+   "en": "Well, it's delicious, so what's the harm?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c06751",
+   "en": "I suppose you're right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06752",
+   "en": "Well then, shall we head back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06753",
+   "en": "(Today I'm going to Nyan-Nyan\nwith Yamashiro-sensei.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c06754",
+   "en": "(I'm going to Nyan-Nyan with\nYamashiro-sensei again today.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c06755",
+   "en": "Did I keep you waiting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06756",
+   "en": "You've gotten quite hooked on Nyan-Nyan.\nFound a server you like, perhaps?",
+   "flags": [],
+   "notes": "Male version. Staff member's gender left open ('server')."
+  },
+  {
+   "id": "c06757",
+   "en": "Huh? Wh-what are you talking about!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c06758",
+   "en": "Hm, with dim sum, the table fills up\nin no time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06759",
+   "en": "The little steamer baskets are piling up.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c06760",
+   "en": "The staff here can't afford to let\ntheir guard down.",
+   "flags": [],
+   "notes": "Meaning: with tables filling so fast, the staff must stay on their toes."
+  },
+  {
+   "id": "c06761",
+   "en": "Y-yeah, I guess that's true...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c06762",
+   "en": "Let's call it a day here, shall we?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06763",
+   "en": "(I'm going to Nyan-Nyan with\nYamashiro-sensei again today.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c06764",
+   "en": "You've gotten quite hooked on Nyan-Nyan.\nAre you interested in the staff uniforms?",
+   "flags": [],
+   "notes": "Female version."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c06747/c06758: yamucha rendered 'dim sum' (more familiar in English than 'yum cha').",
+   "c06756: suki na ten'in 'a staff member you like' rendered 'a server you like' to keep the server's gender open.",
+   "c06760: ten'in mo ki ga nukenai read as 'the staff can't let their guard down' (busy clearing the steamer baskets)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

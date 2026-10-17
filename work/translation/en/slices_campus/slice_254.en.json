@@ -1,0 +1,418 @@
+{
+ "slice": 254,
+ "rows_in_slice": 67,
+ "rows_examined": 67,
+ "rows": [
+  {
+   "id": "c18324",
+   "en": "(Sheryl's concert is finally here!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18325",
+   "en": "\\p-kun,\nyou seem awfully excited.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18326",
+   "en": "Well, yeah, Sheryl's having a concert!\nAren't you looking forward to it, Shirakawa?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18327",
+   "en": "W-well, I... haven't really listened to\nmuch of Sheryl-san's music.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18328",
+   "en": "Yeah, I can kind of picture you being into\nclassical music and stuff, Shirakawa.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18329",
+   "en": "And you're still going to Sheryl's concert?\nIsn't it hard, learning all the songs and stuff?",
+   "flags": [],
+   "notes": "sanka suru read as attending the concert; 'learning the songs' = learning them to enjoy/sing along."
+  },
+  {
+   "id": "c18330",
+   "en": "Yes...\nBut they're all such lovely songs,\nso it's fun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18331",
+   "en": "(Maybe it'd be fun for all of us\nto go see it together...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18332",
+   "en": "(Sheryl's concert is finally here!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18333",
+   "en": "\\p-san,\nyou seem awfully excited.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18334",
+   "en": "Well, yeah, Sheryl's having a concert!\nAren't you looking forward to it, Miyuki?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18335",
+   "en": "W-well, I... haven't really listened to\nmuch music like Sheryl-san's.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18336",
+   "en": "Yeah, I can kind of picture you being into\nclassical music and stuff, Miyuki.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18337",
+   "en": "Then isn't going to Sheryl's concert hard?\nLearning all the songs and stuff?",
+   "flags": [],
+   "notes": "Female twin of c18329."
+  },
+  {
+   "id": "c18338",
+   "en": "(Maybe it'd be fun for all of us\nto go see it together...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18339",
+   "en": "(They found a new planet...\nIt still doesn't feel real at all.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18340",
+   "en": "\\p-kun,\nI hear they've found a new planet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18341",
+   "en": "It's all anyone's talking about on the news.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18342",
+   "en": "Is it not something you're very interested in?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18343",
+   "en": "It just doesn't click for me, y'know?\nEven if they say there's a new planet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18344",
+   "en": "Yeah, same here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18345",
+   "en": "I've lived here on Frontier my whole life,\nso I'm attached to it, too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18346",
+   "en": "They tell us out of nowhere they've found\na new planet, but still...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18347",
+   "en": "That's true...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18348",
+   "en": "It's not like we'll get there right away.\nLet's take our time thinking it over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18349",
+   "en": "(I wonder what kind of life is waiting for us...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18350",
+   "en": "(They found a new planet...\nIt still doesn't feel real at all.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18351",
+   "en": "\\p-san,\nI hear they've found a new planet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18352",
+   "en": "It's all anyone's talking about on the news.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18353",
+   "en": "It just doesn't click for me.\nEven if they say there's a new planet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18354",
+   "en": "They tell us out of nowhere they've found\na new planet, but I mean, really...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18355",
+   "en": "(...I just can't seem to fall asleep...\nMaybe I'll go for a little walk.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18356",
+   "en": "Huh, is that Shirakawa over there?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18357",
+   "en": "I just couldn't sleep...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18358",
+   "en": "I couldn't sleep either, so I came out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18359",
+   "en": "Though mine's just a walk.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18360",
+   "en": "Hehe.\nWell then, I'm off for my run.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18361",
+   "en": "Be careful out there at night.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18362",
+   "en": "(Maybe I'll go for a little jog too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18363",
+   "en": "Huh, is that Miyuki over there...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18364",
+   "en": "I couldn't sleep either, so I came out~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18365",
+   "en": "Though mine's just a walk.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18366",
+   "en": "(Maybe I'll go for a little jog too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18367",
+   "en": "Is that...\nShirakawa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18368",
+   "en": "\\p-kun...\nWhat are you doing in a place like this...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18369",
+   "en": "Just making the rounds a bit...\nWhat about you, Shirakawa?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18370",
+   "en": "...Same here.\nI wanted to check on the damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18371",
+   "en": "This is the city we have to protect, after all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18372",
+   "en": "Yeah, you're right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18373",
+   "en": "I'll head home first...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18374",
+   "en": "Is that...\nMiyuki!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18375",
+   "en": "\\p-san...\nWhat are you doing in a place like this...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18376",
+   "en": "Just making the rounds a bit...\nWhat about you, Miyuki?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18377",
+   "en": "This is the city we have to protect, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18378",
+   "en": "(Exams are finally over...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18379",
+   "en": "Good work,\n\\p-kun.",
+   "flags": [],
+   "notes": "otsukaresama after exams: 'Good work', layout as the earlier 'Hello,<NL>\\p-kun.'"
+  },
+  {
+   "id": "c18380",
+   "en": "Oh, Shirakawa...\nNow that exams are over, I feel totally drained.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18381",
+   "en": "Think you got good scores?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18382",
+   "en": "Hmm, I wonder...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18383",
+   "en": "Studying is all about steady, everyday effort.\nLet's make sure we keep up with our\nprep and review.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18384",
+   "en": "Y-yeah, you're right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18385",
+   "en": "Well then, I'll be going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18386",
+   "en": "(...Was that Shirakawa's way of encouraging me?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18387",
+   "en": "Good work,\n\\p-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18388",
+   "en": "Miyuki~\nNow that exams are over, I feel totally drained.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18389",
+   "en": "Hmm, who knows?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18390",
+   "en": "(...Was that Miyuki's way of encouraging me?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18329/c18337: sanka suru taken as attending Sheryl's concert; the 'learning the songs' worry reads as preparing to enjoy it.",
+   "c18379/c18387: otsukaresama after exams given as 'Good work, \\p-kun/-san.'"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

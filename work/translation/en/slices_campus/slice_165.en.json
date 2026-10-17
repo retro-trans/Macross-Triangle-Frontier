@@ -1,0 +1,498 @@
+{
+ "slice": 165,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c12063",
+   "en": "See? You can't see at all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12064",
+   "en": "Are you okay, Pinon-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12065",
+   "en": "*cough* *cough*... I-I'm fine...\nSorry for the trouble...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12066",
+   "en": "Don't worry about it, Pinon-chan.\nAs long as you're safe, that's all that matters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12067",
+   "en": "\\p...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12068",
+   "en": "So what about today's training?\nThink you can do it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12069",
+   "en": "Yeah, I can!\nI'll learn to swim before today is over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12070",
+   "en": "All right! That's the spirit, Pinon-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12071",
+   "en": "Uuu...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12072",
+   "en": "Pinon-chan,\nnobody learns to swim in just one day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12073",
+   "en": "R-really?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12074",
+   "en": "Really. With anything, it's the steady effort\nthat counts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12075",
+   "en": "You're right... Yeah!\nI couldn't learn to swim today, but next time!\nNext time for sure...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12076",
+   "en": "Let's keep it up, Pinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12077",
+   "en": "Thanks for helping me train today...\nTh-thank you...\nW-well, see you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12078",
+   "en": "(Pinon-chan's a hard worker, but she really\nhas zero athletic ability...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12079",
+   "en": "(I'll have to keep helping Pinon-chan train\nuntil she can swim.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12080",
+   "en": "(Pinon-chan asked me to help her with something\nagain, but what could it be?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12081",
+   "en": "Hey, Pinon-chan.\nI just got here myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12082",
+   "en": "(No, actually, it's just what I expected...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12083",
+   "en": "See? You can't see at all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12084",
+   "en": "Don't worry about it, Pinon-chan.\nAs long as you're safe, that's all that matters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12085",
+   "en": "Yeah, I can!\nI'll learn to swim before today is over!",
+   "flags": [],
+   "notes": "Source is one line; broken in two to fit."
+  },
+  {
+   "id": "c12086",
+   "en": "All right! That's the spirit, Pinon-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12087",
+   "en": "Pinon-chan,\nnobody learns to swim in just one day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12088",
+   "en": "Really. With anything, it's the steady effort\nthat counts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12089",
+   "en": "Let's keep it up, Pinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12090",
+   "en": "(I'll have to keep helping Pinon-chan train\nuntil she can swim.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12091",
+   "en": "(Today I'm helping Pinon-chan with her\nswimming training, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12092",
+   "en": "Uuu... I'm not getting any better at swimming...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12093",
+   "en": "Hmm, Pinon-chan,\nit kind of looks like you're scared of the water?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12094",
+   "en": "The truth is, I nearly drowned once\nwhen I was little...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12095",
+   "en": "I see, so that's why you're scared of water...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12096",
+   "en": "You can get over a fear like that in no time,\nPinon-chan.\nSo let's give it a shot, Pinon-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12097",
+   "en": "Somehow, when you say that,\nI really feel like I can do it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12098",
+   "en": "All right! Let's resume training!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12099",
+   "en": "That's the spirit, Pinon-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12100",
+   "en": "By the end, you could put your face\nin the water just fine.\nAt this rate, you'll be swimming in no time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12101",
+   "en": "(Probably...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12102",
+   "en": "Then next time, I'll swim for sure...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12103",
+   "en": "(I'll have to keep practicing with Pinon-chan\nuntil she can swim.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12104",
+   "en": "That's the spirit, Pinon-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12105",
+   "en": "By the end, you could put your face\nin the water just fine.\nAt this rate, you'll be swimming in no time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12106",
+   "en": "(I'll have to keep practicing with Pinon-chan\nuntil she can swim.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12107",
+   "en": "(Pinon-chan invited me shopping today.\nIt's our first time shopping together,\nso I'm looking forward to it.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12108",
+   "en": "(Hm? Is that Pinon-chan?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12109",
+   "en": "Ah, I finally found you.\nSo the Shibuya Area gets this crowded\non days off...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12110",
+   "en": "With this many people around, we could get\nseparated the second we let our guard down.\nDon't get lost, okay, Pinon-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12111",
+   "en": "Hmm?! You just treated me like a child,\ndidn't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12112",
+   "en": "Sorry, sorry.\nSo, what are we going to buy today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12113",
+   "en": "Yuu told me about a shop\nthat sells cute ribbons,\nand I really want to go there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12114",
+   "en": "Well, since we already know where we're headed,\nlet's go straight to that shop.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12115",
+   "en": "Nn... mm...... Ngh!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12116",
+   "en": "(Pinon-chan's getting swallowed up\nby the crowd...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12117",
+   "en": "This is no problem at all...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12118",
+   "en": "(It sure doesn't look that way...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12119",
+   "en": "How much farther is the shop?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12120",
+   "en": "We should be there any minute now...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12121",
+   "en": "Then let's hurry a little.\nWith this many people around,\nwe could easily get separated...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12122",
+   "en": "...Huh? Pinon-chan?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12123",
+   "en": "Honestly, don't go wandering off\nand getting lost on your own.\nThis is exactly why...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12124",
+   "en": "(So it's MY fault...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12125",
+   "en": "So I have no choice... No choice at all, got it?!\nI suppose I could hold your hand\nso we don't get separated...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12126",
+   "en": "(Umm, I can take that to mean\nshe wants me to hold her hand, right?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12127",
+   "en": "Yeah, good idea.\nThen maybe I'll have you hold my hand\nso we don't get separated.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12128",
+   "en": "Honestly... What am I going to do with you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12129",
+   "en": "Then, Princess, may I have your hand?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12130",
+   "en": "Eek! P-Princess?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12131",
+   "en": "Haha, come on, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12132",
+   "en": "O-okay...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12133",
+   "en": "I'm glad you got a cute ribbon,\nPinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12134",
+   "en": "Thank you. You really helped me out today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12135",
+   "en": "For something like this,\nI'll tag along anytime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12136",
+   "en": "I'm counting on you next time we come here too.\nAnd, um... hold my hand again...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12137",
+   "en": "Sure, I'd love to.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12138",
+   "en": "W-well then, thanks for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12139",
+   "en": "(Looks like Pinon-chan got what she wanted,\nso I'm glad today turned into a fun shopping trip.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12140",
+   "en": "(If we ever go shopping again,\nI'll have to hold the princess's hand tight\nso I don't lose her.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12141",
+   "en": "(Pinon-chan invited me shopping today.\nIt's our first time shopping together,\nso I'm looking forward to it.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c12142",
+   "en": "With this many people around, we could get\nseparated the second we let our guard down.\nDon't get lost, okay, Pinon-chan?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c12096: the Japanese names Pinon-chan twice ('Pinon-chan nara' = someone like you, and the closing address); both kept.",
+   "c12113: Pinon's 'Yuu' taken as Yuu Akimizu (glossary alias; Pinon uses the given name).",
+   "c12129/c12130/c12140: himesama rendered 'Princess' (the player's playful address to Pinon), matching c12154 in slice 166.",
+   "c12124-c12127, c12114, c12120, c12121, c12133, c12135, c12139, c12140: worded to match the already finished female counterparts in slice 166 (c12143-c12154)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

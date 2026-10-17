@@ -1,0 +1,497 @@
+{
+ "slice": 96,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c07071",
+   "en": "Well then, I guess it's about time\nwe headed home.",
+   "flags": [],
+   "notes": "Kagura, both genders."
+  },
+  {
+   "id": "c07072",
+   "en": "(I wonder what's up with Yuuto...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07073",
+   "en": "(Right, I'm going to Deep Akihabara\nwith Kagura-kun today.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deep Akihabara is provisional in locations.json."
+  },
+  {
+   "id": "c07074",
+   "en": "Sorry!\nI'm a little late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07075",
+   "en": "Look at my feet.",
+   "flags": [],
+   "notes": "Female-branch variant of c07053; same English."
+  },
+  {
+   "id": "c07076",
+   "en": "(H-he's on his tiptoes!!)",
+   "flags": [],
+   "notes": "Subject restored as in the male c07054."
+  },
+  {
+   "id": "c07077",
+   "en": "Y-yeah, I suppose.\nWell then, shall we go...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07078",
+   "en": "Mm, so yummy~",
+   "flags": [],
+   "notes": "Reply to Kagura praising the maguro buns."
+  },
+  {
+   "id": "c07079",
+   "en": "Hm? Is something wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07080",
+   "en": "Really? Isn't there something\nyou want to say?",
+   "flags": [],
+   "notes": "Answers Kagura's 'No, it's nothing.'"
+  },
+  {
+   "id": "c07081",
+   "en": "What's this, all of a sudden?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07082",
+   "en": "If that was a compliment, then thanks.\nI'm kind of happy, actually.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07083",
+   "en": "Haha! I'm counting on you from here on too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07084",
+   "en": "Same here. I'm counting on you too!",
+   "flags": [],
+   "notes": "x3: also answers Ranka in scd_com_712/scd_fes_201 ('look out for me at school')."
+  },
+  {
+   "id": "c07085",
+   "en": "(I wonder what's up with Kagura-kun...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07086",
+   "en": "(I went out with Yuuto again today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07087",
+   "en": "Want to go to Nyan-Nyan after this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07088",
+   "en": "Good idea, I'm getting hungry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07089",
+   "en": "The maguro buns here are delicious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07090",
+   "en": "I could eat a ton of these.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07091",
+   "en": "Oh, but are you okay with tuna, Yuuto?\nSeems like you're a picky eater.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07092",
+   "en": "I'm not big on fish, but maguro buns\nare a different story.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07093",
+   "en": "I knew it, you hate fish...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07094",
+   "en": "I mean, come on, hear me out...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07095",
+   "en": "We ended up talking for quite a while, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07096",
+   "en": "Yeah. Sorry, I always do this to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07097",
+   "en": "I don't think you need to apologize.\nI invite you because I want to talk\nwith you too, Yuuto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07098",
+   "en": "I see. Then I'm glad.",
+   "flags": [],
+   "notes": "x4: also the player in frd_myk_007 (Shirakawa says she got better); fits."
+  },
+  {
+   "id": "c07099",
+   "en": "Yeah, guess we should head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07100",
+   "en": "Yeah. See you at school.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07101",
+   "en": "(I wonder if I can still eat dinner...)",
+   "flags": [],
+   "notes": "After filling up on maguro buns."
+  },
+  {
+   "id": "c07102",
+   "en": "(I went out with Kagura-kun again today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07103",
+   "en": "Good idea, I'm getting hungry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07104",
+   "en": "I could eat a ton of these!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07105",
+   "en": "Oh, but are you okay with tuna, Kagura-kun?\nSeems like you're a picky eater.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07106",
+   "en": "We ended up talking for quite a while, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07107",
+   "en": "I don't think you need to apologize.\nI invite you because I want to talk\nwith you too, Kagura-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07108",
+   "en": "(I'm supposed to go out with Yuuto today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07109",
+   "en": "He's not showing up at all.\nI wonder what happened...",
+   "flags": [],
+   "notes": "'He' = Yuuto, male scene; subject restored."
+  },
+  {
+   "id": "c07110",
+   "en": "Maybe I'll give him a call...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07111",
+   "en": "Hello, Yuuto?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07112",
+   "en": "What is it, all of a sudden?\nI'm kind of busy right now...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07113",
+   "en": "Um... Do you know what today is?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07114",
+   "en": "Sorry, I'm busy right now.\nCould you save the quiz for later?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07115",
+   "en": "We were supposed to go out together today,\nright? Remember?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07116",
+   "en": "Huh...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07117",
+   "en": "Aaaaaaahhh!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07118",
+   "en": "I-I'm sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07119",
+   "en": "No, let's set that aside for now.\nWhat are you so busy with?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07120",
+   "en": "Actually, my mom came down with a fever...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07121",
+   "en": "Your mom?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07122",
+   "en": "Yeah, so I've been taking care of her...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07123",
+   "en": "I see. Well, that can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07124",
+   "en": "Even so, I'm sorry I forgot our plans...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07125",
+   "en": "No, don't worry about that anymore.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07126",
+   "en": "Sorry to ask you something like this, but\nwhat's good to feed someone who's sick?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07127",
+   "en": "Hmm, well, in that case...",
+   "flags": [],
+   "notes": "Player's advice is cut by a scene jump."
+  },
+  {
+   "id": "c07128",
+   "en": "I see. Got it, I'll try making that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07129",
+   "en": "Yeah. Hope she feels better soon.",
+   "flags": [],
+   "notes": "'Odaiji ni' aimed at Kagura's sick mother."
+  },
+  {
+   "id": "c07130",
+   "en": "I'll make this up to you another time...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07131",
+   "en": "Okay, got it.",
+   "flags": [],
+   "notes": "x4: also frd_nns_004/005 (Nanase asks the player to wait / sets plans); fits."
+  },
+  {
+   "id": "c07132",
+   "en": "See you, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07133",
+   "en": "(Phew, it can't be helped if it's family\nwho's sick. Still, I wonder if Yuuto can\nreally take care of her properly...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07134",
+   "en": "(I'm supposed to go out with Kagura-kun\ntoday...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07135",
+   "en": "He's not showing up at all...\nI wonder what happened...",
+   "flags": [],
+   "notes": "'He' = Kagura; subject restored."
+  },
+  {
+   "id": "c07136",
+   "en": "I'll try giving him a call...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07137",
+   "en": "Hello, Kagura-kun?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07138",
+   "en": "Um... Do you know what today is?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07139",
+   "en": "We were supposed to go out together today,\nright? Remember?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07140",
+   "en": "Well, let's set that aside for now.\nWhat are you so busy with?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07141",
+   "en": "I see. Well, that can't be helped.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07142",
+   "en": "No, don't worry about that anymore.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07143",
+   "en": "Umm, well, in that case...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07144",
+   "en": "Okay. Hope she feels better soon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07145",
+   "en": "I'll be looking forward to it.",
+   "flags": [],
+   "notes": "Answers Kagura's promise to make it up to her."
+  },
+  {
+   "id": "c07146",
+   "en": "(Phew, it can't be helped if it's family\nwho's sick. Still, I wonder if Kagura-kun\ncan really take care of her properly...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07147",
+   "en": "(I've got plans to go out with Yuuto today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07148",
+   "en": "Oh... There he is.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07149",
+   "en": "Hey, did I keep you waiting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07150",
+   "en": "I haven't been waiting that long.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c07073: Deep Akihabara is provisional in locations.json."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

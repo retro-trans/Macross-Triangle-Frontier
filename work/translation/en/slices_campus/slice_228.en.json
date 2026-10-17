@@ -1,0 +1,457 @@
+{
+ "slice": 228,
+ "rows_in_slice": 74,
+ "rows_examined": 74,
+ "rows": [
+  {
+   "id": "c16592",
+   "en": "(Okay, next is Hilda-sensei's P.E.\nI've gotta give it my all!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16593",
+   "en": "Hm, \\p.\nYou look fired up today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16594",
+   "en": "Yes! Please look after us in class again today!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16595",
+   "en": "Mm. But in P.E. today, we're fixing up the schoolyard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16596",
+   "en": "Huh... Is that right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16597",
+   "en": "Yes. The field's gotten rough, and there are weeds.\nAt this rate, some student could end up getting hurt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16598",
+   "en": "That's true, I guess...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16599",
+   "en": "Save that fighting spirit for the next class, got it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16600",
+   "en": "(Too bad about class, but I'll give it my all next time!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16601",
+   "en": "(Okay, next is Hilda-sensei's P.E.\nTime to do my best!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16602",
+   "en": "(Too bad about class, but I'll do my best next time!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16603",
+   "en": "(Okay, I came out into town today, but... now what...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16604",
+   "en": "Hey, \\p. What's up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16605",
+   "en": "Huh?! What? Hilda-sensei...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16606",
+   "en": "What's with that face?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16607",
+   "en": "Oh, it's just... you're not in your tracksuit today...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16608",
+   "en": "You... Are you picking a fight with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16609",
+   "en": "Ah, I didn't mean it like that at all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16610",
+   "en": "Just you wait till the next class!\nYou're getting a special workout, just for you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16611",
+   "en": "(N-no way...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16612",
+   "en": "(That's not what I meant at all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16613",
+   "en": "(Okay, I came out into town today, but... what to do...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16614",
+   "en": "Oh?! Huh? Hilda-sensei...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16615",
+   "en": "Oh, I just thought... you're not in your tracksuit today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16616",
+   "en": "Ah, I really didn't mean it like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16617",
+   "en": "(N-no waaay...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16618",
+   "en": "(That's not what I meant at all, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16619",
+   "en": "(Okay, next up is Hilda-sensei's swimming class.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16620",
+   "en": "All right, are you done warming up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16621",
+   "en": "Yes, I already finished.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16622",
+   "en": "Good, that'll do.\nThen let's start with 500m. Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16623",
+   "en": "What?! 500 meters?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16624",
+   "en": "Hm? Was that a bit too little?\nThen let's make it 1000m.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16625",
+   "en": "Sensei, w-wait a second!\nHow many laps of this pool would that even be...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16626",
+   "en": "What, you can't even do that math?\nEven a grade-schooler can do that division. Pathetic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16627",
+   "en": "No, that's not what I mean...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16628",
+   "en": "Come on, get moving. 50m.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16629",
+   "en": "Honestly, you can't take a joke at all. Go on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16630",
+   "en": "(Hilda-sensei's jokes are really hard to read...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16631",
+   "en": "(Okay, next up is Hilda-sensei's swimming class.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16632",
+   "en": "What?! Did you say 500 meters?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16633",
+   "en": "No, that's not what I meant...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16634",
+   "en": "(Hilda-sensei's jokes are just so hard to read...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16635",
+   "en": "(Let's see, next is Hilda-sensei's\nHealth and P.E. class, right?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16636",
+   "en": "Phew... This really is tough...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16637",
+   "en": "Hilda-sensei? What's wrong?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16638",
+   "en": "Well, normally the P.E. teachers split\nthe Health and P.E. classes between them...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16639",
+   "en": "But the other one is... well, you know...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16640",
+   "en": "Ah, Gary-sensei...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16641",
+   "en": "I can hardly let him teach some half-baked class,\nso I've taken them all on myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16642",
+   "en": "...That sounds rough...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16643",
+   "en": "Well, yes. Though classroom lectures\naren't my strong suit either...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16644",
+   "en": "Thanks for all your hard work...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16645",
+   "en": "(Sensei's got it tough in all sorts of ways too, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16646",
+   "en": "(Okay, next is Hilda-sensei's\nHealth and P.E. class, isn't it?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16647",
+   "en": "Oh, you mean Gary-sensei...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16648",
+   "en": "(Sensei's got it tough in all kinds of ways too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16649",
+   "en": "(Okay, lunchtime... Huh? Hilda-sensei.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16650",
+   "en": "Hilda-sensei, are you having lunch now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16651",
+   "en": "Wh-what, \\p?\nWhat are you doing in a place like this...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16652",
+   "en": "Oh, I thought I'd get some fresh air before lunch...\nHuh, you brought a packed lunch, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16653",
+   "en": "Hm, well, yes, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16654",
+   "en": "That's a really cute lunch.\nIt's arranged so nicely, too...\nWhere do they sell lunches like that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16655",
+   "en": "...made... it...",
+   "flags": [],
+   "notes": "Mumbled fragment of 'tezukuri' (homemade); the next Hilda line says it in full."
+  },
+  {
+   "id": "c16656",
+   "en": "Huh? What was that?",
+   "flags": [],
+   "notes": "x6: also scd_fes_807 (after Grace mutters); fits both."
+  },
+  {
+   "id": "c16657",
+   "en": "I... made it myself...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16658",
+   "en": "Oh, really!\nThat's a surprise!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16659",
+   "en": "Hey, you. Did you just say \"surprise\"?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16660",
+   "en": "No, I didn't say anything like...\nOh, I'll be going nooow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16661",
+   "en": "(Phew, that was close...\nBut who knew Hilda-sensei had such a surprising talent...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16662",
+   "en": "(Okay, lunchtime... Huh? Hilda-sensei.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16663",
+   "en": "Oh, I thought I'd get some fresh air before lunch...\nOh, so you brought a packed lunch, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16664",
+   "en": "What a cute lunch.\nIt's arranged so nicely, too...\nWhere do they sell lunches like that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c16665",
+   "en": "(Phew, that was close...\nBut Hilda-sensei has a surprising talent, huh...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

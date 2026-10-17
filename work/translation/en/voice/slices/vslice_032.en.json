@@ -1,0 +1,511 @@
+{
+ "slice": 32,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p__fv2/014",
+   "en": "I can't take much more...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/015",
+   "en": "So you hit me!",
+   "flags": [],
+   "notes": "atete na: reacting to taking a hit (015 = damage taken)"
+  },
+  {
+   "id": "p__mv1/015",
+   "en": "I got hit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/015",
+   "en": "So you hit me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/015",
+   "en": "So you hit me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/015",
+   "en": "I got hit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/015",
+   "en": "So you hit me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/016",
+   "en": "That won't stop me!",
+   "flags": [],
+   "notes": "kono teido de: 'this much (won't finish me)'"
+  },
+  {
+   "id": "p__mv1/016",
+   "en": "This is nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/016",
+   "en": "That won't stop me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/016",
+   "en": "I'm not done yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/016",
+   "en": "I'm not done yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/016",
+   "en": "I'm not done yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/017",
+   "en": "Just a scratch!",
+   "flags": [],
+   "notes": "Whisper flags nospeech, but the transcript (kasutta dake) is clean; kept."
+  },
+  {
+   "id": "p__mv1/017",
+   "en": "Just a scratch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kasuta dake' read as kasutta dake (only grazed), as the other voices say."
+  },
+  {
+   "id": "p__mv2/017",
+   "en": "Just a scratch!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kasuta dake da' read as kasutta dake da (only grazed); Whisper also flags nospeech."
+  },
+  {
+   "id": "p__fv0/017",
+   "en": "Just a scratch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/017",
+   "en": "Just a scratch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/017",
+   "en": "Just a scratch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/018",
+   "en": "And a bonus!",
+   "flags": [],
+   "notes": "omake da: an extra shot, as Gary's 018"
+  },
+  {
+   "id": "p__mv1/018",
+   "en": "And a bonus!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/018",
+   "en": "Go down!",
+   "flags": [],
+   "notes": "ochiro: this voice says a different line"
+  },
+  {
+   "id": "p__fv0/018",
+   "en": "And a bonus!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/018",
+   "en": "And a bonus!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/018",
+   "en": "And a bonus!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/019",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/019",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/019",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/019",
+   "en": "Take this!",
+   "flags": [],
+   "notes": "kurainasai: commanding feminine form"
+  },
+  {
+   "id": "p__fv1/019",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/019",
+   "en": "Take this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/020",
+   "en": "Here you go!",
+   "flags": [],
+   "notes": "hora yo: handing the enemy another shot"
+  },
+  {
+   "id": "p__mv1/020",
+   "en": "Out of the way!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Transcript 'doite' (move aside) where the other voices say hora yo / sore; kept as heard."
+  },
+  {
+   "id": "p__mv2/020",
+   "en": "Here you go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/020",
+   "en": "There!",
+   "flags": [],
+   "notes": "sore: effort shout as she fires"
+  },
+  {
+   "id": "p__fv1/020",
+   "en": "There!",
+   "flags": [],
+   "notes": "Whisper flags low confidence; transcript matches fv0/fv2."
+  },
+  {
+   "id": "p__fv2/020",
+   "en": "There!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/100",
+   "en": "Starting the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/100",
+   "en": "Starting the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/100",
+   "en": "Starting the operation!",
+   "flags": [],
+   "notes": "plain form (kaishi suru)"
+  },
+  {
+   "id": "p__fv0/100",
+   "en": "Starting the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/100",
+   "en": "Starting the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/100",
+   "en": "Starting the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/101",
+   "en": "I'll show them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/101",
+   "en": "I'll show them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/101",
+   "en": "I'll show them!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/101",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": "iku wa yo at mission start"
+  },
+  {
+   "id": "p__fv1/101",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/101",
+   "en": "Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/102",
+   "en": "All right, let's begin!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/102",
+   "en": "All right, let's begin!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/102",
+   "en": "All right, shall we begin?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/102",
+   "en": "Now, let's begin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/102",
+   "en": "Now, let's begin!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/102",
+   "en": "Now, let's begin!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/103",
+   "en": "There you are!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/103",
+   "en": "There you are!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/103",
+   "en": "There you are!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/103",
+   "en": "There you are!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/103",
+   "en": "There you are!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/103",
+   "en": "There you are!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/104",
+   "en": "Target locked.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji: hosoku 'supplement' for hosoku 'lock on/capture', as mv2 has it."
+  },
+  {
+   "id": "p__mv1/104",
+   "en": "Target locked.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Wrong kanji: hosoku 'supplement' for hosoku 'lock on/capture'."
+  },
+  {
+   "id": "p__mv2/104",
+   "en": "Target locked!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/104",
+   "en": "You won't get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/104",
+   "en": "You won't get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/104",
+   "en": "You won't get away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/105",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/105",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/105",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/105",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/105",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/105",
+   "en": "Found you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/106",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/106",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/106",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/106",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/106",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/106",
+   "en": "Go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/107",
+   "en": "This ends now!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 2513 (p__mv1/020): Transcript 'doite' (move aside) where the other voices say hora yo / sore; kept as heard."
+  ],
+  "whisper_doubt": [
+   "row 2495 (p__mv1/017): Transcript 'kasuta dake' read as kasutta dake (only grazed), as the other voices say.",
+   "row 2496 (p__mv2/017): Transcript 'kasuta dake da' read as kasutta dake da (only grazed); Whisper also flags nospeech.",
+   "row 2542 (p__mv0/104): Wrong kanji: hosoku 'supplement' for hosoku 'lock on/capture', as mv2 has it.",
+   "row 2543 (p__mv1/104): Wrong kanji: hosoku 'supplement' for hosoku 'lock on/capture'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

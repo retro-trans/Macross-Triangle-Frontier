@@ -1,0 +1,426 @@
+{
+ "slice": 215,
+ "rows_in_slice": 68,
+ "rows_examined": 68,
+ "rows": [
+  {
+   "id": "c15709",
+   "en": "(Swimming's next. That's a relief,\nwith how hot it is today.)",
+   "flags": [],
+   "notes": "Male; nml_alt_012."
+  },
+  {
+   "id": "c15710",
+   "en": "Hm? Is that Alto?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15711",
+   "en": "Kyaaa~!",
+   "flags": [],
+   "notes": "x2, Female Student A, both genders; fans squealing at Alto."
+  },
+  {
+   "id": "c15712",
+   "en": "Man...",
+   "flags": [],
+   "notes": "Male; 'shikashi...', continues into c15714."
+  },
+  {
+   "id": "c15713",
+   "en": "Kyaaa~!!",
+   "flags": [],
+   "notes": "x2, Female Student B, both genders."
+  },
+  {
+   "id": "c15714",
+   "en": "he's really something...",
+   "flags": [],
+   "notes": "Male; ends the thought begun in c15712 ('Man... he's really something...')."
+  },
+  {
+   "id": "c15715",
+   "en": "Hm? \\p?\nWhat's with that face?",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15716",
+   "en": "Nah, I was just thinking you're really something...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15717",
+   "en": "What? You're making a big deal out of\na little swimming. Geez.",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15718",
+   "en": "(Uh...\nI meant Alto's popularity, not the swimming.)",
+   "flags": [],
+   "notes": "Male; inner thought."
+  },
+  {
+   "id": "c15719",
+   "en": "(Swimming's next, right? That's a relief,\nwith how hot it is today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15720",
+   "en": "Hm? Is that Saotome-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15721",
+   "en": "amazing...",
+   "flags": [],
+   "notes": "Female; follows c03826 'It's kinda...' between the squeals, so it continues that sentence."
+  },
+  {
+   "id": "c15722",
+   "en": "Oh, I was just thinking you're really something...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15723",
+   "en": "(Hmm...\nI meant Saotome-kun's popularity,\nnot the swimming.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15724",
+   "en": "(Okay, I need to get ready for next class...)",
+   "flags": [],
+   "notes": "Male; nml_alt_013."
+  },
+  {
+   "id": "c15725",
+   "en": "Ugh, looks like I forgot the media with\nthe lecture data for next class...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15726",
+   "en": "Hm? \\p.\nWhat's wrong?",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15727",
+   "en": "Well, actually, the lecture data for class...",
+   "flags": [],
+   "notes": "Male; trails off as in the Japanese."
+  },
+  {
+   "id": "c15728",
+   "en": "What, that's all? Then use this.",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15729",
+   "en": "Huh? What about you, Alto?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15730",
+   "en": "That boring class? Not hearing it\nwon't make any difference, right?",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15731",
+   "en": "Wow~, spoken like the eternal runner-up...",
+   "flags": [],
+   "notes": "Male; 'mannen ni-i' = always in second place (Alto ranks second in the Pilot Course)."
+  },
+  {
+   "id": "c15732",
+   "en": "Ugh, you...! Give that back!",
+   "flags": [],
+   "notes": "x2, Alto, both genders; 'yappari sore kaese' (changed his mind)."
+  },
+  {
+   "id": "c15733",
+   "en": "Ah, kidding, kidding, my bad...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15734",
+   "en": "(I think second place is still pretty amazing,\nthough...)",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c15735",
+   "en": "(Okay, I need to get ready for next class...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15736",
+   "en": "Oh no, looks like I forgot the media with\nthe lecture data for next class...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15737",
+   "en": "Yeah, actually, the lecture data for class...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15738",
+   "en": "Huh? What about you, Saotome-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15739",
+   "en": "Hmm~, spoken like the eternal runner-up...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15740",
+   "en": "Oh, I'm sorry, I didn't mean anything by it...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15741",
+   "en": "(Lunch break at last... What should I eat...)",
+   "flags": [],
+   "notes": "Male; nml_alt_014."
+  },
+  {
+   "id": "c15742",
+   "en": "Huh, it's Alto. I wonder what he's eating?",
+   "flags": [],
+   "notes": "Male; no brackets in the Japanese."
+  },
+  {
+   "id": "c15743",
+   "en": "Oh, I was just wondering what you're eating...\nWait, is that a homemade lunch?!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15744",
+   "en": "Yeah, it is. So what?",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15745",
+   "en": "Must be nice to be so popular with girls...",
+   "flags": [],
+   "notes": "Male; assumes a girl made the lunch."
+  },
+  {
+   "id": "c15746",
+   "en": "Aren't you getting the wrong idea?",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15747",
+   "en": "Huh? About what?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15748",
+   "en": "I made this myself, you know...",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15749",
+   "en": "Huh, really?",
+   "flags": [],
+   "notes": "x3: male player (nml_alt_014), female player (nml_mcl), Hoshimura (Valentine); generic."
+  },
+  {
+   "id": "c15750",
+   "en": "Yeah. Not every day, but sometimes\nI just feel like making one.",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15751",
+   "en": "Huh, leave it to the genius of female roles.",
+   "flags": [],
+   "notes": "Male; 'tensai onnagata', as the book title in c03783 ('A Genius in Female Roles')."
+  },
+  {
+   "id": "c15752",
+   "en": "That's got nothing to do with it!",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15753",
+   "en": "(Alto's surprisingly good with his hands...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15754",
+   "en": "(Phew, lunch break at last...\nWhat should I eat...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15755",
+   "en": "Huh, it's Saotome-kun. I wonder what\nhe's eating?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15756",
+   "en": "Oh, I was just wondering what you're eating...\nWait, could that be a homemade lunch?!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15757",
+   "en": "Must be nice to be so popular with girls~...",
+   "flags": [],
+   "notes": "Female; teasing polite form."
+  },
+  {
+   "id": "c15758",
+   "en": "Huh? About what?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15759",
+   "en": "Huh, really?!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15760",
+   "en": "Hmm~, leave it to the genius of female roles~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15761",
+   "en": "(Saotome-kun's surprisingly good with\nhis hands...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15762",
+   "en": "(Okay, classes are over.\nGuess I'll head home.)",
+   "flags": [],
+   "notes": "Male; nml_alt_015."
+  },
+  {
+   "id": "c15763",
+   "en": "\\p.\nYou heading home now too?",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15764",
+   "en": "Yeah, you too, Alto?\nThen want to head home together?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15765",
+   "en": "Ah, sorry, I'll pass today.",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15766",
+   "en": "Huh? You got something to do?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15767",
+   "en": "Well, something like that.\nThere's somewhere I want to stop by...",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15768",
+   "en": "If it won't take long, I can tag along.",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c15769",
+   "en": "Nah, it's not the kind of thing\nI need company for.",
+   "flags": [],
+   "notes": "x2, Alto, both genders."
+  },
+  {
+   "id": "c15770",
+   "en": "I see. Next time, then.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15771",
+   "en": "(Alto seems kind of lonely sometimes...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c15772",
+   "en": "(Okay, classes are over.\nTime to head home.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15773",
+   "en": "Oh, you too, Saotome-kun?\nThen want to head home together?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15774",
+   "en": "Huh? Do you have something to do?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15775",
+   "en": "I see... Next time, then.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c15776",
+   "en": "(Saotome-kun seems kind of lonely sometimes...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c15712/c15714: 'shikashi...' and 'sasuga da na...' are cut by the fans' squeals; English runs them as one thought ('Man...' / 'he's really something...').",
+   "c15721: 'sugoi wa ne...' follows the shared row c03826 'It's kinda...' (already translated), so it is lowercase 'amazing...' to finish that sentence.",
+   "c15731/c15739: 'mannen ni-i' rendered 'the eternal runner-up' (Alto always second in the Pilot Course); c15734 keeps 'second place'.",
+   "c15745/c15757: 'sasuga moteru otoko wa chigau na' rendered 'Must be nice to be so popular with girls' to carry the implied 'a girl made it for you', which Alto then corrects."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

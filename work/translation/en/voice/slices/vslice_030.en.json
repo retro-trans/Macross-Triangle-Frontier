@@ -1,0 +1,538 @@
+{
+ "slice": 30,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "of_ktr/3323",
+   "en": "Macross Quarter, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3324",
+   "en": "Battle Frontier, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3324",
+   "en": "Battle Frontier, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3325",
+   "en": "VF-27 Lucifer, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3325",
+   "en": "VF-27 Lucifer, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3326",
+   "en": "Battle Galaxy, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3326",
+   "en": "Battle Galaxy, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3327",
+   "en": "VF-2SS Valkyrie II, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3327",
+   "en": "VF-2SS Valkyrie II, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3328",
+   "en": "Gigamesh, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3328",
+   "en": "Gigamesh, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3329",
+   "en": "VF-9 Cutlass, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3329",
+   "en": "VF-9 Cutlass, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3330",
+   "en": "All units, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3330",
+   "en": "All units, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/3331",
+   "en": "Queadluun-Quilqua, please stand by for launch.",
+   "flags": [],
+   "notes": "Re-recorded with a different unit than the MUF sister clip (VT-1 Valkyrie); kept the sister wording."
+  },
+  {
+   "id": "o0_of1/3331",
+   "en": "Queadluun-Quilqua, prepare to launch.",
+   "flags": [],
+   "notes": "Re-recorded with a different unit than the MUF sister clip (VT-1 Valkyrie); kept the sister wording."
+  },
+  {
+   "id": "o0_of2/3331",
+   "en": "Queadluun-Quilqua, get ready to launch!",
+   "flags": [],
+   "notes": "Re-recorded with a different unit than the MUF sister clip (VT-1 Valkyrie); kept the sister wording."
+  },
+  {
+   "id": "o0_om0/3331",
+   "en": "Queadluun-Quilqua, stand by to launch!",
+   "flags": [],
+   "notes": "Re-recorded with a different unit than the MUF sister clip (VT-1 Valkyrie); kept the sister wording."
+  },
+  {
+   "id": "os_mis/3331",
+   "en": "Queadluun-Quilqua, stand by for launch.",
+   "flags": [],
+   "notes": "Re-recorded with a different unit than the MUF sister clip (VT-1 Valkyrie); kept the sister wording."
+  },
+  {
+   "id": "o7_exd/3331",
+   "en": "Queadluun-Quilqua, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3331",
+   "en": "Queadluun-Quilqua, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/3332",
+   "en": "YF-25 Prophecy, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/3332",
+   "en": "YF-25 Prophecy, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/3332",
+   "en": "YF-25 Prophecy, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/3332",
+   "en": "YF-25 Prophecy, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/3332",
+   "en": "YF-25 Prophecy, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3332",
+   "en": "YF-25 Prophecy, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3332",
+   "en": "YF-25 Prophecy, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/3333",
+   "en": "Vajra, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/3333",
+   "en": "Vajra, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/3333",
+   "en": "Vajra, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/3333",
+   "en": "Vajra, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/3333",
+   "en": "Vajra, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3333",
+   "en": "Vajra, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3333",
+   "en": "Vajra, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/3334",
+   "en": "VA-1SS Metal Siren, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/3334",
+   "en": "VA-1SS Metal Siren, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/3334",
+   "en": "VA-1SS Metal Siren, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/3334",
+   "en": "VA-1SS Metal Siren, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/3334",
+   "en": "VA-1SS Metal Siren, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3334",
+   "en": "VA-1SS Metal Siren, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3334",
+   "en": "VA-1SS Metal Siren, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/3335",
+   "en": "Proto Metal Siren, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/3335",
+   "en": "Proto Metal Siren, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/3335",
+   "en": "Proto Metal Siren, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/3335",
+   "en": "Proto Metal Siren, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/3335",
+   "en": "Proto Metal Siren, stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/3335",
+   "en": "Proto Metal Siren, please stand by for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/3335",
+   "en": "Proto Metal Siren, stand by to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/3336",
+   "en": "VT-1 Ostrich, please stand by for launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "o0_of1/3336",
+   "en": "VT-1 Ostrich, prepare to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "o0_of2/3336",
+   "en": "VT-1 Ostrich, get ready to launch!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "o0_om0/3336",
+   "en": "VT-1 Ostrich, stand by to launch!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "os_mis/3336",
+   "en": "VT-1 Ostrich, stand by for launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "o7_exd/3336",
+   "en": "VT-1 Ostrich, please stand by for launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "of_ktr/3336",
+   "en": "VT-1 Ostrich, stand by to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VT-1 Ostrich' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "o0_of0/3337",
+   "en": "VA-3 Invader, please stand by for launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "o0_of1/3337",
+   "en": "VA-3 Invader, prepare to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "o0_of2/3337",
+   "en": "VA-3 Invader, get ready to launch!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "o0_om0/3337",
+   "en": "VA-3 Invader, stand by to launch!",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "os_mis/3337",
+   "en": "VA-3 Invader, stand by for launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "o7_exd/3337",
+   "en": "VA-3 Invader, please stand by for launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "of_ktr/3337",
+   "en": "VA-3 Invader, stand by to launch.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'VA-3 Invader' not in the glossary (only VT-1C Ostrich / VA-C-3 Invader Kai); same call as slice 22."
+  },
+  {
+   "id": "o0_of0/3338",
+   "en": "SNN Valkyrie, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has hasshin 'transmit' (wrong kanji); read as hasshin 'launch'."
+  },
+  {
+   "id": "o0_of1/3338",
+   "en": "SNN Valkyrie, prepare to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/3338",
+   "en": "SNN Valkyrie, get ready to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/3338",
+   "en": "SNN Valkyrie, stand by to launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/3338",
+   "en": "SNN Valkyrie, stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has hasshin 'transmit' (wrong kanji); read as hasshin 'launch'."
+  },
+  {
+   "id": "o7_exd/3338",
+   "en": "SNN Valkyrie, please stand by for launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has hasshin 'transmit' (wrong kanji); read as hasshin 'launch'."
+  },
+  {
+   "id": "of_ktr/3338",
+   "en": "SNN Valkyrie, stand by to launch.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has hasshin 'transmit' (wrong kanji); read as hasshin 'launch'."
+  },
+  {
+   "id": "p__mv0/000",
+   "en": "Launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/000",
+   "en": "Launching now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/000",
+   "en": "Heading out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/000",
+   "en": "Launching!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/000",
+   "en": "Launching now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/000",
+   "en": "I'm heading out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/001",
+   "en": "Launch prep complete! Here I go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/001",
+   "en": "Launch prep complete. Heading out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/001",
+   "en": "Launch prep complete. Let's go!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 2385: o0_of0/3338 Transcript has hasshin 'transmit' (wrong kanji); read as hasshin 'launch'.",
+   "row 2389: os_mis/3338 Transcript has hasshin 'transmit' (wrong kanji); read as hasshin 'launch'.",
+   "row 2390: o7_exd/3338 Transcript has hasshin 'transmit' (wrong kanji); read as hasshin 'launch'.",
+   "row 2391: of_ktr/3338 Transcript has hasshin 'transmit' (wrong kanji); read as hasshin 'launch'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "VT-1 Ostrich",
+   "VA-3 Invader"
+  ],
+  "unfinished": []
+ }
+}

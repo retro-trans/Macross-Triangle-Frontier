@@ -1,0 +1,153 @@
+{
+ "slice": 38,
+ "rows_in_slice": 21,
+ "rows_examined": 21,
+ "rows": [
+  {
+   "id": "u4276",
+   "en": "Body: Higher success rate",
+   "flags": [],
+   "notes": "Character boost (Kagura). Shin/Gi/Tai = Mind/Skill/Body."
+  },
+  {
+   "id": "u4277",
+   "en": "Technique: Uses more HP\nbut gives more EXP",
+   "flags": [],
+   "notes": "Review: campus stat is 'Technique' (glossary; not 'Skill')."
+  },
+  {
+   "id": "u4278",
+   "en": "Body: Uses less HP",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4279",
+   "en": "Technique: Success rate up",
+   "flags": [],
+   "notes": "Review: campus stat is 'Technique' (glossary; not 'Skill'). Reworded to fit (190 px for 'Higher success rate')."
+  },
+  {
+   "id": "u4280",
+   "en": "Technique: More EXP",
+   "flags": [],
+   "notes": "Review: campus stat is 'Technique' (glossary; not 'Skill')."
+  },
+  {
+   "id": "u4281",
+   "en": "Body: Uses more HP\nbut gives more EXP",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4282",
+   "en": "Mind: Uses less HP",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4283",
+   "en": "Mind: EXP bonus\non great success",
+   "flags": [],
+   "notes": "Great success = the dai-seikou result of an action."
+  },
+  {
+   "id": "u4284",
+   "en": "Mind: Higher success rate",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4285",
+   "en": "Mind: Uses more HP\nbut gives more EXP",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4286",
+   "en": "Body: More EXP",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4287",
+   "en": "Technique: Uses less HP",
+   "flags": [],
+   "notes": "Review: campus stat is 'Technique' (glossary; not 'Skill')."
+  },
+  {
+   "id": "u4288",
+   "en": "Mind: More EXP",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4289",
+   "en": "HP/MP restored each week",
+   "flags": [],
+   "notes": "At the start of each week."
+  },
+  {
+   "id": "u4290",
+   "en": "Body: EXP bonus\non great success",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4291",
+   "en": "Technique: EXP bonus\non great success",
+   "flags": [],
+   "notes": "Review: campus stat is 'Technique' (glossary; not 'Skill')."
+  },
+  {
+   "id": "u4292",
+   "en": "Mind/Technique/Body:\nMore EXP for one",
+   "flags": [],
+   "notes": "EXP up for one of the three. Review: Mind/Technique/Body (glossary). Line 2 reworded to fit, parallel with the 'for all' row."
+  },
+  {
+   "id": "u4293",
+   "en": "Mind/Technique/Body:\nMore EXP for all",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Line 1 111px vs 105px estimate; the same help box shows 175px lines (u4276). Review: Mind/Technique/Body (glossary)."
+  },
+  {
+   "id": "u4294",
+   "en": "Rest/Outing:\nMore recovery",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Schedule commands kyuuka (rest, restores HP/MP) and kibun tenkan (going out for a change of pace). Names must match the schedule menu (slices 42-45). Review: schedule commands 'Rest' and 'Outing' (glossary)."
+  },
+  {
+   "id": "u4295",
+   "en": "Mind/Technique/Body:\nNo HP used",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Line 1 111px vs 105px estimate; the same help box shows 175px lines (u4276). Review: Mind/Technique/Body (glossary)."
+  },
+  {
+   "id": "u4296",
+   "en": "Mind/Technique/Body:\nNo MP used",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Line 1 111px vs 105px estimate; the same help box shows 175px lines (u4276). Review: Mind/Technique/Body (glossary)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "Stat names Mind/Skill/Body for shin/gi/tai are not in the glossary; the schedule help (slice 43, u5536) uses the same three words and must match.",
+   "u4294: 'Rest/Refresh' for the schedule commands kyuuka / kibun tenkan; must match the schedule menu names chosen in slices 42-45."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Mind/Skill/Body (shin/gi/tai campus stats)",
+   "Rest / Refresh (campus schedule commands)"
+  ],
+  "unfinished": []
+ }
+}

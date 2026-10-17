@@ -1,0 +1,493 @@
+{
+ "slice": 100,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c07355",
+   "en": "(I came to the pool with Yuuto today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07356",
+   "en": "Did I keep you waiting?\nSorry, sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07357",
+   "en": "It's fine, don't worry about it.\nWell then, let's go swim.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07358",
+   "en": "Phew, let's take a break.\nI'm kind of tired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07359",
+   "en": "Come on, that's pathetic.",
+   "flags": [],
+   "notes": "As c07009 (same Kagura gag)."
+  },
+  {
+   "id": "c07360",
+   "en": "You're just too amazing, Yuuto...",
+   "flags": [],
+   "notes": "As c07039."
+  },
+  {
+   "id": "c07361",
+   "en": "Then you go ahead and rest.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07362",
+   "en": "I'm going to swim a bit more!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07363",
+   "en": "Go for it~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07364",
+   "en": "(I came to the pool with Kagura-kun today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07365",
+   "en": "Phew, can we take a break?\nI'm kind of tired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07366",
+   "en": "You're just too amazing, Kagura-kun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07367",
+   "en": "(I'm swimming at the pool with Yuuto\nagain today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07368",
+   "en": "\\p.\nDid I keep you waiting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07369",
+   "en": "Nah, I just got here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07370",
+   "en": "I see... Well then, let's go swim.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07371",
+   "en": "You're as fast as ever, Yuuto.\nI can't fall behind!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07372",
+   "en": "Haha, you look like you're\nin good form today too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07373",
+   "en": "Losing all the time gets on my nerves.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07374",
+   "en": "Then how about a race?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07375",
+   "en": "Loser treats the winner to a meal.\nHow about it!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07376",
+   "en": "All right, I'm not gonna lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07377",
+   "en": "(I came to the pool with Kagura-kun\nagain today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07378",
+   "en": "Nope, I just got here too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07379",
+   "en": "Same old Kagura-kun.\nI can't fall behind either.",
+   "flags": [],
+   "notes": "Female line omits 'fast' (male c07371 has it); kept as 'same as ever'."
+  },
+  {
+   "id": "c07380",
+   "en": "I'm sick of losing all the time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07381",
+   "en": "I'm technically a girl, you know,\nso give me a handicap!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07382",
+   "en": "(I'm hanging out at the park\nwith Yuuto today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07383",
+   "en": "Oh, you're here, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07384",
+   "en": "Sorry to keep you waiting, Yuuto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07385",
+   "en": "Well then, shall we take a little walk?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07386",
+   "en": "Being in Central Park is kind of\nsoothing, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07387",
+   "en": "Yeah. Maybe because the air's so good?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07388",
+   "en": "Who knows. Thanks to negative ions, maybe?\nNot that I know if they actually do anything...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07389",
+   "en": "Well, if it's soothing,\nthat's all that matters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07390",
+   "en": "Well then, shall we head home for today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07391",
+   "en": "(I'm hanging out at the park\nwith Kagura-kun today~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07392",
+   "en": "Sorry to keep you waiting, Kagura-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07393",
+   "en": "(I'm hanging out at the park\nwith Yuuto again today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07394",
+   "en": "Oh, you're finally here,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07395",
+   "en": "Sorry I kept you waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07396",
+   "en": "Nah, I only just got here myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07397",
+   "en": "Looks like they rent out bikes,\nso let's go cycling today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07398",
+   "en": "Y-Yuuto, you're going way too fast...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07399",
+   "en": "Am I?\nI thought I was pedaling like I always do...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07400",
+   "en": "...Just how fast do you usually go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07401",
+   "en": "Well, cycling wasn't bad either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07402",
+   "en": "Yeah, it was fun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07403",
+   "en": "(I'm hanging out at the park\nwith Kagura-kun again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07404",
+   "en": "Sorry I kept you waiting!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07405",
+   "en": "K-Kagura-kun, you're going way too fast...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07406",
+   "en": "...Just how fast do you usually go...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07407",
+   "en": "(I came to the Battle Frontier's simulator\nwith Yuuto today!)",
+   "flags": [],
+   "notes": "As c06514."
+  },
+  {
+   "id": "c07408",
+   "en": "\\p.\nAre you ready!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07409",
+   "en": "Looks like I'll need a bit longer, so first,\nlet me see what you can do, Yuuto.",
+   "flags": [],
+   "notes": "The player is not ready yet."
+  },
+  {
+   "id": "c07410",
+   "en": "But are you okay in your regular clothes?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07411",
+   "en": "There's a bit of a reason for that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07412",
+   "en": "Anyway, just watch me fly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07413",
+   "en": "Your moves are surprisingly orthodox.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07414",
+   "en": "Surprisingly?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07415",
+   "en": "What do you take me for?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07416",
+   "en": "Well, you're usually kind of...\neccentric, I guess...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07417",
+   "en": "...Am I?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07418",
+   "en": "Oh well...\nNow it's your turn!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07419",
+   "en": "All right, I'll give it my all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07420",
+   "en": "(I came to the Battle Frontier's simulator\nwith Kagura-kun today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07421",
+   "en": "Sorry, I think I'll need a bit longer...\nSo first, let me see what you can do,\nKagura-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07422",
+   "en": "Your moves are surprisingly orthodox,\nKagura-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07423",
+   "en": "(I came to the simulator\nwith Yuuto again today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07424",
+   "en": "Yeah. Mind if I go first today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07425",
+   "en": "Got it. I'll navigate from over here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07426",
+   "en": "Well then, good luck.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07427",
+   "en": "Phew, how was that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07428",
+   "en": "You kind of fight like Gary-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07429",
+   "en": "I guess you really do end up like\nthe person who teaches you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07430",
+   "en": "I'd really like you to copy\nmy style too, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07431",
+   "en": "Then how about you show me\nyour technique, Yuuto?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07432",
+   "en": "(I came to the simulator\nwith Kagura-kun again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07433",
+   "en": "Yeah. Mind if I go first today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07434",
+   "en": "Phew, how was that?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,537 @@
+{
+ "slice": 15,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "of_ktr/1317",
+   "en": "RVF-171EX Nightmare Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1318",
+   "en": "VF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1318",
+   "en": "VF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1319",
+   "en": "RVF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1319",
+   "en": "RVF-25 Messiah",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1320",
+   "en": "Queadluun-Rhea",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1320",
+   "en": "Queadluun-Rhea",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1321",
+   "en": "Klan Klang's team",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kurankuran taimu': read as Klan Klang-tai (team), as the other operators"
+  },
+  {
+   "id": "of_ktr/1321",
+   "en": "Klan Klang's team",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1322",
+   "en": "Konig Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1322",
+   "en": "Konig Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1323",
+   "en": "Macross Quarter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1323",
+   "en": "Macross Quarter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1324",
+   "en": "Battle Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1324",
+   "en": "Battle Frontier",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1325",
+   "en": "VF-27 Lucifer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1325",
+   "en": "VF-27 Lucifer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1326",
+   "en": "Battle Galaxy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1326",
+   "en": "Battle Galaxy",
+   "flags": [],
+   "notes": "Whisper flagged nospeech but transcribed the name in Latin letters; same as every other operator."
+  },
+  {
+   "id": "o7_exd/1327",
+   "en": "VF-2SS Valkyrie II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1327",
+   "en": "VF-2SS Valkyrie II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1328",
+   "en": "Gigamesh",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1328",
+   "en": "Gigamesh",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1329",
+   "en": "VF-9 Cutlass",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1329",
+   "en": "VF-9 Cutlass",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1330",
+   "en": "All units.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kakkii' is kakki (each unit = all units), as the other operators"
+  },
+  {
+   "id": "of_ktr/1330",
+   "en": "All units.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript 'kakkii' is kakki (all units)"
+  },
+  {
+   "id": "o7_exd/1332",
+   "en": "Launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1332",
+   "en": "Launch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1334",
+   "en": "Ghost Booster equipment is authorized.",
+   "flags": [],
+   "notes": "MUF clip said Ghost equipment; the TF clip says Ghost Booster."
+  },
+  {
+   "id": "o0_of2/1334",
+   "en": "I'll allow Ghost Booster equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1334",
+   "en": "Ghost Booster authorized.",
+   "flags": [],
+   "notes": "MUF clip also said \"Launch\"; the TF clip does not."
+  },
+  {
+   "id": "os_mis/1334",
+   "en": "Ghost Booster equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1334",
+   "en": "Ghost Booster equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1334",
+   "en": "You're cleared for the Ghost Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1335",
+   "en": "All-Out Assault Spec equipment authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "shiyou written as \"use\" instead of \"spec\" (homophone)"
+  },
+  {
+   "id": "of_ktr/1335",
+   "en": "You're cleared for All-Out Assault Spec.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "shiyou written as \"use\" instead of \"spec\" (homophone)"
+  },
+  {
+   "id": "o7_exd/1336",
+   "en": "Reactive Armor equipment authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript says kyouka (reinforce); every other pack line says kyoka (authorize)"
+  },
+  {
+   "id": "of_ktr/1336",
+   "en": "You're cleared for Reactive Armor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1337",
+   "en": "Twin Booster equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1337",
+   "en": "You're cleared for the Twin Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1338",
+   "en": "Super Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1338",
+   "en": "You're cleared for the Super Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1339",
+   "en": "Armored Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1339",
+   "en": "You're cleared for the Armored Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1340",
+   "en": "Strike Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1340",
+   "en": "You're cleared for the Strike Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1341",
+   "en": "FAST Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1341",
+   "en": "You're cleared for the FAST Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1342",
+   "en": "Full Armored equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1342",
+   "en": "You're cleared for Full Armored gear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1343",
+   "en": "Sound Booster equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1343",
+   "en": "You're cleared for the Sound Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1344",
+   "en": "Fold Speaker equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1344",
+   "en": "You're cleared for the Fold Speaker.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1345",
+   "en": "Super Armed Pack equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1345",
+   "en": "You're cleared for the Super Armed Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1346",
+   "en": "Option Parts equipment authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1346",
+   "en": "You're cleared for the Option Parts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1348",
+   "en": "Would you head out at once and rescue both aircraft?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki (both aircraft) written as ryouki \"bizarre\""
+  },
+  {
+   "id": "of_ktr/1348",
+   "en": "Head out and rescue both aircraft, now!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki (both aircraft) written as ryouki \"bizarre\""
+  },
+  {
+   "id": "o7_exd/1349",
+   "en": "Could you rescue both aircraft as quickly as possible?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki (both aircraft) written as ryouki \"bizarre\""
+  },
+  {
+   "id": "of_ktr/1349",
+   "en": "Rescue both aircraft, quickly!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript byouki (illness): read as ryouki (both aircraft), as the other operators"
+  },
+  {
+   "id": "o7_exd/1350",
+   "en": "It seems both aircraft are calling for rescue.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki (both aircraft) written as ryouki \"bizarre\". Exsedol words this differently from the other operators."
+  },
+  {
+   "id": "of_ktr/1350",
+   "en": "You're the only one who can rescue both aircraft! Hurry!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki (both aircraft) written as ryouki \"bizarre\". Catherine words this differently from the other operators."
+  },
+  {
+   "id": "o7_exd/1351",
+   "en": "I wonder how this will change the tide of battle.",
+   "flags": [],
+   "notes": "Differs from the other operators (\"both aircraft back in action\"); translated what the clip says."
+  },
+  {
+   "id": "of_ktr/1351",
+   "en": "I hope this turns things around for us.",
+   "flags": [],
+   "notes": "Differs from the other operators; translated what the clip says."
+  },
+  {
+   "id": "o7_exd/1352",
+   "en": "Continue the operation alongside both aircraft.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1352",
+   "en": "Well done. Keep up the operation alongside both aircraft.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki (both aircraft) written as ryouki \"flag\""
+  },
+  {
+   "id": "o7_exd/1353",
+   "en": "Both aircraft confirmed back in action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1353",
+   "en": "Both aircraft confirmed back in action.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1390",
+   "en": "Heat signature confirmed. It's Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1390",
+   "en": "Heat signature confirmed. That's Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1390",
+   "en": "Heat signature confirmed. It's Code Victor!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1390",
+   "en": "Heat signature confirmed. It's Code Victor.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "kodo (code) written as koudo (altitude)"
+  },
+  {
+   "id": "os_mis/1390",
+   "en": "Heat signature confirmed. That's Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1390",
+   "en": "Heat signature confirmed. It is Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1390",
+   "en": "Heat signature confirmed. It's Code Victor.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1391",
+   "en": "Heat signature confirmed. It's the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1391",
+   "en": "Heat signature confirmed. That's the Mardook forces.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 1128: Transcript 'kurankuran taimu': read as Klan Klang-tai (team), as the other operators",
+   "row 1146: Transcript 'kakkii' is kakki (each unit = all units), as the other operators",
+   "row 1147: Transcript 'kakkii' is kakki (all units)",
+   "row 1156: shiyou written as \"use\" instead of \"spec\" (homophone)",
+   "row 1157: shiyou written as \"use\" instead of \"spec\" (homophone)",
+   "row 1158: Transcript says kyouka (reinforce); every other pack line says kyoka (authorize)",
+   "row 1180: ryouki (both aircraft) written as ryouki \"bizarre\"",
+   "row 1181: ryouki (both aircraft) written as ryouki \"bizarre\"",
+   "row 1182: ryouki (both aircraft) written as ryouki \"bizarre\"",
+   "row 1183: Transcript byouki (illness): read as ryouki (both aircraft), as the other operators",
+   "row 1184: ryouki (both aircraft) written as ryouki \"bizarre\". Exsedol words this differently from the other operators.",
+   "row 1185: ryouki (both aircraft) written as ryouki \"bizarre\". Catherine words this differently from the other operators.",
+   "row 1189: ryouki (both aircraft) written as ryouki \"flag\"",
+   "row 1195: kodo (code) written as koudo (altitude)"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

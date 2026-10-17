@@ -1,0 +1,500 @@
+{
+ "slice": 12,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0996",
+   "en": "All-Forces Full Salvo",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0997",
+   "en": "Monster (Quamzin)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0998",
+   "en": "Quamzin sitting astride a Monster\nSteering it the way Quamzin orders is hard work",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u0999",
+   "en": "Super Full Salvo",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1000",
+   "en": "Zentradi fleet commander\nA warrior who can down a Valkyrie bare-handed",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1001",
+   "en": "Supreme commander of the Zentradi fleets\nThe living core unit of Boddole Zer's flagship",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1002",
+   "en": "Tentacle Frenzy",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1003",
+   "en": "Variable fighter developed to succeed the VF-1\nA VF-11A with boosted engine thrust",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1004",
+   "en": "Prototype variable fighter for the VF-19\nHigh-performing, but twitchy and hard to handle",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1005",
+   "en": "Prototype variable fighter for the VF-22\nHas the brainwave-driven BDI control system",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1006",
+   "en": "Limiter Release",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1007",
+   "en": "X-9 Ghost",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1008",
+   "en": "Unmanned fighter with artificial intelligence\nBeing unmanned, it can fight at extreme speeds",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1009",
+   "en": "Ghost Frenzy",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1010",
+   "en": "Variable fighter developed to succeed the VF-1\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1011",
+   "en": "Variable fighter developed for special missions\nFlown mainly by Diamond Force members",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1012",
+   "en": "Variable fighter developed for special missions\nFlown by Gamlin as leader of Diamond Force",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1013",
+   "en": "VF-17S (Milia)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1014",
+   "en": "Variable fighter developed for special missions\nMilia's unit, with red as her personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1015",
+   "en": "Variable fighter evolved from the VF-11\nFlown mainly by Emerald Force members",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1016",
+   "en": "Variable fighter evolved from the VF-11\nFlown by Docker, leader of Emerald Force",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1017",
+   "en": "VF-22S (Max)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1018",
+   "en": "Special-mission VF, successor to the VF-17\nMax's unit, with blue as his personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1019",
+   "en": "VF-22S (Milia)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1020",
+   "en": "Special-mission VF, successor to the VF-17\nMilia's unit, with red as her personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1021",
+   "en": "Fire Valkyrie",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1022",
+   "en": "A VF-19 modified for Sound Force use\nBasara's unit, with blazing red as his personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1023",
+   "en": "Speaker Pod γ",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1024",
+   "en": "Mylene Valkyrie",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1025",
+   "en": "A VF-11 modified for Sound Force use\nMylene's unit, known for its feminine lines",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1026",
+   "en": "Storm Valkyrie",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1027",
+   "en": "A VF-17 modified for Sound Force use\nRay and Veffidas's unit, with green as their personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1028",
+   "en": "Battle 7",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1029",
+   "en": "The Macross 7 fleet's key stealth attack carrier\nIts powerful trump card: the Macross Cannon",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1030",
+   "en": "Queadluun-Quilqua",
+   "flags": [],
+   "notes": "new; glossary en"
+  },
+  {
+   "id": "u1031",
+   "en": "Custom unit upgraded from the Queadluun-Rau\nFlown by Emilia, the daughter of Max and Milia",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1032",
+   "en": "Listen to my song!!",
+   "flags": [],
+   "notes": "new; Emilia's special attack, her feminine-pronoun version of Basara's line (u1045); English cannot mark the pronoun, so same wording"
+  },
+  {
+   "id": "u1033",
+   "en": "A VF converted from a U.N. Forces design\nFlown mainly by Varauta Army rank and file",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1034",
+   "en": "A VF converted from a U.N. Forces design\nGigile's unit, with stronger weapons and thrust",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1035",
+   "en": "Melee + Laser Fire",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1036",
+   "en": "Variable attacker converted from a U.N. Forces design\nDeveloped as the Varauta Army's new mainstay",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1037",
+   "en": "Variable bomber converted from a U.N. Forces design\nPersonal unit of the Protodeviln Gavil",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1038",
+   "en": "Queadluun-Rau (Chlore)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1039",
+   "en": "Battle suit developed by the Zentradi forces\nChlore's unit, with yellow as the pilot's personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1040",
+   "en": "Glavil",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1041",
+   "en": "A colossal Protodeviln measuring 300 m\nA dim-witted monster with powerful weapons",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1042",
+   "en": "Super Pentacle Beam",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1043",
+   "en": "Varauta Army commander and Protodeviln leader\nThe largest and mightiest of the Protodeviln",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1044",
+   "en": "A variable trainer built for flight training\nArmed with a harpoon gun pod for whale hunting",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1045",
+   "en": "Listen to my song!!",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1046",
+   "en": "VF-17D (Liza)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1047",
+   "en": "Variable fighter developed for special missions\nThe unit Liza stole to escape the black marketeers",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1048",
+   "en": "Variable fighter developed from an improved VF-1\nFitted with a Super Booster",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1049",
+   "en": "Variable fighter developed from an improved VF-1\nThe mainstay of the Zolan Star Patrol",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1050",
+   "en": "Variable fighter evolved from the VF-11\nFlown by Basara to sing to the whale",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1051",
+   "en": "VF-22S (Gamlin)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1052",
+   "en": "Special-mission VF, successor to the VF-17\nGamlin's unit, with black as his personal color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1053",
+   "en": "Gamlin Kick Rush",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1054",
+   "en": "Variable attacker that can also operate underwater\nArmed with a harpoon launcher pod for whaling",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1055",
+   "en": "Diving Suit",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1056",
+   "en": "A man obsessed with the white Galaxy Whale\nDiving-suited, he fights Galaxy Whales with one harpoon",
+   "flags": [],
+   "notes": "tm revised: restored 'Galaxy Whales' (Japanese names the galaxy whale, tm had plain 'whales')"
+  },
+  {
+   "id": "u1057",
+   "en": "Cheyenne II",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1058",
+   "en": "Destroid developed as the Cheyenne's successor\nUsed as the Macross Quarter's anti-air defense",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1059",
+   "en": "Multipurpose variable fighter based on the VF-17\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1060",
+   "en": "A VF-171 upgraded to fight the Vajra\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1061",
+   "en": "VF-171EX (Alto)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1062",
+   "en": "A VF-171 upgraded to fight the Vajra\nFlown by Alto as leader of Sagittarius Squadron",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1063",
+   "en": "RVF-171EX (Luca)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1064",
+   "en": "A VF-171 upgraded to fight the Vajra\nLuca's unit, an electronic warfare type",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1065",
+   "en": "VF-25F (Alto)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1066",
+   "en": "Latest-model variable fighter issued to S.M.S.\nAlto's unit, tuned for high-mobility combat",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1067",
+   "en": "VF-25S (Ozma)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1068",
+   "en": "Latest-model variable fighter issued to S.M.S.\nOzma's unit, an upgraded commander type",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1069",
+   "en": "VF-25G (Michael)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tm revised: the Japanese says Mihaeru, so 'Michael' per brief (Michel only for Misheru); MUF shipped 'Michel'"
+  },
+  {
+   "id": "u1070",
+   "en": "Latest-model variable fighter issued to S.M.S.\nMichael's unit, a long-range support type",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tm revised: Mihaeru -> 'Michael' per brief; MUF shipped 'Michel'"
+  },
+  {
+   "id": "u1071",
+   "en": "RVF-25 (Luca)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1072",
+   "en": "Latest-model variable fighter issued to S.M.S.\nLuca's unit, an electronic warfare type",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1073",
+   "en": "Queadluun-Rhea",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1074",
+   "en": "Battle suit upgraded from the Queadluun-Rau\nFlown mainly by rank-and-file pilots",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1075",
+   "en": "Queadluun-Rhea (Klan)",
+   "flags": [],
+   "notes": "tm kept after review"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u1069/u1070: tm had 'Michel' but the Japanese is Mihaeru, so changed to 'Michael' per the brief (Michel only where the Japanese says Misheru). u1069 is used 3 times (unit name); revert if the unit lists should stay as MUF shipped them.",
+   "u1032: Emilia's attack name uses the feminine pronoun atashi; rendered 'Listen to my song!!', identical to Basara's u1045"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

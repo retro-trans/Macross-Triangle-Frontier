@@ -1,0 +1,2106 @@
+{
+ "slice": 45,
+ "rows_in_slice": 333,
+ "rows_examined": 333,
+ "rows": [
+  {
+   "id": "u5562",
+   "en": "Trial Course",
+   "flags": [],
+   "notes": "Course name; 'taiken nyuugaku' = trial enrolment."
+  },
+  {
+   "id": "u5563",
+   "en": "Trial Course\n\nBased on the story\nof the Macross F\nmovie.\nA tutorial course\nto learn the game's\nbasic controls and\nAcademy Mode rules.",
+   "flags": [],
+   "notes": "Review: 'Academy Mode' capitalised (glossary)."
+  },
+  {
+   "id": "u5564",
+   "en": "Space Control Course",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Over the 122 px estimate (135 px). 'Kouchuu kansei' = space (flight) control; operator-type course that boosts Mind."
+  },
+  {
+   "id": "u5565",
+   "en": "Space Control Course\n\nBased on the story\nof the Macross F\nTV series.\nEarns \"Mind\" EXP\nmore easily than\nother courses.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5566",
+   "en": "Special Tech Course",
+   "flags": [],
+   "notes": "'Tokushu gijutsu kunren' = special technical training; shortened to fit."
+  },
+  {
+   "id": "u5567",
+   "en": "Special Tech Course\n\nBased on the story\nof the Macross F\nTV series.\nEarns \"Technique\"\nEXP more easily than\nother courses.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5568",
+   "en": "Pilot Course",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Review: the glossary maps this course name to 'Pilot Course' (alias of the department name); the four selectable courses now read Trial / Space Control / Special Tech / Pilot Course."
+  },
+  {
+   "id": "u5569",
+   "en": "Pilot Course\n\nBased on the story\nof the Macross F\nTV series.\nEarns \"Body\" EXP\nmore easily than\nother courses.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Review: course name is 'Pilot Course' (glossary alias)."
+  },
+  {
+   "id": "u5570",
+   "en": "Mihoshi Academy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Map label; the Japanese box is narrow (about 70 px). Fallback if it does not fit in game: 'Mihoshi' (glossary alias)."
+  },
+  {
+   "id": "u5571",
+   "en": "Mihoshi Academy High School\nTrains specialists to master and pass on\ntraditional arts and skills.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Title line is over its estimate (based on the short Japanese title); the description lines show the window is about 330 px wide."
+  },
+  {
+   "id": "u5572",
+   "en": "Griffith Park\nModeled on the Griffith Observatory that\nstood on Earth. It overlooks the city.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5573",
+   "en": "San Francisco Area\nModeled on San Francisco on Earth.\nOne of Frontier's biggest downtowns.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'San Francisco Area' not in the glossary."
+  },
+  {
+   "id": "u5574",
+   "en": "Shibuya Area\nAn area modeled on Shibuya in Japan.\nIts underground mall is Deep Akihabara.",
+   "flags": [
+    "name_missing",
+    "uncertain"
+   ],
+   "notes": "'Shibuya Area' and the underground mall 'Shin-Akihabara' written with the kanji for 'deep' are not in the glossary; rendered 'Deep Akihabara' to keep the underground pun."
+  },
+  {
+   "id": "u5575",
+   "en": "Beijing Area",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Not in the glossary."
+  },
+  {
+   "id": "u5576",
+   "en": "Beijing Area\nAn area modeled on Beijing in China.\nMany singers perform live at Sky Gate.",
+   "flags": [
+    "name_missing",
+    "uncertain"
+   ],
+   "notes": "'Tenkumon' (literally 'Sky Gate', the concert venue in the Beijing area) is not in the glossary; romanised. Review: the venue is 'Sky Gate' (glossary, decided)."
+  },
+  {
+   "id": "u5577",
+   "en": "Macross Quarter\nMothership of the private military provider S.M.S.\nUsually docked at its own dedicated port.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5578",
+   "en": "Observation Pier\nA pier jutting out from Island 1\nwith a view out over space.",
+   "flags": [
+    "name_missing",
+    "uncertain"
+   ],
+   "notes": "'Observation Pier' not in the glossary. Title line over its 70 px estimate; the window is wider (description lines)."
+  },
+  {
+   "id": "u5579",
+   "en": "Battle Frontier\nNew U.N. Forces HQ.\nThe government moves here in a disaster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5580",
+   "en": "Island 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5581",
+   "en": "Island 3\nA Zentradi farming and tourism\nenvironment ship.",
+   "flags": [],
+   "notes": "'Kankyoukan' = environment ship."
+  },
+  {
+   "id": "u5582",
+   "en": "Entrance",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Entrance ceremony; calendar cell is tiny (56 px), so 'Entrance'. Full form 'Entrance Ceremony' if room allows."
+  },
+  {
+   "id": "u5583",
+   "en": "Sports Day",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "A little over the estimated 56 px cell."
+  },
+  {
+   "id": "u5584",
+   "en": "Skills Test",
+   "flags": [],
+   "notes": "'Jitsugi tesuto' = practical skills test."
+  },
+  {
+   "id": "u5585",
+   "en": "Christmas",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5586",
+   "en": "White Day",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5587",
+   "en": "Culture Fest",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "School culture festival; 'Festival' to fit the 56 px calendar cell. Review: the school culture festival is 'Culture Fest' (glossary), not the Festival route. 77 px vs 56 px estimate, like its neighbours (Sports Day, Graduation)."
+  },
+  {
+   "id": "u5588",
+   "en": "Graduation",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "A little over the estimated 56 px cell."
+  },
+  {
+   "id": "u5589",
+   "en": "Vacation",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Summer vacation; 'Vacation' to fit the 56 px calendar cell (the only vacation on the calendar). 'Summer Break' if room allows."
+  },
+  {
+   "id": "u5590",
+   "en": "Sheryl Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5591",
+   "en": "None",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5592",
+   "en": "Rest",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'Kyuuka' = day off (rest action, recovers HP/MP). Same word should be used in slices 38/42/43. Review: schedule command is 'Rest' (glossary)."
+  },
+  {
+   "id": "u5593",
+   "en": "Gen. Studies",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "General studies; abbreviated, still over the estimated 70 px box."
+  },
+  {
+   "id": "u5594",
+   "en": "Core study of\ngeneral subjects",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5595",
+   "en": "Mech. Eng.",
+   "flags": [],
+   "notes": "Mechanical engineering; abbreviated."
+  },
+  {
+   "id": "u5596",
+   "en": "Study how\nmachinery\nworks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5597",
+   "en": "Aerodynamics",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Over the estimated 70 px box; no shorter word."
+  },
+  {
+   "id": "u5598",
+   "en": "Study the\nprinciples of\nflight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5599",
+   "en": "Space Navigation",
+   "flags": [],
+   "notes": "'Koukuu uchuu un'kougaku' = aerospace navigation/operations; shortened."
+  },
+  {
+   "id": "u5600",
+   "en": "Study the\nrules for\nnavigating space",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5601",
+   "en": "Aerospace Tactics",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5602",
+   "en": "Study the\ntactics used\nin space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5603",
+   "en": "Maintenance",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5604",
+   "en": "Learn to tune\nand repair\nEX-Gear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5605",
+   "en": "EX-Gear Basics",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5606",
+   "en": "Learn the basic\nEX-Gear moves",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5607",
+   "en": "Advanced EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5608",
+   "en": "Learn advanced\nEX-Gear skills",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5609",
+   "en": "Combat Basics",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Over the estimated 70 px box."
+  },
+  {
+   "id": "u5610",
+   "en": "Learn\nbasic combat skills",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5611",
+   "en": "EX-Gear Group Flight",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5612",
+   "en": "Team up for\nEX-Gear\nformation drills",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5613",
+   "en": "Basic Training",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5614",
+   "en": "Training to\nbuild base fitness",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5615",
+   "en": "Strength Training",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5616",
+   "en": "Training to\nbuild strength",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5617",
+   "en": "Endurance Training",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5618",
+   "en": "Training to\nbuild endurance",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5619",
+   "en": "Agility Training",
+   "flags": [],
+   "notes": "'Shunpatsuryoku' = explosive quickness; 'Agility'."
+  },
+  {
+   "id": "u5620",
+   "en": "Training to\nbuild agility",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5621",
+   "en": "Visualization Training",
+   "flags": [],
+   "notes": "'Imeeji toreeningu' (mental rehearsal)."
+  },
+  {
+   "id": "u5622",
+   "en": "Mentally picture\nthe feel of\nflying.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5623",
+   "en": "Aviation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5624",
+   "en": "Space Sci.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Space studies; abbreviated, still a little over the 56 px box."
+  },
+  {
+   "id": "u5625",
+   "en": "EX-Gear Training",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5626",
+   "en": "Combat Training",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Over the estimated 70 px box; the sibling EX-Gear Training has 109 px."
+  },
+  {
+   "id": "u5627",
+   "en": "VOICES",
+   "flags": [],
+   "notes": "Skill name, as u2725 'Myung (Skill: VOICES)'."
+  },
+  {
+   "id": "u5628",
+   "en": "Restores 50% of HP.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5629",
+   "en": "Nullifies enemy attacks.\nHowever, you cannot attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5630",
+   "en": "Fully restores SP.\nHowever, your HP is halved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5631",
+   "en": "You evade missiles for a set time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5632",
+   "en": "Instantly rescues your wingman at any range.",
+   "flags": [],
+   "notes": "283 px: over the 266 px estimate but within widths MUF shipped in this box (up to 338 px)."
+  },
+  {
+   "id": "u5633",
+   "en": "Maxes out pilot abilities for a set time.\nHowever, your HP is halved when it ends.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5634",
+   "en": "Reloads all weapons, cuts attack openings\nfor a long time, and grants brief invincibility.",
+   "flags": [],
+   "notes": "As MUF u1190 plus 'for a long time'. Line 2 280 px: over the 266 px estimate, within MUF widths."
+  },
+  {
+   "id": "u5635",
+   "en": "Briefly freezes enemies while active.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5636",
+   "en": "When your HP drops to 30% or less, you're\ninvincible for a time and reload. *Once only",
+   "flags": [],
+   "notes": "The Japanese splits a word across the break; English broken at a natural point. Lines 267/273 px, within MUF widths."
+  },
+  {
+   "id": "u5637",
+   "en": "When your HP is at 100%,\nattack power, defense and speed rise 1.2x.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5638",
+   "en": "When you have no wingman,\nattack power and defense rise 1.5x.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5639",
+   "en": "SP Gauge consumption is reduced by 1.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5640",
+   "en": "Attack power vs. enemy aces rises 1.5x.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5641",
+   "en": "Turning ability rises 1.2x.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5642",
+   "en": "When your HP is 30% or less,\nthe SP Gauge refills 1.5x faster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5643",
+   "en": "Song Weapon effects rise 1.2x when used.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5644",
+   "en": "You take no damage while guarding.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5645",
+   "en": "When your HP is 30% or less,\nattack power, defense and speed rise 1.2x.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5646",
+   "en": "- Cast -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5647",
+   "en": "Kenichi Suzumura",
+   "flags": [],
+   "notes": "Shin Kudo"
+  },
+  {
+   "id": "u5648",
+   "en": "Sanae Kobayashi",
+   "flags": [],
+   "notes": "Sara Nome"
+  },
+  {
+   "id": "u5649",
+   "en": "Akira Kamiya",
+   "flags": [],
+   "notes": "Roy Focker"
+  },
+  {
+   "id": "u5650",
+   "en": "D.D. Ivanov",
+   "flags": [],
+   "notes": "tm kept (character name, glossary)"
+  },
+  {
+   "id": "u5651",
+   "en": "Ryuzaburo Otomo",
+   "flags": [],
+   "notes": "D.D. Ivanov"
+  },
+  {
+   "id": "u5652",
+   "en": "Minami Takayama",
+   "flags": [],
+   "notes": "Nora Polyansky"
+  },
+  {
+   "id": "u5653",
+   "en": "The Super Dimension Fortress Macross",
+   "flags": [],
+   "notes": "tm kept (glossary works)"
+  },
+  {
+   "id": "u5654",
+   "en": "Kenji Nojima",
+   "flags": [],
+   "notes": "Hikaru"
+  },
+  {
+   "id": "u5655",
+   "en": "Mari Iijima",
+   "flags": [],
+   "notes": "Minmay"
+  },
+  {
+   "id": "u5656",
+   "en": "Sho Hayami",
+   "flags": [],
+   "notes": "Max"
+  },
+  {
+   "id": "u5657",
+   "en": "Katsumi Suzuki",
+   "flags": [],
+   "notes": "Kakizaki"
+  },
+  {
+   "id": "u5658",
+   "en": "Mika Doi",
+   "flags": [],
+   "notes": "Misa"
+  },
+  {
+   "id": "u5659",
+   "en": "Eri Takeda",
+   "flags": [],
+   "notes": "Milia"
+  },
+  {
+   "id": "u5660",
+   "en": "Kosuke Meguro",
+   "flags": [],
+   "notes": "Kamjin"
+  },
+  {
+   "id": "u5661",
+   "en": "Ryusuke Obayashi",
+   "flags": [],
+   "notes": "Exsedol"
+  },
+  {
+   "id": "u5662",
+   "en": "Osamu Ichikawa (archive recording)",
+   "flags": [],
+   "notes": "'Library shutsuen' = appears through archived (library) recordings; Boddole Zer."
+  },
+  {
+   "id": "u5663",
+   "en": "Macross: Do You Remember Love?",
+   "flags": [],
+   "notes": "Glossary works."
+  },
+  {
+   "id": "u5664",
+   "en": "Vrlitwhai 7018",
+   "flags": [],
+   "notes": "tm kept (glossary alias)"
+  },
+  {
+   "id": "u5665",
+   "en": "Takumi Yamazaki",
+   "flags": [],
+   "notes": "Isamu"
+  },
+  {
+   "id": "u5666",
+   "en": "Unsho Ishizuka",
+   "flags": [],
+   "notes": "Guld"
+  },
+  {
+   "id": "u5667",
+   "en": "Rika Fukami",
+   "flags": [],
+   "notes": "Myung"
+  },
+  {
+   "id": "u5668",
+   "en": "Nobutoshi Canna",
+   "flags": [],
+   "notes": "Basara; the actor's own romanisation is 'Canna'."
+  },
+  {
+   "id": "u5669",
+   "en": "Tomo Sakurai",
+   "flags": [],
+   "notes": "Mylene"
+  },
+  {
+   "id": "u5670",
+   "en": "Masashi Sugawara",
+   "flags": [],
+   "notes": "Ray"
+  },
+  {
+   "id": "u5671",
+   "en": "Takehito Koyasu",
+   "flags": [],
+   "notes": "Gamlin"
+  },
+  {
+   "id": "u5672",
+   "en": "Tomohiro Nishimura",
+   "flags": [],
+   "notes": "Gigile"
+  },
+  {
+   "id": "u5673",
+   "en": "Akio Suyama",
+   "flags": [],
+   "notes": "Gavil"
+  },
+  {
+   "id": "u5674",
+   "en": "Akiko Nakagawa",
+   "flags": [],
+   "notes": "Sivil"
+  },
+  {
+   "id": "u5675",
+   "en": "Aya Sakaguchi",
+   "flags": [],
+   "notes": "Elma Hoilie"
+  },
+  {
+   "id": "u5676",
+   "en": "Joji Nakata",
+   "flags": [],
+   "notes": "Graham Hoilie"
+  },
+  {
+   "id": "u5677",
+   "en": "Yuichi Nakamura",
+   "flags": [],
+   "notes": "Alto"
+  },
+  {
+   "id": "u5678",
+   "en": "Aya Endo",
+   "flags": [],
+   "notes": "Sheryl"
+  },
+  {
+   "id": "u5679",
+   "en": "Megumi Nakajima",
+   "flags": [],
+   "notes": "Ranka"
+  },
+  {
+   "id": "u5680",
+   "en": "Katsuyuki Konishi",
+   "flags": [],
+   "notes": "Ozma"
+  },
+  {
+   "id": "u5681",
+   "en": "Hiroshi Kamiya",
+   "flags": [],
+   "notes": "Michel"
+  },
+  {
+   "id": "u5682",
+   "en": "Jun Fukuyama",
+   "flags": [],
+   "notes": "Luca"
+  },
+  {
+   "id": "u5683",
+   "en": "Megumi Toyoguchi",
+   "flags": [],
+   "notes": "Klan"
+  },
+  {
+   "id": "u5684",
+   "en": "Houko Kuwashima",
+   "flags": [],
+   "notes": "Canaria; her own romanisation is 'Houko'."
+  },
+  {
+   "id": "u5685",
+   "en": "Kenta Miyake",
+   "flags": [],
+   "notes": "Bobby"
+  },
+  {
+   "id": "u5686",
+   "en": "Toru Okawa",
+   "flags": [],
+   "notes": "Wilder"
+  },
+  {
+   "id": "u5687",
+   "en": "Soichiro Hoshi",
+   "flags": [],
+   "notes": "Brera"
+  },
+  {
+   "id": "u5688",
+   "en": "Kikuko Inoue",
+   "flags": [],
+   "notes": "Grace"
+  },
+  {
+   "id": "u5689",
+   "en": "Macross Frontier Movie: The False Songstress",
+   "flags": [],
+   "notes": "Glossary (works, The False Songstress note)."
+  },
+  {
+   "id": "u5690",
+   "en": "Macross II: Lovers Again",
+   "flags": [],
+   "notes": "Glossary works."
+  },
+  {
+   "id": "u5691",
+   "en": "Tsutomu Takayama",
+   "flags": [],
+   "notes": "Hibiki; credited in katakana."
+  },
+  {
+   "id": "u5692",
+   "en": "Hiroko Kasahara",
+   "flags": [],
+   "notes": "Ishtar"
+  },
+  {
+   "id": "u5693",
+   "en": "Yumi Toma",
+   "flags": [],
+   "notes": "Silvie"
+  },
+  {
+   "id": "u5694",
+   "en": "Jun Konno",
+   "flags": [],
+   "notes": "Yuuto Kagura"
+  },
+  {
+   "id": "u5695",
+   "en": "Tetsu Inada",
+   "flags": [],
+   "notes": "Gary Murdoch"
+  },
+  {
+   "id": "u5696",
+   "en": "Yuki Hayashi",
+   "flags": [],
+   "notes": "Luis Fernando"
+  },
+  {
+   "id": "u5697",
+   "en": "Hinako Sasaki",
+   "flags": [],
+   "notes": "Miyuki Shirakawa"
+  },
+  {
+   "id": "u5698",
+   "en": "Hilda V. Bergen",
+   "flags": [],
+   "notes": "Character name (glossary)."
+  },
+  {
+   "id": "u5699",
+   "en": "Miho Hino",
+   "flags": [],
+   "notes": "Hilda"
+  },
+  {
+   "id": "u5700",
+   "en": "Yoko Nishino",
+   "flags": [],
+   "notes": "Yui Hoshimura"
+  },
+  {
+   "id": "u5701",
+   "en": "Kimiko Koyama",
+   "flags": [],
+   "notes": "Yuu Akimizu"
+  },
+  {
+   "id": "u5702",
+   "en": "Tomo Adachi",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Claire Stanford; reading of the given name inferred."
+  },
+  {
+   "id": "u5703",
+   "en": "Kiyotaka Furushima",
+   "flags": [],
+   "notes": "Yamashiro"
+  },
+  {
+   "id": "u5704",
+   "en": "Ai Nonaka",
+   "flags": [],
+   "notes": "Pinon"
+  },
+  {
+   "id": "u5705",
+   "en": "Takashi Ohara",
+   "flags": [],
+   "notes": "Additional cast."
+  },
+  {
+   "id": "u5706",
+   "en": "Naoki Mizutani",
+   "flags": [],
+   "notes": "Additional cast."
+  },
+  {
+   "id": "u5707",
+   "en": "Fumihiro Okabayashi",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Additional cast; reading of the given name inferred."
+  },
+  {
+   "id": "u5708",
+   "en": "Kana Akutsu",
+   "flags": [],
+   "notes": "Additional cast."
+  },
+  {
+   "id": "u5709",
+   "en": "Seiko Ueda",
+   "flags": [],
+   "notes": "Additional cast."
+  },
+  {
+   "id": "u5710",
+   "en": "Junko Shimeno",
+   "flags": [],
+   "notes": "Additional cast."
+  },
+  {
+   "id": "u5711",
+   "en": "- Sound Production -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5712",
+   "en": "Techno Sound Ltd.",
+   "flags": [],
+   "notes": "Yuugen-gaisha = Ltd."
+  },
+  {
+   "id": "u5713",
+   "en": "Sound Director",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5714",
+   "en": "Teruaki Sugawara",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5715",
+   "en": "Recording",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5716",
+   "en": "Makoto Uchida",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5717",
+   "en": "Recording Assistant",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5718",
+   "en": "Tatsuya Sato (Tricycle Studio)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5719",
+   "en": "Production Desk",
+   "flags": [],
+   "notes": "Anime production-desk role."
+  },
+  {
+   "id": "u5720",
+   "en": "Kyoko Shimamura",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5721",
+   "en": "Recording Studio",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5722",
+   "en": "Tricycle Studio",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5723",
+   "en": "- Game Staff -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5724",
+   "en": "Artdink Corporation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5725",
+   "en": "Studio Artdink Corporation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5726",
+   "en": "- Project Leader -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5727",
+   "en": "Masanori Yagi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5728",
+   "en": "- Director -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5729",
+   "en": "Masahito Horiai",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5730",
+   "en": "- Main Programmer -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5731",
+   "en": "Shinji Takegami",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5732",
+   "en": "- Programmers -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5733",
+   "en": "Tadanori Kaneie",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Reading inferred."
+  },
+  {
+   "id": "u5734",
+   "en": "Yuki Kotani",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Reading of the given name inferred."
+  },
+  {
+   "id": "u5735",
+   "en": "Takashi Ito",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5736",
+   "en": "Shinichi Seo",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Reading of the surname inferred (Seo/Senoo)."
+  },
+  {
+   "id": "u5737",
+   "en": "Yoshikazu Tanaka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5738",
+   "en": "- Graphic Design Leaders -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5739",
+   "en": "Masashi Saito",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5740",
+   "en": "Hyo-cheol Seok",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Surname read as the Korean 'Seok'; reading inferred."
+  },
+  {
+   "id": "u5741",
+   "en": "- Modeling Leader -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5742",
+   "en": "Naoyuki Takano",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5743",
+   "en": "- Motion Design Leader -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5744",
+   "en": "Hiroki Nishi (Peace Co., Ltd.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5745",
+   "en": "- Character Illustration Leader -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5746",
+   "en": "Akito Oki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5747",
+   "en": "- Interface Design Leader -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5748",
+   "en": "Koji Sakaguchi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5749",
+   "en": "- Graphic Designers -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5750",
+   "en": "Koji Nakayama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5751",
+   "en": "Nao Tsukamoto (Magic Pot Ltd.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5752",
+   "en": "Noriko Kobayashi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5753",
+   "en": "- Graphics Support -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5754",
+   "en": "Tetsuya Kuroda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5755",
+   "en": "Masashi Nakajima",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5756",
+   "en": "Kenichi Abiko",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5757",
+   "en": "Katsutoshi Yasui",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5758",
+   "en": "Rei Uruma",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5759",
+   "en": "Toshiyuki Hiroe",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5760",
+   "en": "Ayumu Kurita (digitalfactor)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5761",
+   "en": "Haruki Murata",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5762",
+   "en": "- Planners -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5763",
+   "en": "Takahiko Sakurai",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5764",
+   "en": "Yasuo Omura",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5765",
+   "en": "- Scripting -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5766",
+   "en": "Sayaka Seo",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Readings inferred."
+  },
+  {
+   "id": "u5767",
+   "en": "Hidekazu Kitazume",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5768",
+   "en": "Hiroyuki Irie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5769",
+   "en": "- Sound -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5770",
+   "en": "Ryuji Nishida",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5771",
+   "en": "Tomoya Sato",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5772",
+   "en": "Norihiro Furukawa (SuperSweep Co., Ltd.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5773",
+   "en": "Kosuke Tanaka (Magic Pot Ltd.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5774",
+   "en": "- Production Assistant -",
+   "flags": [],
+   "notes": "'Seisaku shinkou'."
+  },
+  {
+   "id": "u5775",
+   "en": "Rina Nagai",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5776",
+   "en": "- Test Play Leader -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5777",
+   "en": "Tomoharu Ikeda",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Reading of the given name inferred."
+  },
+  {
+   "id": "u5778",
+   "en": "- Test Play -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5779",
+   "en": "Takahiro Tsuchiya",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5780",
+   "en": "Shugo Miyamoto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5781",
+   "en": "Yohei Sakata",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5782",
+   "en": "Makoto Igarashi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5783",
+   "en": "Kenji Yaginuma",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5784",
+   "en": "- Development Producer -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5785",
+   "en": "Ryoichi Yajima",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5786",
+   "en": "- Original Character Design (Game) -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5787",
+   "en": "Haruhiko Mikimoto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5788",
+   "en": "- Original Character Costume Design Support (Game) -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5789",
+   "en": "Masanari Yuzuka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5790",
+   "en": "- Theme Song -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5791",
+   "en": "\"Get it on-flying rock\"",
+   "flags": [],
+   "notes": "Song title kept as written."
+  },
+  {
+   "id": "u5792",
+   "en": "Sheryl Nome starring May'n & Ranka Lee=Megumi Nakajima",
+   "flags": [],
+   "notes": "Format as MUF's sound test ('Ranka Lee=Megumi Nakajima')."
+  },
+  {
+   "id": "u5793",
+   "en": "Lyrics",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5794",
+   "en": "Music",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5795",
+   "en": "Yoko Kanno",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5796",
+   "en": "Arrangement",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5797",
+   "en": "- Insert Songs -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5798",
+   "en": "\"Do You Remember Love?\"",
+   "flags": [],
+   "notes": "Glossary songs."
+  },
+  {
+   "id": "u5799",
+   "en": "Kazumi Yasui",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5800",
+   "en": "Kazuhiko Kato",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5801",
+   "en": "\"INFORMATION HIGH\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5802",
+   "en": "DAI&KEN=GO→ ",
+   "flags": [],
+   "notes": "Credit name kept as written (full-width ampersand, equals sign made ASCII; trailing space kept)."
+  },
+  {
+   "id": "u5803",
+   "en": "\"Totsugeki Love Heart\"",
+   "flags": [],
+   "notes": "Glossary songs."
+  },
+  {
+   "id": "u5804",
+   "en": "Atsutaka Kawauchi",
+   "flags": [],
+   "notes": "Glossary note on Totsugeki Love Heart."
+  },
+  {
+   "id": "u5805",
+   "en": "\"HOLY LONELY LIGHT\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5806",
+   "en": "Hideki Sudo",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5807",
+   "en": "\"MY FRIENDS\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5808",
+   "en": "Miki Kawano",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5809",
+   "en": "\"TRY AGAIN\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5810",
+   "en": "K.Inojo, Kyoko Fukuyama ",
+   "flags": [],
+   "notes": "Trailing space kept as in the source."
+  },
+  {
+   "id": "u5811",
+   "en": "Yoshiki Fukuyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5812",
+   "en": "\"DYNAMITE EXPLOSION\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5813",
+   "en": "Toshiyuki Furuya",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5814",
+   "en": "\"Sagittarius ☆ 9 PM Don't be late\"",
+   "flags": [],
+   "notes": "Glossary songs."
+  },
+  {
+   "id": "u5815",
+   "en": "Sheryl Nome starring May'n",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5816",
+   "en": "Dai Sato, hal",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5817",
+   "en": "Mike Sugiyama",
+   "flags": [],
+   "notes": "Credited in katakana as one word."
+  },
+  {
+   "id": "u5818",
+   "en": "\"Lion\"",
+   "flags": [],
+   "notes": "Glossary songs."
+  },
+  {
+   "id": "u5819",
+   "en": "\"Infinity\"",
+   "flags": [],
+   "notes": "Glossary songs."
+  },
+  {
+   "id": "u5820",
+   "en": "Yuho Iwasato",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5821",
+   "en": "\"Northern Cross\"",
+   "flags": [],
+   "notes": "Glossary songs."
+  },
+  {
+   "id": "u5822",
+   "en": "Yuho Iwasato, Gabriela Robin",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5823",
+   "en": "\"Seikan Hikou\"",
+   "flags": [],
+   "notes": "Glossary songs (status needs_check)."
+  },
+  {
+   "id": "u5824",
+   "en": "Ranka Lee=Megumi Nakajima",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5825",
+   "en": "Takashi Matsumoto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5826",
+   "en": "\"Universal Bunny\"",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Not in the glossary."
+  },
+  {
+   "id": "u5827",
+   "en": "Shihori, PA-NON",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5828",
+   "en": "\"Obelisk\"",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Not in the glossary."
+  },
+  {
+   "id": "u5829",
+   "en": "\"Aimo O.C\"",
+   "flags": [],
+   "notes": "Glossary has 'Aimo'; 'O.C' kept as written."
+  },
+  {
+   "id": "u5830",
+   "en": "Maaya Sakamoto, Gabriela Robin",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5831",
+   "en": "- Original Work -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5832",
+   "en": "Shoji Kawamori / Studio Nue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5833",
+   "en": "- Supervisor -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5834",
+   "en": "Shoji Kawamori",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5835",
+   "en": "- Cooperation -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5836",
+   "en": "Big West Co., Ltd.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5837",
+   "en": "Kamon Onishi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5838",
+   "en": "Big West Frontier Co., Ltd.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5839",
+   "en": "Tatsuya Miyake",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5840",
+   "en": "Shinichi Hirai",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5841",
+   "en": "Sayuri Koda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5842",
+   "en": "Toshiko Shibuya",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5843",
+   "en": "Kumiko Sakakura",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5844",
+   "en": "Satelight Inc.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5845",
+   "en": "Michiaki Sato",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5846",
+   "en": "Tomisaburo Hashimoto",
+   "flags": [],
+   "notes": "Given name in katakana in the source."
+  },
+  {
+   "id": "u5847",
+   "en": "Hiroshi Yagishita",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5848",
+   "en": "Yukio Ikeda",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5849",
+   "en": "Yoshiki Ito",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5850",
+   "en": "Takashi Aotani",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Reading inferred."
+  },
+  {
+   "id": "u5851",
+   "en": "Kenji Sasagawa",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5852",
+   "en": "Flying Dog, Inc.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5853",
+   "en": "Shiro Sasaki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5854",
+   "en": "Yukako Inoue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5855",
+   "en": "Kadokawa Shoten Co., Ltd.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5856",
+   "en": "Soichi Tsuji",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5857",
+   "en": "Kenji Tanaka",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Reading of the given name inferred."
+  },
+  {
+   "id": "u5858",
+   "en": "Bandai Co., Ltd.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5859",
+   "en": "Jun Satoyoshi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5860",
+   "en": "- Quality Assurance -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5861",
+   "en": "Ryo Sakamoto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5862",
+   "en": "Yasuyuki Kuramochi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5863",
+   "en": "Kazuhisa Koizumi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5864",
+   "en": "BEC Co., Ltd. Production Promotion Dept. QA Office",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5865",
+   "en": "Digital Hearts Co., Ltd.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5866",
+   "en": "- Promotion -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5867",
+   "en": "Hirotaka Watanabe",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5868",
+   "en": "Go Kurosawa",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Reading of the given name inferred."
+  },
+  {
+   "id": "u5869",
+   "en": "Rie Mukoyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5870",
+   "en": "Tomoko Miyagawa",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5871",
+   "en": "- Sales -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5872",
+   "en": "Kazuhiro Takabayashi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5873",
+   "en": "Hiroshi Saeki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5874",
+   "en": "Naoki Kumada",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5875",
+   "en": "Masatada Yagi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5876",
+   "en": "Maki Hoshiai",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Reading inferred."
+  },
+  {
+   "id": "u5877",
+   "en": "Hideyuki Yamazaki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5878",
+   "en": "- Special Thanks -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5879",
+   "en": "Tomoaki Imanishi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5880",
+   "en": "Daisuke Uchiyama",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5881",
+   "en": "Kensuke Tsukanaka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5882",
+   "en": "Hidefumi Omino",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Reading of the surname inferred."
+  },
+  {
+   "id": "u5883",
+   "en": "Susumu Wada",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5884",
+   "en": "Momoko Suzuki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5885",
+   "en": "Takeo Isogai",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5886",
+   "en": "Takanobu Terada",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5887",
+   "en": "- Coordinator -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5888",
+   "en": "Hisanori Kunisaki",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5889",
+   "en": "- Producer -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5890",
+   "en": "Kei Hirono",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Reading of the given name inferred."
+  },
+  {
+   "id": "u5891",
+   "en": "- Chief Producer -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5892",
+   "en": "Yoshitaka Goto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5893",
+   "en": "- Executive Producer -",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5894",
+   "en": "Shin Unozawa",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "Staff roll headings (Japanese lenticular brackets) written '- Heading -' in ASCII; square brackets avoided because the gop text uses [tag:N] codes.",
+   "Staff name readings inferred (kanji with several readings, not verified): u5702 Tomo Adachi, u5707 Fumihiro Okabayashi, u5733 Tadanori Kaneie, u5734 Yuki Kotani, u5736 Shinichi Seo, u5740 Hyo-cheol Seok, u5766 Sayaka Seo, u5777 Tomoharu Ikeda, u5850 Takashi Aotani, u5857 Kenji Tanaka, u5868 Go Kurosawa, u5876 Maki Hoshiai, u5882 Hidefumi Omino, u5890 Kei Hirono.",
+   "Campus terms not in the glossary, chosen here: Day Off (kyuuka, u5592), Mind/Technique/Body (course descriptions), course names Trial Course / Space Control Course / Special Tech Course / Pilot Training Course.",
+   "u5570 'Mihoshi Academy' map label is much wider than the Japanese (box about 70 px); fallback 'Mihoshi'.",
+   "u5574 'Deep Akihabara' and u5576 'Tenkumon' are guesses at Frontier place names.",
+   "Short calendar labels (u5582 'Entrance' for the entrance ceremony) compressed to fit 56 px cells."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "San Francisco Area",
+   "Shibuya Area",
+   "Deep Akihabara (Shin-Akihabara pun)",
+   "Beijing Area",
+   "Tenkumon (Sky Gate)",
+   "Observation Pier",
+   "Universal Bunny (song)",
+   "Obelisk (song)",
+   "Aimo O.C (song)",
+   "campus action/stat terms (Day Off, Mind/Technique/Body)"
+  ],
+  "unfinished": []
+ }
+}

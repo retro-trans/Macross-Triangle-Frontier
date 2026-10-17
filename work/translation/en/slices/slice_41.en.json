@@ -1,0 +1,1987 @@
+{
+ "slice": 41,
+ "rows_in_slice": 320,
+ "rows_examined": 320,
+ "rows": [
+  {
+   "id": "u4937",
+   "en": "Klan Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4938",
+   "en": "Klan Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4939",
+   "en": "Klan Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4940",
+   "en": "Klan Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4941",
+   "en": "Klan Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4942",
+   "en": "Klan Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4943",
+   "en": "Klan Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4944",
+   "en": "Klan Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4945",
+   "en": "Klan Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4946",
+   "en": "Klan Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4947",
+   "en": "Klan Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4948",
+   "en": "Klan Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4949",
+   "en": "Klan Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4950",
+   "en": "Klan Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4951",
+   "en": "Klan Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "hazure = miss/dud variant of the Klan Affinity event."
+  },
+  {
+   "id": "u4952",
+   "en": "No Affinity End",
+   "flags": [],
+   "notes": "Ending label: no Affinity ending reached. Affinity per terms.json (provisional)."
+  },
+  {
+   "id": "u4953",
+   "en": "Fighter Tutorial",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4954",
+   "en": "Affinity End (M)",
+   "flags": [],
+   "notes": "Male-player version."
+  },
+  {
+   "id": "u4955",
+   "en": "Affinity End (F)",
+   "flags": [],
+   "notes": "Female-player version."
+  },
+  {
+   "id": "u4956",
+   "en": "Kagura_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4957",
+   "en": "Kagura_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4958",
+   "en": "Kagura_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4959",
+   "en": "Kagura_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4960",
+   "en": "Kagura_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4961",
+   "en": "Kagura_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4962",
+   "en": "Kagura_Disliked Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4963",
+   "en": "Kagura_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4964",
+   "en": "Kagura_Fav Food",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "109 px vs ~101 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u4965",
+   "en": "Kagura_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4966",
+   "en": "Kagura_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4967",
+   "en": "Kagura_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4968",
+   "en": "Kagura_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4969",
+   "en": "Kagura_Swimming",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4970",
+   "en": "Kagura_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4971",
+   "en": "Kagura_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4972",
+   "en": "Kagura_After Class",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "119 px vs ~118 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u4973",
+   "en": "Gary_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4974",
+   "en": "Gary_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4975",
+   "en": "Gary_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4976",
+   "en": "Gary_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4977",
+   "en": "Gary_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4978",
+   "en": "Gary_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4979",
+   "en": "Gary_Disliked Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4980",
+   "en": "Gary_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4981",
+   "en": "Gary_Fav Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4982",
+   "en": "Gary_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4983",
+   "en": "Gary_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4984",
+   "en": "Gary_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4985",
+   "en": "Gary_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4986",
+   "en": "Gary_Swimming",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4987",
+   "en": "Gary_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4988",
+   "en": "Gary_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4989",
+   "en": "Gary_After Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4990",
+   "en": "Gary_Meeting Grace",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4991",
+   "en": "Luis_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4992",
+   "en": "Luis_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4993",
+   "en": "Luis_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4994",
+   "en": "Luis_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4995",
+   "en": "Luis_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4996",
+   "en": "Luis_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4997",
+   "en": "Luis_Disliked Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4998",
+   "en": "Luis_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4999",
+   "en": "Luis_Fav Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5000",
+   "en": "Luis_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5001",
+   "en": "Luis_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5002",
+   "en": "Luis_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5003",
+   "en": "Luis_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5004",
+   "en": "Luis_Swimming",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5005",
+   "en": "Luis_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5006",
+   "en": "Luis_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5007",
+   "en": "Luis_After Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5008",
+   "en": "Luis_After Class 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5009",
+   "en": "Luis_Hobbies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5010",
+   "en": "Luis_Dislikes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5011",
+   "en": "Luis_Training",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5012",
+   "en": "Shirakawa_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5013",
+   "en": "Shirakawa_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5014",
+   "en": "Shirakawa_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5015",
+   "en": "Shirakawa_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5016",
+   "en": "Shirakawa_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5017",
+   "en": "Shirakawa_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5018",
+   "en": "Shirakawa_Disliked Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5019",
+   "en": "Shirakawa_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5020",
+   "en": "Shirakawa_Fav Food",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "131 px vs ~118 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5021",
+   "en": "Shirakawa_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5022",
+   "en": "Shirakawa_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5023",
+   "en": "Shirakawa_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5024",
+   "en": "Shirakawa_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5025",
+   "en": "Shirakawa_Swimming",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "139 px vs ~136 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5026",
+   "en": "Shirakawa_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5027",
+   "en": "Shirakawa_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5028",
+   "en": "Shirakawa_After Class",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "141 px vs ~136 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5029",
+   "en": "Shirakawa_About Ranka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5030",
+   "en": "Hilda_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5031",
+   "en": "Hilda_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5032",
+   "en": "Hilda_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5033",
+   "en": "Hilda_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5034",
+   "en": "Hilda_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5035",
+   "en": "Hilda_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5036",
+   "en": "Hilda_Disliked Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5037",
+   "en": "Hilda_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5038",
+   "en": "Hilda_Fav Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5039",
+   "en": "Hilda_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5040",
+   "en": "Hilda_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5041",
+   "en": "Hilda_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5042",
+   "en": "Hilda_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5043",
+   "en": "Hilda_Swimming",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5044",
+   "en": "Hilda_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5045",
+   "en": "Hilda_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5046",
+   "en": "Hilda_After Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5047",
+   "en": "Hilda_Dislikes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5048",
+   "en": "Hoshimura_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5049",
+   "en": "Hoshimura_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5050",
+   "en": "Hoshimura_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5051",
+   "en": "Hoshimura_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5052",
+   "en": "Hoshimura_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5053",
+   "en": "Hoshimura_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5054",
+   "en": "Hoshimura_Disliked Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5055",
+   "en": "Hoshimura_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5056",
+   "en": "Hoshimura_Fav Food",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "134 px vs ~118 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5057",
+   "en": "Hoshimura_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5058",
+   "en": "Hoshimura_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5059",
+   "en": "Hoshimura_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5060",
+   "en": "Hoshimura_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5061",
+   "en": "Hoshimura_Swimming",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "142 px vs ~136 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5062",
+   "en": "Hoshimura_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5063",
+   "en": "Hoshimura_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5064",
+   "en": "Hoshimura_After Class",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "144 px vs ~136 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5065",
+   "en": "Hoshimura_By the Pool",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5066",
+   "en": "Hoshimura_Weak Points",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5067",
+   "en": "Hoshimura_Tardy Excuse",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5068",
+   "en": "Hoshimura_Phone",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5069",
+   "en": "Hoshimura_Hallway 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5070",
+   "en": "Hoshimura_About Mihoshi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5071",
+   "en": "Yamashiro_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5072",
+   "en": "Yamashiro_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5073",
+   "en": "Yamashiro_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5074",
+   "en": "Yamashiro_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5075",
+   "en": "Yamashiro_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5076",
+   "en": "Yamashiro_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5077",
+   "en": "Yamashiro_Disliked Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5078",
+   "en": "Yamashiro_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5079",
+   "en": "Yamashiro_Fav Food",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "132 px vs ~118 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5080",
+   "en": "Yamashiro_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5081",
+   "en": "Yamashiro_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5082",
+   "en": "Yamashiro_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5083",
+   "en": "Yamashiro_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5084",
+   "en": "Yamashiro_Swimming",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "140 px vs ~136 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5085",
+   "en": "Yamashiro_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5086",
+   "en": "Yamashiro_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5087",
+   "en": "Yamashiro_After Class",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "142 px vs ~136 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5088",
+   "en": "Akimizu_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5089",
+   "en": "Akimizu_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5090",
+   "en": "Akimizu_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5091",
+   "en": "Akimizu_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5092",
+   "en": "Akimizu_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5093",
+   "en": "Akimizu_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5094",
+   "en": "Akimizu_Disliked Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5095",
+   "en": "Akimizu_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5096",
+   "en": "Akimizu_Fav Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5097",
+   "en": "Akimizu_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5098",
+   "en": "Akimizu_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5099",
+   "en": "Akimizu_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5100",
+   "en": "Akimizu_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5101",
+   "en": "Akimizu_Swimming",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5102",
+   "en": "Akimizu_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5103",
+   "en": "Akimizu_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5104",
+   "en": "Akimizu_After Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5105",
+   "en": "Akimizu_About Sheryl",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5106",
+   "en": "Claire_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5107",
+   "en": "Claire_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5108",
+   "en": "Claire_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5109",
+   "en": "Claire_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5110",
+   "en": "Claire_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5111",
+   "en": "Claire_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5112",
+   "en": "Claire_Disliked Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5113",
+   "en": "Claire_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5114",
+   "en": "Claire_Fav Food",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "103 px vs ~101 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5115",
+   "en": "Claire_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5116",
+   "en": "Claire_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5117",
+   "en": "Claire_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5118",
+   "en": "Claire_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5119",
+   "en": "Claire_Swimming",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5120",
+   "en": "Claire_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5121",
+   "en": "Claire_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5122",
+   "en": "Claire_After Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5123",
+   "en": "Claire_Dislikes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5124",
+   "en": "Pinon_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5125",
+   "en": "Pinon_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5126",
+   "en": "Pinon_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5127",
+   "en": "Pinon_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5128",
+   "en": "Pinon_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5129",
+   "en": "Pinon_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5130",
+   "en": "Pinon_Disliked Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5131",
+   "en": "Pinon_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5132",
+   "en": "Pinon_Fav Food",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "102 px vs ~101 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5133",
+   "en": "Pinon_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5134",
+   "en": "Pinon_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5135",
+   "en": "Pinon_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5136",
+   "en": "Pinon_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5137",
+   "en": "Pinon_Swimming",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5138",
+   "en": "Pinon_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5139",
+   "en": "Pinon_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5140",
+   "en": "Pinon_After Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5141",
+   "en": "Pinon_Dislikes",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5142",
+   "en": "Pinon_Pinon-sensei 1",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5143",
+   "en": "Pinon_Pinon-sensei 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5144",
+   "en": "Pinon_After Test 2",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5145",
+   "en": "Alto_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5146",
+   "en": "Alto_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5147",
+   "en": "Alto_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5148",
+   "en": "Alto_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5149",
+   "en": "Alto_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5150",
+   "en": "Alto_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5151",
+   "en": "Alto_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5152",
+   "en": "Alto_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5153",
+   "en": "Alto_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5154",
+   "en": "Alto_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5155",
+   "en": "Alto_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5156",
+   "en": "Alto_Swimming",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5157",
+   "en": "Alto_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5158",
+   "en": "Alto_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5159",
+   "en": "Alto_After Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5160",
+   "en": "Alto_Meeting Brera",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5161",
+   "en": "Alto_Flirting",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5162",
+   "en": "Alto_Good Wife",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5163",
+   "en": "Alto_Ex-Actor",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5164",
+   "en": "Alto_Best Buddies",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5165",
+   "en": "Alto_Meeting Michel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5166",
+   "en": "Alto_With Luca",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5167",
+   "en": "Alto_With Ranka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5168",
+   "en": "Alto_With Michel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5169",
+   "en": "Michel_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5170",
+   "en": "Michel_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5171",
+   "en": "Michel_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5172",
+   "en": "Michel_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5173",
+   "en": "Michel_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5174",
+   "en": "Michel_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5175",
+   "en": "Michel_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5176",
+   "en": "Michel_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5177",
+   "en": "Michel_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5178",
+   "en": "Michel_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5179",
+   "en": "Michel_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5180",
+   "en": "Michel_Swimming",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5181",
+   "en": "Michel_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5182",
+   "en": "Michel_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5183",
+   "en": "Michel_After Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5184",
+   "en": "Michel_Eyesight",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5185",
+   "en": "Michel_About Klan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5186",
+   "en": "Michel_Trouble",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5187",
+   "en": "Michel_Family",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5188",
+   "en": "Michel_Meeting Alto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5189",
+   "en": "Michel_With Klan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5190",
+   "en": "Michel_With Alto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5191",
+   "en": "Michel_With Yamashiro",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5192",
+   "en": "Luca_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5193",
+   "en": "Luca_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5194",
+   "en": "Luca_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5195",
+   "en": "Luca_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5196",
+   "en": "Luca_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5197",
+   "en": "Luca_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5198",
+   "en": "Luca_Disliked Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5199",
+   "en": "Luca_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5200",
+   "en": "Luca_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5201",
+   "en": "Luca_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5202",
+   "en": "Luca_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5203",
+   "en": "Luca_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5204",
+   "en": "Luca_Swimming",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "103 px vs ~101 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5205",
+   "en": "Luca_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5206",
+   "en": "Luca_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5207",
+   "en": "Luca_After Class",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "105 px vs ~101 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5208",
+   "en": "Luca_Coffee",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5209",
+   "en": "Luca_Candy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5210",
+   "en": "Luca_Shorts",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5211",
+   "en": "Luca_Meeting Alto",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5212",
+   "en": "Luca_Nyan-Nyan",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "108 px vs ~101 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5213",
+   "en": "Luca_On Set",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5214",
+   "en": "Luca_With Nanase",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5215",
+   "en": "Nanase_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5216",
+   "en": "Nanase_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5217",
+   "en": "Nanase_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5218",
+   "en": "Nanase_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5219",
+   "en": "Nanase_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5220",
+   "en": "Nanase_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5221",
+   "en": "Nanase_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5222",
+   "en": "Nanase_Fav Food",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "111 px vs ~101 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5223",
+   "en": "Nanase_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5224",
+   "en": "Nanase_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5225",
+   "en": "Nanase_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5226",
+   "en": "Nanase_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5227",
+   "en": "Nanase_Swimming",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "119 px vs ~118 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5228",
+   "en": "Nanase_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5229",
+   "en": "Nanase_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5230",
+   "en": "Nanase_After Class",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "121 px vs ~118 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5231",
+   "en": "Nanase_Bird Human",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "129 px vs ~118 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5232",
+   "en": "Nanase_Mix-Up",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5233",
+   "en": "Nanase_About Ranka",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5234",
+   "en": "Nanase_About Sheryl",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5235",
+   "en": "Nanase_Nyan-Nyan",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "124 px vs ~118 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5236",
+   "en": "Nanase_With Luca",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5237",
+   "en": "Ranka_Vacation",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5238",
+   "en": "Ranka_Concert",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5239",
+   "en": "Ranka_New Planet",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5240",
+   "en": "Ranka_Night_Dawn",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5241",
+   "en": "Ranka_In the Ruins",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5242",
+   "en": "Ranka_After Test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5243",
+   "en": "Ranka_Disliked Food",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5244",
+   "en": "Ranka_Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5245",
+   "en": "Ranka_Fav Food",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "105 px vs ~101 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5246",
+   "en": "Ranka_EX-Gear",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5247",
+   "en": "Ranka_Weekend Plans",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5248",
+   "en": "Ranka_P.E.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5249",
+   "en": "Ranka_Run-In in Town",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5250",
+   "en": "Ranka_Swimming",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5251",
+   "en": "Ranka_Pre-Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5252",
+   "en": "Ranka_Lunchtime",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5253",
+   "en": "Ranka_After Class",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5254",
+   "en": "Ranka_Bird Human",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "123 px vs ~118 px estimated box; wording kept consistent with the other titles."
+  },
+  {
+   "id": "u5255",
+   "en": "Ranka_Meeting Brera",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u5256",
+   "en": "Ranka_Run-In in Town 2",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "Event titles of the form Name_Topic (gop_ev_nml): the underscore is kept from the Japanese; these look like internal event names (likely shown in an event list), so Name_Topic was kept rather than reworded.",
+   "Topic wording is the same for every character so the list reads consistently; where a long English name (Shirakawa, Hoshimura, Yamashiro) pushes a row a few px over the estimated box, the row is flagged uncertain rather than given a different wording.",
+   "natsuyasumi topic = 'Vacation' (Summer Break did not fit any box); shinya_souchou = 'Night_Dawn'; houkago = 'After Class' (After School was 17 px over); zagaku-mae = 'Pre-Class'; koubutsu = 'Fav Food' (over by up to 16 px).",
+   "u4937-u4951 hazure rendered 'Miss' (dud variant of the Klan Affinity event); u4954/u4955 'Affinity End (M)/(F)' (yuukou end, male/female player).",
+   "u5142/u5143 keep the honorific: 'Pinon_Pinon-sensei 1/2'.",
+   "u5161 nanpa rendered 'Flirting' (who flirts is not settled by the title alone).",
+   "u5162 ii okusan = 'Good Wife'; u5163 moto geinoujin = 'Ex-Actor' (Alto's kabuki past)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

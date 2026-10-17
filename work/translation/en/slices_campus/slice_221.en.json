@@ -1,0 +1,404 @@
+{
+ "slice": 221,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c16119",
+   "en": "(Next class is physics, huh......)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16120",
+   "en": "Ugh... I was working on it last night\nand never put it in my bag...",
+   "flags": [],
+   "notes": "Male scene. Player realises the physics homework is still at home."
+  },
+  {
+   "id": "c16121",
+   "en": "\\p-kun,\nwhat's wrong? Holding your head like that...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16122",
+   "en": "Claire-senpai... The thing is...\nI left my physics assignment at home...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16123",
+   "en": "Silly... You went to all the trouble of doing it,\nbut it's no use if you forget it.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16124",
+   "en": "I have nothing to say for myself...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16125",
+   "en": "Physics, right...? I think I've got mine in my locker.\nWait right here a sec.",
+   "flags": [],
+   "notes": "Shared male/female. Claire means her own old assignment (next row: 'my old one')."
+  },
+  {
+   "id": "c16126",
+   "en": "Here. It's my old one, but if you copy\nthis part, you should be fine, right?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16127",
+   "en": "I wrote some notes in it, but don't mind them.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16128",
+   "en": "Th-thank you so much!",
+   "flags": [],
+   "notes": "x7: also thanks for praise in scd_com_207/611/722; kept generic."
+  },
+  {
+   "id": "c16129",
+   "en": "Oh, and as thanks, you owe me\na cafe latte at Silver Moon, okay?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16130",
+   "en": "O-okay, got it!",
+   "flags": [],
+   "notes": "x6: also answers Klan in nml_kln_020 and scd_com_104; kept generic."
+  },
+  {
+   "id": "c16131",
+   "en": "(...Claire-senpai has pretty handwriting too~)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16132",
+   "en": "Ugh... I was working on it last night\nand never put it in my bag~...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16133",
+   "en": "\\p-chan,\nwhat's wrong? Holding your head like that...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16134",
+   "en": "Waaah...",
+   "flags": [],
+   "notes": "Female scene. Crying sound (een)."
+  },
+  {
+   "id": "c16135",
+   "en": "There, there, don't cry...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16136",
+   "en": "(...Claire-senpai's handwriting is pretty too~)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16137",
+   "en": "(Lunch break at last~ I'm starving...)",
+   "flags": [],
+   "notes": "x3: also nml_myk_016 (male)."
+  },
+  {
+   "id": "c16138",
+   "en": "\\p-kun,\nwhat's wrong? You look kind of down.",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16139",
+   "en": "I skipped breakfast this morning,\nso I'm starving...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16140",
+   "en": "Is it really okay for me to have this?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Shared male/female. In the male script it also appears once right after c16139, before anything is offered (script order or an unused branch); the line is written for its normal place after Claire offers the bread."
+  },
+  {
+   "id": "c16141",
+   "en": "My, what a loud rumble.",
+   "flags": [],
+   "notes": "Shared male/female. The player's stomach growls."
+  },
+  {
+   "id": "c16142",
+   "en": "Well then, I'll give you this.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16143",
+   "en": "Oh, it's bread...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16144",
+   "en": "It's a chocolate cornet.\nIt's sweet and really tasty, you know.",
+   "flags": [],
+   "notes": "Shared male/female. choko korone: horn-shaped pastry filled with chocolate cream."
+  },
+  {
+   "id": "c16145",
+   "en": "I've still got three more, so it's fine.\nSee you, then.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16146",
+   "en": "(Claire-senpai looks like a goddess to me...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16147",
+   "en": "\\p-chan,\nwhat's wrong? You look kind of down.",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16148",
+   "en": "Ahaha... How embarrassing...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16149",
+   "en": "Oh, it's bread...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16150",
+   "en": "...Is it really okay for me to have this?",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16151",
+   "en": "(Classes are over, so maybe I'll stop\nsomewhere on the way home?)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16152",
+   "en": "Oh, \\p-kun.\nHeading home now?",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16153",
+   "en": "Go straight home, no detours, okay?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16154",
+   "en": "Aww~",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16155",
+   "en": "Hehehe, just kidding.",
+   "flags": [],
+   "notes": "Shared male/female. Claire's laugh as in earlier slices."
+  },
+  {
+   "id": "c16156",
+   "en": "Are you stopping somewhere on the way home\ntoo, Senpai?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16157",
+   "en": "I'm planning to have tea with Yuu.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16158",
+   "en": "With Akimizu? You two sure are close.",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16159",
+   "en": "Jealous?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16160",
+   "en": "W-Well... I mean... yeah...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16161",
+   "en": "Well then, Yuu's waiting for me,\nso I'll get going.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16162",
+   "en": "(Maybe I'll grab a coffee or something\nbefore heading home too.)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16163",
+   "en": "Oh, \\p-chan.\nHeading home now?",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16164",
+   "en": "Aww~!",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16165",
+   "en": "You two really are close, aren't you?",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16166",
+   "en": "(Maybe I'll grab a coffee or something\nbefore heading home too.)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16167",
+   "en": "(Phew~ Getting out in nature like this\nonce in a while isn't bad.)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16168",
+   "en": "Oh? If it isn't \\p-kun.",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16169",
+   "en": "Oh, Claire-senpai!\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16170",
+   "en": "I thought I'd read a book outside for a bit.",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16171",
+   "en": "Oh, really?\n...Huh? Claire-senpai,\nthere's something on your shoulder.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16172",
+   "en": "My shoulder? What is it...?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16173",
+   "en": "Ah, looks like it's a bug.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16174",
+   "en": "A-A bug......",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16175",
+   "en": "KYAAAAAAAAAAAAAH!!!!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16176",
+   "en": "(I never thought Claire-senpai would scream\nlike that. She really can't stand bugs.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x3: the player's inner monologue (female wording). In both variants it also sits mid-scene under Claire's name plate, right after her scream (likely a script slip); written as the player's monologue, gender-neutral, so it reads the same in all three places."
+  },
+  {
+   "id": "c16177",
+   "en": "Listen. Don't you dare tell anyone\nthat I screamed like that.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16178",
+   "en": "As long as you understand.\nW-Well, see you.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16179",
+   "en": "(Who'd have thought Claire-senpai would scream\nlike that? She really can't stand bugs, huh.)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16180",
+   "en": "(Phew~ Getting out in nature like this\nonce in a while isn't bad at all.)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16181",
+   "en": "Oh? If it isn't \\p-chan.",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16182",
+   "en": "I thought I'd read a book outside for a bit, you see.",
+   "flags": [],
+   "notes": "Female scene."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c16140: also appears in the male script right after the player says he skipped breakfast, before Claire offers anything; written for its normal place.",
+   "c16176: player monologue that also appears under Claire's name plate mid-scene in both variants; kept as the player's monologue, gender-neutral."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

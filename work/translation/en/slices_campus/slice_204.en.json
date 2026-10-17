@@ -1,0 +1,501 @@
+{
+ "slice": 204,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c14915",
+   "en": "(Hmm, I came to Silver Moon,\nbut it's boring all by myself.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14916",
+   "en": "(I know, maybe I'll invite Hoshimura.)",
+   "flags": [],
+   "notes": "Male. Used in frd_yui_113 and 114."
+  },
+  {
+   "id": "c14917",
+   "en": "Hello...?\nWhat's up, \\p?",
+   "flags": [],
+   "notes": "Shared male/female. Phone call; Yui is awkward after frd_yui_111."
+  },
+  {
+   "id": "c14918",
+   "en": "Oh, Hoshimura.\nI'm at Silver Moon right now.\nWant to come over?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14919",
+   "en": "I'd like to, but I've got something to do...\nS-sorry...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14920",
+   "en": "Oh, I see.\nThen it can't be helped.\nI'll ask you again sometime.",
+   "flags": [],
+   "notes": "Male. Used in frd_yui_113 and 114."
+  },
+  {
+   "id": "c14921",
+   "en": "Y-yeah...... Bye.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14922",
+   "en": "(Well, if she's busy, it can't be helped.\nI'll just enjoy some tea by myself today...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14923",
+   "en": "(Hmm, I came to Silver Moon,\nbut it's boring all by myself.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14924",
+   "en": "(I know, maybe I'll invite Yui.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14925",
+   "en": "Oh, Yui.\nI'm at Silver Moon right now.\nWant to come over?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14926",
+   "en": "Oh, I see.\nThen it can't be helped.\nI'll ask you again sometime.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14927",
+   "en": "(Well, if she's busy, it can't be helped.\nI'll just enjoy some tea by myself today...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14928",
+   "en": "(Hmm, I came to Folmo,\nbut it's boring all by myself.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14929",
+   "en": "Oh, Hoshimura.\nI'm at Folmo right now.\nWant to come over?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14930",
+   "en": "(Well, if she's busy, it can't be helped.\nI'll just enjoy some shopping by myself today...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14931",
+   "en": "(Hmm, I came to Folmo,\nbut it's boring all by myself.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14932",
+   "en": "Oh, Yui.\nI'm at Folmo right now.\nWant to come over?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14933",
+   "en": "(Well, if she's busy, it can't be helped.\nI'll just enjoy some shopping by myself today...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14934",
+   "en": "(Let's see, the next make-up class is......)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14935",
+   "en": "Oh, Hoshimura.\nPerfect timing.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14936",
+   "en": "Wh-what is it? \\p?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14937",
+   "en": "What's our next class again?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14938",
+   "en": "Th-the next class is...!\n'Tis Yamashiro-sensei's Lectures, forsooth!",
+   "flags": [],
+   "notes": "Shared male/female. de gozaru yo: samurai-style archaic ending, kept archaic."
+  },
+  {
+   "id": "c14939",
+   "en": "Oh, right, so it was.\nThanks, Hoshimura.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14940",
+   "en": "Y-yeah... Don't mention it!\nS-see ya!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14941",
+   "en": "Huh! Oh, Hoshimura...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14942",
+   "en": "(Hmm... Hoshimura's still\nkind of awkward around me...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14943",
+   "en": "Oh, Yui.\nPerfect timing.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14944",
+   "en": "What's our next class again?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14945",
+   "en": "Oh, right, so it was.\nThanks, Yui.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14946",
+   "en": "Huh! Oh, Yui...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14947",
+   "en": "(Hmm... Yui's still\nkind of awkward around me...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14948",
+   "en": "Oh, right, so it was.\nThanks a lot, Yui.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14949",
+   "en": "Yeah, don't mention it!\nS-see ya!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14950",
+   "en": "(I came shopping in Deep Akihabara, but\nI've already bought everything I wanted...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14951",
+   "en": "Heyyy, Hoshimuraaa~",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14952",
+   "en": "Fweh? \\p!?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14953",
+   "en": "Making the rounds of the junk shops\nagain today?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14954",
+   "en": "Y-yeah...\nIt's a sale day, after all.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14955",
+   "en": "I see.\nThen I'll come along too......",
+   "flags": [],
+   "notes": "Male. Cut off by Yui."
+  },
+  {
+   "id": "c14956",
+   "en": "N-no, I'm just heading home now...\nS-see ya!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14957",
+   "en": "(I came shopping in Deep Akihabara, but\nI've already bought everything I wanted...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14958",
+   "en": "Heyyy, Yuiii~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14959",
+   "en": "Making the rounds of the junk shops\nagain today?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14960",
+   "en": "I see.\nThen I'll come along too......",
+   "flags": [],
+   "notes": "Female. Cut off by Yui."
+  },
+  {
+   "id": "c14961",
+   "en": "(Phew, classes are over for today...\nNow there's just that thing left...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14962",
+   "en": "(Even if it's a school-related errand,\nI can't believe Akimizu agreed\nto come with me...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14963",
+   "en": "(We agreed to meet at the school gate\nafter school, but maybe I'm a little early?)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14964",
+   "en": "(Huh? What's going on?\nAkimizu isn't here yet...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14965",
+   "en": "(It's already ten minutes past\nour meeting time, but...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14966",
+   "en": "(Did I get the meeting place wrong?\nEven so, I've got no idea where else to go...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14967",
+   "en": "(I'll wait just a little longer...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14968",
+   "en": "(She's not coming... I wonder why...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14969",
+   "en": "(If she's not coming, there's nothing for it.\nGuess I'll go out on my own.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14970",
+   "en": "...m sor... ...ryyy",
+   "flags": [],
+   "notes": "Shared male/female. Yuu shouting gomen nasai from far away, only fragments audible."
+  },
+  {
+   "id": "c14971",
+   "en": "(Hm...?)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14972",
+   "en": "I'm sorry, I'm so, so sorry...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14973",
+   "en": "I was just about to give up and go out\non my own, so I'm glad you made it.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14974",
+   "en": "I never thought I'd be this late...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14975",
+   "en": "Did something happen?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14976",
+   "en": "Yeah.\nRight as I left the classroom, Gary-sensei\nasked me to run an errand for him...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14977",
+   "en": "Ah, I see, so that's why...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14978",
+   "en": "And right after I finished that,\nClaire-senpai stopped me and lectured me\nabout the way I wear my uniform...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14979",
+   "en": "Oh, that too...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14980",
+   "en": "So then I was hurrying to the school gate\nwhen Yui-chan asked me to help her out\nwith modding her EX-Gear...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14981",
+   "en": "When I finally got out of the building,\nLuis-san explained all sorts of things\nto me about \"Tomorrow's Sky\"...",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Shared male/female. Asu no Sora, in book-title quotes in the Japanese; not in the glossary."
+  },
+  {
+   "id": "c14982",
+   "en": "And that's why I was late.\nI'm really sorry.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14983",
+   "en": "No, I totally understand why.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14984",
+   "en": "When someone asks me for something,\nI just can't say no...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14985",
+   "en": "Um, I get it now, so let's head out.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14986",
+   "en": "Oh, that's right!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14987",
+   "en": "Things were hectic, but we managed\nto finish the errand somehow...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14988",
+   "en": "I'm really sorry about today.\nI'll make it up to you properly next time...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14989",
+   "en": "No, don't worry about it.\nI'm not bothered either.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14990",
+   "en": "Oh, look at the time! I have to get home!\nSee you!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c14991",
+   "en": "Yeah, see you tomorrow!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14992",
+   "en": "(Akimizu's surprisingly... huh...)",
+   "flags": [],
+   "notes": "Male. The Japanese deliberately leaves out the adjective; kept unfinished."
+  },
+  {
+   "id": "c14993",
+   "en": "(Phew, classes are over for today...\nNow there's just that thing left...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14994",
+   "en": "(Still, it's a big help that Yuu's\ncoming along with me.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c14938: de gozaru yo (samurai speech from a flustered Yui) rendered \"'Tis ... forsooth!\".",
+   "c14970: fragmentary far-off \"gomen nasai\" rendered \"...m sor... ...ryyy\".",
+   "c14992: deliberate gap in the Japanese (\"Akimizu, unexpectedly ... huh\") kept as a gap."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Asu no Sora (c14981, something Luis explains; rendered \"Tomorrow's Sky\")"
+  ],
+  "unfinished": []
+ }
+}

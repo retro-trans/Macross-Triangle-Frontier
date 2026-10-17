@@ -1,0 +1,448 @@
+{
+ "slice": 241,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c17470",
+   "en": "(I forgot today's class is in another room.\nGotta hurry!)",
+   "flags": [],
+   "notes": "idou kyoushitsu: a class held in a different room."
+  },
+  {
+   "id": "c17471",
+   "en": "Oof!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17472",
+   "en": "Owww...\nS-Sorry, Luis-san...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17473",
+   "en": "Not a bad tackle...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17474",
+   "en": "But a mountain like me won't budge\nfrom a little bump like that!\nCome at me one more time!!",
+   "flags": [],
+   "notes": "Echoes Luis's 'mountain called Luis Fernando' line (frd_lis_003)."
+  },
+  {
+   "id": "c17475",
+   "en": "Um... Sorry, I'm in a hurry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17476",
+   "en": "Aw, that's cold, Fresh Boy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17477",
+   "en": "But you've got your own path\nto walk too, don't you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17478",
+   "en": "Go!\nGo out there and blaze your own trail!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17479",
+   "en": "O-Okay...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17480",
+   "en": "(And come to think of it, Luis-san...\nwhy is he just hanging around\nthe school hallway like it's normal?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17481",
+   "en": "(I forgot today's class is in another room.\nGotta hurry!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17482",
+   "en": "Ugh...\nS-Sorry, Luis-san...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17483",
+   "en": "Aw, that's cold, Fresh Girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17484",
+   "en": "(And come to think of it, Luis-san...\nwhy is he just hanging around\nthe school hallway like it's normal?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17485",
+   "en": "(What should I have for lunch today...)",
+   "flags": [],
+   "notes": "Shared with nml_mcl_021."
+  },
+  {
+   "id": "c17486",
+   "en": "What's with the worried face,\nFresh Boy?",
+   "flags": [],
+   "notes": "Luis uses the loanword 'worry' (uoorii na kao)."
+  },
+  {
+   "id": "c17487",
+   "en": "Oh, Luis-san.\nI was just trying to decide what to have for lunch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17488",
+   "en": "Talk about perfect timing!\nI was just about to go grab a chili dog.\nWhat do you say, wanna come eat with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17489",
+   "en": "Sure, then I'll tag along.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17490",
+   "en": "By the way, Luis-san, are you into\njunk food like chili dogs?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17491",
+   "en": "Yeah, I like 'em...\nNo, not 'like'... it's LOVE!\nThat's what this feeling of mine is!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17492",
+   "en": "L-Love...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17493",
+   "en": "Whoops, is 'love' still a bit too early\nfor a boy like you?\nWhatever, let's get a move on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17494",
+   "en": "('Love', huh...\nI've sure never had romantic feelings\nfor food, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17495",
+   "en": "(What should I have for lunch today...)",
+   "flags": [],
+   "notes": "Shared with nml_mcl_021."
+  },
+  {
+   "id": "c17496",
+   "en": "What's with the worried face,\nFresh Girl?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17497",
+   "en": "Whoops, is 'love' still a bit too early\nfor a girl like you?\nWhatever, let's get a move on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17498",
+   "en": "('Love', huh...\nI've sure never had romantic feelings\nfor food, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17499",
+   "en": "(Phew, that EX-Gear training class\nwore me out...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17500",
+   "en": "Yo, Fresh Boy.\nWearing an EX-Gear, huh? Lookin' slick!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17501",
+   "en": "All right, let me wear that slick EX-Gear too.\nC'mon, lend it here and let me try it on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17502",
+   "en": "Huh? Um, no... With your build, Luis-san,\nyou'd never fit into my EX-Gear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17503",
+   "en": "Don't be so stingy.\nI'll make up for that part with passion.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17504",
+   "en": "(I don't think that's something\npassion can fix...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17505",
+   "en": "All riiight, let's try this baby on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17506",
+   "en": "Ah, Luis-san,\ndon't handle it so roughly...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17507",
+   "en": "(I hope my EX-Gear doesn't break...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17508",
+   "en": "(Phew, that EX-Gear training class\nwore me out...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17509",
+   "en": "Yo, Fresh Girl.\nWearing an EX-Gear, huh? Lookin' slick!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17510",
+   "en": "Huh? Um, no... With your build, Luis-san,\nyou'd never fit into my EX-Gear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17511",
+   "en": "(I hope my EX-Gear doesn't break...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17512",
+   "en": "(Come to think of it, how does Luis-san\nspend his days off?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17513",
+   "en": "Luis-san, how do you\nspend your days off?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17514",
+   "en": "Same way I spend any other day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17515",
+   "en": "After all, every day's pretty much a day off for me!\nHa ha ha ha ha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17516",
+   "en": "(That's no laughing matter... Luis-san......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17517",
+   "en": "(Fifty laps around the field in PE class\nis way too much...\nHilda-sensei......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17518",
+   "en": "If a little thing like this tires you out,\nyou've still got a long way to go, Fresh Boy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17519",
+   "en": "L-Luis-san!?\nWhat on earth are you doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17520",
+   "en": "Isn't it obvious? I'm running laps\naround the field with you guys, of course!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17521",
+   "en": "(Is it really okay for him to just\nbarge into a class like this?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17522",
+   "en": "Sure, the finish line might be close,\nbut this ain't enough to set my passion ablaze!\nNow I get serious-aaaaah!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17523",
+   "en": "W-Wait, Luis-saaaaan!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17524",
+   "en": "(Looks like he ran right off out of the school...\nI've got another class next,\nso I guess I'll head back to the classroom......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17525",
+   "en": "If a little thing like this tires you out,\nyou've still got a long way to go, Fresh Girl!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17526",
+   "en": "(Looks like he ran right off out of the school...\nI've got another class next,\nso I guess I'll head back to the classroom......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17527",
+   "en": "(Nyan-Nyan's Galaxy Ramen\nreally was superb...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17528",
+   "en": "(Wait, is that Luis-san?)",
+   "flags": [],
+   "notes": "Shared with nml_lis_017, both genders."
+  },
+  {
+   "id": "c17529",
+   "en": "Luis-san, what are you doing\nin front of Nyan-Nyan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17530",
+   "en": "Oh, just... a little something...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17531",
+   "en": "Nyan-Nyan's always looked after me, so I've been\ntrying to think of some way to repay 'em, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17532",
+   "en": "Repay them?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17533",
+   "en": "Seeing you just gave me an idea!\nWith this, I might be able to pay 'em back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17534",
+   "en": "How are you going to repay them?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17535",
+   "en": "I put on one of Nyan-Nyan's China dresses, see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17536",
+   "en": "Um, wait a minute...\nYou mean you'd put on a women's China dress, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17537",
+   "en": "Well, obviously, Fresh Boy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17538",
+   "en": "I-I really think you'd better not...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17539",
+   "en": "(That's not repaying them,\nthat's just sabotaging their business, Luis-san...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17540",
+   "en": "(Nyan-Nyan's Galaxy Ramen\nreally was superb...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c17541",
+   "en": "Well, obviously, Fresh Girl?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c17533: 'Seeing you just gave me an idea' - the scene never says what about the player sparked Luis's China-dress idea; kept literal.",
+   "c17480/c17484: inner monologue opens by naming Luis-san then continues in the third person, as the Japanese does."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

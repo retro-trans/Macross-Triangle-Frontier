@@ -1,0 +1,499 @@
+{
+ "slice": 301,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c21643",
+   "en": "It's a party, after all,\nso let's enjoy it to the fullest.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21644",
+   "en": "A Christmas like this sounds fun too, doesn't it?\nCome on, let's hurry to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21645",
+   "en": "Yes, it was a really fun party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21646",
+   "en": "It really turned into a great Christmas, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21647",
+   "en": "I hope we can spend next year like this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21648",
+   "en": "Shall we head home soon?\nSee you next year, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21649",
+   "en": "(I promised Miyuki we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21650",
+   "en": "Merry Christmas,\n\\p-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21651",
+   "en": "Merry Christmas,\nMiyuki.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21652",
+   "en": "But are you sure you want to spend\nChristmas with someone like me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21653",
+   "en": "It really turned into a great Christmas, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21654",
+   "en": "(I promised Hilda-sensei we'd go to today's\nparty together, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21655",
+   "en": "Merry Christmas,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21656",
+   "en": "Merry Christmas,\nHilda-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21657",
+   "en": "It's a party, after all.\nI intend to enjoy myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21658",
+   "en": "What are you going on about?\nCome on, we're heading to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21659",
+   "en": "Yes, it was.\nI do hope we can spend next year like this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21660",
+   "en": "Time to head home, I suppose.\nSee you next year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21661",
+   "en": "A Christmas like this isn't bad once in a while.\nCome on, we're heading to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21662",
+   "en": "(I promised Hoshimura we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21663",
+   "en": "Meeerry Christmaaaas!!\n\\p!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21664",
+   "en": "Merry Christmas,\nHoshimura.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21665",
+   "en": "It's a party, after all!\nLet's stuff ourselves with the feast\nand party it up big time~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21666",
+   "en": "A Christmas like this sounds like fun, so why not!\nCome on, off to the party, let's go-go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21667",
+   "en": "Wow, wow, who'd have thought it'd get\nthat wild? Even Yui-san's surprised!",
+   "flags": [],
+   "notes": "Yui refers to herself in the third person with -san, kept."
+  },
+  {
+   "id": "c21668",
+   "en": "It really turned into a great Christmas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21669",
+   "en": "Yeah!\nI hope we can spend next year like this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21670",
+   "en": "Welp, time to head home.\nSee you next year!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21671",
+   "en": "(I promised Yui we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21672",
+   "en": "Yaaay! Meeerry Christmaaas!!\n\\p!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21673",
+   "en": "Merry Christmas, Yui.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21674",
+   "en": "It's a party, after all!\nLet's stuff ourselves with the feast\nand party it up big time!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21675",
+   "en": "Yup, yup!\nI hope we can spend next year like this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21676",
+   "en": "(I promised Yamashiro-sensei we'd go to today's\nparty together, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21677",
+   "en": "Merry Christmas,\nYamashiro-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21678",
+   "en": "It's a party, after all.\nI'll look the other way if you let loose\na little.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21679",
+   "en": "Th-thank you very much.\nBut are you sure you want to spend\nChristmas with someone like me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21680",
+   "en": "A Christmas like this isn't bad.\nNow, let's get to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21681",
+   "en": "That was quite a lively party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21682",
+   "en": "Yes, it really turned into a great Christmas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21683",
+   "en": "Well, time to head home, I suppose.\nSee you next year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21684",
+   "en": "Th-thank you very much.\nBut are you sure you want to spend\nChristmas with someone like me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21685",
+   "en": "A Christmas like this sounds fun, doesn't it?\nNow, let's get to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21686",
+   "en": "(I promised Akimizu we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21687",
+   "en": "Merry Christmas,\nAkimizu.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21688",
+   "en": "Yeah.\nBut are you sure you want to spend\nChristmas with someone like me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21689",
+   "en": "Huh? That's no problem at all!\nCome on, let's hurry to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21690",
+   "en": "That's right.\nI hope we can spend next year like this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21691",
+   "en": "Shall we head home soon?\nSee you next year, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21692",
+   "en": "Yeah, see you next year!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21693",
+   "en": "(I promised Yuu we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21694",
+   "en": "Merry Christmas,\nYuu.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21695",
+   "en": "That's right.\nIt'd be nice if we could spend next year\nlike this too, wouldn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21696",
+   "en": "Yeah, see you next year!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21697",
+   "en": "(I promised Claire-senpai we'd go to today's\nparty together, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21698",
+   "en": "Merry Christmas,\n\\p-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21699",
+   "en": "Merry Christmas,\nClaire-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21700",
+   "en": "It's a party, after all,\nso let's have ourselves a good time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21701",
+   "en": "A Christmas like this sounds fun, doesn't it?\nCome on, let's hurry to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21702",
+   "en": "That really was a fun party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21703",
+   "en": "It turned into a great Christmas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21704",
+   "en": "I hope we can spend next year like this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21705",
+   "en": "Well, shall we head home?\nSee you next year, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21706",
+   "en": "Merry Christmas,\n\\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21707",
+   "en": "(I promised Pinon-chan we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21708",
+   "en": "Merry Christmas,\nPinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21709",
+   "en": "It's a party today.\nI'm going to enjoy it as much as I can!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21710",
+   "en": "Well, a Christmas like this isn't so bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21711",
+   "en": "Come on, we're going to the party. Hurry up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21712",
+   "en": "That wasn't half bad as parties go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21713",
+   "en": "Yeah, it really turned into a great Christmas.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21714",
+   "en": "Indeed.\nI hope we can spend next year like this too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21715",
+   "en": "Yeah, see you next year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21716",
+   "en": "Yeah.\nBut are you sure you want to spend\nChristmas with someone like me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21717",
+   "en": "(I promised Alto we'd go to today's party\ntogether, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21718",
+   "en": "Merry Christmas,\nAlto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21719",
+   "en": "It's a party, after all.\nMight as well enjoy it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21720",
+   "en": "What are you talking about?\nCome on, let's hurry to the party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21721",
+   "en": "Well, that was a pretty fun party.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21722",
+   "en": "Yeah, well.\nI hope we can spend next year like this too.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c21650: shared by Shirakawa, Akimizu and Nanase (female player) and by Luca (both player genders): 'Merry Christmas, \\p-san.' fits all.",
+   "c21655: shared by Hilda, Yamashiro, Pinon, Alto and Klan; c21683 by Yamashiro, Pinon, Alto and Klan: kept neutral enough for each voice.",
+   "c21667: Yui calls herself 'Yui-san' in the third person; kept with the honorific.",
+   "c21666: Yui's 'rettsura go' rendered 'let's go-go!'.",
+   "c21688/c21716/c21652: player's 'sekkaku no Christmas wo boku/watashi nanka to' rendered 'are you sure you want to spend Christmas with someone like me?' across all partner variants."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

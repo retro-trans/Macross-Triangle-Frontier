@@ -1,0 +1,501 @@
+{
+ "slice": 45,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c03288",
+   "en": "O-oh, I see...\nSo how was my singing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03289",
+   "en": "Th-that's harsh, Sheryl-san!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03290",
+   "en": "\\p!\nHurry up and get ready!!",
+   "flags": [],
+   "notes": "??? (woman) = Sheryl in the dream."
+  },
+  {
+   "id": "c03291",
+   "en": "Sheryl!\nWhat do you mean, get ready...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03292",
+   "en": "For the concert, obviously!\nThe real thing's about to start!!",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03293",
+   "en": "Concert? What's that?",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03294",
+   "en": "Quit playing dumb!\nHurry up and change into your costume!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03295",
+   "en": "H-hey, wait, these are women's clothes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03296",
+   "en": "Of course they are!",
+   "flags": [],
+   "notes": "Both genders (female: Ranka's costume)."
+  },
+  {
+   "id": "c03297",
+   "en": "O-of course they are? I'm a guy, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03298",
+   "en": "Cross-dressing is all the rage these days!\nYou know that much, don't you!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03299",
+   "en": "I-I don't know anything about that!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03300",
+   "en": "No way, I am absolutely not changing!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03301",
+   "en": "Never mind that, just change already!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03302",
+   "en": "N-no violence!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03303",
+   "en": "What a guy. You just won't accept your fate,\nwill you...",
+   "flags": [],
+   "notes": "Oujougiwa no warui otoko."
+  },
+  {
+   "id": "c03304",
+   "en": "H-hey, wait! Don't try to undress me~!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c03305",
+   "en": "Hey, quit thrashing around!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03306",
+   "en": "Nooo-waaaay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03307",
+   "en": "Huh!!!",
+   "flags": [],
+   "notes": "Waking with a start."
+  },
+  {
+   "id": "c03308",
+   "en": "Sleeping during a briefing?\nYou've got some nerve.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03309",
+   "en": "Sigh... I'm not bailing you out...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03310",
+   "en": "Are you really that happy to be performing\nin Sheryl's concert?",
+   "flags": [],
+   "notes": "The player talked in their sleep. Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03311",
+   "en": "Ahahaha... haha...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03312",
+   "en": "A hundred laps around the hangar in EX-Gear!!!\nGet going, right now!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03313",
+   "en": "(Waking up from the dream didn't make it\nany better~!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03314",
+   "en": "\\p-chan!\nHurry up and get ready!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03315",
+   "en": "Sheryl-san!\nWhat do you mean, get ready...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03316",
+   "en": "Concert? What are you talking about?",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03317",
+   "en": "H-hey, wait, this is Ranka-chan's costume!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03318",
+   "en": "O-of course it is?\nI'm not Ranka-chan, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03319",
+   "en": "You inherited the stage name\n\"Ranka Lee the Second,\" didn't you!",
+   "flags": [],
+   "notes": "Shuumei: kabuki-style name succession (the next row picks up on it)."
+  },
+  {
+   "id": "c03320",
+   "en": "I-I don't know anything about that!!\nAnd what's with \"the Second\"...?\nIs Ranka-chan a kabuki actor or something??",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03321",
+   "en": "Nooo, I am absolutely not changing!\nA costume this cute won't look good on me!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03322",
+   "en": "(Waking up from the dream didn't make it\nany better~!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03323",
+   "en": "...You finally showed up,\n\\p.",
+   "flags": [],
+   "notes": "Also ext_she_007 (male)."
+  },
+  {
+   "id": "c03324",
+   "en": "Huh, Sheryl... What's up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03325",
+   "en": "...I've been waiting for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03326",
+   "en": "*stare*...",
+   "flags": [],
+   "notes": "Jirojiro."
+  },
+  {
+   "id": "c03327",
+   "en": "Please don't stare at me so obviously...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03328",
+   "en": "...Isn't there something you ought to tell me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03329",
+   "en": "Sigh... You're so stubborn...\nNo, maybe you're just dense...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x8: Sheryl, and also tagged PLAYER/none right after the scene ends (ext_she_005/007), apparently the player echoing her words."
+  },
+  {
+   "id": "c03330",
+   "en": "I heard an interesting rumor... That you've been\nhanging out with that woman a lot, and leaving\nout the great Sheryl-sama!",
+   "flags": [],
+   "notes": "Sheryl calls herself 'kono Sheryl-sama'."
+  },
+  {
+   "id": "c03331",
+   "en": "Playing dumb? You've got some nerve...\nJust you wait till next time!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03332",
+   "en": "Got it!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03333",
+   "en": "Ah, yes... Understood...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03334",
+   "en": "...You finally showed up,\n\\p-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03335",
+   "en": "Huh? Sheryl-san... What's the matter?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03336",
+   "en": "...I've been waiting for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03337",
+   "en": "(Th-this is so embarrassing...)",
+   "flags": [],
+   "notes": "Under Sheryl's stare."
+  },
+  {
+   "id": "c03338",
+   "en": "Sheryl~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03339",
+   "en": "\\p...\nWhat do you want, out here of all places?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03340",
+   "en": "What about you, Sheryl? What are you doing,\nhanging around in front of Nyan-Nyan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03341",
+   "en": "I-I'm not hanging around!\nI was thinking of going in, but I just couldn't\nfind the right moment...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03342",
+   "en": "Then why don't you just go in?",
+   "flags": [],
+   "notes": "x3: also ext_yui_004 (male), ext_yuu_004 (female)."
+  },
+  {
+   "id": "c03343",
+   "en": "I'm not comfortable walking into a place like this\nall by myself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03344",
+   "en": "I'd go in on my own, though~\nWant to go in with me, then?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03345",
+   "en": "...Now there's an idea!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03346",
+   "en": "Come on, let's go!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03347",
+   "en": "Today the great Sheryl-sama is treating you,\nso you'd better be grateful, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03348",
+   "en": "Huh!\nReally!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03349",
+   "en": "I hardly ever do favors like this, you know?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03350",
+   "en": "Thank you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03351",
+   "en": "Hey, boss!\nTwenty servings of maguro buns, please~",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Masutaa (the shopkeeper) rendered 'boss'."
+  },
+  {
+   "id": "c03352",
+   "en": "Th-that's way too many, isn't it!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03353",
+   "en": "With Chinese food, it's good manners\nto leave a little on the plate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03354",
+   "en": "You sure can put it away.\nThat makes treating you worth it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03355",
+   "en": "You eat a ton too, Sheryl. You're so skinny,\nso where does all that food go...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03356",
+   "en": "For concerts, your body is your capital.",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c03357",
+   "en": "Wow~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03358",
+   "en": "Shall we head home soon...?\nExcuse me, could you bring me the check?",
+   "flags": [],
+   "notes": "Ten'in-san (the clerk) addressed: 'Excuse me'."
+  },
+  {
+   "id": "c03359",
+   "en": "...Hmm, that's cheap.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03360",
+   "en": "Let's see, my wallet, my wallet...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03361",
+   "en": "Oh my...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03362",
+   "en": "My wallet's gone...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03363",
+   "en": "...Ugh... I left it at the hotel...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03364",
+   "en": "I-I don't have that kind of money either!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03365",
+   "en": "...I wonder if they'd let me work\na temporary part-time shift...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03366",
+   "en": "You have my gratitude!",
+   "flags": [],
+   "notes": "Sheryl waiting tables in her own haughty style."
+  },
+  {
+   "id": "c03367",
+   "en": "So nice of you to come.",
+   "flags": [],
+   "notes": "Sheryl greeting customers."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c03329: x8, tagged Sheryl and also PLAYER/none once per scene (after Sheryl leaves, ext_she_005/007); written as Sheryl's line, which also works as the player echoing her.",
+   "c03351: Sheryl's 'Masutaa!' to the Nyan-Nyan shopkeeper rendered 'Hey, boss!'.",
+   "c03366/c03367: Sheryl's waitress lines kept in her haughty register ('You have my gratitude!', 'So nice of you to come.')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

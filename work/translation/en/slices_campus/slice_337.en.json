@@ -1,0 +1,427 @@
+{
+ "slice": 337,
+ "rows_in_slice": 69,
+ "rows_examined": 69,
+ "rows": [
+  {
+   "id": "c24412",
+   "en": "(Alto's acrobatics in today's EX-Gear class\nwere so sharp. Seriously amazing.)",
+   "flags": [],
+   "notes": "Japanese indents the second line inside the brackets with a full-width space; indent dropped."
+  },
+  {
+   "id": "c24413",
+   "en": "Alto, that acrobatic move you pulled in class\ntoday came off really clean.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24414",
+   "en": "Heh, I was just in good form today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24415",
+   "en": "Really...",
+   "flags": [],
+   "notes": "Michel, leading into the next row."
+  },
+  {
+   "id": "c24416",
+   "en": "You're not half bad, Princess.",
+   "flags": [],
+   "notes": "Hime = Alto's teasing nickname 'Princess' (glossary alias)."
+  },
+  {
+   "id": "c24417",
+   "en": "Michael......!\nHow many times have I told you not to call me\nPrincess...",
+   "flags": [],
+   "notes": "Alto uses the full name Mihaeru: 'Michael' per glossary en (Michael Blanc)."
+  },
+  {
+   "id": "c24418",
+   "en": "Don't get so worked up.\nYou'll ruin that pretty face of yours.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24419",
+   "en": "Knock it off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24420",
+   "en": "Whoops, guess I took the joke a little too far.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24421",
+   "en": "What were you even trying to do, Michel?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24422",
+   "en": "Well, you see,\nhe wanted to compliment Alto-senpai, but he\nwas too embarrassed to just say it straight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24423",
+   "en": "Right, Michel-senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24424",
+   "en": "No comment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24425",
+   "en": "(Geez, he's so hard to read.\nHe should just compliment him straight out...)",
+   "flags": [],
+   "notes": "Japanese indents the second line inside the brackets with a full-width space; indent dropped."
+  },
+  {
+   "id": "c24426",
+   "en": "(Hmm,\nI forgot until I took my first class of the year,\nbut it's already a new year: 2059, huh.)",
+   "flags": [],
+   "notes": "Japanese indents the second line inside the brackets with a full-width space; indent dropped."
+  },
+  {
+   "id": "c24427",
+   "en": "(Last year was so hectic, with me joining S.M.S.\nand all, it doesn't even feel like the year\nchanged.)",
+   "flags": [],
+   "notes": "Japanese indents the second line inside the brackets with a full-width space; indent dropped."
+  },
+  {
+   "id": "c24428",
+   "en": "(Well, then again, a lot happened,\nso I guess it was a pretty full year.)",
+   "flags": [],
+   "notes": "Japanese indents the second line inside the brackets with a full-width space; indent dropped."
+  },
+  {
+   "id": "c24429",
+   "en": "(I wonder what kind of year this one'll be.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24430",
+   "en": "(A sudden meeting? That's unusual.\nDid something happen?)",
+   "flags": [],
+   "notes": "Japanese indents the second line inside the brackets with a full-width space; indent dropped."
+  },
+  {
+   "id": "c24431",
+   "en": "All right, everyone's here.\nLet's start the emergency meeting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24432",
+   "en": "We've received a request to perform EX-Gear\nacrobatics at a certain singer's\nconcert.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24433",
+   "en": "Whether we accept this request or not\nis today's topic.\nLet me hear what you all think.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24434",
+   "en": "(Hmm... let's see......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24435",
+   "en": "Wait, huh?\nWhose concert is it, anyway?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24436",
+   "en": "Whoops, I forgot to explain that.\nI don't know if you guys have heard of her,\nbut......",
+   "flags": [],
+   "notes": "Singer is Sheryl (female, next row)."
+  },
+  {
+   "id": "c24437",
+   "en": "It's a concert by someone called Sheryl Nome.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24438",
+   "en": "WHAT?!!!!!!!",
+   "flags": [],
+   "notes": "Pilot Students in chorus."
+  },
+  {
+   "id": "c24439",
+   "en": "Word is, people call her the Galactic Fairy\nor something.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24440",
+   "en": "H-hey,\n...S...seriously,\nit's Sheryl's concert?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24441",
+   "en": "Yeah, seriously.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24442",
+   "en": "........................",
+   "flags": [],
+   "notes": "Michel here; also the player in scd_tst_005."
+  },
+  {
+   "id": "c24443",
+   "en": "WOOOOOOOOOOOOOOOOOOH!!!!!!",
+   "flags": [],
+   "notes": "Pilot Students in chorus."
+  },
+  {
+   "id": "c24444",
+   "en": "Heh, you guys reacted even better than I\nexpected. Couldn't be happier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24445",
+   "en": "I don't think I even need to ask,\nbut we're doing the show, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24446",
+   "en": "No proble~~~~~~m!!!!",
+   "flags": [],
+   "notes": "Pilot Students in chorus."
+  },
+  {
+   "id": "c24447",
+   "en": "Geez, you guys are so easy to read.\nMakes my job a lot easier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24448",
+   "en": "Hehe, they sure are.",
+   "flags": [],
+   "notes": "Luca agreeing with Michel."
+  },
+  {
+   "id": "c24449",
+   "en": "............Tch!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24450",
+   "en": "And what about Alto-kun over there with the\nsour face? Not happy about doing the concert?",
+   "flags": [],
+   "notes": "Michel says Alto-kun (mock-polite)."
+  },
+  {
+   "id": "c24451",
+   "en": "......Not really.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24452",
+   "en": "Getting that mad will ruin your cute little\nface, Prin-cess Alto.",
+   "flags": [],
+   "notes": "Hi-me spelled out with a dot for emphasis; rendered 'Prin-cess'."
+  },
+  {
+   "id": "c24453",
+   "en": "Grr!\nMi~cha~el~~!!",
+   "flags": [],
+   "notes": "Name drawn out syllable by syllable (Mihaeru = Michael)."
+  },
+  {
+   "id": "c24454",
+   "en": "Geez, you two are always fighting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24455",
+   "en": "Will the concert be okay with things like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24456",
+   "en": "It'll be fine.\nIf nothing else, everyone's skills are the\nreal deal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24457",
+   "en": "Guess that's true.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24458",
+   "en": "(Sheryl Nome......\nI get to meet the Galactic Fairy.)",
+   "flags": [],
+   "notes": "Japanese indents the second line inside the brackets with a full-width space; indent dropped."
+  },
+  {
+   "id": "c24459",
+   "en": "(I should at least get ready to ask for\nher autograph...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24460",
+   "en": "(Oh, today's Valentine's Day.\nIf I don't get chocolate from anybody,\nI'll be pretty bummed...)",
+   "flags": [],
+   "notes": "Japanese indents the second line inside the brackets with a full-width space; indent dropped."
+  },
+  {
+   "id": "c24461",
+   "en": "...........................",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24462",
+   "en": "So this is where you all were, \\p-kun.",
+   "flags": [],
+   "notes": "\\p-kun tachi = the player and the others."
+  },
+  {
+   "id": "c24463",
+   "en": "What's up, Nanase?\nYou need something from us?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24464",
+   "en": "Since today's Valentine's Day,\nI brought chocolate for everyone, but......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24465",
+   "en": "It's homemade, so I'm sorry if it's not\nto your taste.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24466",
+   "en": "Y-you made it yourself, Nanase-san?!\nThen it's definitely going to be delicious!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24467",
+   "en": "Thank you, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24468",
+   "en": "Nanase-san......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24469",
+   "en": "Okay, next I'll give Ranka-san my true-love\ncho...!",
+   "flags": [],
+   "notes": "Honmei choco, cut off mid-word as in the Japanese."
+  },
+  {
+   "id": "c24470",
+   "en": "......I mean,\nI have to go give her some friend chocolate,\nso if you'll excuse me.",
+   "flags": [],
+   "notes": "Tomo-choco = friend chocolate (for Ranka)."
+  },
+  {
+   "id": "c24471",
+   "en": "Lucky you, Luca.\nNanase gave you some 'ob-li-ga-tion' chocolate.",
+   "flags": [],
+   "notes": "Gi-ri choco spelled out for emphasis: obligation chocolate."
+  },
+  {
+   "id": "c24472",
+   "en": "Haah~ Nanase-san's homemade chocolate......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24473",
+   "en": "Good grief......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24474",
+   "en": "So, Princess, aren't you gonna give me\nany chocolate?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24475",
+   "en": "Like hell I would!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24476",
+   "en": "Aww~ Alto, you're not giving us any chocolate?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24477",
+   "en": "And I thought this year I'd finally get some\nfrom Alto......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24478",
+   "en": "You guys......!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24479",
+   "en": "Ahahahahaha!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c24480",
+   "en": "(Phew, well, I guess I'm lucky I got any\nat all?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

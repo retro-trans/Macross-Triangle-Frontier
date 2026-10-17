@@ -1,0 +1,532 @@
+{
+ "slice": 49,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "pf_she/214",
+   "en": "No... how could this happen...",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"sonna konna koto tte\" read as \"sonna, konna koto tte\"."
+  },
+  {
+   "id": "pf_she/215",
+   "en": "Honestly, what are you doing!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/216",
+   "en": "Amazing. That's a pro for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/217",
+   "en": "Looks like your skills are the real deal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1000",
+   "en": "What is this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1001",
+   "en": "No way! Why now, at such an important time!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1002",
+   "en": "Don't tell me... the Vajra are after this place...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1003",
+   "en": "",
+   "flags": [
+    "no_subtitle"
+   ],
+   "notes": "Gasp."
+  },
+  {
+   "id": "pf_she/1005",
+   "en": "OK! You don't have to tell me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1006",
+   "en": "Thank you. I got to sing my heart out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1007",
+   "en": "Alto, Ranka means to make herself the decoy!",
+   "flags": [],
+   "notes": "Honorific -chan dropped."
+  },
+  {
+   "id": "pf_she/1008",
+   "en": "Let's go, Ranka!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1100",
+   "en": "Hold the L button and press the R button to release the lock-on.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1101",
+   "en": "I'll explain the Special Maneuvers for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1102",
+   "en": "You've reached the target area. That's it for Special Maneuvers training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1103",
+   "en": "Training time's up. That's it for Special Maneuvers training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1104",
+   "en": "From here on, Sheryl Nome...",
+   "flags": [],
+   "notes": "Continues in Ranka 1105 \"...and Ranka Lee will walk you through the controls together!\""
+  },
+  {
+   "id": "pf_she/1105",
+   "en": "That covers the basics of Special Maneuvers 3.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1106",
+   "en": "That covers the basics of Special Maneuvers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1107",
+   "en": "Sorry, Ranka. My work here is done. I can't explain anything. Nothing...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Odd line in the tutorial banter; translated as heard. Context unclear."
+  },
+  {
+   "id": "pf_she/1108",
+   "en": "Ranka...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1109",
+   "en": "Ranka, explanations can't save the galaxy.",
+   "flags": [],
+   "notes": "Answers Ranka 1112."
+  },
+  {
+   "id": "pf_she/1110",
+   "en": "Oh, fine. Let's go, Ranka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1111",
+   "en": "First up: Charge Guard. The moment you input it, enemy attacks can't hit you for a while.",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "\"Charge Guard\" not in the glossary; alternate take of 1112 (Charge Break)."
+  },
+  {
+   "id": "pf_she/1112",
+   "en": "First up: Charge Break. The moment you input it, enemy attacks can't hit you for a while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1113",
+   "en": "While you're invincible, an aura appears around your unit, so it's easy to tell.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"jiki\" in the wrong kanji (period); meant own unit."
+  },
+  {
+   "id": "pf_she/1114",
+   "en": "That's not all. When it ends, your SP Gauge is gone and you can't use any moves that need it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1115",
+   "en": "So you can only use Charge Guard once per mission.",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "\"Charge Guard\" not in the glossary; alternate take of 1116."
+  },
+  {
+   "id": "pf_she/1116",
+   "en": "So you can only use Charge Break once per mission.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1117",
+   "en": "It's handy when you really need to break out of an enemy combo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1118",
+   "en": "Next, I'll explain Single Lock.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1119",
+   "en": "With multi-lock special weapons, hold L and keep holding Circle to lock on to your current target several times, not several targets.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1120",
+   "en": "It uses the same buttons as the old Charge Shot. Charge Shot is gone this time.",
+   "flags": [],
+   "notes": "zensaku: the previous game."
+  },
+  {
+   "id": "pf_she/1121",
+   "en": "...and to focus your fire on one target, switching to Single Lock might be best.",
+   "flags": [],
+   "notes": "Continues Ranka 1121 (multi-lock-on for crowds)."
+  },
+  {
+   "id": "pf_she/1122",
+   "en": "The lock-on cursor changes during Plus Lock, so keep an eye on it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1123",
+   "en": "Combine it with Single Lock and you could deal heavy damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1124",
+   "en": "That covers the new Special Maneuvers and the changed controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1125",
+   "en": "Alto...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "pf_she/1126",
+   "en": "You tried to understand as best you could. And all I did was explain.",
+   "flags": [
+    "uncertain",
+    "whisper_doubt"
+   ],
+   "notes": "Transcript reads oddly; translated as heard. Comes after Ranka 1125-1126 calling Sheryl, who was lost in thought (1125 \"Alto...\")."
+  },
+  {
+   "id": "pf_she/1127",
+   "en": "I said I'll explain it again, so listen properly this time. I rarely do this kind of service.",
+   "flags": [],
+   "notes": "Matches the in-game note that missed explanations can be replayed."
+  },
+  {
+   "id": "pf_she/1128",
+   "en": "Now I know I can just explain it again, too.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literal: \"because I also understood that I just have to explain once more\". Context unclear."
+  },
+  {
+   "id": "pf_she/1129",
+   "en": "With SP Gauge to spare, hold the L and R buttons and press Triangle to use Charge Guard.",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "\"Charge Guard\" not in the glossary; alternate take of 1130."
+  },
+  {
+   "id": "pf_she/1130",
+   "en": "With SP Gauge to spare, hold the L and R buttons and press Triangle to use Charge Break.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/000",
+   "en": "Now that it's come to this, I'll go all the way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/001",
+   "en": "Sounds interesting! I'll lend a hand!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/002",
+   "en": "Let me cover the story! Please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/100",
+   "en": "I'll get footage that'll have the viewers crying with joy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/101",
+   "en": "My report is going to end this battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/102",
+   "en": "Telling the truth: that's my job as a journalist.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/106",
+   "en": "Great! Photo op!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/107",
+   "en": "I'll get a beautiful shot! Go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/108",
+   "en": "Show me how cool you can be!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/139",
+   "en": "That's way too reckless!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/140",
+   "en": "Keep this up and you'll get shot down.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/141",
+   "en": "No need to charge in. I'll get a good shot of you anyway.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/142",
+   "en": "Damn! What are you doing!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/143",
+   "en": "No... an ally got taken out...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/144",
+   "en": "You think viewers want to see a scene like this!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/148",
+   "en": "Reinforcements, right on cue! The crowd will love this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/149",
+   "en": "Reinforcements are here! This should turn the tide!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/150",
+   "en": "Looks like friendlies came to help us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/154",
+   "en": "I want everyone to know the truth about this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/155",
+   "en": "I'll change the world with this huge scoop!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/156",
+   "en": "I just did my job as a newsman.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/175",
+   "en": "Yahoo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/176",
+   "en": "Just watch! I'll knock your socks off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/177",
+   "en": "We've still got an ace up our sleeve!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/178",
+   "en": "Okay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/179",
+   "en": "OK!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/180",
+   "en": "I just have to do it, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/181",
+   "en": "Don't forget you're my subject, Captain!",
+   "flags": [],
+   "notes": "hishatai: the person he is filming."
+  },
+  {
+   "id": "p2_hbk/182",
+   "en": "Take this a little more seriously, Captain!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/183",
+   "en": "Captain, you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/184",
+   "en": "What good is it if the Captain gets shot down!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/185",
+   "en": "This is no joke!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/186",
+   "en": "I don't want a scoop like this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/190",
+   "en": "I can use this shot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/191",
+   "en": "Got it all on camera.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_hbk/192",
+   "en": "Way to go, Silvie!",
+   "flags": [],
+   "notes": "Glossary spelling Silvie (avoid Sylvie)."
+  },
+  {
+   "id": "p2_hbk/194",
+   "en": "This is a real scoop!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"dokudane\" is surely \"tokudane\" (scoop)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3860 pf_she/1107: Odd line in the tutorial banter; translated as heard. Context unclear.",
+   "row 3864 pf_she/1111: \"Charge Guard\" not in the glossary; alternate take of 1112 (Charge Break).",
+   "row 3868 pf_she/1115: \"Charge Guard\" not in the glossary; alternate take of 1116.",
+   "row 3879 pf_she/1126: Transcript reads oddly; translated as heard. Comes after Ranka 1125-1126 calling Sheryl, who was lost in thought (1125 \"Alto...\").",
+   "row 3881 pf_she/1128: Literal: \"because I also understood that I just have to explain once more\". Context unclear.",
+   "row 3882 pf_she/1129: \"Charge Guard\" not in the glossary; alternate take of 1130."
+  ],
+  "whisper_doubt": [
+   "row 3841 pf_she/214: Transcript \"sonna konna koto tte\" read as \"sonna, konna koto tte\".",
+   "row 3866 pf_she/1113: Transcript \"jiki\" in the wrong kanji (period); meant own unit.",
+   "row 3879 pf_she/1126: Transcript reads oddly; translated as heard. Comes after Ranka 1125-1126 calling Sheryl, who was lost in thought (1125 \"Alto...\").",
+   "row 3920 p2_hbk/194: Transcript \"dokudane\" is surely \"tokudane\" (scoop)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Charge Guard (chaaji gaado): see slice 48 (rows 3864, 3868, 3882)."
+  ],
+  "unfinished": []
+ }
+}

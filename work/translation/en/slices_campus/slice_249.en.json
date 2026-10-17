@@ -1,0 +1,382 @@
+{
+ "slice": 249,
+ "rows_in_slice": 61,
+ "rows_examined": 61,
+ "rows": [
+  {
+   "id": "c18001",
+   "en": "(Now then, what should I do for fun today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18002",
+   "en": "Oh, Michel.\nYou out shopping or something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18003",
+   "en": "Yeah, a part-time job is sending me to the\nartificial island, so I came to pick up a swimsuit\nand whatever else I might need.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18004",
+   "en": "Though I'd rather hit the beach on my own time\nto have fun, not for work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18005",
+   "en": "Have fun? Come on, all you'd do\nis hit on girls anyway, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18006",
+   "en": "Obviously.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18007",
+   "en": "Well, I'm done with my shopping for now,\nso I'll head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18008",
+   "en": "Yeah, see ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18009",
+   "en": "(Geez, Michel never changes.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18010",
+   "en": "(Now then, what should I do for fun today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18011",
+   "en": "Oh, Michel-kun.\nAre you out shopping or something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18012",
+   "en": "Have fun? Come on, all you'd do\nis hit on girls anyway, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18013",
+   "en": "Okay, see you.",
+   "flags": [],
+   "notes": "x4: also the player's goodbye to Sheryl (nml_she_023) and to Ranka (Valentine scene)."
+  },
+  {
+   "id": "c18014",
+   "en": "(Geez, Michel-kun never changes.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18015",
+   "en": "(Can't wait for Sheryl's concert...\nI'll actually get to meet the Galactic Fairy!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18016",
+   "en": "What's up, \\p?\nWhat's with that goofy grin?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18017",
+   "en": "Oh, Michel.\nWhen I think about meeting the Galactic Fairy,\nI just can't stop grinning...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18018",
+   "en": "I get that you're excited, but don't get\ncarried away and screw up during the show.",
+   "flags": [],
+   "notes": "honban: the actual performance; the player takes part in Sheryl's concert (Michel mentions the backup dancers)."
+  },
+  {
+   "id": "c18019",
+   "en": "Yeah, I know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18020",
+   "en": "Well, as long as you do...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18021",
+   "en": "Now then, I'd better work out my pickup lines\nfor those lovely backup-dancer ladies while I can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18022",
+   "en": "(Even at a big show like this,\nMichel doesn't change one bit...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18023",
+   "en": "(I can't wait for Sheryl's concert...\nI'll actually get to meet the Galactic Fairy!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18024",
+   "en": "Oh, Michel-kun.\nWhen I think about meeting the Galactic Fairy,\nI just can't stop grinning...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18025",
+   "en": "(Even at a big show like this,\nMichel-kun doesn't change one bit...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18026",
+   "en": "(We finally found it...\na new planet we can live on...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18027",
+   "en": "(I wonder what's waiting for us\non that new planet...\n...I can't help feeling a little uneasy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18028",
+   "en": "Yo, \\p.\nWhat's with that face?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18029",
+   "en": "Well, I'm excited to see what's on the new planet,\nbut I'm a little uneasy too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18030",
+   "en": "Don't worry so much.\nWhatever happens, happens.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18031",
+   "en": "All that's happened is they found a new planet.\nI think you should just go on like usual.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18032",
+   "en": "So with that, I think I'll go enjoy some tea\nwith the lovely ladies, like usual.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18033",
+   "en": "Heh, that's so like you, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18034",
+   "en": "(Yeah, Michel's right.\nI should just go on like usual.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18035",
+   "en": "(We finally found it...\na new planet we can live on...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18036",
+   "en": "(I wonder what's waiting for us\non that new planet...\n...I can't help feeling a little uneasy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18037",
+   "en": "Hehe, that's so like you, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18038",
+   "en": "(Yeah, Michel-kun's right.\nI should just go on like usual.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18039",
+   "en": "(I came to the convenience store for a late-night\nsnack, but is there anything else I need?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18040",
+   "en": "What are you doing out at this hour,\n\\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18041",
+   "en": "Oh, Michel.\nI just came to buy a late-night snack.\nWhat about you, Michel?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18042",
+   "en": "Oh, nothing much. I had a little errand\nto run, and I'm on my way back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18043",
+   "en": "Huh~ So what was the errand?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18044",
+   "en": "Whoa there, prying that far is a little uncool,\ndon't you think?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18045",
+   "en": "Huh? Uncool?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18046",
+   "en": "S-See ya...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18047",
+   "en": "(What on earth was Michel's errand?\nHmm, now I'm curious...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18048",
+   "en": "Oh, Michel-kun.\nI just came to buy a late-night snack.\nWhat about you, Michel-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18049",
+   "en": "S-See you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18050",
+   "en": "(What on earth was Michel-kun's errand?\nHmm, now I'm curious...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18051",
+   "en": "(I never imagined it would be this bad...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18052",
+   "en": "(Oh, Michel's here too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18053",
+   "en": "Damn it! How did it come to this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18054",
+   "en": "Fighting and dying should be the soldiers'\njob alone, damn it! Why... Why...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18055",
+   "en": "Oh, \\p, you were here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18056",
+   "en": "...Sorry.\nThat was pathetic of me to let you see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18057",
+   "en": "Come on, it wasn't pathetic...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18058",
+   "en": "I'm fine now.\n...I won't let them do as they please anymore!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18059",
+   "en": "(That Michel...\nHe's so wound up. Is he really going to be okay...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18060",
+   "en": "(Oh, Michel-kun's here too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18061",
+   "en": "(Michel-kun...\nHe's so wound up. Is he really going to be okay...?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18054: 'tatakau no mo shinu no mo heitai dake de juubun daro' rendered 'Fighting and dying should be the soldiers' job alone, damn it!'; 'damn it' carries the rough 'daro' and Michel's anger (civilians died in the attack).",
+   "c18018/c18021: read as the player taking part in Sheryl's concert (Michel mentions backup dancers); 'honban' = the show."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

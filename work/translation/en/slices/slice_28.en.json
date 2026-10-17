@@ -1,0 +1,498 @@
+{
+ "slice": 28,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u3427",
+   "en": "A rookie operator who makes up for inexperience with natural\ncheer and hard work. Her looks and manner make people think\nshe's younger, which bothers her a lot. (CV: Kimiko Koyama)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3428",
+   "en": "A big-sister operator whose precise orders can be gentle or\nstrict. A bit pushy at times, but she looks after others, and\nthe crew adore her as a big sister. (CV: Tomo Adachi)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3429",
+   "en": "A prodigy operator whose talent was recognized while young.\nShe hates being treated like a child and always strives to be\nan equal. A bit foul-mouthed, but endearing. (CV: Ai Nonaka)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3430",
+   "en": "A skilled operator who judges calmly. His harsh words get him\nmisunderstood; he's just bad at showing emotion and is warm\nat heart. Glasses are his trademark. (CV: Kiyotaka Furushima)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3431",
+   "en": "An elite U.N. Forces officer, chief combat controller of the Macross air wing. A stiff, duty-first type Hikaru treated like an \"old lady,\" she slowly falls for him. (CV: Mika Doi)",
+   "flags": [],
+   "notes": "Misa Hayase (operator). Subject of the last clause is Misa: she grows fond of Hikaru."
+  },
+  {
+   "id": "u3432",
+   "en": "A lieutenant from the New U.N. Forces General Staff, sent to S.M.S. as an observer. Through the battles with the Vajra, she gradually gets back together with her ex, Ozma. (CV: Sanae Kobayashi)",
+   "flags": [],
+   "notes": "Catherine Glass (operator)."
+  },
+  {
+   "id": "u3433",
+   "en": "Macross 7 fleet staff officer, whose vast knowledge made him a key aide. With Captain Max away, he helmed the Battle 7 as acting captain, showing superb skill. (CV: Ryusuke Obayashi)",
+   "flags": [],
+   "notes": "Exsedol Folmo (operator)."
+  },
+  {
+   "id": "u3434",
+   "en": "VF-0 Ghost Booster\nAll-out assault spec using Ghosts as boosters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3435",
+   "en": "VF-0 Reactive Armor\nAdd-on armor with missiles mounted all over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3436",
+   "en": "SV-51 Twin Booster\nDecisive-battle spec fitted with 2 jet boosters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3437",
+   "en": "VF-1 Super Pack (TV)\nBooster units enhance firepower and thrust.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3438",
+   "en": "VF-1 Super Pack (Movie)\nThe Valkyrie's standard gear for space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3439",
+   "en": "VF-1 Strike Pack\nStrike gear only leaders' units may carry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3440",
+   "en": "VF-1 Armored Pack\nAdd-on armor with missiles mounted all over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3441",
+   "en": "VF-11B FAST Pack\nBooster units enhance firepower and thrust.",
+   "flags": [],
+   "notes": "Same description line as u3437/u3444."
+  },
+  {
+   "id": "u3442",
+   "en": "YF-19/VF-19A FAST Pack\nA compact FAST Pack designed for stealth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3443",
+   "en": "YF-21/VF-22 FAST Pack\nA compact FAST Pack designed for stealth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3444",
+   "en": "VF-11C FAST Pack\nBooster units enhance firepower and thrust.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3445",
+   "en": "VF-11 Full Armored\nAdd-on armor with missiles mounted all over.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3446",
+   "en": "VF-11MAXL Kai Sound Booster\nFires sound beams powered by Song Energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3447",
+   "en": "VF-17T Kai Sound Booster\nFires sound beams powered by Song Energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3448",
+   "en": "VF-19 Kai Sound Booster\nFires sound beams powered by Song Energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3449",
+   "en": "VF-17 Super Pack\nGear with weapons upgraded to fight the Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3450",
+   "en": "VF-19 Atmosphere/Space Booster\nGear that works both in and out of the atmosphere.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Booster name is a plain translation (no glossary entry); description shared with u3454."
+  },
+  {
+   "id": "u3451",
+   "en": "VF-25 Super Pack\nThe Messiah's standard gear for space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3452",
+   "en": "VF-25 Super Pack\nKlan wears the Super Pack herself.",
+   "flags": [],
+   "notes": "Klan's giant form fitted with the VF-25 Super Pack."
+  },
+  {
+   "id": "u3453",
+   "en": "VF-25 Armored Pack\nArmored gear that transforms to all 3 modes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3454",
+   "en": "VF-25 Tornado Pack\nGear that works both in and out of the atmosphere.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3455",
+   "en": "Armored Pack (Final Battle Spec)\nFinal-battle spec: Armored plus a sniper rifle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3456",
+   "en": "VF-25 Fold Speaker\nA speaker that amplifies the effects of song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3457",
+   "en": "VF-171EX Armored Pack\nArmored gear loaded with anti-Vajra weapons.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3458",
+   "en": "VF-2SS Super Armed Pack\nSAP: the Valkyrie II's standard equipment.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3459",
+   "en": "SNN Valkyrie Large Booster\nA large booster for the SNN Valkyrie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3460",
+   "en": "U.N. Forces pilot. Shot down by Nora, he washes up on Mayan\nIsland and meets Sara. They clash, but slowly bond.\nA fool who'd risk his life for a woman. (CV: Kenichi Suzumura)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3461",
+   "en": "U.N. Forces ace. A tough survivor of the Unification Wars and\na drinker whose motto is \"Fear booze? Then you can't fight!\"\nAbove all, a man who loves the open sky. (CV: Akira Kamiya)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3462",
+   "en": "Priestess of Mayan Island, Guide of the Wind. Overly hostile\nto outsiders, she's hard on Shin too. But in the fight for AFOS\nfragments, she slowly bonds with him. (CV: Sanae Kobayashi)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3463",
+   "en": "An Anti-U.N. Forces pilot whose family the U.N. Forces killed. Good enough to down Shin twice, she teamed with Ivanov to run rings around the U.N. Forces. (CV: Minami Takayama)",
+   "flags": [],
+   "notes": "Nora Polyansky (female per glossary)."
+  },
+  {
+   "id": "u3464",
+   "en": "Anti-U.N. Forces ace pilot and Focker's former instructor.\nKnown as \"Daisy Ivanov,\" he flies well enough to treat Focker\nas a mere fledgling. (CV: Ryuzaburo Otomo)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3465",
+   "en": "A civilian pilot. Meeting Lynn Minmay, caught in a Zentradi\nattack, he becomes a military pilot to protect her. Indecisive,\nhe wavers between two women. (CV: Kenji Nojima)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3466",
+   "en": "A veteran of the Unification Wars, as strong with drink and\nwomen as in combat. Hikaru's senior, adored as a big brother.\nSkull Squadron's leader and trusty ace. (CV: Akira Kamiya)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3467",
+   "en": "A pilot who shone from his very first sortie. Nickname: Max.\nHe beats the enemy ace Milia in battle, and this leads to him\nlater marrying the alien Milia. A rare talent. (CV: Sho Hayami)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3468",
+   "en": "Ex-Zentradi pilot. She sneaked into the Macross to find the\none who shot her down. She found Max, dueled him and lost.\nHe then proposed, and they married. (CV: Eri Takeda)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3469",
+   "en": "Hikaru's subordinate, a big, happy-go-lucky guy. His jokes\nin battle get him in trouble; Hikaru or Max save him. A cheery,\neasygoing goof, hard to hate. Avg. skill. (CV: Katsumi Suzuki)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3470",
+   "en": "Support-character Misa does not appear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3471",
+   "en": "Poster girl of Chinese diner Nyan-Nyan, she won Miss Macross\nand became a top idol. Free-spirited, she toyed with Hikaru's\ntender crush to her heart's content. (CV: Mari Iijima)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3472",
+   "en": "The top idol of the Macross. Through the \"Minmay Attack,\" she\ncaused a culture shock that ended the interstellar war. A\nlegendary diva remembered for generations. (CV: Mari Iijima)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3473",
+   "en": "Zentradi division commander. Warlike and hotheaded, he rides\nout front himself, bent on sinking the Macross. While many\nchose to live with Earth, he sought battle. (CV: Kosuke Meguro)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3474",
+   "en": "A Meltrandi pilot. Known as \"Milia the Ace,\" she was a crack pilot feared even by Zentradi soldiers. After losing her fight with Max, she marries him. (CV: Eri Takeda)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3475",
+   "en": "U.N. Forces pilot Maximilian Jenius in macronized form. To\ncover the Macross in the final battle with the Boddole Zer Main\nFleet, he flew a Queadluun-Rau with Milia. (CV: Sho Hayami)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3476",
+   "en": "Giants created by the ancient Protoculture through genetic\nengineering. Bred as combatants, they never knew \"Culture,\"\nand overreact when they first encounter it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3477",
+   "en": "Zentradi fleet commander. A master strategist, he corners the\nMacross again and again. Touched by forbidden Culture in that\nfight, he opts to coexist with Earth. (CV: Ryuzaburo Otomo)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3478",
+   "en": "Zentradi fleet commander. Contact with Culture awakened the\nCulture asleep within him. In the final battle he turned on\nBoddole Zer to fight for the Macross. (CV: Ryuzaburo Otomo)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3479",
+   "en": "Zentradi Main Fleet Supreme Commander. Fearing a myth that\nProtoculture contact saps the will to fight, he deems cultured\nhumans Protoculture, to be destroyed. (CV: Osamu Ichikawa)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3480",
+   "en": "Zentradi Main Fleet Supreme Commander, and the central\nbio-unit of his flagship. He grasps a little of Culture, and will\nuse any means, however cruel, to win. (CV: Osamu Ichikawa)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3481",
+   "en": "Chosen as a new fighter's test pilot for his superb flying skill.\nHe grew up with Myung and Guld but cut ties after an incident.\nDalmatian High School's wild child. (CV: Takumi Yamazaki)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3482",
+   "en": "Yang does not appear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3483",
+   "en": "Chief developer of the YF-21, a BDI-system prototype, and its\npilot too. He clashes hard with Isamu over the next-gen fighter\nrace and childhood friend Myung. (CV: Unsho Ishizuka)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3484",
+   "en": "Sharon's producer. Once childhood friends with Isamu and Guld, she cut ties after an incident. Reunited with them on Eden after 7 years, she is torn between the two. (CV: Rika Fukami)",
+   "flags": [],
+   "notes": "tm fixed: 'on Eden 7 years later' read like a place called 'Eden 7'."
+  },
+  {
+   "id": "u3485",
+   "en": "A virtual idol who became the galaxy's No. 1 right after debut.\nWith songs that have a hypnotic effect, she controls people\nand plunges Macross City into chaos.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3486",
+   "en": "\"My profile? You shouldn't go digging into people's pasts. Forget that and listen to my song! Wanna know about me? Listen to my song and you'll get it. Here we go!\" (CV: Nobutoshi Canna)",
+   "flags": [],
+   "notes": "Basara speaking in his own voice; seiyuu romanized as in u3501."
+  },
+  {
+   "id": "u3487",
+   "en": "FIRE BOMBER's new vocalist. Max and Milia's child, she has\nflown Valkyries since she was little, so she's a fine pilot too.\nAt an age where two boys are on her mind. (CV: Tomo Sakurai)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3488",
+   "en": "An elite pilot who joined special assault unit Diamond Force\nyoung. He saw Basara, who sings in battle, as an enemy, but in\ntime trusts him and the power of song. (CV: Takehito Koyasu)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3489",
+   "en": "For his service in the Zentradi war, he became commander of\nthe Macross 7 colony fleet. Though retired, his genius piloting\nis intact, and he flew Valkyries in ops. (CV: Sho Hayami)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3490",
+   "en": "City 7's mayor and a former Zentradi ace pilot. She still sorties\nwhen City 7 is attacked, and citizens back her as their fighting\nmayor. (CV: Eri Takeda)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3491",
+   "en": "Leader of FIRE BOMBER. A former U.N. Forces ace, he left the\nmilitary after an incident. Always backing Basara and Mylene,\nhe claims he's 28, which is doubtful. (CV: Masashi Sugawara)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3492",
+   "en": "FIRE BOMBER's drummer. Taciturn, she rarely speaks, and\nmostly communicates through her drums. A pure-blooded\nZentradi with extraordinary strength.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3493",
+   "en": "Support-character Exsedol does not appear.",
+   "flags": [],
+   "notes": "Same form as the prefilled u3470 ('Support-character Misa does not appear.')."
+  },
+  {
+   "id": "u3494",
+   "en": "Miho Miho does not appear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3495",
+   "en": "Docker does not appear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3496",
+   "en": "Kinryu does not appear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3497",
+   "en": "As Varauta Army commander, he was to raid Macross 7 for\nSpiritia, but he defies Gepelnitchi's orders to awaken one of\nhis comrades, \"Sivil\". (CV: Tomohiro Nishimura)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3498",
+   "en": "He took over the Varauta Army from Gigile and tormented the\nMacross 7 fleet. He dubs all he sees some kind of \"Beauty\". He\ncan fuse with Glavil into his ultimate form. (CV: Akio Suyama)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3499",
+   "en": "Varauta Army Supreme Commander, with the dread power to\ndrain all the galaxy's Spiritia. For his Spiritia Farm Project,\nmeant to give endless Spiritia, he relentlessly hunted Basara.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3500",
+   "en": "A Protodeviln girl. Drawn to Basara's song, she seeks him\nout again and again. In the end she sings with him and evolves\ninto a self-regenerating Spiritia race. (CV: Akiko Nakagawa)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3501",
+   "en": "\"The galaxy sure has some strange folks in it...\" -- Graham\n(CV: Nobutoshi Canna)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3502",
+   "en": "A taciturn man bent only on killing the white Galaxy Whale that\ntook his right arm and his wife. Oddly, he hit it off with Basara,\nwhich surprised even his daughter Elma. (CV: Joji Nakata)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3503",
+   "en": "Liza does not appear.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3504",
+   "en": "A sunny, innocent, slightly ditzy girl from planet Zola who\ndreams of being a pro singer. How she makes it and her name\nrings across the galaxy is a tale for later. (CV: Aya Sakaguchi)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3505",
+   "en": "A high schooler in pilot training who becomes a Valkyrie pilot\nafter a Vajra attack. Born to a famed kabuki line, his gift and\nlooks once had him play female roles. (CV: Yuichi Nakamura)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3506",
+   "en": "Alto's classmate, a crack sniper. Motto: \"Enemies or women, I\nbring down whatever I aim at.\" He and Klan go way back. His\nolder sister was also a soldier and sniper. (CV: Hiroshi Kamiya)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u3450: 'VF-19 Atmosphere/Space Booster' is a plain translation (no glossary entry for this booster).",
+   "u3484: tm changed ('on Eden 7 years later' -> 'on Eden after 7 years') to avoid reading as a planet 'Eden 7'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

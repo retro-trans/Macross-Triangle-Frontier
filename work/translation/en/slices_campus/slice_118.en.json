@@ -1,0 +1,401 @@
+{
+ "slice": 118,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c08702",
+   "en": "Affinity ending.\nLuis male filler.",
+   "flags": [],
+   "notes": "Developer placeholder text under Alto's name plate; translated literally as c08701 / c05506."
+  },
+  {
+   "id": "c08703",
+   "en": "(Kagura-kun gave me a letter...\nC-could it be a love letter?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08704",
+   "en": "(Wait, this letter's from Luis-san?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08705",
+   "en": "(A letter? What's going on?\nLet's see...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08706",
+   "en": "(I came shopping in the Shibuya Area today,\nbut what should I buy?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08707",
+   "en": "(Oh, he's gone...)",
+   "flags": [],
+   "notes": "17 uses; every one is the player watching Luis leave (frd_lis_101-104, scd_com_113)."
+  },
+  {
+   "id": "c08708",
+   "en": "(I'm curious what Luis-san was up to,\nbut I can't exactly go chasing after him.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08709",
+   "en": "(Well, I'm gonna go enjoy some shopping.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08710",
+   "en": "(I'm curious what Luis-san was up to,\nbut I can't exactly go chasing after him.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08711",
+   "en": "(Well, I'm going to go enjoy some shopping.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08712",
+   "en": "(I came to the Observation Pier on a whim,\nbut there's not much to do here.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08713",
+   "en": "(Huh? Wait, it's Luis-san.\nWhat's he doing in a place like this?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08714",
+   "en": "(Well, I guess I'll head home too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08715",
+   "en": "(I came to the Observation Pier on a whim,\nbut there's not much to do here.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08716",
+   "en": "(Huh? Wait, isn't that Luis-san?\nWhat's he doing in a place like this?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08717",
+   "en": "(Well, I guess I'll head home too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08718",
+   "en": "(What should I have for lunch...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08719",
+   "en": "(But still, Luis-san...\nDidn't he just come out of the shower room...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08720",
+   "en": "(W-well, no point worrying about it.\nI'd better hurry and get ready for next class...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08721",
+   "en": "(W-well, no point worrying about it.\nI'd better hurry and get ready for next class...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08722",
+   "en": "(Coming to Central Park always\nputs my mind at ease.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08723",
+   "en": "(But still, Luis-san...\nWasn't he just in a swimsuit...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08724",
+   "en": "(W-well, no point worrying about it...\nI'll just enjoy my walk.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08725",
+   "en": "(Coming to Central Park always\nputs my mind at ease.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08726",
+   "en": "(W-well, no point worrying about it...\nI'll just enjoy my walk.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08727",
+   "en": "(Deep Akihabara has all kinds of shops.\nIt's a fun place.)",
+   "flags": [],
+   "notes": "Deep Akihabara is provisional in locations.json."
+  },
+  {
+   "id": "c08728",
+   "en": "(Oh, he went into a shop...\nWhat kind of place is it?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08729",
+   "en": "(Let's see... A butler cafe......?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08730",
+   "en": "(What business would Luis-san have\nat a butler cafe...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08731",
+   "en": "(W-well, no point worrying about it...\nI'll enjoy exploring Deep Akihabara.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08732",
+   "en": "(Deep Akihabara has all kinds of shops.\nIt's a fun place.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08733",
+   "en": "(Oh, he went into a shop...\nWhat kind of place is it, I wonder?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08734",
+   "en": "(W-well, no point worrying about it...\nI'll enjoy exploring Deep Akihabara.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08735",
+   "en": "(Maybe I'll stop for tea at Silver Moon\non the way home.)",
+   "flags": [],
+   "notes": "Silver Moon is provisional in locations.json."
+  },
+  {
+   "id": "c08736",
+   "en": "(Huh? Wait, it's Luis-san.\nIs he enjoying some tea by himself?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08737",
+   "en": "(Oh, Luis-san left...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08738",
+   "en": "(Luis-san having tea alone at a cafe...\nSomehow it doesn't suit him...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08739",
+   "en": "(Ha ha, oh well.\nI'll enjoy some tea too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08740",
+   "en": "(Huh? Wait, isn't that Luis-san?\nIs he enjoying some tea by himself?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08741",
+   "en": "(Oh, Luis-san left...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08742",
+   "en": "(Hee hee, oh well.\nI'll enjoy some tea too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08743",
+   "en": "(I'm done shopping at Folmo.\nGuess I'll head home soon...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08744",
+   "en": "(Huh? Wait, it's Luis-san.)",
+   "flags": [],
+   "notes": "12 uses, one in a female scene; neutral wording."
+  },
+  {
+   "id": "c08745",
+   "en": "(But wow, Luis-san was eating soft serve\nwith the biggest smile...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08746",
+   "en": "(All right! I'll have some soft serve too\nbefore I go home.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08747",
+   "en": "(Huh? Wait, isn't that Luis-san?)",
+   "flags": [],
+   "notes": "12 uses, one in a male scene; neutral wording."
+  },
+  {
+   "id": "c08748",
+   "en": "(But wow, Luis-san was eating soft serve\nwith the biggest smile...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08749",
+   "en": "(All right! I'll have some soft serve too\nbefore I go home.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08750",
+   "en": "(Griffith Park at dusk\nfeels kind of melancholy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08751",
+   "en": "(Huh, so even Luis-san gets wistful\nlike that sometimes...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08752",
+   "en": "...Whoa, I was thinking about the Nyan-Nyan Dance,\nand now look how late it's gotten...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08753",
+   "en": "Well, time to head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08754",
+   "en": "(N-Nyan-Nyan Dance? That's all\nhe was thinking about...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08755",
+   "en": "(Oh well...\nOkay, guess I'll head home too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08756",
+   "en": "(Griffith Park at dusk\nfeels kind of melancholy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08757",
+   "en": "(Huh, so even Luis-san gets wistful\nlike that sometimes...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08758",
+   "en": "(N-Nyan-Nyan Dance? That's all\nhe was thinking about...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08759",
+   "en": "(Oh well...\nOkay, guess I'll head home too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08760",
+   "en": "(School's over. Guess I'll head home.)",
+   "flags": [],
+   "notes": "Also used in nml_mcl_018 (both genders)."
+  },
+  {
+   "id": "c08761",
+   "en": "All riiight! Burn, my passion!!\nFifty more laps around the field!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08762",
+   "en": "(Why is Luis-san training\nat Mihoshi Academy?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08763",
+   "en": "(Oh well, I'll just ignore it and go home.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08764",
+   "en": "(Why is Luis-san training\nat Mihoshi Academy?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08765",
+   "en": "(Oh well, I'll just ignore it and go home.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c08702: developer placeholder (Alto name plate), translated literally like c05506.",
+   "c08752/c08754/c08758: 'Nyan-Nyan Dance' for nyan-nyan dansu (the Nyan-Nyan CM dance of frd_lis_001); not in the glossary.",
+   "c08727-c08734 Deep Akihabara and c08735 Silver Moon are 'provisional' in locations.json."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

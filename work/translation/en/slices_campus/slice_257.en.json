@@ -1,0 +1,435 @@
+{
+ "slice": 257,
+ "rows_in_slice": 70,
+ "rows_examined": 70,
+ "rows": [
+  {
+   "id": "c18526",
+   "en": "(Classes are over, so maybe I'll go have\nsome fun somewhere on the way home.)",
+   "flags": [],
+   "notes": "Male, nml_myk_017."
+  },
+  {
+   "id": "c18527",
+   "en": "Hey, isn't that...?",
+   "flags": [],
+   "notes": "Both variants, player spotting Miyuki."
+  },
+  {
+   "id": "c18528",
+   "en": "If you're free after this, want to go\nhang out somewhere?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18529",
+   "en": "I'm sorry...\nMy parents are coming home early today...",
+   "flags": [],
+   "notes": "Both variants, Miyuki (casual \"nano\")."
+  },
+  {
+   "id": "c18530",
+   "en": "If I'm not back at the mansion by then,\nI'll get scolded.",
+   "flags": [],
+   "notes": "Both variants, Miyuki. \"oyashiki\" = mansion."
+  },
+  {
+   "id": "c18531",
+   "en": "Well, then it can't be helped.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18532",
+   "en": "I'm sorry, when you went to the trouble\nof inviting me!",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18533",
+   "en": "Don't worry about it.\nLet's go hang out some other time!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18534",
+   "en": "Okay, I'll be looking forward to it.\nWell then, I'll be going.",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18535",
+   "en": "(A mansion, huh... Shirakawa really is\na proper rich young lady...)",
+   "flags": [],
+   "notes": "Male. \"ojousama\"."
+  },
+  {
+   "id": "c18536",
+   "en": "(Classes are over, so maybe I'll go have\nsome fun somewhere on the way home~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18537",
+   "en": "Hey, Miyukiii!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18538",
+   "en": "Oh, \\p-san.",
+   "flags": [],
+   "notes": "Female. Miyuki."
+  },
+  {
+   "id": "c18539",
+   "en": "If you're free after this, do you want to go\nhang out somewhere?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18540",
+   "en": "Well, I guess it can't be helped, then.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18541",
+   "en": "Don't worry about it.\nLet's go hang out some other time, okay?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18542",
+   "en": "(A mansion, huh... Miyuki really is\na proper rich young lady...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18543",
+   "en": "(Oh, it's Ranka!)",
+   "flags": [],
+   "notes": "Male, nml_myk_018."
+  },
+  {
+   "id": "c18544",
+   "en": "(Having lunch with the Performing Arts kids?\nLooks like she's really fit in.)",
+   "flags": [],
+   "notes": "Male. \"geinou koosu\" = the Performing Arts Course; \"kids\" for \"ko-tachi\"."
+  },
+  {
+   "id": "c18545",
+   "en": "That was Ranka-san just now, wasn't it?",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18546",
+   "en": "Oh, Shirakawa.\nLooks like Ranka's gotten used to life here.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18547",
+   "en": "It seems so.\nRanka-san is a wonderful person, after all.",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18548",
+   "en": "...Oh, that reminds me, the other day\nI saw Ranka-san at Folmo.",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18549",
+   "en": "Huh, really?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18550",
+   "en": "But for some reason...\nshe was wearing a carrot on her head...",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18551",
+   "en": "Huh...? A carrot...?",
+   "flags": [],
+   "notes": "Both variants."
+  },
+  {
+   "id": "c18552",
+   "en": "Yes. And another day, she was dressed\nas straw-wrapped natto...",
+   "flags": [],
+   "notes": "Both variants, Miyuki. \"wara nattou\": natto sold wrapped in straw (Ranka's natto commercial costume)."
+  },
+  {
+   "id": "c18553",
+   "en": "A carrot...? Natto...?",
+   "flags": [],
+   "notes": "Both variants."
+  },
+  {
+   "id": "c18554",
+   "en": "Oh! That must've been for work, I bet.\nRanka's still a rookie idol, so...",
+   "flags": [],
+   "notes": "Male. \"kakedashi aidoru\" = fledgling/rookie idol."
+  },
+  {
+   "id": "c18555",
+   "en": "What? Idols have to dress up like that too?!",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18556",
+   "en": "I imagined it'd be more glamorous...\nIt must be tough.",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18557",
+   "en": "Yeah, I guess so.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18558",
+   "en": "But I hope Ranka-san gets to stand\non a big stage someday...",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18559",
+   "en": "Yeah. She's one of us at Mihoshi, after all.",
+   "flags": [],
+   "notes": "Both variants, player."
+  },
+  {
+   "id": "c18560",
+   "en": "Well then, I have something to take care of\nat the library, so...",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18561",
+   "en": "(Being a rookie idol sure is tough...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18562",
+   "en": "(Oh, it's Ranka-chan!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18563",
+   "en": "(Having lunch with the Performing Arts kids?\nI'm glad she's fit in so well~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18564",
+   "en": "Yeah.\nLooks like Ranka-chan's gotten used to life here.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18565",
+   "en": "Huh, is that so?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18566",
+   "en": "Oh! That must've been for work, I bet.\nRanka-chan's still a rookie idol, so...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18567",
+   "en": "Yeah, I suppose so.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18568",
+   "en": "(Being a rookie idol must be tough...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18569",
+   "en": "(There are still a few days of summer break left.\nWhat should I do with them...)",
+   "flags": [],
+   "notes": "Male, nml_nns_001."
+  },
+  {
+   "id": "c18570",
+   "en": "Nanase, what are you doing here?",
+   "flags": [],
+   "notes": "Both variants, player."
+  },
+  {
+   "id": "c18571",
+   "en": "It's hot today, so Ranka-san and I decided\nto go to the pool.",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18572",
+   "en": "Oh, really? That sounds great!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18573",
+   "en": "Yes! The pool is sure to be nice and cool,\nand Ranka-san in a swimsuit is sure to be cute,\nso it'll be just the best!",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18574",
+   "en": "Oh, uh, yeah...",
+   "flags": [],
+   "notes": "Both variants, player, taken aback."
+  },
+  {
+   "id": "c18575",
+   "en": "Ah!? I'm sorry...\nWell, I'm meeting Ranka-san, so I'll be going.",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18576",
+   "en": "Ah, Nanase!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18577",
+   "en": "(Aw, I wanted to tag along...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18578",
+   "en": "(There are still a few days of summer break left.\nHow should I spend them...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18579",
+   "en": "Hello, \\p-san.",
+   "flags": [],
+   "notes": "Nanase (female variant); also Luca in scd_com_620. Works for both."
+  },
+  {
+   "id": "c18580",
+   "en": "Oh, really? Sounds fun!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18581",
+   "en": "Ah, Nanase, wait!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18582",
+   "en": "(I wanted to tag along too...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18583",
+   "en": "(Sheryl's concert is coming up soon...\nI can't wait...)",
+   "flags": [],
+   "notes": "Male, nml_nns_002."
+  },
+  {
+   "id": "c18584",
+   "en": "\\p-kun, what's up?\nYou look like you're having a great time...",
+   "flags": [],
+   "notes": "Male. Nanase."
+  },
+  {
+   "id": "c18585",
+   "en": "Yeah, I was just thinking how Sheryl's\nconcert is coming up soon...\nAren't you going, Nanase?",
+   "flags": [],
+   "notes": "Both variants, player."
+  },
+  {
+   "id": "c18586",
+   "en": "Not really... It's not like I'm that big a fan...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18587",
+   "en": "To me, Ranka-san will always be my idol!",
+   "flags": [],
+   "notes": "Both variants, Nanase. \"eien no aidoru\" = idol forever."
+  },
+  {
+   "id": "c18588",
+   "en": "Down with Sheryl!\nI'll keep cheering Ranka-san on until that day!",
+   "flags": [],
+   "notes": "Both variants, Nanase. \"datou Sheryl\": until the day Ranka beats Sheryl."
+  },
+  {
+   "id": "c18589",
+   "en": "...Um, good luck with that...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18590",
+   "en": "(Nanase really loves Ranka, huh...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18591",
+   "en": "(Sheryl's concert is coming up soon...\nI can't wait~...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18592",
+   "en": "\\p-san, what's up?\nYou look like you're having a great time...",
+   "flags": [],
+   "notes": "Female. Nanase."
+  },
+  {
+   "id": "c18593",
+   "en": "Oh, is that so...",
+   "flags": [],
+   "notes": "Female, answering \"not that big a fan\"."
+  },
+  {
+   "id": "c18594",
+   "en": "...Um, good luck with that, okay...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18595",
+   "en": "(Nanase really does love Ranka-chan...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18552: 'wara nattou' rendered 'straw-wrapped natto' (natto sold in a straw bundle; Ranka's natto commercial costume)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

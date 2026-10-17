@@ -1,0 +1,381 @@
+{
+ "slice": 81,
+ "rows_in_slice": 60,
+ "rows_examined": 60,
+ "rows": [
+  {
+   "id": "c06014",
+   "en": "Hey, \\p. How are you feeling?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06015",
+   "en": "Great, I'm in top form!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06016",
+   "en": "Then let's start with stretches!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06017",
+   "en": "Hup, hup, and hup...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06018",
+   "en": "You've really got the hang of this now.\nMaybe it's time you helped me out\nby coaching the younger students...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06019",
+   "en": "Huh? Sensei?\nYou coach other students in their own\ntraining too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06020",
+   "en": "Of course I do. I'm a teacher, you know.\nI'll coach anyone who asks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06021",
+   "en": "So that's how it is...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06022",
+   "en": "(Though I don't coach any of them\nas devotedly as I coach you...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06023",
+   "en": "Sensei, did you say something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06024",
+   "en": "Huh? N-no, nothing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06025",
+   "en": "All right, I'll be glad to help you, Sensei.\nYou've done a lot for me, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06026",
+   "en": "Really? That's a big help. After all,\nthey're all in worse shape than you\nused to be.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06027",
+   "en": "What, seriously?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06028",
+   "en": "That's right. So hurry up and make them\ninto something worth calling pilots.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06029",
+   "en": "(And you hurry up and become\na real man yourself...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06030",
+   "en": "Hm? Sensei, did you say something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06031",
+   "en": "Nothing.\nCome on, next up: 50 laps around\nthe schoolyard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06032",
+   "en": "Affinity ending.\nFiller for Hilda (female).",
+   "flags": [],
+   "notes": "Developer placeholder under Alto's name plate (frd_hld_009, the female branch that scene does not use). Translated literally, in the format of c04107; Affinity as in terms.json."
+  },
+  {
+   "id": "c06033",
+   "en": "Affinity ending.\nFiller for Hilda (male).",
+   "flags": [],
+   "notes": "Developer placeholder under Alto's name plate (frd_hld_010, the unused male branch). Translated literally, as c04107."
+  },
+  {
+   "id": "c06034",
+   "en": "Hup! And hu-up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06035",
+   "en": "Well, of course you would...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06036",
+   "en": "All right, I'll be glad to help you, Sensei.\nYou've done so much for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06037",
+   "en": "Yes! Leave it to me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06038",
+   "en": "That said, you come first!\nCome on, next up: 50 laps around\nthe schoolyard!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06039",
+   "en": "(Oh, Hilda-sensei... It's a long shot,\nbut I'll try talking to her...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06040",
+   "en": "Hm, \\p?\nWhat is it? Do you need something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06041",
+   "en": "Enough with the stupid jokes.\nIf you don't need anything, go home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06042",
+   "en": "Go straight home, no detours. Got it?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06043",
+   "en": "(Oh, Hilda-sensei...\nMaybe I'll try talking to her...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06044",
+   "en": "(...Yeah, I figured...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06045",
+   "en": "Yes, I was thinking maybe we could\ngo to the Observation Pier together\nafter this...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06046",
+   "en": "The Macross Quarter, huh...\nThat does sound interesting...\nBut unfortunately, I already have plans.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06047",
+   "en": "(She didn't seem to hate the idea.\nI guess now it's all about timing...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06048",
+   "en": "(Looks like she didn't hate the idea.\nSo now it's all about timing?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06049",
+   "en": "You fool!\nIf you have time to play around,\nspend it improving yourself!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06050",
+   "en": "Oh, y-yes, I'm sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06051",
+   "en": "Honestly...\nYou're a hundred years too early\nto be inviting a teacher out to play!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06052",
+   "en": "Yes, about this weekend... I was wondering\nif you'd like to go shopping at Folmo\nwith me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06053",
+   "en": "Yes, about this weekend... I was wondering\nif you'd like to go out to \"199\"\nwith me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06054",
+   "en": "Yes, about this weekend... I was wondering\nif you'd like to go out to the artificial\nisland with me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06055",
+   "en": "Hm? Training in Central Park?\nWell, that's not a bad idea...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06056",
+   "en": "Oh, sorry, I just remembered\nI have something to do!\nGotta go, bye-ee!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06057",
+   "en": "Hm? What's wrong? Hey!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06058",
+   "en": "(Training?! That's not what I meant...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06059",
+   "en": "Yes, about this weekend... I was wondering\nif you'd like to go out to Central Park\nwith me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06060",
+   "en": "The Battle Frontier, huh...\nThat does sound interesting...\nBut unfortunately, I already have plans.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06061",
+   "en": "(Well, that's it for classes today...\nMaybe I'll try talking to Hilda-sensei...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06062",
+   "en": "Excuse me, Hilda-sensei.\nAre you free after this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06063",
+   "en": "Hm? \\p, is it?\nLet's see... Unfortunately, I have\na staff meeting today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06064",
+   "en": "Sorry about that. Ask me again\nanother day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06065",
+   "en": "(Well, that's it for classes today...\nI think I'll go talk to Hilda-sensei...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06066",
+   "en": "(Now, plans for this weekend...\nMaybe I could invite Hilda-sensei\nto Griffith Park... How about that?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06067",
+   "en": "Yes. I was wondering if you'd like to\nspend this weekend with me\nat Griffith Park...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06068",
+   "en": "Griffith Park...\nYes, we could get some good training\ndone there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06069",
+   "en": "No, that's not what I mean...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06070",
+   "en": "But I'm sorry.\nUnfortunately, I already have plans\nthis weekend.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06071",
+   "en": "(Now, plans for this weekend...\nMaybe I could invite Hilda-sensei\nto Griffith Park... What do you think?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06072",
+   "en": "Yes, I was thinking maybe we could\nspend this weekend together\nat Griffith Park...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06073",
+   "en": "No, that's not what I meant...",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c06032/c06033: developer placeholder lines under Alto's name plate (unused gender branches of frd_hld_009/010); translated literally in the format of c04107.",
+   "c06021 (male) 'sou datta no ka' after Hilda says she coaches anyone who asks: 'So that's how it is...', the player's slight disappointment.",
+   "c06071 (female monologue) ends 'dou kashira?', a question to herself; rendered 'What do you think?' addressed to herself.",
+   "c06056 'shitsurei shimass!' (breezy) rendered 'Gotta go, bye-ee!'.",
+   "c06044 '...desu yonee...' rendered '(...Yeah, I figured...)'; the male counterpart c05544 '...da yonaa...' is in slice 75 (another agent): keep them matching."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Observation Pier (tenbou sanbashi), Macross Quarter, Battle Frontier and the shop \"199\" are not in locations.json; spelled as the finished campus slices (c04121, c04127, c04152, c04137)."
+  ],
+  "unfinished": []
+ }
+}

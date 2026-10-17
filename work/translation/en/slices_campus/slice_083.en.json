@@ -1,0 +1,427 @@
+{
+ "slice": 83,
+ "rows_in_slice": 68,
+ "rows_examined": 68,
+ "rows": [
+  {
+   "id": "c06154",
+   "en": "(How can I get faster...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06155",
+   "en": "Guess I'll try one more run...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06156",
+   "en": "Yeees~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06157",
+   "en": "(Yamashiro-sensei's hot-blooded too, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06158",
+   "en": "R-really...?\nI did just as you advised, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06159",
+   "en": "(So training takes theory too, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06160",
+   "en": "(Maybe I'll go for a little run today too,\nfor a change of pace.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06161",
+   "en": "(Oh right, I've gotta stick to\nYamashiro-sensei's advice.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06162",
+   "en": "\\p.\nYou were running again today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06163",
+   "en": "Yes! I was running just like you advised.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06164",
+   "en": "\"Hmm\"...? But you're the one\nwho taught me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06165",
+   "en": "Your movements were so bizarre,\nI couldn't tell.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06166",
+   "en": "As I said before, repetition is\nthe only way. Keep at it, and you'll\nget it down eventually.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06167",
+   "en": "There's no point pushing yourself\ntoo hard. Take breaks as needed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06168",
+   "en": "(\"Bizarre\"?! How rude, seriously!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06169",
+   "en": "Is that so?",
+   "flags": [],
+   "notes": "Shared: Yamashiro (frd_itk_002 female) and Kagura (frd_kgr_107). Neutral."
+  },
+  {
+   "id": "c06170",
+   "en": "\"Is that so\"? But you're the one\nwho taught me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06171",
+   "en": "Okaaay, I'll do my best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06172",
+   "en": "(\"Bizarre\"?! How rude!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06173",
+   "en": "(Eating on the roof feels great~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06174",
+   "en": "(Maybe I should've invited someone...\nOh well, eating alone isn't bad either!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06175",
+   "en": "Hm? Who's that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06176",
+   "en": "\\p.\nWhat's this, eating alone?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06177",
+   "en": "Oh, yes.",
+   "flags": [],
+   "notes": "Shared: the player answering Yamashiro here and Sheryl ('wait a moment') in nml_she_016."
+  },
+  {
+   "id": "c06178",
+   "en": "Honestly, you're a lonely one.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06179",
+   "en": "I-I'm not lonely at all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06180",
+   "en": "Hm. Then I suppose I'll eat here too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06181",
+   "en": "W-with you, Sensei?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06182",
+   "en": "What, you don't want to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06183",
+   "en": "No, it's not that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06184",
+   "en": "Then it's settled. Eating with company\naids digestion and nutrient absorption\nbetter than eating alone. Remember that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06185",
+   "en": "Oh, really?",
+   "flags": [],
+   "notes": "Shared: the player (Yamashiro, Klan, Claire scenes) and Shirakawa (nml_myk_004). Neutral."
+  },
+  {
+   "id": "c06186",
+   "en": "Your lunch is bread from the cafeteria?\nThat's not a balanced diet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06187",
+   "en": "Eat this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06188",
+   "en": "(It's a rolled omelet...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06189",
+   "en": "What's wrong? Don't be shy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06190",
+   "en": "...Where did this omelet come from?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06191",
+   "en": "Don't worry, there are no food additives\nin it. It's genuinely homemade.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06192",
+   "en": "You made it, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06193",
+   "en": "I did. Why?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06194",
+   "en": "Wow~ So you cook, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06195",
+   "en": "Everyone can cook, surely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06196",
+   "en": "Well, I can't.\nAnyway, thanks for the food!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06197",
+   "en": "(S-so good... The way the egg's cooked\nand the sweetness match perfectly.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06198",
+   "en": "Chew your food well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06199",
+   "en": "Mmf~ 'kaaay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06200",
+   "en": "Here, have some tea.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06201",
+   "en": "Thank you for everything.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06202",
+   "en": "Now, think nothing of it.\nLooking after students' diets\nis part of a teacher's job too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06203",
+   "en": "I feel like that's more of\na parent's job...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06204",
+   "en": "At school, teachers are as good as\nparents, are they not?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06205",
+   "en": "Well then, work hard in your afternoon\nclasses too, and don't doze off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06206",
+   "en": "(All right~ I feel like I can really work\nhard in my afternoon classes now.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06207",
+   "en": "(Maybe I should've invited someone...\nOh well, eating alone is nice too!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06208",
+   "en": "Hm? What's with that tiny amount of food?\nThat won't get you through\nyour afternoon classes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06209",
+   "en": "Lots of people can't...\nAnyway, thanks for the food!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06210",
+   "en": "(Y-yummy... The way the egg's cooked\nand the sweetness match perfectly.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06211",
+   "en": "Oh, okaaay!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06212",
+   "en": "(Okay, I think I might be able to work\nhard in my afternoon classes now!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06213",
+   "en": "(Lunch on the roof is the best!\nThe weather's nice, and so is the view!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06214",
+   "en": "What's this, \\p?\nEating lunch alone again...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06215",
+   "en": "Hehehe...\nSensei, want to have lunch with me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06216",
+   "en": "After all, eating with company\nimproves nutrient absorption.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06217",
+   "en": "So you remembered.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06218",
+   "en": "Well then, work hard in your\nafternoon classes too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06219",
+   "en": "Your answers are first-rate, at least.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06220",
+   "en": "(All right, time to work hard\nthis afternoon too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06221",
+   "en": "Ehehe...\nSensei, want to have lunch with me?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c06184: three Japanese lines with 'oboete oku to ii' at the end; kept in three English lines by moving 'than eating alone' after the verb.",
+   "c06190 '...kono tamagoyaki wa?' read as asking where the omelet came from (Yamashiro answers that it is additive-free and homemade).",
+   "c06219 'henji dake wa ichininmae da na' (only your reply is full-fledged) rendered 'Your answers are first-rate, at least.'",
+   "c06208 is the female variant of c06186 (no cafeteria bread; she has too little food): 'tiny amount' reads the teasing tone.",
+   "c06177 'Oh, yes.' and c06185 'Oh, really?' are shared with other scenes and speakers (Sheryl, Klan, Claire, Shirakawa); kept neutral."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

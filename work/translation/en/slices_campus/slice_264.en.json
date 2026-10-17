@@ -1,0 +1,375 @@
+{
+ "slice": 264,
+ "rows_in_slice": 60,
+ "rows_examined": 60,
+ "rows": [
+  {
+   "id": "c18999",
+   "en": "(Yaaay~! The test is finally over~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19000",
+   "en": "Oho, looking that happy...\nYou must have done really well on the test.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19001",
+   "en": "Huh?!\nN-no, it's not really like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19002",
+   "en": "Of course, \\p, you wouldn't get\na terrible score on a test I made,\nwould you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19003",
+   "en": "I-I think it went okay, probably...\nPinon-sensei...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19004",
+   "en": "Then I suppose I'll let it slide, just for today.\nGo have as much fun as you like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19005",
+   "en": "Thank you very much, Pinon-sensei...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19006",
+   "en": "(Pinon-chan's test was hard, so honestly,\nI'm not that confident...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19007",
+   "en": "(I hope she won't get mad whatever score I get...)",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c19008",
+   "en": "(Yaaay~! The test is finally over~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19009",
+   "en": "(Pinon-chan's test was hard, so honestly,\nI'm not that confident...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19010",
+   "en": "(The Super Chili-Chili Dog at this place\nis spicy and delicious, just like always.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19011",
+   "en": "What are you doing in a place like this,\n\\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19012",
+   "en": "Oh, Pinon-chan.\nI was just eating this shop's chili dog.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19013",
+   "en": "A chili dog? What on earth kind of food is that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19014",
+   "en": "You don't know? Then here, have a bite.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19015",
+   "en": "Thanks, don't mind if I do...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19016",
+   "en": "*Chomp*",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19017",
+   "en": "Well? Is it good?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19018",
+   "en": "...............Sp......",
+   "flags": [],
+   "notes": "The Japanese is the first kana of 'karai' (spicy), completed in c19020; kept as the start of 'spicy'."
+  },
+  {
+   "id": "c19019",
+   "en": "Sp...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19020",
+   "en": "SPIIIIICYYYYY!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19021",
+   "en": "Sorry...\nI had no idea you couldn't handle spicy food......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19022",
+   "en": "Ngh... I'll get you back for this someday,\nI swear!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19023",
+   "en": "(Maybe that was a bit mean of me...\nBut getting me back...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19024",
+   "en": "(The Super Chili-Chili Dog at this place\nis spicy and delicious, just like always.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19025",
+   "en": "Oh, Pinon-chan.\nI was just eating this shop's chili dog.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19026",
+   "en": "(Maybe that was a bit mean of me...\nBut getting me back...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19027",
+   "en": "(Oh no, I left something in the classroom.\nI've gotta hurry and go get it!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19028",
+   "en": "Owowowowow...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19029",
+   "en": "I am NOT okay!\nYou made me fall down!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19030",
+   "en": "S-sorry, Pinon-chan...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19031",
+   "en": "Next time you bump into me, I'll make you pay!\nDon't you forget it!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19032",
+   "en": "(I feel bad about what I did to Pinon-chan...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19033",
+   "en": "(If I don't apologize properly, I'll probably\ngo through hell in Pinon-sensei's class...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19034",
+   "en": "(Oh no, I left something in the classroom.\nI've gotta hurry and go get it!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19035",
+   "en": "(I feel bad about what I did to Pinon-chan...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19036",
+   "en": "(If I don't apologize properly, I'll probably\ngo through hell in Pinon-sensei's class...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19037",
+   "en": "(Hm?\nPinon-chan looks really happy...\nI wonder what's up?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19038",
+   "en": "Pinon-chan, did something good happen?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19039",
+   "en": "Hehe, we're having gratin for dinner tonight.\nI just can't wait, I'm looking forward to it so much...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19040",
+   "en": "Huh~, so you like gratin, Pinon-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19041",
+   "en": "I absolutely love it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19042",
+   "en": "That creamy flavor spreading in your mouth...\nAnd the Parmesan cheese that gives it richness...\nThe taste those two play in harmony is just......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19043",
+   "en": "Th-that's deep...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19044",
+   "en": "Hawaah~, I can't wait~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19045",
+   "en": "(Judging by that, if I ever make\nPinon-chan mad, maybe giving her gratin\nwill fix things...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19046",
+   "en": "(Hm?\nPinon-chan looks really happy...\nI wonder what's up?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19047",
+   "en": "Th-that's deep...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19048",
+   "en": "(Judging by that, if I ever make\nPinon-chan mad, giving her gratin\nwill probably fix things...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19049",
+   "en": "(Phew~, today's EX-Gear training was exhausting.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19050",
+   "en": "Huh, Pinon-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19051",
+   "en": "I was watching you all move during class.\nIt really is something.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19052",
+   "en": "Spinning around and turning like that...\nJust watching almost made me dizzy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19053",
+   "en": "If you're that interested in EX-Gear,\nwhy not give it a try, Pinon-chan?\nMaybe you've got talent.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19054",
+   "en": "Are you trying to kill me?!\nAbsolutely not, no thank you!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19055",
+   "en": "(Pinon-chan's athletic ability is a total disaster,\nafter all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19056",
+   "en": "(Phew~, today's EX-Gear training was exhausting.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19057",
+   "en": "If you're that interested in EX-Gear,\nwhy not give it a try, Pinon-chan?\nYou might have talent, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19058",
+   "en": "(Pinon-chan's athletic ability is a total disaster,\nafter all...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c19018-c19020: the 'ka...' / 'ka?' / 'karaaai!' build-up rendered as 'Sp......' / 'Sp...?' / 'SPIIIIICYYYYY!!!'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

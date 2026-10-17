@@ -1,0 +1,496 @@
+{
+ "slice": 323,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c23370",
+   "en": "See you, \\p-san.",
+   "flags": [],
+   "notes": "Grace to the female player (scd_com_728)."
+  },
+  {
+   "id": "c23371",
+   "en": "(So that's Sheryl-san's manager, Grace-san.\nShe seemed like a really kind, nice person...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23372",
+   "en": "(Oh, right, I'd better hurry and take Sheryl-san\nthe thing she forgot...)",
+   "flags": [],
+   "notes": "The forgotten item is her swimsuit (earlier in the scene)."
+  },
+  {
+   "id": "c23373",
+   "en": "That's it for today's class!\nAll of you, fall in!",
+   "flags": [],
+   "notes": "x4: scd_com_824 and scd_fes_811, both genders."
+  },
+  {
+   "id": "c23374",
+   "en": "(So that's the last class of the school year...\nWhat should I do over summer break?)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23375",
+   "en": "Jeez, you lot. Don't go getting all giddy\njust 'cause summer break starts next week.",
+   "flags": [],
+   "notes": "x4 (also scd_fes_811)."
+  },
+  {
+   "id": "c23376",
+   "en": "Right now, the Frontier is under threat\nfrom those Vajra things that nobody\ncan make any sense of.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23377",
+   "en": "Somewhere down the road, the Frontier\nmight get hit by one hell of a crisis...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23378",
+   "en": "But I'm pretty sure I've trained you lot\nwell enough to at least keep yourselves alive.",
+   "flags": [],
+   "notes": "hazu: 'I should have trained you enough to protect your own lives yourselves'."
+  },
+  {
+   "id": "c23379",
+   "en": "You lot...\nShow up for the new term alive and kicking!\nThat's one order you'd better not break!!",
+   "flags": [],
+   "notes": "Literally 'come to school with healthy faces; keep this one rule no matter what'."
+  },
+  {
+   "id": "c23380",
+   "en": "Well, that was pretty stiff talk coming from me,\nbut it's summer break, after all.\nGo make yourselves some summer memories.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23381",
+   "en": "(Like Gary-sensei said, you can't exactly\ncall the Frontier safe right now, but...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23382",
+   "en": "(It's summer break, after all.\nHaving fun has gotta be the top priority!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23383",
+   "en": "(All right, I'm gonna enjoy summer break\nto the fullest!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23384",
+   "en": "(It's summer break, after all.\nHaving fun is obviously the top priority!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23385",
+   "en": "(All right, I'm going to enjoy summer break\nto the fullest!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23386",
+   "en": "(So today's the graduation ceremony...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23387",
+   "en": "(There weren't any seniors I was especially\nclose to this year, but still, just knowing it's\ngraduation makes me kinda wistful...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23388",
+   "en": "(Once summer break's over, we'll be\nthird-years too... Next year, it'll be\nour own graduation......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23389",
+   "en": "(All right! I've gotta enjoy the rest of\nhigh school as hard as I can, so I don't\nhave any regrets!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23390",
+   "en": "(So today's the graduation ceremony...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23391",
+   "en": "(There weren't any seniors I was especially\nclose to this year, but still, just knowing it's\ngraduation makes me a little wistful...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23392",
+   "en": "(Once summer break's over, we'll be\nthird-years too... So next year, it'll be\nour own graduation......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23393",
+   "en": "(All right! I've got to enjoy the rest of\nhigh school as hard as I can, so I don't\nhave any regrets!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23394",
+   "en": "(Wow, what a shock! I can't believe I actually\nwon that autographed Sheryl card I entered\nthe drawing for the other day...)",
+   "flags": [],
+   "notes": "sain shikishi = autographed card (board)."
+  },
+  {
+   "id": "c23395",
+   "en": "(Hehe, I've gotta brag to everyone.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23396",
+   "en": "Morning, \\p-kun.\nWhat's with the happy face?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23397",
+   "en": "Morning, Ranka.\nGuess what, I won an autographed Sheryl ca...",
+   "flags": [],
+   "notes": "Cut off mid-word as in the Japanese (atat...)."
+  },
+  {
+   "id": "c23398",
+   "en": "Wait......",
+   "flags": [],
+   "notes": "Shared male/female; the player notices Ranka's uniform."
+  },
+  {
+   "id": "c23399",
+   "en": "Why are you wearing a Mihoshi uniform, Ranka?!\nAnd you're just walking to school like normal...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23400",
+   "en": "Huh? Didn't I tell you?\nAs of today, I've transferred to Mihoshi Academy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23401",
+   "en": "What?! You transferred?\nWhy so suddenly...?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23402",
+   "en": "Well, I got scouted by a talent agency,\nand once I started working, I couldn't stay\nat my old school anymore...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23403",
+   "en": "Well then, since we're both here,\nshall we head to class together?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23404",
+   "en": "This is Ranka Lee-kun, who transfers\nto Mihoshi Academy as of today.\nI expect you all to get along with her.",
+   "flags": [],
+   "notes": "Yamashiro uses -kun for students of either gender."
+  },
+  {
+   "id": "c23405",
+   "en": "(Ranka will fit right in with the class\nin no time, so I'm not worried.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23406",
+   "en": "As it happens, Ranka-kun is not the only one.\nWe have one more transfer student...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23407",
+   "en": "(Two transfers at once? That's something...\nI wonder what the other one's like?)",
+   "flags": [],
+   "notes": "donna ko: gender of the newcomer unknown to the player; kept neutral."
+  },
+  {
+   "id": "c23408",
+   "en": "Sorry, but would you come in, please?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23409",
+   "en": "...Ah!\nWha?......No way?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23410",
+   "en": "Sheryl Nome......?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23411",
+   "en": "Quiet down, all of you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23412",
+   "en": "(Why is Sheryl Nome, the Galactic Fairy,\nat Mihoshi Academy?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23413",
+   "en": "...It's like a dream.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23414",
+   "en": "(Not just Ranka, but the Galactic Fairy\nherself transferring here too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23415",
+   "en": "(This isn't a dream, right?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23416",
+   "en": "(Wow, what a shock! I can't believe I actually\nwon that autographed Sheryl card I entered\nthe drawing for the other day...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23417",
+   "en": "(Hehe, I've got to brag to everyone.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23418",
+   "en": "Morning, \\p-chan.\nWhat's with the happy face?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23419",
+   "en": "Morning, Ranka-chan.\nGuess what, I won an autographed Sheryl ca...",
+   "flags": [],
+   "notes": "Bare 'Sheryl' as in the Japanese (product name)."
+  },
+  {
+   "id": "c23420",
+   "en": "Why are you wearing a Mihoshi uniform,\nRanka-chan?! And you're just walking\nto school like normal...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23421",
+   "en": "Well then, since we're both here,\nwhy don't we head to class together?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23422",
+   "en": "(Ranka-chan will fit right in with the class\nin no time, so I'm not worried.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23423",
+   "en": "(Two transfers at once? That's amazing...\nI wonder what the other one's like?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23424",
+   "en": "(Why is Sheryl Nome, the Galactic Fairy,\nat Mihoshi Academy?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23425",
+   "en": "(Not just Ranka-chan, but the Galactic Fairy\nherself transferring here too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23426",
+   "en": "(This isn't a dream... is it?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23427",
+   "en": "(Ever since Sheryl came to Mihoshi,\nthe whole school's been in an uproar...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23428",
+   "en": "(But why did Sheryl transfer to Mihoshi\nin the first place?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23429",
+   "en": "(Could it be she read the message I sent...\nNah, no way.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23430",
+   "en": "(Hm? I hear voices. What's going on?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23431",
+   "en": "Thanks to Sheryl's little whim,\nour plans have been thrown off course...",
+   "flags": [],
+   "notes": "Grace before she is named (??? plate)."
+  },
+  {
+   "id": "c23432",
+   "en": "(The voices were coming from over here...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23433",
+   "en": "Who the hell are you?",
+   "flags": [],
+   "notes": "Brera before he is named; kisama kept at full strength."
+  },
+  {
+   "id": "c23434",
+   "en": "(Huh?! Why is someone pointing\na knife at me?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23435",
+   "en": "Stop that, Brera.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23436",
+   "en": "Understood...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23437",
+   "en": "(Ph-phew... I'm saved...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23438",
+   "en": "I'm sorry about that.\nHe's a bodyguard, but his one little flaw\nis that he's far too serious.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23439",
+   "en": "O-oh, I see...\nSo, um... who are you?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23440",
+   "en": "Oh, you're Sheryl's manager?\nI'm \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23441",
+   "en": "So you're...\n\\p-kun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23442",
+   "en": "(She knows who I am?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23443",
+   "en": "You and that uncalled-for message\nyou sent to Sheryl...",
+   "flags": [],
+   "notes": "Grace mutters with contemptuous kisama; the player half-hears it. Shared male/female."
+  },
+  {
+   "id": "c23444",
+   "en": "Huh? Did you just say something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23445",
+   "en": "Hehe, it's nothing at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23446",
+   "en": "And this is Brera Sterne,\nwho serves as Sheryl's bodyguard.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23447",
+   "en": "Brera Sterne.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23448",
+   "en": "Nice to meet you.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23449",
+   "en": "(No reaction...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c23433: '??? (man)' plate is Brera; 'Who the hell are you?' for kisama.",
+   "c23443: Grace's aside rendered as a muttered fragment ('You and that uncalled-for message...'); the Japanese is 'because you sent Sheryl an uncalled-for message...', trailing."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

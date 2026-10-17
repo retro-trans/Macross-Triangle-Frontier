@@ -1,0 +1,514 @@
+{
+ "slice": 14,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "of_ktr/1277",
+   "en": "Destroid Defender",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1278",
+   "en": "Destroid Spartan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1278",
+   "en": "Destroid Spartan",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1279",
+   "en": "Destroid Phalanx",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1279",
+   "en": "Destroid Phalanx",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1280",
+   "en": "Destroid Tomahawk",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1280",
+   "en": "Destroid Tomahawk",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1281",
+   "en": "Destroid Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1281",
+   "en": "Destroid Monster",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1282",
+   "en": "Destroid Team",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'taimu' (time) read as 'tai' (team), as Catherine's clip says."
+  },
+  {
+   "id": "of_ktr/1282",
+   "en": "Destroid Team",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1283",
+   "en": "VF-1 Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1283",
+   "en": "VF-1 Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1284",
+   "en": "SDF-1 Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1284",
+   "en": "SDF-1 Macross",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1285",
+   "en": "VT-1 Super Ostrich",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1285",
+   "en": "VT-1 Super Ostrich",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1286",
+   "en": "VF-4 Lightning III",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1286",
+   "en": "VF-4 Lightning III",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1287",
+   "en": "Regult",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Dinaado' read as Regult (Rigaado)."
+  },
+  {
+   "id": "of_ktr/1287",
+   "en": "Regult",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1288",
+   "en": "Glaug",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name garbled in the transcript; read as in the shared clips."
+  },
+  {
+   "id": "of_ktr/1288",
+   "en": "Glaug",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1289",
+   "en": "Nousjadeul-Ger",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript is a nonsense Japanese question; read as Nousjadeul-Ger, the clip number's name in every other operator clip."
+  },
+  {
+   "id": "of_ktr/1289",
+   "en": "Nousjadeul-Ger",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1290",
+   "en": "All squad members",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'kaku taimu' read as 'kaku taiin' (all squad members)."
+  },
+  {
+   "id": "of_ktr/1290",
+   "en": "All squad members",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1291",
+   "en": "Fleet Commander Vrlitwhai Kridanik",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name garbled in the transcript; read as in the shared clips."
+  },
+  {
+   "id": "of_ktr/1291",
+   "en": "Fleet Commander Vrlitwhai Kridanik",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1292",
+   "en": "Golg Boddole Zer, Main Fleet Supreme Commander",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Name garbled; 'kikan' read as 'kikan' (main fleet) homophone."
+  },
+  {
+   "id": "of_ktr/1292",
+   "en": "Golg Boddole Zer, Main Fleet Supreme Commander",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "As row 1070."
+  },
+  {
+   "id": "o7_exd/1293",
+   "en": "VF-11 Thunderbolt",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1293",
+   "en": "VF-11 Thunderbolt",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1294",
+   "en": "YF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1294",
+   "en": "YF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1295",
+   "en": "YF-21 Sturmvogel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1295",
+   "en": "YF-21 Sturmvogel",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1296",
+   "en": "X-9 Ghost",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1296",
+   "en": "X-9 Ghost",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1297",
+   "en": "VF-17 Nightmare",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1297",
+   "en": "VF-17 Nightmare",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1298",
+   "en": "VF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1298",
+   "en": "VF-19 Excalibur",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1299",
+   "en": "Mylene Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1299",
+   "en": "Mylene Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1300",
+   "en": "Fire Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1300",
+   "en": "Fire Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1301",
+   "en": "Storm Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1301",
+   "en": "Storm Valkyrie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1302",
+   "en": "Sound Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1302",
+   "en": "Sound Force",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1303",
+   "en": "VF-22 Sturmvogel II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1303",
+   "en": "VF-22 Sturmvogel II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1304",
+   "en": "Battle 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1304",
+   "en": "Battle 7",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1305",
+   "en": "Fz-109 Elgersoln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1305",
+   "en": "Fz-109 Elgersoln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1306",
+   "en": "Az-130 Panzersoln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1306",
+   "en": "Az-130 Panzersoln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1307",
+   "en": "FBz-99 Zaubergeran",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1307",
+   "en": "FBz-99 Zaubergeran",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1308",
+   "en": "Queadluun-Rau",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1308",
+   "en": "Queadluun-Rau",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1309",
+   "en": "Glavil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1309",
+   "en": "Glavil",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1310",
+   "en": "Lord Gepelnitchi",
+   "flags": [],
+   "notes": "kakka (Excellency) rendered 'Lord', as in the shared clips."
+  },
+  {
+   "id": "of_ktr/1310",
+   "en": "Lord Gepelnitchi",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'Geperu ni chikaku ka' read as 'Gepelnitchi kakka'."
+  },
+  {
+   "id": "o7_exd/1311",
+   "en": "VF-5000 Star Mirage",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1311",
+   "en": "VF-5000 Star Mirage",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1312",
+   "en": "VA-C-3 Invader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1312",
+   "en": "VA-C-3 Invader",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1313",
+   "en": "Graham Hoilie",
+   "flags": [],
+   "notes": "'Foirii' read as Hoilie."
+  },
+  {
+   "id": "of_ktr/1313",
+   "en": "Graham Hoilie",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1314",
+   "en": "Destroid Cheyenne II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1314",
+   "en": "Destroid Cheyenne II",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1315",
+   "en": "VF-171 Nightmare Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1315",
+   "en": "VF-171 Nightmare Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1316",
+   "en": "VF-171EX Nightmare Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1316",
+   "en": "VF-171EX Nightmare Plus",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1317",
+   "en": "RVF-171EX Nightmare Plus",
+   "flags": [],
+   "notes": "Glossary has 'RVF-171EX Nightmare Plus EX'; the clip says no final 'EX', so kept the shared reading."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "rows 1050, 1060, 1062, 1064, 1066, 1068, 1070-1071, 1107: names and unit words garbled; read from the clip number shared by all operators"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

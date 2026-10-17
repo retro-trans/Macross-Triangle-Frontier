@@ -1,0 +1,441 @@
+{
+ "slice": 259,
+ "rows_in_slice": 70,
+ "rows_examined": 70,
+ "rows": [
+  {
+   "id": "c18668",
+   "en": "(Okay, lunch break. What should I eat...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male player monologue, nml_nns_008. The row also has a Nanase-plate occurrence in each variant just before the closing monologue (looks like a duplicate string); the line is the player's."
+  },
+  {
+   "id": "c18669",
+   "en": "(Oh, Nanase...\nI know, I'll ask what she feels like eating.)",
+   "flags": [],
+   "notes": "Male. \"sankou ni shiyou\" (use it for ideas) folded into \"ask what she feels like eating\"."
+  },
+  {
+   "id": "c18670",
+   "en": "Hey, Nanase.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18671",
+   "en": "Well, I was trying to decide what to eat for lunch,\nso I thought I'd get your opinion, Nanase...",
+   "flags": [],
+   "notes": "Male, answering \"What's up?\"."
+  },
+  {
+   "id": "c18672",
+   "en": "Oh, really? Let me see...\nRight now I... want Nyan-Nyan's maguro buns!",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18673",
+   "en": "I see~...\nWait, that's not really doable on a lunch break...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18674",
+   "en": "Oh!? You're right.\nSilly me, that wasn't helpful at all...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18675",
+   "en": "No, it's fine. I'm the one who asked out of nowhere.\nBut now I kind of want some maguro buns...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18676",
+   "en": "R-right... Sorry...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18677",
+   "en": "(In the end, I stopped by Nyan-Nyan\non my way home from school...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18678",
+   "en": "(Okay, lunch break~ What should I eat...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18679",
+   "en": "(Oh, Nanase...\nI know, I'll ask what she feels like eating~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18680",
+   "en": "Hey, Nanase.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18681",
+   "en": "Well, I was trying to decide what to eat for lunch,\nso I thought I'd ask you, Nanase... or something.",
+   "flags": [],
+   "notes": "Female. \"nante ne\" = a playful hedge."
+  },
+  {
+   "id": "c18682",
+   "en": "Ooh, that sounds great!\nWait... that's not really doable on a lunch break...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18683",
+   "en": "No, it's fine. I'm the one who asked out of nowhere.\nBut now I kind of want some maguro buns...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18684",
+   "en": "(In the end, I stopped by Nyan-Nyan\non my way home from school...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18685",
+   "en": "(Aah, EX-Gear training is finally over~)",
+   "flags": [],
+   "notes": "Male, nml_nns_009."
+  },
+  {
+   "id": "c18686",
+   "en": "Nice work, \\p-kun.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Nanase (male variant). Also PLAYER occurrences after the last spoken line of both variants (duplicate string, as in nml_nns_005); translated as Nanase's line."
+  },
+  {
+   "id": "c18687",
+   "en": "Oh, Nanase. What's up?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18688",
+   "en": "Well, I could see your training out the window\nduring art class, so I couldn't help watching\nthe whole time.",
+   "flags": [],
+   "notes": "Both variants, Nanase. \"bijutsu no jikan\" = art class."
+  },
+  {
+   "id": "c18689",
+   "en": "Oh, really? That's kind of embarrassing...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18690",
+   "en": "Not at all. It was fun just watching.\nEveryone flies so beautifully~",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18691",
+   "en": "Well, if we didn't fly nice and clean, we'd crash!",
+   "flags": [],
+   "notes": "Male. \"kirei ni tobu\" (fly beautifully / cleanly) played as \"nice and clean\"."
+  },
+  {
+   "id": "c18692",
+   "en": "Oh!? That's true. I'm sorry...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18693",
+   "en": "No need to apologize. Ahaha.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18694",
+   "en": "(So Nanase was watching the whole class, huh...\nWait, was Nanase even paying attention\nin her own class?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18695",
+   "en": "(Phew~, EX-Gear training is finally over~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18696",
+   "en": "Nice work, \\p-san.",
+   "flags": [],
+   "notes": "Female. Nanase."
+  },
+  {
+   "id": "c18697",
+   "en": "Huh? Nanase, what's up?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18698",
+   "en": "Oh, really? That's a little embarrassing...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18699",
+   "en": "Well, if we didn't fly nice and clean,\nwe'd crash!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18700",
+   "en": "Ahaha, no need to apologize. I was joking!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18701",
+   "en": "(So Nanase was watching me the whole class...\nWait, did Nanase even pay attention\nin her own class?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18702",
+   "en": "...Uh, yeah...",
+   "flags": [],
+   "notes": "x4: the player's reply to Nanase trailing off about Ranka, in both variants (first occurrence has no plate)."
+  },
+  {
+   "id": "c18703",
+   "en": "(That's another week done.\nWhat should I do this weekend...)",
+   "flags": [],
+   "notes": "Male, nml_nns_010."
+  },
+  {
+   "id": "c18704",
+   "en": "(Oh, it's Nanase...\nPerfect timing. Maybe I'll ask what her plans are.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18705",
+   "en": "Hey, Nanase. Got a minute?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18706",
+   "en": "\\p-kun,\nwhat's up?",
+   "flags": [],
+   "notes": "Nanase (male); also nml_nns_014 male. Fits both."
+  },
+  {
+   "id": "c18707",
+   "en": "Oh, I was just wondering how you're\nspending this weekend, Nanase...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18708",
+   "en": "This weekend? It'll be all part-time work\nat Nyan-Nyan.",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18709",
+   "en": "Huh, I see. That sounds rough...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18710",
+   "en": "Oh no, not at all!",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18711",
+   "en": "If I go to Nyan-Nyan, I get to see Ranka-san.",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18712",
+   "en": "And after work, Ranka-san and I...",
+   "flags": [],
+   "notes": "Both variants, Nanase; trails off as in the Japanese."
+  },
+  {
+   "id": "c18713",
+   "en": "Ah!?\nI'm sorry... I've been doing all the talking...",
+   "flags": [],
+   "notes": "Both variants, Nanase. Same phrasing as frd_nns_001."
+  },
+  {
+   "id": "c18714",
+   "en": "No worries. Well, good luck at work!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18715",
+   "en": "(Looks like Nanase really enjoys\nher part-time job too.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18716",
+   "en": "(That's another week done.\nWhat should I do this weekend~...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18717",
+   "en": "(Oh, it's Nanase...\nPerfect timing. I'll ask what her plans are~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18718",
+   "en": "Hey, Nanase. Got a sec?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18719",
+   "en": "Oh, nothing much. I was just wondering how\nyou're spending this weekend, Nanase...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18720",
+   "en": "Huh, I see. That sounds rough...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18721",
+   "en": "No worries. Well, good luck at work, okay!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18722",
+   "en": "(Looks like Nanase really enjoys\nher part-time job too.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18723",
+   "en": "(Phew, P.E. is next...)",
+   "flags": [],
+   "notes": "Male, nml_nns_011. \"taiiku\" = P.E."
+  },
+  {
+   "id": "c18724",
+   "en": "(Oh, today's a joint class with the girls...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18725",
+   "en": "Oh, Nanase.\nNo, it's nothing. I was just thinking how\ntoday's a joint class with the girls.",
+   "flags": [],
+   "notes": "Male, answering \"\\p-kun, what's up?\"."
+  },
+  {
+   "id": "c18726",
+   "en": "That's right. Though I'd rather\nit were just girls...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18727",
+   "en": "Oh, really? Why's that?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18728",
+   "en": "Well...",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18729",
+   "en": "Oh, it's about to start. Let's go!",
+   "flags": [],
+   "notes": "Both variants, Nanase."
+  },
+  {
+   "id": "c18730",
+   "en": "Huh? Oh, okay...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18731",
+   "en": "(Was it a reason Nanase had to think\nthat hard about...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18732",
+   "en": "(Okay, P.E. is next.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18733",
+   "en": "(Oh, today's a joint class with the boys...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18734",
+   "en": "Oh, Nanase.\nNo, it's nothing. I was just thinking how\ntoday's a joint class with the boys.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18735",
+   "en": "Huh, really? How come?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18736",
+   "en": "Hey, wait for me~!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18737",
+   "en": "(I wonder what Nanase's reason was...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18668: also tagged Nanase near the end of both variants of nml_nns_008 (duplicate string); translated as the player's opening monologue.",
+   "c18686: also tagged PLAYER near the end of both variants of nml_nns_009 (duplicate string); translated as Nanase's greeting.",
+   "c18691/c18699: 'kirei ni tobu' wordplay rendered 'fly nice and clean'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

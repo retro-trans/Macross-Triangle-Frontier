@@ -1,0 +1,403 @@
+{
+ "slice": 272,
+ "rows_in_slice": 65,
+ "rows_examined": 65,
+ "rows": [
+  {
+   "id": "c19524",
+   "en": "Wait, huh? \\p-kun?\nWhat are you doing here?",
+   "flags": [],
+   "notes": "Ranka, male. She is working at Nyan-Nyan."
+  },
+  {
+   "id": "c19525",
+   "en": "What am I doing here...?\nI came to eat, obviously.",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c19526",
+   "en": "R-right, of course!\nGeez, what a weird thing for me to ask.",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19527",
+   "en": "Okay, let me start over.\nWhat would you like to order?",
+   "flags": [],
+   "notes": "Ranka, both genders, switching to waitress politeness."
+  },
+  {
+   "id": "c19528",
+   "en": "Then, two maguro buns, please.",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c19529",
+   "en": "Certainly!\nJust wait a little, okay?",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19530",
+   "en": "(Seriously, just having Ranka here\nmakes the whole place feel brighter.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19531",
+   "en": "(I bet there are customers who come here\njust to see Ranka...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19532",
+   "en": "Here you go, maguro buns.",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19533",
+   "en": "You've been staring at me this whole time...\nIs there something you need?",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19534",
+   "en": "Well then, enjoy your meal~",
+   "flags": [],
+   "notes": "Ranka, both genders. 'goyukkuri'."
+  },
+  {
+   "id": "c19535",
+   "en": "(Maybe I stared a bit too much...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19536",
+   "en": "Wait, huh? \\p-chan?\nWhat are you doing here?",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c19537",
+   "en": "(Seriously, just having Ranka-chan here\nmakes the whole place feel brighter.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19538",
+   "en": "(I bet there are customers who come here\njust to see Ranka-chan...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19539",
+   "en": "(Okay, time to eat!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19540",
+   "en": "(Oh, that's right, Sheryl's new single\ncame out last week.)",
+   "flags": [],
+   "notes": "PLAYER, both genders. shinkyoku = new song; 'single' since it is bought."
+  },
+  {
+   "id": "c19541",
+   "en": "(Huh? Isn't that Ranka over there,\nlooking all happy?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19542",
+   "en": "Hey, Ranka!\nWhat's got you looking so happy?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19543",
+   "en": "Well, I got paid for my part-time job,\nso I could finally buy Sheryl's new single!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19544",
+   "en": "I'm just itching to rush home\nand really listen to it...!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19545",
+   "en": "So you're a Sheryl fan, Ranka.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19546",
+   "en": "A fan? That doesn't even cover it!\nI'm a huge, huge, HUGE fan!!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19547",
+   "en": "Ha ha, I see.",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c19548",
+   "en": "Anyway, I want to hurry home and listen,\nso I'll get going.",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19549",
+   "en": "Get home safe.",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c19550",
+   "en": "(Wow~ Ranka's a Sheryl fan through and through.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19551",
+   "en": "(Huh? Isn't that Ranka-chan over there,\nlooking all happy?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19552",
+   "en": "Hey, Ranka-chan!\nWhat's got you looking so happy?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19553",
+   "en": "Oh, \\p-chan.",
+   "flags": [],
+   "notes": "Ranka, female twin of c11512."
+  },
+  {
+   "id": "c19554",
+   "en": "So you're a Sheryl fan, Ranka-chan.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19555",
+   "en": "(Wow~ Ranka-chan's a Sheryl fan\nthrough and through.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19556",
+   "en": "(I stayed at school studying for a bit,\nand now I'm heading home late.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19557",
+   "en": "Ranka! What are you doing out\nwalking around at this hour?",
+   "flags": [],
+   "notes": "Male, answering her 'Huh? \\p-kun?'."
+  },
+  {
+   "id": "c19558",
+   "en": "I was chatting with Nana-chan after my shift,\nand before I knew it, it got this late...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19559",
+   "en": "Isn't Ozma-san strict about curfew and stuff?",
+   "flags": [],
+   "notes": "PLAYER, both genders. Ozma-san as in the Japanese."
+  },
+  {
+   "id": "c19560",
+   "en": "Yeah. I just called to say I'd be late, and now\nhe keeps going on about coming to pick me up\nat Nyan-Nyan. Even though home's not that far...",
+   "flags": [],
+   "notes": "Ranka, both genders. 'he' = Ozma."
+  },
+  {
+   "id": "c19561",
+   "en": "That just shows how worried he is\nabout you, Ranka.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19562",
+   "en": "Yeah, I know that.\nI'll get going so he won't worry any more.",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19563",
+   "en": "Okay, be careful.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19564",
+   "en": "You too, \\p-kun.\nSee you.",
+   "flags": [],
+   "notes": "Ranka, male."
+  },
+  {
+   "id": "c19565",
+   "en": "(Seriously, what a close brother and sister.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19566",
+   "en": "(I stayed at school studying for a bit,\nand now I'm heading home late.)",
+   "flags": [],
+   "notes": "Female twin of c19556."
+  },
+  {
+   "id": "c19567",
+   "en": "Huh? \\p-chan?",
+   "flags": [],
+   "notes": "Ranka, female twin of c18613."
+  },
+  {
+   "id": "c19568",
+   "en": "Ranka-chan! What are you doing out\nwalking around at this hour?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19569",
+   "en": "That just shows how worried he is\nabout you, Ranka-chan.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19570",
+   "en": "Okay, be careful.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19571",
+   "en": "You too, \\p-chan.\nSee you.",
+   "flags": [],
+   "notes": "Ranka, female."
+  },
+  {
+   "id": "c19572",
+   "en": "(Seriously, what a close brother and sister.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19573",
+   "en": "That's Ranka over there, right...?\nOh, they're shooting a commercial!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19574",
+   "en": "You look like you're doing great, Ranka.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19575",
+   "en": "Yep, I'm doing great.",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19576",
+   "en": "So, um, the thing is, we're filming right now,\nso I'd kind of like you to keep it down\njust a little...",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19577",
+   "en": "Oh, right... Sorry, sorry...\nI got a little too excited...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c19578",
+   "en": "No, I'm the one who's sorry.\nYou were cheering me on and everything.",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19579",
+   "en": "Oh, they're calling me, so I've gotta go!",
+   "flags": [],
+   "notes": "Ranka, both genders."
+  },
+  {
+   "id": "c19580",
+   "en": "Okay, go get 'em.",
+   "flags": [],
+   "notes": "Male. ganbare yo."
+  },
+  {
+   "id": "c19581",
+   "en": "(Ranka's totally become the girl of the moment.)",
+   "flags": [],
+   "notes": "Male. toki no hito."
+  },
+  {
+   "id": "c19582",
+   "en": "That's Ranka-chan over there, right...?\nOh, they're shooting a commercial!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19583",
+   "en": "Yoo-hoo! Ranka-chaaan! Go for it!!",
+   "flags": [],
+   "notes": "Female; male twin c17968."
+  },
+  {
+   "id": "c19584",
+   "en": "Oh, looks like she noticed!",
+   "flags": [],
+   "notes": "Female; same English as male c17970."
+  },
+  {
+   "id": "c19585",
+   "en": "You look like you're doing great, Ranka-chan.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19586",
+   "en": "Oh, right... Sorry, sorry...\nI got a little too excited... Tee-hee...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19587",
+   "en": "Okay, good luck!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c19588",
+   "en": "(Ranka-chan's totally become\nthe girl of the moment.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,511 @@
+{
+ "slice": 51,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p2_slv/118",
+   "en": "Target destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/119",
+   "en": "Looks like I took it out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/120",
+   "en": "That much is a given.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/121",
+   "en": "My shield's been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/122",
+   "en": "No! My shield was destroyed!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/123",
+   "en": "It's only the shield! I can still fight!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"shiirudo kurai\" = \"shiirudo kurai nara mada\" (if it is just the shield...)."
+  },
+  {
+   "id": "p2_slv/124",
+   "en": "Damage like this is no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/125",
+   "en": "I'm fine! I can still fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/126",
+   "en": "You've got some nerve.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/127",
+   "en": "It's too early to start whining.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/128",
+   "en": "This is starting to be no laughing matter.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/129",
+   "en": "This situation is bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/130",
+   "en": "At this rate, I'm a rat in a trap.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/131",
+   "en": "I can't exactly call this a good situation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/132",
+   "en": "I can't give up that easily...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/133",
+   "en": "Like I'd let them beat me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/134",
+   "en": "Is there nothing I can do...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/135",
+   "en": "I'll bet on whatever chance is left, however slim.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/136",
+   "en": "Looks like this is as far as I go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/137",
+   "en": "I'm hit! The rest is up to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/138",
+   "en": "It can't end like this... No...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/139",
+   "en": "Do you want to die?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/140",
+   "en": "Stop this foolishness!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/141",
+   "en": "Get out of there, now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/142",
+   "en": "That's what reckless gets you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/143",
+   "en": "Eject, now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/144",
+   "en": "That idiot!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/148",
+   "en": "Thank you for the reinforcements.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/149",
+   "en": "Looks like the tide is with us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/150",
+   "en": "These reinforcements should turn the battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/151",
+   "en": "How could this happen!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/152",
+   "en": "No... how could this...",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"sonna konna koto tte\" read as \"sonna, konna koto tte\"."
+  },
+  {
+   "id": "p2_slv/153",
+   "en": "It's my fault I couldn't protect them.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "What she failed to protect is not said; \"them\" chosen as neutral."
+  },
+  {
+   "id": "p2_slv/154",
+   "en": "Looks like the operation was a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/155",
+   "en": "I only did my duty as a pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/156",
+   "en": "If only these victories could last forever.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/157",
+   "en": "No! We're too late!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/158",
+   "en": "Out of time? How could this happen!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/159",
+   "en": "If only we'd dealt with it sooner, this wouldn't have...",
+   "flags": [],
+   "notes": "Subject not given; \"we\" (contrast 161, which says watashi)."
+  },
+  {
+   "id": "p2_slv/160",
+   "en": "The operation's failed. We're returning to base at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/161",
+   "en": "If only I'd handled it better...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/162",
+   "en": "It's no use...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/163",
+   "en": "Covering fire, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/164",
+   "en": "Could you cover me from the rear?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/165",
+   "en": "Focus on shooting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/166",
+   "en": "I'm leaving close combat to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/167",
+   "en": "I'm counting on you up front.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"zen-in\" (everyone) is most likely \"zen-ei\" (vanguard), between the melee orders 166 and 168."
+  },
+  {
+   "id": "p2_slv/168",
+   "en": "Go in with melee attacks!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/169",
+   "en": "You, pull back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/170",
+   "en": "Guard and get ready for the enemy's attack!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/171",
+   "en": "Regroup, quickly!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/172",
+   "en": "You're up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/173",
+   "en": "Now! Do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/174",
+   "en": "Hit the enemy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/175",
+   "en": "Stay away from me right now, for your own good!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/176",
+   "en": "Think you can keep up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/177",
+   "en": "I'm not an ace pilot for nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/178",
+   "en": "Roger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/179",
+   "en": "OK!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/180",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/181",
+   "en": "What good is a captain who can't keep it together?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript \"taichou\" in the wrong kanji (physical condition); meant Captain."
+  },
+  {
+   "id": "p2_slv/182",
+   "en": "Looks like the Captain's in danger.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/183",
+   "en": "Are you all right, Captain?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/184",
+   "en": "No... the Captain was shot down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/185",
+   "en": "The Captain... You're kidding, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/186",
+   "en": "To think an enemy could down the Captain...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/187",
+   "en": "To think a song like this exists...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/188",
+   "en": "A song that isn't a tool of war... I'm withdrawing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/189",
+   "en": "The power of song... I never knew it was this incredible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/190",
+   "en": "Keep hitting the enemy like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/197",
+   "en": "Thank you for the rescue.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/198",
+   "en": "Looks like I've been saved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/300",
+   "en": "This is the worst. You, of all people, as my partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/301",
+   "en": "Just stay out of my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/302",
+   "en": "I don't want to fight alongside you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/303",
+   "en": "From here on, I can't guarantee you'll survive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/304",
+   "en": "Let's go. Are you ready?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/305",
+   "en": "Don't do anything reckless. Just focus on staying alive.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/306",
+   "en": "I'm counting on your skills.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p2_slv/307",
+   "en": "We're going to make this operation a success.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 4033 p2_slv/153: What she failed to protect is not said; \"them\" chosen as neutral."
+  ],
+  "whisper_doubt": [
+   "row 4006 p2_slv/123: Transcript \"shiirudo kurai\" = \"shiirudo kurai nara mada\" (if it is just the shield...).",
+   "row 4032 p2_slv/152: Transcript \"sonna konna koto tte\" read as \"sonna, konna koto tte\".",
+   "row 4047 p2_slv/167: Transcript \"zen-in\" (everyone) is most likely \"zen-ei\" (vanguard), between the melee orders 166 and 168.",
+   "row 4061 p2_slv/181: Transcript \"taichou\" in the wrong kanji (physical condition); meant Captain."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

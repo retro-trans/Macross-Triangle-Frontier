@@ -1,0 +1,413 @@
+{
+ "slice": 261,
+ "rows_in_slice": 66,
+ "rows_examined": 66,
+ "rows": [
+  {
+   "id": "c18805",
+   "en": "(Phew~, classes are finally over for today~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18806",
+   "en": "\\p-kun,\ndo you have a minute?",
+   "flags": [],
+   "notes": "Also listed under the female version of the scene."
+  },
+  {
+   "id": "c18807",
+   "en": "Oh, Nanase. What's up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18808",
+   "en": "Um, I'd like to ask you to do a little\nheavy lifting for me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18809",
+   "en": "Huh? What's going on?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18810",
+   "en": "Yes, there's something I'd like you\nto carry to the art room for me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18811",
+   "en": "Oh, no problem at all. So what is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18812",
+   "en": "Thank you so much!\nUm, it's this right here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18813",
+   "en": "Huh?! This huge plaster statue?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18814",
+   "en": "Yes, I'm sorry.\nCould I ask you to do it?",
+   "flags": [],
+   "notes": "Shared m/f; in the female scene the two carry it together, 'ask you to do it' fits both."
+  },
+  {
+   "id": "c18815",
+   "en": "Oh... s-sure...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18816",
+   "en": "(Phew~, I'm beat...\nIt might've been easier if I'd carried it\nwearing my EX-Gear...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18817",
+   "en": "(Phew~, classes are finally over for today~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18818",
+   "en": "\\p-san,\ndo you have a minute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18819",
+   "en": "Um, I'd like to ask you for a little help...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18820",
+   "en": "Huh? What? What's up?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18821",
+   "en": "Yes, there's something I'd like you\nto help me carry to the art room...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18822",
+   "en": "Sure, got it. So what is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18823",
+   "en": "Um... this huge plaster statue?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18824",
+   "en": "Oh... r-right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18825",
+   "en": "(Phew~, I'm beat...\nWith my EX-Gear on, I could've carried it\neasily, even by myself.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18826",
+   "en": "(Whoa, it's Ranka everywhere.\nShe's really started climbing the stairs\nto stardom as the Super Dimension Cinderella.)",
+   "flags": [],
+   "notes": "Shared with nml_rnk_018 and nml_she_018 (male); works in all three."
+  },
+  {
+   "id": "c18827",
+   "en": "What are you doing in a place like this,\n\\p-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18828",
+   "en": "Oh, Nanase.\nI was just amazed at how well Ranka's doing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18829",
+   "en": "...I'm happy Ranka-san made it as an idol,\nbut it also feels like she's gone somewhere\nfar away, and that makes me a little sad...",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c18830",
+   "en": "Nanase...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18831",
+   "en": "You care about Ranka that much, right?\nSo of course Ranka thinks of you\nas a precious friend too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18832",
+   "en": "So you don't need to think that\nRanka's gone off somewhere far away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18833",
+   "en": "\\p-kun...\nThank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18834",
+   "en": "You're right.\nFrom now on, I have to keep cheering\nRanka-san on with all I've got!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18835",
+   "en": "That's the spirit, Nanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18836",
+   "en": "(Nanase really loves Ranka, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18837",
+   "en": "(Whoa, it's Ranka-chan everywhere.\nShe's really started climbing the stairs\nto stardom as the Super Dimension Cinderella.)",
+   "flags": [],
+   "notes": "Shared with nml_rnk_018 and nml_she_018 (female)."
+  },
+  {
+   "id": "c18838",
+   "en": "What are you doing in a place like this,\n\\p-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18839",
+   "en": "Oh, Nanase.\nI was just amazed at how well Ranka-chan's doing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18840",
+   "en": "You care about Ranka-chan that much, right?\nSo of course Ranka-chan thinks of you\nas a precious friend too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18841",
+   "en": "So you don't need to think that\nRanka-chan's gone off somewhere far away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18842",
+   "en": "\\p-san...\nThank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18843",
+   "en": "That's the spirit, Nanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18844",
+   "en": "(Nanase really loves Ranka-chan, huh.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18845",
+   "en": "(Hmm... I've been wondering about this\nfor a while now...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18846",
+   "en": "Hey, Nanase, don't they get in the way,\nbeing that big?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Deliberately ambiguous: the player means her glasses (c18852), Nanase hears her chest. 'they' keeps both readings."
+  },
+  {
+   "id": "c18847",
+   "en": "I've heard they give you stiff shoulders, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18848",
+   "en": "Stiff shoulders, getting in the way in P.E.,\nboys staring at them...\nThere's nothing good about them at all!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18849",
+   "en": "How could you make fun of someone's\ncomplex like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18850",
+   "en": "You're the worst!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18851",
+   "en": "Huh?! Ah, Nanase...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18852",
+   "en": "(Huh?\nUmm, I was asking about her glasses...)",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c18853",
+   "en": "I've heard they give you stiff shoulders, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18854",
+   "en": "(Nanase really loves Ranka, doesn't she...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18855",
+   "en": "You and Ranka sure are close, huh, Nanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18856",
+   "en": "Of course!\nRanka-san and I are each other's one and\nonly best friend!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18857",
+   "en": "From the moment we met, Ranka-san was\njust so lovely...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18858",
+   "en": "Ranka-san...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18859",
+   "en": "H-Heyyy, Nanase?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18860",
+   "en": "Oh, n-no!\nI almost got lost in my own little world.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18861",
+   "en": "Do you understand?!\n\\p-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18862",
+   "en": "U-Understand what?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18863",
+   "en": "Ranka-san is an angel who descended\nupon this Frontier!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18864",
+   "en": "U-Uh, okay...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18865",
+   "en": "Please show Ranka-san more reverence!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18866",
+   "en": "(Nanase loves Ranka way too much...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18867",
+   "en": "(Nanase really loves Ranka-chan, doesn't she.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18868",
+   "en": "You and Ranka-chan sure are close, huh, Nanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18869",
+   "en": "Do you understand?!\n\\p-san!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18870",
+   "en": "(Nanase loves Ranka-chan way too much...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18846: 'don't they get in the way, being that big?' keeps the glasses/chest misunderstanding with 'they'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

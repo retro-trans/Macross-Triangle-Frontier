@@ -1,0 +1,385 @@
+{
+ "slice": 282,
+ "rows_in_slice": 61,
+ "rows_examined": 61,
+ "rows": [
+  {
+   "id": "c20213",
+   "en": "(Ahhh~, I'm starving~\nWhat should I have for lunch today...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20214",
+   "en": "Ooh, just the person I needed!\n\\p, spotted!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20215",
+   "en": "Hm? Do you need something from me?",
+   "flags": [],
+   "notes": "Shared with scd_com_626 (male player); works there too."
+  },
+  {
+   "id": "c20216",
+   "en": "Well, for once I actually made some sandwiches,\nbut I got a little carried away\nand made way too many.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20217",
+   "en": "I'd really appreciate it if you'd\nhelp me eat them...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20218",
+   "en": "You cooking, Hoshimura? That's rare.\nI'd love to have some.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20219",
+   "en": "That's my \\p!\nGo on, eat up, eat up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20220",
+   "en": "Thanks for the food.\n...Hm? What's in this sandwich?\nWhy is it all sparkly?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20221",
+   "en": "Oh, that one? It's Starlight Natto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20222",
+   "en": "...Huh?",
+   "flags": [],
+   "notes": "Shared by both player genders."
+  },
+  {
+   "id": "c20223",
+   "en": "And this one's a sandwich born of a genius idea:\na maguro bun sandwiched in bread...\nand this one is...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20224",
+   "en": "Sorry, Hoshimura.\nI just remembered I've got something to do...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20225",
+   "en": "Even so, at least eat one before you go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20226",
+   "en": "See ya, Hoshimura!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20227",
+   "en": "(Starlight Natto, seriously...\nThat's not something you put in a sandwich,\nHoshimura...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20228",
+   "en": "(Ahhh~, I'm starving~\nWhat should I have for lunch today...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20229",
+   "en": "Hm? Do you need something from me?",
+   "flags": [],
+   "notes": "Shared with scd_com_626 (female player); works there too."
+  },
+  {
+   "id": "c20230",
+   "en": "You cooking, Yui? That's rare.\nI'd love to have some.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20231",
+   "en": "Thanks for the food.\n...Hm? What's in this sandwich?\nWhy is it all sparkly?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20232",
+   "en": "Sorry, Yui.\nI just remembered I've got something to do...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20233",
+   "en": "See you, Yui!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20234",
+   "en": "(Starlight Natto, seriously...\nThat's not something you put in a sandwich,\nYui...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20235",
+   "en": "(Hm? There's noise coming from the Pilot Course\nstoreroom... Is somebody in there?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20236",
+   "en": "This goes like this, so\nthat goes like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20237",
+   "en": "(Oh, it's just Hoshimura.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20238",
+   "en": "What are you doing, Hoshimura?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20239",
+   "en": "Then I do this here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20240",
+   "en": "Hellooo? Hoshimura-saaan?",
+   "flags": [],
+   "notes": "The player teasingly adds -san (Hoshimura-saan) to the usual bare surname; kept."
+  },
+  {
+   "id": "c20241",
+   "en": "(She's totally oblivious to everything around her...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20242",
+   "en": "Well, you look busy, so see you later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20243",
+   "en": "Alriiight~! Done~!!\nFor Yui-san, a job like this is\nas easy as a twiddly-tweak!",
+   "flags": [],
+   "notes": "Chochoi no choi: echoes 'twiddly-tweak' from frd_yui_001 (c14091)."
+  },
+  {
+   "id": "c20244",
+   "en": "So, what did you need,\n\\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20245",
+   "en": "Wait, huh? Nobody's here......?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20246",
+   "en": "(Hm? There's noise coming from the Pilot Course\nstoreroom... Is somebody in there?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20247",
+   "en": "(Oh, it's just Yui.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20248",
+   "en": "What are you doing, Yui?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20249",
+   "en": "Hellooo? Yui-saaan?",
+   "flags": [],
+   "notes": "Player teasingly adds -san; kept."
+  },
+  {
+   "id": "c20250",
+   "en": "(She's totally oblivious to everything around her...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20251",
+   "en": "Well, you look busy, so see you later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20252",
+   "en": "(Next class is pool. I'd better hurry up and get ready.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20253",
+   "en": "Alriiight~!! It's pool time~!\nI'm gonna swim till I drop~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20254",
+   "en": "...Hoshimura, you're getting way too worked up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20255",
+   "en": "But I've been looking forward to it so much!\nI couldn't wait, so I've already got\nmy swimsuit on under my clothes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20256",
+   "en": "(It's not like she's in elementary school...)",
+   "flags": [],
+   "notes": "Shared by both genders. Shotou-ka = the elementary division; 'elementary schooler' as in c07888/c17211."
+  },
+  {
+   "id": "c20257",
+   "en": "That reminds me, back in elementary school\nthere was a kid who wore their swimsuit under\ntheir clothes like you and forgot their underwear.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The forgetful classmate is unidentified (yatsu / ko): kept gender-neutral with singular 'they'."
+  },
+  {
+   "id": "c20258",
+   "en": "Hahaha! Somebody was really that dumb?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20259",
+   "en": "Yeah, there was. Pretty funny, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20260",
+   "en": "Forgetting your underwear......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20261",
+   "en": "That's... not... so funny......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20262",
+   "en": "Hm?\nWhy are you glaring at your bag like that, Hoshimura?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20263",
+   "en": "N-No, it's nothing, really!\nSeriously, nothing at all! No problemo!",
+   "flags": [],
+   "notes": "Muumantai (Cantonese 'no problem') rendered 'No problemo!'."
+  },
+  {
+   "id": "c20264",
+   "en": "Hey... Hoshimura......\nDon't tell me......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20265",
+   "en": "Oh, silly me, I just remembered\nI've got something to do! See ya!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20266",
+   "en": "(Hoshimura... No way... Right......?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20267",
+   "en": "(Next class is pool. I'd better hurry up and get ready.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20268",
+   "en": "...Yui, you're getting way too worked up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20269",
+   "en": "That reminds me, back in elementary school\nthere was a kid who wore their swimsuit under\ntheir clothes like you and forgot their underwear.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Classmate unidentified: neutral 'they'."
+  },
+  {
+   "id": "c20270",
+   "en": "Yeah, there was. Pretty funny, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20271",
+   "en": "Hm?\nWhy are you glaring at your bag like that, Yui?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20272",
+   "en": "Hey... Yui......\nDon't tell me......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20273",
+   "en": "(Yui... No way... Right......?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c20257/c20269: the elementary-school classmate who forgot their underwear is unidentified; kept neutral with singular 'they'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

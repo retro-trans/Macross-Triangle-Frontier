@@ -1,0 +1,498 @@
+{
+ "slice": 82,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c06074",
+   "en": "(Well, that's it for classes today...\nMaybe I'll try talking to Hilda-sensei...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06075",
+   "en": "(Now, plans for this weekend...\nMaybe I could invite Hilda-sensei\nshopping in Deep Akihabara...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06076",
+   "en": "Yes. I was wondering if you'd like to\ngo shopping in Deep Akihabara with me\nthis weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06077",
+   "en": "Deep Akihabara, huh...\nThat might be fun, for a change...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06078",
+   "en": "Yes, I was thinking maybe we could\ngo shopping in Deep Akihabara together\nthis weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06079",
+   "en": "(Now, plans for this weekend...\nMaybe I could invite Hilda-sensei\nto a concert at Sky Gate...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06080",
+   "en": "A concert, huh... Come to think of it,\nI haven't been to one in a long time...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06081",
+   "en": "Yes, I was thinking maybe we could\ngo to a concert at Sky Gate together\nthis weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06082",
+   "en": "(Now, plans for this weekend...\nMaybe I'll invite Hilda-sensei\nto Nyan-Nyan...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06083",
+   "en": "Yes. I was wondering if you'd like to\nhave a meal with me at Nyan-Nyan\nthis weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06084",
+   "en": "Hmm... Chinese food, huh...\nThat does sound good...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06085",
+   "en": "Yes, I was thinking maybe we could\nhave a meal together at Nyan-Nyan\nthis weekend...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06086",
+   "en": "(I came to the library to kill time, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06087",
+   "en": "(There are so many books, I don't know\nwhat to read...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06088",
+   "en": "\\p, is it?\nIt's unusual to run into you\nin a place like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06089",
+   "en": "Are you here to read, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06090",
+   "en": "Some new books came in,\nso I came here to read them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06091",
+   "en": "Aren't you going to read something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06092",
+   "en": "I'd like to, but there are just\ntoo many to choose from...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06093",
+   "en": "Hm.\nThen tell me what genres you like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06094",
+   "en": "You'll pick something for me, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06095",
+   "en": "I've gone through every book\nin this collection, after all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06096",
+   "en": "...Huh?",
+   "flags": [],
+   "notes": "Shared: the player here and in Claire's scene (c16098 context), and Shirakawa in nml_myk_007. Neutral."
+  },
+  {
+   "id": "c06097",
+   "en": "You mean all of them?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06098",
+   "en": "How else could you possibly take it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06099",
+   "en": "That's amazing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06100",
+   "en": "Only natural for a teacher, is it not?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06101",
+   "en": "(I don't think being a teacher has\nanything to do with it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06102",
+   "en": "So, what are your favorite genres\nand authors?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06103",
+   "en": "Oh, right!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06104",
+   "en": "Thank you for today.\nFor helping me look for books.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06105",
+   "en": "Think nothing of it.\nGuiding students properly is\na teacher's natural duty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06106",
+   "en": "Well then, get home safely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06107",
+   "en": "Okay. Goodbye, Yamashiro-sensei!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06108",
+   "en": "Yeah, see you.",
+   "flags": [],
+   "notes": "Shared by Yamashiro, Kagura and the male player (to Luca, to Ranka): neutral."
+  },
+  {
+   "id": "c06109",
+   "en": "(Okay~ Time to go home and relax.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06110",
+   "en": "Oh yes. Write up a report on the books\nyou borrowed today by early next week.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06111",
+   "en": "Whaaat~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06112",
+   "en": "Of course. It's not enough just to\nacquire knowledge. It only has meaning\nonce you output it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06113",
+   "en": "I-I'll do my best...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06114",
+   "en": "(Sigh... Better do my best...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06115",
+   "en": "(There are so many books, I have no idea\nwhat to read...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06116",
+   "en": "Yamashiro-sensei, hello.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06117",
+   "en": "Whaaaat~~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06118",
+   "en": "(Sigh... Guess I'll do my best...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06119",
+   "en": "(It's been a while since I came to\nthe library, so I'll read a book!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06120",
+   "en": "\\p.\nBack at the library again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06121",
+   "en": "Yes, I thought I'd read a book or two.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06122",
+   "en": "A fine attitude.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06123",
+   "en": "Very well. As a special favor,\nI shall choose a book suited to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06124",
+   "en": "Huh? Oh, no... Really...\nYou don't have to...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06125",
+   "en": "Now, now, no need to hold back.\nI'll pick out something you're sure\nto like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06126",
+   "en": "...Thank you for choosing for me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06127",
+   "en": "And I suppose this book too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06128",
+   "en": "That's right. Once you've finished it,\nhand in a report.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06129",
+   "en": "Knowledge only has meaning\nonce you output it, right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06130",
+   "en": "So you do understand.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06131",
+   "en": "Hahaha... I'm your student, after all!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06132",
+   "en": "(...At least the book looks interesting...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06133",
+   "en": "(My time just isn't improving~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06134",
+   "en": "(How do I get faster...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06135",
+   "en": "Well, I'll try one more run for now...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06136",
+   "en": "\\p.\nWhat's this, training on your own?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06137",
+   "en": "Oh, Yamashiro-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06138",
+   "en": "I've been watching you run for a bit.\nRunning aimlessly like that\naccomplishes nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06139",
+   "en": "Listen. Never lose awareness of\nevery part of your body.\nCome on, knees up high!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06140",
+   "en": "Good! Now straighten your back\nand tuck your chin!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06141",
+   "en": "Gweeehh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06142",
+   "en": "Mm, that's the spirit.\nKeep that feeling in mind\nand do a run!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06143",
+   "en": "(Is Yamashiro-sensei surprisingly\nhot-blooded?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06144",
+   "en": "Huff, huff...\nHow was that...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06145",
+   "en": "Hmm, not much different.\nIf anything, your balance got worse...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06146",
+   "en": "R-really...?\nI did exactly what you advised, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06147",
+   "en": "Well, if one piece of advice could\nfix everything, everyone would be\na gold medalist.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06148",
+   "en": "That's true...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06149",
+   "en": "If you drill it into your body through\nrepetition from now on, your times\nwill follow eventually.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06150",
+   "en": "Okay, I'll do my best!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06151",
+   "en": "Well then, don't overdo it\nby staying out too late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06152",
+   "en": "Proper exercise and adequate rest.\nUnless the two mesh, you won't improve.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06153",
+   "en": "(So training needs theory too...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c06112/c06129: Yamashiro's 'autoputto' (output) kept as the verb 'output' ('It only has meaning once you output it'), so the player's later callback matches word for word.",
+   "c06127 'soshite yappari kono hon mo...' read as the player bracing for another report ('And I suppose this book too...'); Yamashiro's reply c06128 confirms.",
+   "c06139 'momo mo takaku ageru' (raise your thighs high) rendered 'knees up high', the usual English running cue.",
+   "c06116 kept in the Japanese order 'Yamashiro-sensei, hello.' (c01153 has the reverse order 'Hello, Yamashiro-sensei.')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

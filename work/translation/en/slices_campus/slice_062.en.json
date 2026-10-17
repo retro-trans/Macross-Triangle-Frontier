@@ -1,0 +1,497 @@
+{
+ "slice": 62,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c04596",
+   "en": "(I promised to go out with Claire-senpai\nagain today...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04597",
+   "en": "So, where should we go today?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04598",
+   "en": "I want to buy some new clothes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04599",
+   "en": "What kind of clothes are you planning to buy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04600",
+   "en": "I've been invited to my cousin's wedding~\nso I need to go buy a dress...",
+   "flags": [],
+   "notes": "Itoko written with the 'elder female cousin' kanji; 'cousin' is enough."
+  },
+  {
+   "id": "c04601",
+   "en": "That's wonderful news!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04602",
+   "en": "Hehe, thank you.",
+   "flags": [],
+   "notes": "Consistent with c00712."
+  },
+  {
+   "id": "c04603",
+   "en": "What about you, Claire-senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04604",
+   "en": "What about me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04605",
+   "en": "Getting married.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04606",
+   "en": "Hey, just how old do you think I am!?\nI'm 19! A teenager in full bloom!!",
+   "flags": [],
+   "notes": "Hana no juudai."
+  },
+  {
+   "id": "c04607",
+   "en": "Eeeek...\nI-I'm sooo sorry~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04608",
+   "en": "Of course I'm not getting married yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04609",
+   "en": "O-oh, okay.",
+   "flags": [],
+   "notes": "Consistent with c00353."
+  },
+  {
+   "id": "c04610",
+   "en": "Are you relieved?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04611",
+   "en": "Huh? Well, yeah, kinda... I mean, yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04612",
+   "en": "Look at that happy face!\nHow cute!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04613",
+   "en": "Please stop poking my cheek~!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04614",
+   "en": "Then I'll do this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04615",
+   "en": "Nggghh...\nPwease don't pull my cheeksh~",
+   "flags": [],
+   "notes": "Slurred 'kurahai' (cheeks being pulled)."
+  },
+  {
+   "id": "c04616",
+   "en": "Ahaha!\nIt stretches just like mochi~!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04617",
+   "en": "Thanks for today.\nI found a nice dress thanks to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04618",
+   "en": "You're welcome.\nI'm glad I got to see you in a beautiful\ndress, Senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04619",
+   "en": "Honestly, the only thing you've gotten\nbetter at is flattery...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04620",
+   "en": "I'm telling the truth! I don't flatter people!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04621",
+   "en": "Thank you, that makes me happy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04622",
+   "en": "Well then, shall we head home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04623",
+   "en": "Why don't we hold hands on the way?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04624",
+   "en": "Y-yesss!!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04625",
+   "en": "(Senpai's hand is so smooth~!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04626",
+   "en": "(I promised to go out with Claire-senpai\nagain today...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04627",
+   "en": "So, where are we going today?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04628",
+   "en": "Congratulations to them!!",
+   "flags": [],
+   "notes": "Female only; the congratulations are for the cousin's wedding."
+  },
+  {
+   "id": "c04629",
+   "en": "Getting married, of course.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04630",
+   "en": "Please stop poking my cheek~\nSenpai!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04631",
+   "en": "What cute cheeks!\nI could just eat them up!!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04632",
+   "en": "I'm telling the truth! I don't flatter people!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04633",
+   "en": "(Senpai's hand is so smooth~!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04634",
+   "en": "(Shopping with Claire-senpai again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04635",
+   "en": "(Whoa! Senpai's already here!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04636",
+   "en": "You're late, \\p-kun.\nYou've got some nerve, keeping me waiting.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04637",
+   "en": "I-I'm sorry.",
+   "flags": [],
+   "notes": "x6: player here and in frd_itk_103, Luca in frd_luk_004."
+  },
+  {
+   "id": "c04638",
+   "en": "As punishment, maybe I'll have you\ntreat me to a crepe.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04639",
+   "en": "...Well, if you want one, Senpai,\nit's my treat anyway!",
+   "flags": [],
+   "notes": "Player: not as a punishment, but gladly."
+  },
+  {
+   "id": "c04640",
+   "en": "Then let's eat it together.",
+   "flags": [],
+   "notes": "One crepe shared, hence the player's reaction."
+  },
+  {
+   "id": "c04641",
+   "en": "(Wait, does that mean...!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04642",
+   "en": "Ah, you're thinking something weird.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04643",
+   "en": "I-I am not!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04644",
+   "en": "Are you really sure about that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04645",
+   "en": "That crepe was delicious~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04646",
+   "en": "The sweet smell of the batter cooking is\nthe best. And the cream wasn't too sweet\nor too heavy, either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04647",
+   "en": "Yeah, yeah. It was worth waiting in line\nfor an hour~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04648",
+   "en": "Well then, shall we walk to the station\ntogether?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04649",
+   "en": "(That crepe was delicious~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04650",
+   "en": "You're late, \\p-chan.\nYou've got some nerve, keeping me waiting.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c04651",
+   "en": "(I got to spend another fun day\nwith Claire-senpai.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04652",
+   "en": "Hehe, today was fun too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04653",
+   "en": "I'm glad to hear you say that.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04654",
+   "en": "Say, do you have... some time after this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04655",
+   "en": "Time? Sure, I do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04656",
+   "en": "Then how about we go to my special spot?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04657",
+   "en": "Your special spot?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04658",
+   "en": "Did you forget?\nThe special spot with the beautiful sunset.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04659",
+   "en": "Oh, Griffith Park!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04660",
+   "en": "Correct!\nI was worried you might have forgotten.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04661",
+   "en": "(That was a close one...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c04662",
+   "en": "Th-there's no way I'd forget.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04663",
+   "en": "That's where you took me when you\nshowed me around town, Senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04664",
+   "en": "Hehe, just kidding.\nWell then, shall we go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04665",
+   "en": "What a nice view.\nAnd the breeze feels so good...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04666",
+   "en": "...Did something happen?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04667",
+   "en": "No, not really. Nothing happened.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04668",
+   "en": "Maybe it's because nothing has... I guess.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Nani mo nai kara... kana: she is restless precisely because nothing has happened between them (the next lines). Kept close to the Japanese."
+  },
+  {
+   "id": "c04669",
+   "en": "There are all kinds of people around you,\nand you're busy every single day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04670",
+   "en": "And still, you spend your time\nwith me like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04671",
+   "en": "That makes me really happy, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04672",
+   "en": "Senpai?",
+   "flags": [],
+   "notes": "Consistent with c00588."
+  },
+  {
+   "id": "c04673",
+   "en": "I wonder what I am to you?\nJust your senpai?\nOr...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04674",
+   "en": "I like you.",
+   "flags": [],
+   "notes": "Confession; shared by both genders."
+  },
+  {
+   "id": "c04675",
+   "en": "Not as my underclassman,\nbut as a man.",
+   "flags": [],
+   "notes": "Male only."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c04668: 'Maybe it's because nothing has... I guess.' read as nothing having happened between them (the lines after it)"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

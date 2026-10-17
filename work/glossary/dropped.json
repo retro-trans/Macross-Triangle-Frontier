@@ -1,0 +1,352 @@
+{
+ "_meta": {
+  "generated_by": "tools/glossary_seed.py",
+  "note": "MUF/AF glossary entries whose name appears in MUF or AF text but nowhere in Triangle Frontier text. Left out of the TF glossary; restore one if it turns up (voice, images)."
+ },
+ "characters/characters": [
+  {
+   "ja": "西岡編集長",
+   "en": "Editor-in-Chief Nishioka",
+   "muf_af_uses": 2
+  },
+  {
+   "ja": "浜村通信",
+   "en": "Hamamura Tsushin",
+   "muf_af_uses": 3
+  },
+  {
+   "ja": "バカタール加藤",
+   "en": "Bakataru Kato",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "倉西編集長",
+   "en": "Editor-in-Chief Kuranishi",
+   "muf_af_uses": 3
+  }
+ ],
+ "mecha/objects": [
+  {
+   "ja": "ピケット艦",
+   "en": "picket ship",
+   "muf_af_uses": 6
+  },
+  {
+   "ja": "空母級バジュラ艦",
+   "en": "Carrier-class Vajra",
+   "muf_af_uses": 10
+  },
+  {
+   "ja": "隕石群",
+   "en": "asteroid field",
+   "muf_af_uses": 3
+  },
+  {
+   "ja": "フライトテストターゲット",
+   "en": "flight test target",
+   "muf_af_uses": 1
+  }
+ ],
+ "terms/missions": [
+  {
+   "ja": "ファースト・ステップ",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "スペース・フォールド",
+   "en": "Space Fold",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "アベレージ・ルーキー",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "ロンゲスト・バースデー",
+   "en": "Longest Birthday",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "ファースト・コンタクト",
+   "en": "First Contact",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "ドロップ・アウト",
+   "en": "Drop Out",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "コンバット・トレーニング",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "サプライ・ブロック",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "バーミリオン・スコードロン",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "タイト・ロープ",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "デストロイ・デストロイド",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "マクロス・インベイジョン",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "リボルト・ボドルザー",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "トレーニング・バトル",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "コントロール・テスト",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "インファイト・テスト",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "イン・ザ・ブルー",
+   "en": "In the Blue",
+   "muf_af_uses": 2
+  },
+  {
+   "ja": "サボタージュ・ミッション",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "バトル・エデン",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "バーニング・スノウ",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "ニュープレリュード",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "セーフナビゲーション",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "スピリットギャル",
+   "en": "Spirit Girls",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "戦う女市長ミリア",
+   "en": "Fighting Woman Mayor Milia",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "宇宙遺跡のナゾ？",
+   "en": "Mystery of the Cosmic Ruins?",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "古の亡霊",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "不意の急襲",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "野望の第4惑星",
+   "en": "Ambition on Varauta 4",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "ガムリンの叛乱",
+   "en": "Gamlin's Revolt",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "スピリチアドリーム",
+   "en": "",
+   "muf_af_uses": 4
+  },
+  {
+   "ja": "ファイアーボンバー",
+   "en": "Fire Bomber",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "ハード・チェイス",
+   "en": "Hard Chase",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "タフ・シミュレーション",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "シークレット・ベース",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "ニューエアフレーム",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "デーモン・オフィサー",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "ならずもの",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "統合軍2059",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "戦士との戦い",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "マクロス地獄",
+   "en": "",
+   "muf_af_uses": 3
+  },
+  {
+   "ja": "ジャイアント・エネミー",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "マクロスエースフロンティア",
+   "en": "Macross Ace Frontier",
+   "muf_af_uses": 8
+  },
+  {
+   "ja": "ファミ通・おぼえていますか",
+   "en": "Do You Remember Famitsu?",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "ジェネレーション・ドライブ",
+   "en": "Generation Drive",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "超時空編集部デンゲキ",
+   "en": "The Super Dimension Editorial Department Dengeki",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "ゼントラ丼大盛り",
+   "en": "Supersized Zentradi Rice Bowl",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "天才と呼ばれるパイロット",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "武人ブリタイ",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "ピーキー・パイロット",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "スリーピング・ビースト",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "天才の名を持つ艦長",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "女戦士再び",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "プラネット・ダンサー",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "クラムジー・ウーマン",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "コンバット・マシン",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "ボドルザーの脅威",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "決闘美",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "スピリチア・ブラックホール",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "ネクスト・クイーン",
+   "en": "",
+   "muf_af_uses": 1
+  },
+  {
+   "ja": "バトルシップパレード",
+   "en": "",
+   "muf_af_uses": 2
+  }
+ ]
+}

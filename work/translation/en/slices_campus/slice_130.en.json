@@ -1,0 +1,498 @@
+{
+ "slice": 130,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c09547",
+   "en": "(Luca and I had plans to go to a concert today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09548",
+   "en": "Did I keep you waiting, Luca?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09549",
+   "en": "Good, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09550",
+   "en": "Oh, the doors are already open.\nShall we hurry?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09551",
+   "en": "That was a great concert, wasn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09552",
+   "en": "I don't get classical music at all,\nbut I was really moved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09553",
+   "en": "I haven't had many chances to hear it either,\nbut live, it's a whole different thing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09554",
+   "en": "You feel it right in your gut.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09555",
+   "en": "That's the beauty of live sound.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09556",
+   "en": "That was a truly valuable experience.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09557",
+   "en": "Well then, shall we head home?",
+   "flags": [],
+   "notes": "x4, also Shirakawa in frd_myk_105."
+  },
+  {
+   "id": "c09558",
+   "en": "(Luca-kun and I had plans to go\nto a concert today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09559",
+   "en": "Did I keep you waiting, Luca-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09560",
+   "en": "Good, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09561",
+   "en": "I don't get classical music at all,\nbut I was so moved~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09562",
+   "en": "You feel it right in your gut, don't you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09563",
+   "en": "(Luca and I had plans to go see\na concert today.)",
+   "flags": [],
+   "notes": "raibu: 'concert' per glossary; the first visit (konsaato) is a classical concert, this one a band."
+  },
+  {
+   "id": "c09564",
+   "en": "Good timing, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09565",
+   "en": "Yes, it worked out just right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09566",
+   "en": "Okay, let's go to the concert.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09567",
+   "en": "That was a great concert...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09568",
+   "en": "The climax in the second half\nwas the best...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09569",
+   "en": "When they play at that high a level,\nyou can't help getting pumped up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09570",
+   "en": "You were jumping to the beat too, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09571",
+   "en": "Th-that's not true!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09572",
+   "en": "(Luca-kun and I had plans to go see\na concert today~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09573",
+   "en": "You got here at a good time, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09574",
+   "en": "Okay, let's go to the concert~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09575",
+   "en": "The climax in the second half\nwas the best, wasn't it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09576",
+   "en": "You were jumping to the beat too, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09577",
+   "en": "(Luca and I had plans to go to Folmo today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09578",
+   "en": "Sorry I'm late.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x9. Opens the male visit, but the script also repeats it mid-scene and at the end of both visits, sometimes with Luca's name plate and in the female variant; kept as the plain apology."
+  },
+  {
+   "id": "c09579",
+   "en": "Honestly, please get it together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09580",
+   "en": "I'm really sorry!\nI'll treat you to some soft serve!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09581",
+   "en": "You don't have to treat me.\nMore importantly, where shall we go today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09582",
+   "en": "Since we're here, let's go see the hippo-cows.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09583",
+   "en": "Being raised by the Zentradi,\nno wonder they're huge.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09584",
+   "en": "Can they really hold themselves up\nwith bodies like that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09585",
+   "en": "They're probably fine, right?\nLooking at hippo-cows is making me\nwant some soft serve.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09586",
+   "en": "That's such an offhand answer...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09587",
+   "en": "Let's go, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09588",
+   "en": "(Luca-kun and I had plans to go to Folmo\ntoday.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09589",
+   "en": "Sorry I'm late!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09590",
+   "en": "Since we're here,\nwhy don't we go see the hippo-cows?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09591",
+   "en": "Being raised by the Zentradi,\nno wonder they're so big~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09592",
+   "en": "Let's go, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09593",
+   "en": "So, what should we do today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09594",
+   "en": "Shall we explore the mall?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09595",
+   "en": "Well then, let's get going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09596",
+   "en": "Folmo's really bustling with customers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09597",
+   "en": "It's not as busy as Deep Akihabara, but\nthere are stalls, and just looking around is fun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09598",
+   "en": "Don't you want to buy anything, Luca?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09599",
+   "en": "No, I'm planning to just look around today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09600",
+   "en": "Then come along while I do my shopping.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09601",
+   "en": "Sooo, what should we do today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09602",
+   "en": "Yeah, let's go, let's go!",
+   "flags": [],
+   "notes": "x3, also Ranka in frd_rnk_105 (agreeing to go to the Silver Moon)."
+  },
+  {
+   "id": "c09603",
+   "en": "Huh, don't you want to buy anything, Luca-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09604",
+   "en": "Then come along while I do my shopping.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09605",
+   "en": "(Today Luca and I came to\nthe artificial island.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09606",
+   "en": "Hey, Luca, let's skip swimming today\nand just take it easy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09607",
+   "en": "That's fine with me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09608",
+   "en": "Bummed you can't go hitting on girls?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09609",
+   "en": "What are you talking about...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09610",
+   "en": "Not swimming was a fun change, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09611",
+   "en": "It's a tourist spot,\nso there's plenty to see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09612",
+   "en": "Next time I'd like to invite everyone along.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09613",
+   "en": "Yeah, that'd be fun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09614",
+   "en": "Well then, shall we head home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09615",
+   "en": "(Today Luca-kun and I came to\nthe artificial island.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09616",
+   "en": "Hey, Luca-kun, why don't we skip swimming\ntoday and just take it easy?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09617",
+   "en": "Aren't you sad you won't get to see me\nin my swimsuit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09618",
+   "en": "It's a tourist spot,\nso there's plenty to see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09619",
+   "en": "Yeah, that'd be so much fun~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09620",
+   "en": "(Luca and I came to the artificial island\nagain today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09621",
+   "en": "Let's skip swimming again today\nand go exploring.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09622",
+   "en": "Exploring? Then let's stay on our toes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09623",
+   "en": "Oh, you're really into it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09624",
+   "en": "The cliffs had quite an atmosphere,\ndidn't they?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09625",
+   "en": "That's a height you wouldn't survive\nfalling from...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c09626",
+   "en": "Were we really allowed to go in there?",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c09578: 'Sorry I'm late.' (x9) is repeated by the script at odd points of frd_luk_110, sometimes under Luca's name plate; kept as the plain apology.",
+   "c09547/c09563: konsaato (classical) and raibu (band) both 'concert' per the glossary."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,392 @@
+{
+ "slice": 60,
+ "rows_in_slice": 62,
+ "rows_examined": 62,
+ "rows": [
+  {
+   "id": "c04468",
+   "en": "(That was a productive study session.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04469",
+   "en": "(I'm gonna knock out my homework fast!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04470",
+   "en": "I'm telling the truth...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04471",
+   "en": "(That was a productive study session.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04472",
+   "en": "(I'm supposed to see a movie\nwith Claire-senpai, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04473",
+   "en": "(Senpai sure is late...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04474",
+   "en": "We were supposed to meet at 12,\nand it's already 12:30...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04475",
+   "en": "I'll try giving her a call for now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04476",
+   "en": "Hello, this is Claire.\nI'm unable to take your call right now.\nPlease leave a message after the beep...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04477",
+   "en": "Voicemail, huh...\nI wonder what happened to Senpai...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04478",
+   "en": "Oh, Claire-senpai, hello.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04479",
+   "en": "I'm sorry I'm late!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04480",
+   "en": "It's fine, even if you're a little late.\nI'm just happy you came.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04481",
+   "en": "No, it's not fine.\nI need to properly make it up to you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04482",
+   "en": "It's fine, really.\nBut it's unusual for you to be late, Senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04483",
+   "en": "Yes, I just couldn't get to sleep last night...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04484",
+   "en": "Did you stay up late watching\nlate-night TV or something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04485",
+   "en": "That's not it, geez!\nYou're so dense...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04486",
+   "en": "Well then, shall we go to the movie?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04487",
+   "en": "Yes. So, which way is the theater?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04488",
+   "en": "It's right in front of us...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04489",
+   "en": "Is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04490",
+   "en": "Are you okay, Senpai?\nDid you hit your head or something??",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04491",
+   "en": "No...\nI dropped a contact lens,\nso I can't see very well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04492",
+   "en": "Huh? Senpai, you have bad eyesight?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04493",
+   "en": "Without them, everything's just a blur.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04494",
+   "en": "...But you recognized me, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04495",
+   "en": "That was just luck, just luck...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04496",
+   "en": "Was it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04497",
+   "en": "C-come on! Let's go!!\nFollow me!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04498",
+   "en": "Ah, Senpai!\nThat's the wrong way!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04499",
+   "en": "(It was fun getting to see a different side\nof Senpai today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04500",
+   "en": "We were supposed to meet at 12,\nand it's already 12:30...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04501",
+   "en": "I haven't been waiting at all, so it's fine.\nI'm just happy you came.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04502",
+   "en": "What a sweet thing to say...\nYour senpai's heart is all aflutter\nwith butterflies...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Claire refers to herself in the third person as senpai; kept as 'your senpai'. Kokoro no chou ga habataita = butterflies in her heart took wing."
+  },
+  {
+   "id": "c04503",
+   "en": "It's unusual for you to be late, Senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04504",
+   "en": "Yeah, I just couldn't get to sleep last night...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04505",
+   "en": "That's not it, geez...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04506",
+   "en": "......But you recognized me, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04507",
+   "en": "I can always spot a cute girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04508",
+   "en": "Senpai!\nThat's the wrong way!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04509",
+   "en": "(It was fun getting to see a different side\nof Senpai today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04510",
+   "en": "(Claire-senpai's late again today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04511",
+   "en": "I hope she didn't trip somewhere again...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04512",
+   "en": "I'm sorry I'm late...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04513",
+   "en": "It's fine.\nYou didn't trip or anything today, did you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04514",
+   "en": "Y-yes... I'm fine today...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04515",
+   "en": "My alarm clock was broken, and before I knew it...\nAnd so... umm...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04516",
+   "en": "And so, what happened?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04517",
+   "en": "...I was in such a hurry that I forgot\nto put in my contacts.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04518",
+   "en": "What?! Again today?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04519",
+   "en": "You don't have to be that surprised...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04520",
+   "en": "Then it looks like we'd better skip the movie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04521",
+   "en": "Yeah... I'm sorry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04522",
+   "en": "That food just now was delicious, wasn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04523",
+   "en": "Yes, it's a taste you could never make at home...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04524",
+   "en": "(Looks like Claire-senpai's cheered up.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04525",
+   "en": "What's the matter?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04526",
+   "en": "N-nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04527",
+   "en": "Well then, let's head home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04528",
+   "en": "Yes, let's hang out again sometime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04529",
+   "en": "(It was fun getting to see a different side\nof Claire-senpai again today~)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c04502: Claire calls herself 'senpai' in the third person; rendered 'Your senpai's heart is all aflutter with butterflies...'.",
+   "c04511: 'mata ... koronda' (tripped again): the earlier fall is not shown in the scene; 'again' kept as written.",
+   "c04476: Claire's voicemail greeting; the last line 'please leave a message after the beep...' cut off as the Japanese is.",
+   "c04489 is shared with Ranka (nml_rnk_022) and c04525 with the player in frd_rnk_005/frd_yuu_002: 'Is it?' and 'What's the matter?' are neutral."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

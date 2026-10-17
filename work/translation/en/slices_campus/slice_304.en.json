@@ -1,0 +1,493 @@
+{
+ "slice": 304,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c21883",
+   "en": "Oh, that's sweet of you, \\p.\nI'll make sure to savor it later.",
+   "flags": [],
+   "notes": "Sumanai (thanks/sorry for the trouble) rendered as thanks."
+  },
+  {
+   "id": "c21884",
+   "en": "I'll pay you back properly on White Day,\nso look forward to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21885",
+   "en": "Michel-kun, you don't have to\ngive me anything back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21886",
+   "en": "Don't worry about it.\nI just want to pay you back properly, that's all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21887",
+   "en": "(I'm glad I managed to give Michel-kun\nthe chocolate. I wonder what he'll give me\nback on White Day?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21888",
+   "en": "(I feel bad for Michel-kun, but it's just too\nembarrassing. I can't give him the chocolate...)",
+   "flags": [],
+   "notes": "x2: year 1 and year 2 versions."
+  },
+  {
+   "id": "c21889",
+   "en": "(I bought chocolate for Luca-kun, since\nwe get along so well, but now that it's\ntime to give it, I'm so nervous...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c21890",
+   "en": "Give Luca-kun chocolate",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c21891",
+   "en": "Don't give Luca-kun chocolate",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c21892",
+   "en": "Here, Luca-kun.\nSome Valentine's chocolate for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21893",
+   "en": "Thank you so much,\n\\p-san.\nI'll make sure to enjoy it later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21894",
+   "en": "I'll pay you back properly on White Day,\nso please look forward to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21895",
+   "en": "Luca-kun, you don't have to\ngive me anything back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21896",
+   "en": "Oh, no, I have to pay you back properly.\nI'd be happier if you'd accept it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21897",
+   "en": "(I'm glad I managed to give Luca-kun\nthe chocolate. I wonder what he'll give me\nback on White Day?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21898",
+   "en": "(I feel bad for Luca-kun, but it's just too\nembarrassing. I can't give him the chocolate...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c21899",
+   "en": "Morning, Nanase.\nDid you need me for something?",
+   "flags": [],
+   "notes": "Male player."
+  },
+  {
+   "id": "c21900",
+   "en": "Huh?! You're giving me chocolate?\nThanks, Nanase!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21901",
+   "en": "Oh, no, it's really nothing special...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21902",
+   "en": "Obligation chocolate or not, I'm happy\nto get chocolate from you, Nanase.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21903",
+   "en": "R-really?\nThen I'm glad I gave it to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21904",
+   "en": "(Hmm... School's already over, and in the end\nI didn't get chocolate from anyone...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21905",
+   "en": "\\p-kuuun!",
+   "flags": [],
+   "notes": "Drawn-out -kun (ku~n)."
+  },
+  {
+   "id": "c21906",
+   "en": "Huh? What's up, Ranka?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21907",
+   "en": "It's Valentine's Day, so I wanted to give\nyou some chocolate, \\p-kun, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21908",
+   "en": "Actually, I forgot it at home,\nso I hurried back to get it.\nHere, this chocolate's for you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21909",
+   "en": "Huh?! You're giving me chocolate?\nThanks, Ranka!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21910",
+   "en": "Sorry it's nothing special.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21911",
+   "en": "Obligation chocolate or not, I'm happy\nto get chocolate from you, Ranka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21912",
+   "en": "R-really?\nThen I'm glad I gave it to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21913",
+   "en": "Mm-hm! Well, I've got my part-time job,\nso I'd better get going!",
+   "flags": [],
+   "notes": "Un answers the player's thanks (c21816, shared row)."
+  },
+  {
+   "id": "c21914",
+   "en": "Oh, \\p.\nYou've come at just the right time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21915",
+   "en": "Morning, Sheryl.\nDid you need me for something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21916",
+   "en": "Today's Valentine's, the day you give chocolate,\nright? So I'm giving you some, \\p,\nfor working so hard as my errand boy.",
+   "flags": [],
+   "notes": "Komazukai (errand runner, servant): 'errand boy' as this scene is male-only."
+  },
+  {
+   "id": "c21917",
+   "en": "Huh?! You're giving me chocolate?\nThanks, Sheryl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21918",
+   "en": "It's nothing that special.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21919",
+   "en": "Obligation chocolate or not, I'm happy\nto get chocolate from you, Sheryl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21920",
+   "en": "R-really?\nThen it seems giving it to you was worth it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21921",
+   "en": "My, how honest. Very good.\nWell then, shall we head to class?",
+   "flags": [],
+   "notes": "Sunao de yoroshii: praises the player's plain thanks (c21816)."
+  },
+  {
+   "id": "c21922",
+   "en": "Oh, good morning, Klan-senpai.\nDid you need me for something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21923",
+   "en": "Indeed. Today is Valentine's Day, after all.",
+   "flags": [],
+   "notes": "Klan's stiff, archaic register (umu, ... no da)."
+  },
+  {
+   "id": "c21924",
+   "en": "Since it looks like nobody's going to give\nyou any chocolate, I thought I'd bestow\nsome upon you myself.",
+   "flags": [],
+   "notes": "Full strength: she assumes no one else will give the player chocolate."
+  },
+  {
+   "id": "c21925",
+   "en": "Huh?! You're giving me chocolate?\nThank you so much, Klan-senpai!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21926",
+   "en": "It's nothing special...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21927",
+   "en": "Obligation chocolate or not, I'm happy\nto get chocolate from you, Klan-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21928",
+   "en": "Hm, is that so?\nThen I'm glad I gave it to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21929",
+   "en": "Oh, class will be starting soon.\nOff to the classroom with you, quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21930",
+   "en": "(Today's the Culture Fest I've been waiting for!)",
+   "flags": [],
+   "notes": "x3, male version."
+  },
+  {
+   "id": "c21931",
+   "en": "(I heard our class was going to run an\nauthentic Chinese restaurant for the Fest...)",
+   "flags": [],
+   "notes": "x4: shared male/female. 'Dashimono' (class attraction) folded into 'for the Fest'; the trailing 'kedo...' kept as the ellipsis."
+  },
+  {
+   "id": "c21932",
+   "en": "(I never thought they'd go this all-out...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21933",
+   "en": "Mornin', \\p!\nAmazing, right? It's just like being inside\nthe real Nyan-Nyan!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21934",
+   "en": "Wait... This was just a regular classroom\nuntil yesterday, right...?",
+   "flags": [],
+   "notes": "Male version (c22012 female)."
+  },
+  {
+   "id": "c21935",
+   "en": "Yup, sure was!\nI gave the classroom a quick remodel\nto make it look just like Nyan-Nyan!",
+   "flags": [],
+   "notes": "Shared male/female. Kaizou = remodel (Yui is a tinkerer)."
+  },
+  {
+   "id": "c21936",
+   "en": "(I feel like this has gone way past 'remodel'.\nIt's a total transformation...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21937",
+   "en": "\\p-kun, Yui,\nwe don't have time for idle chatter.\nHurry up and get ready to open.",
+   "flags": [],
+   "notes": "Male version (c22013 female, -san)."
+  },
+  {
+   "id": "c21938",
+   "en": "Yeah, got i......",
+   "flags": [],
+   "notes": "Shared male/female. Cut off mid-word as in the Japanese (wakat......)."
+  },
+  {
+   "id": "c21939",
+   "en": "Wait, you even got Nyan-Nyan\nchina dresses ready, huh...",
+   "flags": [],
+   "notes": "Chaina-fuku = 'china dress' (as slice 324)."
+  },
+  {
+   "id": "c21940",
+   "en": "Well, of course!\nIf we're going to do this, we have to go all out.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21941",
+   "en": "(Ha ha, that's Shirakawa for you.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21942",
+   "en": "Geez, you're all getting way too worked up\nover a mere Culture Fest.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21943",
+   "en": "What're you talking about, Alto?\nIt's the Culture Fest. That's exactly\nwhy we should enjoy it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21944",
+   "en": "Oh, right. Isn't there a china dress for Alto?\nA women's one, of course.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21945",
+   "en": "Ummm, hold on.\nI'll go look for one right now...",
+   "flags": [],
+   "notes": "Shirakawa, shared male/female."
+  },
+  {
+   "id": "c21946",
+   "en": "There's no way I'm ever wearing that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21947",
+   "en": "(Alto in a china dress, huh...\nPart of me kind of wants to see that...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21948",
+   "en": "(Whoops, this is no time for daydreaming.\nI've gotta hurry and get ready to open.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21949",
+   "en": "(Thanks partly to the china dresses,\nbusiness is booming. But that means we're\nso busy we're short on hands...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21950",
+   "en": "Ooh, business seems to be booming.",
+   "flags": [],
+   "notes": "Klan."
+  },
+  {
+   "id": "c21951",
+   "en": "It really is. This is impressive!",
+   "flags": [],
+   "notes": "Claire."
+  },
+  {
+   "id": "c21952",
+   "en": "Oh, Klan-senpai, Claire-senpai!\nWelcome!",
+   "flags": [],
+   "notes": "Irasshaimase (shop greeting)."
+  },
+  {
+   "id": "c21953",
+   "en": "We're so busy right now I can't step away.\nI'm sorry I can't keep you company\nwhen you came all this way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21954",
+   "en": "Oh, that's fine. Just getting to look at\ngirls in cute outfits like this is enough\nto satisfy me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21955",
+   "en": "(I feel like Claire-senpai just said\nsomething kind of dangerous...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21956",
+   "en": "Oh, I know! I've got a great idea.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21957",
+   "en": "A great idea?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21958",
+   "en": "Hee hee, how do I look, \\p-kun?",
+   "flags": [],
+   "notes": "Claire has changed into a china dress. Male version (c22019 female, -chan)."
+  },
+  {
+   "id": "c21959",
+   "en": "It looks great on you, of course, Claire-senpai.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21960",
+   "en": "But are you sure about this?\nHelping out with our class's booth?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21961",
+   "en": "It's fine. It looked like fun,\nand I kind of wanted to try on a china dress.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21962",
+   "en": "Well then, I'll go take some orders\nright away.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

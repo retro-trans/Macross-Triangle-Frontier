@@ -1,0 +1,449 @@
+{
+ "slice": 170,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c12463",
+   "en": "(Pinon-chan seemed to enjoy herself,\nso I'm really glad I invited her.)",
+   "flags": [],
+   "notes": "Female, frd_pnn_105."
+  },
+  {
+   "id": "c12464",
+   "en": "(I came to Griffith Park with\nPinon-chan after school today, but...)",
+   "flags": [],
+   "notes": "Player, both genders, frd_pnn_106."
+  },
+  {
+   "id": "c12465",
+   "en": "...Now that I'm here, Griffith Park\nis quite an interesting place.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12466",
+   "en": "(Pinon-chan and I came to have tea\nat Silver Moon today, but...)",
+   "flags": [],
+   "notes": "Player, both genders, frd_pnn_107."
+  },
+  {
+   "id": "c12467",
+   "en": "Uuu...... It's bitter...",
+   "flags": [],
+   "notes": "Pinon, both genders; drinking black coffee."
+  },
+  {
+   "id": "c12468",
+   "en": "You don't have to force yourself\nto drink coffee...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12469",
+   "en": "I-I'm not forcing myself!\nIt's just not quite to my taste, that's all!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12470",
+   "en": "(I think that's exactly what\n'forcing yourself' means, Pinon-chan...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12471",
+   "en": "Pinon-chan,\nI'll put some sugar and milk in it for you......",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12472",
+   "en": "Stop!\nAs if I could do something so childish!\nEveryone knows adults drink it black.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12473",
+   "en": "(I don't think there's any such rule...)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12474",
+   "en": "Uuu...... It's still bitter~~......",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12475",
+   "en": "(You're trying way too hard\nto act grown up, Pinon-chan...)",
+   "flags": [],
+   "notes": "Male; also closes frd_pnn_111 (spicy food)."
+  },
+  {
+   "id": "c12476",
+   "en": "(I think that's exactly what\n'forcing yourself' means, Pinon-chan...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12477",
+   "en": "(You're trying way too hard\nto act grown up, Pinon-chan...)",
+   "flags": [],
+   "notes": "Female; also closes frd_pnn_111."
+  },
+  {
+   "id": "c12478",
+   "en": "(I really only dozed off for a second...)",
+   "flags": [],
+   "notes": "Player, both genders, frd_pnn_108."
+  },
+  {
+   "id": "c12479",
+   "en": "Hey, are you listening, \\p?!\nIt's because you're such a slacker\nthat you fall asleep in my class.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x8, frd_pnn_108 both genders: Pinon's line, but the script repeats it once per gender under the player's (no) name plate after 'Stop spacing out!'. Written as Pinon's line; the repeat reads as her scolding continuing."
+  },
+  {
+   "id": "c12480",
+   "en": "Sorry, Pinon-chan.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12481",
+   "en": "It's Pinon-sensei!",
+   "flags": [],
+   "notes": "x6: Pinon here and in scd_com_103 (answering 'Nice to meet you, Pinon-chan')."
+  },
+  {
+   "id": "c12482",
+   "en": "I'm sorry, Pinon-sensei...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12483",
+   "en": "Very well.\nThen we'll resume your special extra lesson.",
+   "flags": [],
+   "notes": "Pinon, both genders. tokubetsu hokou 'special extra lesson' as c24176."
+  },
+  {
+   "id": "c12484",
+   "en": "(She doesn't have to keep me after school\nto study like this...)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12485",
+   "en": "Stop spacing out!!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12486",
+   "en": "Yes! Sorry, Pinon-sensei!",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12487",
+   "en": "That's all for today.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12488",
+   "en": "Th-thank you very much, Pinon-sensei...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12489",
+   "en": "(Ugh~, she really put me through the wringer...\nPinon-sensei is a total drill sergeant......)",
+   "flags": [],
+   "notes": "Male (suparuta 'Spartan')."
+  },
+  {
+   "id": "c12490",
+   "en": "(Ugh~, she really put me through the wringer...\nPinon-sensei is a total drill sergeant......)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12491",
+   "en": "(Pinon-chan invited me to come hang out\nin Deep Akihabara, but...)",
+   "flags": [],
+   "notes": "Player, both genders, frd_pnn_109."
+  },
+  {
+   "id": "c12492",
+   "en": "This is an amazing place.\nIt's wrapped in some kind of\nstrange, feverish energy...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12493",
+   "en": "Pinon-chan, you wanted to come to Deep Akihabara...\nIs there someplace you want to go?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12494",
+   "en": "W-well, actually...\nI want to try going to a maid cafe!",
+   "flags": [],
+   "notes": "Pinon, both genders. 'maid cafe' as c08370."
+  },
+  {
+   "id": "c12495",
+   "en": "A maid cafe?!\nHuh, why?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12496",
+   "en": "I've always wanted to see\nwhat kind of place it is, just once...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12497",
+   "en": "If you want to go, Pinon-chan,\nI won't stop you, but...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12498",
+   "en": "Alright! Then let's go right away!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12499",
+   "en": "Yeah, bring me here again!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12500",
+   "en": "(I'm a little surprised\nPinon-chan likes maid cafes...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12501",
+   "en": "(I'm a little surprised\nPinon-chan likes maid cafes...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12502",
+   "en": "Alright! We're going to the maid cafe!!",
+   "flags": [],
+   "notes": "Pinon, both genders (second visit)."
+  },
+  {
+   "id": "c12503",
+   "en": "(So the maid cafe was her goal after all.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12504",
+   "en": "(Pinon-chan...\nShe really does love that maid cafe.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12505",
+   "en": "(So the maid cafe was her goal after all.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12506",
+   "en": "(Pinon-chan...\nShe really does love that maid cafe.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12507",
+   "en": "(Pinon-chan and I came to have fun\nat the ranch on Island 3 today, but...)",
+   "flags": [],
+   "notes": "Player, both genders, frd_pnn_110. 'ranch' as c04955."
+  },
+  {
+   "id": "c12508",
+   "en": "Whoa~, it's huuuge~...",
+   "flags": [],
+   "notes": "Pinon, both genders; looking at a hippo-cow (see c12515)."
+  },
+  {
+   "id": "c12509",
+   "en": "It's so big it's actually impressive.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12510",
+   "en": "\\p...\nDo you think I could get that big too?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12511",
+   "en": "Huh?! I really don't think that's possible...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12512",
+   "en": "Hmph... I see......",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12513",
+   "en": "(Is that really something\nto be disappointed about?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12514",
+   "en": "Well, never mind. Since we came all this way,\nwe must enjoy ourselves.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12515",
+   "en": "Who'd have thought that soft serve\nwas made from the milk of such a huge hippo-cow...",
+   "flags": [],
+   "notes": "Pinon, both genders. Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c12516",
+   "en": "Well, since we're here, let's have some\nhippo-cow soft serve before we head home.",
+   "flags": [],
+   "notes": "Player, both genders. Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c12517",
+   "en": "(Hanging out with Pinon-chan\nwas a nice change of pace today.)",
+   "flags": [],
+   "notes": "Male; as c04781."
+  },
+  {
+   "id": "c12518",
+   "en": "It's so big it's actually impressive.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12519",
+   "en": "(Is that really something\nto be disappointed about?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12520",
+   "en": "(Hanging out with Pinon-chan\nwas a nice change of pace today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12521",
+   "en": "(Pinon-chan and I came to Nyan-Nyan\nfor lunch, but...)",
+   "flags": [],
+   "notes": "Player, both genders, frd_pnn_111."
+  },
+  {
+   "id": "c12522",
+   "en": "Uuu~, it's spicy......",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12523",
+   "en": "No, it's NOT spicy!!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12524",
+   "en": "(She doesn't have to force herself\nto eat spicy food...)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12525",
+   "en": "Pinon-chan, don't push yourself.\nGet something that isn't spicy......",
+   "flags": [],
+   "notes": "Player, both genders; cut off."
+  },
+  {
+   "id": "c12526",
+   "en": "I'm not pushing myself!\nI LOVE spicy food, you know.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12527",
+   "en": "*munch munch*",
+   "flags": [],
+   "notes": "Pinon, both genders; as c08484."
+  },
+  {
+   "id": "c12528",
+   "en": "Ahh~, it's so spicy and really delicious~\nIt's so good I could almost cry...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12529",
+   "en": "Uuu~~...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12530",
+   "en": "Excuse meee!\nOne almond tofu, please.",
+   "flags": [],
+   "notes": "Player, both genders, ordering for Pinon. 'almond tofu' as c03443."
+  },
+  {
+   "id": "c12531",
+   "en": "You went and ordered it, so I have no choice...\nI'm only eating it because I have to, got it?!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12532",
+   "en": "Haaah~, it's sweet and yummy...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12533",
+   "en": "(Well, anyway, I'm glad I got to have\na fun meal with Pinon-chan today.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12534",
+   "en": "(Well, anyway, I'm glad I got to have\na fun meal with Pinon-chan today.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c12479 (x8): Pinon's scolding, but the script also plays it under the player's empty name plate in frd_pnn_108 (once per gender, after 'Stop spacing out!'). Written as Pinon's line."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

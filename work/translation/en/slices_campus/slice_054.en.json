@@ -1,0 +1,501 @@
+{
+ "slice": 54,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c04006",
+   "en": "Well, some days are just like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04007",
+   "en": "Hey, \\p!\nYou just brushed that off because it's not\nyour problem, didn't you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04008",
+   "en": "Oops, you noticed?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04009",
+   "en": "Geez, every last one of them...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04010",
+   "en": "(When you get down to it, Alto's\nsurprisingly chatty.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04011",
+   "en": "(I'm supposed to meet Saotome-kun at \"Silver Moon\"\nagain today.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in locations.json."
+  },
+  {
+   "id": "c04012",
+   "en": "Well, some days are just like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04013",
+   "en": "Oops, you caught me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04014",
+   "en": "(When you get down to it, Saotome-kun's\nsurprisingly chatty.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04015",
+   "en": "(Today I'm going to the Artificial Island with Alto.)",
+   "flags": [],
+   "notes": "Artificial Island as in the campus place list (u4335)."
+  },
+  {
+   "id": "c04016",
+   "en": "\\p.\nYou're late.",
+   "flags": [],
+   "notes": "Shared by Alto and Kagura (frd_kgr_103)."
+  },
+  {
+   "id": "c04017",
+   "en": "Sorry, sorry, it took me a while to get ready...\nOkay, let's get going!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Used 20 times in frd_alt_007, under both the player and Alto: the player's real greeting in the male scene; the other occurrences sit between Alto's montage reactions and look like filler entries. Written as the player's line, no gendered words."
+  },
+  {
+   "id": "c04018",
+   "en": "Phew, this is a pretty nice place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04019",
+   "en": "Yeah, it feels great.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04020",
+   "en": "A beach and the ocean...\nHard to believe we're inside Frontier.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04021",
+   "en": "And there are lots of girls, too.\nLook at that girl's swimsuit, for one...",
+   "flags": [],
+   "notes": "Said by both the male and the female player (teasing Alto)."
+  },
+  {
+   "id": "c04022",
+   "en": "Huh? Uh...\nY-you idiot! Where are you looking?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04023",
+   "en": "Geez, keep ogling girls like that\nand you'll end up like Michel.",
+   "flags": [],
+   "notes": "Mishieru here, so 'Michel' (the Silver Moon scene has Mihaeru, 'Michael')."
+  },
+  {
+   "id": "c04024",
+   "en": "The ocean's nice once in a while~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04025",
+   "en": "Oh, that looks fun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04026",
+   "en": "How can you eat something that gross?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04027",
+   "en": "I said, why do you keep hunting for girls\nin swimsuits?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04028",
+   "en": "Man, that really felt like a resort vacation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04029",
+   "en": "Yeah. Hard to believe this place is out in space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04030",
+   "en": "I'd love to come back sometime if we get the chance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04031",
+   "en": "Yeah. Just don't spend the whole time chasing girls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04032",
+   "en": "Ahaha, I'll be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04033",
+   "en": "(I enjoyed every minute of today too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04034",
+   "en": "(Today I'm going to the Artificial Island\nwith Saotome-kun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04035",
+   "en": "Sorry, it took me a while to get ready...\nOkay, let's get going!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04036",
+   "en": "Phew, this is a pretty nice place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04037",
+   "en": "Yeah, it feels great, doesn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04038",
+   "en": "Ahahaha.",
+   "flags": [],
+   "notes": "Shared by both player genders, Luca, Nanase and Sheryl."
+  },
+  {
+   "id": "c04039",
+   "en": "Geez, what are you even thinking...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04040",
+   "en": "Man, that really felt like a resort vacation~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04041",
+   "en": "I'd love to come back sometime if we get the chance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04042",
+   "en": "Yeah, me too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04043",
+   "en": "(I enjoyed every minute of today too~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04044",
+   "en": "(I'm going to the Artificial Island with Alto\nagain today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04045",
+   "en": "No matter how many times I come,\nthe ocean's great!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04046",
+   "en": "Yeah.\nLet's have a blast today too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04047",
+   "en": "Heh, you got it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04048",
+   "en": "Phew... maybe I overdid it a little...\nFlying is easier than this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04049",
+   "en": "Hahaha, maybe so.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04050",
+   "en": "(I'm going to the Artificial Island with Saotome-kun\nagain today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04051",
+   "en": "Yeah.\nLet's have a blast today too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04052",
+   "en": "(Alto said he'd be \"on the roof,\" I think...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04053",
+   "en": "Oh, \\p. You came?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04054",
+   "en": "Lost in thought on the roof again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04055",
+   "en": "Hm? Yeah, something like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04056",
+   "en": "Same as ever, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04057",
+   "en": "I've always spent a lot of time looking at the sky.\nEven now, I end up gazing at it like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04058",
+   "en": "Always...? Did something get you started?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04059",
+   "en": "\\p.\nDo you have a dream?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04060",
+   "en": "A dream? What's this all of a sudden?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04061",
+   "en": "I want to see a real sky with my own eyes.\nAnd I want to fly in it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04062",
+   "en": "The sky, huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04063",
+   "en": "Yeah. Blue, stretching on forever...\nThe horizon, and white clouds...\nA real, free sky like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04064",
+   "en": "That sounds like it'd feel amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04065",
+   "en": "Once we reach a new planet, I can do that anytime.\nThough who knows when that'll be.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04066",
+   "en": "I hope your dream comes true.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04067",
+   "en": "Yeah, someday...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04068",
+   "en": "When that day comes, maybe I'll fly with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04069",
+   "en": "Hmm? I don't mind, but just don't get in my way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04070",
+   "en": "You've got some nerve.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04071",
+   "en": "Ahaha, I'm kidding.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04072",
+   "en": "I hope we find it soon. Our... everyone's sky...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04073",
+   "en": "Yeah, I hope we find it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04074",
+   "en": "(I wonder if Alto has some special feelings\nabout the sky...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04075",
+   "en": "(Saotome-kun said he'd be \"on the roof,\" I think...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04076",
+   "en": "Yeah. Lost in thought on the roof again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04077",
+   "en": "Same as ever, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04078",
+   "en": "Always...? Did something get you started?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04079",
+   "en": "A dream? What's this all of a sudden?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04080",
+   "en": "The sky, huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04081",
+   "en": "That sounds like it'd feel amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04082",
+   "en": "I hope your dream comes true.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04083",
+   "en": "When that day comes, maybe I'll fly with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04084",
+   "en": "Geez, that's mean.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c04085",
+   "en": "Yeah, I hope we find it.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c04011: uses Silver Moon (provisional in locations.json).",
+   "c04017: one row used 20 times in frd_alt_007 under both the player and Alto; apart from the male player's opening greeting it appears between Alto's montage lines and looks like filler. Written as the player's greeting, gender-neutral.",
+   "c04023 vs c03831/c03982: Alto says Mishieru here ('Michel') and Mihaeru elsewhere ('Michael'); kept as the Japanese has it."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

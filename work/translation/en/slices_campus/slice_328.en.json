@@ -1,0 +1,444 @@
+{
+ "slice": 328,
+ "rows_in_slice": 71,
+ "rows_examined": 71,
+ "rows": [
+  {
+   "id": "c23755",
+   "en": "(So that's it for classes this school year.\nI wonder what I should do over summer break.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23756",
+   "en": "Oh, right, that reminds me.\nI've got an announcement for you lot.",
+   "flags": [],
+   "notes": "Shared male/female. Gary's rough 'omaera' rendered 'you lot' throughout the scene."
+  },
+  {
+   "id": "c23757",
+   "en": "(An announcement?)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23758",
+   "en": "Lemme see... From the third to the fourth week\nof August, you lot are gonna help out\nwith a movie shoot.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23759",
+   "en": "Honestly, I meant to tell you way sooner,\nbut I went and forgot, of all things.\nYeah, sorry, sorry. My bad.",
+   "flags": [],
+   "notes": "Shared male/female. Breezy 'suman suman' kept as a throwaway apology (the player's next line says he isn't sorry at all)."
+  },
+  {
+   "id": "c23760",
+   "en": "(Gary-sensei isn't sorry one bit...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23761",
+   "en": "The shoot's gonna be done together with S.M.S.\nGo give it your all, you lot.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23762",
+   "en": "Gary-sensei, what exactly are we supposed\nto do to help with the movie shoot?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23763",
+   "en": "Ah, right, I never told you, huh?\nRelax, it's nothing that hard.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23764",
+   "en": "You just hop in a Valkyrie\nand do a little dogfighting.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23765",
+   "en": "Don't worry so much.\nDo it just like I've taught you, and you'll be fine.",
+   "flags": [],
+   "notes": "Shared male/female. Answers the students' unvoiced alarm at the previous line."
+  },
+  {
+   "id": "c23766",
+   "en": "Well, everything in life's an experience.\nIt'll make a nice summer break memory, too,\nso go give it your all, you lot.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23767",
+   "en": "Okay, dismissed!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23768",
+   "en": "(Gary-sensei casually dropped a bombshell\nand just walked off...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23769",
+   "en": "(Hmm, helping with a movie shoot, huh...\nIt does sound like fun, though.)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23770",
+   "en": "(Doesn't look like I can turn it down anymore...\nOkay! Since I've got the chance, I'd better enjoy it.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23771",
+   "en": "(The movie shoot, and of course summer break too!)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23772",
+   "en": "(So that's it for classes this school year.\nI wonder what I should do over summer break.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23773",
+   "en": "(Gary-sensei isn't sorry one bit...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23774",
+   "en": "(Gary-sensei casually dropped a bombshell\nand just walked off...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23775",
+   "en": "(Doesn't look like I can turn it down anymore...\nOkay! Since I've got the chance, I'll enjoy it.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23776",
+   "en": "Hey, \\p.\nWhere do you think you're going?",
+   "flags": [],
+   "notes": "Shared male/female. Literally 'what are you doing trying to go home?'."
+  },
+  {
+   "id": "c23777",
+   "en": "Huh? Was there something, Hilda-sensei?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23778",
+   "en": "Honestly, you...\nToday's the deadline for the career plan survey.",
+   "flags": [],
+   "notes": "Shared male/female. 'shinro kibou chousa' = career/future-plan survey."
+  },
+  {
+   "id": "c23779",
+   "en": "I'm sorry... Hilda-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23780",
+   "en": "I bet you lost the form, too.\nFine, then. Just tell me your answer.",
+   "flags": [],
+   "notes": "Shared male/female. 'koutou' (orally): answer out loud instead of on paper."
+  },
+  {
+   "id": "c23781",
+   "en": "I'll fill it in for you later.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23782",
+   "en": "P-please do...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23783",
+   "en": "In three more months, you'll be a third-year too.\nIt's about time you gave some serious thought\nto your future.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23784",
+   "en": "Let's see... Even if you become a soldier\nto protect Frontier, there are\ntwo militaries in Frontier.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23785",
+   "en": "The private military provider \"S.M.S.\"\nand Frontier's regular army,\nthe \"New U.N. Forces.\"",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23786",
+   "en": "So, what do you want to do in the future?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23787",
+   "en": "Enlist in \"S.M.S.\"",
+   "flags": [],
+   "notes": "Choice. Shared male/female."
+  },
+  {
+   "id": "c23788",
+   "en": "Enlist in the \"New U.N. Forces\"",
+   "flags": [],
+   "notes": "Choice. Shared male/female."
+  },
+  {
+   "id": "c23789",
+   "en": "Live as a \"civilian\"",
+   "flags": [],
+   "notes": "Choice. Shared male/female. Quotation marks kept as in the Japanese."
+  },
+  {
+   "id": "c23790",
+   "en": "Okay, \"Will enlist in S.M.S.\" it is.\nI'll write it on the form and turn it in\nfor you, so don't worry.",
+   "flags": [],
+   "notes": "Shared male/female. Hilda quotes what she will write on the form."
+  },
+  {
+   "id": "c23791",
+   "en": "And don't you forget to turn it in next time.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23792",
+   "en": "Yes, ma'am. I'm sorry.",
+   "flags": [],
+   "notes": "Shared male/female. 'hai' to a strict teacher rendered 'Yes, ma'am' (Hilda is female per glossary)."
+  },
+  {
+   "id": "c23793",
+   "en": "Okay, \"Will enlist in the New U.N. Forces\" it is.\nI'll write it on the form and turn it in\nfor you, so don't worry.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23794",
+   "en": "And don't forget to turn it in next time,\ngot it?",
+   "flags": [],
+   "notes": "x4, male and female, after two of the three choices."
+  },
+  {
+   "id": "c23795",
+   "en": "Yes... I'm sorry...",
+   "flags": [],
+   "notes": "x4, male and female."
+  },
+  {
+   "id": "c23796",
+   "en": "Okay, \"Will live as a civilian\" it is.\nI'll write it on the form and turn it in\nfor you, so don't worry.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23797",
+   "en": "Ah!? Oh, that's right, it is!\nI'm sorry...",
+   "flags": [],
+   "notes": "Female version's reply to c23778."
+  },
+  {
+   "id": "c23798",
+   "en": "In three more months, you'll all be third-years.\nIt's about time you gave some serious thought\nto your future.",
+   "flags": [],
+   "notes": "Female version uses plural 'omaera'."
+  },
+  {
+   "id": "c23799",
+   "en": "What do you want to do in the future?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23800",
+   "en": "(My future plans, huh...\nI wonder what's waiting for me in my future?)",
+   "flags": [],
+   "notes": "x3, female, after each choice."
+  },
+  {
+   "id": "c23801",
+   "en": "(Starting today, I'm a third-year in high school.\nIt feels kinda strange to think I've only got\none year of school life left...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23802",
+   "en": "(So much happened over these two years.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23803",
+   "en": "(Meeting Alto, Yuuto, and the others...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23804",
+   "en": "(Getting to know the \"Galactic Fairy\" Sheryl\nand the \"Super Dimension Cinderella\" Ranka...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23805",
+   "en": "(Sports Day, the Culture Fest...\nOh, and just recently I helped out\nwith a movie shoot, too.)",
+   "flags": [],
+   "notes": "taiikusai = 'sports festival' (not in the glossary; lowercase common noun). Aligned to the glossary decision of 2026-10-17."
+  },
+  {
+   "id": "c23806",
+   "en": "(It was all so much fun...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23807",
+   "en": "What're you getting all lost in thought for,\n\\p?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23808",
+   "en": "Oh, Alto. When I thought about only having\none year of school left, the last two years\nstarted to feel kind of nostalgic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23809",
+   "en": "Geez, this is no time to wallow in memories.\nWe just took our first step toward\nthe \"future.\"",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23810",
+   "en": "Yeah, you're right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23811",
+   "en": "Come on, let's get going.\nMichel and the others are waiting.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23812",
+   "en": "Look who's talking. You're the one who's\nitching to fly the most, Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23813",
+   "en": "S-so what if I am!?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23814",
+   "en": "Haha, of course you're excited.\nI mean, after all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23815",
+   "en": "We've finally arrived at the new planet\nwe've been searching for all this time.",
+   "flags": [],
+   "notes": "Continues c23814."
+  },
+  {
+   "id": "c23816",
+   "en": "(Starting today, I'm a third-year in high school.\nIt feels kind of strange to think I've only got\none year of school life left...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23817",
+   "en": "(So much happened over these two years.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23818",
+   "en": "(Meeting Saotome-kun, Kagura-kun, and the others...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23819",
+   "en": "(Getting to know the \"Galactic Fairy\" Sheryl-san\nand the \"Super Dimension Cinderella\"\nRanka-chan...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23820",
+   "en": "(Sports Day, the Culture Fest...\nOh, and just recently I helped out\nwith a movie shoot, too.)",
+   "flags": [],
+   "notes": "Aligned to the glossary decision of 2026-10-17."
+  },
+  {
+   "id": "c23821",
+   "en": "Oh, Saotome-kun. When I thought about only\nhaving one year of school left, the last\ntwo years started to feel kind of nostalgic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23822",
+   "en": "Yes, you're right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23823",
+   "en": "Look who's talking. You're the one who's\nitching to fly the most, Saotome-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23824",
+   "en": "Hehe, of course you're excited.\nI mean, after all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23825",
+   "en": "We've finally arrived at the new planet\nwe've been searching for all this time.",
+   "flags": [],
+   "notes": "Continues c23824."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c23792: 'hai' to Hilda rendered 'Yes, ma'am.' (shared male/female; Hilda female per glossary).",
+   "c23790/c23793/c23796: Hilda's quoted form entries ('S.M.S. ni nyuutai suru.') rendered as 'Will enlist in ...' to read as what she writes on the form, slightly different from the choice wording 'Enlist in ...'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "taiikusai (school sports festival) rendered 'sports festival'; not in the glossary (Culture Fest is)."
+  ],
+  "unfinished": []
+ }
+}

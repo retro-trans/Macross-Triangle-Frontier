@@ -1,0 +1,501 @@
+{
+ "slice": 70,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c05162",
+   "en": "Um, I don't think we've actually done anything yet...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05163",
+   "en": "Hm? You say something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05164",
+   "en": "No, nothing at all. Thank you very much!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05165",
+   "en": "Mm. Get home safe. See ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05166",
+   "en": "(What was Gary-sensei even trying to do...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05167",
+   "en": "(We were supposed to meet on the roof today...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05168",
+   "en": "No, I just got here myself.\nThanks for coaching my training again today!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05169",
+   "en": "Looks like the girls' swim team is using it...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05170",
+   "en": "Sensei, so, what are we doing?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05171",
+   "en": "Sensei, we got kicked out...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05172",
+   "en": "Um, we haven't actually done anything yet...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05173",
+   "en": "(I wonder what Gary-sensei was even trying to do...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05174",
+   "en": "(Sensei said to meet on the roof again today, right...)",
+   "flags": [],
+   "notes": "Male only; subject (Gary) restored from context."
+  },
+  {
+   "id": "c05175",
+   "en": "Mm. Then go get changed right away\nand meet me at the pool!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05176",
+   "en": "What?!\nAgain? Then why did we meet on the roof...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05177",
+   "en": "Quit your yapping. Come on, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05178",
+   "en": "We got kicked out by Hilda-sensei again,\njust like I thought...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05179",
+   "en": "Yeah... I guess...\nLet's call it a day...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05180",
+   "en": "O... okay...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05181",
+   "en": "(What is Gary-sensei seriously trying to do...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05182",
+   "en": "(Sensei said to meet on the roof again today...)",
+   "flags": [],
+   "notes": "Female only; subject (Gary) restored."
+  },
+  {
+   "id": "c05183",
+   "en": "(What is Gary-sensei seriously trying to do?)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05184",
+   "en": "(We're meeting at the simulator today.\nMaybe this is finally some real training...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05185",
+   "en": "Hey, you're here, \\p!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05186",
+   "en": "Yes. Thanks for coaching me again today.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05187",
+   "en": "Mm. Today, we'll be doing hands-on training\nusing the simulator. So stay sharp!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05188",
+   "en": "(Looks like I finally get to do some actual training.)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05189",
+   "en": "First I'll show you how it's done, so watch closely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05190",
+   "en": "Yes, understood.",
+   "flags": [],
+   "notes": "x12 across scenes."
+  },
+  {
+   "id": "c05191",
+   "en": "Set the simulator's difficulty to 'Maximum'.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05192",
+   "en": "What?! Will you be okay?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05193",
+   "en": "You idiot!\nYou think a toy like this could get the better of me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05194",
+   "en": "Sorry, I'll change the setting.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05195",
+   "en": "Time to sortie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05196",
+   "en": "(Oh, here it goes!)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05197",
+   "en": "Too slow!",
+   "flags": [],
+   "notes": "Gary in the simulator."
+  },
+  {
+   "id": "c05198",
+   "en": "(I wonder how good Sensei is...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05199",
+   "en": "And one more for good measure!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05200",
+   "en": "(Amazing...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05201",
+   "en": "You're not getting away.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05202",
+   "en": "(He really is something...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05203",
+   "en": "This is the last one!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05204",
+   "en": "(He did it! But this simulator...)",
+   "flags": [],
+   "notes": "Male only; thought continues in c05206 and c05208."
+  },
+  {
+   "id": "c05205",
+   "en": "Easy, easy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05206",
+   "en": "(...the difficulty's set so high that...)",
+   "flags": [],
+   "notes": "Both genders; continues c05204/c05227."
+  },
+  {
+   "id": "c05207",
+   "en": "Come on iiin~",
+   "flags": [],
+   "notes": "'Irasshaai': taunting a target into his sights."
+  },
+  {
+   "id": "c05208",
+   "en": "(...I can't even tell what's going on...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05209",
+   "en": "Yahooo!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05210",
+   "en": "(And I'm supposed to learn from this...?)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05211",
+   "en": "Phew. Well, it's been a while,\nso I guess that's about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05212",
+   "en": "Sensei! That was amazing!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05213",
+   "en": "This is nothing compared to the real me, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05214",
+   "en": "On the battlefield, even my own side called me\n'the Hound of He...'\n...Nah, let's skip the old war stories...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male version. 'Jigoku no ban...' is cut off mid-word (likely 'jigoku no banken', hound of hell); English cut at the matching point."
+  },
+  {
+   "id": "c05215",
+   "en": "(No idea what that was about,\nbut it sounds impressive...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05216",
+   "en": "So, now for my training...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05217",
+   "en": "Ah, right, that.\nThen set the difficulty to something reasonable\nand get to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05218",
+   "en": "Oh yeah, when you're done, do maintenance\non the equipment. And don't forget\nto switch the power off at the end!",
+   "flags": [],
+   "notes": "Male version."
+  },
+  {
+   "id": "c05219",
+   "en": "Oh, uh...",
+   "flags": [],
+   "notes": "x6."
+  },
+  {
+   "id": "c05220",
+   "en": "Knock off whenever you feel like it. See ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05221",
+   "en": "(Gary-sensei... didn't he just want\nto have fun himself...?)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05222",
+   "en": "(We're meeting at the simulator today.\nMaybe this is finally some real training...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05223",
+   "en": "(Looks like I finally get to do some actual training.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05224",
+   "en": "Yes, understood!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05225",
+   "en": "(Ah, here it goes!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05226",
+   "en": "(That's Sensei for you.)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05227",
+   "en": "(Yes, he did it! But this simulator...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05228",
+   "en": "(And using this as a model is kind of...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05229",
+   "en": "Sensei! You're amazing!",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05230",
+   "en": "On the battlefield, even my own side called me\n'the Hound of He...'\nNah, let's skip the old war stories...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female version; same reading as c05214."
+  },
+  {
+   "id": "c05231",
+   "en": "(No idea what that was about,\nbut it sounds amazing...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05232",
+   "en": "So, now for my training...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05233",
+   "en": "Oh yeah, when you're done, do maintenance\non the equipment. And don't forget\nto switch the power off at the end!",
+   "flags": [],
+   "notes": "Female version."
+  },
+  {
+   "id": "c05234",
+   "en": "(Gary-sensei... maybe he just wanted\nto have fun himself...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05235",
+   "en": "(We were supposed to meet at the simulator\nagain today, right...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05236",
+   "en": "No, not really.\nThanks for coaching my training again today!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05237",
+   "en": "Mm. Then first, I'll show you how it's done...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05238",
+   "en": "Um... I think we can skip the demonstration now...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05239",
+   "en": "That so? Then I'll watch, so go ahead and start.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05240",
+   "en": "O-okay.",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c05241",
+   "en": "Sensei! How was that?!",
+   "flags": [],
+   "notes": "Both genders; Gary answers in slice 71."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c05214/c05230: Gary's cut-off epithet 'jigoku no ban...' read as 'jigoku no banken' (hound of hell) and cut as 'the Hound of He...'.",
+   "c05207: Gary's 'irasshaai' in the simulator rendered 'Come on iiin~' (taunting the enemy).",
+   "c05174/c05182: 'tte itteta' given the subject 'Sensei' (Gary set the meeting place)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

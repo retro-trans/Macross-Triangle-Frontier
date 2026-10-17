@@ -1,0 +1,498 @@
+{
+ "slice": 107,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c07883",
+   "en": "(Today I'm having fun at the Mihoshi pool\nwith Klan-senpai again!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07884",
+   "en": "Come on, let's get in the pool, Klan-senpai.\nWhat are you doing over at the poolside?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07885",
+   "en": "W-well, I do want to play in the pool, but...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07886",
+   "en": "\"But\"?",
+   "flags": [],
+   "notes": "Both genders. Echoes Klan's trailing 'omou no da ga'."
+  },
+  {
+   "id": "c07887",
+   "en": "The truth is, I forgot my float ring...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07888",
+   "en": "Hmm, that's a problem.\nAnd it suited you so well, you looked just like\nan elementary schooler any way you look at it...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07889",
+   "en": "That's not the problem~!!\nMaking fun of me again, are you?\nI'll teach you a lesson!",
+   "flags": [],
+   "notes": "Both genders. seibai as c07866."
+  },
+  {
+   "id": "c07890",
+   "en": "(I meant it as a compliment...\nAnd she didn't have to kick me into the pool......)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07891",
+   "en": "(Today I'm having fun at the Mihoshi pool\nwith Klan-senpai again!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07892",
+   "en": "(Klan-senpai suddenly called me out here.\nI wonder what's going on?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07893",
+   "en": "Sorry for calling you out so suddenly.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07894",
+   "en": "No problem. More importantly, what's up?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07895",
+   "en": "Mm. Actually, there's something\nI want to ask your advice about...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07896",
+   "en": "My advice?\nI hope I can be of some help...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07897",
+   "en": "I'm sure you'll do fine!\nWill you hear me out?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07898",
+   "en": "You know how I turn into a little kid\nwhen I micronize, right?",
+   "flags": [],
+   "notes": "Both genders. youjika = regress into a small child."
+  },
+  {
+   "id": "c07899",
+   "en": "I want to do something about\nthese far-too-clumsy genes of mine!",
+   "flags": [],
+   "notes": "Both genders. 'Clumsy genes' as Klan's card (c24216)."
+  },
+  {
+   "id": "c07900",
+   "en": "What a limp answer!\nPull yourself together!",
+   "flags": [],
+   "notes": "Both genders. Reacts to a player reply not in this slice (no row between c07899 and c07900 in the dump)."
+  },
+  {
+   "id": "c07901",
+   "en": "Well, I do want to help you, Senpai,\nbut when it comes to genetics and stuff,\nthere's no way I could...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07902",
+   "en": "Hm, it seems I've given you the wrong idea.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07903",
+   "en": "That's not what I mean.\nTo put what I want from you simply...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07904",
+   "en": "Simply put?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07905",
+   "en": "W-with your own hands......",
+   "flags": [],
+   "notes": "Both genders. Continues into c07906 (deliberate double meaning)."
+  },
+  {
+   "id": "c07906",
+   "en": "I want you to make me a grown woman!!",
+   "flags": [],
+   "notes": "Both genders. Keeps the double entendre that makes the player panic and the cafe staff glare (c07911, c07937)."
+  },
+  {
+   "id": "c07907",
+   "en": "...Huh?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07908",
+   "en": "Whaaaaaaaaat~~~!!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07909",
+   "en": "Uhh...\nSo you mean you want me to help you look like\na grown woman even when you're micronized?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07910",
+   "en": "Exactly.",
+   "flags": [],
+   "notes": "x4: Klan here (both genders), Ozma in scd_sms_807. Generic."
+  },
+  {
+   "id": "c07911",
+   "en": "Then just say that...\nThanks to you, Klan-senpai, I'll feel awkward\never going back to that shop......",
+   "flags": [],
+   "notes": "Both genders. The scene takes place in a shop/cafe (see c07929, c07937)."
+  },
+  {
+   "id": "c07912",
+   "en": "S-sorry...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07913",
+   "en": "Sigh...\nBut I get what you're trying to say, Klan-senpai.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07914",
+   "en": "I don't know how much I can do,\nbut I'll help you as much as I can.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07915",
+   "en": "Thank you. I owe you one.",
+   "flags": [],
+   "notes": "Both genders. sumanai here is thanks."
+  },
+  {
+   "id": "c07916",
+   "en": "Let's do our best from here on.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07917",
+   "en": "Mm, I'm counting on you.",
+   "flags": [],
+   "notes": "Both genders. Klan relies on the player."
+  },
+  {
+   "id": "c07918",
+   "en": "A-and also, about this...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07919",
+   "en": "......It's a secret, just between us two, okay?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07920",
+   "en": "Heh heh, got it, Klan-senpai.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07921",
+   "en": "(I don't know how much help I can be, but...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07922",
+   "en": "(I'll do my best to turn Klan-senpai\ninto a grown-up lady!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07923",
+   "en": "(Klan-senpai suddenly called me out here.\nI wonder what's going on?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07924",
+   "en": "My advice?\nI hope I can be of some help...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07925",
+   "en": "Well, I do want to help you, Senpai,\nbut when it comes to genetics and stuff,\nthere's no way I could...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07926",
+   "en": "I don't know how much I can do,\nbut I'll help you as much as I can.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07927",
+   "en": "(I don't know how much help I can be, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07928",
+   "en": "(I'll do my best to turn Klan-senpai\ninto a grown-up lady!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07929",
+   "en": "(Klan-senpai called me out to a cafe, but...)",
+   "flags": [],
+   "notes": "Both genders. kissaten = cafe (no accent: Shift-JIS)."
+  },
+  {
+   "id": "c07930",
+   "en": "There you are, \\p.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07931",
+   "en": "Oh, Klan-senpai...",
+   "flags": [],
+   "notes": "x4: player here and in frd_kln_110, both genders."
+  },
+  {
+   "id": "c07932",
+   "en": "What's wrong? Don't be shy,\nhurry up and take a seat.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07933",
+   "en": "I'd like to, if I could, but...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07934",
+   "en": "Then just sit down.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07935",
+   "en": "Well, but, you see...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07936",
+   "en": "What? Stop mumbling.\nWhat on earth is the matter?",
+   "flags": [],
+   "notes": "Both genders. hagire no warui yatsu."
+  },
+  {
+   "id": "c07937",
+   "en": "...Because of what you said last time,\nKlan-senpai, the staff are giving us\nice-cold looks!",
+   "flags": [],
+   "notes": "Both genders. tenin rendered 'the staff' (number and gender unknown)."
+  },
+  {
+   "id": "c07938",
+   "en": "So I want to get out of here, fast!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07939",
+   "en": "Right, we're leaving at once!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07940",
+   "en": "(I'm not tough enough to enjoy my tea\nunder the staff's ice-cold stares...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07941",
+   "en": "(I'm not tough enough to enjoy my tea\nunder the staff's ice-cold stares...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07942",
+   "en": "(Klan-senpai called me out, saying there was\nsomething she wanted me to see.\nWhat could it be?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07943",
+   "en": "(Maybe it's about what she asked me\nthe other day? But still...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07944",
+   "en": "Why are we in the Pilot Course warehouse?",
+   "flags": [],
+   "notes": "Both genders. koutyuuka = Pilot Course (terms.json)."
+  },
+  {
+   "id": "c07945",
+   "en": "This was the only good spot I could think of.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07946",
+   "en": "Good spot...?\nWhat exactly are you planning to do,\nKlan-senpai?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07947",
+   "en": "A fashion show!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07948",
+   "en": "A fashion show?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07949",
+   "en": "I bought all sorts of clothes to look like\na grown woman, and I want you to judge\nwhether I really do.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07950",
+   "en": "I see, so that's what this is about.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07951",
+   "en": "And now, the Klan Klang Fashion Show\nbegins!!",
+   "flags": [],
+   "notes": "Both genders. Full name as in the Japanese."
+  },
+  {
+   "id": "c07952",
+   "en": "You can come in now.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07953",
+   "en": "(So, what kind of clothes\ndid Klan-senpai buy?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07954",
+   "en": "Well? Does it suit me?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07955",
+   "en": "Uhh...\nI think it suits you, but......",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07956",
+   "en": "...That's a Nyan-Nyan uniform, isn't it?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07957",
+   "en": "Mm, that's right.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07958",
+   "en": "The slit up the leg gives off a subtle hint\nof grown-up allure, does it not?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07959",
+   "en": "Uhh... Klan-senpai......",
+   "flags": [],
+   "notes": "x4: male and female, this scene."
+  },
+  {
+   "id": "c07960",
+   "en": "Hm? What is it?",
+   "flags": [],
+   "notes": "x6: Klan in frd_kln_006 and frd_kln_008, both genders."
+  },
+  {
+   "id": "c07961",
+   "en": "It suits you really well, and I do think\nit's cute, but...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07962",
+   "en": "Hmm?",
+   "flags": [],
+   "notes": "Both genders."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c07900: Klan scolds a 'limp reply' but no player row sits between c07899 and c07900 in the dump; presumably a reply elsewhere in the script (shared row) or a choice. Rendered as is.",
+   "c07906 kept as the double entendre 'make me a grown woman' so that c07911 (awkward to go back to that shop) and c07937 (staff glaring) make sense.",
+   "c07937/c07940 tenin rendered 'the staff' (one clerk or several, gender unknown).",
+   "c07931 is also a player line in frd_kln_110; checked it works there ('Oh, Klan-senpai...')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

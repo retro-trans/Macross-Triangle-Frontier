@@ -1,0 +1,495 @@
+{
+ "slice": 69,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c05082",
+   "en": "(Gary-sensei was supposed to look over\nmy self-training today...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05083",
+   "en": "Hey, \\p.\nSorry to keep you waiting!",
+   "flags": [],
+   "notes": "x10, Gary in frd_gry_001-003."
+  },
+  {
+   "id": "c05084",
+   "en": "No, not really...\nThanks for coaching my training today!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05085",
+   "en": "Mm, good answer. But what's with that getup?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05086",
+   "en": "Uh, it's just a regular EX-Gear...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05087",
+   "en": "You idiot!\nWearing EX-Gear to MY training? You're a hundred\nyears too early! Go take it off right now!",
+   "flags": [],
+   "notes": "'Bakayaroo!' as Gary's 'You idiot!'."
+  },
+  {
+   "id": "c05088",
+   "en": "Huh?! Y-yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05089",
+   "en": "Your answer's too sluggish!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05090",
+   "en": "All right, get going!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05091",
+   "en": "Sensei, I took it off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05092",
+   "en": "Too slow!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05093",
+   "en": "Sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05094",
+   "en": "Dawdle like that and you won't survive\non the battlefield.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05095",
+   "en": "Yes, I'm sorry!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05096",
+   "en": "Do it over! Put the EX-Gear back on and come back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05097",
+   "en": "Yes, I'm on my way!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05098",
+   "en": "Ah, wait a sec!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05099",
+   "en": "Yes?",
+   "flags": [],
+   "notes": "x8: player, Luca, Shirakawa, Nanase in various scenes."
+  },
+  {
+   "id": "c05100",
+   "en": "On top of that, go to the school store\nand buy me a hippo-cow milk coffee!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05101",
+   "en": "Huh? Y-yes...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05102",
+   "en": "Answer properly!",
+   "flags": [],
+   "notes": "x8, Gary in frd_gry_001/002/003/006."
+  },
+  {
+   "id": "c05103",
+   "en": "Sensei, I'm back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05104",
+   "en": "Mm, that was faster than before.\nNow go take it off again!\nOh, and leave the milk coffee here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05105",
+   "en": "Yes, understood!",
+   "flags": [],
+   "notes": "x8, player in Gary, Hilda and Sheryl scenes."
+  },
+  {
+   "id": "c05106",
+   "en": "Huff, huff...\nSensei, I took it off!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05107",
+   "en": "Mm, not bad. Let's leave it at that for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05108",
+   "en": "Point is, give everything your all. Dismissed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05109",
+   "en": "Um, er... Thank you very much!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05110",
+   "en": "Mm.\nOh, and by the way, I helped myself\nto the milk coffee.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05111",
+   "en": "Oh, okay...",
+   "flags": [],
+   "notes": "x18 across many scenes; also Akimizu once."
+  },
+  {
+   "id": "c05112",
+   "en": "Take this lesson to heart. See ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05113",
+   "en": "(Was that even training? Hmm...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05114",
+   "en": "(Gary-sensei was supposed to look over\nmy self-training today...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05115",
+   "en": "Yes, it's just a regular EX-Gear, though...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05116",
+   "en": "Yes, I'm sorry.",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05117",
+   "en": "Yes!",
+   "flags": [],
+   "notes": "x3: also frd_itk_116."
+  },
+  {
+   "id": "c05118",
+   "en": "(Was that even training? Hmm...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05119",
+   "en": "(Today for sure, Gary-sensei is gonna coach\nmy self-training...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05120",
+   "en": "No, not that long...\nThanks for coaching my training today!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c05121",
+   "en": "...Hm... Ah... Was that today...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05122",
+   "en": "Huh, Sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05123",
+   "en": "Ah... Clean forgot!\nToday's, uh, the thing... the staff meeting... yeah...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05124",
+   "en": "What?! Really?",
+   "flags": [],
+   "notes": "x7 across scenes."
+  },
+  {
+   "id": "c05125",
+   "en": "Yeah, sorry 'bout that.\nJust do whatever. See ya.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05126",
+   "en": "(Gary-sensei... is there really a staff meeting...?)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05127",
+   "en": "(Today for sure, Gary-sensei's gonna coach\nmy self-training!)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05128",
+   "en": "(Gary-sensei... I wonder if there's really\na staff meeting...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c05129",
+   "en": "(We were supposed to meet on the roof today...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05130",
+   "en": "No, I just got here myself.\nThanks for coaching my training again today!",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05131",
+   "en": "Mm. Now, as for today's training... let's see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05132",
+   "en": "We're gonna swim, to build full-body strength\nand cardiopulmonary endurance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05133",
+   "en": "Huh? What about EX-Gear training...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05134",
+   "en": "You idiot! Basic fitness comes before anything!\nBuild up your basic fitness and your piloting\nwill improve by leaps and bounds!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05135",
+   "en": "Ah, yes, sorry about that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05136",
+   "en": "All right, get changed and meet me at the pool,\non the double!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05137",
+   "en": "Gary-sensei...",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c05138",
+   "en": "Hm? What is it?",
+   "flags": [],
+   "notes": "x8: Gary, Hilda, Klan, Michel."
+  },
+  {
+   "id": "c05139",
+   "en": "Looks like the girls' swim team is using it...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05140",
+   "en": "Yeah, looks like it, but it can't be helped.\nWe'll train right alongside 'em.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05141",
+   "en": "Huh? That's kind of a bad idea...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05142",
+   "en": "Sensei, so, what should we do?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05143",
+   "en": "Well now... just as I figured... huh...",
+   "flags": [],
+   "notes": "Gary mumbling while eyeing the swim team."
+  },
+  {
+   "id": "c05144",
+   "en": "Ooh, that one's looking pretty good...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05145",
+   "en": "Sensei?",
+   "flags": [],
+   "notes": "x16."
+  },
+  {
+   "id": "c05146",
+   "en": "Whoa! Now that's dangerous.\nThat's practically against the rules...",
+   "flags": [],
+   "notes": "'Hansoku gimi': ogling a swimmer."
+  },
+  {
+   "id": "c05147",
+   "en": "Sensei!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05148",
+   "en": "Hm?! Ah, right, first off...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05149",
+   "en": "What are you doing?",
+   "flags": [],
+   "notes": "Hilda."
+  },
+  {
+   "id": "c05150",
+   "en": "Ah, Hilda-sensei!",
+   "flags": [],
+   "notes": "x6."
+  },
+  {
+   "id": "c05151",
+   "en": "Ah, well, right now, uh, y'know,\nI'm training this kid here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05152",
+   "en": "I see. How hard for you.",
+   "flags": [],
+   "notes": "Hilda, dry/sarcastic."
+  },
+  {
+   "id": "c05153",
+   "en": "Well, yeah.\nLooking after students is just part of being a teacher.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05154",
+   "en": "Indeed. But we are using this place right now.\nGo somewhere else.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05155",
+   "en": "No, but listen...",
+   "flags": [],
+   "notes": "x4."
+  },
+  {
+   "id": "c05156",
+   "en": "Go somewhere else.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05157",
+   "en": "Sir, yes, sir!",
+   "flags": [],
+   "notes": "x6."
+  },
+  {
+   "id": "c05158",
+   "en": "Tch, that woman's got no charm at all...",
+   "flags": [],
+   "notes": "'Kawaige no nai onna'."
+  },
+  {
+   "id": "c05159",
+   "en": "Sensei, we got kicked out, huh...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c05160",
+   "en": "Well, on the battlefield you gotta adapt\nto the unexpected, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c05161",
+   "en": "All right, let's wrap it up here for today.\nDismissed!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c05102 (x8): Gary's bare 'Henji!' rendered 'Answer properly!' (he wants a crisp 'Yes!'; the player then answers 'Yes!')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,443 @@
+{
+ "slice": 146,
+ "rows_in_slice": 71,
+ "rows_examined": 71,
+ "rows": [
+  {
+   "id": "c10667",
+   "en": "(Mmm, walking in the park feels so nice.)",
+   "flags": [],
+   "notes": "Male, frd_myk_004."
+  },
+  {
+   "id": "c10668",
+   "en": "Hm, is that...\nHeeey, Shirakawa~!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10669",
+   "en": "(Looks like I kinda startled her...)",
+   "flags": [],
+   "notes": "x2, player, both genders; passive odorokarete iru = she seems surprised (by me). 'her' = Miyuki in both versions."
+  },
+  {
+   "id": "c10670",
+   "en": "H-hello. What are you doing here?",
+   "flags": [],
+   "notes": "x2, Miyuki, both genders."
+  },
+  {
+   "id": "c10671",
+   "en": "I just came out for a walk,\nfor a change of pace.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10672",
+   "en": "Yeah. What about you, Shirakawa?\nOut for a walk?",
+   "flags": [],
+   "notes": "Male; answers Miyuki's 'I see...' (c03514)."
+  },
+  {
+   "id": "c10673",
+   "en": "Yes, something like that.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10674",
+   "en": "You look kinda down, huh?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10675",
+   "en": "There's something I'd like to ask you.\nWould that be all right?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10676",
+   "en": "What's with the formality all of a sudden...?",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10677",
+   "en": "Do you ever think about your future,\n\\p-kun?",
+   "flags": [],
+   "notes": "Male, Miyuki."
+  },
+  {
+   "id": "c10678",
+   "en": "My future... Like goals, that kind of thing?\nI used to want to be a pilot or a mechanic,\nbut...",
+   "flags": [],
+   "notes": "Male; mukashi wa ... atta = childhood dream jobs."
+  },
+  {
+   "id": "c10679",
+   "en": "What about now?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10680",
+   "en": "Now... it's all kinda fuzzy, I guess...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10681",
+   "en": "What about you, Shirakawa?\nIs there something you want to do?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10682",
+   "en": "I...\ndon't know either.",
+   "flags": [],
+   "notes": "x2, Miyuki; hesitant 'wakaranai, desu'."
+  },
+  {
+   "id": "c10683",
+   "en": "Don't you want to make your mark as a pilot\nor something?",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10684",
+   "en": "Well... it's not that I don't...\nBut I only became a pilot for my family's sake...\nIt's not like I chose it because I wanted to...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10685",
+   "en": "Everyone in my family has been in the military\nfor generations. It was just taken for granted,\nand before I knew it, I was at Mihoshi too...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10686",
+   "en": "Though I think my father wanted me\nto become a technical officer...",
+   "flags": [],
+   "notes": "x2, Miyuki; gikan = technical officer (engineering officer)."
+  },
+  {
+   "id": "c10687",
+   "en": "And now look at you, a full-on hotshot pilot!",
+   "flags": [],
+   "notes": "x2, player, both genders; baribari."
+  },
+  {
+   "id": "c10688",
+   "en": "Heh heh. Flying through space feels wonderful.\nOnce you've felt that, you can never forget it...",
+   "flags": [],
+   "notes": "x2, Miyuki. 'Heh heh.' as her fufu elsewhere (c02236)."
+  },
+  {
+   "id": "c10689",
+   "en": "(Huh, so Shirakawa can smile like that.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10690",
+   "en": "Then isn't that good enough?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10691",
+   "en": "You love flying through space, Shirakawa.",
+   "flags": [],
+   "notes": "Male. The Japanese states it in third person like a premise (Shirakawa likes flying); rendered as direct address, she is the listener."
+  },
+  {
+   "id": "c10692",
+   "en": "That's why you're a pilot.",
+   "flags": [],
+   "notes": "x2, player, both genders; continues c10691/c10714 after Miyuki's 'Okay...'."
+  },
+  {
+   "id": "c10693",
+   "en": "Is that not good enough?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10694",
+   "en": "Or is there something else you want to do?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10695",
+   "en": "It's not that there isn't anything, but...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10696",
+   "en": "You're right. For now, I'll focus on being a pilot,\nand I won't slack on the effort that takes.",
+   "flags": [],
+   "notes": "x2, Miyuki; stated as a resolution to herself."
+  },
+  {
+   "id": "c10697",
+   "en": "Yeah, that's the spirit!",
+   "flags": [],
+   "notes": "x2, player, both genders."
+  },
+  {
+   "id": "c10698",
+   "en": "Hehe...",
+   "flags": [],
+   "notes": "x2, Miyuki; kusu' (a small giggle). Review: Miyuki's kusukusu/kusu is 'Hehe' (as elsewhere)."
+  },
+  {
+   "id": "c10699",
+   "en": "I wonder why...\nI'm telling you all of this...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10700",
+   "en": "Ahaha, well, what's wrong with that?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10701",
+   "en": "Y-yes, I suppose so.\nWell then, I'll head home first.",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10702",
+   "en": "(Looks like Shirakawa's feeling better.\nGood.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10703",
+   "en": "(Mmm, walking in the park feels nice.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10704",
+   "en": "Hm, is that...\nYoo-hoo, Miyuki~!",
+   "flags": [],
+   "notes": "Female; 'Yoo-hoo' as c01337."
+  },
+  {
+   "id": "c10705",
+   "en": "I just came out for a walk,\nfor a change of pace.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10706",
+   "en": "Yeah. What about you, Miyuki?\nOut for a walk?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10707",
+   "en": "Hey, don't you look kinda down?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10708",
+   "en": "Do you ever think about your future,\n\\p-san?",
+   "flags": [],
+   "notes": "Female, Miyuki."
+  },
+  {
+   "id": "c10709",
+   "en": "My future... Like goals, that kind of thing?\nI used to want to be a nurse or a hairdresser,\nbut...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10710",
+   "en": "Now... it's all kinda fuzzy, I guess...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10711",
+   "en": "What about you, Miyuki? Anything?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10712",
+   "en": "(Huh, so Miyuki can smile like that.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10713",
+   "en": "Then isn't that good enough?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10714",
+   "en": "You love flying through space, Miyuki.",
+   "flags": [],
+   "notes": "Female; see c10691."
+  },
+  {
+   "id": "c10715",
+   "en": "Is that no good?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10716",
+   "en": "Or is there something else you want to do?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10717",
+   "en": "Hehe, well, that's fine, isn't it?",
+   "flags": [],
+   "notes": "Female; answers Miyuki's 'why am I telling you this'."
+  },
+  {
+   "id": "c10718",
+   "en": "Yeah, see you at school.",
+   "flags": [],
+   "notes": "x2, player, female (also frd_yuu_005)."
+  },
+  {
+   "id": "c10719",
+   "en": "(Looks like Miyuki's feeling better.\nThat's great~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10720",
+   "en": "(I came to Central Park with Shirakawa again!)",
+   "flags": [],
+   "notes": "Male; later visit."
+  },
+  {
+   "id": "c10721",
+   "en": "This is a nice place for a walk, huh?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10722",
+   "en": "Yes, it really is...",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10723",
+   "en": "It's so strange to think\nthis is all inside the Macross.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x2, Miyuki. 'Macross' kept as in the Japanese (the Frontier fleet/ship); the park is aboard the colony fleet."
+  },
+  {
+   "id": "c10724",
+   "en": "(I'm glad she's feeling better.)",
+   "flags": [],
+   "notes": "Male; subject restored (the player)."
+  },
+  {
+   "id": "c10725",
+   "en": "???\nIs there something on my face?",
+   "flags": [],
+   "notes": "x2, Miyuki."
+  },
+  {
+   "id": "c10726",
+   "en": "N-no, it's nothing.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10727",
+   "en": "???\nYou're acting weird, \\p-kun.",
+   "flags": [],
+   "notes": "Male; hen na \\p-kun, as Akimizu's c03671."
+  },
+  {
+   "id": "c10728",
+   "en": "Well then, should we head home soon?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10729",
+   "en": "Please invite me again, okay?",
+   "flags": [],
+   "notes": "x4, Miyuki (also frd_myk_103), both genders."
+  },
+  {
+   "id": "c10730",
+   "en": "(Okay, time to go home and take a bath~)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10731",
+   "en": "(I came to Central Park with Miyuki.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10732",
+   "en": "This is a really nice place for a walk, isn't it?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10733",
+   "en": "(I'm so glad Miyuki's feeling better~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10734",
+   "en": "Nope, it's nothing.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10735",
+   "en": "???\nYou're acting weird, \\p-san.",
+   "flags": [],
+   "notes": "Female, Miyuki."
+  },
+  {
+   "id": "c10736",
+   "en": "Well then, should we head home soon?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10737",
+   "en": "(Okay, time to go home and take a bath.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c10723: 'inside the Macross' kept literal (the Frontier); could be read as the fleet in general."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

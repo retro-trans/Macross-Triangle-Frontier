@@ -1,0 +1,504 @@
+{
+ "slice": 3,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o7_exd/090",
+   "en": "The defense target is nearly out of the combat zone, I should say.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/090",
+   "en": "The defense target's almost out of the combat zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/091",
+   "en": "Defense target's departure from the combat zone confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/091",
+   "en": "Defense target's departure from the zone confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/092",
+   "en": "The defense target has left the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/092",
+   "en": "Defense target has left the zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/093",
+   "en": "Escort the defense target until it reaches the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/093",
+   "en": "Please escort the defense target to the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/094",
+   "en": "Would you buy time until the defense target reaches the objective area?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/094",
+   "en": "Buy time until the defense target reaches the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/095",
+   "en": "Would you be so kind as to escort the defense target until it arrives?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/095",
+   "en": "Please escort the defense target until it arrives.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/096",
+   "en": "The defense target is nearly out, I should say.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/096",
+   "en": "The defense target's almost out!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/097",
+   "en": "The defense target has reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/097",
+   "en": "Defense target has reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/098",
+   "en": "Break through this combat zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/098",
+   "en": "Break through this zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/099",
+   "en": "We are nearly through the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/099",
+   "en": "We're almost through the zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/100",
+   "en": "We have broken through the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/100",
+   "en": "We broke through the zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/101",
+   "en": "Would you make leaving the combat zone your top priority?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/101",
+   "en": "Make leaving the zone your top priority!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/102",
+   "en": "A retreat order appears to have been issued. Leave the combat zone at once.",
+   "flags": [],
+   "notes": "Transcript joins the sentences with 'desu ga'; read as two sentences."
+  },
+  {
+   "id": "of_ktr/102",
+   "en": "A retreat order has been issued. Please leave the combat zone at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/103",
+   "en": "Withdraw from the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/103",
+   "en": "Withdraw from the combat zone!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/106",
+   "en": "We are nearly out of the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/106",
+   "en": "We're almost out of the combat zone!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "sen'eki 'campaign' heard for sen'iki 'combat zone'."
+  },
+  {
+   "id": "o7_exd/107",
+   "en": "Departure from the combat zone confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/107",
+   "en": "Departure from the combat zone confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/110",
+   "en": "Would you proceed to the objective area?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/110",
+   "en": "Please move to the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/111",
+   "en": "The objective area is nearly upon us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/111",
+   "en": "The objective area's just ahead!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/112",
+   "en": "We have arrived at the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/112",
+   "en": "Reached the objective area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/113",
+   "en": "Would you locate and collect the containers?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/113",
+   "en": "Find and collect the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/114",
+   "en": "Would you make securing the containers your top priority?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/114",
+   "en": "Please make securing the containers top priority.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/115",
+   "en": "Would you collect the containers without delay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/115",
+   "en": "Collect the containers quickly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/117",
+   "en": "Would you collect as many containers as you can within the time limit?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/117",
+   "en": "Collect as many containers as you can in time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/118",
+   "en": "Would you bring the containers to the designated position?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/118",
+   "en": "Bring the containers to the designated spot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/121",
+   "en": "Might I ask you to collect the remaining containers as well?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/121",
+   "en": "Collect the remaining containers too, please.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/122",
+   "en": "Would you take care not to destroy the containers?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/122",
+   "en": "Be careful not to destroy the containers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/123",
+   "en": "It seems the containers have been destroyed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/123",
+   "en": "The containers were destroyed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/154",
+   "en": "Operation successful. Well done indeed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/154",
+   "en": "The operation's a success. You did well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/155",
+   "en": "It would appear the operation was a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/155",
+   "en": "Good work. The operation's a success.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/156",
+   "en": "Operation over. All units, return to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/156",
+   "en": "Operation over. All units, please return to base.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/157",
+   "en": "The operation is still under way. We cannot let our guard down yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/157",
+   "en": "The operation's still under way. Stay sharp.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/161",
+   "en": "Operation failed. Begin your retreat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/161",
+   "en": "Operation failed. Retreat!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/162",
+   "en": "It seems the operation has failed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/162",
+   "en": "No... The operation failed...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/163",
+   "en": "I never imagined we would fail.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/163",
+   "en": "How could this happen? We failed...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/172",
+   "en": "The detached unit has achieved its objective. Would you join up with them?",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "betsu-doutai 'separate fuselage' heard for betsudoutai 'detached unit'."
+  },
+  {
+   "id": "of_ktr/172",
+   "en": "The detached unit has achieved its objective. Join up with them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/196",
+   "en": "There must be a switch somewhere that opens the bulkhead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/196",
+   "en": "There must be a switch somewhere that opens the bulkhead.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "kakuheiki 'nuclear weapon' heard for kakuheki 'bulkhead'."
+  },
+  {
+   "id": "o7_exd/197",
+   "en": "Would you open the bulkhead?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/197",
+   "en": "Open the bulkhead!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/200",
+   "en": "Would you keep damage to the surroundings to a minimum?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/200",
+   "en": "Keep damage to the surroundings to a minimum.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/201",
+   "en": "This operation is expected to be a long one. Mind your aircraft's damage rate.",
+   "flags": [],
+   "notes": "Transcript joins the sentences with 'desu ga'; read as two sentences."
+  },
+  {
+   "id": "of_ktr/201",
+   "en": "This operation's expected to drag on. Watch your aircraft's damage rate.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/221",
+   "en": "We must stall the enemy. Would you shoot them down?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/221",
+   "en": "We're stalling the enemy. Please shoot down their aircraft.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 190 of_ktr/106: sen'eki 'campaign' heard for sen'iki 'combat zone'.",
+   "row 229 o7_exd/172: betsu-doutai 'separate fuselage' heard for betsudoutai 'detached unit'.",
+   "row 232 of_ktr/196: kakuheiki 'nuclear weapon' heard for kakuheki 'bulkhead'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

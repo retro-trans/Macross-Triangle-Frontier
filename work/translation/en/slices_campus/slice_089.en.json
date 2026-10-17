@@ -1,0 +1,410 @@
+{
+ "slice": 89,
+ "rows_in_slice": 65,
+ "rows_examined": 65,
+ "rows": [
+  {
+   "id": "c06558",
+   "en": "(I'm going to Central Park with\nYamashiro-sensei today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06559",
+   "en": "\\p.\nYou're on time today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06560",
+   "en": "Yes, I made a real effort.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06561",
+   "en": "Something this basic shouldn't take effort...\nNow then, let's take a little walk.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06562",
+   "en": "A leisurely stroll once in a while\nis a fine thing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06563",
+   "en": "Yes, that felt great.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06564",
+   "en": "It shows you just how much we rush\nthrough life day to day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06565",
+   "en": "Still, it's also true that\nwe can't spend all our time resting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06566",
+   "en": "Y-yeah, I guess so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06567",
+   "en": "Well, time to head home.\nYou be careful on your way back, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06568",
+   "en": "(I'm going to Central Park with\nYamashiro-sensei today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06569",
+   "en": "(I'm going to Central Park with\nYamashiro-sensei again today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06570",
+   "en": "\\p.\nHere early, I see. Commendable.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06571",
+   "en": "Yes, it's all thanks to your guidance, Sensei!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06572",
+   "en": "Heh, it seems all my nagging\nhas finally paid off.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06573",
+   "en": "Now then, let's take a little walk.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06574",
+   "en": "This place is nice no matter\nwhen you come.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06575",
+   "en": "Nature really is soothing, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06576",
+   "en": "Though this is nature that was\nbuilt according to a plan...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06577",
+   "en": "But for us, we have no choice\nbut to think of this as nature.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06578",
+   "en": "(I'm going to Central Park with\nYamashiro-sensei again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06579",
+   "en": "(I'm going to Folmo with\nYamashiro-sensei today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06580",
+   "en": "Took you long enough, \\p.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The player answers that it is still 15 minutes early; the line is also replayed mid-scene in frd_itk_105 (script reuse). 'Took you long enough' fits the opening."
+  },
+  {
+   "id": "c06581",
+   "en": "You're just too early, Sensei.\nThere's still 15 minutes to go...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06582",
+   "en": "Is that so?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06583",
+   "en": "Well, never mind.\nLet's have a little look around.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06584",
+   "en": "The soft serve here is apparently famous.\nNot that I've ever had it...",
+   "flags": [],
+   "notes": "Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c06585",
+   "en": "Really?\nIt's delicious. Why not try some?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06586",
+   "en": "I'll pass today.\nI'll save it for next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06587",
+   "en": "Well then, shall we head back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06588",
+   "en": "(I'm going to Folmo with\nYamashiro-sensei today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06589",
+   "en": "Whaaat! What a waste...\nIt's delicious. Why not try some?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06590",
+   "en": "But it's so good...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06591",
+   "en": "(I'm going to Folmo with\nYamashiro-sensei again today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06592",
+   "en": "\\p, you're very early.\nArriving a full 15 minutes ahead...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06593",
+   "en": "...I was trying to get here\nbefore you, Sensei...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06594",
+   "en": "Hahaha, too bad for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06595",
+   "en": "This soft serve is quite good...",
+   "flags": [],
+   "notes": "Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c06596",
+   "en": "Isn't it?\nApparently they use milk fresh from the udder.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06597",
+   "en": "I see.\nIt really brings out the milk's\nnatural sweetness.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06598",
+   "en": "Y-you can really tell, huh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06599",
+   "en": "That was delicious.\nWell then, shall we head back?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06600",
+   "en": "(I'm going to Folmo with\nYamashiro-sensei again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06601",
+   "en": "(I came out for tea with\nYamashiro-sensei today, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06602",
+   "en": "You're right on time, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06603",
+   "en": "I meant to come early, but I had\na little errand to take care of...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06604",
+   "en": "Well then, let's go in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06605",
+   "en": "I don't come to this cafe often,\nbut it's quite authentic.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06606",
+   "en": "It's aimed at students, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06607",
+   "en": "You really can't know until you taste it\nyourself. One mustn't judge by\npreconceptions or appearances...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06608",
+   "en": "Right, on to the next place.\nFollow me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06609",
+   "en": "H-hey, Sensei! Wait for me!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06610",
+   "en": "(Today was a nice change of pace.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06611",
+   "en": "(Today was a nice change of pace~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06612",
+   "en": "I beat you here again today!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06613",
+   "en": "True. At this rate, I may not be\nfit to be a teacher...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06614",
+   "en": "Ahaha. Well then, shall we go in?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06615",
+   "en": "I tried ordering something different today,\nbut can't they do something about\nall those topping options?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06616",
+   "en": "D-don't ask me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06617",
+   "en": "I'd think that makes the work\nterribly inefficient...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06618",
+   "en": "Let's go find out whether\nother shops are the same.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06619",
+   "en": "(I had a fun time with Sensei!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06620",
+   "en": "I beat you here again today!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06621",
+   "en": "D-don't look at me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06622",
+   "en": "(I had a great time with Sensei!)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c06580 'Took you long enough, \\p.': the player replies it is still 15 minutes early; the same line is replayed mid-scene several times in frd_itk_105 (script reuse), translated once.",
+   "c06582 'Is that so?' is shared with Klan (frd_kln_003, after the player says it does not feel like shopping together).",
+   "c06601 '(I came out for tea with Yamashiro-sensei today, but...)' opens both visits of frd_itk_106 in both genders; the trailing 'but' is kept as the Japanese trails off.",
+   "c06599: Yamashiro's gochisousama after soft-serve rendered 'That was delicious.' (not 'thanks for the meal', since nobody treated him)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

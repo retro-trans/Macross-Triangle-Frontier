@@ -1,0 +1,373 @@
+{
+ "slice": 123,
+ "rows_in_slice": 60,
+ "rows_examined": 60,
+ "rows": [
+  {
+   "id": "c09046",
+   "en": "(Right, today's EX-Gear practical training\nwith Luca...)",
+   "flags": [],
+   "notes": "Male, frd_luk_005. EX-Gear and Practical Training (jitsugi) from terms.json."
+  },
+  {
+   "id": "c09047",
+   "en": "Luca's not here...\nIt's been almost 30 minutes...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09048",
+   "en": "...Did something happen to him?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09049",
+   "en": "I-I'm so sorry!!\nI'm late...",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09050",
+   "en": "Luca, what happened?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09051",
+   "en": "Getting Samson ready took longer than I expected...",
+   "flags": [],
+   "notes": "x2, Luca. Samson = his EX-Gear (terms.json)."
+  },
+  {
+   "id": "c09052",
+   "en": "Hm? Aren't you used to handling EX-Gear by now?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09053",
+   "en": "There's no such thing as getting used to it!\nEvery day comes with its own conditions!",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09054",
+   "en": "Anyway, let's start the flight training!\nWe can't afford to waste any more time!",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09055",
+   "en": "(Wasn't Luca the one who showed up late...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09056",
+   "en": "Ahh, I'm tired.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09057",
+   "en": "Thanks to you, that was great training.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09058",
+   "en": "Huh? Really?",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09059",
+   "en": "You fly right by the fundamentals, Luca.\nI learn a lot from watching you.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09060",
+   "en": "Really? Hehe.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09061",
+   "en": "Plus, how do I put it... you leave yourself\nin the EX-Gear's hands.\nIt always looks so natural.",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09062",
+   "en": "People can't fly if they can't trust\ntheir machines, after all.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09063",
+   "en": "Yeah, that's true.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09064",
+   "en": "Look, just look at Samson!",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09065",
+   "en": "Hm? Luca?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09066",
+   "en": "It's not just functional beauty pursued\nto the extreme, but these supple,\nbeautiful lines!",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09067",
+   "en": "An EX-Gear that never fails to enchant\nall who see it...",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09068",
+   "en": "I owe its developers more than\nI could ever repay!",
+   "flags": [],
+   "notes": "x2, Luca; idiom ashi o mukete nemurenai (deeply indebted)."
+  },
+  {
+   "id": "c09069",
+   "en": "C-calm down, Luca...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09070",
+   "en": "I am calm!\nAhh, it feels so nice to the touch...",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09071",
+   "en": "Machines aren't something for people to use.\nWhat matters is accepting them as another\nform of life that coexists with us.",
+   "flags": [],
+   "notes": "x2, Luca. shieki = put to work/use as a servant."
+  },
+  {
+   "id": "c09072",
+   "en": "Do that, and you'll get better at handling machines.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09073",
+   "en": "I-is that so...?",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09074",
+   "en": "It is.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09075",
+   "en": "(H-he's dead certain...)",
+   "flags": [],
+   "notes": "Male; danden."
+  },
+  {
+   "id": "c09076",
+   "en": "Well then, I'm going to do some maintenance\non Samson before I head home.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09077",
+   "en": "O-okay, see you later then.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09078",
+   "en": "(Luca's love for machines is truly formidable...)",
+   "flags": [],
+   "notes": "Male; osorubeshi."
+  },
+  {
+   "id": "c09079",
+   "en": "(Right, today's EX-Gear practical training\nwith Luca-kun...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09080",
+   "en": "Luca-kun isn't here...\nIt's been almost 30 minutes, you know...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09081",
+   "en": "Geez! Keeping a girl waiting...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09082",
+   "en": "Luca-kun, is something wrong?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09083",
+   "en": "Huh? Aren't you used to handling EX-Gear by now?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09084",
+   "en": "Oh, yeah...",
+   "flags": [],
+   "notes": "x3: also male player in frd_nns_002 (Nanase raving about Ranka's tea) and frd_nns_003 ('we're classmates, aren't we!')."
+  },
+  {
+   "id": "c09085",
+   "en": "(Wasn't Luca-kun the one who showed up late...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09086",
+   "en": "Haah, that was tiring.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09087",
+   "en": "Thanks to you, I think that was great training.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09088",
+   "en": "You fly right by the fundamentals, Luca-kun.\nI learn a lot from watching you.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09089",
+   "en": "Huh? Luca-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09090",
+   "en": "C-calm down, Luca-kun...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09091",
+   "en": "(H-he's dead certain...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09092",
+   "en": "O-okay, see you later then.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09093",
+   "en": "(Luca-kun's love for machines is truly\nformidable...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09094",
+   "en": "(More EX-Gear practice with Luca today!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09095",
+   "en": "\\p-san,\nyou're late!",
+   "flags": [],
+   "notes": "x3: Luca (both genders) and Shirakawa in frd_myk_006 (female)."
+  },
+  {
+   "id": "c09096",
+   "en": "Whoa, you're raring to go, Luca.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09097",
+   "en": "Of course!\nI'm not going easy on you today.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09098",
+   "en": "Bring it on.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09099",
+   "en": "...Good work~\nI didn't think we'd fly for this long...",
+   "flags": [],
+   "notes": "x2, both genders (player's otsukaresama)."
+  },
+  {
+   "id": "c09100",
+   "en": "I did say I wasn't going easy on you.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09101",
+   "en": "Well then, I'm going to go do\nsome maintenance on Samson.",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c09102",
+   "en": "(I might not want to see an EX-Gear\nfor a while...)",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09103",
+   "en": "(More EX-Gear practice with Luca-kun today!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09104",
+   "en": "Whoa, you're raring to go, Luca-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09105",
+   "en": "Bring it on!",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

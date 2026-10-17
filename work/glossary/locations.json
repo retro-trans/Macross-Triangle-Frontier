@@ -1,0 +1,577 @@
+{
+ "_meta": {
+  "version": "0.1.0",
+  "updated": "2026-10-16",
+  "spelling_policy": "Macross Wiki article titles.",
+  "seeded_from": "Macross Ultimate Frontier glossary (base) + Macross Ace Frontier glossary, merged by tools/glossary_seed.py",
+  "game_source": "https://ja.wikipedia.org/wiki/マクロスエースフロンティア",
+  "game_source_en": "https://macross.fandom.com/wiki/Macross_Ace_Frontier",
+  "fields": {
+   "af_uses": "How many Ace Frontier text entries (EBOOT, mission scripts, unit lists) contain the Japanese name or one of its ja_aliases. 0 = not in the dumped text; the name can still be heard in voice clips",
+   "tf_uses": "How many Triangle Frontier text entries outside the campus mode (EBOOT, menu CSVs, mission scripts, unit lists) contain the Japanese name or a ja_aliases form. 0 = not in the dumped text; it can still be heard in voice clips",
+   "tf_campus_uses": "How many campus event script lines contain the name",
+   "muf_role": "Role in Macross Ultimate Frontier, kept from the MUF glossary"
+  }
+ },
+ "locations": [
+  {
+   "id": "earth",
+   "en": "Earth",
+   "ja": "地球",
+   "aliases": [],
+   "avoid": [],
+   "era": "all",
+   "sources": [
+    "https://macross.fandom.com/wiki/Earth"
+   ],
+   "notes": "",
+   "af_uses": 34,
+   "tf_uses": 55,
+   "tf_campus_uses": 2
+  },
+  {
+   "id": "mayan_island",
+   "en": "Mayan Island",
+   "ja": "マヤン島",
+   "aliases": [],
+   "avoid": [
+    "Mayan Islands"
+   ],
+   "era": "2008 (Macross Zero)",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bird_Human",
+    "https://ja.wikipedia.org/wiki/マクロスアルティメットフロンティア"
+   ],
+   "notes": "South Pacific island home of Sara and Mao Nome.",
+   "af_uses": 2,
+   "tf_uses": 14,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "south_ataria",
+   "en": "South Ataria Island",
+   "ja": "南アタリア島",
+   "aliases": [],
+   "avoid": [],
+   "era": "1999-2009",
+   "sources": [
+    "https://macross.fandom.com/wiki/South_Ataria_Island"
+   ],
+   "notes": "Crash site of the ASS-1 / SDF-1.",
+   "af_uses": 2,
+   "tf_uses": 0,
+   "tf_campus_uses": 1
+  },
+  {
+   "id": "mars",
+   "en": "Mars",
+   "ja": "火星",
+   "aliases": [],
+   "avoid": [],
+   "era": "2009",
+   "sources": [],
+   "notes": "Sara Base appears in SDF Macross TV.",
+   "af_uses": 1,
+   "tf_uses": 3,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "eden",
+   "en": "Eden",
+   "ja": "惑星エデン",
+   "aliases": [
+    "planet Eden"
+   ],
+   "avoid": [],
+   "era": "2040 (Macross Plus)",
+   "sources": [
+    "https://macross.fandom.com/wiki/Eden"
+   ],
+   "notes": "惑星エデン → 'planet Eden' when the word 惑星 is present.",
+   "af_uses": 2,
+   "tf_uses": 1,
+   "tf_campus_uses": 1
+  },
+  {
+   "id": "new_edwards",
+   "en": "New Edwards Base",
+   "ja": "ニューエドワーズ基地",
+   "aliases": [
+    "New Edwards"
+   ],
+   "avoid": [],
+   "era": "2040",
+   "sources": [
+    "https://macross.fandom.com/wiki/Millard_Johnson"
+   ],
+   "notes": "Test flight center on Eden. ja form not confirmed.",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "macross_city",
+   "en": "Macross City",
+   "ja": "マクロス・シティ",
+   "aliases": [
+    "マクロスシティ"
+   ],
+   "avoid": [],
+   "era": "2009-2040",
+   "sources": [],
+   "notes": "ja form not confirmed.",
+   "af_uses": 2,
+   "tf_uses": 17,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "city_7",
+   "en": "City 7",
+   "ja": "シティ7",
+   "aliases": [],
+   "avoid": [
+    "City Seven"
+   ],
+   "era": "2045",
+   "sources": [
+    "https://macross.fandom.com/wiki/Macross_7_(Spacecraft)"
+   ],
+   "notes": "Civilian section of the Macross 7.",
+   "af_uses": 17,
+   "tf_uses": 14,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "varauta_planet",
+   "en": "Varauta",
+   "ja": "惑星バロータ",
+   "aliases": [
+    "Varauta 3198XE",
+    "planet Varauta"
+   ],
+   "avoid": [
+    "Barota"
+   ],
+   "era": "2045",
+   "sources": [
+    "https://macross.fandom.com/wiki/Varauta"
+   ],
+   "notes": "",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "zola",
+   "en": "Zola",
+   "ja": "惑星ゾラ",
+   "aliases": [
+    "planet Zola"
+   ],
+   "avoid": [
+    "Zora"
+   ],
+   "era": "2047 (Dynamite 7)",
+   "sources": [
+    "https://macross.fandom.com/wiki/Zola"
+   ],
+   "notes": "",
+   "af_uses": 0,
+   "tf_uses": 10,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "island_1",
+   "en": "Island 1",
+   "ja": "アイランド1",
+   "aliases": [],
+   "avoid": [
+    "Island One"
+   ],
+   "era": "2059",
+   "sources": [
+    "https://macross.fandom.com/wiki/Richard_Birler",
+    "https://macross.fandom.com/wiki/Nanase_Matsuura"
+   ],
+   "notes": "Main habitat ship of the Frontier fleet.",
+   "af_uses": 0,
+   "tf_uses": 7,
+   "tf_campus_uses": 8
+  },
+  {
+   "id": "gallia_4",
+   "en": "Gallia 4",
+   "ja": "ガリア4",
+   "aliases": [],
+   "avoid": [
+    "Galia 4"
+   ],
+   "era": "2059",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gallia_4"
+   ],
+   "notes": "",
+   "af_uses": 2,
+   "tf_uses": 7,
+   "tf_campus_uses": 5
+  },
+  {
+   "id": "vajra_planet",
+   "en": "Vajra homeworld",
+   "ja": "バジュラ本星",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [
+    "https://macross.fandom.com/wiki/Vajra_War"
+   ],
+   "notes": "ja form not confirmed.",
+   "af_uses": 0,
+   "tf_uses": 2,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "mihoshi_academy",
+   "en": "Mihoshi Academy",
+   "ja": "美星学園",
+   "aliases": [
+    "Mihoshi"
+   ],
+   "avoid": [
+    "Bisei Academy",
+    "Bisei Gakuen"
+   ],
+   "era": "2059",
+   "sources": [
+    "https://macross.fandom.com/wiki/Mihoshi_Academy"
+   ],
+   "notes": "TF: the school of the Academy (campus) mode; campus text also says just 美星.",
+   "af_uses": 0,
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 61
+  },
+  {
+   "id": "moon_island",
+   "en": "Moon Island",
+   "ja": "ムーンアイランド",
+   "aliases": [],
+   "avoid": [],
+   "era": "MUF extra mission",
+   "sources": [
+    "https://ja.wikipedia.org/wiki/マクロスアルティメットフロンティア"
+   ],
+   "notes": "Codename, not a real place; see organizations.json moon_island_platoon.",
+   "af_uses": 0,
+   "tf_uses": 10,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "lux",
+   "en": "Lux",
+   "ja": "惑星ラクス",
+   "aliases": [],
+   "avoid": [],
+   "era": "2045",
+   "sources": [
+    "https://macross.fandom.com/wiki/Lux"
+   ],
+   "notes": "Planet where the Varauta Army ambushes the Macross 7 fleet.",
+   "af_uses": 3,
+   "tf_uses": 4,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "island_3",
+   "en": "Island 3",
+   "ja": "アイランド３",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [],
+   "notes": "Frontier fleet habitat ship.",
+   "af_uses": 0,
+   "tf_uses": 2,
+   "tf_campus_uses": 23
+  },
+  {
+   "id": "ontario",
+   "en": "Ontario Autonomous Zone",
+   "ja": "オンタリオ自治区",
+   "aliases": [],
+   "avoid": [],
+   "era": "2009",
+   "sources": [
+    "https://macross.fandom.com/wiki/Bruno_J._Global"
+   ],
+   "notes": "Accepts the SDF-1's civilians (SDF TV).",
+   "af_uses": 1,
+   "tf_uses": 2,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "asuka_ii",
+   "en": "Asuka II",
+   "ja": "アスカⅡ",
+   "aliases": [],
+   "avoid": [],
+   "era": "2008",
+   "sources": [
+    "https://macross.fandom.com/wiki/CVN-99_Asuka_II"
+   ],
+   "notes": "U.N. carrier CVN-99 Asuka II. 空母アスカ → 'the carrier Asuka'. MUF shipped 'Carrier Asuka II' for 空母アスカⅡ (muf_tm).",
+   "af_uses": 0,
+   "ja_aliases": [
+    "空母アスカⅡ"
+   ],
+   "tf_added": true,
+   "tf_uses": 6,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "global_ship",
+   "en": "Global",
+   "ja": "グローバル",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [
+    "https://macross.fandom.com/wiki/SDFN-4_Global"
+   ],
+   "notes": "SDFN-4 Global, flagship of the 117th Research Fleet. Not the captain Bruno J. Global.",
+   "af_uses": 6,
+   "tf_uses": 11,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "fulbtzs_berrentzs",
+   "en": "Fulbtzs-Berrentzs",
+   "ja": "フルブス・バレンス",
+   "aliases": [],
+   "avoid": [],
+   "era": "2009",
+   "sources": [
+    "https://macross.fandom.com/wiki/Fulbtzs-Berrentzs_class"
+   ],
+   "notes": "Boddole Zer's flagship (class name).",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "boddole_fortress",
+   "en": "Boddole Zer's mobile fortress",
+   "ja": "ボドル機動要塞",
+   "aliases": [],
+   "avoid": [],
+   "era": "2009 (DYRL)",
+   "sources": [
+    "https://macross.fandom.com/wiki/Gol_Boddole_Zer-class"
+   ],
+   "notes": "Wiki: 'Gol Boddole Zer-class'.",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "uranus",
+   "en": "Uranus",
+   "ja": "天王星",
+   "aliases": [],
+   "avoid": [],
+   "era": "2009",
+   "sources": [],
+   "notes": "",
+   "af_uses": 0,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "macross_frontier_ship",
+   "en": "Macross Frontier",
+   "ja": "マクロス・フロンティア",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [
+    "https://macross.fandom.com/wiki/Macross_Frontier_(Spacecraft)"
+   ],
+   "notes": "Fleet / ship name.",
+   "af_uses": 8,
+   "tf_uses": 11,
+   "tf_campus_uses": 19
+  },
+  {
+   "id": "griffith_park",
+   "en": "Griffith Park",
+   "ja": "グリフィスパーク",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [
+    "https://macross.fandom.com/wiki/Aimo"
+   ],
+   "notes": "Park on Island 1 (The False Songstress: Ranka sings Aimo there).",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 104
+  },
+  {
+   "id": "central_park",
+   "en": "Central Park",
+   "ja": "セントラルパーク",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [],
+   "notes": "Campus-mode outing spot.",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 116
+  },
+  {
+   "id": "silver_moon",
+   "en": "Silver Moon",
+   "ja": "シルバームーン",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [],
+   "notes": "Campus-mode café ('let's have tea at Silver Moon'). Not the song 'Silver Moon, Red Moon'.",
+   "status": "provisional",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 81
+  },
+  {
+   "id": "arlington_cemetery",
+   "en": "Arlington Cemetery",
+   "ja": "アーリントン墓地",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [],
+   "notes": "Campus-mode location on the Frontier.",
+   "status": "provisional",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 8
+  },
+  {
+   "id": "st_maria_academy",
+   "en": "St. Maria Academy",
+   "ja": "聖マリア学園",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [],
+   "notes": "Another school named in campus dialogue.",
+   "status": "provisional",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 3
+  },
+  {
+   "id": "deep_akihabara",
+   "en": "Deep Akihabara",
+   "ja": "深・秋葉原",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [],
+   "notes": "Campus outing spot, an underground mall (pun on Akihabara).",
+   "status": "provisional",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 150
+  },
+  {
+   "id": "sky_gate",
+   "en": "Sky Gate",
+   "ja": "天空門",
+   "aliases": [],
+   "avoid": [
+    "Tenkumon"
+   ],
+   "era": "2059",
+   "sources": [],
+   "notes": "Concert venue in the Beijing Area. Decided 2026-10-16 in the first review (slices disagreed or the term was missing).",
+   "status": "decided",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 64
+  },
+  {
+   "id": "san_francisco_area",
+   "en": "San Francisco Area",
+   "ja": "サンフランシスコエリア",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [],
+   "notes": "District of Island 1.",
+   "status": "term",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 4
+  },
+  {
+   "id": "shibuya_area",
+   "en": "Shibuya Area",
+   "ja": "渋谷エリア",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [],
+   "notes": "District of Island 1.",
+   "status": "term",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 44
+  },
+  {
+   "id": "beijing_area",
+   "en": "Beijing Area",
+   "ja": "北京エリア",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [],
+   "notes": "District of Island 1.",
+   "status": "term",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 0
+  },
+  {
+   "id": "folmo",
+   "en": "Folmo",
+   "ja": "フォルモ",
+   "aliases": [],
+   "avoid": [
+    "Formo"
+   ],
+   "era": "2059",
+   "sources": [],
+   "notes": "Shopping mall on the Frontier (campus outings). Same katakana as Exsedol Folmo; spelled as the corpus place list (slice 39). Decided 2026-10-17.",
+   "status": "decided",
+   "tf_added": true,
+   "tf_uses": 3,
+   "tf_campus_uses": 157
+  },
+  {
+   "id": "observation_pier",
+   "en": "Observation Pier",
+   "ja": "展望桟橋",
+   "aliases": [],
+   "avoid": [],
+   "era": "2059",
+   "sources": [],
+   "notes": "Campus outing spot (corpus place list u4355). The capitalised 'Artificial Island' is the place-list label; in dialogue 'the artificial island'.",
+   "status": "decided",
+   "tf_added": true,
+   "tf_uses": 0,
+   "tf_campus_uses": 56
+  }
+ ]
+}

@@ -1,0 +1,494 @@
+{
+ "slice": 27,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "of_ktr/2317",
+   "en": "RVF-171EX Nightmare Plus, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2318",
+   "en": "VF-25 Messiah, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2318",
+   "en": "VF-25 Messiah, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2318",
+   "en": "VF-25 Messiah, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2318",
+   "en": "VF-25 Messiah, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2318",
+   "en": "VF-25 Messiah, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2318",
+   "en": "VF-25 Messiah, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2319",
+   "en": "RVF-25 Messiah, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2319",
+   "en": "RVF-25 Messiah, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2319",
+   "en": "RVF-25 Messiah, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2319",
+   "en": "RVF-25 Messiah, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2319",
+   "en": "RVF-25 Messiah, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2319",
+   "en": "RVF-25 Messiah, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2320",
+   "en": "Queadluun-Rhea, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2320",
+   "en": "Queadluun-Rhea, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2320",
+   "en": "Queadluun-Rhea, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2320",
+   "en": "Queadluun-Rhea, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2320",
+   "en": "Queadluun-Rhea, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2320",
+   "en": "Queadluun-Rhea, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2321",
+   "en": "Klan Klang's team, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2321",
+   "en": "Klan Klang's team, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2321",
+   "en": "Klan Klang's team, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2321",
+   "en": "Klan Klang's team, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2321",
+   "en": "Klan Klang's team, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2321",
+   "en": "Klan Klang's team, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2322",
+   "en": "Konig Monster, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2322",
+   "en": "Konig Monster, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2322",
+   "en": "Konig Monster, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2322",
+   "en": "Konig Monster, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2322",
+   "en": "Konig Monster, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2322",
+   "en": "Konig Monster, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2323",
+   "en": "Macross Quarter, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2323",
+   "en": "Macross Quarter, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2323",
+   "en": "Macross Quarter, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2323",
+   "en": "Macross Quarter, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2323",
+   "en": "Macross Quarter, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2323",
+   "en": "Macross Quarter, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2324",
+   "en": "Battle Frontier, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2324",
+   "en": "Battle Frontier, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2324",
+   "en": "Battle Frontier, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2324",
+   "en": "Battle Frontier, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2324",
+   "en": "Battle Frontier, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2324",
+   "en": "Battle Frontier, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2325",
+   "en": "VF-27 Lucifer, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2325",
+   "en": "VF-27 Lucifer, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2325",
+   "en": "VF-27 Lucifer, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2325",
+   "en": "VF-27 Lucifer, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2325",
+   "en": "VF-27 Lucifer, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2325",
+   "en": "VF-27 Lucifer, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2326",
+   "en": "Battle Galaxy, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2326",
+   "en": "Battle Galaxy, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2326",
+   "en": "Battle Galaxy, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2326",
+   "en": "Battle Galaxy, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2326",
+   "en": "Battle Galaxy, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2326",
+   "en": "Battle Galaxy, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2327",
+   "en": "VF-2SS Valkyrie II, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2327",
+   "en": "VF-2SS Valkyrie II, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2327",
+   "en": "VF-2SS Valkyrie II, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2327",
+   "en": "VF-2SS Valkyrie II, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2327",
+   "en": "VF-2SS Valkyrie II, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2327",
+   "en": "VF-2SS Valkyrie II, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2328",
+   "en": "Gigamesh, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2328",
+   "en": "Gigamesh, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2328",
+   "en": "Gigamesh, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2328",
+   "en": "Gigamesh, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2328",
+   "en": "Gigamesh, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2328",
+   "en": "Gigamesh, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2329",
+   "en": "VF-9 Cutlass, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2329",
+   "en": "VF-9 Cutlass, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2329",
+   "en": "VF-9 Cutlass, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2329",
+   "en": "VF-9 Cutlass, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2329",
+   "en": "VF-9 Cutlass, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2329",
+   "en": "VF-9 Cutlass, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2330",
+   "en": "All units, cleared to launch. Do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2330",
+   "en": "All units, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2330",
+   "en": "All units, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2330",
+   "en": "All units, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2330",
+   "en": "All units, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2330",
+   "en": "All units, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2331",
+   "en": "Queadluun-Quilqua, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": "Re-recorded with a different unit than the sister clip (MUF MUF:vo0_of0_2331: VT-1 Valkyrie, you're cleared to launch. Please do your best!); translated what this clip says."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

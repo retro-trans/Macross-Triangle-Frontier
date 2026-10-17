@@ -1,0 +1,502 @@
+{
+ "slice": 320,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c23130",
+   "en": "I-I'm taking my break now!!",
+   "flags": [],
+   "notes": "Pinon; shared."
+  },
+  {
+   "id": "c23131",
+   "en": "She ran off like she was fleeing...",
+   "flags": [],
+   "notes": "Shared; the player's line without a plate. Subject 'she' = Pinon."
+  },
+  {
+   "id": "c23132",
+   "en": "Hehe, Pinon-chan's such a hard worker,\nshe'd never take a break unless we\npulled something like this.",
+   "flags": [],
+   "notes": "Claire; shared."
+  },
+  {
+   "id": "c23133",
+   "en": "Sorry for making you play\nsuch a weird part...",
+   "flags": [],
+   "notes": "Shared."
+  },
+  {
+   "id": "c23134",
+   "en": "Sigh~ What a shame, though.",
+   "flags": [],
+   "notes": "Claire; shared."
+  },
+  {
+   "id": "c23135",
+   "en": "Pinon-chan coming for a sleepover in her\nmaid outfit... Just imagining it makes me...",
+   "flags": [],
+   "notes": "Claire; shared. Trails off as in the Japanese."
+  },
+  {
+   "id": "c23136",
+   "en": "(C-Claire-senpai?\nDon't tell me she was serious just now...?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23137",
+   "en": "(W-well, no point worrying about it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23138",
+   "en": "(Okay, the Culture Fest is almost over!\nI've gotta keep at it too!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23139",
+   "en": "(Phew~ It's finally over~\nWe had even more customers than at last\nyear's Culture Fest. I'm totally beat.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23140",
+   "en": "Good work to you too, Yuuto.",
+   "flags": [],
+   "notes": "Answers Kagura's 'otsukaresama' (c11676, outside this slice)."
+  },
+  {
+   "id": "c23141",
+   "en": "So the Culture Fest is already over...\nIt was so busy and so much work, but now\nthat it's ending, it feels kind of lonely...",
+   "flags": [],
+   "notes": "Kagura; shared male/female."
+  },
+  {
+   "id": "c23142",
+   "en": "What's with the gloomy faces?\nThere's always next year, so just\nenjoy it all over again then.",
+   "flags": [],
+   "notes": "Sheryl to Kagura and the player (the player has just agreed with Kagura); shared."
+  },
+  {
+   "id": "c23143",
+   "en": "That's right, \\p-kun!\nWe just have to make next year's\nCulture Fest even more fun than this one!",
+   "flags": [],
+   "notes": "Ranka. Subject 'we' restored: the class makes it more fun."
+  },
+  {
+   "id": "c23144",
+   "en": "Sheryl... Ranka......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23145",
+   "en": "You're right...\nYeah... Let's definitely do that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23146",
+   "en": "(There's another Culture Fest next year.\nI hope I can enjoy it with these friends\nagain.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23147",
+   "en": "Welcome home, Milady!",
+   "flags": [],
+   "notes": "Ranka (ojousama), female version of c23051."
+  },
+  {
+   "id": "c23148",
+   "en": "Oh, wait... It's just \\p-chan.",
+   "flags": [],
+   "notes": "Sheryl."
+  },
+  {
+   "id": "c23149",
+   "en": "(So it's a cafe, all right...\na maid cafe...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23150",
+   "en": "...Yui, you're the one who remodeled\nthe classroom, right?",
+   "flags": [],
+   "notes": "The female player calls Hoshimura 'Yui'."
+  },
+  {
+   "id": "c23151",
+   "en": "(Like last year, can you really call this\njust a remodel? I can see the ocean and\nan artificial island outside...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23152",
+   "en": "(Oh well... Better not dig too deep!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23153",
+   "en": "I'm counting on you today,\n\\p-chan.",
+   "flags": [],
+   "notes": "Claire."
+  },
+  {
+   "id": "c23154",
+   "en": "Welcome home, my lady.",
+   "flags": [],
+   "notes": "Michel (ojousama)."
+  },
+  {
+   "id": "c23155",
+   "en": "Tell me about it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23156",
+   "en": "Oh, you're in a butler outfit too, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23157",
+   "en": "I see.\nHuh? Come to think of it, where's Saotome-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23158",
+   "en": "Oh, a butler outfit.\nAnd here I was sure...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23159",
+   "en": "'I thought Saotome-kun would be in a maid\noutfit'... Is that what you were about to say,\n\\p?",
+   "flags": [],
+   "notes": "Alto quoting the female player's own form of address."
+  },
+  {
+   "id": "c23160",
+   "en": "N-no way, of course not...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23161",
+   "en": "I'd better go get ready for opening...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23162",
+   "en": "(Saotome-kun sure has it rough...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23163",
+   "en": "(Right, I'd better hurry and get ready too,\nor we won't be open in time.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23164",
+   "en": "(Sheryl Nome's pull is really something.\nThe response is so huge we're swamped.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23165",
+   "en": "\\p-san,\nplease take the order at table 5.",
+   "flags": [],
+   "notes": "Nanase."
+  },
+  {
+   "id": "c23166",
+   "en": "Sure, got it.\nBy the way, Nanase, you've been working\nnonstop this whole time. Aren't you tired?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23167",
+   "en": "\\p-chan,\nplease take this to table 3.",
+   "flags": [],
+   "notes": "Akimizu."
+  },
+  {
+   "id": "c23168",
+   "en": "Roger.\nAre you okay too, Yuu? You've been\nworking nonstop this whole time...",
+   "flags": [],
+   "notes": "The female player calls Akimizu 'Yuu'."
+  },
+  {
+   "id": "c23169",
+   "en": "(How should I put it...\nthose two run on the same fuel...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23170",
+   "en": "You keep worrying about everyone else,\nbut what about you, \\p-san?\nAren't you tired?",
+   "flags": [],
+   "notes": "Shirakawa."
+  },
+  {
+   "id": "c23171",
+   "en": "I'm fine.\nWhat about you, Miyuki? Are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23172",
+   "en": "She's been working so hard with that\nlittle body of hers...\nHey, Pinon-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23173",
+   "en": "You look tired. Why not take a little break?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23174",
+   "en": "(She's definitely overdoing it.\nShe won't take a break no matter what I say,\nso in that case...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23175",
+   "en": "What is it, \\p-chan?",
+   "flags": [],
+   "notes": "Claire."
+  },
+  {
+   "id": "c23176",
+   "en": "(C-Claire-senpai?\nDon't tell me she was serious just now...?!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23177",
+   "en": "(W-well, no point worrying about it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23178",
+   "en": "(Okay, the Culture Fest is almost over!\nI've gotta keep at it too!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23179",
+   "en": "(Phew~ It's finally over~\nWe had even more customers than at last\nyear's Culture Fest. I'm totally beat.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23180",
+   "en": "Good work to you too, Kagura-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23181",
+   "en": "That's right, \\p-chan!\nWe just have to make next year's\nCulture Fest even more fun than this one!",
+   "flags": [],
+   "notes": "Ranka."
+  },
+  {
+   "id": "c23182",
+   "en": "Sheryl-san... Ranka-chan......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23183",
+   "en": "You're right...\nYeah... Let's definitely do that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23184",
+   "en": "(There's another Culture Fest next year.\nI hope I can enjoy it with these friends\nagain.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23185",
+   "en": "\\p, got a minute...?\nThere's something I want to give you.",
+   "flags": [],
+   "notes": "Kagura, White Day (female player)."
+  },
+  {
+   "id": "c23186",
+   "en": "It's my return gift for Valentine's.\nI'd like you to accept it...",
+   "flags": [],
+   "notes": "Kagura. Okaeshi = White Day return gift."
+  },
+  {
+   "id": "c23187",
+   "en": "Thank you, Kagura-kun.\n...Wait, what is this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23188",
+   "en": "It's a book of aerial photos of ancient\nheritage sites on Earth. They're so vast\nand beautiful, aren't they?",
+   "flags": [],
+   "notes": "Kagura."
+  },
+  {
+   "id": "c23189",
+   "en": "Wow... Thank you so much, Kagura-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23190",
+   "en": "I'm glad you like it.\nI guess choosing it carefully paid off.",
+   "flags": [],
+   "notes": "Kagura."
+  },
+  {
+   "id": "c23191",
+   "en": "(He really put thought into a present\njust for me... That makes me so happy.)",
+   "flags": [],
+   "notes": "x3: the female player after the gifts from Kagura, Yamashiro and Luca, all male, so 'he' works for each."
+  },
+  {
+   "id": "c23192",
+   "en": "(It's White Day today.\nI wonder if Gary-sensei remembered?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23193",
+   "en": "Hey, \\p.\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": "Gary."
+  },
+  {
+   "id": "c23194",
+   "en": "Mm. Once class is over, head on home.",
+   "flags": [],
+   "notes": "Gary."
+  },
+  {
+   "id": "c23195",
+   "en": "Um, Sensei, aren't you forgetting something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23196",
+   "en": "Hm? What is it?\nIf it's money, I don't remember\nborrowing any...",
+   "flags": [],
+   "notes": "Gary."
+  },
+  {
+   "id": "c23197",
+   "en": "Ugh, never mind! Excuse me!",
+   "flags": [],
+   "notes": "The player, miffed, leaving."
+  },
+  {
+   "id": "c23198",
+   "en": "Ah, \\p, hold on a sec.",
+   "flags": [],
+   "notes": "Gary."
+  },
+  {
+   "id": "c23199",
+   "en": "Yes?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23200",
+   "en": "Here, this is for you. Hang on to it.",
+   "flags": [],
+   "notes": "Gary."
+  },
+  {
+   "id": "c23201",
+   "en": "Sensei... this is...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23202",
+   "en": "Well, call it... thanks for the other day...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x3: Gary (White Day), Luis (White Day), and in Michel's White Day scene the row has no name plate (filed as the player) though it reads like Michel's line, probably a missing plate in the script. The wording works for all three."
+  },
+  {
+   "id": "c23203",
+   "en": "Well then, get home safe!",
+   "flags": [],
+   "notes": "Gary."
+  },
+  {
+   "id": "c23204",
+   "en": "(A leather accessory, huh...\nGary-sensei's got better taste than I thought.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23205",
+   "en": "Oh, Fresh Girl!\nI was just looking for you.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Luis's nickname for the female player (fresh gaaru; 'Fresh Boy' for the male player elsewhere). Not in the glossary; kept as an English nickname."
+  },
+  {
+   "id": "c23206",
+   "en": "My precious partner...\nno, you could even call it my soul.\nI'm giving this mic to you as a present!",
+   "flags": [],
+   "notes": "Luis."
+  },
+  {
+   "id": "c23207",
+   "en": "Take good care of it.\nThis guy's a little on the delicate side.",
+   "flags": [],
+   "notes": "Luis, speaking of the mic as 'koitsu'."
+  },
+  {
+   "id": "c23208",
+   "en": "Shirakawa,\nsince it's White Day, here...\nmy return gift.",
+   "flags": [],
+   "notes": "Male player (Shirakawa White Day)."
+  },
+  {
+   "id": "c23209",
+   "en": "Oh, um... You didn't have to\nget me a return gift...",
+   "flags": [],
+   "notes": "Shirakawa."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c23202: shared by Gary, Luis and an unplated row in Michel's White Day scene (filed as PLAYER); reads like Michel's line, probably a missing name plate. Wording fits all three.",
+   "c23205: Luis's nickname 'fresh gaaru' rendered 'Fresh Girl' (not in glossary; 'Fresh Boy' for the male player elsewhere)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Fresh Girl / Fresh Boy (Luis's nickname for the player)"
+  ],
+  "unfinished": []
+ }
+}

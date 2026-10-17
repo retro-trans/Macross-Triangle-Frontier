@@ -1,0 +1,493 @@
+{
+ "slice": 11,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c00746",
+   "en": "That's not the point here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00747",
+   "en": "You're a stubborn one...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00748",
+   "en": "Whoa! Please stop!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00749",
+   "en": "Hold still, will you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00750",
+   "en": "*sob, sob*...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00751",
+   "en": "Your lungs seem to be fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00752",
+   "en": "Go home, keep warm,\nand get a good night's sleep.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00753",
+   "en": "Tomorrow morning, go here.",
+   "flags": [],
+   "notes": "She hands over a business card (c00754)."
+  },
+  {
+   "id": "c00754",
+   "en": "A business card...\nIs it yours, Canaria-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00755",
+   "en": "It's the hospital where I work.\nI'll make you an appointment,\nso make sure you come.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00756",
+   "en": "Understood.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00757",
+   "en": "(I've caused her enough trouble.\nI'd better go home and get to bed...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00758",
+   "en": "Hmm... Your tonsils are swollen.\nThat'll give you a fever, so take\nthis fever reducer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00759",
+   "en": "Huh? M-my chest??",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00760",
+   "en": "That's not the point heeere...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00761",
+   "en": "A business card...\nFor a hospital?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00762",
+   "en": "Canaria-san!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00763",
+   "en": "...?\nOh, it's you, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00764",
+   "en": "Are you checking over the Konig?",
+   "flags": [],
+   "notes": "Konig = her VB-6 Konig Monster (glossary spelling without umlaut)."
+  },
+  {
+   "id": "c00765",
+   "en": "Yes, something like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00766",
+   "en": "Oh, that's right, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00767",
+   "en": "What is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00768",
+   "en": "Have you gotten used to S.M.S. yet?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00769",
+   "en": "I'm used to it now",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c00770",
+   "en": "I'm still not fitting in",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c00771",
+   "en": "Yes, thank you.\nEveryone's so nice, it's a real relief.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00772",
+   "en": "They're an ugly-looking bunch, but they're\nskilled, and they take good care of\nothers.",
+   "flags": [],
+   "notes": "mitame wa warui: kept as 'ugly' because c00774 picks the word up."
+  },
+  {
+   "id": "c00773",
+   "en": "Yeah, I really think so too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00774",
+   "en": "So you're not denying the 'ugly' part?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00775",
+   "en": "Ah, n-no, that's not what I...!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00776",
+   "en": "Hahaha, I'm only joking.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00777",
+   "en": "C-Canaria-san!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00778",
+   "en": "It's my first time working for a\nmilitary company, so I'm having a\nhard time fitting in...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00779",
+   "en": "...I see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00780",
+   "en": "Ozma and the others aren't bad people\nat all, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00781",
+   "en": "Yes, they're always good to me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00782",
+   "en": "If anything's bothering you, come talk\nto me. I'm your senior here, after all,\nand a doctor.",
+   "flags": [],
+   "notes": "senpai used as a common noun ('your senior'), not an address."
+  },
+  {
+   "id": "c00783",
+   "en": "Thank you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00784",
+   "en": "(Canaria-san really looks out for people.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00785",
+   "en": "(There's no rest for an S.M.S. member...\nHeh, just kidding.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00786",
+   "en": "Huh... Who's that over there...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00787",
+   "en": "Ah, \\p...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00788",
+   "en": "What are you looking at?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00789",
+   "en": "Hm? A photo.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00790",
+   "en": "A photo?\nOf your child?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00791",
+   "en": "What an adorable child.",
+   "flags": [],
+   "notes": "o-ko-san: child's gender not stated; kept neutral."
+  },
+  {
+   "id": "c00792",
+   "en": "Heh, thank you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00793",
+   "en": "You should find someone worth\nprotecting soon, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00794",
+   "en": "Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00795",
+   "en": "When you fight to protect someone, you\ncan draw out more strength than you\never imagined.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00796",
+   "en": "But making someone wait while you fight\nis hard. All the more so when you know\nhow they feel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00797",
+   "en": "...Yeah... I guess so.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00798",
+   "en": "...Listen to me, lecturing.\nThat's not like me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00799",
+   "en": "Not at all.\nI learned a lot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00800",
+   "en": "Well, I'll head off first.\nYou go home and get some rest soon,\ntoo, all right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00801",
+   "en": "Yes!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00802",
+   "en": "(...Someone worth protecting...\nDo I have anyone like that?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00803",
+   "en": "Well, you should find someone worth\nprotecting soon, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00804",
+   "en": "(...Someone worth protecting...\nDo I have anyone like that?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00805",
+   "en": "(I just sort of wandered into the hangar...\nI don't want to get in anyone's way,\nso it feels kind of awkward.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00806",
+   "en": "What brings you to the hangar?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00807",
+   "en": "Canaria-san...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00808",
+   "en": "I wanted to see how the maintenance\nwas going, so I came by, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00809",
+   "en": "And now you feel out of place,\nis that it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00810",
+   "en": "S-something like that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00811",
+   "en": "Still, it's a good thing to be there\nwhen your own machine is serviced.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00812",
+   "en": "You too, Canaria-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00813",
+   "en": "Yes...\nIf I could, I'd rather service it myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00814",
+   "en": "I know what you mean...",
+   "flags": [],
+   "notes": "sou desu nee (x5): agreement."
+  },
+  {
+   "id": "c00815",
+   "en": "Oh my, so this is where you were...",
+   "flags": [],
+   "notes": "Speaker plate ??? (man) = Bobby, revealed next row."
+  },
+  {
+   "id": "c00816",
+   "en": "B-Bobby-san...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00817",
+   "en": "What do you want, Bobby?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00818",
+   "en": "Well, that's a fine greeting, Canaria.\nI've been looking for you, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00819",
+   "en": "Looking for me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00820",
+   "en": "Honestly, you're a woman too, aren't you?\nWhy don't you take proper care\nof yourself?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00821",
+   "en": "'Care,' you say?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00822",
+   "en": "Come on, let's go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00823",
+   "en": "Wh-what are you doing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00824",
+   "en": "Bye-bye now,\n\\p-chan.",
+   "flags": [],
+   "notes": "Bobby calls the male player -chan; kept as in the Japanese."
+  },
+  {
+   "id": "c00825",
+   "en": "Now then, let's make you shine!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

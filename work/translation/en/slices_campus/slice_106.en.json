@@ -1,0 +1,499 @@
+{
+ "slice": 106,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c07803",
+   "en": "(Klan-senpai and I promised to go\nshopping at Folmo today, but...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07804",
+   "en": "Sorry I'm late,\n\\p.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07805",
+   "en": "Oh, no, it's no problem at all...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07806",
+   "en": "(I never thought she'd show up\nat Zentradi size...)",
+   "flags": [],
+   "notes": "Male. Zentora-saizu = Zentradi size (Klan macronized)."
+  },
+  {
+   "id": "c07807",
+   "en": "Klan-senpai, can I ask you two questions?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07808",
+   "en": "Why did you come macronized?",
+   "flags": [],
+   "notes": "Both genders. Zentora-ka = macronized, as slice 335 (Klan's card)."
+  },
+  {
+   "id": "c07809",
+   "en": "Well...\nI got treated like a kid at the movie theater\nthe other day, that's why...",
+   "flags": [],
+   "notes": "Both genders. Refers to the adult-ticket scene in frd_kln_002."
+  },
+  {
+   "id": "c07810",
+   "en": "(So it did bother her after all...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07811",
+   "en": "And my second question...\nHow are we supposed to go shopping together?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07812",
+   "en": "Hm? You can just follow along\nbehind me, can't you?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07813",
+   "en": "All right, let's go shopping!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07814",
+   "en": "I ended up buying way too much.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07815",
+   "en": "Y-yeah...\nMore importantly, I'm already worn out......",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07816",
+   "en": "Tired already?\nYou've got no stamina at all.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07817",
+   "en": "(Please think about the difference\nin our strides...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07818",
+   "en": "Klan-senpai, this really isn't working...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07819",
+   "en": "What isn't?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07820",
+   "en": "How do I put it...\nIt doesn't feel like we're shopping together.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07821",
+   "en": "That's right!",
+   "flags": [],
+   "notes": "x4: player here (both genders), Shirakawa in frd_myk_006. Generic."
+  },
+  {
+   "id": "c07822",
+   "en": "Then next time, you come macronized too.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07823",
+   "en": "That way we'd be evenly matched,\nso there'd be no problem, right?",
+   "flags": [],
+   "notes": "Male version."
+  },
+  {
+   "id": "c07824",
+   "en": "W-well, that's true, but...",
+   "flags": [],
+   "notes": "Both genders. The joke: a human can't macronize."
+  },
+  {
+   "id": "c07825",
+   "en": "Heh, I'm only joking...\nNext time I'll come micronized as usual.",
+   "flags": [],
+   "notes": "Both genders. Mikuron-ka = micronize (terms.json)."
+  },
+  {
+   "id": "c07826",
+   "en": "Sorry for making you go out of your way\nfor me...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07827",
+   "en": "Don't worry about it. That's the least\nI can do as your senior.",
+   "flags": [],
+   "notes": "Both genders. senpai used as a common noun: 'your senior'."
+  },
+  {
+   "id": "c07828",
+   "en": "Well, I've bought most of what I wanted,\nso let's head home.\nSorry for dragging you along today.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07829",
+   "en": "Not at all. Please invite me again.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07830",
+   "en": "Mm, I'll do that.\nSee you.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07831",
+   "en": "(Macronized Klan-senpai seems more grown-up,\nnot just in looks but in how she acts, too...)",
+   "flags": [],
+   "notes": "Both genders. seishinteki ni = mentally; 'in how she acts' reads more naturally."
+  },
+  {
+   "id": "c07832",
+   "en": "(Hmm, which one is the real Klan-senpai?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07833",
+   "en": "(I never thought she'd show up\nat Zentradi size...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07834",
+   "en": "(So it did bother her after all...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07835",
+   "en": "Y-yeah...\nMore importantly, I'm already worn out......",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07836",
+   "en": "That way we'd be evenly matched,\nso there'd be no problem, right?",
+   "flags": [],
+   "notes": "Female version of c07823."
+  },
+  {
+   "id": "c07837",
+   "en": "(Hmm, which one is the real Klan-senpai?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07838",
+   "en": "(Today I'm going to enjoy shopping\nat Folmo with Klan-senpai!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07839",
+   "en": "(Hmm, I wonder if Klan-senpai will show up\nmacronized again like last time?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07840",
+   "en": "Hey, \\p.\nHere before me? Good for you.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07841",
+   "en": "Oh, Klan-senpai.\nYou came micronized today.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07842",
+   "en": "I promised you last time, didn't I?\nI'm a grown woman who keeps her promises.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07843",
+   "en": "Haha, that's true.\nWell then, shall we go shopping?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07844",
+   "en": "Mm-hm!",
+   "flags": [],
+   "notes": "x8: Klan here and frd_kln_006, nml_kln_015; Pinon in nml_pnn_019. Generic assent."
+  },
+  {
+   "id": "c07845",
+   "en": "(Shopping like this really is\nmore fun.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07846",
+   "en": "(Today I'm going to enjoy shopping\nat Folmo with Klan-senpai!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07847",
+   "en": "(Hmm, I wonder if Klan-senpai will show up\nmacronized again like last time?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07848",
+   "en": "(Shopping like this really is\nmore fun.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07849",
+   "en": "(Klan-senpai and I are going to have fun\nat the Mihoshi Academy pool, but...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07850",
+   "en": "(Klan-senpai already graduated from Mihoshi,\nso is she even allowed in?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07851",
+   "en": "Even a school I know so well\nfeels nostalgic once you've graduated...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07852",
+   "en": "Klan-senpai, is this really okay?\nJust walking into the Mihoshi pool like this?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07853",
+   "en": "You fool.\nOf course I got permission.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07854",
+   "en": "As an adult, that's only common courtesy.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07855",
+   "en": "Then we can have fun without worrying.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07856",
+   "en": "Exactly. Hurry up and change,\nwe're hitting the pool!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07857",
+   "en": "Uhh... um, Klan-senpai?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07858",
+   "en": "If you're wearing \"that\",\ndoes that mean...?",
+   "flags": [],
+   "notes": "Both genders. 'That' = the float ring (named in c07862)."
+  },
+  {
+   "id": "c07859",
+   "en": "It can't be helped!\nFor some reason, when I micronize,\nI can't swim anymore!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07860",
+   "en": "So... I'm only wearing this\nbecause I have no choice...!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07861",
+   "en": "\"No choice\"? Come on...\nDon't worry about it, Klan-senpai.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07862",
+   "en": "That float ring looks great on you.\nAny way you look at it, you look just like\nan elementary schooler!",
+   "flags": [],
+   "notes": "Both genders. shotoubu no ko = elementary-school kid; wording as slice c21261."
+  },
+  {
+   "id": "c07863",
+   "en": "Come on, let's go have fun, Klan-senpai.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07864",
+   "en": "You...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07865",
+   "en": "What's wrong, Klan-senpai?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07866",
+   "en": "You're awfully cheeky for a junior!\nI'll teach you a lesson!!",
+   "flags": [],
+   "notes": "Both genders. seibai shite kureru rendered 'I'll teach you a lesson' (also c07889, c08196)."
+  },
+  {
+   "id": "c07867",
+   "en": "Hiyaaah~~~!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07868",
+   "en": "Waaaaaah!!",
+   "flags": [],
+   "notes": "Male (female scream is c07880)."
+  },
+  {
+   "id": "c07869",
+   "en": "We played just like we were kids again.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07870",
+   "en": "(Though you still look like nothing\nbut a kid to me, Senpai...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07871",
+   "en": "You just thought something rude,\ndidn't you?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07872",
+   "en": "N-no, I didn't...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07873",
+   "en": "Hmph, fine then...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07874",
+   "en": "I'm tired from swimming.\nShall we head home soon?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07875",
+   "en": "We're coming swimming again.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07876",
+   "en": "Okay, I'll be looking forward to it.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c07877",
+   "en": "(I'm glad I got to have fun at the pool\nwith Klan-senpai today.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07878",
+   "en": "(Still, Klan-senpai...\nThat float ring suited her shockingly well......)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c07879",
+   "en": "(Klan-senpai already graduated from Mihoshi,\nso is she even allowed in?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07880",
+   "en": "Kyaaaaaah!!",
+   "flags": [],
+   "notes": "Female (x2 in this scene)."
+  },
+  {
+   "id": "c07881",
+   "en": "(I'm glad I got to have fun at the pool\nwith Klan-senpai today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c07882",
+   "en": "(Still, Klan-senpai...\nThat float ring suited her shockingly well......)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "Zentora-ka / Zentora-saizu rendered 'macronized' / 'Zentradi size' (no glossary entry; 'macronized' follows Klan's card in slice 335; micronize is in terms.json).",
+   "c07866 seibai shite kureru: 'I'll teach you a lesson!!' (Klan's mock-samurai 'I'll punish you'); same wording planned for c07889 and c08196.",
+   "c07827 senpai as a common noun rendered 'as your senior' per the brief."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Zentora-ka (Klan's macronization, 'macronized') has no terms.json entry; only micronize does."
+  ],
+  "unfinished": []
+ }
+}

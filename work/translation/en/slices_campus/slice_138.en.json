@@ -1,0 +1,499 @@
+{
+ "slice": 138,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c10124",
+   "en": "(I came to the beach with Michel,\nbut I bet his real goal is hitting on girls...)",
+   "flags": [],
+   "notes": "Male. kaisuiyoku = a day swimming at the beach; nanpa = hitting on girls, as c06811."
+  },
+  {
+   "id": "c10125",
+   "en": "(Geez! Speak of the devil...\nHm? Looks like it's the other way around,\nand he's the one getting hit on.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10126",
+   "en": "(But it kind of looks like\nhe's turning the invitation down...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10127",
+   "en": "Sorry to keep you waiting.",
+   "flags": [],
+   "notes": "Both genders. As c06742."
+  },
+  {
+   "id": "c10128",
+   "en": "I wasn't waiting that long, so it's fine.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10129",
+   "en": "But was that really okay, Michel?\nTurning down that older lady's invitation?",
+   "flags": [],
+   "notes": "Male. oneesama = an older woman; 'older ladies' as c10330."
+  },
+  {
+   "id": "c10130",
+   "en": "Yeah, well.",
+   "flags": [],
+   "notes": "x4: Michel here (both genders); Alto in scd_fes_612, answering 'so you got brought to the dressing room too'. Works for both."
+  },
+  {
+   "id": "c10131",
+   "en": "Hmm, but......",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10132",
+   "en": "I said it's fine. I came to hang out with you today.\nCome on, let's hurry up and go swimming.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10133",
+   "en": "O-okay...\nThen let's do that.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10134",
+   "en": "You're good at swimming too, huh, Michel.\nI couldn't keep up with you at all...",
+   "flags": [],
+   "notes": "Male. ha ga tatanai = no match for him."
+  },
+  {
+   "id": "c10135",
+   "en": "You're still sloppy on the finish,\n\\p.",
+   "flags": [],
+   "notes": "Both genders. tsume ga amai = weak at closing it out."
+  },
+  {
+   "id": "c10136",
+   "en": "Phew, I'm a little tired. Let's take a break.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10137",
+   "en": "By the way, Michel,\nyou don't want to hit on any girls today?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10138",
+   "en": "I told you earlier, didn't I?\nI came to hang out with you today.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10139",
+   "en": "Well, if you say so...",
+   "flags": [],
+   "notes": "Both genders. As c02016."
+  },
+  {
+   "id": "c10140",
+   "en": "I just want to be with you...",
+   "flags": [],
+   "notes": "Both genders. Michel's fake confession (a tease, revealed at c10145)."
+  },
+  {
+   "id": "c10141",
+   "en": "These feelings of mine are real...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10142",
+   "en": "Michel, calm down a second.\nI mean, two guys together, that's...\nthere's all kinds of stuff......",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10143",
+   "en": "Love has nothing to do with gender, right?\nI... you're the one I......",
+   "flags": [],
+   "notes": "Male. Deliberately cut off before the verb, as the Japanese (omae no koto ga...)."
+  },
+  {
+   "id": "c10144",
+   "en": "Wh-whaaaaaaaat?!!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10145",
+   "en": "Pfft... Hahahahaha!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10146",
+   "en": "Seriously, you're so much fun to tease.\nYou crack me up.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10147",
+   "en": "Ah! You were messing with me again,\nweren't you, Michel!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10148",
+   "en": "Haha, I'll go buy you a drink,\nso cheer up already.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10149",
+   "en": "Geez! That Michel...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10150",
+   "en": "(But Michel not hitting on girls...\nThat really is rare.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10151",
+   "en": "(Maybe what he said earlier\nwas actually kind of serious...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10152",
+   "en": "(Haha, just kidding...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10153",
+   "en": "(I came to the beach with Michel-kun,\nbut I bet his real goal is hitting on girls...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10154",
+   "en": "(Geez! Speak of the devil...\nHm? Looks like it's the other way around,\nand he's the one getting hit on.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10155",
+   "en": "I wasn't waiting that long, so it's fine.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10156",
+   "en": "But was that really okay, Michel-kun?\nTurning down that older lady's invitation?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10157",
+   "en": "O-okay...\nThen let's do that.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10158",
+   "en": "You're good at swimming too, Michel-kun.\nI couldn't keep up with you at all...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10159",
+   "en": "By the way, Michel-kun,\nyou don't want to hit on any girls today?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10160",
+   "en": "Michel-kun, calm down a second.\nThis is all so sudden...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10161",
+   "en": "I... you're the one I......",
+   "flags": [],
+   "notes": "Female. Cut off before the verb, as c10143."
+  },
+  {
+   "id": "c10162",
+   "en": "Ah! You were messing with me again,\nweren't you, Michel-kun!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10163",
+   "en": "Ugh, honestly, Michel-kun!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10164",
+   "en": "(But Michel-kun not hitting on girls...\nThat really is rare.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10165",
+   "en": "(Hehe, just kidding...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10166",
+   "en": "(I came to the artificial island\nto have fun with Michel today, but...)",
+   "flags": [],
+   "notes": "Male. artificial island (glossary)."
+  },
+  {
+   "id": "c10167",
+   "en": "(Michel's already getting hit on...\nHuh? Looks like he turned her down.)",
+   "flags": [],
+   "notes": "Male. 'her': c10171 names the inviter an oneesama."
+  },
+  {
+   "id": "c10168",
+   "en": "Sorry for making you wait,\n\\p.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10169",
+   "en": "Nah, it's no problem.\nBut are you sure it was okay to turn her down?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10170",
+   "en": "I told you before, didn't I?\nI came here to hang out with you.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10171",
+   "en": "Come on, I turned down a lovely lady's invitation\nfor this. Let's hurry up and have some fun\nourselves.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10172",
+   "en": "(All right! Today I'm gonna have\nas much fun with Michel as I can!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10173",
+   "en": "(I came to the artificial island\nto have fun with Michel-kun today, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10174",
+   "en": "(Michel-kun's already getting hit on...\nHuh? Looks like he turned her down.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10175",
+   "en": "No, it's no problem.\nBut are you sure it was okay to turn her down?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10176",
+   "en": "(All right! Today I'm going to have\nas much fun with Michel-kun as I can!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10177",
+   "en": "Yo, \\p.\nIf you're free after this, want to go get some tea?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10178",
+   "en": "Sure, I don't mind...\nAre you going to check out some new shop again?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10179",
+   "en": "Nah, there's something I wanted\nto talk to you about...",
+   "flags": [],
+   "notes": "Both genders. omae ni you ga aru."
+  },
+  {
+   "id": "c10180",
+   "en": "So, what did you want to talk to me about?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10181",
+   "en": "It's kind of embarrassing\nto say it straight to your face, but...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10182",
+   "en": "(It's rare for Michel to hesitate like this...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10183",
+   "en": "I wanted to thank you properly.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10184",
+   "en": "Thank me?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10185",
+   "en": "...............Thanks.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10186",
+   "en": "...What's gotten into you all of a sudden, Michel?\nDid I do something to deserve your thanks?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10187",
+   "en": "If someone suddenly thanks you and you can't\nthink of any reason, sure, you'd be confused.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10188",
+   "en": "But hey, don't think too hard about it.\nJust take it.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10189",
+   "en": "What do you mean? If you don't explain properly......",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10190",
+   "en": "What I mean is, because you guys were by my side,\nI was saved...",
+   "flags": [],
+   "notes": "Both genders. omaetachi = you and the others."
+  },
+  {
+   "id": "c10191",
+   "en": "Anyway, what I'm saying is,\nI'm counting on you from here on too.",
+   "flags": [],
+   "notes": "Both genders. As c22325."
+  },
+  {
+   "id": "c10192",
+   "en": "Yeah, that goes without saying.\nAnd I'm counting on you too.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10193",
+   "en": "I see... It means a lot to hear you say that.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10194",
+   "en": "(Hmm, I don't really get it, but if Michel's\nsatisfied, I guess that's fine...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10195",
+   "en": "Well then, now that I've said my thanks...\nGuess I'll go out and hit on some girls.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10196",
+   "en": "(We were having a serious talk just a second ago...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10197",
+   "en": "Today I'll teach you my never-fail techniques,\nso learn them well before you go home.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10198",
+   "en": "Never-fail, huh...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10199",
+   "en": "Ah, you don't believe me, do you?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10200",
+   "en": "No, no, I totally believe you.",
+   "flags": [],
+   "notes": "Male. Mock-polite desu/masu in the Japanese: sarcastic."
+  },
+  {
+   "id": "c10201",
+   "en": "Heh. Then let's go.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10202",
+   "en": "(Getting thanked by Michel\nwas a little embarrassing.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10203",
+   "en": "(I hope Michel and I can keep\nhaving fun hanging out like this from now on...)",
+   "flags": [],
+   "notes": "Male."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c10130 'Yeah, well.' (x4) is also Alto's reply in scd_fes_612; chosen to work for both.",
+   "c10143/c10161: deliberate cut-off before the verb ('I... you're the one I......'), as the Japanese omae no koto ga....",
+   "c10185: arigatou na rendered neutral 'Thanks.' since shared with the female scene.",
+   "c10200: player's mock-polite 'shinjitemasu yo' rendered sarcastic 'No, no, I totally believe you.'",
+   "c10129/c10156/c10171: oneesama = an attractive older woman ('older lady', as c10330 'older ladies')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

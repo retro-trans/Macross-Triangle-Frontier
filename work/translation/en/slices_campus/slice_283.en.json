@@ -1,0 +1,449 @@
+{
+ "slice": 283,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c20274",
+   "en": "(Oh yeah, I lent Hoshimura my notebook.\nI need to get it back.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20275",
+   "en": "I lent you my notebook the other day, remember?\nCould you give it back soon?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20276",
+   "en": "Oh yeah, I did borrow that, huh?\nHold yer horses a sec.",
+   "flags": [],
+   "notes": "Machinshai (dialect 'wait'): folksy 'Hold yer horses'."
+  },
+  {
+   "id": "c20277",
+   "en": "Whaaa~? I'm sure I put it in here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20278",
+   "en": "Found it~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20279",
+   "en": "...Wait, huh? This is bread I bought a month ago.\nNot this, um...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20280",
+   "en": "What?! Bread you bought a month ago?!",
+   "flags": [],
+   "notes": "Shared by both player genders."
+  },
+  {
+   "id": "c20281",
+   "en": "What are you so surprised about?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20282",
+   "en": "Well, of course I'm surprised!\nJust how filthy is the inside of your desk?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20283",
+   "en": "It's not filthy~\nI'm just a teeny bit bad at keeping things tidy,\nthat's all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20284",
+   "en": "(I think it's way past a teeny bit...)",
+   "flags": [],
+   "notes": "Shared by both player genders."
+  },
+  {
+   "id": "c20285",
+   "en": "Besides, if a little thing like this surprises you,\nyou'll never be able to open my locker!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20286",
+   "en": "In there, whole new life forms could've\nbeen born by now...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20287",
+   "en": "Go clean it out right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20288",
+   "en": "Whaaat~!\nIt's fine the way it is.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20289",
+   "en": "Probably... I'm sure......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20290",
+   "en": "(I'm way too scared to open it...\nHoshimura's locker, that is......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20291",
+   "en": "(Oh yeah, I lent Yui my notebook.\nI need to get it back.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20292",
+   "en": "Hey, Yui.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20293",
+   "en": "I lent you my notebook the other day, remember?\nCould I have it back soon?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20294",
+   "en": "Well, of course I'm surprised!\nJust how filthy is the inside of your desk?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20295",
+   "en": "Go clean it out right now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20296",
+   "en": "(I'm way too scared to open it...\nYui's locker, that is......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20297",
+   "en": "(Looks like Hoshimura isn't here yet.\nIs she taking the day off?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20298",
+   "en": "All right, then. Let's begin class.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20299",
+   "en": "Juuust in tiiiiime!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20300",
+   "en": "(Oh, Hoshimura.\nSo she just overslept and was running late.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20301",
+   "en": "No... I'm afraid you're out, Hoshimura-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20302",
+   "en": "Whaaat~! No way~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20303",
+   "en": "...Oh, but there's a perfectly good reason\nI was late!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20304",
+   "en": "Oh? And what reason might that be?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20305",
+   "en": "Well, um, you see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20306",
+   "en": "That's it!\nThe curse of the Kadun gave me sleep paralysis,\nor something like that......!",
+   "flags": [],
+   "notes": "Kadun: glossary (lore, Kadun of Battle; alone 'Kadun'). Yui is superstitious."
+  },
+  {
+   "id": "c20307",
+   "en": "Hoshimura-kun......... marked late.",
+   "flags": [],
+   "notes": "Yamashiro writes it down ('chikoku to'), like c14157."
+  },
+  {
+   "id": "c20308",
+   "en": "Ahh... Have mercy, sir!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Go-mutai na (archaic 'how cruel/unreasonable'): 'Have mercy, sir!' keeps the old-fashioned flavour; 'sir' added for the teacher."
+  },
+  {
+   "id": "c20309",
+   "en": "(I really don't think that excuse\nwas ever gonna fly, Hoshimura...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20310",
+   "en": "(Looks like Yui isn't here yet.\nIs she taking the day off?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20311",
+   "en": "(Oh, Yui.\nSo she just overslept and was running late.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20312",
+   "en": "Whaaat~ No way~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20313",
+   "en": "(I really don't think that excuse\nwas ever gonna fly, Yui...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20314",
+   "en": "(Hm? A call from Hoshimura.\nWhat could she want?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20315",
+   "en": "Yoo-hoo~, you got a minute to talk?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20316",
+   "en": "Sure, I've got time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20317",
+   "en": "Glad to hear it.\nSo, um... this is kinda hard to ask, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20318",
+   "en": "(It's rare for Hoshimura to hold back.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20319",
+   "en": "Ask me anything.\nI'll answer as best I can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20320",
+   "en": "Much obliged! Then I'll just come out and ask.\nLemme see......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20321",
+   "en": "How can I get a dynamite body\nlike Nanase's?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20322",
+   "en": "I'm hanging up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20323",
+   "en": "Wha?! Ah! Wait a sec......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20324",
+   "en": "(Calling me up over something like that...\nWhat on earth is Hoshimura thinking?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20325",
+   "en": "(Hm? A call from Yui.\nWhat could she want?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20326",
+   "en": "Sure, I've got time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20327",
+   "en": "(It's rare for Yui to hold back.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20328",
+   "en": "Ask me anything.\nI'll answer as best I can.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20329",
+   "en": "I'm hanging up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20330",
+   "en": "(Calling me up over something like that...\nWhat on earth is Yui thinking?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20331",
+   "en": "(Hm? What's that?)",
+   "flags": [],
+   "notes": "Shared with scd_fes_805 (male); neutral, works there."
+  },
+  {
+   "id": "c20332",
+   "en": "Yo-hooo! \\p!\nHow ya doin'~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20333",
+   "en": "Ouuuch~~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20334",
+   "en": "Hahaha!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20335",
+   "en": "Geez, what was that for, out of nowhere?!\nHoshimura!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20336",
+   "en": "Sorry, sorry!\nWhen I saw your back, \\p,\nI just had to smack it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20337",
+   "en": "\"Just had to,\" she says......",
+   "flags": [],
+   "notes": "Shared by both genders; the player is talking about Yui, so 'she' is safe in both."
+  },
+  {
+   "id": "c20338",
+   "en": "I said I'm sorry~\nWell, I don't need anything in particular,\nso see ya!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20339",
+   "en": "Huh? Ah, hey! Hoshimura!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20340",
+   "en": "(What was that all about, Hoshimura...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20341",
+   "en": "(Hm? What's that?)",
+   "flags": [],
+   "notes": "Shared with scd_fes_805 (female)."
+  },
+  {
+   "id": "c20342",
+   "en": "Owww~~!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20343",
+   "en": "Geez, what was that for, out of nowhere?!\nYui!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20344",
+   "en": "Huh? Ah! Yui!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20345",
+   "en": "(What was that all about, Yui...?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c20308: go-mutai na (archaic 'how heartless') as 'Ahh... Have mercy, sir!'; 'sir' added since she pleads with Yamashiro-sensei."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

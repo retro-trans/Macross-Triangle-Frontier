@@ -1,0 +1,394 @@
+{
+ "slice": 250,
+ "rows_in_slice": 63,
+ "rows_examined": 63,
+ "rows": [
+  {
+   "id": "c18062",
+   "en": "(Phew~ The test is finally over!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18063",
+   "en": "You look relieved,\nbut how'd the test go,\n\\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18064",
+   "en": "I think it went fine...\nAnd you, Michel-sensei, number one in our year?\nWas it a breeze for you?",
+   "flags": [],
+   "notes": "The player teasingly calls Michel 'Michel sensei'; kept as the honorific per the brief."
+  },
+  {
+   "id": "c18065",
+   "en": "Well, something like that's nothing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18066",
+   "en": "(As expected, he's sure confident.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18067",
+   "en": "Well, now that the test's over,\nwanna go have some fun somewhere?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18068",
+   "en": "Might as well invite Alto and the others too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18069",
+   "en": "(The test's finally over, so today of all days\nI've gotta go all out and have some fun!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18070",
+   "en": "(As expected, he's sure confident.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18071",
+   "en": "(The test's finally over, so today of all days\nI've gotta go all out and have some fun!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18072",
+   "en": "(I wonder why Hilda-sensei called for me?\nAnyway, I'd better hurry!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18073",
+   "en": "Owowow...\nSorry, Michel, you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18074",
+   "en": "Throwing yourself into my arms in broad\ndaylight? Were you that eager to see me?",
+   "flags": [],
+   "notes": "Shared by the male and female scenes: Michel's tease works for both."
+  },
+  {
+   "id": "c18075",
+   "en": "Wha-!\nNo, I just bumped into you, that's all...\nIt's not like I did it on purpose......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18076",
+   "en": "Haha, I'm kidding.\nYou're in a hurry, right? Better get going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18077",
+   "en": "(Geez, that Michel...\nAlways saying stuff that throws me off...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18078",
+   "en": "(I wonder why Hilda-sensei called for me?\nAnyway, I'd better hurry!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18079",
+   "en": "Owww...\nSorry, Michel-kun, are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18080",
+   "en": "(Geez, Michel-kun...\nAlways saying stuff that throws me off...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18081",
+   "en": "(Phew~ Today's EX-Gear training wore me out too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18082",
+   "en": "\\p, got a minute?",
+   "flags": [],
+   "notes": "x4: Michel here; Yamashiro in scd_tri_608 (plate '??? (man)')."
+  },
+  {
+   "id": "c18083",
+   "en": "Hm? You need something, Michel?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18084",
+   "en": "I noticed while watching today's training.\nWhen you pull a sharp turn,\nyou sometimes drift to the left.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18085",
+   "en": "I thought I was doing it right,\nbut I've got a habit like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18086",
+   "en": "Also, relax a little more and try\nto watch how the whole team moves.\nDo that and you'll fly a lot cleaner, I bet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18087",
+   "en": "I see. Thanks for the advice,\nMichel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18088",
+   "en": "No need to thank me.\nCome on, let's hurry, change,\nand get back to class.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18089",
+   "en": "(Michel's advice is always spot-on,\nso I'd better practice until I get it right.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18090",
+   "en": "(Phew~ Today's EX-Gear training wore me out too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18091",
+   "en": "Hm? You need something, Michel-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18092",
+   "en": "I see. Thanks for the advice,\nMichel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18093",
+   "en": "(Michel-kun's advice is always spot-on,\nso I'd better practice until I get it right.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18094",
+   "en": "(Now then, how should I spend\nmy day off tomorrow...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18095",
+   "en": "Yo, \\p.\nGot any plans for your day off tomorrow?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18096",
+   "en": "Nah, nothing in particular.\nThat's why I was just thinking about what to do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18097",
+   "en": "Geez, you're a lonely one.\nYou oughta be able to tell me you've\ngot a date lined up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18098",
+   "en": "Hmph, so what if I don't?\nWhat about you, Michel?\nWhat are you planning to do?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18099",
+   "en": "Me, I've got my part-time job tomorrow.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18100",
+   "en": "Huh~ I see.\nCome to think of it, I've never heard where\nyou work part-time, Michel. Where is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18101",
+   "en": "Oh, where I work is, uh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18102",
+   "en": "Well, we'll talk about that properly some other time.\nI just remembered something I gotta do,\nso I'm heading home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18103",
+   "en": "Huh? Oh, see ya...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18104",
+   "en": "(Michel took off like he was running away...\nIs his part-time job something he can't\ntell people about?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18105",
+   "en": "No, nothing in particular.\nThat's why I was just thinking about what to do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18106",
+   "en": "Hmph, so what if I don't?\nWhat about you, Michel-kun?\nWhat are you planning to do?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18107",
+   "en": "Huh~ I see.\nCome to think of it, I've never heard where\nyou work part-time, Michel-kun. Where is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18108",
+   "en": "Huh? Oh, okay, see you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18109",
+   "en": "(Michel-kun took off like he was running away...\nIs his part-time job something he can't\ntell people about, I wonder?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18110",
+   "en": "(Next class is P.E., huh...\nHope it's nothing too tough...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18111",
+   "en": "Wait, where are you going, Michel?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18112",
+   "en": "Hm?\nAh, I'm not feeling it today, so I'll pass.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18113",
+   "en": "You're skipping?\nIf Hilda-sensei finds out......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18114",
+   "en": "Is something the matter with my class, Michel?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18115",
+   "en": "...Why, Hilda-sensei.\nNot at all, we were just saying how much\nwe were looking forward to seeing you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18116",
+   "en": "Right, \\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18117",
+   "en": "I see...\nAfter all, skipping my class would be\nunthinkable, wouldn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18118",
+   "en": "But of course.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18119",
+   "en": "Come on, let's hurry up and change, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18120",
+   "en": "(Geez, that Michel... He's such a smooth talker...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18121",
+   "en": "(Next class is P.E....\nHope it's nothing too tough...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18122",
+   "en": "Wait, where are you going, Michel-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18123",
+   "en": "You're skipping?\nIf Hilda-sensei finds out......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18124",
+   "en": "(Geez, Michel-kun... He's such a smooth talker...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18064: the player's teasing 'Michel sensei' (top of the year) kept as 'Michel-sensei' per the honorific rule.",
+   "c18082 is shared with Yamashiro (scd_tri_608, plate '??? (man)'); 'got a minute?' fits both."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

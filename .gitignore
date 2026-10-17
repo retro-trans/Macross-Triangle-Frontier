@@ -1,0 +1,39 @@
+# Game image and extracted data (copyrighted, may contain Japanese script)
+*.iso
+work/source/
+work/output/
+
+# Translation working files that contain Japanese script; commit only *.en.json
+work/translation/**/*.json
+!work/translation/**/*.en.json
+
+# Decoded game textures (copyrighted assets)
+work/ui/gim_png/
+
+# Before/after contact sheets of redrawn textures (game art, Japanese script)
+work/ui/redraw_preview/*.png
+work/ui/redraw_preview/_only/
+
+# Local binaries, builds, releases and screenshots (from the retro-trans template)
+*.chd
+*.bin
+*.cue
+*.elf
+*.prx
+*.exe
+*.xdelta
+*.zip
+*.png
+*.log
+*.at3
+*.pmf
+work/release/
+work/local/
+work/ui/screens_*/
+work/ui/redraw_preview/
+incoming/
+.claude/
+__pycache__/
+*.pyc
+.env
+.env.*

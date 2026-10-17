@@ -1,0 +1,499 @@
+{
+ "slice": 168,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c12303",
+   "en": "Teach me how to swim again...",
+   "flags": [],
+   "notes": "Pinon, both genders; continues 'But before that...' (c12302)."
+  },
+  {
+   "id": "c12304",
+   "en": "You got it. Okay, let's practice hard!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12305",
+   "en": "Yeahhh!",
+   "flags": [],
+   "notes": "Pinon, both genders (rallying 'oo~!')."
+  },
+  {
+   "id": "c12306",
+   "en": "(I bet Pinon-chan will grow up\ninto a wonderful woman.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12307",
+   "en": "(Though whether she'll get a knockout body\nthat beats Sheryl's, I couldn't say...)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12308",
+   "en": "(Today I'm going to enjoy a swim in the sea\nat the artificial island with Pinon-chan!)",
+   "flags": [],
+   "notes": "Female, frd_pnn_007."
+  },
+  {
+   "id": "c12309",
+   "en": "(Pinon-chan still can't swim,\nso I'd better give her plenty of support.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12310",
+   "en": "No problem. So, shall we go have some fun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12311",
+   "en": "Huh? I think it suits you, and you look cute.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12312",
+   "en": "Hmm, I don't think you've grown up enough yet\nto be called sexy...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12313",
+   "en": "You don't have to force yourself\nto act all grown up, Pinon-chan.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12314",
+   "en": "(I see...\nPinon-chan pushed herself so hard\nbecause I treated her like a kid...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12315",
+   "en": "You're you, Pinon-chan, so I don't think\nyou need to push yourself like that.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12316",
+   "en": "You've still got lots of growing to do,\nso you'll be like Sheryl in no time.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12317",
+   "en": "Besides, you're cute just the way you are,\nPinon-chan.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12318",
+   "en": "Hehe, go for it, Pinon-chan.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12319",
+   "en": "You got it. Okay, let's practice hard!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12320",
+   "en": "(I'm sure Pinon-chan will grow up\ninto a wonderful woman.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12321",
+   "en": "(I came to the artificial island\nwith Pinon-chan today, but...)",
+   "flags": [],
+   "notes": "Player, both genders; frd_pnn_007 later visit."
+  },
+  {
+   "id": "c12322",
+   "en": "What's wrong, Pinon-chan? If you're worried\nabout not being able to swim,\nlet's practice hard!",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12323",
+   "en": "No, that's not what's bothering me...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12324",
+   "en": "Then what's bothering you?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12325",
+   "en": "I just suddenly got worried whether I can\nreally become a woman with a knockout body\nlike Sheryl or Nanase...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12326",
+   "en": "(That's something nobody can tell\nfor another few years...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12327",
+   "en": "You drink milk every day and never slack off,\nright? Then I'm sure you'll be fine.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12328",
+   "en": "No, but still...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12329",
+   "en": "We came all the way to the beach,\nso let's go have some fun, Pinon-chan.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12330",
+   "en": "Hmm... Maybe I should do some research\non how to make my chest grow for sure...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12331",
+   "en": "(You're worrying way too much about it,\nPinon-chan...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12332",
+   "en": "(That's something nobody can tell\nfor another few years...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12333",
+   "en": "You drink milk every day and never slack off,\nright? Then I'm sure you'll be fine.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12334",
+   "en": "We came all the way to the beach,\nso let's go have some fun, Pinon-chan.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12335",
+   "en": "(You're worrying way too much about it,\nPinon-chan...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12336",
+   "en": "(Pinon-chan suddenly told me to come\nto Central Park... What could she want?)",
+   "flags": [],
+   "notes": "Male, frd_pnn_008."
+  },
+  {
+   "id": "c12337",
+   "en": "Thanks for coming,\n\\p...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12338",
+   "en": "So what's going on today?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12339",
+   "en": "I really wanted to thank you...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12340",
+   "en": "Thank me?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12341",
+   "en": "It's a bit late, but thank you for helping me\npractice tongue twisters and swimming.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12342",
+   "en": "Come on, it's nothing that deserves thanks...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12343",
+   "en": "That's not all. You helped me out\nin lots of other ways too...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12344",
+   "en": "When I was forcing myself to act grown up,\nyou accepted me just the way I am.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12345",
+   "en": "I was really... really happy, you know.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12346",
+   "en": "Pinon-chan...",
+   "flags": [],
+   "notes": "x4, the player, both genders: here and nml_pnn_005 (reaction to Pinon)."
+  },
+  {
+   "id": "c12347",
+   "en": "If I had a big brother...\nI bet he'd be someone like you...",
+   "flags": [],
+   "notes": "Pinon, male scene."
+  },
+  {
+   "id": "c12348",
+   "en": "If you'd keep watching over me from now on...\nthat would... make me happy......",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12349",
+   "en": "I'll do my best too, and become\nsuch a grown-up woman it'll amaze you.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12350",
+   "en": "Go for it, Pinon-chan.\nIf anyone can do it, it's you.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12351",
+   "en": "Phew... I managed to thank you properly,\nso I-I'm going home now.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12352",
+   "en": "S-see you, then......",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12353",
+   "en": "......Big Bro.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pinon, male scene. onii-chan as 'Big Bro' per the brief's kinship rule."
+  },
+  {
+   "id": "c12354",
+   "en": "Huh? Wha-, Big Bro?!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12355",
+   "en": "...Just kidding.",
+   "flags": [],
+   "notes": "x4: Pinon after 'Big Bro/Sis' here; Michel after greeting the player as a butler in scd_com_716 (both genders)."
+  },
+  {
+   "id": "c12356",
+   "en": "(Getting called 'Big Bro' out of nowhere\nsurprised me... but if I had a little sister,\nwould she be like Pinon-chan?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12357",
+   "en": "(Alright! From now on I've got to do my best\nas Pinon-chan's good big brother!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12358",
+   "en": "(Pinon-chan suddenly told me to come\nto Central Park... What could she want?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12359",
+   "en": "If I had a big sister...\nI bet she'd be someone like you...",
+   "flags": [],
+   "notes": "Pinon, female scene."
+  },
+  {
+   "id": "c12360",
+   "en": "Go for it, Pinon-chan.\nIf anyone can do it, it's you.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12361",
+   "en": "......Big Sis.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pinon, female scene. onee-chan as 'Big Sis', parallel to 'Big Bro' (the brief lists 'Sis' for onee-san)."
+  },
+  {
+   "id": "c12362",
+   "en": "Huh? Wha-, Big Sis?!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12363",
+   "en": "(Getting called 'Big Sis' out of nowhere\nsurprised me... but if I had a little sister,\nwould she be like Pinon-chan?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12364",
+   "en": "(Alright! From now on I've got to do my best\nas Pinon-chan's good big sister!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12365",
+   "en": "(Pinon-chan and I ended up taking\na walk in Central Park today, but...)",
+   "flags": [],
+   "notes": "Player, both genders; frd_pnn_008 later visit."
+  },
+  {
+   "id": "c12366",
+   "en": "You haven't told anyone what you saw here before,\nhave you? If you've told anyone else...",
+   "flags": [],
+   "notes": "Pinon, male scene; trailing threat. Refers to the cat scene (frd_pnn_005)."
+  },
+  {
+   "id": "c12367",
+   "en": "(That was ages ago, and she's still worried\nabout it... Oh, Pinon-chan...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12368",
+   "en": "Hey, are you even listening to me,\n\\p?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12369",
+   "en": "Of course I'm listening......",
+   "flags": [],
+   "notes": "Player, both genders (polite, sheepish)."
+  },
+  {
+   "id": "c12370",
+   "en": "Uuu...\n\\p is bullying me...",
+   "flags": [],
+   "notes": "Pinon, both genders; reacts to the player's teasing 'Nya~'."
+  },
+  {
+   "id": "c12371",
+   "en": "D-don't cry, Pinon-chan!\nI'm kidding, just kidding...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12372",
+   "en": "Hippo-cow ice cream...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12373",
+   "en": "If you treat me to hippo-cow ice cream,\nI'll forgive you...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12374",
+   "en": "Hehe, then let's go to Folmo.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12375",
+   "en": "Huh?!\nYou'll really treat me?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12376",
+   "en": "Yaaaaay!!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12377",
+   "en": "(Pinon-chan was so happy about it,\nso I guess treating her to ice cream was worth it.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12378",
+   "en": "(Wait, am I maybe the type\nwho spoils little sisters?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12379",
+   "en": "You haven't told anyone what you saw here before,\nhave you? If you've told anyone else...",
+   "flags": [],
+   "notes": "Pinon, female scene."
+  },
+  {
+   "id": "c12380",
+   "en": "(That was ages ago, and she's still worried\nabout it... Oh, Pinon-chan...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12381",
+   "en": "D-don't cry, Pinon-chan!\nI'm kidding, just kidding...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12382",
+   "en": "(Pinon-chan was so happy about it,\nso I'm glad I treated her to ice cream.)",
+   "flags": [],
+   "notes": "Female; continues in c12383 (slice 169)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c12353/c12354/c12356 and c12361/c12362/c12363: onii-chan / onee-chan as 'Big Bro' / 'Big Sis' (kinship rule; the brief gives 'Sis' for onee-san, 'Big Sis' chosen to pair with 'Big Bro')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

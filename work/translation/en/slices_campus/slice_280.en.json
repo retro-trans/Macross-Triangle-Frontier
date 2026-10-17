@@ -1,0 +1,409 @@
+{
+ "slice": 280,
+ "rows_in_slice": 65,
+ "rows_examined": 65,
+ "rows": [
+  {
+   "id": "c20084",
+   "en": "(Let's see... What's my next class......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20085",
+   "en": "Whoa-ho!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20086",
+   "en": "Owww...\nSorry, Hoshimura. You okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20087",
+   "en": "I'm fine, I'm fine!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20088",
+   "en": "But you sure got lucky, \\p...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20089",
+   "en": "Huh? Lucky?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20090",
+   "en": "The hazardous stuff I'm carrying\ncould've expl......",
+   "flags": [],
+   "notes": "Deliberately cut off mid-word, as in the Japanese ('bakuha')."
+  },
+  {
+   "id": "c20091",
+   "en": "Er, never mind, nothing! See ya!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20092",
+   "en": "(I'd better be careful never to bump into\nHoshimura again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20093",
+   "en": "Ugh...\nSorry, Yui. Are you okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20094",
+   "en": "(I'd better be careful never to bump into\nYui again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20095",
+   "en": "Yum, yum......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20096",
+   "en": "(Field rations for Hoshimura's lunch again\ntoday, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20097",
+   "en": "Hoshimura, you eat nothing but field rations.\nWhy do you like them so much?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20098",
+   "en": "They're easy to eat, so they're convenient!\nMy favorite part is that I can eat them\nwhile I'm tinkering with machines!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20099",
+   "en": "But if field rations are your staple food,\nyour diet can't be very balanced.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20100",
+   "en": "I eat steak to build up my strength...\nAnd I think about a balanced diet too, so I\nmake sure to get my veggies with pineapple salad!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20101",
+   "en": "Oh, changing the subject, but lately\nI've gotten really into making music boxes...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20102",
+   "en": "Hoshimura...\nIf you ever get dragged out to a battlefield,\nnever, ever eat steak and pineapple salad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20103",
+   "en": "And you'd better quit making music boxes, too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20104",
+   "en": "Hm? Why?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20105",
+   "en": "I just...\nI just have a feeling about it......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20106",
+   "en": "What in tarnation is that supposed to mean?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20107",
+   "en": "(It's just my imagination that I saw\nthe shadow of death on Hoshimura... right?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20108",
+   "en": "(Field rations for Yui's lunch again\ntoday, huh...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20109",
+   "en": "Yui, you eat nothing but field rations.\nWhy do you like them so much?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20110",
+   "en": "But if field rations are your staple food,\nyour diet can't be very balanced.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20111",
+   "en": "Yui...\nIf you ever get dragged out to a battlefield,\nnever, ever eat steak and pineapple salad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20112",
+   "en": "I just...\nI just have a feeling about it......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20113",
+   "en": "(It's just my imagination that I saw\nthe shadow of death on Yui... right?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20114",
+   "en": "(My EX-Gear training partner today is Hoshimura.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20115",
+   "en": "I'm counting on you, Hoshimura.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20116",
+   "en": "Right back atcha~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20117",
+   "en": "Oh, that reminds me, I went and developed\na new booster unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20118",
+   "en": "Wow, that's amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20119",
+   "en": "So I want to check how it behaves when it's\nmounted, and I'd be really happy if you'd try\nit on for me...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20120",
+   "en": "...It's safe, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20121",
+   "en": "Well, duh! It bears the Yui-brand stamp!\nIt's the coolest piece of work there is,\nI tell ya!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20122",
+   "en": "(That's exactly what worries me most...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20123",
+   "en": "A monster-class booster that puts out as much\npower as the booster units on a Valkyrie!\nWith this, you'll become the wind, guaranteed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20124",
+   "en": "I'll pass, thanks!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20125",
+   "en": "Whaaat~! Why~?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20126",
+   "en": "Well, you ask why, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20127",
+   "en": "(Because I'd probably end up becoming\nthe wind for real...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20128",
+   "en": "(My EX-Gear training partner today is Yui.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20129",
+   "en": "I'm counting on you, Yui.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20130",
+   "en": "Wow, that's amazing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20131",
+   "en": "...It is safe, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20132",
+   "en": "(Because I'd probably end up becoming\nthe wind for real...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20133",
+   "en": "(Okay, how should I spend my day off\ntomorrow?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20134",
+   "en": "Yahooo~~!\nTomorrow's a day off~!! Yeahhh!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20135",
+   "en": "Hoshimura, you're getting way too excited...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20136",
+   "en": "Well, c'mon~, a day off is free time all day long!\nWhat could be more wonderful than that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20137",
+   "en": "Well, that's true, but...\nHoshimura, what do you do on your days off?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20138",
+   "en": "Lemme see...\nWhen I wake up, first I start tinkering\nwith machines...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20139",
+   "en": "When I get tired, I take a nap!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20140",
+   "en": "Then I wake up and tinker some more,\nand by then it's already pretty late, so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20141",
+   "en": "I guess I go to bed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20142",
+   "en": "(It's a very Hoshimura way to spend\na day off, I'll give her that...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20143",
+   "en": "(But is that really an okay way for a girl\nin the prime of her high school years\nto spend her days off?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20144",
+   "en": "Yui, you're getting way too excited...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20145",
+   "en": "Well, that's true, but...\nYui, what do you do on your days off?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20146",
+   "en": "O-oh~, I see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20147",
+   "en": "(It's a very Yui way to spend\na day off, I'll give her that...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20148",
+   "en": "(But is that really an okay way for a girl\nin the prime of her high school years\nto spend her days off?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c20102/c20111/c20103/c20107: the player warns Yui off steak and pineapple salad and music boxes as death flags (anime-style jinxes); kept literal, no explanation added.",
+   "c20106: 'nanjai sorya' rendered with old-fashioned 'What in tarnation' for Yui's old-man speech (archaic form in the Japanese).",
+   "c20096/c20097: keitaishoku -> 'field rations', as in scd_com_102 (c21222).",
+   "c20121: 'Yui-jirushi' -> 'Yui-brand stamp'.",
+   "c20085: 'O~tto!!' (Yui colliding with the player) -> 'Whoa-ho!!'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

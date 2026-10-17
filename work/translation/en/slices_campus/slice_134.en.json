@@ -1,0 +1,499 @@
+{
+ "slice": 134,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c09836",
+   "en": "(The way he was dragging it out,\nI thought something was up...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09837",
+   "en": "(Michel-kun sure gets a kick out of\nteasing people...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09838",
+   "en": "(Sigh~ Oh well.\nI'll just enjoy having tea with Michel-kun.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09839",
+   "en": "(Shoot, I left something in the storeroom.\nI'd better hurry, or I'll be late\nfor my next class...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09840",
+   "en": "Wait, Michel?\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09841",
+   "en": "Class was kinda, you know...\nSo I've been napping in here.",
+   "flags": [],
+   "notes": "x2, Michel, both genders. 'chotto are' = vague 'not my thing'."
+  },
+  {
+   "id": "c09842",
+   "en": "(He skips class and still ranks No. 1\nin our year... Something about that\njust doesn't sit right...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09843",
+   "en": "No, it's nothing.\nBut how can you sleep in a room\nthis cluttered?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09844",
+   "en": "As long as nobody comes in,\nthis room's nice and quiet.\nIt's actually a pretty good spot to sleep.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09845",
+   "en": "Huh~ I never knew that.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09846",
+   "en": "You gotta try everything once.\nGive it a shot yourself.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09847",
+   "en": "Relax, I won't try anything\nwhile you're asleep.",
+   "flags": [],
+   "notes": "x2, Michel, both genders. nekomi wo osou = jump someone in their sleep; teasing kept."
+  },
+  {
+   "id": "c09848",
+   "en": "O-Of course you won't!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09849",
+   "en": "Anyway, just try lying down.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09850",
+   "en": "(Easy for him to say, but I really\ndon't think I'll be able to sleep...)",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09851",
+   "en": "Hey... Hey... Wake up, \\p.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09852",
+   "en": "Mm, mmm......",
+   "flags": [],
+   "notes": "x2, both genders; waking up."
+  },
+  {
+   "id": "c09853",
+   "en": "Afternoon classes are over. School's out.\nOr do you wanna keep sleeping?",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09854",
+   "en": "What?! I was asleep this whole time!?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09855",
+   "en": "Oh, you were sleeping like a baby,\nall right.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09856",
+   "en": "No way...\nI never meant to fall asleep......",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09857",
+   "en": "Hey, don't worry about it.\nI got to see your adorable\nsleeping face, after all.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09858",
+   "en": "Haha.\nC'mon, school's over,\nso let's head home.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09859",
+   "en": "(Ugh... I never meant to skip class...)",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09860",
+   "en": "(And on top of that, Michel saw\nmy sleeping face... Ugh~......)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09861",
+   "en": "(Shoot, I left something in the storeroom.\nI'd better hurry, or I'll be late\nfor my next class...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09862",
+   "en": "Wait, Michel-kun?\nWhat are you doing in a place like this?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09863",
+   "en": "(He skips class and still ranks No. 1\nin our year... Something about that\njust doesn't sit right...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09864",
+   "en": "No, it's nothing.\nBut how can you sleep in a room\nthis cluttered?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09865",
+   "en": "Huh~ I never knew that.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09866",
+   "en": "O-Of course you won't!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09867",
+   "en": "What?! I was asleep this whole time!?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09868",
+   "en": "M-Michel-kun!!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09869",
+   "en": "(And on top of that, Michel-kun saw\nmy sleeping face... Ugh~......)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09870",
+   "en": "(I left something in the storeroom again...\nHm? I hear something in there.\nCould it be...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09871",
+   "en": "(Just as I thought, Michel's sleeping\nin here...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09872",
+   "en": "(I know! Last time he teased me about\nseeing my sleeping face, so this time\nI'll get a look at his!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09873",
+   "en": "(Now that that's settled,\nI'll get a little closer...)",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09874",
+   "en": "...Leaning your face in that close...\nWhat were you planning to do to me,\n\\p?",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09875",
+   "en": "...............Huh!",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09876",
+   "en": "Why'd you have to wake up right now!?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09877",
+   "en": "Who knows...",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09878",
+   "en": "Ah! You were awake the whole time,\nweren't you!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09879",
+   "en": "I'm not telling anyone who tries\nto sneak a peek at people's sleeping faces.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09880",
+   "en": "C'mon, if we don't hurry,\nwe'll be late for the next class.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09881",
+   "en": "(I tried to tease Michel, and he ended up\nteasing me instead... Sigh...\nI'm no match for Michel after all.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09882",
+   "en": "(I left something in the storeroom again...\nHm? I hear something in there.\nCould it be...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09883",
+   "en": "(Just as I thought, Michel-kun's sleeping\nin here...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09884",
+   "en": "(I know! Last time he teased me about\nseeing my sleeping face, so this time\nI'll get a look at his!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09885",
+   "en": "Why'd you have to wake up right now!?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09886",
+   "en": "Ah! You were awake the whole time,\nweren't you!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09887",
+   "en": "(I tried to tease Michel-kun, and he ended\nup teasing me instead... Sigh...\nI'm no match for Michel-kun after all.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09888",
+   "en": "(Today I'm going shopping with Michel\nin the Shibuya Area!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09889",
+   "en": "(Huh? Michel's already here.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09890",
+   "en": "Heeey, Michel! Sorry to keep you waiting.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09891",
+   "en": "Yo, \\p.\nIt's still before the time we set, so no problem.\nI just got here early, that's all.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09892",
+   "en": "Come to think of it, you're never late\nfor anything, are you, Michel?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09893",
+   "en": "Nobody likes a guy who can't be on time.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09894",
+   "en": "I see. That's Michel for you.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09895",
+   "en": "Make sure you're not late\nwhen you go on a date, either.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09896",
+   "en": "Yes, sir. I'll take that to heart.",
+   "flags": [],
+   "notes": "x2, both genders. Playfully formal reply to Michel."
+  },
+  {
+   "id": "c09897",
+   "en": "Alright, let's hurry up and go shopping.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x4: Michel here (both genders); also tagged PLAYER/none in the second frd_mcl_003 scene (the 199 call), where it seems to be a stray script line. Translated for Michel."
+  },
+  {
+   "id": "c09898",
+   "en": "Yeah, let's do that.",
+   "flags": [],
+   "notes": "x22, the player, many scenes (frd_mcl, frd_pnn, nml_mcl, Christmas); generic agreement, as c07349."
+  },
+  {
+   "id": "c09899",
+   "en": "(We hit all kinds of shops.\nI'm pretty worn out.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09900",
+   "en": "Wanna stop somewhere for tea, Michel?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09901",
+   "en": "Hey, Michel... Are you listening?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09902",
+   "en": "Heeey, Michel-kuuun~",
+   "flags": [],
+   "notes": "x2, both genders. The male player uses -kun here as a teasing call."
+  },
+  {
+   "id": "c09903",
+   "en": "(Hmm~ What's up with Michel?\nLooks like he's staring hard at something...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09904",
+   "en": "(Could it be......)",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09905",
+   "en": "Sorry, \\p.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09906",
+   "en": "Something just came up...",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09907",
+   "en": "I don't even have to guess.\nThat 'something' is...",
+   "flags": [],
+   "notes": "x2, both genders. moshikashinakute mo."
+  },
+  {
+   "id": "c09908",
+   "en": "See ya. I'll definitely make it up to you\nnext time.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09909",
+   "en": "Ah! Michel!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09910",
+   "en": "Ahh~ Miss Sheryl?",
+   "flags": [],
+   "notes": "x2, Michel, both genders. He calls out to a young woman as if mistaking her for Sheryl (pick-up line)."
+  },
+  {
+   "id": "c09911",
+   "en": "Oh, pardon me. You looked so captivating\nfrom behind that I...",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09912",
+   "en": "(That Michel... He ditched me\nto go hit on girls...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09913",
+   "en": "(Sigh, Michel's such a handful...\nOh well, I'll grab some tea by myself\nand head home.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09914",
+   "en": "(Today I'm going shopping with Michel-kun\nin the Shibuya Area!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09915",
+   "en": "(Huh? Michel-kun's already here.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c09897 also appears as a PLAYER/none line in the 199 phone-call scene of frd_mcl_003 (male and female), where it makes no sense; looks like a stray script line. Translated as Michel's line.",
+   "c09910: Michel greets a stranger as 'Miss Sheryl', taken as a pick-up line (or a genuine mistake) before c09911.",
+   "c09841: 'chotto are' rendered 'kinda, you know...'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

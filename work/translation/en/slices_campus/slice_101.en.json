@@ -1,0 +1,494 @@
+{
+ "slice": 101,
+ "rows_in_slice": 79,
+ "rows_examined": 79,
+ "rows": [
+  {
+   "id": "c07435",
+   "en": "You fight kind of like\nHilda-sensei, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07436",
+   "en": "R-really?\nI wasn't even trying to...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07437",
+   "en": "Okay then, now let's see your\ntechnique, Kagura-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07438",
+   "en": "(I came to the artificial island\nwith Yuuto today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07439",
+   "en": "Great weather, huh,\n\\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07440",
+   "en": "Yeah, it's a perfect day for the beach.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07441",
+   "en": "The beach?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07442",
+   "en": "Today's the marathon around the island,\nisn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07443",
+   "en": "Wha-, nobody told me that!!\nIsn't this supposed to be a vacation?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07444",
+   "en": "Whew, that sure was tiring.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07445",
+   "en": "I-I can't move anymore...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07446",
+   "en": "I'm impressed you kept up with me.\nI really picked up the pace\nin the second half, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07447",
+   "en": "Well, since we came all this way,\nlet's eat something tasty\nbefore we head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07448",
+   "en": "(...Today was a nice change of pace.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07449",
+   "en": "(I came to the artificial island\nwith Kagura-kun today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07450",
+   "en": "Yeah, a perfect day for the beach!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07451",
+   "en": "(...Today was a nice change of pace.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07452",
+   "en": "(I came to the artificial island\nwith Yuuto again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07453",
+   "en": "Great weather as always, huh,\n\\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07454",
+   "en": "Yeah, every day's a perfect day\nfor the beach.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07455",
+   "en": "You're still saying that...?\nIt's another marathon today, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07456",
+   "en": "I-I knew it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07457",
+   "en": "Man, getting your body moving\nreally feels great, doesn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07458",
+   "en": "Well, I feel sick...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07459",
+   "en": "I'm impressed you kept up with me again.\nI really picked up the pace\nright from the start, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07460",
+   "en": "You think so?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07461",
+   "en": "Well, since we came all this way,\nlet's grab something tasty to drink\nbefore we head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07462",
+   "en": "(I came to the artificial island\nwith Kagura-kun again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07463",
+   "en": "Yeah, every day's a perfect day\nfor the beach.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07464",
+   "en": "Well, I feel sick...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07465",
+   "en": "(...Today was a nice change of pace.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07466",
+   "en": "(I came to Deep Akihabara\nwith Yuuto today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07467",
+   "en": "So this is Deep Akihabara.\nDo you come here often?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07468",
+   "en": "Not on my own, I guess.\nJust now and then with friends.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07469",
+   "en": "I don't know anything about this place,\nso could you show me around?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07470",
+   "en": "Roger~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07471",
+   "en": "This town really does have everything.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07472",
+   "en": "Yeah.\nBut what would anyone do with\na police light sold all by itself?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07473",
+   "en": "Who knows?\nBuild a police car, maybe...\nNo, an ambulance?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07474",
+   "en": "Either way, it's a fascinating town.\nLet's look around a bit more.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07475",
+   "en": "(I came to Deep Akihabara\nwith Kagura-kun today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07476",
+   "en": "Not on my own, I guess.\nJust every once in a while with friends.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07477",
+   "en": "(I'm going to Deep Akihabara\nwith Yuuto again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07478",
+   "en": "Sorry, did I keep you waiting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07479",
+   "en": "Nah, I just got here myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07480",
+   "en": "Well then, shall we take a stroll?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07481",
+   "en": "I ended up buying it on impulse, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07482",
+   "en": "What are you even going to use\na police light for?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07483",
+   "en": "Good question...\nMaybe I should try building an alarm\nor something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07484",
+   "en": "Either way, even after walking around\nall day, there's still so much\nI don't understand about this place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07485",
+   "en": "But let's come again sometime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07486",
+   "en": "(I'm going to Deep Akihabara\nwith Kagura-kun again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07487",
+   "en": "What are you even going to use\na police light for...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07488",
+   "en": "(I'm going to a concert\nwith Yuuto today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07489",
+   "en": "You're late, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07490",
+   "en": "Sorry, sorry.\nI kind of overslept...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07491",
+   "en": "Were you that excited about the concert?\nCome on, you're not a little kid.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07492",
+   "en": "That's not really it, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07493",
+   "en": "Well, let's not waste any time.\nShall we go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07494",
+   "en": "That was my first time hearing\nclassical music live, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07495",
+   "en": "The sheer power of the sound\nblew me away...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07496",
+   "en": "It hit me as hard as the first time\nI flew a Valkyrie...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07497",
+   "en": "Haah... I want to come again...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07498",
+   "en": "(I'm going to a concert\nwith Kagura-kun today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07499",
+   "en": "That's not really it, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07500",
+   "en": "I was totally overwhelmed\nby the power of it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07501",
+   "en": "(I came to a concert with Yuuto\nagain today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07502",
+   "en": "\\p, I can't wait!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07503",
+   "en": "Y-yeah...\nBut you shouldn't get too rowdy...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07504",
+   "en": "I know, but...\nThere's no way I can hold back\nthis excitement!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07505",
+   "en": "...I kind of envy you, Yuuto,\ngetting that pumped up over\na classical concert...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07506",
+   "en": "All right, the doors open any minute now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07507",
+   "en": "Ahh, classical music truly is\na wonderful thing, isn't it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07508",
+   "en": "Y-Yuuto...\nYou've turned into a different person...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07509",
+   "en": "That's how wonderful it is!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07510",
+   "en": "Honestly, how can you stay so calm?\nListen, starting with that opening......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07511",
+   "en": "(I came to a concert with Kagura-kun\nagain today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07512",
+   "en": "...I kind of envy you, Kagura-kun,\ngetting that pumped up over\na classical concert...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07513",
+   "en": "K-Kagura-kun...\nYou've turned into a different person...",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c07466/c07467/c07475/c07477/c07486 use Deep Akihabara, which is 'provisional' in locations.json.",
+   "c07472/c07482/c07487: patoranpu (a rotating police beacon sold as a part) rendered 'police light'.",
+   "c07507: Kagura switches to a polite, old-fashioned voice (a parody of a film critic's catchphrase, 'X really is a wonderful thing'); the player's reply calls it a character change. Rendered 'Ahh, classical music truly is a wonderful thing, isn't it...' and 'You've turned into a different person...'.",
+   "c07458/c07464: the player's 'kimochi ga warui' plays on Kagura's 'kimochi ga ii' (feels great); rendered 'Well, I feel sick...'.",
+   "c07448/c07451/c07465: same line as the finished 'Today was a nice change of pace' (c04893) but with a leading ellipsis, kept.",
+   "c07470 (x3, also frd_rnk_004 male player) 'ryoukai~' rendered 'Roger~'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

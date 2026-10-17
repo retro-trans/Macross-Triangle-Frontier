@@ -1,0 +1,355 @@
+{
+ "slice": 8,
+ "rows_in_slice": 56,
+ "rows_examined": 56,
+ "rows": [
+  {
+   "id": "u0622",
+   "en": "Conduct combat training inside the base",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0623",
+   "en": "Indoor Training Field",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0624",
+   "en": "Conduct combat training indoors",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0625",
+   "en": "Flight Training Field",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0626",
+   "en": "Conduct combat training in the canyon",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0627",
+   "en": "Auto Select",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0628",
+   "en": "Wild Plain",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0629",
+   "en": "Mountain Snow",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0630",
+   "en": "Close Canyon",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0631",
+   "en": "Over the Ocean",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0632",
+   "en": "Land and Sea",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0633",
+   "en": "Blue Sky",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0634",
+   "en": "Sunset Battle",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0635",
+   "en": "Skyscraper",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0636",
+   "en": "Battle Ship",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0637",
+   "en": "Vajra Nest",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0638",
+   "en": "Great Meteor",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0639",
+   "en": "Earth Light",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0640",
+   "en": "Zentradian Fleet",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0641",
+   "en": "Beside City 7",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0642",
+   "en": "Beyond Jupiter",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0643",
+   "en": "Fire Planet",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0644",
+   "en": "Saturn Ring",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0645",
+   "en": "Titan Battle",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0646",
+   "en": "Inside Base",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0647",
+   "en": "In the Dark",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0648",
+   "en": "Vajra Frontier",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0649",
+   "en": "Vajra Planet",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0650",
+   "en": "Daylight City",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0651",
+   "en": "Twilight City",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0652",
+   "en": "Night City",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0653",
+   "en": "Green Wild",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0654",
+   "en": "Do You Remember Love?",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0655",
+   "en": "To A Wi Arabul Ren",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0656",
+   "en": "Training Hall",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0657",
+   "en": "Parameter Tuning 01",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0658",
+   "en": "Parameter Tuning 02",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0659",
+   "en": "Parameter Tuning 03",
+   "flags": [],
+   "notes": "Same pattern as tm u0657/u0658."
+  },
+  {
+   "id": "u0660",
+   "en": "ARMS Showroom 01",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0661",
+   "en": "ARMS Showroom 02",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0662",
+   "en": "Defeat Ace Fast",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0663",
+   "en": "Test Mission 03",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0664",
+   "en": "Test Mission 04",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0665",
+   "en": "Destroy the base",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0666",
+   "en": "Test Mission 05",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0667",
+   "en": "Defeat Enemy Ace",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0668",
+   "en": "Battleship Weight Reduction Test",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0669",
+   "en": "Destroy the battleship",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0670",
+   "en": "Old City District Test",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0671",
+   "en": "New City District Test",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0672",
+   "en": "Mass Grunts Test",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0673",
+   "en": "Mixed Grunts Test",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0674",
+   "en": "Kitazume Test",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Leftover debug mission named after a staff member (surname Kitazume); pattern as tm 'Old City District Test'."
+  },
+  {
+   "id": "u0675",
+   "en": "Egami Test",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Leftover debug mission named after a staff member; surname read as Egami (reading not confirmed)."
+  },
+  {
+   "id": "u0676",
+   "en": "35mm Gatling Gun Pod\nStandard main weapon of variable fighters",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  },
+  {
+   "id": "u0677",
+   "en": "Micro Missiles (Rapid)\nMissiles that can be fired in succession at a single enemy",
+   "flags": [],
+   "notes": "tm reviewed, kept"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0674/u0675 debug mission labels with staff surnames; readings Kitazume / Egami assumed (Egami less certain)"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

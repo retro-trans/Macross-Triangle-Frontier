@@ -1,0 +1,485 @@
+{
+ "slice": 121,
+ "rows_in_slice": 78,
+ "rows_examined": 78,
+ "rows": [
+  {
+   "id": "c08908",
+   "en": "(Oh, there's Luca-kun.)",
+   "flags": [],
+   "notes": "Female, frd_luk_002."
+  },
+  {
+   "id": "c08909",
+   "en": "So, what should we start with today?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08910",
+   "en": "...Luca-kun... Do you want to be all macho?",
+   "flags": [],
+   "notes": "Female; as male c08881."
+  },
+  {
+   "id": "c08911",
+   "en": "(A macho Luca-kun, huh...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08912",
+   "en": "You're stronger than you look.\nBench-pressing 40 kg...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08913",
+   "en": "I can't let you beat me either!\nAll right, Luca-kun, 50 kg!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08914",
+   "en": "No problem!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08915",
+   "en": "Ouch, ouch...",
+   "flags": [],
+   "notes": "Female (itata; male c08890 atata is 'Ow, ow...')."
+  },
+  {
+   "id": "c08916",
+   "en": "I'm not patching you up.\nYou can do it yourself.",
+   "flags": [],
+   "notes": "Female version of c08892 (he won't ask her to undress)."
+  },
+  {
+   "id": "c08917",
+   "en": "I'm sorry...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08918",
+   "en": "You're right...",
+   "flags": [],
+   "notes": "Female; answers Luca's 'getting hurt while training is silly'."
+  },
+  {
+   "id": "c08919",
+   "en": "Okaaay...",
+   "flags": [],
+   "notes": "Female; sulky 'haai'."
+  },
+  {
+   "id": "c08920",
+   "en": "But you've really got your head on straight,\nLuca-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08921",
+   "en": "Yeah, let's!",
+   "flags": [],
+   "notes": "x5, all female player: answers 'let's do our best together' (Luca), 'shall we go change' / 'shall we head home' (Miyuki), 'let's go see a movie' (Ranka), 'let's hurry to the party' (Akimizu). Every context is a 'let's' proposal."
+  },
+  {
+   "id": "c08922",
+   "en": "I'm totally beat~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08923",
+   "en": "Okaaay, got it.",
+   "flags": [],
+   "notes": "x2: Luca's 'cool down properly' and Sheryl's 'keep this secret from Grace' (nml_she_008). Both female."
+  },
+  {
+   "id": "c08924",
+   "en": "Yeah, see you next time.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08925",
+   "en": "(Now I'd better head home and give myself\na massage...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08926",
+   "en": "(Training with Luca again today.\nTime to get fired up and give it my all!)",
+   "flags": [],
+   "notes": "Male, second visit."
+  },
+  {
+   "id": "c08927",
+   "en": "You're really fired up,\n\\p-san.",
+   "flags": [],
+   "notes": "x2, Luca to male and female player."
+  },
+  {
+   "id": "c08928",
+   "en": "Of course!",
+   "flags": [],
+   "notes": "x3: also female in frd_myk_112 and frd_rnk_008."
+  },
+  {
+   "id": "c08929",
+   "en": "Be careful not to get hurt.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c08930",
+   "en": "Man, I'm tired.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08931",
+   "en": "Good work.",
+   "flags": [],
+   "notes": "x6, Luca, frd_luk_002/005 both genders, after training or flight practice. Kept distinct from c08900 'Good work today.' (kyou wa otsukaresama deshita)."
+  },
+  {
+   "id": "c08932",
+   "en": "(That was a really solid workout!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08933",
+   "en": "(Training with Luca-kun again today.\nTime to get fired up and give it my all!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08934",
+   "en": "Of course I am!",
+   "flags": [],
+   "notes": "Female; answers 'You're really fired up'."
+  },
+  {
+   "id": "c08935",
+   "en": "Mmm, that was tiring~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08936",
+   "en": "(That was a really solid workout!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08937",
+   "en": "(Well, that's it for today's classes, but...)",
+   "flags": [],
+   "notes": "Male, frd_luk_003."
+  },
+  {
+   "id": "c08938",
+   "en": "...I'm bored, Luca.",
+   "flags": [],
+   "notes": "Male. Hima = nothing to do; subject restored as the player."
+  },
+  {
+   "id": "c08939",
+   "en": "I'm not, really.",
+   "flags": [],
+   "notes": "x4, Luca, both genders: answers 'I'm bored, Luca' and, in the second scene, the player's unspoken '(I'm so bored~)'."
+  },
+  {
+   "id": "c08940",
+   "en": "You're no fun.\nGot any interesting stories?",
+   "flags": [],
+   "notes": "Male; tsurenai = 'you're no fun / cold'."
+  },
+  {
+   "id": "c08941",
+   "en": "I don't have any stories like that.\nWhy don't you go home and study or something?",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c08942",
+   "en": "I've been studying at school all day, you know?\nYou're so serious, Luca...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08943",
+   "en": "That's not true.\nWe're students in the first place,\nso isn't it only natural?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08944",
+   "en": "No, see, that's exactly what I mean...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08945",
+   "en": "Ah! Haha...",
+   "flags": [],
+   "notes": "Male; Luca's sheepish laugh (or he spots Nanase); kept neutral."
+  },
+  {
+   "id": "c08946",
+   "en": "Hm? Who's that over there...",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c08947",
+   "en": "Oh, Nanase-san.",
+   "flags": [],
+   "notes": "x2, Luca. Nanase is female (glossary)."
+  },
+  {
+   "id": "c08948",
+   "en": "Nanase's gone.\nOff to her club, maybe?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08949",
+   "en": "Huh? What's up, Luca?\nGot some business with Nanase?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08950",
+   "en": "N-nothing's up with me!\nWhat are you even saying, geez!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08951",
+   "en": "(He's so easy to read...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08952",
+   "en": "What's with that look?",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c08953",
+   "en": "Nanase's cute, after all.\nI get how you feel.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08954",
+   "en": "I don't need you to get it, thank you!",
+   "flags": [],
+   "notes": "x2, Luca; polite but sharp rebuff (wakatte itadakanakute kekkou desu)."
+  },
+  {
+   "id": "c08955",
+   "en": "So it's that, huh? You like that about her?",
+   "flags": [],
+   "notes": "Male; deliberately vague 'are' (that), a sly hint left as vague as the Japanese."
+  },
+  {
+   "id": "c08956",
+   "en": "What do you mean, 'that'?!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08957",
+   "en": "Heh heh...",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c08958",
+   "en": "Geez, I'm going home!",
+   "flags": [],
+   "notes": "x2, Luca."
+  },
+  {
+   "id": "c08959",
+   "en": "Hey, wait up.\nLet's stop somewhere on the way.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08960",
+   "en": "I have to go to Deep Akihabara,\nso you can go on your own!",
+   "flags": [],
+   "notes": "x2, Luca. Deep Akihabara from locations.json."
+  },
+  {
+   "id": "c08961",
+   "en": "Oh boy...",
+   "flags": [],
+   "notes": "x2: also male player in frd_rnk_007 when Ranka rushes in to help at Nyan-Nyan."
+  },
+  {
+   "id": "c08962",
+   "en": "(Maybe I teased him a little too much?)",
+   "flags": [],
+   "notes": "x2, both genders, about Luca."
+  },
+  {
+   "id": "c08963",
+   "en": "(Well, that's it for today's classes, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08964",
+   "en": "I'm bored, Luca-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08965",
+   "en": "You're no fun.\nDon't you have anything interesting to talk about?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08966",
+   "en": "I've been studying all day, you know?\nOf course I want a little break...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08967",
+   "en": "What?!\nDon't look at me like that!",
+   "flags": [],
+   "notes": "Female; after Luca's silent stare."
+  },
+  {
+   "id": "c08968",
+   "en": "Nanase's gone.\nOff to her club, maybe?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08969",
+   "en": "Ooh? What's up with you, Luca-kun?\nYou were totally staring at her.",
+   "flags": [],
+   "notes": "Female; mitorechau = gazing entranced."
+  },
+  {
+   "id": "c08970",
+   "en": "I-I wasn't staring at her or anything!\nWhat are you even saying, geez!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08971",
+   "en": "(He's so easy to read...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08972",
+   "en": "Nanase's cute, after all.\nI get how you feel, yep.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08973",
+   "en": "Hey, wait up.\nWanna stop somewhere on the way home?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08974",
+   "en": "You're no fun...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08975",
+   "en": "(School's out, but I'm so bored~)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08976",
+   "en": "Huh, how did you know?\nI didn't say it out loud.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08977",
+   "en": "It was written all over\nyour face, \\p-san.",
+   "flags": [],
+   "notes": "x2, Luca, both genders."
+  },
+  {
+   "id": "c08978",
+   "en": "(Am I that easy to read?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08979",
+   "en": "You're very easy to read.",
+   "flags": [],
+   "notes": "x2, Luca, both genders (he answers the unspoken thought again)."
+  },
+  {
+   "id": "c08980",
+   "en": "Wanna head home?",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c08981",
+   "en": "(I had a fun time with Luca after school.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c08982",
+   "en": "(School's out, but I'm so bored~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08983",
+   "en": "Huh, how did you know?\nI didn't say it out loud...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08984",
+   "en": "(...Am I that easy to read?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c08985",
+   "en": "(I had a fun time with Luca-kun after school.)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c08921: 'Yeah, let's!' chosen because all five uses (Luca, Miyuki, Ranka, Akimizu scenes) answer a 'let's' proposal.",
+   "c08955: the player's vague 'that' (are) about Nanase left vague in English.",
+   "c08945: Luca's 'Ah! Haha...' could be a sheepish laugh or him spotting Nanase; kept neutral."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

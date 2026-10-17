@@ -1,0 +1,504 @@
+{
+ "slice": 34,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u3988",
+   "en": "there was no end of poachers illegally hunting the whales for the black market,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3989",
+   "en": "and the Zolan Star Patrol, guarding the whales, struggled with armed poachers.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3990",
+   "en": "And now, once again this year, the season of the Galaxy Whales had come...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3991",
+   "en": "was sailing near the center of the galaxy.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Predicate only: the subject sits in the two lines before it, which reuse shared strings (very likely u3944/u3945: A.D. 2059 ... the 25th fleet, 'Macross Frontier,'). Written to follow 'the \"Macross Frontier,\"'."
+  },
+  {
+   "id": "u3992",
+   "en": "Inside the ships, an environment no different from Earth's had been artificially created,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3993",
+   "en": "and over 10 million people lived there, mainly on the residential ship...",
+   "flags": [],
+   "notes": "Japanese: over 10 million lived, centered on the residential ship(s) (kyojuukan)."
+  },
+  {
+   "id": "u3994",
+   "en": "The Macross Galaxy fleet was also sailing nearby,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3995",
+   "en": "and the two fleets, Galaxy and Frontier, kept close ties.",
+   "flags": [],
+   "notes": "Japanese: (the Galaxy fleet) had mutual exchanges with the Frontier fleet."
+  },
+  {
+   "id": "u3996",
+   "en": "Then, from the Galaxy, came the diva known as the \"Galactic Fairy,\"",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sentence runs into u3997; Japanese is historical present ('comes to Frontier on a live tour'); rendered in past like the rest of the narration."
+  },
+  {
+   "id": "u3997",
+   "en": "\"Sheryl Nome,\" bringing her concert tour to Frontier.",
+   "flags": [],
+   "notes": "Sheryl's name is in brackets in the Japanese; kept as quotes."
+  },
+  {
+   "id": "u3998",
+   "en": "And it was from there that a new threat to humanity began to stir...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3999",
+   "en": "February 11, A.D. 2010.",
+   "flags": [],
+   "notes": "Date style as u3908 ('July, A.D. 1999')."
+  },
+  {
+   "id": "u4000",
+   "en": "The battle for Earth's fate, between the U.N. Forces and the Boddole Zer Main Fleet,",
+   "flags": [],
+   "notes": "Boddole Zer Main Fleet per organizations.json (bodoru kikan kantai)."
+  },
+  {
+   "id": "u4001",
+   "en": "thanks to Lynn Minmay's song and the aid of Vrlitwhai's Adoclass fleet, which it moved,",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Fleet name 'Adoclass' not in glossary (Japanese: Buritai Adokurasu kantai). Rendered \"Vrlitwhai's Adoclass fleet\"."
+  },
+  {
+   "id": "u4002",
+   "en": "ended in a U.N. Forces victory. Earthlings and Zentradi made peace and chose to coexist.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4003",
+   "en": "In the years since, Earth faced alien threats time and time again,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4004",
+   "en": "but each time pulled through thanks to variable fighters and the power of song.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4005",
+   "en": "Time went by, and it was now A.D. 2090. The Macross that once saved Earth lay in ruin,",
+   "flags": [],
+   "notes": "Japanese has seireki mid-line; A.D. kept since this is the era's establishing year."
+  },
+  {
+   "id": "u4006",
+   "en": "and humanity flourished alongside the micronized Zentradi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4007",
+   "en": "But a new threat was steadily creeping up on humanity...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4008",
+   "en": "In an instant, the attack of the Boddole Zer Main Fleet left Earth in ruins.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4009",
+   "en": "Only one weapon could stand against the overwhelming might of the Zentradi:",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4010",
+   "en": "Minmay's song, and nothing else.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4011",
+   "en": "If Zentradi soldiers, who had never known Culture, were made to hear a song,",
+   "flags": [],
+   "notes": "TM had lowercase 'culture'; glossary term is 'Culture'."
+  },
+  {
+   "id": "u4012",
+   "en": "the shock would surely throw them into chaos.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4013",
+   "en": "Clinging to that faint hope, the Macross set out for the final battle.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4014",
+   "en": "Minmay's song was relayed by Vrlitwhai's flagship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4015",
+   "en": "to every ship in the Zentradi fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4016",
+   "en": "Just as predicted, the Zentradi forces fell into chaos.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4017",
+   "en": "Staking humanity's fate, the Macross advanced on the heart of the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4018",
+   "en": "Its target: Supreme Commander Boddole Zer's flagship, the Fulbtzs-Berrentzs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4019",
+   "en": "With Minmay's song ringing out, the Macross plunged into the enemy flagship.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4020",
+   "en": "Boddole Zer fell before the Macross's all-out attack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4021",
+   "en": "Having lost their command at the center, the Zentradi",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4022",
+   "en": "no longer had the strength to stand against the Macross and Vrlitwhai's fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4023",
+   "en": "And with the battle over, the Macross returned to Earth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4024",
+   "en": "Two races created by the Protoculture,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4025",
+   "en": "the people of Earth and the Zentradi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4026",
+   "en": "With the end of the war, the two began to walk a single path together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4027",
+   "en": "But the embers of conflict between them had not yet completely died out...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4028",
+   "en": "Quamzin, unable to accept Culture and refusing to coexist with Earth's people,",
+   "flags": [],
+   "notes": "TM had lowercase 'culture'; glossary term is 'Culture'."
+  },
+  {
+   "id": "u4029",
+   "en": "turned peaceful Macross City into a battlefield.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4030",
+   "en": "But the Macross rose again, and its main cannon set Quamzin's ship ablaze,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4031",
+   "en": "and Quamzin and his crew vanished into the flames.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4032",
+   "en": "And so Quamzin's rebellion came to an end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4033",
+   "en": "The Macross was badly damaged in this battle, but meanwhile, a new spaceship",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4034",
+   "en": "was being built: a colony ship to seek a new world beyond the solar system.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4035",
+   "en": "To protect their Culture, humanity set out on a great journey across the galaxy...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4036",
+   "en": "At Macross City's ceremony marking 30 years since the end of Space War I,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4037",
+   "en": "Sharon Apple, who had already become self-aware,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4038",
+   "en": "hacked into the Macross's main computer",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4039",
+   "en": "and seized control of Macross City's entire information network.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4040",
+   "en": "She even went so far as to put the people of the whole city under mind control.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4041",
+   "en": "Meanwhile, two fighters were heading for Macross City.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4042",
+   "en": "They were the YF-19 and YF-21, prototypes whose development was frozen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4043",
+   "en": "Sharon tried to destroy them with the X-9 Ghost drone and the Macross, but",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4044",
+   "en": "thanks to their machines' astonishing power and the pilots' desperate stand,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4045",
+   "en": "the core of the information network was destroyed. Sharon was dead.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4046",
+   "en": "And so the Macross's rampage under Sharon Apple was brought to a halt.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4047",
+   "en": "The incident was classified top secret, known only to a few insiders, but",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4048",
+   "en": "it brought the danger of rogue unmanned fighters and artificial intelligence",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4049",
+   "en": "to light as a serious problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4050",
+   "en": "In the end, the full-scale introduction of the Ghost was shelved,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4051",
+   "en": "and along with that, the development of manned fighters was resumed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4052",
+   "en": "The nearly derailed development competition ended in victory for the YF-19,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4053",
+   "en": "which was officially adopted as the VF-19 Excalibur.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4054",
+   "en": "Meanwhile, the losing YF-21's capabilities were also highly rated,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4055",
+   "en": "and it was later given its chance to shine as the high-performance VF-22.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4056",
+   "en": "And so, at the same time and in the same place, two legendary machines were born.",
+   "flags": [],
+   "notes": "meiki = celebrated machines (the VF-19 and VF-22)."
+  },
+  {
+   "id": "u4057",
+   "en": "The war against the Protodeviln, led by the immensely powerful Gepelnitchi,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4058",
+   "en": "had come to an end.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4059",
+   "en": "Just as in Space War I,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4060",
+   "en": "it was the power of the songs of Basara Nekki and friends that ended the war.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4061",
+   "en": "Once able to survive only by absorbing the Spiritia of other living things,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4062",
+   "en": "the Protodeviln, by singing together with Basara,",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4063",
+   "en": "evolved into a race able to produce Spiritia on their own.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4064",
+   "en": "And so, with no more need to steal Spiritia, the Protodeviln",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4065",
+   "en": "departed for some unknown, faraway corner of space.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4066",
+   "en": "Afterwards, Basara went on to make his mark as the vocalist of Fire Bomber",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4067",
+   "en": "and became a singer whose voice thundered across the galaxy.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u3991: the two lines before it on screen reuse shared strings, apparently u3944/u3945 ('A.D. 2059...' / 'The 25th giant colony fleet to set out, the \"Macross Frontier,\"'); u3991 is written as the predicate of that sentence. Worth checking in game.",
+   "u4005: A.D. used though the year is not at the start of the Japanese line (cf. u3917, where the TM leaves A.D. out)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Adoclass (Buritai Adokurasu kantai, Vrlitwhai's fleet), u4001"
+  ],
+  "unfinished": []
+ }
+}

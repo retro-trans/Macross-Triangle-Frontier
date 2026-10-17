@@ -1,0 +1,2103 @@
+{
+ "slice": 39,
+ "rows_in_slice": 320,
+ "rows_examined": 320,
+ "rows": [
+  {
+   "id": "u4297",
+   "en": "Eden",
+   "flags": [],
+   "notes": "Home-planet field."
+  },
+  {
+   "id": "u4298",
+   "en": "Macross 7 fleet",
+   "flags": [],
+   "notes": "Home field; glossary form."
+  },
+  {
+   "id": "u4299",
+   "en": "Macross Frontier fleet",
+   "flags": [],
+   "notes": "Home field; glossary form (status needs_check in glossary)."
+  },
+  {
+   "id": "u4300",
+   "en": "Shower Room",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Event background (place) names from here to u4381. Width 88px vs 87px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4301",
+   "en": "Pilot Course Storeroom",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Storeroom of the Space Aviation Course (glossary provisional); 'Pilot' to fit. Width 99px vs 87px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed. Review: course name is 'Pilot Course' (glossary). 147 px vs 87 px estimate; neighbouring BG labels run over by the same ratio."
+  },
+  {
+   "id": "u4302",
+   "en": "Pool",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4303",
+   "en": "Rooftop Catapult",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4304",
+   "en": "Classroom",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 66px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4305",
+   "en": "Locker Room",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 83px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4306",
+   "en": "School Building",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 99px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4307",
+   "en": "Schoolyard",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 70px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4308",
+   "en": "School Gate",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 75px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4309",
+   "en": "Lab",
+   "flags": [],
+   "notes": "Science lab."
+  },
+  {
+   "id": "u4310",
+   "en": "Library",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4311",
+   "en": "Walkway",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 58px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4312",
+   "en": "Art Room",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 60px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4313",
+   "en": "Stair Landing",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 83px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4314",
+   "en": "Hallway",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4315",
+   "en": "Infirmary",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 58px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4316",
+   "en": "Officers' Room",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Japanese writes shikan with the wrong kanji; officers' room meant. Width 93px vs 70px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4317",
+   "en": "S.M.S. Building",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4318",
+   "en": "S.M.S. Bldg. Underpass",
+   "flags": [],
+   "notes": "Underground passage of the S.M.S. building."
+  },
+  {
+   "id": "u4319",
+   "en": "By the Simulators",
+   "flags": [],
+   "notes": "In front of the simulators."
+  },
+  {
+   "id": "u4320",
+   "en": "Hangar",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4321",
+   "en": "Briefing Room",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4322",
+   "en": "My Room",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The player's own room. Width 62px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4323",
+   "en": "Zentran-Size Tank",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Tank used to return to Zentradi size (zentora-ka, the reverse of micronize). No glossary term."
+  },
+  {
+   "id": "u4324",
+   "en": "Zentran-Size Tank Area ",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "As u4323. The Japanese ends with a space; kept."
+  },
+  {
+   "id": "u4325",
+   "en": "Hot Dog Stand",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4326",
+   "en": "San Francisco Area",
+   "flags": [],
+   "notes": "Frontier district (campus text: Silver Moon is in San Francisco)."
+  },
+  {
+   "id": "u4327",
+   "en": "Frontier City",
+   "flags": [],
+   "notes": "Frontier city streets."
+  },
+  {
+   "id": "u4328",
+   "en": "Shibuya Area",
+   "flags": [],
+   "notes": "Frontier district."
+  },
+  {
+   "id": "u4329",
+   "en": "Deep Akihabara",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Written shin-Akihabara with the kanji for 'deep'; a shopping district in the campus text. Not in glossary. Width 99px vs 87px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4330",
+   "en": "Island 3",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4331",
+   "en": "Outside Ice Cream Shop",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "In front of the ice cream shop. Width 150px vs 87px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4332",
+   "en": "Folmo",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Shopping spot in the campus text. Same katakana as Exsedol Folmo's surname, so the glossary spelling Folmo; not in glossary as a place."
+  },
+  {
+   "id": "u4333",
+   "en": "Outside the Ranch",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "In front of the ranch (Claire's outing). Width 115px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4334",
+   "en": "Underpass",
+   "flags": [],
+   "notes": "Underground passage."
+  },
+  {
+   "id": "u4335",
+   "en": "Artificial Island",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 94px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4336",
+   "en": "Open-Air Cafe",
+   "flags": [],
+   "notes": "No e-acute in the font."
+  },
+  {
+   "id": "u4337",
+   "en": "Silver Moon",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary status provisional."
+  },
+  {
+   "id": "u4338",
+   "en": "Restaurant",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4339",
+   "en": "Nyan-Nyan",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 71px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4340",
+   "en": "Outside Nyan-Nyan",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 124px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4341",
+   "en": "Shopping St. Entrance",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Entrance to the shopping street. Width 136px vs 105px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4342",
+   "en": "Griffith Park",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4343",
+   "en": "Central Park",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4344",
+   "en": "Saotome House",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The Saotome family home. Width 98px vs 70px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4345",
+   "en": "Ranka's House",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 91px vs 87px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4346",
+   "en": "Outside Ranka's House",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 144px vs 105px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4347",
+   "en": "Miss Macross Venue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4348",
+   "en": "Green Room",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Waiting room backstage. Width 78px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4349",
+   "en": "Inside Concert Venue",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 134px vs 105px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4350",
+   "en": "Outside Seidokan",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Reading sei-dou-kan assumed; the name does not occur in the campus scripts. Not in glossary. Width 111px vs 70px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4351",
+   "en": "Outside Sky Gate",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "Tenkuu-mon, a concert venue in the campus text ('go see a concert at ...'). Not in glossary. Width 110px vs 70px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4352",
+   "en": "Backstage",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4353",
+   "en": "Train",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Kidou ressha (rail/track train); 'orbital' avoided as the train runs inside the ship."
+  },
+  {
+   "id": "u4354",
+   "en": "Dome Ceiling Station",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 135px vs 105px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4355",
+   "en": "Observation Pier",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 104px vs 70px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4356",
+   "en": "Outside Hospital",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 104px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4357",
+   "en": "Hospital",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4358",
+   "en": "Hospital Room",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 92px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4359",
+   "en": "Arlington Cemetery",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary status provisional."
+  },
+  {
+   "id": "u4360",
+   "en": "Vajra homeworld",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary form. Width 108px vs 105px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4361",
+   "en": "Convenience Store",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 117px vs 70px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4362",
+   "en": "Shelter",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4363",
+   "en": "Outside TV Station",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 120px vs 87px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4364",
+   "en": "Space",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4365",
+   "en": "Back Alley",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 67px vs 56px estimate from the Japanese; the same table has entries estimated up to 223px, so left uncompressed."
+  },
+  {
+   "id": "u4366",
+   "en": "BG Gallery_Red",
+   "flags": [],
+   "notes": "Background-gallery entries: underscore kept as in the Japanese."
+  },
+  {
+   "id": "u4367",
+   "en": "BG Gallery_Orange",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4368",
+   "en": "BG Gallery_Yellow",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4369",
+   "en": "BG Gallery_Green",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4370",
+   "en": "BG Gallery_Blue",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4371",
+   "en": "BG Gallery_Purple",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4372",
+   "en": "BG Gallery_Pink",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4373",
+   "en": "BG Gallery_Brown",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4374",
+   "en": "BG Gallery_White",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4375",
+   "en": "BG Gallery_Black",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4376",
+   "en": "BG Gallery_Pool",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4377",
+   "en": "BG Gallery_School Gate",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4378",
+   "en": "BG Gallery_Schoolyard",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4379",
+   "en": "BG Gallery_Deep Akihabara",
+   "flags": [
+    "uncertain",
+    "name_missing"
+   ],
+   "notes": "See u4329."
+  },
+  {
+   "id": "u4380",
+   "en": "BG Gallery_Beach",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4381",
+   "en": "BG Gallery_Nyan-Nyan Inside",
+   "flags": [],
+   "notes": "Inside the Nyan-Nyan restaurant."
+  },
+  {
+   "id": "u4382",
+   "en": "Empty Event",
+   "flags": [],
+   "notes": "Event titles from here (gop_ev_ex)."
+  },
+  {
+   "id": "u4383",
+   "en": "Kagura 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4384",
+   "en": "Kagura 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4385",
+   "en": "Kagura Jealousy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Jealousy event. Width 101px vs 87px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4386",
+   "en": "Kagura Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4387",
+   "en": "Gary 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4388",
+   "en": "Gary 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4389",
+   "en": "Gary Jealousy",
+   "flags": [],
+   "notes": "Jealousy event."
+  },
+  {
+   "id": "u4390",
+   "en": "Gary Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4391",
+   "en": "Luis 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4392",
+   "en": "Luis 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4393",
+   "en": "Luis Jealousy",
+   "flags": [],
+   "notes": "Jealousy event."
+  },
+  {
+   "id": "u4394",
+   "en": "Luis Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4395",
+   "en": "Shirakawa 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4396",
+   "en": "Shirakawa 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4397",
+   "en": "Shirakawa Jealousy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Jealousy event. Width 123px vs 105px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4398",
+   "en": "Shirakawa Nyan-Nyan",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Event at Nyan-Nyan. Width 140px vs 105px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4399",
+   "en": "Shirakawa Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4400",
+   "en": "Hilda 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4401",
+   "en": "Hilda 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4402",
+   "en": "Hilda Jealousy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Jealousy event. Width 91px vs 87px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4403",
+   "en": "Hilda Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4404",
+   "en": "Hoshimura 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4405",
+   "en": "Hoshimura 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4406",
+   "en": "Hoshimura Jealousy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Jealousy event. Width 126px vs 105px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4407",
+   "en": "Hoshimura Nyan-Nyan",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Event at Nyan-Nyan. Width 143px vs 105px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4408",
+   "en": "Hoshimura Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4409",
+   "en": "Yamashiro 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4410",
+   "en": "Yamashiro 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4411",
+   "en": "Yamashiro Jealousy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Jealousy event. Width 124px vs 105px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4412",
+   "en": "Yamashiro Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4413",
+   "en": "Akimizu 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4414",
+   "en": "Akimizu 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4415",
+   "en": "Akimizu Jealousy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Jealousy event. Width 109px vs 105px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4416",
+   "en": "Akimizu Nyan-Nyan",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Event at Nyan-Nyan. Width 126px vs 105px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4417",
+   "en": "Akimizu Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4418",
+   "en": "Claire 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4419",
+   "en": "Claire 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4420",
+   "en": "Claire Jealousy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Jealousy event. Width 95px vs 87px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4421",
+   "en": "Claire Nyan-Nyan",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Event at Nyan-Nyan. Width 112px vs 87px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4422",
+   "en": "Claire Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4423",
+   "en": "Pinon 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4424",
+   "en": "Pinon 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4425",
+   "en": "Pinon Jealousy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Jealousy event. Width 94px vs 87px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4426",
+   "en": "Pinon Nyan-Nyan",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Event at Nyan-Nyan. Width 111px vs 87px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4427",
+   "en": "Pinon Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4428",
+   "en": "Alto 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4429",
+   "en": "Alto 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4430",
+   "en": "Alto 03",
+   "flags": [],
+   "notes": "Event title: character event no. 03."
+  },
+  {
+   "id": "u4431",
+   "en": "Alto 04",
+   "flags": [],
+   "notes": "Event title: character event no. 04."
+  },
+  {
+   "id": "u4432",
+   "en": "Alto Jealousy",
+   "flags": [],
+   "notes": "Jealousy event."
+  },
+  {
+   "id": "u4433",
+   "en": "Alto Butler Outfit",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 111px vs 105px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4434",
+   "en": "Alto Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4435",
+   "en": "Michel 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4436",
+   "en": "Michel 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4437",
+   "en": "Michel 03",
+   "flags": [],
+   "notes": "Event title: character event no. 03."
+  },
+  {
+   "id": "u4438",
+   "en": "Michel Jealousy",
+   "flags": [],
+   "notes": "Jealousy event."
+  },
+  {
+   "id": "u4439",
+   "en": "Michel Butler Outfit",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 127px vs 122px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4440",
+   "en": "Michel Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4441",
+   "en": "Luca 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4442",
+   "en": "Luca 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4443",
+   "en": "Luca Jealousy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Jealousy event. Width 87px vs 70px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4444",
+   "en": "Luca Butler Outfit",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 114px vs 87px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4445",
+   "en": "Luca Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4446",
+   "en": "Nanase 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4447",
+   "en": "Nanase 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4448",
+   "en": "Nanase Jealousy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Jealousy event. Width 103px vs 87px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4449",
+   "en": "Nanase Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4450",
+   "en": "Ranka 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4451",
+   "en": "Ranka 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4452",
+   "en": "Ranka 03",
+   "flags": [],
+   "notes": "Event title: character event no. 03."
+  },
+  {
+   "id": "u4453",
+   "en": "Ranka 04",
+   "flags": [],
+   "notes": "Event title: character event no. 04."
+  },
+  {
+   "id": "u4454",
+   "en": "Ranka 05",
+   "flags": [],
+   "notes": "Event title: character event no. 05."
+  },
+  {
+   "id": "u4455",
+   "en": "Ranka Jealousy",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Jealousy event. Width 97px vs 87px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4456",
+   "en": "Ranka Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4457",
+   "en": "Sheryl 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4458",
+   "en": "Sheryl 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4459",
+   "en": "Sheryl 03",
+   "flags": [],
+   "notes": "Event title: character event no. 03."
+  },
+  {
+   "id": "u4460",
+   "en": "Sheryl 04",
+   "flags": [],
+   "notes": "Event title: character event no. 04."
+  },
+  {
+   "id": "u4461",
+   "en": "Sheryl Jealousy",
+   "flags": [],
+   "notes": "Jealousy event."
+  },
+  {
+   "id": "u4462",
+   "en": "Sheryl Nyan-Nyan",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Event at Nyan-Nyan. Width 115px vs 105px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4463",
+   "en": "Sheryl Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4464",
+   "en": "Klan 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4465",
+   "en": "Klan 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4466",
+   "en": "Klan 03",
+   "flags": [],
+   "notes": "Event title: character event no. 03."
+  },
+  {
+   "id": "u4467",
+   "en": "Klan Jealousy",
+   "flags": [],
+   "notes": "Jealousy event."
+  },
+  {
+   "id": "u4468",
+   "en": "Klan Nyan-Nyan",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Event at Nyan-Nyan. Width 103px vs 87px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4469",
+   "en": "Klan Jealousy (Guy)",
+   "flags": [],
+   "notes": "Jealousy event, 'for a male' (tai-otoko-you) version: the rival the player hangs out with is a guy (checked: ext_kgr_003 vs ext_kgr_004 differ only in 'that girl' / 'that guy')."
+  },
+  {
+   "id": "u4470",
+   "en": "Ozma 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4471",
+   "en": "Ozma 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4472",
+   "en": "Ozma 03",
+   "flags": [],
+   "notes": "Event title: character event no. 03."
+  },
+  {
+   "id": "u4473",
+   "en": "Ozma 04",
+   "flags": [],
+   "notes": "Event title: character event no. 04."
+  },
+  {
+   "id": "u4474",
+   "en": "Bobby 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4475",
+   "en": "Bobby 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4476",
+   "en": "Bobby 03",
+   "flags": [],
+   "notes": "Event title: character event no. 03."
+  },
+  {
+   "id": "u4477",
+   "en": "Bobby 04",
+   "flags": [],
+   "notes": "Event title: character event no. 04."
+  },
+  {
+   "id": "u4478",
+   "en": "Bobby 05",
+   "flags": [],
+   "notes": "Event title: character event no. 05."
+  },
+  {
+   "id": "u4479",
+   "en": "Canaria 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4480",
+   "en": "Canaria 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4481",
+   "en": "Canaria 03",
+   "flags": [],
+   "notes": "Event title: character event no. 03."
+  },
+  {
+   "id": "u4482",
+   "en": "Canaria 04",
+   "flags": [],
+   "notes": "Event title: character event no. 04."
+  },
+  {
+   "id": "u4483",
+   "en": "Brera 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4484",
+   "en": "Brera 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4485",
+   "en": "Brera 03",
+   "flags": [],
+   "notes": "Event title: character event no. 03."
+  },
+  {
+   "id": "u4486",
+   "en": "Cathy 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4487",
+   "en": "Cathy 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4488",
+   "en": "Cathy 03",
+   "flags": [],
+   "notes": "Event title: character event no. 03."
+  },
+  {
+   "id": "u4489",
+   "en": "Cathy 04",
+   "flags": [],
+   "notes": "Event title: character event no. 04."
+  },
+  {
+   "id": "u4490",
+   "en": "Grace 01",
+   "flags": [],
+   "notes": "Event title: character event no. 01."
+  },
+  {
+   "id": "u4491",
+   "en": "Grace 02",
+   "flags": [],
+   "notes": "Event title: character event no. 02."
+  },
+  {
+   "id": "u4492",
+   "en": "Grace 03",
+   "flags": [],
+   "notes": "Event title: character event no. 03."
+  },
+  {
+   "id": "u4493",
+   "en": "S.M.S. End (Excellent)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ending with grade yuu (excellent). Width 138px vs 122px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4494",
+   "en": "S.M.S. End (Pass)",
+   "flags": [],
+   "notes": "Ending with grade ka (pass)."
+  },
+  {
+   "id": "u4495",
+   "en": "U.N. Forces End (Excellent)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Japanese says toogou-gun: 'U.N. Forces' per the brief. Width 169px vs 122px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4496",
+   "en": "U.N. Forces End (Pass)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 140px vs 122px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4497",
+   "en": "Festival End (Excellent)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 145px vs 105px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4498",
+   "en": "Festival End (Pass)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 116px vs 105px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4499",
+   "en": "Civilian End (Excellent)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 145px vs 122px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4500",
+   "en": "Civilian End (Pass)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4501",
+   "en": "Trial Enrollment End",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ending of the trial-enrollment (tutorial) course. Width 129px vs 122px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4502",
+   "en": "Maid Outfit",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Width 74px vs 70px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4503",
+   "en": "Maid Outfit (Original)",
+   "flags": [],
+   "notes": "As in the original anime (gensaku)."
+  },
+  {
+   "id": "u4504",
+   "en": "S.M.S. at the Beach",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Beach (sea bathing) event with S.M.S. Width 123px vs 122px estimate from the Japanese; the same table has entries estimated up to 175px, so left uncompressed."
+  },
+  {
+   "id": "u4505",
+   "en": "Ozma & Cathy",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u4506",
+   "en": "Grace & Brera (Civilian)",
+   "flags": [],
+   "notes": "Civilian route version."
+  },
+  {
+   "id": "u4507",
+   "en": "Grace & Brera (Festival)",
+   "flags": [],
+   "notes": "Festival route version."
+  },
+  {
+   "id": "u4508",
+   "en": "Other Route (Excellent)",
+   "flags": [],
+   "notes": "Other routes, grades excellent (yuu)."
+  },
+  {
+   "id": "u4509",
+   "en": "Other Route (Pass)",
+   "flags": [],
+   "notes": "Other routes, grades pass (ka)."
+  },
+  {
+   "id": "u4510",
+   "en": "Kagura Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4511",
+   "en": "Kagura Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4512",
+   "en": "Kagura Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4513",
+   "en": "Kagura Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4514",
+   "en": "Kagura Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4515",
+   "en": "Kagura Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4516",
+   "en": "Kagura Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4517",
+   "en": "Kagura Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4518",
+   "en": "Kagura End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4519",
+   "en": "Kagura End (Female)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ending, female player version. Width 129px vs 122px estimate from the Japanese; the same table has entries estimated up to 210px, so left uncompressed."
+  },
+  {
+   "id": "u4520",
+   "en": "Kagura Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4521",
+   "en": "Kagura Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4522",
+   "en": "Kagura Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4523",
+   "en": "Kagura Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4524",
+   "en": "Kagura Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4525",
+   "en": "Kagura Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4526",
+   "en": "Kagura Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4527",
+   "en": "Kagura Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4528",
+   "en": "Kagura Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4529",
+   "en": "Kagura Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4530",
+   "en": "Kagura Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4531",
+   "en": "Kagura Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4532",
+   "en": "Kagura Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4533",
+   "en": "Kagura Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4534",
+   "en": "Kagura Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4535",
+   "en": "Kagura Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4536",
+   "en": "Gary Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4537",
+   "en": "Gary Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4538",
+   "en": "Gary Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4539",
+   "en": "Gary Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4540",
+   "en": "Gary Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4541",
+   "en": "Gary Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4542",
+   "en": "Gary Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4543",
+   "en": "Gary Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4544",
+   "en": "Gary End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4545",
+   "en": "Gary End (Female)",
+   "flags": [],
+   "notes": "Ending, female player version."
+  },
+  {
+   "id": "u4546",
+   "en": "Gary Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4547",
+   "en": "Gary Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4548",
+   "en": "Gary Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4549",
+   "en": "Gary Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4550",
+   "en": "Gary Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4551",
+   "en": "Gary Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4552",
+   "en": "Gary Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4553",
+   "en": "Gary Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4554",
+   "en": "Gary Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4555",
+   "en": "Gary Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4556",
+   "en": "Gary Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4557",
+   "en": "Gary Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4558",
+   "en": "Gary Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4559",
+   "en": "Gary Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4560",
+   "en": "Gary Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4561",
+   "en": "Gary Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4562",
+   "en": "Luis Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4563",
+   "en": "Luis Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4564",
+   "en": "Luis Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4565",
+   "en": "Luis Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4566",
+   "en": "Luis Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4567",
+   "en": "Luis Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4568",
+   "en": "Luis Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4569",
+   "en": "Luis Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4570",
+   "en": "Luis End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4571",
+   "en": "Luis End (Female)",
+   "flags": [],
+   "notes": "Ending, female player version."
+  },
+  {
+   "id": "u4572",
+   "en": "Luis Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4573",
+   "en": "Luis Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4574",
+   "en": "Luis Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4575",
+   "en": "Luis Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4576",
+   "en": "Luis Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4577",
+   "en": "Luis Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4578",
+   "en": "Luis Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4579",
+   "en": "Luis Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4580",
+   "en": "Luis Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4581",
+   "en": "Luis Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4582",
+   "en": "Luis Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4583",
+   "en": "Luis Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4584",
+   "en": "Luis Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4585",
+   "en": "Luis Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4586",
+   "en": "Luis Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4587",
+   "en": "Luis Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4588",
+   "en": "Shirakawa Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4589",
+   "en": "Shirakawa Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4590",
+   "en": "Shirakawa Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  },
+  {
+   "id": "u4591",
+   "en": "Shirakawa Affinity 04",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 04."
+  },
+  {
+   "id": "u4592",
+   "en": "Shirakawa Affinity 05",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 05."
+  },
+  {
+   "id": "u4593",
+   "en": "Shirakawa Affinity 06",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 06."
+  },
+  {
+   "id": "u4594",
+   "en": "Shirakawa Affinity 07",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 07."
+  },
+  {
+   "id": "u4595",
+   "en": "Shirakawa Affinity 08",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 08."
+  },
+  {
+   "id": "u4596",
+   "en": "Shirakawa End (Male)",
+   "flags": [],
+   "notes": "Ending, male player version."
+  },
+  {
+   "id": "u4597",
+   "en": "Shirakawa End (Female)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ending, female player version. Width 151px vs 140px estimate from the Japanese; the same table has entries estimated up to 210px, so left uncompressed."
+  },
+  {
+   "id": "u4598",
+   "en": "Shirakawa Affinity 1 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4599",
+   "en": "Shirakawa Affinity 1 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 1, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4600",
+   "en": "Shirakawa Affinity 2 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4601",
+   "en": "Shirakawa Affinity 2 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 2, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4602",
+   "en": "Shirakawa Affinity 3 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4603",
+   "en": "Shirakawa Affinity 3 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 3, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4604",
+   "en": "Shirakawa Affinity 4 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4605",
+   "en": "Shirakawa Affinity 4 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 4, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4606",
+   "en": "Shirakawa Affinity 5 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4607",
+   "en": "Shirakawa Affinity 5 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 5, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4608",
+   "en": "Shirakawa Affinity 6 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4609",
+   "en": "Shirakawa Affinity 6 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 6, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4610",
+   "en": "Shirakawa Affinity 7 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4611",
+   "en": "Shirakawa Affinity 7 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 7, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4612",
+   "en": "Shirakawa Affinity 8 Miss 1",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 1."
+  },
+  {
+   "id": "u4613",
+   "en": "Shirakawa Affinity 8 Miss 2",
+   "flags": [],
+   "notes": "Affinity level 8, miss (hazure) variant 2."
+  },
+  {
+   "id": "u4614",
+   "en": "Hilda Affinity 01",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 01."
+  },
+  {
+   "id": "u4615",
+   "en": "Hilda Affinity 02",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 02."
+  },
+  {
+   "id": "u4616",
+   "en": "Hilda Affinity 03",
+   "flags": [],
+   "notes": "Affinity (yuukoudo, glossary provisional) event no. 03."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "Width warnings left on short labels: the check estimates each row's box from its own Japanese width, but these are list entries of one table (event titles up to 210px, places up to 223px estimated). Overs are flagged uncertain with the numbers in notes; nothing exceeds 191px.",
+   "Event-title patterns: 'X 01' (character event), 'X Jealousy', 'X Jealousy (Guy)' (tai-otoko-you: the rival is male, verified from ext_kgr_003/004), 'X Affinity 01' (yuukoudo = Affinity, glossary provisional), 'X End (Male/Female)' (player-gender version), 'X Affinity N Miss M' (hazure = miss variant). Slice 41 continues the same series (Klan) and should use the same wording.",
+   "u4323/u4324 'Zentran-Size Tank': the tank Klan uses to return to Zentradi size (zentora-ka); no glossary term (glossary has 'micronize' for the reverse).",
+   "u4329 'Deep Akihabara' (shin-Akihabara written with the kanji for deep); u4332 'Folmo' (same katakana as Exsedol Folmo's surname; a shopping spot); u4351 'Sky Gate' (a concert venue in the campus text): not in the glossary.",
+   "u4350 'Seidokan' (read as sei-dou-kan): not used anywhere in the campus scripts, reading unverified.",
+   "u4493-u4500, u4508-u4509: grades yuu/ka rendered 'Excellent'/'Pass'.",
+   "Places with 'mae' (in front of) rendered 'Outside X'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Deep Akihabara (u4329)",
+   "Folmo (u4332, shopping spot)",
+   "Seidokan (u4350)",
+   "Sky Gate (u4351, concert venue)",
+   "Zentran-Size Tank (u4323/u4324)",
+   "San Francisco Area / Shibuya Area (u4326/u4328, Frontier districts)"
+  ],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,466 @@
+{
+ "slice": 309,
+ "rows_in_slice": 75,
+ "rows_examined": 75,
+ "rows": [
+  {
+   "id": "c22271",
+   "en": "(Okay, classes are over,\nso I guess I'll head home soon.)",
+   "flags": [],
+   "notes": "x6, also scd_fes_813 (both genders)."
+  },
+  {
+   "id": "c22272",
+   "en": "Hey, \\p.\nWhat do you think you're doing, heading home?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22273",
+   "en": "Huh? Was there something, Gary-sensei?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22274",
+   "en": "You've completely forgotten, haven't you...\nYour career plan survey is due today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22275",
+   "en": "Ah!? Oh, right...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22276",
+   "en": "I'm sorry... Gary-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22277",
+   "en": "Geez, I bet you lost the form too.\nIt's too much of a pain, so just tell me out loud.",
+   "flags": [],
+   "notes": "koutou (the script writes it with the wrong kanji): answer orally."
+  },
+  {
+   "id": "c22278",
+   "en": "You're only a second-year, so it doesn't have\nto be all that clear-cut a career path.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22279",
+   "en": "Let's see...\nJoin a military like the New U.N. Forces or S.M.S.\nand take the path of a \"soldier\"...",
+   "flags": [],
+   "notes": "gunjin rendered \"soldier\" throughout this scene, minkanjin \"civilian\"."
+  },
+  {
+   "id": "c22280",
+   "en": "Or stay out of the military, aim for college,\nand take the path of a \"civilian\"...",
+   "flags": [],
+   "notes": "Shared with scd_fes_813 where Hilda says it; works for both."
+  },
+  {
+   "id": "c22281",
+   "en": "So, which'll it be?",
+   "flags": [],
+   "notes": "Dotchika erabe? Gary asking the player to pick."
+  },
+  {
+   "id": "c22282",
+   "en": "(That seems way too rough-and-ready, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22283",
+   "en": "Uh, well, I'd say...",
+   "flags": [],
+   "notes": "Male only (both occurrences); female twin is c22298."
+  },
+  {
+   "id": "c22284",
+   "en": "I want the \"soldier\" path",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22285",
+   "en": "I want the \"civilian\" path",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22286",
+   "en": "All right, the \"soldier\" path it is.\nI'll fill in the form and hand it in for you,\nso don't worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22287",
+   "en": "And don't you forget to hand it in next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22288",
+   "en": "Yes, sir... I'm sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22289",
+   "en": "(A career plan, huh...\nI wonder what's waiting for me in the future?)",
+   "flags": [],
+   "notes": "x6, male in scd_com_510 and scd_fes_813."
+  },
+  {
+   "id": "c22290",
+   "en": "All right, the \"civilian\" path it is.\nI'll fill in the form and hand it in for you,\nso don't worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22291",
+   "en": "Okay, \"soldier\" works for you, right?\nThere, decided!",
+   "flags": [],
+   "notes": "Gary decides for the player in this branch."
+  },
+  {
+   "id": "c22292",
+   "en": "...Huh?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22293",
+   "en": "Call it a hunch, but I think you're cut out to be\na soldier. So I'm putting down \"soldier.\"\nGot a problem with that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22294",
+   "en": "N-no, that's fine...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22295",
+   "en": "(I was going to say \"soldier\" anyway,\nso it's not really a problem, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22296",
+   "en": "Well, like I said, you're still only a second-year.\nYou've still got time to think about what\nyou want to do. Give it some real thought.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22297",
+   "en": "I'm sorry...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22298",
+   "en": "Uh, well, I'd say...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22299",
+   "en": "(A career plan, huh...\nI wonder what's waiting for me in the future?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22300",
+   "en": "(Sigh~ Who'd have thought the last day of summer\nbreak would turn into EX-Gear joint training\nfor the whole Pilot Course...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22301",
+   "en": "(Well, the new term starts tomorrow, so I guess\nit was just right for shaking off the summer daze.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22302",
+   "en": "(Yeah! I'm about to be a second-year too,\nso I'd better get my head in the game!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22303",
+   "en": "Hey, \\p.\nWhat's got you all tensed up?",
+   "flags": [],
+   "notes": "Katahiji haru: being stiff/tense; shared male/female."
+  },
+  {
+   "id": "c22304",
+   "en": "Hey, Alto.\nStarting tomorrow, we're getting underclassmen too,\nso I figured I should act more like an upperclassman.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22305",
+   "en": "That's stupid.\nWho needs underclassmen anyway?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22306",
+   "en": "What are you talking about, Alto?\nWe're finally getting underclassmen.\nYou should take them under your wing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22307",
+   "en": "I couldn't care less.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22308",
+   "en": "I bet before long...\nyou'll have underclassmen adoring you, like\n\"Big Sis Alto, you're so dreamy~!\"",
+   "flags": [],
+   "notes": "Alto onee-sama: kinship word translated (\"Big Sis Alto\"), schoolgirl-crush joke at Alto, who played female roles."
+  },
+  {
+   "id": "c22309",
+   "en": "(I could actually see that happening with Alto...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22310",
+   "en": "Michael...! You bastard!",
+   "flags": [],
+   "notes": "Alto calls him Mihaeru: \"Michael\" per glossary."
+  },
+  {
+   "id": "c22311",
+   "en": "Geez, Princess Alto really\ncan't take a joke, can she?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22312",
+   "en": "Joke or not, don't call me princess!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22313",
+   "en": "Honestly, those two never change, do they?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22314",
+   "en": "Haha, yeah.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22315",
+   "en": "Still, I've been watching Alto and Michel go\nthrough the same back-and-forth for almost\na year now...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22316",
+   "en": "Looking back on it like this,\nthis year really felt like it flew by.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22317",
+   "en": "That probably just means\nit was a really full year.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22318",
+   "en": "Yeah, maybe...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22319",
+   "en": "But I think that's because I had Alto\nand you guys around...\nSeriously, thanks for this past year...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22320",
+   "en": "Geez, what kind of embarrassing stuff\nare you saying, \\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22321",
+   "en": "Haha, it is a little embarrassing.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22322",
+   "en": "How can you say that without even blushing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22323",
+   "en": "Wh-what?!\nHere I go to the trouble of thanking you guys...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22324",
+   "en": "Haha, don't get so down about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22325",
+   "en": "Anyway, we're counting on you from here on too.",
+   "flags": [],
+   "notes": "Michel to the player."
+  },
+  {
+   "id": "c22326",
+   "en": "Please keep looking out for us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22327",
+   "en": "......I'm counting on you.",
+   "flags": [],
+   "notes": "Alto, curt: \"yoroshiku tanomu\" given its subject."
+  },
+  {
+   "id": "c22328",
+   "en": "Yeah!\nAnd I'm counting on you guys too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22329",
+   "en": "(I hope I can spend another fun year with Alto\nand the others, now that I'm a second-year.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22330",
+   "en": "(Still, today's joint training\ndidn't feel all that tough...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22331",
+   "en": "(I guess this past year has toughened me up\nin body and mind too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22332",
+   "en": "(Sigh~ Who'd have thought the last day of summer\nbreak would turn into EX-Gear joint training\nfor the whole Pilot Course...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22333",
+   "en": "(Well, the new term starts tomorrow, so I guess\nit was just right for shaking off the summer daze.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22334",
+   "en": "(Yeah! I'm about to be a second-year too,\nso I'd better get my head in the game!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22335",
+   "en": "Saotome-kun.\nStarting tomorrow, we're getting underclassmen too,\nso I figured I should act more like an upperclassman.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22336",
+   "en": "(I could totally see that happening\nwith Saotome-kun...)",
+   "flags": [],
+   "notes": "Female version of c22309."
+  },
+  {
+   "id": "c22337",
+   "en": "Haha, yeah.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22338",
+   "en": "Still, I've been watching Saotome-kun and\nMichel-kun go through the same back-and-forth\nfor almost a year now...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22339",
+   "en": "Looking back on it like this,\nthis year really felt like it flew by.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22340",
+   "en": "Yeah, maybe...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22341",
+   "en": "But I think that's because I had Saotome-kun\nand you guys around...\nSeriously, thank you for this past year...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22342",
+   "en": "Wh-what?!\nHere I go to the trouble of thanking you guys...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22343",
+   "en": "Yeah!\nAnd I'm counting on you guys too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22344",
+   "en": "(I hope I can spend another fun year with\nSaotome-kun and the others, now that\nI'm a second-year.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22345",
+   "en": "(I guess this past year has toughened me up\nin body and mind too.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c22284/c22285 (choices): gunjin / minkanjin as 'soldier' / 'civilian', quoted as in the Japanese brackets.",
+   "c22308: 'Alto onee-sama' rendered 'Big Sis Alto' (kinship word translated per brief)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

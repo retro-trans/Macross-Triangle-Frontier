@@ -1,0 +1,429 @@
+{
+ "slice": 218,
+ "rows_in_slice": 65,
+ "rows_examined": 65,
+ "rows": [
+  {
+   "id": "c15925",
+   "en": "(The guy who came as Ranka's bodyguard...\nWith that blank face, I can never tell\nwhat he's thinking...)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15926",
+   "en": "Hey.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15927",
+   "en": "(He just stands at the back of the room\nwith a blank face all through class,\nso everyone's kind of on edge...)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15928",
+   "en": "Hey. You there.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15929",
+   "en": "Huh!\nM-Me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15930",
+   "en": "Yes. I hear you're close to Ranka.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15931",
+   "en": "Oh, yes, we get along really well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15932",
+   "en": "I see...\nThen there's no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15933",
+   "en": "(Um... Did he stop me\njust to ask me that?)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Name plate says Brera, but the line is the male player's inner monologue (brackets, boku); translated as the player's thought."
+  },
+  {
+   "id": "c15934",
+   "en": "However...!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15935",
+   "en": "If you ever hurt Ranka,\nI will eliminate you that very instant!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15936",
+   "en": "Remember that, if nothing else.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15937",
+   "en": "(Wh-What on earth was that just now...\nIs that part of a bodyguard's job too?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15938",
+   "en": "(Hmm... Come to think of it, I feel like\nsomething like this happened before...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15939",
+   "en": "(The guy who came as Ranka-chan's bodyguard...\nWith that blank face, I can never tell\nwhat he's thinking...)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15940",
+   "en": "Huh!\nM-Me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15941",
+   "en": "(Um... Did he stop me\njust to ask me that?)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Name plate says Brera, but the line is the female player's inner monologue (brackets, watashi); translated as the player's thought."
+  },
+  {
+   "id": "c15942",
+   "en": "(Wh-What on earth was that just now...\nIs that part of a bodyguard's job too?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15943",
+   "en": "(Summer vacation, huh...\nWhat should I do this summer...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15944",
+   "en": "Hello, \\p-kun.\nIt's hot again today, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15945",
+   "en": "Sure is... *sigh*",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15946",
+   "en": "You seem kind of low on energy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15947",
+   "en": "Ahaha... The summer heat's getting to me...\nYou look full of energy, Senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15948",
+   "en": "You've got to cut loose in summer at least,\nyou know?",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15949",
+   "en": "...Okaaay.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15950",
+   "en": "(Senpai looks so cool, like the heat\ndoesn't even touch her.)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15951",
+   "en": "Hello, \\p-chan.\nIt's hot again today, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15952",
+   "en": "(Senpai sure is full of energy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15953",
+   "en": "(In a month, I'll get to meet the Galactic Fairy\nherself. Seriously, it's like a dream...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15954",
+   "en": "What's got you so excited,\n\\p-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15955",
+   "en": "Claire-senpai!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15956",
+   "en": "Are you going to Sheryl's concert, Senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15957",
+   "en": "I wanted to, but I couldn't get a ticket.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15958",
+   "en": "Are you going?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15959",
+   "en": "...Actually, I'm going to be doing\nan EX-Gear stunt there.",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15960",
+   "en": "...Wow, that's amazing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15961",
+   "en": "I'm going to give it everything I've got.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15962",
+   "en": "Good luck. I'll be cheering for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15963",
+   "en": "(I can't wait for the concert!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15964",
+   "en": "(In a month, I'll get to meet the Galactic Fairy\nherself. Seriously, it's like a dream...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15965",
+   "en": "What's got you so excited,\n\\p-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15966",
+   "en": "Are you going to Sheryl's concert, Senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15967",
+   "en": "(I can't wait for the concert!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15968",
+   "en": "(Looks like everyone's finally settling down...\nI guess finding a destination really makes\na difference.)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15969",
+   "en": "Oh, \\p-kun.\nHave you been well?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15970",
+   "en": "Yes, more or less.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15971",
+   "en": "A new planet's been found,\nand you're awfully calm about it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15972",
+   "en": "I'm excited too, you know!\nIt's just that I don't know what I should do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15973",
+   "en": "I know.\nIt's all still way too vague to make sense of.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15974",
+   "en": "Well, let's figure it out together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15975",
+   "en": "(Looks like everyone's finally settling down...\nI wonder if finding a destination really makes\nthat much of a difference.)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15976",
+   "en": "\\p-chan,\nhave you been well?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15977",
+   "en": "Yes, pretty well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15978",
+   "en": "I'm excited too, you know!\nIt's just that I don't know what I should do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15979",
+   "en": "(...It's the middle of the night,\nbut I'm getting hungry...)",
+   "flags": [
+    "reflow"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c15980",
+   "en": "For a midnight snack, cup ramen's the way to go.\n...Huh, who's that over there...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15981",
+   "en": "Claire-senpai, what are you doing...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15982",
+   "en": "Y-You must have the wrong person.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15983",
+   "en": "There's no way I'd mistake you.\nAre you restocking on late-night snacks too, Senpai?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15984",
+   "en": "Th-That's not it, okay? I did not buy any cake!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15985",
+   "en": "I'm telling you, I didn't buy any!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15986",
+   "en": "(So she bought cake.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15987",
+   "en": "For a midnight snack, cup ramen's the way to go~\n...Huh, who's that over there...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15988",
+   "en": "Claire-senpai, what are you doing?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c15989",
+   "en": "(So she bought cake.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c15933/c15941: name plate in the script is Brera, but the text is the player's bracketed inner monologue (boku/watashi); translated as the player's thought. Worth checking in game.",
+   "c15938 (shared m/f): \"something like this happened before\" presumably alludes to Ozma's similar warning in another scene; kept vague as in the Japanese.",
+   "c15953/c15964: \"meet the Galactic Fairy\" (Sheryl, glossary title); a month before the concert where the player does an EX-Gear stunt (c15959)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

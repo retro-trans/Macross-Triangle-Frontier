@@ -1,0 +1,394 @@
+{
+ "slice": 225,
+ "rows_in_slice": 63,
+ "rows_examined": 63,
+ "rows": [
+  {
+   "id": "c16389",
+   "en": "(Alright, I brought a packed lunch today!)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16390",
+   "en": "Ooh! You've got something tasty-looking there!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16391",
+   "en": "Geez...\nStudents eating better than their teachers...\nThe world's going to the dogs.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16392",
+   "en": "Oh, would you like one?",
+   "flags": [],
+   "notes": "Male scene. Offering one piece of the lunch."
+  },
+  {
+   "id": "c16393",
+   "en": "You idiot!\nA teacher can't go accepting handouts from a student!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16394",
+   "en": "Oh, sorry. Then I'll just...",
+   "flags": [],
+   "notes": "Male scene. Trails off; Gary cuts in."
+  },
+  {
+   "id": "c16395",
+   "en": "Well, if you insist that much,\nI guess I could take some.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16396",
+   "en": "Mm, this rolled omelet's not bad.\nNow, let's try that fried chicken too...",
+   "flags": [],
+   "notes": "Shared male/female. tamagoyaki, karaage."
+  },
+  {
+   "id": "c16397",
+   "en": "Ah!? Wha!? No way...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16398",
+   "en": "Phew, not half bad, that lunch of yours.\nSee ya!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16399",
+   "en": "(Gary-sensei...\nOne way or another, he ate about half of it...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16400",
+   "en": "(Yay, I brought a packed lunch today!)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16401",
+   "en": "Want to try a little of this?",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16402",
+   "en": "Oh, I'm sorry. Then I'll just...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16403",
+   "en": "(Gary-sensei...\nOne way or another, he ate half of it...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16404",
+   "en": "(Okay, classes are finally over.\nGuess I'll head home.)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16405",
+   "en": "Hey, \\p!\nGood timing running into you.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16406",
+   "en": "Oh, Gary-sensei. What's up?",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16407",
+   "en": "I was just needing an extra pair of hands.\nCome with me a sec.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16408",
+   "en": "So here's the deal. I'd like you to service\nall 20 of these EX-Gear units here.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16409",
+   "en": "Um, that many is really a bit much...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16410",
+   "en": "...Yeah, figured.\nOh well, you can go home, then!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16411",
+   "en": "Nah, I can just leave it to a contractor anyway.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16412",
+   "en": "Huh? Then why not do that from the start...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16413",
+   "en": "You idiot, then the contracting fee would...\nOops...",
+   "flags": [],
+   "notes": "Shared male/female. He lets slip something about the contracting fee and stops."
+  },
+  {
+   "id": "c16414",
+   "en": "Huh? Sensei? What was that?",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16415",
+   "en": "You idiot! I said that's enough, just go home!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16416",
+   "en": "(How serious was Gary-sensei, anyway...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16417",
+   "en": "(Alrighty, classes are finally over.\nTime to head home.)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16418",
+   "en": "Oh, Gary-sensei. What is it?",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16419",
+   "en": "Umm... that many is really a bit much...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16420",
+   "en": "But if that's the case, then from the start...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16421",
+   "en": "Huh? Sensei? Contracting fee?",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16422",
+   "en": "(I wonder how serious Gary-sensei was...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16423",
+   "en": "(What a surprise. Who'd have thought\nthe \"Galactic Fairy\" Sheryl Nome\nwould transfer to Mihoshi...)",
+   "flags": [],
+   "notes": "x4: also nml_she_017 (both variants)."
+  },
+  {
+   "id": "c16424",
+   "en": "Hey, \\p.\nCome over here a sec...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16425",
+   "en": "Huh? What is it, Gary-sensei?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16426",
+   "en": "Since Sheryl came to Mihoshi, the whole Academy\nhas been in a tizzy. You've noticed that too, right?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16427",
+   "en": "Well, she IS the Galactic Fairy.\nIsn't that kind of unavoidable?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16428",
+   "en": "You idiot!\nYou didn't come to Mihoshi\nto goof off, did you?!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16429",
+   "en": "You all came to Mihoshi to become experts,\ndidn't you? And yet just because Sheryl\ntransferred here, you're all getting carried away...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16430",
+   "en": "(Gary-sensei...)",
+   "flags": [],
+   "notes": "x4: also scd_com_824 (both variants)."
+  },
+  {
+   "id": "c16431",
+   "en": "...You're right.\nI guess I got a little carried away too.",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16432",
+   "en": "So I never forget why I came here,\nplease keep drilling me hard from now on,\nGary-sensei!!",
+   "flags": [],
+   "notes": "Shared male/female. shoshin: original resolve."
+  },
+  {
+   "id": "c16433",
+   "en": "Heh, as long as you understand.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16434",
+   "en": "(Gary-sensei really is a teacher after all.\nI'm kind of moved.)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16435",
+   "en": "...So, go tell Sheryl's manager, the rumored\nbeauty, that there's a teacher here who cares\nthis much about his students. Casually, now.",
+   "flags": [],
+   "notes": "Shared male/female. The manager is not named here; Grace is female per the glossary, but the line needs no pronoun."
+  },
+  {
+   "id": "c16436",
+   "en": "Heh heh, with this, even Sheryl's manager\nwill notice my charms......",
+   "flags": [],
+   "notes": "Shared male/female. manejaa-san: -san on a job title, dropped as in c23350."
+  },
+  {
+   "id": "c16437",
+   "en": "(I was an idiot to be moved by Gary-sensei...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16438",
+   "en": "...You're right.\nI guess I got a little carried away too.",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16439",
+   "en": "(I was an idiot to be moved by Gary-sensei...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16440",
+   "en": "(Summer vacation's finally half over.\nWhat should I do with the second half...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16441",
+   "en": "Hm, \\p, what's the matter?\nWhy such a grave look...?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16442",
+   "en": "Oh, it's nothing that serious, but...\nI was just wondering how to spend\nthe rest of summer vacation...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16443",
+   "en": "All I can tell you is to spend it\nhowever you like.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16444",
+   "en": "Huh? Sensei, that's...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16445",
+   "en": "It would be pointless for me to force anything\non you. Find it yourself. Consider that one\nof your assignments.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16446",
+   "en": "Y-yes!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16447",
+   "en": "At school you only ever do what you're told.\nSo at least over summer vacation, think and\ndecide things for yourself. Understood?!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16448",
+   "en": "(Hilda-sensei is weirdly convincing...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16449",
+   "en": "(Summer vacation's finally half over.\nWhat should I do with the rest...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16450",
+   "en": "Oh, it's nothing that serious, but...\nI was just wondering how I should spend\nthe rest of summer vacation...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16451",
+   "en": "(Whatever Hilda-sensei says,\nshe's weirdly convincing...)",
+   "flags": [],
+   "notes": "Female scene."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c16413/c16421: Gary's slip about the contracting fee (itaku ryoukin) is left as vague as the Japanese.",
+   "c16436: manejaa-san rendered 'Sheryl's manager' without -san, as in finished line c23350."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

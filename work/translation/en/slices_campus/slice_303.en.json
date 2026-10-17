@@ -1,0 +1,493 @@
+{
+ "slice": 303,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c21803",
+   "en": "Luis-san,\nhere's some Valentine's chocolate for you.",
+   "flags": [],
+   "notes": "Female player to Luis."
+  },
+  {
+   "id": "c21804",
+   "en": "Whoa, that's right, today's Valentine's Day, huh?\nIn that case, I'll gratefully accept this!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21805",
+   "en": "You might be fine with that, but my soul won't\nstand for it! You just look forward to White Day!",
+   "flags": [],
+   "notes": "Answers the player's 'you don't have to give anything back' (c21795, shared row)."
+  },
+  {
+   "id": "c21806",
+   "en": "O-okay... Then I'll look forward to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21807",
+   "en": "(I'm glad I managed to give Luis-san the chocolate.\nI wonder what he'll give me back on White Day?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21808",
+   "en": "(I feel bad for Luis-san, but it's just too\nembarrassing. I can't give him the chocolate...)",
+   "flags": [],
+   "notes": "x2: Valentine year 1 and year 2 versions."
+  },
+  {
+   "id": "c21809",
+   "en": "Oh, \\p-kun!\nYou came at just the right time.",
+   "flags": [],
+   "notes": "x3: Shirakawa, Akimizu, Nanase."
+  },
+  {
+   "id": "c21810",
+   "en": "Morning, Shirakawa.\nDid you need me for something?",
+   "flags": [],
+   "notes": "Male player."
+  },
+  {
+   "id": "c21811",
+   "en": "Yes. Today's Valentine's Day, so I wanted\nto give some chocolate to you, \\p-kun,\nfor always being such a good friend.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21812",
+   "en": "Huh?! You're giving me chocolate?\nThanks, Shirakawa!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21813",
+   "en": "Oh, no, it's really nothing special...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21814",
+   "en": "Obligation chocolate or not, I'm happy\nto get chocolate from you, Shirakawa.",
+   "flags": [],
+   "notes": "Giri choco = 'obligation chocolate' (as slice 337)."
+  },
+  {
+   "id": "c21815",
+   "en": "R-really...?\nThen I'm really glad I gave it to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21816",
+   "en": "Thanks, I'll really enjoy it.",
+   "flags": [],
+   "notes": "x6: the male player accepting chocolate (Shirakawa, Akimizu, Pinon, Nanase, Ranka, Sheryl)."
+  },
+  {
+   "id": "c21817",
+   "en": "Okay. Well then, shall we head to class?",
+   "flags": [],
+   "notes": "x3: Shirakawa, Akimizu, Nanase."
+  },
+  {
+   "id": "c21818",
+   "en": "(Even if it's just obligation chocolate, I'm so\nglad I got some. I'd better make sure to pay\nit back properly on White Day.)",
+   "flags": [],
+   "notes": "x7: male player's monologue after several givers."
+  },
+  {
+   "id": "c21819",
+   "en": "Oh, \\p.\nYou've come at just the right time.",
+   "flags": [],
+   "notes": "x5: Hilda, Pinon, Klan (Valentine) and Alto, Michel (White Day)."
+  },
+  {
+   "id": "c21820",
+   "en": "Good morning, Hilda-sensei.\nDid you need me for something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21821",
+   "en": "Yes. It's Valentine's Day today, so I figured\nI'd give you some chocolate, seeing how hard\nyou work every day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21822",
+   "en": "Huh?! You're giving me chocolate?\nThank you so much, Hilda-sensei!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21823",
+   "en": "It's nothing special.\nDon't get so excited.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21824",
+   "en": "Obligation chocolate or not, I'm happy\nto get chocolate from you, Hilda-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21825",
+   "en": "Hm, is that so?\nThen I'm glad I gave it to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21826",
+   "en": "Thank you very much. I'll really enjoy it.",
+   "flags": [],
+   "notes": "x4: polite form (Hilda, Hoshimura, Claire, Klan). In the Hoshimura scene her 'iie iie' (don't mention it, c21835) answers this."
+  },
+  {
+   "id": "c21827",
+   "en": "Now, class is about to start.\nHurry to the classroom.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21828",
+   "en": "Oh, \\p!\nYou showed up at just the right time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21829",
+   "en": "Morning, Hoshimura.\nDid you need me for something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21830",
+   "en": "Yup! It's Valentine's Day today, ain't it?\nSo I figured I'd bestow some chocolate\nupon you, seeing as we're such good pals.",
+   "flags": [],
+   "notes": "Shinjou (formal 'present') rendered 'bestow' for her old-fashioned register."
+  },
+  {
+   "id": "c21831",
+   "en": "Huh?! You're giving me chocolate?\nThanks, Hoshimura!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21832",
+   "en": "It ain't anything special.\nIf you're that happy about it, you're gonna\nmake me blush...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21833",
+   "en": "Obligation chocolate or not, I'm happy\nto get chocolate from you, Hoshimura.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21834",
+   "en": "Then giving the chocolate to you\nwas exactly the right call!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21835",
+   "en": "Nah, don't mention it.\nWell then, shall we be off to class?",
+   "flags": [],
+   "notes": "Iie iie answers the player's thanks (c21826, shared row)."
+  },
+  {
+   "id": "c21836",
+   "en": "(Even if it's just obligation chocolate, I'm so\nglad I got some. I'd better make sure to pay\nit back properly on White Day.)",
+   "flags": [],
+   "notes": "x3; same text as c21818 (kana spelling differs in the Japanese)."
+  },
+  {
+   "id": "c21837",
+   "en": "(I bought chocolate for Yamashiro-sensei,\nsince he's always looking out for me, but now\nthat it's time to give it, I'm so nervous...)",
+   "flags": [],
+   "notes": "x2: year 1 and year 2 versions."
+  },
+  {
+   "id": "c21838",
+   "en": "Give Yamashiro-sensei chocolate",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c21839",
+   "en": "Don't give Yamashiro-sensei chocolate",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c21840",
+   "en": "Yamashiro-sensei,\nhere's some Valentine's chocolate for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21841",
+   "en": "Chocolate...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21842",
+   "en": "Ah, that's right. Today is Valentine's Day.\nI'll accept this gratefully.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21843",
+   "en": "I see. Having received chocolate,\nI'll have to give you something\nin return on White Day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21844",
+   "en": "I can't rest easy unless I handle these\nthings properly. I'd appreciate it if you\nwould accept without holding back.",
+   "flags": [],
+   "notes": "Answers the player's 'you don't have to give anything back' (c21795)."
+  },
+  {
+   "id": "c21845",
+   "en": "(I'm glad I managed to give Yamashiro-sensei\nthe chocolate. I wonder what he'll give me\nback on White Day?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21846",
+   "en": "(I feel bad for Yamashiro-sensei, but it's just\ntoo embarrassing. I can't give him the chocolate...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c21847",
+   "en": "Morning, Akimizu.\nDid you need me for something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21848",
+   "en": "Yes. It's Valentine's Day today, so I wanted to\ngive you some chocolate, \\p-kun,\nfor always being such a good friend.",
+   "flags": [],
+   "notes": "x2: Akimizu, Nanase."
+  },
+  {
+   "id": "c21849",
+   "en": "Huh?! You're giving me chocolate?\nThanks, Akimizu!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21850",
+   "en": "It's not anything special, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21851",
+   "en": "Obligation chocolate or not, I'm happy\nto get chocolate from you, Akimizu.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21852",
+   "en": "R-really?\nThen I'm really glad I gave it to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21853",
+   "en": "You came at just the right time.",
+   "flags": [],
+   "notes": "Claire."
+  },
+  {
+   "id": "c21854",
+   "en": "Good morning, Claire-senpai.\nDid you need me for something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21855",
+   "en": "Yes. It's Valentine's Day today, isn't it?\nSo I thought I'd give you some chocolate,\nseeing how hard you work every day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21856",
+   "en": "Huh?! You're giving me chocolate?\nThank you so much, Claire-senpai!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21857",
+   "en": "Oh, it's nothing special.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21858",
+   "en": "Obligation chocolate or not, I'm happy\nto get chocolate from you, Claire-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21859",
+   "en": "R-really?",
+   "flags": [],
+   "notes": "x4: Claire, the female player (2 scenes elsewhere), Hoshimura."
+  },
+  {
+   "id": "c21860",
+   "en": "Then I made the right call giving it to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21861",
+   "en": "Now, class is about to start.\nHurry along to the classroom.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21862",
+   "en": "Morning, Pinon-chan.\nDid you need me for something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21863",
+   "en": "It's Valentine's Day, isn't it? Since I'm nice\nenough to hang out with you all the time, I\nfigured I'd toss some chocolate your way too.",
+   "flags": [],
+   "notes": "Pinon's condescending tone (shite yatteru, kurete yarou). Tsuide ni = 'too', as an afterthought."
+  },
+  {
+   "id": "c21864",
+   "en": "Huh?! You're giving me chocolate?\nThanks, Pinon-chan!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21865",
+   "en": "It's no big deal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21866",
+   "en": "Obligation chocolate or not, I'm happy\nto get chocolate from you, Pinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21867",
+   "en": "R-really?\nThen I guess giving it to you was the right call.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21868",
+   "en": "Make sure you savor it when you eat it.\nNow, let's get to class.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21869",
+   "en": "(I bought chocolate for Saotome-kun, since\nwe get along so well, but now that it's\ntime to give it, I'm so nervous...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21870",
+   "en": "Give Saotome-kun chocolate",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c21871",
+   "en": "Don't give Saotome-kun chocolate",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c21872",
+   "en": "Here, Saotome-kun.\nSome Valentine's chocolate for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21873",
+   "en": "Valentine's...?\nOh... So that's why I got chocolate\nfrom so many people today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21874",
+   "en": "If it's for Valentine's, then I'd better make\nsure to pay you back properly on White Day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21875",
+   "en": "Saotome-kun, you don't have to\ngive me anything back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21876",
+   "en": "I know at least that much about manners.\nLook forward to White Day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21877",
+   "en": "(I'm glad I managed to give Saotome-kun\nthe chocolate. I wonder what he'll give me\nback on White Day?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21878",
+   "en": "(I feel bad for Saotome-kun, but it's just too\nembarrassing. I can't give him the chocolate...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21879",
+   "en": "(I bought chocolate for Michel-kun, since\nwe get along so well, but now that it's\ntime to give it, I'm so nervous...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c21880",
+   "en": "Give Michel-kun chocolate",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c21881",
+   "en": "Don't give Michel-kun chocolate",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c21882",
+   "en": "Here, Michel-kun.\nSome Valentine's chocolate for you.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

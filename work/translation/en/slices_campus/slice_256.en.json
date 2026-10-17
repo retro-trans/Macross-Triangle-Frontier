@@ -1,0 +1,447 @@
+{
+ "slice": 256,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c18454",
+   "en": "(...Gary-sensei made us run way too much...\nHow many kilometers did we even run...?)",
+   "flags": [],
+   "notes": "Male, nml_myk_012, inner monologue."
+  },
+  {
+   "id": "c18455",
+   "en": "\\p-kun,\ngood work today.",
+   "flags": [],
+   "notes": "Male. Miyuki, after the marathon (otsukaresama)."
+  },
+  {
+   "id": "c18456",
+   "en": "Wasn't it rough on you too, Shirakawa?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18457",
+   "en": "You mean today's marathon?",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18458",
+   "en": "Yeah. I'd think that was a brutal distance\nfor a girl.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18459",
+   "en": "It wasn't really that bad...",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18460",
+   "en": "It was good training.",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18461",
+   "en": "Well, I'm going to go get changed.\nSee you.",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18462",
+   "en": "(...Shirakawa is amazing...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18463",
+   "en": "(...Gary-sensei made us run way too much...\nI wonder how many kilometers we ran...)",
+   "flags": [],
+   "notes": "Female, inner monologue."
+  },
+  {
+   "id": "c18464",
+   "en": "\\p-san,\ngood work today.",
+   "flags": [],
+   "notes": "Female. Miyuki."
+  },
+  {
+   "id": "c18465",
+   "en": "Wasn't it rough on you too, Miyuki?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18466",
+   "en": "Yeah. I'd think that was a brutal distance\nfor us girls...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18467",
+   "en": "(...Is Miyuki secretly superhuman?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18468",
+   "en": "(...Today was the release day for the new manga.\nI almost missed buying it.)",
+   "flags": [],
+   "notes": "Male, nml_myk_013."
+  },
+  {
+   "id": "c18469",
+   "en": "Hey, Shirakawa.\nAre you out shopping too?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18470",
+   "en": "I ran out of tea leaves, so I came to buy some...",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18471",
+   "en": "So, did you find what you were looking for?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18472",
+   "en": "They're a rare kind, so it took a little\nsearching, but yes.",
+   "flags": [],
+   "notes": "Both variants, Miyuki. The trailing \"kedo\" implies she found them (the player answers \"that's good\"); \"but yes\" makes that explicit."
+  },
+  {
+   "id": "c18473",
+   "en": "Well, glad to hear it.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18474",
+   "en": "Oh, I have someone waiting for me,\nso I'll be going now.",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18475",
+   "en": "(Maybe I'll have some tea before heading home.)",
+   "flags": [],
+   "notes": "Both variants, player monologue."
+  },
+  {
+   "id": "c18476",
+   "en": "(...Today was the release day for my magazine.\nI almost missed buying it~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18477",
+   "en": "Oh, Miyuki!\nAre you out shopping too?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18478",
+   "en": "So, did you find what you were after?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18479",
+   "en": "That's great~",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18480",
+   "en": "(Swimming's next, huh... Perfect pool weather.)",
+   "flags": [],
+   "notes": "Male, nml_myk_014."
+  },
+  {
+   "id": "c18481",
+   "en": "H-hello...",
+   "flags": [],
+   "notes": "Male. Miyuki in her swimsuit, embarrassed."
+  },
+  {
+   "id": "c18482",
+   "en": "What are you getting so embarrassed about...?\nYou're making me embarrassed too...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18483",
+   "en": "P-please don't stare at me like that.",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18484",
+   "en": "Stare? Come on...\nI think that swimsuit looks pretty good on you.",
+   "flags": [],
+   "notes": "Both variants, player."
+  },
+  {
+   "id": "c18485",
+   "en": "S-stop making... sexual harassment remarks!",
+   "flags": [],
+   "notes": "Both variants, Miyuki (after \"...Huh?\")."
+  },
+  {
+   "id": "c18486",
+   "en": "That counts as sexual harassment?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18487",
+   "en": "(Girls are so hard to figure out...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18488",
+   "en": "(Swimming's next, huh... Perfect pool weather!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18489",
+   "en": "Oh, \\p-san...",
+   "flags": [],
+   "notes": "Female. Miyuki."
+  },
+  {
+   "id": "c18490",
+   "en": "Miyuki, the weather's great today!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18491",
+   "en": "Why are you embarrassed? We're both girls...\nYou're making me embarrassed too.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18492",
+   "en": "Sexual harassment?! How?!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18493",
+   "en": "(...But we're both girls...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18494",
+   "en": "(Physics is next, huh...)",
+   "flags": [],
+   "notes": "Both variants, nml_myk_015."
+  },
+  {
+   "id": "c18495",
+   "en": "H-huh...?",
+   "flags": [],
+   "notes": "Both variants, player rummaging for the homework."
+  },
+  {
+   "id": "c18496",
+   "en": "\\p-kun,\nis something wrong?",
+   "flags": [],
+   "notes": "Male. Miyuki."
+  },
+  {
+   "id": "c18497",
+   "en": "...I forgot my physics homework...",
+   "flags": [],
+   "notes": "Both variants."
+  },
+  {
+   "id": "c18498",
+   "en": "I see. That's too bad.\nYou'd better hurry and apologize to the teacher.",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18499",
+   "en": "Don't be like that...\nSorry to ask, but could I see your notes?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18500",
+   "en": "...I don't... particularly mind, but...",
+   "flags": [],
+   "notes": "Male. Miyuki."
+  },
+  {
+   "id": "c18501",
+   "en": "Yes!\nThanks, Shirakawa!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18502",
+   "en": "...Please move in closer.\nYou can't see from over there, can you?",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18503",
+   "en": "O-okay, thanks...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18504",
+   "en": "(Shirakawa smells really nice...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18505",
+   "en": "\\p-san,\nis something wrong?",
+   "flags": [],
+   "notes": "Female. Miyuki."
+  },
+  {
+   "id": "c18506",
+   "en": "Don't say that...\nPlease! Could I see your notes?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18507",
+   "en": "...Sigh... I don't mind, but...",
+   "flags": [],
+   "notes": "Female. Miyuki."
+  },
+  {
+   "id": "c18508",
+   "en": "Yes!\nThanks, Miyuki!!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18509",
+   "en": "(Miyuki has such beautiful skin...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18510",
+   "en": "Hehe...",
+   "flags": [],
+   "notes": "x4, Miyuki giggling (kusukusu) twice per variant: at the growling stomach, and before sharing her lunch. Her settled laugh \"Hehe\"."
+  },
+  {
+   "id": "c18511",
+   "en": "Sh-Shirakawa...\nDid you hear that just now?",
+   "flags": [],
+   "notes": "Male. The player's stomach growled."
+  },
+  {
+   "id": "c18512",
+   "en": "Yes. I heard a really loud growl.",
+   "flags": [],
+   "notes": "Male. Miyuki."
+  },
+  {
+   "id": "c18513",
+   "en": "Ahaha, actually I skipped breakfast...\nAnd I forgot my wallet too. I'm in a real fix.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18514",
+   "en": "That's no good. You have to eat properly,\nor it'll affect how well you learn.",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18515",
+   "en": "What about you, Shirakawa?\nDid you bring a lunch?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18516",
+   "en": "Yes. I got up this morning and made it.",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18517",
+   "en": "I'll share a little with you,\nso shall we eat together?",
+   "flags": [],
+   "notes": "Both variants, Miyuki."
+  },
+  {
+   "id": "c18518",
+   "en": "Aww... thank you...",
+   "flags": [],
+   "notes": "Both variants, player, touched."
+  },
+  {
+   "id": "c18519",
+   "en": "(Shirakawa's homemade lunch was delicious!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c18520",
+   "en": "(Lunch break at last~ I'm starving...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18521",
+   "en": "M-Miyuki...\nDid you hear that just now?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18522",
+   "en": "Yeah. I heard a really loud growl.",
+   "flags": [],
+   "notes": "Female. Miyuki (casual \"un\")."
+  },
+  {
+   "id": "c18523",
+   "en": "Ahaha, actually I skipped breakfast...\nAnd I forgot my wallet, so no lunch either...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18524",
+   "en": "What about you, Miyuki?\nDid you bring a lunch?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c18525",
+   "en": "(Miyuki's homemade lunch was delicious~)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c18472: the trailing 'kedo' (it took some searching, but...) rendered with an explicit 'but yes' (she found them), as the player's reply 'that's good' requires."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

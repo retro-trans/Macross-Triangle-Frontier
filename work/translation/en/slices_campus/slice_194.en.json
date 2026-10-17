@@ -1,0 +1,493 @@
+{
+ "slice": 194,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c14200",
+   "en": "Well then, see ya~",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14201",
+   "en": "(Haaah... Yui's wild antics\nsurprise me every single time...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14202",
+   "en": "(But it's because Yui's like that\nthat being with her is so much fun.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14203",
+   "en": "(It's almost time to meet up,\nbut I bet Hoshimura's going to be late again...)",
+   "flags": [],
+   "notes": "Male, frd_yui_002 second visit."
+  },
+  {
+   "id": "c14204",
+   "en": "...Or so you thought! Saaafe!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14205",
+   "en": "I made it in time, right? \\p?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14206",
+   "en": "Technically you're early for the meeting time...\nbut that was really cutting it close.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14207",
+   "en": "Yaaay!!\nTo celebrate Yui-san not being late,\nyou simply must treat me to soft serve!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14208",
+   "en": "What! Why?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14209",
+   "en": "Come on, come on,\ndon't worry about it and treat me~\nIn fact, be proud you get to celebrate me...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14210",
+   "en": "Whoa, stop pushing, Hoshimura!\nDon't drag me to the soft serve stand\nby force!",
+   "flags": [],
+   "notes": "Male. Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c14211",
+   "en": "Come, come, away we gooo!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14212",
+   "en": "(In the end, I really did wind up\ntreating her to ice cream...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14213",
+   "en": "(Hmm, maybe I really should rethink\nhow I deal with Hoshimura...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14214",
+   "en": "(It's almost time to meet up,\nbut I bet Yui's going to be late again...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14215",
+   "en": "Technically you're early for the meeting time...\nbut that was really cutting it close.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14216",
+   "en": "Whoa, stop pushing, Yui!\nDon't drag me to the soft serve stand\nby force!",
+   "flags": [],
+   "notes": "Female. Review: 'soft serve' unhyphenated throughout."
+  },
+  {
+   "id": "c14217",
+   "en": "(In the end, I really did wind up\ntreating her to ice cream...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14218",
+   "en": "(Hmm, maybe I really should rethink\nhow I deal with Yui...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14219",
+   "en": "(We'd be in real trouble if we got caught...)",
+   "flags": [],
+   "notes": "Male, frd_yui_003. 'We' inferred from the next lines (both sneaking in)."
+  },
+  {
+   "id": "c14220",
+   "en": "Heyyy, hurry up and get ready~\nWe've got the place all to ourselves~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14221",
+   "en": "(Sneaking into the school pool\nwithout permission...)",
+   "flags": [],
+   "notes": "Player, both genders; deliberate fragment as in the Japanese (exclamatory 'nante')."
+  },
+  {
+   "id": "c14222",
+   "en": "Isn't this kinda thrilling? It's fun!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14223",
+   "en": "Haaah...\nIt's amazing how you can just enjoy\nsomething like this, Hoshimura.",
+   "flags": [],
+   "notes": "Male; said to her (she answers)."
+  },
+  {
+   "id": "c14224",
+   "en": "Aww, flattery won't get you anything~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14225",
+   "en": "(No, I didn't exactly mean that as praise...)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14226",
+   "en": "Oh well...\nI'll stop overthinking it and just have fun......",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14227",
+   "en": "Wait, Hoshimura! What are you doing!?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14228",
+   "en": "Huh?\nWhat? I'm just changing into my swimsuit.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14229",
+   "en": "'Just changing'...?\nGo change in the locker room!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14230",
+   "en": "Who cares? There's nobody here.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14231",
+   "en": "I'M here!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14232",
+   "en": "I...\nI wouldn't mind letting you see......",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14233",
+   "en": "Wha! Huh! W-wait a sec!!\nThis is all kinds of problematic...!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14234",
+   "en": "Geez, what are you panicking about?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14235",
+   "en": "Obviously I'm wearing my swimsuit underneath!\nOh-ho? Don't tell me you were thinking\nsomething naughty?",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14236",
+   "en": "O-of course not!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14237",
+   "en": "I see...\nYou're not interested in my scrawny body,\nare you......",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14238",
+   "en": "No, that's not what I meant...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14239",
+   "en": "If I take off one more layer,\nwill you be interested in me?",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14240",
+   "en": "Huh? One more layer...?\nBut all you've got left on is your swimsuit......",
+   "flags": [],
+   "notes": "Male; said to her."
+  },
+  {
+   "id": "c14241",
+   "en": "Wha! Huh! W-wait, I said!!\nThis kind of thing should be a little more...",
+   "flags": [],
+   "notes": "Male; trails off as in the Japanese."
+  },
+  {
+   "id": "c14242",
+   "en": "Haha, you're so much fun to tease.\nSo cute~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14243",
+   "en": "(Under the swimsuit... another swimsuit...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14244",
+   "en": "Hooo~shiii~muuu~raaa~!!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14245",
+   "en": "Ahahahaha! You're mad~!\nRun for iiit~!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14246",
+   "en": "Hey, running off into the pool is a dirty trick!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14247",
+   "en": "Heh heh heh...\nIf you would catch me, change posthaste\nand come give chase!",
+   "flags": [],
+   "notes": "Hoshimura, male scene (old-fashioned kinasare)."
+  },
+  {
+   "id": "c14248",
+   "en": "If you think I'll be caught so easily,\nyou are sorely mistaken!",
+   "flags": [],
+   "notes": "Hoshimura, both genders (old-fashioned desu zo)."
+  },
+  {
+   "id": "c14249",
+   "en": "Dammit, just you wait, Hoshimura!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14250",
+   "en": "Whew~\nWe sure played to our hearts' content today.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14251",
+   "en": "(After that, we played tag in the pool\nand had swimming races, after all.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14252",
+   "en": "(Aaah, I'm totally exhausted...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14253",
+   "en": "That was a total blast. Later!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14254",
+   "en": "Bye, Hoshimura.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14255",
+   "en": "(Today was really fun.\nBut...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14256",
+   "en": "(Getting teased that much by Hoshimura...\nit's kind of frustrating...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14257",
+   "en": "(We'd be in real trouble if we got caught...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14258",
+   "en": "Haaah...\nIt's amazing how you can just enjoy\nsomething like this, Yui.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14259",
+   "en": "Oh well...\nI'll stop overthinking it and just have fun......",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14260",
+   "en": "Wait, Yui! What are you doing!?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14261",
+   "en": "'Just changing'...?\nGo change in the locker room!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14262",
+   "en": "I'M here!!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14263",
+   "en": "Wha! Huh! W-wait a minute!\nYui!!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14264",
+   "en": "Obviously I'm wearing my swimsuit underneath!",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14265",
+   "en": "Huh! Oh... r-right, of course......",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14266",
+   "en": "Geez, Yui!!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14267",
+   "en": "Hey, running off into the pool is cheating!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14268",
+   "en": "Heh heh heh...\nIf you would catch me, change posthaste\nand come give chase!",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14269",
+   "en": "Grr, just you wait, Yui!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14270",
+   "en": "(After that, we played tag in the pool\nand had swimming races too, after all.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14271",
+   "en": "(Aaah, I'm totally exhausted...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14272",
+   "en": "Bye, Yui.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14273",
+   "en": "(Today was really fun.\nBut...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14274",
+   "en": "(Getting teased that much by Yui...\nit's kind of frustrating...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14275",
+   "en": "(I snuck into the school pool with Hoshimura\nwithout permission again...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14276",
+   "en": "Heyyy, hurry up and get in the pool~\nSwimming all by myself is boring~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14277",
+   "en": "Yeah, yeah, I'm coming......",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14278",
+   "en": "Hey! Who the heck is in the pool\nwithout permission!?",
+   "flags": [],
+   "notes": "Hilda, both genders (doko no doitsu da)."
+  },
+  {
+   "id": "c14279",
+   "en": "(Crap! Hilda-sensei found us!\nWe've gotta get out of here, fast!)",
+   "flags": [],
+   "notes": "Player, both genders."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

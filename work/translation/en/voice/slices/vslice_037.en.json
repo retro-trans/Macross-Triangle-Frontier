@@ -1,0 +1,494 @@
+{
+ "slice": 37,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p__fv0/163",
+   "en": "Please keep your distance as you fight.",
+   "flags": [],
+   "notes": "Partner orders (163-174): the TF lines differ from the MUF pilots' versions; translated from the TF transcripts."
+  },
+  {
+   "id": "p__fv1/163",
+   "en": "Please keep your distance as you fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/163",
+   "en": "Keep your distance and fight!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/164",
+   "en": "Please give me covering fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/164",
+   "en": "Please give me covering fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/164",
+   "en": "Give me covering fire!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/164",
+   "en": "Please give me covering fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/164",
+   "en": "Please give me covering fire.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/164",
+   "en": "Give me covering fire, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/165",
+   "en": "Please focus on shooting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/165",
+   "en": "Please focus on shooting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/165",
+   "en": "Focus on shooting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/165",
+   "en": "Please focus on shooting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/165",
+   "en": "Please focus on shooting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/165",
+   "en": "Focus on shooting, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/166",
+   "en": "Please take it to close range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/166",
+   "en": "Please take it to close range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/166",
+   "en": "Take it to close range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/166",
+   "en": "Please take it to close range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/166",
+   "en": "Please take it to close range.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/166",
+   "en": "Take it to close range!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/167",
+   "en": "I'm leaving the front to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/167",
+   "en": "I'm leaving the front to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/167",
+   "en": "The front's all yours!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/167",
+   "en": "I'll leave the front to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/167",
+   "en": "I'll leave the front to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/167",
+   "en": "The front's all yours!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/168",
+   "en": "Please move up front!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/168",
+   "en": "Please move up front!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/168",
+   "en": "Move up front!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/168",
+   "en": "Please move up front.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/168",
+   "en": "Please move up front!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/168",
+   "en": "Move up front, will you?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/169",
+   "en": "I'll cover you. Go on the defensive!",
+   "flags": [],
+   "notes": "engo shimasu, bougyo: the player covers the partner and orders a defensive stance."
+  },
+  {
+   "id": "p__mv1/169",
+   "en": "I'll cover you. Go on the defensive!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/169",
+   "en": "I'll cover you! Go on the defensive!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/169",
+   "en": "I'll cover you! Go on the defensive!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/169",
+   "en": "I'll cover you! Go on the defensive!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/169",
+   "en": "I'll cover you! Go on the defensive!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/170",
+   "en": "Please fall back.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/170",
+   "en": "Please fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/170",
+   "en": "Fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/170",
+   "en": "Please fall back.",
+   "flags": [],
+   "notes": "Whisper flags nospeech, but the transcript matches the other voices; kept."
+  },
+  {
+   "id": "p__fv1/170",
+   "en": "Please fall back!",
+   "flags": [],
+   "notes": "Whisper flags nospeech, but the transcript matches the other voices; kept."
+  },
+  {
+   "id": "p__fv2/170",
+   "en": "Fall back!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/171",
+   "en": "Please focus on defense.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/171",
+   "en": "Please focus on defense.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/171",
+   "en": "Focus on defense.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/171",
+   "en": "Please focus on defense.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/171",
+   "en": "Please focus on defense!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/171",
+   "en": "Focus on defense, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/172",
+   "en": "Now's the time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/172",
+   "en": "Now's the time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/172",
+   "en": "Now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/172",
+   "en": "Now's your chance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/172",
+   "en": "Now's your chance!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/172",
+   "en": "Now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/173",
+   "en": "It's all yours!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/173",
+   "en": "It's all yours!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/173",
+   "en": "It's all yours!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/173",
+   "en": "I'm counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/173",
+   "en": "I'm counting on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/173",
+   "en": "I'm counting on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/174",
+   "en": "Please, do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/174",
+   "en": "Please, do it!",
+   "flags": [],
+   "notes": "Whisper flags nospeech, but the transcript matches mv0; kept."
+  },
+  {
+   "id": "p__mv2/174",
+   "en": "Do it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/174",
+   "en": "Please, do it!",
+   "flags": [],
+   "notes": "Whisper flags nospeech, but the transcript matches mv0; kept."
+  },
+  {
+   "id": "p__fv1/174",
+   "en": "Go get 'em, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/174",
+   "en": "Do it for me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/175",
+   "en": "I'm not beaten yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv1/175",
+   "en": "I'm not beaten yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/175",
+   "en": "I'm not beaten yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/175",
+   "en": "I'm not beaten yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/175",
+   "en": "I'm not beaten yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv2/175",
+   "en": "I'm not beaten yet!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv0/176",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": "Transcript makeru mono ka (written with the wrong kanji for mono); meaning unchanged."
+  },
+  {
+   "id": "p__mv1/176",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__mv2/176",
+   "en": "I won't lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv0/176",
+   "en": "There's no way I'll lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p__fv1/176",
+   "en": "There's no way I'll lose!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

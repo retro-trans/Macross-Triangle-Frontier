@@ -1,0 +1,501 @@
+{
+ "slice": 306,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c22040",
+   "en": "(Today's White Day, but I didn't get chocolate\nfrom anyone on Valentine's Day, so it's got\nnothing to do with me...)",
+   "flags": [],
+   "notes": "x2, male player."
+  },
+  {
+   "id": "c22041",
+   "en": "(Today's White Day, but I didn't give chocolate\nto anyone on Valentine's Day, so it's got\nnothing to do with me...)",
+   "flags": [],
+   "notes": "x2, female player."
+  },
+  {
+   "id": "c22042",
+   "en": "(Today's White Day... I wonder if\nKagura-kun remembered?)",
+   "flags": [],
+   "notes": "x2. Female player, who gave chocolate on Valentine's Day."
+  },
+  {
+   "id": "c22043",
+   "en": "Oh, \\p.\nYou came at just the right time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22044",
+   "en": "Morning, Kagura-kun.\nDid you need me for something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22045",
+   "en": "Well, today's White Day.\nSo I brought you a proper return gift.",
+   "flags": [],
+   "notes": "Okaeshi = the White Day return gift."
+  },
+  {
+   "id": "c22046",
+   "en": "Huh, really?",
+   "flags": [],
+   "notes": "x4: Kagura, Alto, Michel, Luca scenes."
+  },
+  {
+   "id": "c22047",
+   "en": "Sorry it's just candy, the usual return gift,\nbut I'd be glad if you'd take it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22048",
+   "en": "Thanks, Kagura-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22049",
+   "en": "It's just a return gift.\nBut I'm glad you like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22050",
+   "en": "Come on, class is starting.\nLet's hurry to the classroom.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22051",
+   "en": "(Kagura-kun actually remembered\nabout the return gift...\nThat alone makes me happy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22052",
+   "en": "(Today's White Day... I wonder if\nGary-sensei remembered?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22053",
+   "en": "Hey, \\p!\nYou showed up at just the right time!",
+   "flags": [],
+   "notes": "x5: Gary, also in male/female scenes elsewhere."
+  },
+  {
+   "id": "c22054",
+   "en": "Good morning, Gary-sensei.\nDid you need me for something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22055",
+   "en": "It's White Day, ain't it?\nSo I went and brought you a proper return gift.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22056",
+   "en": "Huh? Really?",
+   "flags": [],
+   "notes": "x4, polite form: Gary, Luis, Yamashiro scenes."
+  },
+  {
+   "id": "c22057",
+   "en": "Sorry it's just candy, the usual return gift.\nHere, take it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22058",
+   "en": "Thank you, Gary-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22059",
+   "en": "It's just a return gift.\nBut I'm glad you like it.",
+   "flags": [],
+   "notes": "x2: Gary, Alto."
+  },
+  {
+   "id": "c22060",
+   "en": "Now, class is starting.\nGet to the classroom, quick.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22061",
+   "en": "(Gary-sensei actually remembered\nabout the return gift...\nThat alone makes me happy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22062",
+   "en": "(Today's White Day... I wonder if\nLuis-san remembered?)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22063",
+   "en": "Hey there, Fresh Girl!\nYou showed up at just the right time.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Furesshu gaaru: Luis's nickname for the female player (Fresh Boy for the male). Kept in English as 'Fresh Girl'; not in the glossary."
+  },
+  {
+   "id": "c22064",
+   "en": "Good morning, Luis-san.\nDid you need me for something?",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22065",
+   "en": "It's White Day, ain't it?\nI brought you a proper return gift.",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22066",
+   "en": "Sorry it's just candy, the usual return gift,\nbut it's packed with my passion. Take it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22067",
+   "en": "Th-thank you... Luis-san.",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22068",
+   "en": "It's just a return gift.\nGlad you like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22069",
+   "en": "Now, class is starting.\nGet to the classroom and hit the books,\nFresh Girl.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x2. 'Fresh Girl' as c22063."
+  },
+  {
+   "id": "c22070",
+   "en": "(Luis-san actually remembered\nabout the return gift...\nThat alone makes me happy.)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22071",
+   "en": "(Today's White Day. I bought a return gift\nfor Shirakawa, but now that it's time\nto give it, I'm nervous...)",
+   "flags": [],
+   "notes": "x2, male player."
+  },
+  {
+   "id": "c22072",
+   "en": "(Should I give it, or shouldn't I...?\nWhat should I do?)",
+   "flags": [],
+   "notes": "x20: every male White Day return-gift scene."
+  },
+  {
+   "id": "c22073",
+   "en": "Give Shirakawa a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22074",
+   "en": "Don't give Shirakawa a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22075",
+   "en": "Shirakawa, got a minute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22076",
+   "en": "Did you need me for something, \\p-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22077",
+   "en": "It's White Day, so here's\na return gift for you...",
+   "flags": [],
+   "notes": "x7, casual form."
+  },
+  {
+   "id": "c22078",
+   "en": "...Oh, that's right.\nToday's White Day, isn't it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22079",
+   "en": "Sorry it's just candy, the usual return gift.",
+   "flags": [],
+   "notes": "x5."
+  },
+  {
+   "id": "c22080",
+   "en": "Oh, no. I'm happy enough that you\nremembered at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22081",
+   "en": "Phew, I'm glad you like it.",
+   "flags": [],
+   "notes": "x6."
+  },
+  {
+   "id": "c22082",
+   "en": "Hee hee. Let's keep getting along,\n\\p-kun.",
+   "flags": [],
+   "notes": "x3: Shirakawa, Akimizu, Nanase. Kore kara mo yoroshiku."
+  },
+  {
+   "id": "c22083",
+   "en": "Same here,\nShirakawa.",
+   "flags": [],
+   "notes": "Kochira koso yoroshiku."
+  },
+  {
+   "id": "c22084",
+   "en": "(I managed to give the return gift, and\nShirakawa was happy with it. I guess\nthat turned out well.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22085",
+   "en": "(I feel bad for Shirakawa, but it's just too\nembarrassing. I can't give her the return gift...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22086",
+   "en": "(Sigh... Guess I'll just have to eat\nthis return-gift candy myself...)",
+   "flags": [],
+   "notes": "x19."
+  },
+  {
+   "id": "c22087",
+   "en": "(Today's White Day. I bought a return gift\nfor Hilda-sensei, but now that it's time\nto give it, I'm nervous...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22088",
+   "en": "Give Hilda-sensei a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22089",
+   "en": "Don't give Hilda-sensei a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22090",
+   "en": "You need something from me, \\p?",
+   "flags": [],
+   "notes": "x3: Hilda, Pinon, Klan."
+  },
+  {
+   "id": "c22091",
+   "en": "It's White Day, so I brought you\na return gift...",
+   "flags": [],
+   "notes": "x3, polite form: Hilda, Claire, Klan."
+  },
+  {
+   "id": "c22092",
+   "en": "I see... Come to think of it,\ntoday is White Day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22093",
+   "en": "I'm sorry it's just candy,\nthe usual return gift.",
+   "flags": [],
+   "notes": "x3, polite form."
+  },
+  {
+   "id": "c22094",
+   "en": "No, the fact that you remembered\nis plenty.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22095",
+   "en": "Phew, I'm so glad you like it.",
+   "flags": [],
+   "notes": "x4, polite form (Hilda, Claire, Sheryl, Klan)."
+  },
+  {
+   "id": "c22096",
+   "en": "I'll keep drilling you hard from here on,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22097",
+   "en": "I'm counting on you,\nHilda-sensei!",
+   "flags": [],
+   "notes": "Yoroshiku onegai shimasu: the player asks Hilda to keep training them."
+  },
+  {
+   "id": "c22098",
+   "en": "(I managed to give the return gift, and\nHilda-sensei was happy with it. I guess\nthat turned out well.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22099",
+   "en": "(I feel bad for Hilda-sensei, but it's just too\nembarrassing. I can't give her the return gift...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22100",
+   "en": "(Today's White Day. I bought a return gift\nfor Hoshimura, but now that it's time\nto give it, I'm nervous...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22101",
+   "en": "Give Hoshimura a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22102",
+   "en": "Don't give Hoshimura a return gift",
+   "flags": [],
+   "notes": "Choice, x2."
+  },
+  {
+   "id": "c22103",
+   "en": "Hoshimura, got a minute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22104",
+   "en": "You need somethin' from me, \\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22105",
+   "en": "Oh, come to think of it,\ntoday's White Day, ain't it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22106",
+   "en": "Sorry it's just candy, the usual return gift.",
+   "flags": [],
+   "notes": "Gomen na (rougher than c22079); same English."
+  },
+  {
+   "id": "c22107",
+   "en": "Nah, nah, I'm just happy\nyou remembered at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22108",
+   "en": "Hee hee. Let's keep getting along,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22109",
+   "en": "Same here,\nHoshimura.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22110",
+   "en": "(I managed to give the return gift, and\nHoshimura was happy with it. I guess\nthat turned out well.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22111",
+   "en": "(I feel bad for Hoshimura, but it's just too\nembarrassing. I can't give her the return gift...)",
+   "flags": [],
+   "notes": "x2."
+  },
+  {
+   "id": "c22112",
+   "en": "(Today's White Day... I wonder if\nYamashiro-sensei remembered?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22113",
+   "en": "\\p.\nYou came at just the right time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22114",
+   "en": "Good morning, Yamashiro-sensei.\nDid you need me for something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22115",
+   "en": "Today is White Day.\nSo I brought you a proper return gift.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22116",
+   "en": "I'm sorry it's just candy, the usual return\ngift, but I'd appreciate it if you'd accept it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22117",
+   "en": "Thank you, Yamashiro-sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22118",
+   "en": "It's merely a return gift.\nIf it pleased you, that's all that matters.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c22119",
+   "en": "Now, class is starting.\nHurry to the classroom.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c22063, c22069: Luis's nickname furesshu gaaru kept as 'Fresh Girl' (capitalized, used as a name). Not in the glossary; the male counterpart in other slices is furesshu booi ('Fresh Boy')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Fresh Girl / Fresh Boy (Luis's nicknames for the player)"
+  ],
+  "unfinished": []
+ }
+}

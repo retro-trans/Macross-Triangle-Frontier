@@ -1,0 +1,405 @@
+{
+ "slice": 88,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c06494",
+   "en": "(I'm going shopping with\nYamashiro-sensei today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06495",
+   "en": "So you've come, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06496",
+   "en": "Sorry, I'm a little late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06497",
+   "en": "No matter.\nWell then, shall we go?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06498",
+   "en": "Thank you for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06499",
+   "en": "No need for thanks, but was it really all\nright for me to choose? It's a gift\nfor someone, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06500",
+   "en": "Yes. I wanted someone as knowledgeable\nas you to pick it, Sensei.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06501",
+   "en": "Hm, if that's the case, then fine...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06502",
+   "en": "Well then, I'll be heading home first.\nDon't spend all your time playing around.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06503",
+   "en": "(Today I'm going shopping\nwith Yamashiro-sensei.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06504",
+   "en": "I'm a little late. Sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06505",
+   "en": "(I'm going shopping with\nYamashiro-sensei again today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06506",
+   "en": "There you are at last, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06507",
+   "en": "Sorry I'm late!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06508",
+   "en": "Keeping your elders waiting\nis hardly commendable...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06509",
+   "en": "...The lecture can wait. Let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06510",
+   "en": "No need for thanks.\nI enjoyed myself, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06511",
+   "en": "You sure bought a lot of things.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06512",
+   "en": "Well then, I'll be heading home first.\nOnce you're home, make sure you prepare\nfor and review your lessons properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06513",
+   "en": "(I'm going shopping with\nYamashiro-sensei again today~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06514",
+   "en": "(I asked Yamashiro-sensei to let me run\nthe Battle Frontier's simulator!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06515",
+   "en": "Did I keep you waiting, \\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06516",
+   "en": "Then let's get going.\nAre you ready?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06517",
+   "en": "Hm, you fight roughly, just like Gary.\nBoldness is fine, but at this rate\nyou'll get seriously hurt someday.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06518",
+   "en": "You're not fighting alone.\nPut a little more trust in your operators\nand your wingmen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06519",
+   "en": "If you were my operator, Sensei,\nI'd be relying on you nonstop, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06520",
+   "en": "Flattery won't get you anything.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06521",
+   "en": "Now, let's tidy up and head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06522",
+   "en": "(That was another nice change of pace today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06523",
+   "en": "(I asked Yamashiro-sensei to let me run\nthe Battle Frontier's simulator.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06524",
+   "en": "Hm, you fight roughly, just like Hilda.\nBoldness is fine, but at this rate\nyou'll get seriously hurt someday.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06525",
+   "en": "If you were my operator, Sensei,\nI'd rely on you, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06526",
+   "en": "(That was another nice change of pace today~)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06527",
+   "en": "My apologies for the wait,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06528",
+   "en": "I just got here myself, so it's fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06529",
+   "en": "Looks like you've improved a little.\nYou can afford to keep an eye\non your surroundings now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06530",
+   "en": "You think so?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06531",
+   "en": "But it's at times like this that carelessness\nand openings creep in.\nKeep your focus up at all times.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06532",
+   "en": "Roger that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06533",
+   "en": "I just got here too, so don't worry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06534",
+   "en": "Aha, really?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06535",
+   "en": "(That was a good day.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06536",
+   "en": "(I'm going to see a movie with\nYamashiro-sensei today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06537",
+   "en": "Sorry to keep you waiting, \\p.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Also Kagura (frd_kgr_109) and, in frd_itk_116, Yamashiro; frd_itk_103 also reuses it mid-scene and once under an empty name plate. Kept as the plain apology."
+  },
+  {
+   "id": "c06538",
+   "en": "No, I only just got here myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06539",
+   "en": "Hm, is that so...\nThen let's head to the theater.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06540",
+   "en": "That was quite an interesting film.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06541",
+   "en": "Its approach of paying homage to past\nclassics at every turn will probably\ndivide opinion, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06542",
+   "en": "Huh? Were there parts that paid\nhomage to something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06543",
+   "en": "...Honestly, what were you even watching...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06544",
+   "en": "...Well, fine.\nI'll explain it all at length over a meal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06545",
+   "en": "That's why you went to the trouble\nof inviting me, isn't it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06546",
+   "en": "(I came to see a movie with\nYamashiro-sensei today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06547",
+   "en": "No, I only just got here myself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06548",
+   "en": "(I'm going to see a movie with\nYamashiro-sensei again today!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06549",
+   "en": "You're late, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06550",
+   "en": "S-sorry!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06551",
+   "en": "...Well, fine.\nLet's go see the movie, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06552",
+   "en": "Watching an action movie isn't bad at all.\nMovies should be entertainment,\nafter all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06553",
+   "en": "Yes, that was exhilarating!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06554",
+   "en": "But just because it's an action movie\ndoesn't mean you can watch it\nwithout thinking.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06555",
+   "en": "Then I'll explain it over a meal again today.\nLet's go, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06556",
+   "en": "(I'm going to see a movie with\nYamashiro-sensei again today.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c06557",
+   "en": "Yes, it was so thrilling and exciting!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c06537 'Sorry to keep you waiting, \\p.' is shared by Yamashiro (frd_itk_103, frd_itk_116) and Kagura (frd_kgr_109); frd_itk_103 repeats it mid-scene and once under an empty name plate after the player's 'Yes!' (looks like a script reuse; translated the same).",
+   "c06538 (player male / Luca in frd_luk_109) and c06547 (player female / Shirakawa in frd_myk_104) both 'No, I only just got here myself.'",
+   "c06498 'Thank you for today.' is also Luca's line in frd_luk_007.",
+   "c06494/c06503 also open frd_itk_115, where the 'shopping' trip turns into eating around; 'going shopping' still fits.",
+   "c06553: kibun sookai rendered 'exhilarating' to keep clear of the glossary's 'refresh' gag term."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,497 @@
+{
+ "slice": 135,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c09916",
+   "en": "Heeey, Michel-kun! Sorry to keep you waiting.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09917",
+   "en": "Come to think of it, you're never late\nfor anything, are you, Michel-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09918",
+   "en": "I see. That's Michel-kun for you.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09919",
+   "en": "(We hit all kinds of shops.\nI'm pretty worn out.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09920",
+   "en": "Wanna stop somewhere for tea, Michel-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09921",
+   "en": "Hey, Michel-kun... Are you listening?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09922",
+   "en": "(Hmm~ What's up with Michel-kun?\nLooks like he's staring hard at something...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09923",
+   "en": "Ah! Michel-kun!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09924",
+   "en": "(Geez, Michel-kun... He ditched me\nto go hit on girls...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09925",
+   "en": "(Sigh, Michel-kun's such a handful...\nOh well, I'll grab some tea by myself\nand head home.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09926",
+   "en": "(I came shopping at \"199\", but I finished\nway sooner than I expected.)",
+   "flags": [],
+   "notes": "Male. 199 in quotes as in earlier rows (c04137), although this Japanese line has none."
+  },
+  {
+   "id": "c09927",
+   "en": "(Hmm~ Going straight home seems like\na waste... I know, maybe I'll invite Michel.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09928",
+   "en": "Oh, Michel. If you're free,\nwanna come to the Shibuya Area now?",
+   "flags": [],
+   "notes": "Male. Probably a phone call."
+  },
+  {
+   "id": "c09929",
+   "en": "\\p?\nSorry, I've got a date lined up\nafter this today.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09930",
+   "en": "O-Oh, I see...",
+   "flags": [],
+   "notes": "x15, the player, many scenes; as c03261."
+  },
+  {
+   "id": "c09931",
+   "en": "With an older lady I chatted up\nin the Shibuya Area a while back...",
+   "flags": [],
+   "notes": "x2, Michel, both genders. onee-sama = 'older lady', as c09805."
+  },
+  {
+   "id": "c09932",
+   "en": "(The lady he was chatting up\nthe other day, huh...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09933",
+   "en": "Sorry, but invite me again some other time.\nSee ya.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09934",
+   "en": "(Sigh, if it's a date, I guess it can't be\nhelped. Still, Michel's success rate at\npicking up girls is seriously amazing...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09935",
+   "en": "(I came shopping at \"199\", but I finished\nway sooner than I expected.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09936",
+   "en": "(Hmm~ Going straight home seems like\na waste... I know, maybe I'll invite\nMichel-kun.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09937",
+   "en": "Oh, Michel-kun. If you're free,\nwanna come to the Shibuya Area now?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09938",
+   "en": "(The lady he was chatting up\nthe other day, huh...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09939",
+   "en": "(Sigh, if it's a date, I guess it can't be\nhelped. Still, Michel-kun's success rate\nat picking up girls is seriously amazing...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09940",
+   "en": "(Michel's supposed to help me study\ntoday, but...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09941",
+   "en": "Yo, \\p.\nRight on time.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09942",
+   "en": "Thanks for doing this today.\n...And don't go off hitting on girls\nlike last time.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09943",
+   "en": "Don't go dragging up ancient history.\nForget the past, and let's focus\non studying today.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09944",
+   "en": "Yeah, yeah.\nI'm in your hands, Michel-sensei.",
+   "flags": [],
+   "notes": "x2, both genders. Joking 'Michel-sensei'."
+  },
+  {
+   "id": "c09945",
+   "en": "Michel, got a sec? It's this part here...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09946",
+   "en": "Ah, this part. Here, you do it like this......",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09947",
+   "en": "Uh-huh, uh-huh, I see...",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09948",
+   "en": "(Michel's explanations are easy to follow,\nand they're a huge help, but...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09949",
+   "en": "(For a while now, his face has been\nweirdly close...)",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09950",
+   "en": "Are you even listening?",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09951",
+   "en": "Oh, yeah...",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09952",
+   "en": "So, since this part goes like this......",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09953",
+   "en": "(Even if he's teaching me, I don't think\nhe needs to get this close...)",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09954",
+   "en": "Michel, got a sec?",
+   "flags": [],
+   "notes": "x2, male player (frd_mcl_004, nml_mcl)."
+  },
+  {
+   "id": "c09955",
+   "en": "I feel like your face has been\nawfully close for a while now...",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09956",
+   "en": "Is it? Must be your imagination.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09957",
+   "en": "(No, it's definitely not my imagi......)",
+   "flags": [],
+   "notes": "x2, both genders. Cut off mid-word, as the Japanese."
+  },
+  {
+   "id": "c09958",
+   "en": "Waaaaaaaaaaah~~!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09959",
+   "en": "Don't 'What's wrong?' me!\nYou just blew in my ear out of nowhere!!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09960",
+   "en": "Sorry, sorry.\nYour ears are just so adorable.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09961",
+   "en": "Wha...! Huh!?\nWh-What are you saying all of a sudden!?\nMichel!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09962",
+   "en": "I'm kidding.\nMan, you're really fun to tease.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09963",
+   "en": "C'mon, let's get studying.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09964",
+   "en": "Michel!",
+   "flags": [],
+   "notes": "x2, male player (frd_mcl_004, frd_rnk)."
+  },
+  {
+   "id": "c09965",
+   "en": "Don't get so mad.\nYou'll ruin that cute face of yours.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09966",
+   "en": "Ngh!\nGeez, give me a break already......",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09967",
+   "en": "Haha, okay, okay, my bad.",
+   "flags": [],
+   "notes": "x3: Michel here (both genders); the male player to Hoshimura in frd_yui_005 (after teasing her); fits both."
+  },
+  {
+   "id": "c09968",
+   "en": "(I'm really no match for Michel...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09969",
+   "en": "(But all things considered, I'm glad\nMichel helped me study today.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09970",
+   "en": "(Michel-kun's supposed to help me study\ntoday, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09971",
+   "en": "Thanks for doing this today.\n...And don't go off hitting on girls\nlike last time.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09972",
+   "en": "Michel-kun, got a sec? It's this part here...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09973",
+   "en": "(Michel-kun's explanations are easy\nto follow, and they're a huge help, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09974",
+   "en": "Michel-kun, got a sec?",
+   "flags": [],
+   "notes": "x2, female player (frd_mcl_004, nml_mcl)."
+  },
+  {
+   "id": "c09975",
+   "en": "Kyaaaaaaaaaah~~!!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09976",
+   "en": "Don't 'What's wrong?' me!\nYou just blew in my ear out of nowhere!!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09977",
+   "en": "Wha...! Huh!?\nWh-What are you saying all of a sudden!?\nMichel-kun!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09978",
+   "en": "Michel-kun!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09979",
+   "en": "(I'm really no match for Michel-kun...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09980",
+   "en": "(But all things considered, I'm glad\nMichel-kun helped me study today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09981",
+   "en": "(Hmmm......)",
+   "flags": [],
+   "notes": "x4: the player, both genders (frd_mcl_004, scd_ciz)."
+  },
+  {
+   "id": "c09982",
+   "en": "Hm? What's with that face,\n\\p?",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09983",
+   "en": "Well, we had a quiz today, right?",
+   "flags": [],
+   "notes": "Male. shou-tesuto = quiz, as c24277."
+  },
+  {
+   "id": "c09984",
+   "en": "What, did you do that badly on it?",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09985",
+   "en": "No, the opposite.\nIt was stuff you'd taught me before, Michel,\nso I aced it. Even I was surprised.",
+   "flags": [],
+   "notes": "Male. 'solved it so well I surprised myself'."
+  },
+  {
+   "id": "c09986",
+   "en": "Well, isn't that great?\nThen again, I'm the one who taught you,\nso it's only natural.",
+   "flags": [],
+   "notes": "x2, Michel, both genders."
+  },
+  {
+   "id": "c09987",
+   "en": "(Even though he teased me the whole time\nwe studied, I understood it that well...)",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09988",
+   "en": "(I guess that just shows how good\nMichel is at teaching.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09989",
+   "en": "(Somehow that doesn't quite sit right,\nthough...)",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c09990",
+   "en": "If you want me to tutor you again, just say so.\nNext time I'll take you through it hands-on,\nevery step of the way.",
+   "flags": [],
+   "notes": "x2, Michel, both genders. tetori ashitori, teasing undertone kept."
+  },
+  {
+   "id": "c09991",
+   "en": "(Next time Michel tutors me, I'd better\nwatch out so I don't get teased...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c09992",
+   "en": "Well, we had a quiz today, right?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09993",
+   "en": "No, the opposite.\nIt was stuff you'd taught me before,\nMichel-kun, so I aced it. Even I was surprised.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09994",
+   "en": "(I guess that just shows how good\nMichel-kun is at teaching.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c09995",
+   "en": "(Next time Michel-kun tutors me, I'd better\nwatch out so I don't get teased...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c09926/c09935: '199' put in quotes as in earlier rows; this Japanese line has none.",
+   "c09928/c09937: the invitation is probably a phone call (Michel is elsewhere); wording kept neutral.",
+   "c09985/c09993: 'jibun demo bikkuri suru kurai toketa' rendered 'I aced it. Even I was surprised.'"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

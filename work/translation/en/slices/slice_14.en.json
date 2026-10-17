@@ -1,0 +1,1810 @@
+{
+ "slice": 14,
+ "rows_in_slice": 293,
+ "rows_examined": 293,
+ "rows": [
+  {
+   "id": "u1123",
+   "en": "Vajra Sub-Queen",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1124",
+   "en": "Unavailable",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tm kept after review; 3 px over the 70 px estimate; short label kept"
+  },
+  {
+   "id": "u1125",
+   "en": "Vajra Queen",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1126",
+   "en": "Giant Regult",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1127",
+   "en": "Giant Nousjadeul-Ger",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1128",
+   "en": "Giant Monster",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1129",
+   "en": "Giant Vajra",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1130",
+   "en": "Quel-Quallie",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1131",
+   "en": "Vajra homeworld guardian, the Super Dimension Cinderella. Kira☆\nShe controls the Vajra with her song",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1132",
+   "en": "EX-Gear (Civilian, Male)",
+   "flags": [],
+   "notes": "new; EX-Gear as in the Frontier anime (no glossary entry)"
+  },
+  {
+   "id": "u1133",
+   "en": "Civilian powered suit\nCapable of flight and running",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1134",
+   "en": "Formation",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1135",
+   "en": "EX-Gear (Civilian, Female)",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1136",
+   "en": "Day",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1137",
+   "en": "Evening",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1138",
+   "en": "Night",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1139",
+   "en": "New U.N. Forces",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tm kept after review; faction label 104 px vs 70 px estimate; no shorter correct form (x3)"
+  },
+  {
+   "id": "u1140",
+   "en": "Civilian",
+   "flags": [],
+   "notes": "new; faction label"
+  },
+  {
+   "id": "u1141",
+   "en": "U.N. Forces",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tm kept after review; faction label 72 px vs 56 px estimate"
+  },
+  {
+   "id": "u1142",
+   "en": "Zentradi Forces",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1143",
+   "en": "Varauta Army",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1144",
+   "en": "Vajra",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1145",
+   "en": "Anti-U.N. Forces",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1146",
+   "en": "Zolan Star Patrol",
+   "flags": [],
+   "notes": "tm revised: 'Zola Patrol' -> glossary en 'Zolan Star Patrol' (also used in u1049)"
+  },
+  {
+   "id": "u1147",
+   "en": "Poachers",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1148",
+   "en": "U.N. Forces",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "new; glossary maps both chikyuu-tougougun and tougougun to 'U.N. Forces', so this faction label reads the same as u1141"
+  },
+  {
+   "id": "u1149",
+   "en": "Mardook Forces",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1150",
+   "en": "Failed to load the save data.\nTry loading again?",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1151",
+   "en": "This game supports autosave.\nWhile autosaving, the Memory Stick⑳ access lamp\nwill flash. Do not remove the storage media or\nturn off the system during that time.",
+   "flags": [],
+   "notes": "new; circled-20 glyph kept as in the Japanese and MUF (game font draws it as the trademark sign); 'storage media' for kiroku media"
+  },
+  {
+   "id": "u1152",
+   "en": "Failed to create the folder.\nTry creating it again?",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1153",
+   "en": "Not enough free space on the storage media,\nso the folder could not be created.\nDelete save data?",
+   "flags": [],
+   "notes": "new; shape as MUF, but TF says 'storage media', not Memory Stick"
+  },
+  {
+   "id": "u1154",
+   "en": "The storage media was removed,\nso the folder could not be created.\nTry creating it again?",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1155",
+   "en": "The storage media is locked,\nso the folder could not be created.\nTry creating it again?",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1156",
+   "en": "The soundtrack folder could not be found.\nCreate it?",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1157",
+   "en": "Creating folder.\nDo not remove the storage media.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1158",
+   "en": "Returning to Top Menu.\nProceed?",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1159",
+   "en": "Itsuki Yamashiro",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1160",
+   "en": "Yuu Akimizu",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1161",
+   "en": "Claire Stanford",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1162",
+   "en": "Pinon Colette",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1163",
+   "en": "Catherine Glass",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1164",
+   "en": "Custom Color 1",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1165",
+   "en": "Custom Color 2",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1166",
+   "en": "Custom Color 3",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1167",
+   "en": "Default Color",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1168",
+   "en": "Standard Equipment",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1169",
+   "en": "Reload",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1170",
+   "en": "Fully restores ammo for all weapons.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1171",
+   "en": "Iron Wall",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1172",
+   "en": "Defense is doubled, and you no longer\nstagger when hit.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1173",
+   "en": "Flight Carnival",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1174",
+   "en": "Emits colored smoke in Fighter mode.\n○: On/Off  □: Change color",
+   "flags": [],
+   "notes": "tm revised: compressed to fit the 266 px estimate (dropped the word 'button')"
+  },
+  {
+   "id": "u1175",
+   "en": "Shock Guard",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1176",
+   "en": "Guarding an enemy melee attack\nalways parries it.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1177",
+   "en": "Reflection",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1178",
+   "en": "Reflects beam-type shots and\nnegates solid-ammo attacks.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1179",
+   "en": "Emergency Evasion",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1180",
+   "en": "Become invincible for a short time.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1181",
+   "en": "Infinite Boost",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1182",
+   "en": "The Boost Gauge is no longer consumed.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1183",
+   "en": "Missile Read",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1184",
+   "en": "Slows down enemy missiles.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1185",
+   "en": "Melee Genes",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1186",
+   "en": "You can no longer guard, but\nmelee attack power triples.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1187",
+   "en": "Covering Fire",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1188",
+   "en": "Macross Cannon gives you covering fire.",
+   "flags": [],
+   "notes": "tm revised: compressed to fit the 266 px estimate"
+  },
+  {
+   "id": "u1189",
+   "en": "Encouragement",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1190",
+   "en": "Reloads all weapons, shortens attack\nopenings, and grants brief invincibility.",
+   "flags": [],
+   "notes": "tm revised: compressed to fit the 266 px estimate"
+  },
+  {
+   "id": "u1191",
+   "en": "Attack power, speed and boost capacity\nincrease 1.5x.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1192",
+   "en": "Bombing King",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1193",
+   "en": "All weapons carry 1.5x ammo.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1194",
+   "en": "Legendary Elixir",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1195",
+   "en": "Restores HP to you and allies around\nyou, and revives any that were shot down.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1196",
+   "en": "Galactic Fairy",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1197",
+   "en": "Attack power of you and your allies\nrises 1.5x, and HP gradually recovers.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1198",
+   "en": "The Last Supper",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1199",
+   "en": "Deals heavy damage to nearby enemies.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1200",
+   "en": "Kira☆",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1201",
+   "en": "Freezes enemies for an instant; you and\nnearby allies gradually recover HP.",
+   "flags": [],
+   "notes": "tm revised: compressed to fit the 266 px estimate"
+  },
+  {
+   "id": "u1202",
+   "en": "You and nearby allies\ngradually recover HP.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1203",
+   "en": "Doubles attack power for you and allies.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1204",
+   "en": "All stats of Zentradi-made weapons and\nZentradi-piloted units drop; others rise.",
+   "flags": [],
+   "notes": "tm revised: compressed to fit the 266 px estimate"
+  },
+  {
+   "id": "u1205",
+   "en": "Song of Destruction",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1206",
+   "en": "Spiritia Barrier",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1207",
+   "en": "Sivil appears in front of you and\nputs up a barrier for a set time.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1208",
+   "en": "Sharon's Temptation",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1209",
+   "en": "Swaps the up/down and left/right controls\nof every enemy unit.",
+   "flags": [],
+   "notes": "tm revised: compressed to fit the 266 px estimate"
+  },
+  {
+   "id": "u1210",
+   "en": "Max World",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1211",
+   "en": "Stops all but you and triggers an SPA.\n*Hold L when activating for no SPA",
+   "flags": [],
+   "notes": "tm revised: compressed to fit the 266 px estimate"
+  },
+  {
+   "id": "u1212",
+   "en": "First Aid",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1213",
+   "en": "Restores 50% of your HP.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1214",
+   "en": "Active Stealth",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1215",
+   "en": "Negates enemy attacks, but\nyou can no longer attack.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1216",
+   "en": "Reckless Abandon",
+   "flags": [],
+   "notes": "new; sutemi = throwing caution to the wind"
+  },
+  {
+   "id": "u1217",
+   "en": "Your HP is halved, but\nthe SP Gauge recovers 6 blocks.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1218",
+   "en": "Jamming",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1219",
+   "en": "Cancels enemy missile homing for a time.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1220",
+   "en": "Remote Rescue",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1221",
+   "en": "Revives your downed wingman.\n(Single-player Campaign only)",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1222",
+   "en": "Focus",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1223",
+   "en": "For a set time, all pilot stats become 99\nand you're invincible, but HP is halved.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1224",
+   "en": "Fan Club Cheers",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1225",
+   "en": "You become invincible for a set time,\nand all weapons' ammo is fully restored.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1226",
+   "en": "Super Scoop",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1227",
+   "en": "Freezes the lock-on target for an instant.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1228",
+   "en": "Rolling Plus",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1229",
+   "en": "In Fighter mode, roll speed rises and\nyou can roll up to 4 times in a row.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1230",
+   "en": "Clairvoyance",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1231",
+   "en": "Lock-on range doubles, and\nmulti-lock speed increases 1.5x.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1232",
+   "en": "Medic Squad",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1233",
+   "en": "When you rescue your partner,\ntheir HP is restored to 50%.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1234",
+   "en": "Missile Disposal Squad",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1235",
+   "en": "Anti-Missile Action can be used\n1.5x as many times.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1236",
+   "en": "Sabotage Squad",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1237",
+   "en": "Damage to battleships and bases doubles.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1238",
+   "en": "Combo Master",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1239",
+   "en": "Makes combos easier to chain.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1240",
+   "en": "Cheer",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1241",
+   "en": "When your HP drops to 30% or less,\nit recovers to 50%. *Once only",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1242",
+   "en": "Pineapple Cake",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1243",
+   "en": "When your HP hits 0%, it recovers and\nyou are invincible for a while. *Once only",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1244",
+   "en": "Awakening",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1245",
+   "en": "When your HP drops to 30% or less, you\nawaken, invincible for a while. *Once only",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1246",
+   "en": "Circus Flight",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1247",
+   "en": "Units that normally cannot fly\nbecome able to fly.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1248",
+   "en": "Triangler",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1249",
+   "en": "On mission clear, Affinity changes\nmore than usual.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1250",
+   "en": "Signal to Strike Back",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1251",
+   "en": "When your HP drops to 30% or less, SP\nGauge recovers 6 blocks. *Once only",
+   "flags": [],
+   "notes": "tm revised: compressed to fit the 266 px estimate"
+  },
+  {
+   "id": "u1252",
+   "en": "Boost Maniac",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1253",
+   "en": "Boost Gauge consumption drops\nto 75% of normal.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1254",
+   "en": "Sniper",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1255",
+   "en": "Your attacks ignore all types of barrier.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1256",
+   "en": "Quick Recovery",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1257",
+   "en": "In consecutive missions, HP is restored\nto 100% at the start of each mission.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1258",
+   "en": "Destroyer",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1259",
+   "en": "Boosts unit performance while\nyou pilot a Destroid.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1260",
+   "en": "Tuning Fanatic",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1261",
+   "en": "Nyan-Nyan Points earned drop to 0, but\nTune Points earned are doubled.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1262",
+   "en": "Outcast",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1263",
+   "en": "On mission clear, Affinity with each\nselected character decreases.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1264",
+   "en": "Earplugs",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1265",
+   "en": "Halves the effects of all songs.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1266",
+   "en": "Chinese Diner Regular",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1267",
+   "en": "Converts earned Tune Points\ninto Nyan-Nyan Points.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1268",
+   "en": "Full Spirit",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1269",
+   "en": "Start missions with the SP Gauge\nalready charged to 3 blocks.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1270",
+   "en": "Flying Start",
+   "flags": [],
+   "notes": "new; sutaato dasshu (start dash)"
+  },
+  {
+   "id": "u1271",
+   "en": "At 100% HP, your attack, defense\nand speed rise 1.2x.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1272",
+   "en": "Going Solo",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "new; sutando puree = grandstanding, acting alone without the team; the skill works when no wingman is out"
+  },
+  {
+   "id": "u1273",
+   "en": "With no wingman (standby/shot down),\nyour attack and defense rise 1.5x.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1274",
+   "en": "Saving",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1275",
+   "en": "Cuts SP consumption by 1 block.\n*Minimum consumption is 1 block",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1276",
+   "en": "Ace Killer",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1277",
+   "en": "Attack power vs. enemy aces (marked ☆)\nincreases 1.5x.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1278",
+   "en": "Turning Plus",
+   "flags": [],
+   "notes": "new; parallel to Rolling Plus"
+  },
+  {
+   "id": "u1279",
+   "en": "Improves turning ability.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1280",
+   "en": "Way Out of Death's Door",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "new; idiom shichi ni katsuro = finding a way out of a deadly spot"
+  },
+  {
+   "id": "u1281",
+   "en": "When your HP drops to 30% or less,\nSP Gauge recovery speed rises 1.5x.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1282",
+   "en": "Sense of Rhythm",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1283",
+   "en": "Song Weapon effects increase 1.2x.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1284",
+   "en": "Killing Blow",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1285",
+   "en": "The first melee hit deals 3x damage.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1286",
+   "en": "Defense Mastery",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1287",
+   "en": "You take no damage while guarding.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1288",
+   "en": "Supersonic Mastery",
+   "flags": [],
+   "notes": "new; onsoku no kiwami, paired with u1286"
+  },
+  {
+   "id": "u1289",
+   "en": "Boost acceleration increases 1.5x.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1290",
+   "en": "Last Stand",
+   "flags": [],
+   "notes": "new; saigo no iji = last-ditch grit"
+  },
+  {
+   "id": "u1291",
+   "en": "When your HP drops to 30% or less,\nyour attack, defense and speed rise 1.2x.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1292",
+   "en": "The operation will begin.\nProceed?",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1293",
+   "en": "Switching to wireless play.\nProceed?",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1294",
+   "en": "Training will begin.\nProceed?",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1295",
+   "en": "Moving to Era Select.\nProceed?",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1296",
+   "en": "Revert Tuning",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1297",
+   "en": "A unit that cannot sortie is selected.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1298",
+   "en": "A unit the player cannot pilot is selected.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1299",
+   "en": "A unit the partner cannot pilot is selected.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1300",
+   "en": "The player and partner cannot\nsortie as the same pilot.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1301",
+   "en": "The player and support cannot\nsortie as the same character.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1302",
+   "en": "The partner and support cannot\nsortie as the same character.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1303",
+   "en": "Switch eras with Left/Right on the D-pad\nto play the tutorials.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1304",
+   "en": "Add-on Equip. barred from this mission\nis selected. It's auto-removed on sortie.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tm revised: compressed to fit the 266 px estimate; 'is selected' moved to line 2 (same line count)"
+  },
+  {
+   "id": "u1305",
+   "en": "Opening Movie",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1306",
+   "en": "Ending Movie",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1307",
+   "en": "Macross Zero - Prologue",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1308",
+   "en": "Macross Zero - Epilogue",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1309",
+   "en": "The Super Dimension Fortress Macross - Prologue",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tm kept after review; gallery movie title over the 266 px skill-group estimate; MUF shipped the same English"
+  },
+  {
+   "id": "u1310",
+   "en": "The Super Dimension Fortress Macross - Epilogue 1",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tm kept after review; as u1309"
+  },
+  {
+   "id": "u1311",
+   "en": "The Super Dimension Fortress Macross - Epilogue 2",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tm kept after review; as u1309"
+  },
+  {
+   "id": "u1312",
+   "en": "Macross: Do You Remember Love? - Prologue",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tm kept after review; as u1309"
+  },
+  {
+   "id": "u1313",
+   "en": "Macross: Do You Remember Love? - Epilogue",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "tm kept after review; as u1309"
+  },
+  {
+   "id": "u1314",
+   "en": "Macross Plus - Prologue",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1315",
+   "en": "Macross Plus - Epilogue",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1316",
+   "en": "Macross 7 - Prologue",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1317",
+   "en": "Macross 7 - Epilogue",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1318",
+   "en": "Macross Dynamite 7 - Prologue",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1319",
+   "en": "Macross Dynamite 7 - Epilogue",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1320",
+   "en": "Macross Frontier - Prologue",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1321",
+   "en": "Macross Frontier - Epilogue",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1322",
+   "en": "Macross F Movie: False Songstress - Prologue",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "new; 284 px, over the 266 px estimate but shorter than the MUF-shipped u1310 (319 px) in the same list"
+  },
+  {
+   "id": "u1323",
+   "en": "Macross F Movie: False Songstress - Epilogue",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "new; as u1322"
+  },
+  {
+   "id": "u1324",
+   "en": "Macross II: Lovers Again - Prologue",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1325",
+   "en": "Macross II: Lovers Again - Epilogue",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1326",
+   "en": "The replay data is corrupted.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1327",
+   "en": "Loading the replay data.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1328",
+   "en": "Loading...",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1329",
+   "en": "Set as wallpaper?",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1330",
+   "en": "Clear the wallpaper setting?",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1331",
+   "en": "Clear",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1332",
+   "en": "Cloudy",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1333",
+   "en": "Rain",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1334",
+   "en": "Fog",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1335",
+   "en": "Snow",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1336",
+   "en": "Replay playback will be stopped.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1337",
+   "en": "Simon",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1338",
+   "en": "John",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1339",
+   "en": "Peter",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1340",
+   "en": "Ghost Booster",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1341",
+   "en": "VF-0 Ghost Booster",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1342",
+   "en": "Reactive Armor",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1343",
+   "en": "VF-0 Reactive Armor",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1344",
+   "en": "Twin Booster",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1345",
+   "en": "SV-51 Twin Booster",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1346",
+   "en": "Super Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1347",
+   "en": "VF-1 Super Pack (TV)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1348",
+   "en": "Armored Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1349",
+   "en": "VF-1 Armored Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1350",
+   "en": "VF-1 Super Pack (Movie)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1351",
+   "en": "Strike Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1352",
+   "en": "VF-1 Strike Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1353",
+   "en": "FAST Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1354",
+   "en": "VF-11B FAST Pack",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1355",
+   "en": "YF-19/VF-19A FAST Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1356",
+   "en": "YF-21/VF-22 FAST Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1357",
+   "en": "VF-11C FAST Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1358",
+   "en": "Full Armored",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1359",
+   "en": "VF-11 Full Armored",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1360",
+   "en": "Sound Booster",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1361",
+   "en": "VF-11MAXL Kai Sound Booster",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1362",
+   "en": "VF-17 FAST Pack",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1363",
+   "en": "VF-17T Kai Sound Booster",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1364",
+   "en": "VF-19 FAST Pack",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1365",
+   "en": "VF-19 Kai Sound Booster",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1366",
+   "en": "VF-171EX Armored Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1367",
+   "en": "VF-25 Super Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1368",
+   "en": "Tornado Pack",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1369",
+   "en": "VF-25 Tornado Pack",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1370",
+   "en": "VF-25 Armored Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1371",
+   "en": "Armored (Final Battle Spec)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1372",
+   "en": "Armored Pack (Final Battle Spec)",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1373",
+   "en": "Fold Speaker",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1374",
+   "en": "VF-25 Fold Speaker",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1375",
+   "en": "VF-25 Super Pack (Klan)",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1376",
+   "en": "Super Armed Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1377",
+   "en": "VF-2SS Super Armed Pack",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1378",
+   "en": "Booster",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1379",
+   "en": "SNN Valkyrie Booster",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1380",
+   "en": "Comm. Sync Error",
+   "flags": [],
+   "notes": "tm revised: abbreviated to fit 122 px"
+  },
+  {
+   "id": "u1381",
+   "en": "Waiting for connection.\nPress the × button to abort the battle\nand end wireless play.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1382",
+   "en": "Enjoy school life while training your character.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1383",
+   "en": "Play missions from each era.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1384",
+   "en": "Create a character and start a campaign.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1385",
+   "en": "Select the slot for the new data.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1386",
+   "en": "Continue a campaign with your created data.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1387",
+   "en": "Load save data.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1388",
+   "en": "Play Versus or Co-op with the COM.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1389",
+   "en": "Modes for wireless play.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1390",
+   "en": "View data and change settings.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1391",
+   "en": "View various data.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1392",
+   "en": "Change settings and enter passwords.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1393",
+   "en": "Configure the controls.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1394",
+   "en": "Select the player pilot.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1395",
+   "en": "Set the player pilot's age.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1396",
+   "en": "Enter the player pilot's name.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1397",
+   "en": "Finish setting up the player pilot.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1398",
+   "en": "Select the partner pilot.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1399",
+   "en": "Set the partner pilot's age.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1400",
+   "en": "Enter the partner pilot's name.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1401",
+   "en": "Finish setting up the partner pilot.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1402",
+   "en": "Confirm the character selection.",
+   "flags": [],
+   "notes": "new"
+  },
+  {
+   "id": "u1403",
+   "en": "Select an operator.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1404",
+   "en": "Select the \"Super Dimension Fortress Macross\" era.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1405",
+   "en": "Select the era of \"Macross Plus\".",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1406",
+   "en": "Select the era of \"Macross 7\".",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1407",
+   "en": "Select the era of \"Macross Frontier\".",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1408",
+   "en": "Select a mission.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1409",
+   "en": "Select the BGM to play during the mission.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1410",
+   "en": "Configure the player's settings.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1411",
+   "en": "Select the player's unit.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1412",
+   "en": "Select the part of the unit to tune.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1413",
+   "en": "Select the item to tune.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1414",
+   "en": "Select the player pilot's skill.",
+   "flags": [],
+   "notes": "tm kept after review"
+  },
+  {
+   "id": "u1415",
+   "en": "Select the unit color.",
+   "flags": [],
+   "notes": "tm kept after review"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u1124/u1139/u1141: tm faction/status labels over the UI estimate (Unavailable 73/70, New U.N. Forces 104/70, U.N. Forces 72/56); kept, no shorter correct wording",
+   "u1309-u1313, u1322-u1323: movie gallery titles over the 266 px skill-group estimate; MUF shipped u1309-u1313 at up to 320 px, so the list is likely wider; kept",
+   "u1148: chikyuu-tougougun faction label = 'U.N. Forces' per glossary, identical to u1141",
+   "u1304: 'is selected' moved from line 1 to line 2 to fit",
+   "u1272 'Going Solo' for sutando puree (grandstanding; skill triggers with no wingman)",
+   "u1280 'Way Out of Death's Door' for the idiom shichi ni katsuro",
+   "u1151/u1153-u1157: TF says 'recording media' where MUF said Memory Stick; rendered 'storage media'; the circled-20 trademark glyph kept as MUF did",
+   "u1130 Quel-Quallie: glossary status needs_research"
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "EX-Gear (u1132, u1135): used as in the Frontier anime, no glossary entry"
+  ],
+  "unfinished": []
+ }
+}

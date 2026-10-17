@@ -1,0 +1,503 @@
+{
+ "slice": 3,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u0222",
+   "en": "Bye-Bye Mars",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0223",
+   "en": "Recover the containers",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0224",
+   "en": "Rescue Lt. Hayase",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0225",
+   "en": "Keep Destroids Safe",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0226",
+   "en": "Miss Macross",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0227",
+   "en": "Blind Game",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0228",
+   "en": "Attack the enemy flagship",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0229",
+   "en": "Big Escape",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0230",
+   "en": "Reach the target point",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0231",
+   "en": "Blue Wind",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0232",
+   "en": "Destroy the enemy ship",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0233",
+   "en": "Kung Fu Dandy",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0234",
+   "en": "Defeat Queadluun",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0235",
+   "en": "Pineapple Salad",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0236",
+   "en": "Flag Crusher",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0237",
+   "en": "Burst Point",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0238",
+   "en": "Goodbye Girl",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0239",
+   "en": "Battroid Attack",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0240",
+   "en": "Clear Battroid Attack",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0241",
+   "en": "Clear Level S",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0242",
+   "en": "Virgin Road",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0243",
+   "en": "Spare Enemy Squad",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0244",
+   "en": "Spare Enemy Leader",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0245",
+   "en": "Love Drifts Away",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0246",
+   "en": "My Album",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0247",
+   "en": "Viva Maria",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0248",
+   "en": "Move to the target point",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0249",
+   "en": "Satan Doll",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0250",
+   "en": "Keep Allies Alive",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0251",
+   "en": "Broken Heart",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0252",
+   "en": "Rescue Hostages",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0253",
+   "en": "Romanesque",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0254",
+   "en": "Defend Factory",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0255",
+   "en": "Defend the Engine",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0256",
+   "en": "Farewell to Tenderness",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0257",
+   "en": "Assault",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0258",
+   "en": "Catch the civilians",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0259",
+   "en": "Catch Successfully",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0260",
+   "en": "Warera, Loli, Conda",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0261",
+   "en": "Minmay Date",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0262",
+   "en": "Capture the VT-1",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0263",
+   "en": "Capture Success",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0264",
+   "en": "Focker Forever",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0265",
+   "en": "Reach the target point",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0266",
+   "en": "Max the Genius",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0267",
+   "en": "Milia Attacks",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0268",
+   "en": "Shoot down the enemy ace",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0269",
+   "en": "Do You Remember Love?",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0270",
+   "en": "Destroy the attack target",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0271",
+   "en": "Defeat All Reinf.",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0272",
+   "en": "U.N. Forces Routine Training",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0273",
+   "en": "Deep Space",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0274",
+   "en": "Project Super Nova",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0275",
+   "en": "Hurry Hurry Hurry",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0276",
+   "en": "Collect as many targets as possible",
+   "flags": [],
+   "notes": "Same shape as u0284 (tm)."
+  },
+  {
+   "id": "u0277",
+   "en": "Run a melee combat test",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u0278",
+   "en": "Collect Targets",
+   "flags": [],
+   "notes": "Condition label."
+  },
+  {
+   "id": "u0279",
+   "en": "In the Base",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0280",
+   "en": "Destroy targets and reach the target point",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0281",
+   "en": "Destroy Half Sp. Tgts",
+   "flags": [],
+   "notes": "tm revised: 'Half Special Targets' had lost its verb (gekiha); matched to u0282 'Destroy All Sp. Tgts'."
+  },
+  {
+   "id": "u0282",
+   "en": "Destroy All Sp. Tgts",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0283",
+   "en": "Battle Arena",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0284",
+   "en": "Destroy as many enemies as possible",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0285",
+   "en": "In the Sky",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0286",
+   "en": "Destroy the bombers",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0287",
+   "en": "Eden or Hell",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0288",
+   "en": "Destroy the enemy units",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0289",
+   "en": "YF-19 Damaged",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Condition 'YF-19 damage' in the Macross Plus missions. Kept as a neutral noun phrase: it may be a goal (damage the rival) or a loss condition."
+  },
+  {
+   "id": "u0290",
+   "en": "YF-21 Damaged",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "As u0289."
+  },
+  {
+   "id": "u0291",
+   "en": "After in the Dark",
+   "flags": [],
+   "notes": "Song title (glossary songs: 'After in the dark', written in English in the source), Title Case as a mission title."
+  },
+  {
+   "id": "u0292",
+   "en": "Dogfight",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0293",
+   "en": "X-9 Ghost Damaged",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary: X-9 Ghost (Japanese order Ghost X-9). Neutral noun phrase as u0289."
+  },
+  {
+   "id": "u0294",
+   "en": "Voice of an Angel",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0295",
+   "en": "Speaker Pod",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0296",
+   "en": "Keep Guest Alive",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0297",
+   "en": "Battle Etude",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0298",
+   "en": "Spiritia Farm",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0299",
+   "en": "Collect containers / Annihilate all enemies",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0300",
+   "en": "Fold Out",
+   "flags": [],
+   "notes": "tm kept"
+  },
+  {
+   "id": "u0301",
+   "en": "Defend the device / Annihilate all enemies",
+   "flags": [],
+   "notes": "tm kept"
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u0289: Condition 'YF-19 damage' in the Macross Plus missions. Kept as a neutral noun phrase: it may be a goal (damage the rival) or a loss condition.",
+   "u0290: As u0289.",
+   "u0293: Glossary: X-9 Ghost (Japanese order Ghost X-9). Neutral noun phrase as u0289."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

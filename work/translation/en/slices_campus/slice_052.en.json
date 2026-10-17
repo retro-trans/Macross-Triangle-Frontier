@@ -1,0 +1,491 @@
+{
+ "slice": 52,
+ "rows_in_slice": 78,
+ "rows_examined": 78,
+ "rows": [
+  {
+   "id": "c03848",
+   "en": "Huh? You ask me, and that's the answer I get?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03849",
+   "en": "Ah, uh, oh, right!\nI've got something to take care of after this!\nSee you next time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03850",
+   "en": "Ah, hey, Alto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03851",
+   "en": "(Did something happen to Alto\nbefore he came to Mihoshi?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03852",
+   "en": "(Okay, I made plans with Saotome-kun today, right?\nWhere should we go...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03853",
+   "en": "Oh, Saotome-kun.\nHow about tea at \"Silver Moon\" today?\nYou were going to tell me something last time, right?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in locations.json."
+  },
+  {
+   "id": "c03854",
+   "en": "Whew, this place sure is popular\nwith Mihoshi students.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03855",
+   "en": "Hmm, it kinda feels like all the girls\nare staring over here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03856",
+   "en": "(Hmm, I can definitely feel some nasty glares, though...)",
+   "flags": [],
+   "notes": "Female version: the girls glare at the player for being with Alto."
+  },
+  {
+   "id": "c03857",
+   "en": "By the way, that \"thing you wanted to ask\"\nyou mentioned before... what was it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03858",
+   "en": "Well, you said you had \"something to ask,\"\nso I figured it was something more serious...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03859",
+   "en": "Right? For something you made such\na point of asking...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03860",
+   "en": "Hmm, let's see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03861",
+   "en": "...that's about it, I guess.",
+   "flags": [],
+   "notes": "The player's actual answer is skipped by the script."
+  },
+  {
+   "id": "c03862",
+   "en": "So what about you, Saotome-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03863",
+   "en": "Huh? You ask me, and that's the answer I get?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03864",
+   "en": "Ah, hey, Saotome-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03865",
+   "en": "(Did something happen to Saotome-kun\nbefore he came to Mihoshi?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03866",
+   "en": "(Right, I promised to have tea with Alto\nat \"Silver Moon\" again today.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in locations.json."
+  },
+  {
+   "id": "c03867",
+   "en": "Hey, Alto. Sorry to keep you waiting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03868",
+   "en": "You're late, \\p.\nDid you oversleep or something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03869",
+   "en": "I'm not THAT late.\nMaybe you just got here too early, Alto?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03870",
+   "en": "Hm, yeah, maybe so.\nAnyway, have a seat.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03871",
+   "en": "Well, guess it's about time we head home.",
+   "flags": [],
+   "notes": "Follows the previous Alto line directly: time skip over the tea."
+  },
+  {
+   "id": "c03872",
+   "en": "Yeah. See you at school.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03873",
+   "en": "(...And so we spent a nice, relaxing time.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03874",
+   "en": "(Right, I promised to have tea with Saotome-kun\nat \"Silver Moon\" again today.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in locations.json."
+  },
+  {
+   "id": "c03875",
+   "en": "Saotome-kun, sorry to keep you waiting.",
+   "flags": [],
+   "notes": "Shared by frd_alt_003, 005 and 006 (female)."
+  },
+  {
+   "id": "c03876",
+   "en": "I'm not THAT late, am I?\nMaybe you just got here too early, Saotome-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03877",
+   "en": "Yeah. See you at school.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03878",
+   "en": "(...And so we spent a nice, relaxing time.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03879",
+   "en": "(Oh, it's Alto.\nWhat's he doing out at this hour...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03880",
+   "en": "\\p?\nI could ask you the same... Eh, whatever...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03881",
+   "en": "What's up? Lost in thought again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03882",
+   "en": "Hm, well, something like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03883",
+   "en": "Honestly...\nWhat are you always brooding about so much?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03884",
+   "en": "What's your family like?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03885",
+   "en": "Where's this coming from?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03886",
+   "en": "And what about your dreams for the future?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03887",
+   "en": "Alto?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03888",
+   "en": "No, it's nothing.\nI was thinking about stuff, and next thing I knew,\nI was here. That's all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03889",
+   "en": "Don't worry about it so much.\nIt's nothing big. Nothing big...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03890",
+   "en": "Okay. But man, you're such a downer...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03891",
+   "en": "Wha-?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03892",
+   "en": "You sure don't act like a fellow high schooler.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03893",
+   "en": "What was that?!",
+   "flags": [],
+   "notes": "Said by Alto and then thrown back by the male player in the same scene; works for both."
+  },
+  {
+   "id": "c03894",
+   "en": "That's it, that's it. That's how young people\nshould be.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03895",
+   "en": "Heh... Geez.\nYou're the one who sounds like an old fogey.",
+   "flags": [],
+   "notes": "Shared by both player genders: 'old fogey' kept gender-neutral."
+  },
+  {
+   "id": "c03896",
+   "en": "Hahaha!",
+   "flags": [],
+   "notes": "Also used in frd_yuu_008 and scd_sms_704 (both genders)."
+  },
+  {
+   "id": "c03897",
+   "en": "Yeah. No point brooding too much, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03898",
+   "en": "Thanks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03899",
+   "en": "Well then, see you at school. Later.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03900",
+   "en": "(I wonder what's up with Alto...\nMaybe I'll invite him out somewhere next time.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03901",
+   "en": "(Oh, it's Saotome-kun.\nWhat's he doing out at this hour...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03902",
+   "en": "Hey, Saotome-kun.\nWhat are you doing here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03903",
+   "en": "What, lost in thought again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03904",
+   "en": "Honestly...\nWhat are you always thinking about so much?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03905",
+   "en": "What's this all of a sudden?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03906",
+   "en": "Saotome-kun?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03907",
+   "en": "I see. But you're kind of a downer...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03908",
+   "en": "You sure don't act like a fellow high schooler.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03909",
+   "en": "That's it, that's it. That's how young people\nshould be.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03910",
+   "en": "What did you say?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03911",
+   "en": "Hee hee.",
+   "flags": [],
+   "notes": "Shared with Nanase, Ranka, Sheryl and Akimizu (both genders); 'Hee hee' as in the finished slices."
+  },
+  {
+   "id": "c03912",
+   "en": "(I wonder what's up with Saotome-kun...\nMaybe I'll invite him out somewhere next time.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03913",
+   "en": "(What's Alto doing in a place like this again...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03914",
+   "en": "Hey, Alto. What are you up to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03915",
+   "en": "Look who's talking. You're here again too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03916",
+   "en": "We're both in the same boat.\nWell, I bet you're \"lost in thought\" again, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03917",
+   "en": "Why, you...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03918",
+   "en": "Whoa, it's getting pretty late...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03919",
+   "en": "Yeah, let's head home.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03920",
+   "en": "(Alto sure spends a lot of time alone...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03921",
+   "en": "(What's Saotome-kun doing in a place like this again...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03922",
+   "en": "Saotome-kun, what are you up to?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03923",
+   "en": "We're both in the same boat.\nWell, I bet you're \"lost in thought\" again, huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c03924",
+   "en": "Right, let's head home.",
+   "flags": [],
+   "notes": "The Japanese has 'sou da' where the male line has 'sou da ne'; read as agreement."
+  },
+  {
+   "id": "c03925",
+   "en": "(Saotome-kun sure spends a lot of time alone...)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c03853/c03866/c03874: use Silver Moon (provisional in locations.json).",
+   "c03895: Alto's 'toshiyori-kusai' (shared by both player genders) rendered 'old fogey' to stay gender-neutral.",
+   "c03893: one row shared by Alto and the male player throwing it back ('What was that?!')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

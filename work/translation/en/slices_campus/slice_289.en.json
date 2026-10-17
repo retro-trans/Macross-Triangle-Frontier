@@ -1,0 +1,496 @@
+{
+ "slice": 289,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c20711",
+   "en": "Wonder if you've heard of it, \\p...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c20712",
+   "en": "A little outfit called the New U.N. Forces?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c20713",
+   "en": "(I never imagined Yuuto and the others\nwere part of the New U.N. Forces...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20714",
+   "en": "(The three of them went to intercept those\nunidentified creatures... Oh, looks like\nthey're back.)",
+   "flags": [],
+   "notes": "Male. Matches sms_701 c23934."
+  },
+  {
+   "id": "c20715",
+   "en": "Gary-sensei!?",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20716",
+   "en": "Come to think of it, I never told you\nI'm with the New U.N. Forces, did I?",
+   "flags": [],
+   "notes": "Gary, both genders."
+  },
+  {
+   "id": "c20717",
+   "en": "And while I'm at it, Hilda's with 'em too.",
+   "flags": [],
+   "notes": "Gary, both genders. Bare 'Hilda' as in the Japanese."
+  },
+  {
+   "id": "c20718",
+   "en": "(So that's how it was... I had no idea......)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20719",
+   "en": "So...\nThe other day, you said you wanted to enlist\nin the New U.N. Forces, right?",
+   "flags": [],
+   "notes": "Gary, both genders."
+  },
+  {
+   "id": "c20720",
+   "en": "So I figured I'd bring you here sooner or later...\nbut even I didn't think I'd end up bringing\nyou in a situation like this.",
+   "flags": [],
+   "notes": "Gary, both genders."
+  },
+  {
+   "id": "c20721",
+   "en": "And things aren't the same now as they were...",
+   "flags": [],
+   "notes": "Gary, both genders."
+  },
+  {
+   "id": "c20722",
+   "en": "\\p...\nGo think it over one more time, and think hard:\ndo you still want to join the New U.N. Forces?",
+   "flags": [],
+   "notes": "Gary, both genders."
+  },
+  {
+   "id": "c20723",
+   "en": "It's hard to believe the fight with those\nunidentified creatures is over after that.",
+   "flags": [],
+   "notes": "Gary, both genders."
+  },
+  {
+   "id": "c20724",
+   "en": "Once you join the military now,\nquitting is pretty much impossible.",
+   "flags": [],
+   "notes": "Gary, both genders."
+  },
+  {
+   "id": "c20725",
+   "en": "In a fight against things with that much\npower, are you ready to put your life\non the line?",
+   "flags": [],
+   "notes": "Gary, both genders."
+  },
+  {
+   "id": "c20726",
+   "en": "I-I...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20727",
+   "en": "You don't have to answer right away.\nI'll give you some time, so make up your mind\nand come back.",
+   "flags": [],
+   "notes": "Gary in scd_arm, Ozma in scd_sms; both genders."
+  },
+  {
+   "id": "c20728",
+   "en": "Y-yes...\nUnderstood... Gary-sensei.",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20729",
+   "en": "(I thought I'd made up my mind back when\nI decided to enlist in the New U.N. Forces...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20730",
+   "en": "(But now that I can see the danger with my\nown eyes, there's no denying I'm a lot more\nworried about enlisting...)",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20731",
+   "en": "(I can't get in with a half-hearted attitude...\nI've gotta make up my mind for real...!)",
+   "flags": [],
+   "notes": "Male. Close to the S.M.S. twin c23950."
+  },
+  {
+   "id": "c20732",
+   "en": "(I'm finally going to meet Sheryl Nome,\nthe \"Galactic Fairy\"...)",
+   "flags": [],
+   "notes": "Female. Also ciz/sms 701."
+  },
+  {
+   "id": "c20733",
+   "en": "(All right! I'm giving today's EX-Gear\nacrobatics everything I've got!!)",
+   "flags": [],
+   "notes": "Female. Also ciz/sms 701."
+  },
+  {
+   "id": "c20734",
+   "en": "(Saotome-kun went off grandstanding and\nnearly got Sheryl seriously hurt...)",
+   "flags": [],
+   "notes": "Female. Also ciz/sms 701."
+  },
+  {
+   "id": "c20735",
+   "en": "(I need to get to a shelter too...\nWait, where did Kagura-kun and the others go?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20736",
+   "en": "Kagura-kun, Miyuki, Yui! Where do you\nthink you're going in an emergency like this!?",
+   "flags": [],
+   "notes": "Female. Female player uses Kagura-kun, Miyuki, Yui."
+  },
+  {
+   "id": "c20737",
+   "en": "No part-time job would call you in during\nan emergency like this! Come on, we need to\nget to a shelter too......",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20738",
+   "en": "\\p-san,\nwould you come with us to our part-time job\nright now?",
+   "flags": [],
+   "notes": "Shirakawa, female scene."
+  },
+  {
+   "id": "c20739",
+   "en": "(I never imagined Kagura-kun and the others\nwere part of the New U.N. Forces...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20740",
+   "en": "(The three of them went to intercept those\nunidentified creatures... Oh, looks like\nthey're back.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20741",
+   "en": "(So that's how it was... I had no idea......)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20742",
+   "en": "I-I...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20743",
+   "en": "(I thought I'd made up my mind back when\nI decided to enlist in the New U.N. Forces...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20744",
+   "en": "(I can't get in with a half-hearted attitude...\nI've gotta make up my mind for real...!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20745",
+   "en": "(Am I really ready to join the New U.N. Forces\nand put my life on the line in battle...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20746",
+   "en": "(Of course fighting is scary...\nI'm scared out of my mind, but......)",
+   "flags": [],
+   "notes": "PLAYER, both genders; also scd_sms_70x."
+  },
+  {
+   "id": "c20747",
+   "en": "(But just standing by and watching while\nFrontier gets attacked like last time?\nNo way. Absolutely not!)",
+   "flags": [],
+   "notes": "Male. Also scd_sms_702."
+  },
+  {
+   "id": "c20748",
+   "en": "(If fighting is the only way to protect\nFrontier... then I......!)",
+   "flags": [],
+   "notes": "Male. Also scd_sms_702."
+  },
+  {
+   "id": "c20749",
+   "en": "Looks like you've made up your mind.",
+   "flags": [],
+   "notes": "Gary, both genders."
+  },
+  {
+   "id": "c20750",
+   "en": "Please... Please let me join the\nNew U.N. Forces!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20751",
+   "en": "...You know there's no turning back, right?",
+   "flags": [],
+   "notes": "Gary, both genders."
+  },
+  {
+   "id": "c20752",
+   "en": "I'm ready for that!",
+   "flags": [],
+   "notes": "PLAYER, both genders; also scd_sms_70x."
+  },
+  {
+   "id": "c20753",
+   "en": "Sheesh... Report to the barracks\nby 0800 tomorrow morning.",
+   "flags": [],
+   "notes": "Gary, both genders."
+  },
+  {
+   "id": "c20754",
+   "en": "Understood, Gary-sensei.",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20755",
+   "en": "Heh. Starting tomorrow, it's Captain Gary.",
+   "flags": [],
+   "notes": "Gary, both genders. Taii = Captain (ranks), as ext_oth_003."
+  },
+  {
+   "id": "c20756",
+   "en": "Starting tomorrow, you're training with me!\nLet's give it our all, \\p!",
+   "flags": [],
+   "notes": "Kagura, both genders."
+  },
+  {
+   "id": "c20757",
+   "en": "Go easy on me, okay, Yuuto?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20758",
+   "en": "(Starting tomorrow, I'm a member of the\nNew U.N. Forces too... I'm going to fight\nto protect Frontier!)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20759",
+   "en": "(Am I really ready to join the New U.N. Forces\nand put my life on the line in battle...?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20760",
+   "en": "(But just standing by and watching while\nFrontier gets attacked like last time?\nNo way. Absolutely not!)",
+   "flags": [],
+   "notes": "Female. Also scd_sms_702."
+  },
+  {
+   "id": "c20761",
+   "en": "(If fighting is the only way to protect\nFrontier... then I......!)",
+   "flags": [],
+   "notes": "Female. Also scd_sms_702."
+  },
+  {
+   "id": "c20762",
+   "en": "Please... Please let me join the\nNew U.N. Forces!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20763",
+   "en": "Go easy on me, okay, Kagura-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20764",
+   "en": "(Starting tomorrow, I'm a member of the\nNew U.N. Forces too... I'll fight to protect\nFrontier as well!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20765",
+   "en": "(It's my day off today, so I think I'll\ngo wander around downtown Frontier.)",
+   "flags": [],
+   "notes": "PLAYER, both genders; also scd_sms_70x."
+  },
+  {
+   "id": "c20766",
+   "en": "(Hm? My phone's ringing.)",
+   "flags": [],
+   "notes": "Male. Also scd_sms_703."
+  },
+  {
+   "id": "c20767",
+   "en": "Hello, this is \\p.",
+   "flags": [],
+   "notes": "PLAYER, both genders; also scd_sms_70x."
+  },
+  {
+   "id": "c20768",
+   "en": "This is Gary.\nWe're holding your final enlistment test,\nstarting now.",
+   "flags": [],
+   "notes": "Gary, both genders. As Ozma's twin c23977."
+  },
+  {
+   "id": "c20769",
+   "en": "What!? This is so sudden...",
+   "flags": [],
+   "notes": "PLAYER, both genders; also scd_sms_70x."
+  },
+  {
+   "id": "c20770",
+   "en": "It's an emergency call-up. You don't get to refuse.\nGet to the New U.N. Forces hangar, on the double.",
+   "flags": [],
+   "notes": "Gary, both genders."
+  },
+  {
+   "id": "c20771",
+   "en": "(So the final test was a surprise one...)",
+   "flags": [],
+   "notes": "Male. Also scd_sms_703."
+  },
+  {
+   "id": "c20772",
+   "en": "Well? Where's your answer!",
+   "flags": [],
+   "notes": "Gary in scd_arm, Ozma in scd_sms; both genders."
+  },
+  {
+   "id": "c20773",
+   "en": "R-roger that!",
+   "flags": [],
+   "notes": "PLAYER, both genders; also scd_sms_70x."
+  },
+  {
+   "id": "c20774",
+   "en": "(Getting hit with the final test out of\nnowhere... I'm not ready for this yet.\nI'm starting to get kinda nervous...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20775",
+   "en": "Oh, come on, don't get so tense.\nIf you just do what you always do,\nyou'll be fine, no doubt about it.",
+   "flags": [],
+   "notes": "Claire, both genders."
+  },
+  {
+   "id": "c20776",
+   "en": "Yeah... You're right!\nThank you, Claire-senpai!",
+   "flags": [],
+   "notes": "PLAYER, both genders. Answers before noticing who it is."
+  },
+  {
+   "id": "c20777",
+   "en": "All riiight! Let's do this!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20778",
+   "en": "...Wait, Claire-senpai!?",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20779",
+   "en": "Hehe, what are you so surprised about,\n\\p-kun?",
+   "flags": [],
+   "notes": "Claire, male scene."
+  },
+  {
+   "id": "c20780",
+   "en": "Of course I'm surprised!\nWho knew you were in the New U.N. Forces,\nClaire-senpai...",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20781",
+   "en": "If you're that surprised, keeping it secret\nwas worth it. The truth is, I've been\nserving as an operator.",
+   "flags": [],
+   "notes": "Claire, both genders."
+  },
+  {
+   "id": "c20782",
+   "en": "So that's how it was.",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20783",
+   "en": "I'll be giving the orders during combat,\nso you'd better listen to what I say,\ngot it?",
+   "flags": [],
+   "notes": "Claire, both genders."
+  },
+  {
+   "id": "c20784",
+   "en": "Good answer.\nNow go give that test your all.",
+   "flags": [],
+   "notes": "Claire, both genders."
+  },
+  {
+   "id": "c20785",
+   "en": "(Okay! I'm going to pass this, no matter what!)",
+   "flags": [],
+   "notes": "Male. Matches the female twin c20791 (slice 290)."
+  },
+  {
+   "id": "c20786",
+   "en": "(Hm? My phone's ringing.)",
+   "flags": [],
+   "notes": "Female. Also scd_sms_703."
+  },
+  {
+   "id": "c20787",
+   "en": "(So the final test was a surprise one...)",
+   "flags": [],
+   "notes": "Female. Also scd_sms_703."
+  },
+  {
+   "id": "c20788",
+   "en": "(Getting hit with the final test out of\nnowhere... I'm not ready for this yet.\nI'm starting to get kinda nervous...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20789",
+   "en": "All riiight! Let's do this!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20790",
+   "en": "Hehe, what are you so surprised about,\n\\p-chan?",
+   "flags": [],
+   "notes": "Claire, female scene."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c20765: 'Frontier shigai' rendered 'downtown Frontier'; no glossary entry for the city area.",
+   "c20747 / c20760: the Japanese is one exclamation ('just watching while Frontier is attacked like before is absolutely unacceptable'); rendered as a question plus refusal across 3 lines."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

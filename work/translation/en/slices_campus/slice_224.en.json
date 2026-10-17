@@ -1,0 +1,442 @@
+{
+ "slice": 224,
+ "rows_in_slice": 71,
+ "rows_examined": 71,
+ "rows": [
+  {
+   "id": "c16318",
+   "en": "(Alright, that's another week done~\nWhat should I do this weekend...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16319",
+   "en": "(Oh, it's Gary-sensei...\nRight, I'll ask about his weekend plans\nand get some ideas.)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16320",
+   "en": "Gary-sensei, do you have a minute?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16321",
+   "en": "Hey, it's \\p!\nWhat's up?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16322",
+   "en": "Well, I wanted to hear how you spend\nyour weekends, Sensei, to get some ideas...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16323",
+   "en": "Oh? Looking to me for ideas, huh? Admirable.\nAlright, listen up good!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16324",
+   "en": "...Uh... let's see... first off...\nUmm... hmm~...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16325",
+   "en": "Ah, that's it!\nQuit yammering about dumb stuff like plans\nand just do what you wanna do! Yeah, that's it!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16326",
+   "en": "Got it? See ya!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16327",
+   "en": "(Sensei... Could it be he didn't have\nany plans at all...?)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16328",
+   "en": "(Alrighty, that's the end of another week.\nWhat should I do this weekend...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16329",
+   "en": "(Oh, Gary-sensei...\nI know, I'll ask about his weekend plans\nand get some ideas.)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16330",
+   "en": "Yes, I thought I'd ask how you spend\nyour weekends, Sensei, to get some ideas...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16331",
+   "en": "Huh? Uh, okay...",
+   "flags": [],
+   "notes": "x2: also the female player's reply to Sheryl in nml_she_015; kept generic."
+  },
+  {
+   "id": "c16332",
+   "en": "(Sensei... Did he maybe not have any plans?)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16333",
+   "en": "(Next is P.E. That's Hilda-sensei's class, right?)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16334",
+   "en": "Alright, gather round!\nClass is starting~!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16335",
+   "en": "Huh, Gary-sensei?\nIsn't this Hilda-sensei's class...?",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16336",
+   "en": "Yeah, Hilda's off due to unavoidable circumstances.\nSo today, I'll be teaching the class!",
+   "flags": [],
+   "notes": "Shared male/female. Gary calls her plain 'Hilda'."
+  },
+  {
+   "id": "c16337",
+   "en": "Now then, let's start properly...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16338",
+   "en": "What are you doing?",
+   "flags": [],
+   "notes": "Shared male/female. Hilda to Gary; same wording as c05149."
+  },
+  {
+   "id": "c16339",
+   "en": "Ah... well... y'see... uh...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16340",
+   "en": "If you've got no business here,\nthen step aside.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16341",
+   "en": "Move.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16342",
+   "en": "(What was Gary-sensei even trying to do...?)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16343",
+   "en": "(Next is P.E., Hilda-sensei's class, right?)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16344",
+   "en": "Huh, Gary-sensei?\nI thought this was Hilda-sensei's class...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16345",
+   "en": "(What was Gary-sensei trying to do, I wonder...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16346",
+   "en": "(I came out to town, but now\nwhat should I do...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16347",
+   "en": "Yo, \\p!\nWhat're you doing here, hitting on girls?\nAh, youth!",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16348",
+   "en": "No, I'm not, Gary-sensei!\nWhat are YOU doing in a place like this?",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16349",
+   "en": "Ah, my beloved ride's been acting up,\nso I came to pick up some parts, but...",
+   "flags": [],
+   "notes": "Shared male/female. aisha: his own vehicle, kind unspecified ('ride')."
+  },
+  {
+   "id": "c16350",
+   "en": "But...?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16351",
+   "en": "Unfortunately the shop's closed,\nso I was at my wits' end...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16352",
+   "en": "Oh, I see. That's too bad.",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16353",
+   "en": "I know! You're free anyway, right?\nPerfect timing. Come keep me company!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16354",
+   "en": "Huh, Sensei!? H-Hold on a sec~...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16355",
+   "en": "(He dragged me all over the place, but all in all,\nit turned out to be a fun day!)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16356",
+   "en": "(I came out to town,\nbut what should I do...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16357",
+   "en": "Yo, \\p!\nWhat're you doing here, hitting on guys?\nAh, youth!",
+   "flags": [],
+   "notes": "Female scene. gyaku-nan: a girl hitting on guys (as c06815)."
+  },
+  {
+   "id": "c16358",
+   "en": "I'm NOT, Gary-sensei!\nWhat are YOU doing in a place like this?",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16359",
+   "en": "Oh, really? That's too bad.",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16360",
+   "en": "(He dragged me all over the place, but all in all,\nit was kind of a fun day!)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16361",
+   "en": "(Next up is swimming. Time to give it my all!)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16362",
+   "en": "Ooh, it's perfect swimming weather today!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16363",
+   "en": "Oh, hello, Gary-sensei... Wait,\nyou don't teach swimming, do you?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16364",
+   "en": "Hm, ah, well...\nDon't sweat the details!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16365",
+   "en": "No, but I'm sure Hilda-sensei will...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16366",
+   "en": "Nah, it's fine. As for her, I'll just...",
+   "flags": [],
+   "notes": "Shared male/female. Trails off; Hilda appears."
+  },
+  {
+   "id": "c16367",
+   "en": "What's going on? What are YOU doing here?",
+   "flags": [],
+   "notes": "Shared male/female. Hilda to Gary with the contemptuous kisama; carried by the stress on YOU."
+  },
+  {
+   "id": "c16368",
+   "en": "Ah, I figured I'd help out with your class!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16369",
+   "en": "Don't need it. Go home.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16370",
+   "en": "No, but y'see...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16371",
+   "en": "Go home.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16372",
+   "en": "(Gary-sensei really can't stand up to Hilda-sensei...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16373",
+   "en": "Well, but I'm sure Hilda-sensei will...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16374",
+   "en": "(Gary-sensei just can't stand up to Hilda-sensei...)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16375",
+   "en": "(Next up is Yamashiro-sensei's class, right...?)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16376",
+   "en": "Good morning, class! Now, let's begin!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16377",
+   "en": "Huh!? Gary-sensei?",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16378",
+   "en": "Listen up, this is health class.\nYou all love health class, don't you?",
+   "flags": [],
+   "notes": "Shared male/female. hoken taiiku (health and P.E.); the joke is sex education, so 'health class'."
+  },
+  {
+   "id": "c16379",
+   "en": "...Everyone's totally weirded out, though...",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16380",
+   "en": "Hey, what are you doing?",
+   "flags": [],
+   "notes": "Shared male/female. Yamashiro to Gary."
+  },
+  {
+   "id": "c16381",
+   "en": "Oh, you're finally here.\nAlright, the baton's all yours!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16382",
+   "en": "Gary-sensei,\nisn't it high time you stopped acting on whims?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16383",
+   "en": "Aw, once in a while is fine. See ya.\nAnd you lot, take your classes seriously!",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c16384",
+   "en": "(What a teacher, causing a commotion\nfor nothing...)",
+   "flags": [],
+   "notes": "Male scene."
+  },
+  {
+   "id": "c16385",
+   "en": "(Okay, next is Yamashiro-sensei's class, right...?)",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16386",
+   "en": "Hm!? Gary-sensei?",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16387",
+   "en": "...Looks like everyone's kind of put off, though...",
+   "flags": [],
+   "notes": "Female scene."
+  },
+  {
+   "id": "c16388",
+   "en": "(Causing a commotion right before class...\nWhat a teacher...)",
+   "flags": [],
+   "notes": "Female scene."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c16378: hoken taiiku rendered 'health class' to keep the sex-ed joke.",
+   "c16349: aisha (his beloved vehicle) rendered 'my beloved ride'; car or bike is not stated."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

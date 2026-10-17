@@ -1,0 +1,518 @@
+{
+ "slice": 187,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c13664",
+   "en": "Sorry to keep you waiting. How about this book?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13665",
+   "en": "Um, it's a sweets recipe book called\n\"Handpicked! Galactic Sweets Paradise.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13666",
+   "en": "(Looks like she likes it.\nI'll go look for some more!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13667",
+   "en": "Thank you, I had sooo much fun.\nI'll be counting on you again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13668",
+   "en": "Sure, anytime!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13669",
+   "en": "(Looks like she had fun today too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13670",
+   "en": "Will you take me to that library again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13671",
+   "en": "Hee hee, the books you pick for me really are fun.\nThank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13672",
+   "en": "(I'm glad she had fun again this time.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13673",
+   "en": "(Looks like she had fun again this time. I'm glad.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13674",
+   "en": "(She said something about \"spots around the\nschool,\" but... maybe I'll take her to\nSilver Moon...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in the glossary. x2: also plays in the female version; written gender-neutral (no I-as-he/she)."
+  },
+  {
+   "id": "c13675",
+   "en": "\\p,\ndid I keep you waiting? Let's get going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13676",
+   "en": "Yes. Um, today...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13677",
+   "en": "Wait a second!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13678",
+   "en": "What's that... What is that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13679",
+   "en": "What do you mean, what...?\nStudents doing club activities... I guess?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13680",
+   "en": "Not them. The ones hitting a ball with\nthat net-looking thing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13681",
+   "en": "Oh, you mean... tennis?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13682",
+   "en": "Tennis? So that sport is called tennis?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13683",
+   "en": "That's right. It's club activity time right now, so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13684",
+   "en": "Looks fun. I'm going to play it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13685",
+   "en": "Huh? Wait, what!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13686",
+   "en": "Hey, you there! Mind if I join in~?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13687",
+   "en": "(She even changed clothes... she's really\nfired up...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13688",
+   "en": "\\p,\nwatch this! Behold the Galactic Fairy's pocket work!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pun: Sheryl says 'pocket' (pokketo) for 'racket' (raketto); kept literally, answered by c13689."
+  },
+  {
+   "id": "c13689",
+   "en": "(It's a racket, not a pocket...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13690",
+   "en": "Here I gooo~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13691",
+   "en": "Hyah!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x4: tennis shot in she_003 and water splash in she_007; 'Hyah!' fits both."
+  },
+  {
+   "id": "c13692",
+   "en": "Oh, come on!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13693",
+   "en": "Good game!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13694",
+   "en": "(Her skills aside, she looks like she's\nhaving a blast...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13695",
+   "en": "Phew~ That was pretty fun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13696",
+   "en": "Looks like it. Okay, then shall we get goi...",
+   "flags": [],
+   "notes": "Cut off mid-word, kept."
+  },
+  {
+   "id": "c13697",
+   "en": "Well then, I'll take my leave for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13698",
+   "en": "Looks like you have a talent for entertaining me.\nI'll be expecting more from you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13699",
+   "en": "(I didn't actually do anything today, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13700",
+   "en": "\\p-chan,\ndid I keep you waiting? Let's get going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13701",
+   "en": "Yes. Um, today...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13702",
+   "en": "What do you mean, what...?\nYou mean the students doing club activities?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13703",
+   "en": "Yes, it's club activity time right now, so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13704",
+   "en": "(She even changed clothes... she's really\nfired up...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13705",
+   "en": "\\p-chan,\nwatch this! Behold the Galactic Fairy's socket work!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Pun: female version says 'socket' (soketto) for 'racket'; kept literally, answered by c13706."
+  },
+  {
+   "id": "c13706",
+   "en": "(Sheryl-san, it's a racket, not a socket!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13707",
+   "en": "(Yeah, she looks like she's having a blast!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13708",
+   "en": "Looks like it. Well then, shall we get goi...",
+   "flags": [],
+   "notes": "Cut off mid-word, kept."
+  },
+  {
+   "id": "c13709",
+   "en": "I think I wore myself out a little. Sorry.\nI'll take my leave for today. I'll be counting\non you again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13710",
+   "en": "Okay. Until next time, then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13711",
+   "en": "(Sheryl-san looked like she was having so much fun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13712",
+   "en": "(Today I'll finally take Sheryl to\n\"Silver Moon\"...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in the glossary."
+  },
+  {
+   "id": "c13713",
+   "en": "Hm? Yes?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13714",
+   "en": "I'm going to go play some more \"tennis.\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13715",
+   "en": "I'll be right back, so wait for me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13716",
+   "en": "Phew, I guess I'm a little tired after all...\nI think I'll head home for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13717",
+   "en": "Huh!? B-but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13718",
+   "en": "(Well, she seemed to enjoy herself, so I guess\nit's fine...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13719",
+   "en": "(Today I'll finally take Sheryl-san to\n\"Silver Moon\"...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in the glossary."
+  },
+  {
+   "id": "c13720",
+   "en": "(Well, she seemed to enjoy herself, so I guess\nit can't be helped...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13721",
+   "en": "(Today I'll try taking her to \"Silver Moon\"\nfor real...)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in the glossary."
+  },
+  {
+   "id": "c13722",
+   "en": "\\p,\nyou're late!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13723",
+   "en": "(I don't think I'm late for when we agreed\nto meet...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13724",
+   "en": "Oh? Did you say something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13725",
+   "en": "No, nothing at all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13726",
+   "en": "Well then, where will you be taking me today?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13727",
+   "en": "Today it's a place we Mihoshi students go a lot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13728",
+   "en": "Hmm, well, fine. Let's just go and see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13729",
+   "en": "This is \"Silver Moon,\"\nwhere Mihoshi students like to hang out.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Silver Moon is provisional in the glossary."
+  },
+  {
+   "id": "c13730",
+   "en": "You're right, there sure are a lot of them.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13731",
+   "en": "Well, it's just an ordinary cafe, but it's a\nmust for any Mihoshi student, so I figured\nI'd show you, just in case...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13732",
+   "en": "Hmm, not bad.\nThe view's nice too. I think it's a good place.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13733",
+   "en": "I'm glad...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13734",
+   "en": "This is what normal high schoolers do, right?\nChat about school and fashion in places like\nthis... and, well... talk about love and stuff...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13735",
+   "en": "Yeah, talking for hours about nothing at all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13736",
+   "en": "I see... That kind of thing sounds kind of nice...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13737",
+   "en": "Sheryl...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13738",
+   "en": "Oh, um, you see...\nI always put my work first, so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13739",
+   "en": "Oh, right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13740",
+   "en": "I-it's not like I'm jealous\nor anything...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13741",
+   "en": "It's just... sometimes I wonder what would've\nhappened if I hadn't become a singer...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13742",
+   "en": "Sheryl...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c13743",
+   "en": "Just kidding. As if I'd ever think that, right?\nI'm Sheryl!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c13674: Silver Moon is provisional in the glossary. x2: also plays in the female version; written gender-neutral (no I-as-he/she).",
+   "c13688: Pun: Sheryl says 'pocket' (pokketo) for 'racket' (raketto); kept literally, answered by c13689.",
+   "c13691: x4: tennis shot in she_003 and water splash in she_007; 'Hyah!' fits both.",
+   "c13705: Pun: female version says 'socket' (soketto) for 'racket'; kept literally, answered by c13706.",
+   "c13712: Silver Moon is provisional in the glossary.",
+   "c13719: Silver Moon is provisional in the glossary.",
+   "c13721: Silver Moon is provisional in the glossary.",
+   "c13729: Silver Moon is provisional in the glossary."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

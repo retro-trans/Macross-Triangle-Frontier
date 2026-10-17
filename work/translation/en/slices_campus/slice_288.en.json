@@ -1,0 +1,497 @@
+{
+ "slice": 288,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c20631",
+   "en": "(Lunchtime already, huh... What should I eat...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20632",
+   "en": "Nah, it's nothing big.\nI was just wondering what to eat for lunch.\nWhat are you having, Akimizu?",
+   "flags": [],
+   "notes": "Male. Answers Akimizu's 'you look troubled' (c20461)."
+  },
+  {
+   "id": "c20633",
+   "en": "Oh, I brought a lunch I made myself.",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20634",
+   "en": "Oh, really? That's impressive.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20635",
+   "en": "Not at all. I mess up all the time.\nI even burned the rolled omelet today...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20636",
+   "en": "Oh, I know!\nIf you'd like, do you want to share\nthis lunch with me?",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20637",
+   "en": "Huh? Are you sure?",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20638",
+   "en": "Yes. I made it for Claire-senpai, but it\nlooks like she's out today...\nI didn't know what to do with it!",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20639",
+   "en": "In that case, don't mind if I do!",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20640",
+   "en": "(Akimizu's lunch was really good...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20641",
+   "en": "(Lunchtime already. What should I eat...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20642",
+   "en": "Oh, it's nothing big.\nI was just wondering what to eat for lunch.\nWhat are you having, Yuu?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20643",
+   "en": "Oh, really? That's impressive.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20644",
+   "en": "(Yuu's lunch was sooo good!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20645",
+   "en": "(Well, classes are finally over for today...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20646",
+   "en": "\\p-kun, do you have a minute?",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c20647",
+   "en": "Oh, Akimizu. What's up?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20648",
+   "en": "Um, there's a part of the last class\nI didn't quite catch.\nCould you explain it to me, if you don't mind...?",
+   "flags": [],
+   "notes": "Akimizu, both genders. Opening 'un' read as a hesitant 'um'."
+  },
+  {
+   "id": "c20649",
+   "en": "Oh, sure, if I can help.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20650",
+   "en": "I see...\nI totally get it now. Thanks!",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20651",
+   "en": "Don't mention it. But you're really\nconscientious, Akimizu.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20652",
+   "en": "That's not true.\nI even got a little sleepy in that class...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20653",
+   "en": "...Oops!?",
+   "flags": [],
+   "notes": "Akimizu, both genders. She realizes she gave herself away."
+  },
+  {
+   "id": "c20654",
+   "en": "I see, so that's why you missed it...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20655",
+   "en": "(Akimizu's a serious student at heart,\nthough...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20656",
+   "en": "(Well then, classes are finally over for today~)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20657",
+   "en": "\\p-chan, do you have a minute?",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c20658",
+   "en": "Oh, Yuu. What's up?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20659",
+   "en": "Sure, if I can help.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20660",
+   "en": "Don't mention it. But you're really\nconscientious, Yuu.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20661",
+   "en": "I see, so that's why you missed it...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20662",
+   "en": "(Yuu's a serious student at heart, though...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20663",
+   "en": "(Hm? What's up with Akimizu?\nShe's been staring at Sheryl this whole time.)",
+   "flags": [],
+   "notes": "Male. Male player says bare 'Sheryl'."
+  },
+  {
+   "id": "c20664",
+   "en": "What's wrong, Akimizu?\nSighing like that...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20665",
+   "en": "Oh! \\p-kun...",
+   "flags": [],
+   "notes": "Akimizu, male scene."
+  },
+  {
+   "id": "c20666",
+   "en": "No, I was just thinking how beautiful\nSheryl-san is...",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20667",
+   "en": "Well, she IS the Galactic Fairy.",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20668",
+   "en": "Sigh, I'm so jealous......",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20669",
+   "en": "(Heh, Akimizu really is a girl after all.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20670",
+   "en": "If I were... as beautiful as Sheryl-san,\nClaire-senpai and I could be even more...!",
+   "flags": [],
+   "notes": "Akimizu, both genders. Breaks off; she catches herself next line."
+  },
+  {
+   "id": "c20671",
+   "en": "Oh......",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20672",
+   "en": "Uhhh...\nW-well, I'd better get going!",
+   "flags": [],
+   "notes": "Akimizu, both genders."
+  },
+  {
+   "id": "c20673",
+   "en": "Ah, Akimizu...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20674",
+   "en": "(Uhh...\nA-Akimizu really does love Claire-senpai,\nhuh...)",
+   "flags": [],
+   "notes": "Male. Suki: kept as 'love', as ambiguous as the Japanese."
+  },
+  {
+   "id": "c20675",
+   "en": "(Hm? What's up with Yuu?\nShe's been staring at Sheryl-san this whole time.)",
+   "flags": [],
+   "notes": "Female. Female player says Sheryl-san."
+  },
+  {
+   "id": "c20676",
+   "en": "What's wrong, Yuu?\nSighing like that...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20677",
+   "en": "Oh! \\p-chan...",
+   "flags": [],
+   "notes": "Akimizu, female scene."
+  },
+  {
+   "id": "c20678",
+   "en": "(Heh, Yuu really is a girl after all.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20679",
+   "en": "Ah, Yuu...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20680",
+   "en": "(Uhh...\nY-Yuu really does love Claire-senpai, huh...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c20681",
+   "en": "(Today's the day of Sheryl's concert!\nI've been waiting forever!)",
+   "flags": [],
+   "notes": "PLAYER, both genders. Also scd_ciz_701 and scd_sms_701."
+  },
+  {
+   "id": "c20682",
+   "en": "(I'm finally going to meet Sheryl Nome,\nthe \"Galactic Fairy\"...)",
+   "flags": [],
+   "notes": "Male. Also scd_ciz_701, scd_sms_701."
+  },
+  {
+   "id": "c20683",
+   "en": "(All right! I'm giving today's EX-Gear\nacrobatics everything I've got!!)",
+   "flags": [],
+   "notes": "Male. Also scd_ciz_701, scd_sms_701."
+  },
+  {
+   "id": "c20684",
+   "en": "(...Or so I was all fired up, but...)",
+   "flags": [],
+   "notes": "PLAYER, both genders. Also ciz/sms 701."
+  },
+  {
+   "id": "c20685",
+   "en": "(Who'd have thought an accident like that\nwould happen...)",
+   "flags": [],
+   "notes": "PLAYER, both genders. Also ciz/sms 701."
+  },
+  {
+   "id": "c20686",
+   "en": "That Alto, going off on his own like that...!",
+   "flags": [],
+   "notes": "Kagura, both genders."
+  },
+  {
+   "id": "c20687",
+   "en": "(Alto went off grandstanding and nearly\ngot Sheryl seriously hurt...)",
+   "flags": [],
+   "notes": "Male. Also ciz/sms 701. Sutando-puree = grandstanding, as nml_alt_019."
+  },
+  {
+   "id": "c20688",
+   "en": "(At least the concert managed to go on,\nso that's something, but...)",
+   "flags": [],
+   "notes": "PLAYER, both genders. Also ciz/sms 701."
+  },
+  {
+   "id": "c20689",
+   "en": "At least no one got hurt.\nThat's the one silver lining.",
+   "flags": [],
+   "notes": "Shirakawa, both genders."
+  },
+  {
+   "id": "c20690",
+   "en": "But the crowd went totally wild, didn't they?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c20691",
+   "en": "It's not about the crowd getting excited.\nWhat bothers me is that he threw off\nthe whole team's harmony...",
+   "flags": [],
+   "notes": "Kagura, both genders. Trails off."
+  },
+  {
+   "id": "c20692",
+   "en": "Huh? An explosion!?",
+   "flags": [],
+   "notes": "PLAYER, both genders. Also ciz/sms 701."
+  },
+  {
+   "id": "c20693",
+   "en": "This is the Macross Frontier Administrative Bureau.\nAn evacuation alert has been issued for all ships.\nAll citizens, please go to the shelters at once.",
+   "flags": [],
+   "notes": "Operator; also scd_ciz_701, scd_sms_701, scd_tri_704. Opening matches the finished Ship Broadcast lines c21038/c21066 (slice 293: 'Macross Frontier government'); organizations.json has 'Frontier Administrative Bureau' (needs_research). Coordinator: gyouseifu 'Administrative Bureau' per organizations.json; c21038/c21066 aligned to the same opener."
+  },
+  {
+   "id": "c20694",
+   "en": "Even an evacuation alert!?",
+   "flags": [],
+   "notes": "PLAYER, both genders. Also ciz/sms 701."
+  },
+  {
+   "id": "c20695",
+   "en": "Roger. Returning immediately.",
+   "flags": [],
+   "notes": "Kagura on his comm; the same row is Michel's in scd_ciz_701, scd_sms_701, scd_tri_704."
+  },
+  {
+   "id": "c20696",
+   "en": "Let's go, Shirakawa, Hoshimura.",
+   "flags": [],
+   "notes": "Kagura, both genders."
+  },
+  {
+   "id": "c20697",
+   "en": "Roger that~!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c20698",
+   "en": "(I've gotta get to a shelter too...\nWait, where did Yuuto and the others go?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20699",
+   "en": "Yuuto, Shirakawa, Hoshimura! Where do you\nthink you're going in an emergency like this!?",
+   "flags": [],
+   "notes": "Male. Male player uses Yuuto, Shirakawa, Hoshimura."
+  },
+  {
+   "id": "c20700",
+   "en": "Sorry, \\p.\nI just got called in by my part-time job...",
+   "flags": [],
+   "notes": "Kagura, both genders. Matches Michel's sms_701 line."
+  },
+  {
+   "id": "c20701",
+   "en": "No part-time job would call you in during\nan emergency like this! Come on, we need to\nget to a shelter too......",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c20702",
+   "en": "Well, that's what anyone would think...",
+   "flags": [],
+   "notes": "Shirakawa, both genders."
+  },
+  {
+   "id": "c20703",
+   "en": "There's no time to explain anyway,\nso why don't we just drag 'em along?",
+   "flags": [],
+   "notes": "Hoshimura, both genders; 'em' = the player, kept neutral."
+  },
+  {
+   "id": "c20704",
+   "en": "No way! That'd get us in serious trouble!",
+   "flags": [],
+   "notes": "Kagura, both genders."
+  },
+  {
+   "id": "c20705",
+   "en": "No... that might be for the best.\nGary-sensei did say he'd bring them along\none of these days.",
+   "flags": [],
+   "notes": "Shirakawa, both genders; 'them' = the player, kept neutral since the row serves both."
+  },
+  {
+   "id": "c20706",
+   "en": "But...!",
+   "flags": [],
+   "notes": "Kagura, both genders."
+  },
+  {
+   "id": "c20707",
+   "en": "\\p-kun,\nwould you come with us to our part-time job\nright now?",
+   "flags": [],
+   "notes": "Shirakawa, male scene; she asks the player."
+  },
+  {
+   "id": "c20708",
+   "en": "What!? At a time like this?",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  },
+  {
+   "id": "c20709",
+   "en": "It's because it's a time like this\nthat we want you to come.",
+   "flags": [],
+   "notes": "Shirakawa, both genders."
+  },
+  {
+   "id": "c20710",
+   "en": "Because it's a time like this?\nWhat kind of part-time job is it...?",
+   "flags": [],
+   "notes": "PLAYER, both genders."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c20693: 'Macross Frontier government' matches the finished broadcasts c21038/c21066 in slice 293, while organizations.json lists frontier_government as 'Frontier Administrative Bureau' (needs_research); the two should be reconciled. Row shared with scd_ciz_701, scd_sms_701 and scd_tri_704.",
+   "c20703 / c20705: Hoshimura and Shirakawa refer to the player in a row shared by both genders; kept neutral ('em', 'them').",
+   "c20670: 'Claire-senpai and I could be even more...!' keeps her break-off; the Japanese only says 'with Claire-senpai more...'."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

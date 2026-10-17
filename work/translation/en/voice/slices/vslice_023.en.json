@@ -1,0 +1,545 @@
+{
+ "slice": 23,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o0_of1/1552",
+   "en": "Super Parts cleared for use.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Super Parts' not in the glossary."
+  },
+  {
+   "id": "o0_of2/1552",
+   "en": "I'll allow the Super Parts.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Super Parts' not in the glossary."
+  },
+  {
+   "id": "o0_om0/1552",
+   "en": "Super Parts approved.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Super Parts' not in the glossary."
+  },
+  {
+   "id": "os_mis/1552",
+   "en": "Super Parts cleared for use.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Super Parts' not in the glossary."
+  },
+  {
+   "id": "o7_exd/1552",
+   "en": "Use of the Super Parts is authorized.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Super Parts' not in the glossary."
+  },
+  {
+   "id": "of_ktr/1552",
+   "en": "Super Parts are cleared for use.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Super Parts' not in the glossary."
+  },
+  {
+   "id": "o0_of0/1553",
+   "en": "Atmosphere/Space Booster is cleared for use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1553",
+   "en": "Atmosphere/Space Booster cleared for use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1553",
+   "en": "I'll allow the Atmosphere/Space Booster.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'ryouyou' (medical care) read as ryouyou 'dual-use' booster."
+  },
+  {
+   "id": "o0_om0/1553",
+   "en": "Atmosphere/Space Booster approved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1553",
+   "en": "Atmosphere/Space Booster cleared for use.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'taiki-ken naigai ryouyou' (garbled) read as 'taikiken naigai ryouyou' (atmosphere/space dual-use) booster."
+  },
+  {
+   "id": "o7_exd/1553",
+   "en": "Use of the Atmosphere/Space Booster is authorized.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'ryouyou' (medical care) read as ryouyou 'dual-use' booster."
+  },
+  {
+   "id": "of_ktr/1553",
+   "en": "Atmosphere/Space Booster is cleared for use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1554",
+   "en": "Heavy Weapon Pack is cleared for use.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Heavy Weapon Pack' not in the glossary."
+  },
+  {
+   "id": "o0_of1/1554",
+   "en": "Heavy Weapon Pack cleared for use.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Heavy Weapon Pack' not in the glossary."
+  },
+  {
+   "id": "o0_of2/1554",
+   "en": "I'll allow the Heavy Weapon Pack.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Heavy Weapon Pack' not in the glossary."
+  },
+  {
+   "id": "o0_om0/1554",
+   "en": "Heavy Weapon Pack approved.",
+   "flags": [
+    "whisper_doubt",
+    "name_missing"
+   ],
+   "notes": "'Hebii eponpakku' read as Heavy Weapon Pack. 'Heavy Weapon Pack' not in the glossary."
+  },
+  {
+   "id": "os_mis/1554",
+   "en": "Heavy Weapon Pack cleared for use.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Heavy Weapon Pack' not in the glossary."
+  },
+  {
+   "id": "o7_exd/1554",
+   "en": "Use of the Heavy Weapon Pack is authorized.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Heavy Weapon Pack' not in the glossary."
+  },
+  {
+   "id": "of_ktr/1554",
+   "en": "Heavy Weapon Pack is cleared for use.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "'Heavy Weapon Pack' not in the glossary."
+  },
+  {
+   "id": "o0_of0/1555",
+   "en": "Tornado Pack is cleared for use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1555",
+   "en": "Tornado Pack cleared for use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1555",
+   "en": "I'll allow the Tornado Pack.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1555",
+   "en": "Tornado Pack approved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1555",
+   "en": "Tornado Pack cleared for use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1555",
+   "en": "Use of the Tornado Pack is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1555",
+   "en": "Tornado Pack is cleared for use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/1556",
+   "en": "Large Booster is cleared for use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1556",
+   "en": "Large Booster cleared for use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/1556",
+   "en": "I'll allow the Large Booster.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/1556",
+   "en": "Large Booster approved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1556",
+   "en": "Large Booster cleared for use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/1556",
+   "en": "Use of the Large Booster is authorized.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/1556",
+   "en": "Large Booster is cleared for use.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/1600",
+   "en": "This time we'll hold a mock battle as a test. Your opponent flies the same model, a VF-171.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "os_mis/1600",
+   "en": "Thank you.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Clip says 'arigatou' only; unrelated to the other operators' 1600 lines, so no context for who is thanked."
+  },
+  {
+   "id": "of_ktr/1600",
+   "en": "Urgent message from the New U.N. Forces. A recon unit seems to have made contact with the Vajra. Go support them at once.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "'shikyuu' heard as shikyuu 'supply'; read as shikyuu 'at once' (as o0_of1/1602)."
+  },
+  {
+   "id": "o0_of1/1601",
+   "en": "The opposing pilot has plenty of issues, but their skill is the real deal. You give it your all, too.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Opposing pilot unknown; kept gender-neutral 'their'."
+  },
+  {
+   "id": "o0_of1/1602",
+   "en": "The recon unit appears to be engaging the Vajra right now. Go support them at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2271",
+   "en": "Destroid Cheyenne, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2271",
+   "en": "Destroid Cheyenne, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2271",
+   "en": "Destroid Cheyenne, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2271",
+   "en": "Destroid Cheyenne, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2271",
+   "en": "Destroid Cheyenne, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2271",
+   "en": "Destroid Cheyenne, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2272",
+   "en": "VF-0 Phoenix, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2272",
+   "en": "VF-0 Phoenix, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2272",
+   "en": "VF-0 Phoenix, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2272",
+   "en": "VF-0 Phoenix, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2272",
+   "en": "VF-0 Phoenix, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2272",
+   "en": "VF-0 Phoenix, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2273",
+   "en": "SV-51, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2273",
+   "en": "SV-51, you're cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2273",
+   "en": "SV-51, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2273",
+   "en": "SV-51, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2273",
+   "en": "SV-51, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2273",
+   "en": "SV-51, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2274",
+   "en": "Octos, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2274",
+   "en": "Octos, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2274",
+   "en": "Octos, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2274",
+   "en": "Octos, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2274",
+   "en": "Octos, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2274",
+   "en": "Octos, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2275",
+   "en": "Prototype Monster, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2275",
+   "en": "Prototype Monster, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2275",
+   "en": "Prototype Monster, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2275",
+   "en": "Prototype Monster, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2275",
+   "en": "Prototype Monster, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2275",
+   "en": "Prototype Monster, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2276",
+   "en": "AFOS, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2276",
+   "en": "AFOS, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2276",
+   "en": "AFOS, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2276",
+   "en": "AFOS, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2276",
+   "en": "AFOS, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/2276",
+   "en": "AFOS, you're cleared for launch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of0/2277",
+   "en": "Destroid Defender, you're cleared to launch. Please do your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of1/2277",
+   "en": "Destroid Defender, cleared to launch. Give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/2277",
+   "en": "Destroid Defender, I'm clearing you to launch. Now go get 'em!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_om0/2277",
+   "en": "Destroid Defender, launch approved. Go give it your best!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/2277",
+   "en": "Destroid Defender, you are cleared to launch.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 1796 (os_mis/1600): Clip says 'arigatou' only; unrelated to the other operators' 1600 lines, so no context for who is thanked.",
+   "row 1798 (o0_of1/1601): Opposing pilot unknown; kept gender-neutral 'their'."
+  ],
+  "whisper_doubt": [
+   "row 1769 (o0_of2/1553): 'ryouyou' (medical care) read as ryouyou 'dual-use' booster.",
+   "row 1771 (os_mis/1553): 'taiki-ken naigai ryouyou' (garbled) read as 'taikiken naigai ryouyou' (atmosphere/space dual-use) booster.",
+   "row 1772 (o7_exd/1553): 'ryouyou' (medical care) read as ryouyou 'dual-use' booster.",
+   "row 1777 (o0_om0/1554): 'Hebii eponpakku' read as Heavy Weapon Pack. 'Heavy Weapon Pack' not in the glossary.",
+   "row 1797 (of_ktr/1600): 'shikyuu' heard as shikyuu 'supply'; read as shikyuu 'at once' (as o0_of1/1602)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Super Parts",
+   "Heavy Weapon Pack"
+  ],
+  "unfinished": []
+ }
+}

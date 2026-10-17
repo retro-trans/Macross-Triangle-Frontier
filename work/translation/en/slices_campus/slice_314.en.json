@@ -1,0 +1,577 @@
+{
+ "slice": 314,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c22666",
+   "en": "(I'm going to the school Christmas party\nwith Alto, but...)",
+   "flags": [],
+   "notes": "Gakkou (school) here, not gakuen."
+  },
+  {
+   "id": "c22667",
+   "en": "Yo, \\p.\nSorry to keep you waiting.",
+   "flags": [],
+   "notes": "Alto, both versions."
+  },
+  {
+   "id": "c22668",
+   "en": "Oh, Alto!\nMerry Christmas!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22669",
+   "en": "Hm? Yeah.",
+   "flags": [],
+   "notes": "Alto, both versions; flat reply."
+  },
+  {
+   "id": "c22670",
+   "en": "Come on, you're no fun...",
+   "flags": [],
+   "notes": "Nori ga warui."
+  },
+  {
+   "id": "c22671",
+   "en": "You're just too hyped up, aren't you?",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22672",
+   "en": "Yeah, yeah. Whatever, let's go!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22673",
+   "en": "Ahh, that was fun!",
+   "flags": [],
+   "notes": "x4: Alto and Nanase scenes, both genders."
+  },
+  {
+   "id": "c22674",
+   "en": "Well, yeah, it was.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22675",
+   "en": "Do you really mean that?",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22676",
+   "en": "No, really, I had fun. I mean it.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22677",
+   "en": "Oh, really? Well, that's good.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22678",
+   "en": "I guess with stuff like this, it all depends\non who you come with...\nWell, here's to next year too.",
+   "flags": [],
+   "notes": "Yoroshiku na -> 'here's to next year'; player answers 'Yeah, same here!' (c22627)."
+  },
+  {
+   "id": "c22679",
+   "en": "(It was a fun Christmas this year too!)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22680",
+   "en": "(I'm going to the school Christmas party\nwith Saotome-kun, but...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22681",
+   "en": "Oh, Saotome-kun!\nMerry Christmas!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22682",
+   "en": "Geez! You're no fun...",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22683",
+   "en": "Yeah, yeah. Come on, let's go!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22684",
+   "en": "Hm? Yeah, it was.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22685",
+   "en": "Let's do it again next year, too...",
+   "flags": [],
+   "notes": "Alto mumbles it; the player asks 'Huh? What?' next. Subject restored as 'let's'."
+  },
+  {
+   "id": "c22686",
+   "en": "No, never mind.\nWell, here's to next year too.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22687",
+   "en": "(Was Saotome-kun's face red just now?)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22688",
+   "en": "(I promised to go to this year's Christmas party\nwith Michel, but...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22689",
+   "en": "Yo, \\p. Merry Christmas.",
+   "flags": [],
+   "notes": "Michel, both versions."
+  },
+  {
+   "id": "c22690",
+   "en": "Merry Christmas, Michel.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22691",
+   "en": "I can't wait for this year's Christmas party!\nLet's all have even more fun than last year!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22692",
+   "en": "Well, that does sound like fun, but...",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22693",
+   "en": "I wouldn't mind spending it\njust the two of us, you know...",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22694",
+   "en": "Nah, never mind... Come on, let's go.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22695",
+   "en": "Can't believe Alto got tricked into actually\ndressing up as a girl. Just thinking about it\ncracks me up.",
+   "flags": [],
+   "notes": "Both versions. Josou = cross-dressing."
+  },
+  {
+   "id": "c22696",
+   "en": "I think so too.\nIf we could spend next year like this too...",
+   "flags": [],
+   "notes": "Both versions; trails off, next row continues."
+  },
+  {
+   "id": "c22697",
+   "en": "No, maybe next year we should have\na Christmas party for just the two of us?",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22698",
+   "en": "Heh, just kidding...\nWell, I'm counting on you again next year.",
+   "flags": [],
+   "notes": "Both versions. Yoroshiku tanomu ze."
+  },
+  {
+   "id": "c22699",
+   "en": "(I'm glad I got to have a fun Christmas, but...\nthat last remark from Michel\nsurprised me a little.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22700",
+   "en": "(I promised to go to this year's Christmas party\nwith Michel-kun, but...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22701",
+   "en": "Merry Christmas, Michel-kun.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22702",
+   "en": "I can't wait for this year's Christmas party!\nLet's all have even more fun than last year!",
+   "flags": [],
+   "notes": "Female version; same English as c22691."
+  },
+  {
+   "id": "c22703",
+   "en": "(I'm glad I got to have a fun Christmas, but...\nthat last remark from Michel-kun\nsurprised me a little.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22704",
+   "en": "(I'm supposed to meet Luca\nat the school gate, but...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22705",
+   "en": "\\p-san, Merry Christmas.",
+   "flags": [],
+   "notes": "Luca, both versions."
+  },
+  {
+   "id": "c22706",
+   "en": "Merry Christmas, Luca.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22707",
+   "en": "I wouldn't mind spending it\njust the two of us, though.",
+   "flags": [],
+   "notes": "Both versions; polite Luca."
+  },
+  {
+   "id": "c22708",
+   "en": "Oh, never mind. Come on, let's go!",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22709",
+   "en": "I can't believe Alto-senpai got tricked into\nactually dressing up as a girl...\nJust thinking about it makes me laugh...",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22710",
+   "en": "It really was a great Christmas~",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22711",
+   "en": "I think so too. Next year too, like this...\nOr maybe next year it should be a Christmas\nparty for just the two of us?",
+   "flags": [],
+   "notes": "Both versions. Luca cuts himself off (rainen mo konna fuu ni... iya)."
+  },
+  {
+   "id": "c22712",
+   "en": "...I'm kidding! See you next year!",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22713",
+   "en": "(I'm glad I got to have a fun Christmas, but...\nthat last remark from Luca\nsurprised me a little.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22714",
+   "en": "(I'm supposed to meet Luca-kun\nat the school gate, but...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22715",
+   "en": "Merry Christmas, Luca-kun.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22716",
+   "en": "(I'm glad I got to have a fun Christmas, but...\nthat last remark from Luca-kun\nsurprised me a little.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22717",
+   "en": "(I'm going to the Academy Christmas party\nwith Nanase, but...)",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22718",
+   "en": "Oh, \\p-kun!\nMerry Christmas!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22719",
+   "en": "Hey, Nanase!\nMerry Christmas!",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22720",
+   "en": "It feels like the new term just started,\nand it's already Christmas...\nTime sure flies!",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22721",
+   "en": "Yeah, it does.\nSo, shall we head inside?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22722",
+   "en": "Really, something like this is nice\nevery once in a while.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22723",
+   "en": "Parties with everyone are fun, huh?",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22724",
+   "en": "...Though spending it quietly, just two people\ntogether... that's something I dream of, too.",
+   "flags": [],
+   "notes": "Kept impersonal (no 'with you'): the player asks 'With who?' next, so the Japanese leaves the partner open on purpose."
+  },
+  {
+   "id": "c22725",
+   "en": "And who would that be with?",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22726",
+   "en": "Huh?!\nOh, sorry, I should be heading home!\nI'm looking forward to next year, too!",
+   "flags": [],
+   "notes": "Rainen mo yoroshiku onegai shimasu."
+  },
+  {
+   "id": "c22727",
+   "en": "Oh, okay. See you next year, then!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22728",
+   "en": "(Was Nanase a little embarrassed?)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22729",
+   "en": "Oh, \\p-san!\nMerry Christmas!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22730",
+   "en": "Yeah, it does.\nCome on, let's hurry inside!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22731",
+   "en": "They are! I'm already looking forward\nto next year!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22732",
+   "en": "Ahaha, you're getting ahead of yourself, Nanase.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22733",
+   "en": "Hee hee.\nWell, I'll be heading home now.\nI'm looking forward to next year, too!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22734",
+   "en": "Oh, okay. See you next year, then!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22735",
+   "en": "(So Nanase likes parties and stuff too.)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22736",
+   "en": "(I'm supposed to meet Ranka\nat the school gate, but...)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22737",
+   "en": "\\p-kun!\nMerry Christmas!",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22738",
+   "en": "Merry Christmas, Ranka.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22739",
+   "en": "I wouldn't have minded spending it\njust the two of us, though...",
+   "flags": [],
+   "notes": "Ranka, both versions."
+  },
+  {
+   "id": "c22740",
+   "en": "Ahaha, just kidding!\nLet's go inside!",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22741",
+   "en": "I can't believe Alto-kun got tricked into\nactually dressing up as a girl!\nJust thinking about it makes me laugh...!",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22742",
+   "en": "It really turned out to be a fun Christmas.",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  },
+  {
+   "id": "c22743",
+   "en": "Maybe next year, a Christmas party\nfor just the two of us would be nice.",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22744",
+   "en": "...Never mind!\nWell, see you next year!",
+   "flags": [],
+   "notes": "Both versions."
+  },
+  {
+   "id": "c22745",
+   "en": "(I'm glad I got to have a fun Christmas, but...\nthat last remark from Ranka\nsurprised me a little~)",
+   "flags": [
+    "|"
+   ],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

@@ -1,0 +1,421 @@
+{
+ "slice": 263,
+ "rows_in_slice": 68,
+ "rows_examined": 68,
+ "rows": [
+  {
+   "id": "c18931",
+   "en": "(Hmm, with summer break this long,\nI'm starting to run out of things to do...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18932",
+   "en": "(Wait, huh? Is that Pinon-chan?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18933",
+   "en": "\\p?!\nWh-what are you doing in a place like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18934",
+   "en": "I was bored, so I was just wandering around.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18935",
+   "en": "I see, good for you...\nWell, see you later......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18936",
+   "en": "W-wait up, Pinon-chan.\nIf you're free, let's go have fun somewhere...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18937",
+   "en": "I have important business to attend to now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18938",
+   "en": "Can't I come along with you for that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18939",
+   "en": "N-no! Don't you dare follow me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18940",
+   "en": "Like I'd let you tag along when I'm going\nto buy a swimsuit...",
+   "flags": [],
+   "notes": "Muttered aside; the player doesn't catch it (c18941)."
+  },
+  {
+   "id": "c18941",
+   "en": "Huh? Did you say something?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18942",
+   "en": "Nothing!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18943",
+   "en": "(Hmm... What was Pinon-chan's business\nabout, anyway?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18944",
+   "en": "(Hmm, with summer break this long,\nI'm starting to run out of things to do...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18945",
+   "en": "I was bored, so I was just wandering around.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18946",
+   "en": "Can't I come along with you for that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18947",
+   "en": "(Hmm... What was Pinon-chan's business\nabout, anyway?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18948",
+   "en": "(Sheryl's concert is coming up soon...\nI'm finally going to meet the Galactic Fairy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18949",
+   "en": "C-can I have a moment? \\p...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18950",
+   "en": "There's something I want to ask of you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18951",
+   "en": "(It's rare for Pinon-chan to ask me for a favor.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18952",
+   "en": "I-I'm sorry, but...\ncould you get Sheryl's autograph for me?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18953",
+   "en": "An autograph?\nPinon-chan, are you a Sheryl fan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18954",
+   "en": "S-so what if I am?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18955",
+   "en": "Heh, no, nothing wrong with that.\nI'll get one for you if I can, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18956",
+   "en": "R-really?!\nI'm counting on you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18957",
+   "en": "(Pinon-chan being a Sheryl fan...\nThat's a little surprising.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18958",
+   "en": "(I've got to get that autograph,\nfor Pinon-chan's sake.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18959",
+   "en": "(Sheryl's concert is coming up soon...\nI'm finally going to meet the Galactic Fairy.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18960",
+   "en": "(It's rare for Pinon-chan to ask me for a favor.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18961",
+   "en": "(Pinon-chan being a Sheryl fan...\nThat's a little surprising.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18962",
+   "en": "(I've got to get that autograph,\nfor Pinon-chan's sake.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18963",
+   "en": "\\p, \\p!\nDid you hear? They say a new planet's been found!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18964",
+   "en": "Yeah, I heard.\nYou look happy about the new planet too, Pinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18965",
+   "en": "Hmph, of course I am!\nThey found a new planet we can live on!\nThis is a historic discovery!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18966",
+   "en": "What's this? \\p,\naren't you happy they found a new planet?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18967",
+   "en": "It's not that...\nI guess I'm still a little uneasy, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18968",
+   "en": "What a dummy you are.\nI'm here, so what is there to be uneasy about?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18969",
+   "en": "Haha, you're right, Pinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18970",
+   "en": "That's right.\nLeave it to me, and there'll be no problems at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18971",
+   "en": "(I'm still a bit uneasy about the new planet...\nbut with Pinon-chan around, it's like having\na hundred people on my side, right?)",
+   "flags": [],
+   "notes": "Shared m/f. 'hyakunin-riki' (strength of a hundred)."
+  },
+  {
+   "id": "c18972",
+   "en": "Yeah, I heard.\nYou look happy about the new planet too, Pinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18973",
+   "en": "It's not that...\nI guess I'm still a little uneasy, though.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18974",
+   "en": "Hehe, you're right, Pinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18975",
+   "en": "(Haaah~...\nI guess I really stayed up a bit too late last night.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18976",
+   "en": "Yawning first thing in the morning...\nHow sloppy, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18977",
+   "en": "Oh, good morning, Pinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18978",
+   "en": "As a student of Mihoshi Academy,\nyou should shape up a bit more! Shape up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18979",
+   "en": "Sorry, Pinon-sensei...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18980",
+   "en": "You need to live a proper, orderly life\nlike I do.\nYou go to bed at 9 p.m. sharp, and then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18981",
+   "en": "Huh?! Nine?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18982",
+   "en": "What are you so surprised about?\nEveryone knows good kids are in bed by nine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18983",
+   "en": "(That's way too early to go to bed...\nPinon-chan......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18984",
+   "en": "(Haaah~...\nI guess I really stayed up a bit too late last night.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18985",
+   "en": "(That's way too early to go to bed...\nPinon-chan......)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18986",
+   "en": "(The city in this state... I don't want to believe it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18987",
+   "en": "I never thought it would be this bad...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18988",
+   "en": "\\p...\nIs there anything I can do\nfor the Frontier as it is now...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18989",
+   "en": "There is...\nAfter all, you're a genius, Pinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18990",
+   "en": "I see... You're right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18991",
+   "en": "All right! I'll do my best!\nI'll work hard and restore this city!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18992",
+   "en": "Pinon-chan...\nIf there's anything I can help with, let me know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18993",
+   "en": "Yeah, I'll count on you then.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18994",
+   "en": "(There must be something I can do too.\nI've got to do my best as well!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18995",
+   "en": "(The city in this state... I don't want to believe it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18996",
+   "en": "There is...\nAfter all, you're a genius, Pinon-chan.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18997",
+   "en": "Pinon-chan...\nIf there's anything I can help with, let me know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c18998",
+   "en": "(There must be something I can do too.\nI've got to do my best as well!)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

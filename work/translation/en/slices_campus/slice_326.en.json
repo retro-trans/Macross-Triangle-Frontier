@@ -1,0 +1,498 @@
+{
+ "slice": 326,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c23610",
+   "en": "The AI operator we're using this time is\nStaff Officer Exsedol Folmo\nof the Macross 7 fleet.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "sanbou = staff officer (title, not in ranks glossary)."
+  },
+  {
+   "id": "c23611",
+   "en": "All right, let's get the stunt started.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23612",
+   "en": "Then I guess I'll ask Michel to play Ivanov.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23613",
+   "en": "(I can't let my guard down just because\nit's a stunt. I've gotta do this right!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23614",
+   "en": "Wow... the sea on Island 3 really is beautiful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23615",
+   "en": "I know, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23616",
+   "en": "Still, Mihoshi Academy and S.M.S. helping\nfilm the stunts for a movie...\nThat's pretty incredible.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23617",
+   "en": "Huh, really?\nSo what kind of Valkyrie are they using\nfor the shoot?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23618",
+   "en": "(Uh-oh, Luca-kun's started one of his\nlong explanations...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23619",
+   "en": "Got it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23620",
+   "en": "Do the stunt with Saotome-kun",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c23621",
+   "en": "Do the stunt with Michel-kun",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c23622",
+   "en": "Then I guess I'll ask Saotome-kun to play Ivanov.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23623",
+   "en": "As if I would.",
+   "flags": [],
+   "notes": "atarimae desho, answering 'don't slack off'."
+  },
+  {
+   "id": "c23624",
+   "en": "Then I guess I'll ask Michel-kun to play Ivanov.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23625",
+   "en": "(I can't let my guard down just because\nit's a stunt. I've got to do this right!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23626",
+   "en": "(Oh no, that stunt was a total failure.)",
+   "flags": [],
+   "notes": "x4: scd_fes_804 and scd_fes_805 (male)."
+  },
+  {
+   "id": "c23627",
+   "en": "Jeez, you can't even pull off a decent stunt?\nSwap roles with Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23628",
+   "en": "(Sigh...\nNext time, I've gotta try harder so I don't\ndrag everyone down...)",
+   "flags": [],
+   "notes": "x8, both genders, scd_fes_804 and 805."
+  },
+  {
+   "id": "c23629",
+   "en": "(That should work fine as a stunt.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23630",
+   "en": "You're better than I expected.\nThose weren't bad moves at all.",
+   "flags": [],
+   "notes": "x4 (Alto, both scenes, both genders)."
+  },
+  {
+   "id": "c23631",
+   "en": "Thanks, Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23632",
+   "en": "My mistake for casting you as Focker.\nSorry, but swap with Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23633",
+   "en": "Huh, not bad.\nLet's knock out the next shoot at this pace too.",
+   "flags": [],
+   "notes": "x4 (Michel, both scenes, both genders)."
+  },
+  {
+   "id": "c23634",
+   "en": "Right, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23635",
+   "en": "That's it for today's filming, apparently.\nThanks for sticking it out this late.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23636",
+   "en": "That said, there's more filming next week.\nI'm counting on you again, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23637",
+   "en": "(Phew, it's finally over...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23638",
+   "en": "(Aww, man... I even bought a new swimsuit,\nand I didn't get any time to play at all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23639",
+   "en": "(Looks like there's more filming next week,\nso I hope that this time I'll finally get to\nhave fun at the beach with everyone.)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23640",
+   "en": "(Of course, that means I've gotta give\nthe stunts my all!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23641",
+   "en": "(Oh no, that stunt was a total failure.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23642",
+   "en": "(That should work fine as a stunt.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23643",
+   "en": "Right, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23644",
+   "en": "(Phew, it's finally over...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23645",
+   "en": "(Aww... I even bought a new swimsuit,\nand I didn't get any time to play at all...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23646",
+   "en": "(Of course, that means I've got to give\nthe stunts my all!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23647",
+   "en": "(All right! I'm gonna give the movie stunts\nmy all this week too! I'll finish early\nand go play at the beach!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23648",
+   "en": "Yahooooo!!!\nAll riiight!! This sea is all mine!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23649",
+   "en": "Hold it, Hoshimura!\nIt's dangerous to go in without\nwarming up properly first!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23650",
+   "en": "Huh?! What?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23651",
+   "en": "Honestly... you two are getting way too\nexcited just because you can play at the beach...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23652",
+   "en": "Huh? Why are you three in swimsuits,\ngetting ready to play?",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23653",
+   "en": "Oh, \\p-kun.\nOur group's already done filming,\nso we were told we're free to do as we like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23654",
+   "en": "Well then, \\p-kun, you and the others\nkeep up the good work helping out\nwith the filming, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23655",
+   "en": "(I'm gonna play at the beach too,\nno matter what!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23656",
+   "en": "Today's stunt is for what you could call\nthe climactic scene of this movie.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23657",
+   "en": "The part where Shin goes to rescue Sara, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23658",
+   "en": "Yeah, that's the one.\nI'm thinking I want you to play Shin.\nNo problem with that, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23659",
+   "en": "Yeah, leave it to me.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23660",
+   "en": "Then I'm counting on you.\nThat just leaves Focker, Shin's partner...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23661",
+   "en": "He's your partner, after all.\nMe or Alto, which one do you want to\nteam up with? You pick.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23662",
+   "en": "Team up with Alto",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c23663",
+   "en": "Team up with Michel",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c23664",
+   "en": "I think I'll pick Alto as my partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23665",
+   "en": "The obvious choice.\nLet's leave Michel crying in our dust.",
+   "flags": [],
+   "notes": "hoezura kakaseru = make someone cry in defeat."
+  },
+  {
+   "id": "c23666",
+   "en": "Ooh, scary. That's Princess Alto for you.",
+   "flags": [],
+   "notes": "Arto-hime as shipped ('Princess Alto')."
+  },
+  {
+   "id": "c23667",
+   "en": "All right, let's get right to the shoot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23668",
+   "en": "I think I'll pick Michel as my partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23669",
+   "en": "The obvious choice.\nLet's have a little fun with Princess Alto.",
+   "flags": [],
+   "notes": "karakau = tease."
+  },
+  {
+   "id": "c23670",
+   "en": "Michel...! You're the one who'll be crying,\nyou bastard!",
+   "flags": [],
+   "notes": "kisama kept at full strength."
+  },
+  {
+   "id": "c23671",
+   "en": "Yeah, yeah.\nAll right, let's get right to the shoot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23672",
+   "en": "(All right! I'm gonna do my best so we get\na dogfight scene that feels totally real!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23673",
+   "en": "(All right! I've got to give the movie stunts\nmy all this week too! I'll finish early\nand go play at the beach!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23674",
+   "en": "Oh, \\p-san.\nOur group's already done filming,\nso we were told we're free to do as we like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23675",
+   "en": "O-oh, I see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23676",
+   "en": "Well then, \\p-san, you and the others\nkeep up the good work helping out\nwith the filming, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23677",
+   "en": "(I'm going to play at the beach too,\nno matter what!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23678",
+   "en": "The part where Shin goes to rescue Sara, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23679",
+   "en": "Team up with Saotome-kun",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c23680",
+   "en": "Team up with Michel-kun",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c23681",
+   "en": "I think I'll pick Saotome-kun as my partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23682",
+   "en": "I think I'll pick Michel-kun as my partner.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23683",
+   "en": "(All right! I'm going to do my best so we get\na dogfight scene that feels totally real!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23684",
+   "en": "Jeez, can't you even pull off a decent stunt?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23685",
+   "en": "Jeez, come on, get it together.\nGuess Shin was too big a role for you\nafter all...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23686",
+   "en": "(Phew, that about wraps up my part\nin the movie shoot.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23687",
+   "en": "(It was tough, but I got to have a pretty\nrare experience, and it was fun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23688",
+   "en": "(And now, finally, the beach...!)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c23689",
+   "en": "(Hm?)",
+   "flags": [],
+   "notes": "x4 (also scd_fes_807)."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c23610: Exsedol's title sanbou rendered 'Staff Officer' (no glossary entry for this title).",
+   "c23670: Alto's kisama rendered 'you bastard' (full strength, rivalry banter with Michel)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

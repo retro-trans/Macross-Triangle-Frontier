@@ -1,0 +1,493 @@
+{
+ "slice": 322,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c23290",
+   "en": "\\p, good timing.\nI was just looking for you.",
+   "flags": [],
+   "notes": "Michel, White Day (female player)."
+  },
+  {
+   "id": "c23291",
+   "en": "Here's my return gift for Valentine's.\nTake it.",
+   "flags": [],
+   "notes": "Michel."
+  },
+  {
+   "id": "c23292",
+   "en": "Thank you, Michel-kun.\n...Wait, what is this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23293",
+   "en": "Fashion glasses with no prescription.\nI bet they'd look great on you.",
+   "flags": [],
+   "notes": "Michel."
+  },
+  {
+   "id": "c23294",
+   "en": "Wow... Thank you so much, Michel-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23295",
+   "en": "Glad you like them.\nI picked out something I thought would suit you,\nso try them on sometime, okay?",
+   "flags": [],
+   "notes": "Michel."
+  },
+  {
+   "id": "c23296",
+   "en": "Sure, I'll wear them next time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23297",
+   "en": "(He actually thought about a present for me...\nI'm really happy.\nThank you, Michel-kun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23298",
+   "en": "\\p-san, good timing!\nThere's something I wanted to give you.",
+   "flags": [],
+   "notes": "Luca."
+  },
+  {
+   "id": "c23299",
+   "en": "This is a return gift for Valentine's.\nPlease accept it.",
+   "flags": [],
+   "notes": "Luca."
+  },
+  {
+   "id": "c23300",
+   "en": "Thank you, Luca-kun.\n...Wait, what is this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23301",
+   "en": "It's a vacuum cleaner I built myself.\nIt's a special model: quiet, yet high-powered!",
+   "flags": [],
+   "notes": "Luca."
+  },
+  {
+   "id": "c23302",
+   "en": "Wow... Thank you so much, Luca-kun.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23303",
+   "en": "I'm glad you like it!\nIt was worth building.",
+   "flags": [],
+   "notes": "Luca."
+  },
+  {
+   "id": "c23304",
+   "en": "Oh, Nanase.\nThis is a return gift for Valentine's Day,\nif you'd like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23305",
+   "en": "\\p-kun!\nAre you sure? Thank you so much!",
+   "flags": [],
+   "notes": "Nanase."
+  },
+  {
+   "id": "c23306",
+   "en": "I hope you like it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23307",
+   "en": "This is... a paintbrush case!\nAnd the pattern's so cute... Thank you!",
+   "flags": [],
+   "notes": "Nanase."
+  },
+  {
+   "id": "c23308",
+   "en": "Yeah, go ahead and use it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23309",
+   "en": "Yes, I'll start using it right away!",
+   "flags": [],
+   "notes": "Nanase."
+  },
+  {
+   "id": "c23310",
+   "en": "Yeah. Let's keep getting along.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23311",
+   "en": "Yes, likewise!",
+   "flags": [],
+   "notes": "Nanase."
+  },
+  {
+   "id": "c23312",
+   "en": "(Looks like Nanase liked it!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23313",
+   "en": "Ranka, here's your return gift for White Day.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23314",
+   "en": "Wow~ Thank you...!\nEhehe, this is kinda embarrassing...",
+   "flags": [],
+   "notes": "Ranka."
+  },
+  {
+   "id": "c23315",
+   "en": "Go ahead and open it, if you want.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23316",
+   "en": "Huh... This is...",
+   "flags": [],
+   "notes": "Ranka."
+  },
+  {
+   "id": "c23317",
+   "en": "Yeah. I want to keep listening to your songs\nforever, Ranka, so I got you throat drops.\nThey're pretty rare, you know.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23318",
+   "en": "Of course.\nI bought them for you, Ranka.",
+   "flags": [],
+   "notes": "Answers Ranka's 'Can I really have this?' (c23263)."
+  },
+  {
+   "id": "c23319",
+   "en": "Th-thank you... \\p-kun.",
+   "flags": [],
+   "notes": "Ranka."
+  },
+  {
+   "id": "c23320",
+   "en": "(I'm glad Ranka seemed happy with it.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23321",
+   "en": "Oh, Sheryl.\nThis is a return gift for Valentine's Day,\nif you'd like it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23322",
+   "en": "Oh, \\p?\nYou didn't have to go to all that trouble...",
+   "flags": [],
+   "notes": "Sheryl."
+  },
+  {
+   "id": "c23323",
+   "en": "Hm? Sheryl, what's wrong?",
+   "flags": [],
+   "notes": "Sheryl has spotted the gift and is staring at it."
+  },
+  {
+   "id": "c23324",
+   "en": "Huh... What's that?",
+   "flags": [],
+   "notes": "Sheryl."
+  },
+  {
+   "id": "c23325",
+   "en": "It's Galaxy Candy, from a shop\nin Deep Akihabara... It's popular for\nits colorful look and poppy design!",
+   "flags": [],
+   "notes": "Reflowed within 3 lines. Fukashi Akihabara = Deep Akihabara (glossary)."
+  },
+  {
+   "id": "c23326",
+   "en": "Ooh, how cute~!!\n...Is that for me?",
+   "flags": [],
+   "notes": "Sheryl."
+  },
+  {
+   "id": "c23327",
+   "en": "Thank you~!!\nYou've got pretty good taste!\nI'll be counting on you from now on, too!",
+   "flags": [],
+   "notes": "Sheryl."
+  },
+  {
+   "id": "c23328",
+   "en": "Oh, uh, yeah. Same here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23329",
+   "en": "(I can't believe Sheryl was that happy...\nThat made the present totally worth it!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23330",
+   "en": "Klan-senpai,\nit's White Day, so here's my return gift.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23331",
+   "en": "Y-yes, well...\nThis is strangely embarrassing, isn't it?",
+   "flags": [],
+   "notes": "Klan."
+  },
+  {
+   "id": "c23332",
+   "en": "Th-this is...",
+   "flags": [],
+   "notes": "Klan."
+  },
+  {
+   "id": "c23333",
+   "en": "You said your hobby was fashion, Senpai,\nso I bought you some clothes I thought\nwould look good on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23334",
+   "en": "Am I truly allowed to have this?",
+   "flags": [],
+   "notes": "Klan."
+  },
+  {
+   "id": "c23335",
+   "en": "Of course.\nI bought them for you, Klan-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23336",
+   "en": "Oh, no need to thank me...\nPlease keep looking out for me,\nKlan-senpai.",
+   "flags": [],
+   "notes": "Answers Klan's 'Th-thanks' (c23276)."
+  },
+  {
+   "id": "c23337",
+   "en": "Mm, and I'm counting on you as well!",
+   "flags": [],
+   "notes": "Klan."
+  },
+  {
+   "id": "c23338",
+   "en": "(Klan-senpai seemed happy, so I'm\nreally glad I gave her a return gift.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23339",
+   "en": "(It's already been two weeks\nsince Sheryl transferred here...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23340",
+   "en": "(I feel like the restless mood at Mihoshi\nhas finally settled down quite a bit.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23341",
+   "en": "(When she first transferred,\nMihoshi was all Sheryl, all the time...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23342",
+   "en": "Excuse me, do you have a moment?",
+   "flags": [],
+   "notes": "??? (woman) = Grace, unnamed until c23349; shared male/female."
+  },
+  {
+   "id": "c23343",
+   "en": "Y-yes?",
+   "flags": [],
+   "notes": "Shared."
+  },
+  {
+   "id": "c23344",
+   "en": "I'm sorry, but would you mind\ntaking this to Sheryl for me?",
+   "flags": [],
+   "notes": "Grace (unnamed); shared."
+  },
+  {
+   "id": "c23345",
+   "en": "That girl was so looking forward to\nswimming class, and then she went\nand forgot her swimsuit...",
+   "flags": [],
+   "notes": "Grace (unnamed); shared."
+  },
+  {
+   "id": "c23346",
+   "en": "(She seems to know Sheryl, but...)",
+   "flags": [],
+   "notes": "'She' = the woman; the plate says woman."
+  },
+  {
+   "id": "c23347",
+   "en": "Um... and who exactly are you...?",
+   "flags": [],
+   "notes": "Shared."
+  },
+  {
+   "id": "c23348",
+   "en": "Oh, I'm sorry, I haven't even\nintroduced myself yet.",
+   "flags": [],
+   "notes": "Grace (unnamed); shared."
+  },
+  {
+   "id": "c23349",
+   "en": "I'm Grace O'Connor.\nI'm Sheryl's manager.",
+   "flags": [],
+   "notes": "x4 (both versions)."
+  },
+  {
+   "id": "c23350",
+   "en": "Oh! So you're Sheryl's manager.\nMy name is......",
+   "flags": [],
+   "notes": "Manager-san: job title, translated without honorific (brief: tenin-san -> 'the clerk')."
+  },
+  {
+   "id": "c23351",
+   "en": "\\p-kun, from Mihoshi Academy High,\nPilot Course, Class 2-B, right?",
+   "flags": [],
+   "notes": "Grace."
+  },
+  {
+   "id": "c23352",
+   "en": "Yes, that's right...\nWait, how do you know my name?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23353",
+   "en": "Hehe, sorry for startling you.\nThe truth is, I have implants in my body.",
+   "flags": [],
+   "notes": "Grace; shared."
+  },
+  {
+   "id": "c23354",
+   "en": "So I just took a peek into Mihoshi's network\nand looked up your information.",
+   "flags": [],
+   "notes": "Grace; shared."
+  },
+  {
+   "id": "c23355",
+   "en": "(Implants... That's the tech that mechanizes\nthe human body to enhance it physically\nor boost information processing, right?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23356",
+   "en": "Wow, that sounds handy.",
+   "flags": [],
+   "notes": "Shared."
+  },
+  {
+   "id": "c23357",
+   "en": "Then how about you? Want to get implants too?",
+   "flags": [],
+   "notes": "Grace; shared."
+  },
+  {
+   "id": "c23358",
+   "en": "Hehe, just kidding.\nImplants are illegal on the Frontier, after all.",
+   "flags": [],
+   "notes": "Grace; shared."
+  },
+  {
+   "id": "c23359",
+   "en": "Well then, sorry for the trouble, but\nI'm counting on you to get that to Sheryl.",
+   "flags": [],
+   "notes": "Grace asking the player; shared."
+  },
+  {
+   "id": "c23360",
+   "en": "(So that's Sheryl's manager, Grace-san.\nShe seemed like a really kind, nice person...)",
+   "flags": [],
+   "notes": "Matches the female c23371 in slice 323."
+  },
+  {
+   "id": "c23361",
+   "en": "(Oh, right, I'd better hurry and take Sheryl\nthe thing she forgot...)",
+   "flags": [],
+   "notes": "Matches c23372 in slice 323."
+  },
+  {
+   "id": "c23362",
+   "en": "(It's already been two weeks\nsince Sheryl-san transferred here...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23363",
+   "en": "(I feel like the restless mood at Mihoshi\nhas finally settled down quite a bit.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23364",
+   "en": "(When she first transferred,\nMihoshi was all Sheryl-san, all the time...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23365",
+   "en": "(She seems to know Sheryl-san, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23366",
+   "en": "Oh!\nSo you're Sheryl-san's manager.\nMy name is......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23367",
+   "en": "\\p-san, from Mihoshi Academy High,\nPilot Course, Class 2-B, right?",
+   "flags": [],
+   "notes": "Grace."
+  },
+  {
+   "id": "c23368",
+   "en": "Yes, that's right...\nWait, how do you know my name?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c23369",
+   "en": "(Implants... That's the tech that mechanizes\nthe human body to enhance it physically\nor boost information processing, right?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

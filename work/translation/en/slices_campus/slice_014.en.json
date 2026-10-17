@@ -1,0 +1,407 @@
+{
+ "slice": 14,
+ "rows_in_slice": 63,
+ "rows_examined": 63,
+ "rows": [
+  {
+   "id": "c00978",
+   "en": "(Gary-sensei called me in again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00979",
+   "en": "(It's remedial P.E. again, isn't it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00980",
+   "en": "Hey, \\p.\nYou came...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00981",
+   "en": "Hello,\nSensei!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00982",
+   "en": "Looks like you've learned to say hello, at least.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00983",
+   "en": "But your P.E. is as hopeless as ever.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00984",
+   "en": "...Whatever.\nLet's get right to your remedial P.E.!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00985",
+   "en": "Yes!!",
+   "flags": [],
+   "notes": "Used in 10 places, possibly with other teachers, so kept neutral."
+  },
+  {
+   "id": "c00986",
+   "en": "Today I've got a special guest lined up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00987",
+   "en": "A guest...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00988",
+   "en": "Hey, Yuuto!\nGet out here!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00989",
+   "en": "Hey, \\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00990",
+   "en": "Y-Yuuto...\nYou've got remedial too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00991",
+   "en": "Whoa, whoa, don't lump Yuuto in with you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00992",
+   "en": "Then why is he here?",
+   "flags": [],
+   "notes": "Subject restored: 'ja, doushite?' asks why Yuuto is here."
+  },
+  {
+   "id": "c00993",
+   "en": "Yuuto couldn't stand watching what a slacker you are,\nso he's joining you for this training.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00994",
+   "en": "So that's what it is...\nThanks, Yuuto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00995",
+   "en": "Ha ha ha, well, let's give it our best.\nTwo heads are better than one, right?",
+   "flags": [],
+   "notes": "'hitori yori futari' idiom."
+  },
+  {
+   "id": "c00996",
+   "en": "Today we focus on endurance running!\nTwenty 1500 m runs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00997",
+   "en": "Fire yourselves up! Let the training begiiin!!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00998",
+   "en": "Come on, that's only the fifth set!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00999",
+   "en": "Ten sets left!\nWe're halfway there!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01000",
+   "en": "H-how is Yuuto not even winded...",
+   "flags": [],
+   "notes": "'yoyuu' = taking it easily."
+  },
+  {
+   "id": "c01001",
+   "en": "Five sets left!\nFocus, focus!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01002",
+   "en": "You stuck it out. Good work.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01003",
+   "en": "I'm impressed,\n\\p.",
+   "flags": [],
+   "notes": "'minaoshita' = I think better of you now."
+  },
+  {
+   "id": "c01004",
+   "en": "See ya.\nMove your body every day, got it?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01005",
+   "en": "I'm heading home too. Even I'm worn out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01006",
+   "en": "Yeah, thanks to you too, Yuuto!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01007",
+   "en": "(Phew, it's not just Gary-sensei...\nYuuto's a crazy good athlete too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01008",
+   "en": "(Gary-sensei called me in agaaain...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01009",
+   "en": "(It's gotta be remedial P.E. again...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01010",
+   "en": "A guest?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01011",
+   "en": "K-Kagura-kun...\nYou've got remedial too?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01012",
+   "en": "Is that so...?\nThank you, Kagura-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01013",
+   "en": "Today we focus on endurance running!\nTen 1500 m runs!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01014",
+   "en": "Come on, that's only the second set!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01015",
+   "en": "Five sets left!\nWe're halfway there!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01016",
+   "en": "H-how is Kagura-kun so relaaaxed?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01017",
+   "en": "One set left!\nFocus, focus!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01018",
+   "en": "Yeah, thanks to you too, Kagura-kun!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01019",
+   "en": "(Phew, it's not just Gary-sensei...\nKagura-kun's an amazing athlete too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01020",
+   "en": "...Took you long enough,\n\\p.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01021",
+   "en": "Huh, Gary-sensei... what's going on?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01022",
+   "en": "...I've been waiting for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01023",
+   "en": "Wh-what is it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01024",
+   "en": "...Haven't you got something to report to me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01025",
+   "en": "Where's this coming from all of a sudden...\nReport? Not... really... anything? I think...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01026",
+   "en": "Sheesh... you're a hopeless guy, y'know!!",
+   "flags": [],
+   "notes": "'shou ga nee yarou' = hopeless guy; 'yarou' (guy) is what the female player objects to in c01031."
+  },
+  {
+   "id": "c01027",
+   "en": "I heard the rumors, y'know...?\nThat you've been hanging out with that girl a lot...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'ano onna' = 'that girl' (the player's love interest, unnamed); 'that woman' would sound odd for a classmate."
+  },
+  {
+   "id": "c01028",
+   "en": "Huh? Rumors?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01029",
+   "en": "Don't worry!\nEven if the other teachers object,\nI, for one, will be rooting for you!!",
+   "flags": [],
+   "notes": "Three lines (JP two) for width."
+  },
+  {
+   "id": "c01030",
+   "en": "Me?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female variant of 'na, nani ka?' after 'I've been waiting for you'; used in 18 places, kept short."
+  },
+  {
+   "id": "c01031",
+   "en": "I'm not a guy...",
+   "flags": [],
+   "notes": "Answers Gary's 'yarou' (guy) in c01026."
+  },
+  {
+   "id": "c01032",
+   "en": "No use hiding it, no use hiding it!!\nEven if the other teachers object,\nI, for one, will be rooting for you!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01033",
+   "en": "I heard the rumors, y'know...?\nThat you've been hanging out with that guy a lot...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "'ano otoko' = 'that guy'; labelled male variant though it reads as the female-player counterpart of c01027."
+  },
+  {
+   "id": "c01034",
+   "en": "Hey, Protagonist.\nSo you finally showed up...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "ext_gyr_* is an older copy of ext_gry_* that has the literal word 'shujinkou' (protagonist) where the later script has the player-name code. Translated as written; no \\p added."
+  },
+  {
+   "id": "c01035",
+   "en": "...Good.\nYou know why you were called in today, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01036",
+   "en": "That's right, you beansprout!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01037",
+   "en": "Answer me,\nProtagonist!!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Literal 'shujinkou', see c01034."
+  },
+  {
+   "id": "c01038",
+   "en": "W-well then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01039",
+   "en": "O-okay...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01040",
+   "en": "(He did twice as much exercise as me...\nIs Gary-sensei immortal or what...?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c01027: 'ano onna' = 'that girl' (the player's love interest, unnamed); 'that woman' would sound odd for a classmate.",
+   "c01030: Female variant of 'na, nani ka?' after 'I've been waiting for you'; used in 18 places, kept short.",
+   "c01033: 'ano otoko' = 'that guy'; labelled male variant though it reads as the female-player counterpart of c01027.",
+   "c01034: ext_gyr_* is an older copy of ext_gry_* that has the literal word 'shujinkou' (protagonist) where the later script has the player-name code. Translated as written; no \\p added.",
+   "c01037: Literal 'shujinkou', see c01034."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

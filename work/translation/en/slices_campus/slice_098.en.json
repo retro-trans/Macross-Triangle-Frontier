@@ -1,0 +1,434 @@
+{
+ "slice": 98,
+ "rows_in_slice": 68,
+ "rows_examined": 68,
+ "rows": [
+  {
+   "id": "c07225",
+   "en": "(I'm out with Yuuto today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07226",
+   "en": "Yuuto, where's this place\nyou wanted to stop by?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x5. The script also shows this line under Kagura's plate (frd_kgr_008 both branches) and again for the player after the cemetery scene jump, apparently a leftover in the script. Translated as the player's question; it cannot be made to fit Kagura speaking."
+  },
+  {
+   "id": "c07227",
+   "en": "Arlington Cemetery.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Arlington Cemetery is provisional in locations.json."
+  },
+  {
+   "id": "c07228",
+   "en": "Do you go there often?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07229",
+   "en": "Yeah, my dad's grave is there...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07230",
+   "en": "All right, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07231",
+   "en": "My dad was already gone by the time\nI was old enough to remember.\nMy mom raised me all on her own.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07232",
+   "en": "Thanks to her, I got into the Pilot Course\nand became a pilot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07233",
+   "en": "That's why I want to protect my mom.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07234",
+   "en": "I see. Then you'd better give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07235",
+   "en": "Yeah, I will.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07236",
+   "en": "I'm rooting for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07237",
+   "en": "Yeah, thanks.",
+   "flags": [],
+   "notes": "x6: also Ranka (frd_rnk_008) and the player (frd_nns_002, scd_com_620 Valentine); fits."
+  },
+  {
+   "id": "c07238",
+   "en": "All riiight!\nRace you over there!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07239",
+   "en": "Wh-what for?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07240",
+   "en": "Hey, what are you doing?!\nI'm gonna leave you behind!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07241",
+   "en": "Okay, coming!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07242",
+   "en": "(I'll work hard too,\nso I don't lose to Yuuto!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07243",
+   "en": "(I'm out with Kagura-kun today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07244",
+   "en": "Kagura-kun, where's this place\nyou wanted to stop by?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07245",
+   "en": "I see. Then you'd better give it your all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07246",
+   "en": "I'm rooting for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07247",
+   "en": "Just rooting for me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07248",
+   "en": "Won't you stay by my side?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07249",
+   "en": "What's that supposed to mean?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07250",
+   "en": "Y-you can take it however you like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07251",
+   "en": "W-well, we're both busy right now!\nYou can give me an answer whenever!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07252",
+   "en": "H-hey, wait!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07253",
+   "en": "What's with him... Geez...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07254",
+   "en": "Mmm, coming~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07255",
+   "en": "(Was Kagura-kun just... covering up\nhow embarrassed he was...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07256",
+   "en": "(I was hanging out with Yuuto again today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07257",
+   "en": "Do you have some time after this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07258",
+   "en": "Sure, but is there somewhere\nyou want to stop by?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07259",
+   "en": "Mind if we go to the cemetery again?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07260",
+   "en": "Yeah, sure.",
+   "flags": [],
+   "notes": "x3: also frd_rnk_115 (Ranka asks to chat); fits."
+  },
+  {
+   "id": "c07261",
+   "en": "You were praying really hard again today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07262",
+   "en": "It's not really praying.\nI'm giving my dad a report.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07263",
+   "en": "What were you reporting?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07264",
+   "en": "All kinds of things. School, work...\nand you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07265",
+   "en": "Me?\nWh-what did you say about me...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07266",
+   "en": "That's a secret.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07267",
+   "en": "That's kind of scary. I'm not gonna get\ncursed later or anything, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07268",
+   "en": "As if that would ever happen...\nWhat are you even saying...?",
+   "flags": [
+    "uncertain",
+    "kept_omission"
+   ],
+   "notes": "Japanese has no subject for 'do such a thing' (the curse, presumably from his dead father). Kept impersonal ('As if that would ever happen') rather than guessing he/my dad."
+  },
+  {
+   "id": "c07269",
+   "en": "Just kidding.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07270",
+   "en": "Geez...",
+   "flags": [],
+   "notes": "x7: also Luca, Alto, the player (Gary/Michel scenes); fits all."
+  },
+  {
+   "id": "c07271",
+   "en": "Yeah, I guess so.",
+   "flags": [],
+   "notes": "x4: also Alto (nml_alt_015, 'another time then'); fits."
+  },
+  {
+   "id": "c07272",
+   "en": "No, it's nothing.\nCome on, let's go home!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07273",
+   "en": "(I wonder what he's been\nreporting about me?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07274",
+   "en": "(I was hanging out with Kagura-kun\nagain today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07275",
+   "en": "Okay, sure.",
+   "flags": [],
+   "notes": "x8: player and Ranka in several scenes (agreeing to go/eat together); fits."
+  },
+  {
+   "id": "c07276",
+   "en": "M-me?\nWh-what did you say about me...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07277",
+   "en": "Don't get so mad. I was just joking...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07278",
+   "en": "Well then, let's head home.",
+   "flags": [],
+   "notes": "x2: also frd_luk_111; fits."
+  },
+  {
+   "id": "c07279",
+   "en": "(I wonder what he's been\nreporting about me?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07280",
+   "en": "I heard you made Captain?",
+   "flags": [],
+   "notes": "taichou = Captain (terms.json)."
+  },
+  {
+   "id": "c07281",
+   "en": "Yeah, finally.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07282",
+   "en": "(So Yuuto's in the middle of\nservicing his fighter...)",
+   "flags": [],
+   "notes": "kitai rendered 'fighter'."
+  },
+  {
+   "id": "c07283",
+   "en": "\\p...\nIt's all thanks to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07284",
+   "en": "No, it's the result of\nyour own hard work, Yuuto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07285",
+   "en": "Y-you think so?",
+   "flags": [],
+   "notes": "x5: also the player (frd_kgr_105, frd_myk_003); fits."
+  },
+  {
+   "id": "c07286",
+   "en": "Yeah, I really did work hard, didn't I!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07287",
+   "en": "But I can't stop here!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07288",
+   "en": "\\p!\nI want to walk this path together with you!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07289",
+   "en": "You need more energy than that!",
+   "flags": [],
+   "notes": "Answers the player's 'Yeah, yeah.'"
+  },
+  {
+   "id": "c07290",
+   "en": "Let's go, then!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07291",
+   "en": "That's it! Off to our universe!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c07292",
+   "en": "Kagura ending (male).\nSlot filler for female.",
+   "flags": [],
+   "notes": "Developer placeholder under Alto's name plate (female branch of the male-only ending frd_kgr_009); translated literally, as c06488."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c07226: x5. The script also shows this line under Kagura's plate (frd_kgr_008 both branches) and again for the player after the cemetery scene jump, apparently a leftover in the script. Translated as the player's question; it cannot be made to fit Kagura speaking.",
+   "c07227: Arlington Cemetery is provisional in locations.json.",
+   "c07268: Japanese has no subject for 'do such a thing' (the curse, presumably from his dead father). Kept impersonal ('As if that would ever happen') rather than guessing he/my dad."
+  ],
+  "kept_omission": [
+   "c07268: Japanese has no subject for 'do such a thing' (the curse, presumably from his dead father). Kept impersonal ('As if that would ever happen') rather than guessing he/my dad."
+  ],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

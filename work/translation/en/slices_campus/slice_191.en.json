@@ -1,0 +1,409 @@
+{
+ "slice": 191,
+ "rows_in_slice": 66,
+ "rows_examined": 66,
+ "rows": [
+  {
+   "id": "c13974",
+   "en": "After that, before I knew it,\nSheryl had gone back to the Galaxy fleet.",
+   "flags": [],
+   "notes": "Male narration, frd_she_009. Galaxy = the Macross Galaxy fleet."
+  },
+  {
+   "id": "c13975",
+   "en": "Back at work as a singer, Sheryl showed\nno sign of her time away,",
+   "flags": [],
+   "notes": "Male; sentence continues in c13976."
+  },
+  {
+   "id": "c13976",
+   "en": "and in the blink of an eye, she was\nthe Galactic Fairy once again...",
+   "flags": [],
+   "notes": "x2, both genders; continues c13975/c13993."
+  },
+  {
+   "id": "c13977",
+   "en": "Me, I went on with my ordinary life,\nday in, day out,",
+   "flags": [],
+   "notes": "Male; continues into c13978."
+  },
+  {
+   "id": "c13978",
+   "en": "and the two years Sheryl was here\nfelt like something out of a movie.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c13979",
+   "en": "But strangely enough, it didn't get me down,",
+   "flags": [],
+   "notes": "x2, both genders; continues in c13980."
+  },
+  {
+   "id": "c13980",
+   "en": "and remembering it all made me feel\nlike I could give anything my best.",
+   "flags": [],
+   "notes": "x2, both genders."
+  },
+  {
+   "id": "c13981",
+   "en": "Maybe that was a spell cast\nby the 'Galactic Fairy'...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c13982",
+   "en": "Speaking of which, it turns out Sheryl's\nnext tour is bringing her to Frontier.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c13983",
+   "en": "The whole ship is going wild over it,\nand apparently tickets are really hard to get.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c13984",
+   "en": "And in the middle of all that, though\nI have no idea who they're from,",
+   "flags": [],
+   "notes": "Male; sentence continues in c13985."
+  },
+  {
+   "id": "c13985",
+   "en": "two tickets arrived for me...",
+   "flags": [],
+   "notes": "x2, both genders; continues c13984/c13999."
+  },
+  {
+   "id": "c13986",
+   "en": "Now, who should I go with...?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c13987",
+   "en": "Come ooon!",
+   "flags": [],
+   "notes": "Sheryl, both genders; she is hurrying the player along."
+  },
+  {
+   "id": "c13988",
+   "en": "Geez, I told you I'm tired.\nLet me rest for a bit...",
+   "flags": [],
+   "notes": "Male player to Sheryl."
+  },
+  {
+   "id": "c13989",
+   "en": "Oh, come on, hurry up!\nIf you dawdle, I'll leave you behind!",
+   "flags": [],
+   "notes": "Sheryl, both genders."
+  },
+  {
+   "id": "c13990",
+   "en": "Affinity ending.\nFiller for Sheryl (male).",
+   "flags": [],
+   "notes": "Developer placeholder under Alto's plate, translated literally like c12399. The Japanese says male although the occurrence is in the female-variant slot; kept as written."
+  },
+  {
+   "id": "c13991",
+   "en": "Affinity ending.\nFiller for Sheryl (female).",
+   "flags": [],
+   "notes": "Developer placeholder, literal like c12399; says female although in the male slot; kept as written."
+  },
+  {
+   "id": "c13992",
+   "en": "After that, before I knew it,\nSheryl-san had gone back to the Galaxy fleet.",
+   "flags": [],
+   "notes": "Female narration, frd_she_010."
+  },
+  {
+   "id": "c13993",
+   "en": "Back at work as a singer, Sheryl-san showed\nno sign of her time away,",
+   "flags": [],
+   "notes": "Female; continues in c13976."
+  },
+  {
+   "id": "c13994",
+   "en": "Me, I went on with my ordinary life,\nday in, day out,",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13995",
+   "en": "and the two years Sheryl-san was here\nfelt like something out of a movie.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13996",
+   "en": "Maybe that was a spell cast\nby the 'Galactic Fairy'...",
+   "flags": [],
+   "notes": "Female (sentence-final na, same meaning)."
+  },
+  {
+   "id": "c13997",
+   "en": "Speaking of which, it turns out Sheryl-san's\nnext tour is bringing her to Frontier.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13998",
+   "en": "The whole ship is going wild over it,\nand it seems tickets are really hard to get.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c13999",
+   "en": "And in the middle of all that, though\nI have no idea who they're from,",
+   "flags": [],
+   "notes": "Female; continues in c13985."
+  },
+  {
+   "id": "c14000",
+   "en": "Now then, who should I go with...?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14001",
+   "en": "Geez, I'm tired.\nLet's take a little break...",
+   "flags": [],
+   "notes": "Female player to Sheryl (polite)."
+  },
+  {
+   "id": "c14002",
+   "en": "(Oh, it's Sheryl. It's a long shot,\nbut I'll try asking her.)",
+   "flags": [],
+   "notes": "x16, male, frd_she_101-108; pattern as c06039."
+  },
+  {
+   "id": "c14003",
+   "en": "Oh? Is there something you want with me?",
+   "flags": [],
+   "notes": "x32, Sheryl, both genders."
+  },
+  {
+   "id": "c14004",
+   "en": "Well, I'll give you points for courage,\nbut unfortunately I'm busy today.",
+   "flags": [],
+   "notes": "Sheryl to male player."
+  },
+  {
+   "id": "c14005",
+   "en": "Well, you're welcome to ask me again sometime.",
+   "flags": [],
+   "notes": "x22, Sheryl; in frd_she_102 the line sits under Nanase's name plate (script bug); the wording works for either."
+  },
+  {
+   "id": "c14006",
+   "en": "(Guess that was a bit of a stretch...)",
+   "flags": [],
+   "notes": "x2, male."
+  },
+  {
+   "id": "c14007",
+   "en": "(Oh, Sheryl-san... It's a long shot,\nbut I'll try asking her.)",
+   "flags": [],
+   "notes": "x16, female."
+  },
+  {
+   "id": "c14008",
+   "en": "Yes. Want to go to Nyan-Nyan with me\nafter this? I was just wondering...",
+   "flags": [],
+   "notes": "Female; answers 'Is there something you want with me?' (hai). Male twin c04114."
+  },
+  {
+   "id": "c14009",
+   "en": "Well, unfortunately I'm a little busy today.",
+   "flags": [],
+   "notes": "Sheryl, female scene."
+  },
+  {
+   "id": "c14010",
+   "en": "(I guess that was asking a lot...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14011",
+   "en": "Hmm...\nIf you're going to invite me anyway,\nI'd like you to pick somewhere more fun.",
+   "flags": [],
+   "notes": "Sheryl, male scene."
+  },
+  {
+   "id": "c14012",
+   "en": "Yes. Want to go to the Observation Pier with me\nafter this? I was just wondering...",
+   "flags": [],
+   "notes": "Female; male twin c04122."
+  },
+  {
+   "id": "c14013",
+   "en": "Hmm... If you were going to invite me anyway,\nI'd have liked somewhere more fun.",
+   "flags": [],
+   "notes": "Sheryl, female scene."
+  },
+  {
+   "id": "c14014",
+   "en": "The Macross Quarter...?\nI have zero interest in a place like that!",
+   "flags": [],
+   "notes": "Sheryl, male scene."
+  },
+  {
+   "id": "c14015",
+   "en": "Well, you're welcome to ask me again sometime.\nJust think properly about where\nyou're inviting me first.",
+   "flags": [],
+   "notes": "x8, Sheryl, both genders."
+  },
+  {
+   "id": "c14016",
+   "en": "Yes. I was wondering if you'd want to go see\nthe Macross Quarter with me this weekend...",
+   "flags": [],
+   "notes": "Female; male twin c04128."
+  },
+  {
+   "id": "c14017",
+   "en": "The Macross Quarter...?\nI'm not interested in a place like that at all...",
+   "flags": [],
+   "notes": "Sheryl, female scene (softer ending)."
+  },
+  {
+   "id": "c14018",
+   "en": "Folmo, hmm... It's not bad, and I am interested...\nbut I've kind of got plans this weekend...\nyou know?",
+   "flags": [],
+   "notes": "x4, Sheryl, both genders."
+  },
+  {
+   "id": "c14019",
+   "en": "Yes. I was wondering if you'd want to go\nshopping at Folmo with me this weekend...",
+   "flags": [],
+   "notes": "Female; male twin c04133."
+  },
+  {
+   "id": "c14020",
+   "en": "\"199\"... It's not bad, and I am interested...\nbut I've kind of got plans this weekend...\nyou know?",
+   "flags": [],
+   "notes": "x4, Sheryl. Place name written as in c04137/c04138."
+  },
+  {
+   "id": "c14021",
+   "en": "Yes. I was wondering if you'd want to go\nto \"199\" with me this weekend...",
+   "flags": [],
+   "notes": "Female; male twin c04138."
+  },
+  {
+   "id": "c14022",
+   "en": "The artificial island!?\nOh my, do you want to see me in a swimsuit?\nIt's not a bad idea, but... hmm...",
+   "flags": [],
+   "notes": "Sheryl, male scene."
+  },
+  {
+   "id": "c14023",
+   "en": "Well, you're welcome to ask me again sometime.\nJust leave the ulterior motives at home\nwhen you do.",
+   "flags": [],
+   "notes": "Sheryl, male scene (shitagokoro)."
+  },
+  {
+   "id": "c14024",
+   "en": "Yes. I was wondering if you'd want to go\nto the artificial island with me this weekend...",
+   "flags": [],
+   "notes": "Female; male twin c04142 has 'Artificial Island' capitalised, here lowercase per glossary."
+  },
+  {
+   "id": "c14025",
+   "en": "The artificial island!?\nHmm... it's not a bad idea, but...\nI've been a little busy lately...",
+   "flags": [],
+   "notes": "Sheryl, female scene."
+  },
+  {
+   "id": "c14026",
+   "en": "Central Park... That doesn't really grab me.\nI wish you'd invite me somewhere more fun...",
+   "flags": [],
+   "notes": "x4, Sheryl, both genders."
+  },
+  {
+   "id": "c14027",
+   "en": "Yes. I was wondering if you'd want to go to\nCentral Park or something with me this weekend...",
+   "flags": [],
+   "notes": "Female; male twin c04149."
+  },
+  {
+   "id": "c14028",
+   "en": "The Battle Frontier...?\nI have zero interest in a place like that!",
+   "flags": [],
+   "notes": "x4, Sheryl, both genders."
+  },
+  {
+   "id": "c14029",
+   "en": "Yes. I was wondering if you'd want to go see\nthe Battle Frontier or something with me\nthis weekend...",
+   "flags": [],
+   "notes": "Female; male twin c04153."
+  },
+  {
+   "id": "c14030",
+   "en": "(Okay, that's it for classes...\nMaybe I'll invite Sheryl to the Observation Pier\nor something...)",
+   "flags": [],
+   "notes": "Male, frd_she_109."
+  },
+  {
+   "id": "c14031",
+   "en": "Hey, Sheryl. Wanna go to the Observation Pier\nor something after this?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14032",
+   "en": "Oh, \\p.\nWell, that doesn't sound bad...\nHmm...!?",
+   "flags": [],
+   "notes": "x6, Sheryl, male; she notices something (work call) at the end."
+  },
+  {
+   "id": "c14033",
+   "en": "Sorry, I've got a little work after this...\nAsk me again if you get the chance.",
+   "flags": [],
+   "notes": "x12, Sheryl, both genders."
+  },
+  {
+   "id": "c14034",
+   "en": "(Okay, that's it for classes...\nMaybe I'll invite Sheryl-san to the\nObservation Pier or something.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14035",
+   "en": "Oh, Sheryl-san.\nWould you like to go to the Observation Pier\nor something after this?",
+   "flags": [],
+   "notes": "Female (polite)."
+  },
+  {
+   "id": "c14036",
+   "en": "Oh, \\p-chan.\nWell, that doesn't sound bad...\nHmm...!?",
+   "flags": [],
+   "notes": "x6, Sheryl, female."
+  },
+  {
+   "id": "c14037",
+   "en": "Hm? What's wrong?",
+   "flags": [],
+   "notes": "x16, female; same English as male twin c04166."
+  },
+  {
+   "id": "c14038",
+   "en": "Okay. It's a little disappointing,\nbut it can't be helped.",
+   "flags": [],
+   "notes": "x12, female."
+  },
+  {
+   "id": "c14039",
+   "en": "(Well, I can always ask her again.)",
+   "flags": [],
+   "notes": "x12, female; as c11898."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

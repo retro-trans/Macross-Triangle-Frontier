@@ -1,0 +1,496 @@
+{
+ "slice": 27,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c01943",
+   "en": "(Michel called me up to the roof, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01944",
+   "en": "So you finally showed up...",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c01945",
+   "en": "You surprised me, calling me out all of a sudden.",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c01946",
+   "en": "So what's up? Why'd you call me out here?",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c01947",
+   "en": "I can't stand watching you lately...\nWhy don't you try getting a little friendlier\nwith girls?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01948",
+   "en": "Th-that's easy for you to say...",
+   "flags": [],
+   "notes": "sonna koto iwarete mo; shared m/f."
+  },
+  {
+   "id": "c01949",
+   "en": "That face. That's exactly the problem.\nYou and that gloomy mug of yours...",
+   "flags": [],
+   "notes": "shinkikusai kao shiyagatte: rough Michel; shared m/f."
+  },
+  {
+   "id": "c01950",
+   "en": "Smile. Like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01951",
+   "en": "(Sparkle☆)",
+   "flags": [],
+   "notes": "kiraan: sound effect for Michel's dazzling smile; x4."
+  },
+  {
+   "id": "c01952",
+   "en": "S-so dazzling!!",
+   "flags": [],
+   "notes": "x4, the player."
+  },
+  {
+   "id": "c01953",
+   "en": "Now you try it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01954",
+   "en": "'Try it,' you say, but...",
+   "flags": [],
+   "notes": "Male player."
+  },
+  {
+   "id": "c01955",
+   "en": "L-like this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01956",
+   "en": "(Glooom...)",
+   "flags": [],
+   "notes": "doyoon: sound effect for a gloomy face."
+  },
+  {
+   "id": "c01957",
+   "en": "O-one more time!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01958",
+   "en": "Try it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01959",
+   "en": "(Sha-la-la-laaan)",
+   "flags": [],
+   "notes": "sharararaan: sound effect for a sparkling smile."
+  },
+  {
+   "id": "c01960",
+   "en": "You're really getting the hang of it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01961",
+   "en": "But you're still not there yet!\nCome on, smile!",
+   "flags": [],
+   "notes": "mada mada amai."
+  },
+  {
+   "id": "c01962",
+   "en": "O-okay, I get it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01963",
+   "en": "Heh.\nLooks like there's nothing left for me to teach you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01964",
+   "en": "Um, yeah... Thanks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01965",
+   "en": "...No need to thank me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01966",
+   "en": "As long as you enjoy the rest of your school life,\nthat's all I need.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01967",
+   "en": "Michel...",
+   "flags": [],
+   "notes": "Also the player in nml_mcl_003/005/012 and Klan in nml_mcl_021."
+  },
+  {
+   "id": "c01968",
+   "en": "Take good care of that smile I taught you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01969",
+   "en": "(Michel-kun called me up to the roof, but...\nWh-what could he want... *thump thump*)",
+   "flags": [],
+   "notes": "dokidoki."
+  },
+  {
+   "id": "c01970",
+   "en": "I can't stand watching you lately...\nWhy don't you try getting a little friendlier\nwith guys?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01971",
+   "en": "Just 'try it'...?",
+   "flags": [],
+   "notes": "Female player."
+  },
+  {
+   "id": "c01972",
+   "en": "Michel-kun...",
+   "flags": [],
+   "notes": "Also the female player in nml_mcl_003/005/012."
+  },
+  {
+   "id": "c01973",
+   "en": "(Hmm, I'm bored.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01974",
+   "en": "What's up? You're spacing out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01975",
+   "en": "Oh, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01976",
+   "en": "I had lunch, and now I'm all spaced out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01977",
+   "en": "Must be nice being you...",
+   "flags": [],
+   "notes": "shiawase na yatsu da na; shared m/f."
+  },
+  {
+   "id": "c01978",
+   "en": "Y-you think so...?",
+   "flags": [],
+   "notes": "Also ext_rnk_004 (to Ranka) and ext_she_001 (to Michel); works for all."
+  },
+  {
+   "id": "c01979",
+   "en": "Hey, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01980",
+   "en": "What is it?",
+   "flags": [],
+   "notes": "x10: Michel and Klan."
+  },
+  {
+   "id": "c01981",
+   "en": "There's something I want to ask you. Is that okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01982",
+   "en": "Depends on the question.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01983",
+   "en": "I'll at least hear you out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01984",
+   "en": "Ummm, okay then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01985",
+   "en": "About his glasses",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c01986",
+   "en": "About him and Klan",
+   "flags": [],
+   "notes": "Choice: kuran to no kankei."
+  },
+  {
+   "id": "c01987",
+   "en": "About Alto",
+   "flags": [],
+   "notes": "Choice."
+  },
+  {
+   "id": "c01988",
+   "en": "You're a sniper, right, Michel?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01989",
+   "en": "Isn't wearing glasses a problem for you?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01990",
+   "en": "Oh, that...\nI wear these glasses to keep from seeing too much,\nso it's no problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01991",
+   "en": "So your eyesight's good, then?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01992",
+   "en": "Better than most, yeah.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01993",
+   "en": "Well, sniping isn't just about pure eyesight.\nOn the ground, you also have to calculate\nthe wind direction and humidity.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01994",
+   "en": "Doesn't the computer correct for that?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01995",
+   "en": "It does. Then the shooter fine-tunes on top of that.",
+   "flags": [],
+   "notes": "sono ue de uchite ga bichousei suru."
+  },
+  {
+   "id": "c01996",
+   "en": "So that fine-tuning is what matters, huh.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01997",
+   "en": "That's about the size of it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01998",
+   "en": "That was really educational!\nYou're amazing, Michel~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c01999",
+   "en": "H-hearing that to my face like that\nis kinda embarrassing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02000",
+   "en": "You and Klan-senpai are childhood friends, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02001",
+   "en": "Yeah, but...\nWhat about it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02002",
+   "en": "I just thought you two seemed close.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02003",
+   "en": "...Is that how it looks?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02004",
+   "en": "It's pretty rare to end up\nat the same high school, too.",
+   "flags": [],
+   "notes": "futsuu koukou mo issho nante sou sou nai yo: childhood friends rarely stay together that long."
+  },
+  {
+   "id": "c02005",
+   "en": "There just weren't any other options.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02006",
+   "en": "Is that all?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02007",
+   "en": "That's all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02008",
+   "en": "*grin grin*",
+   "flags": [],
+   "notes": "niyaniya, spoken mimetic; also the player teasing Shirakawa in ext_myk_002."
+  },
+  {
+   "id": "c02009",
+   "en": "Quit grinning out of nowhere.\nYou're creeping me out.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02010",
+   "en": "Why are you always fighting with Alto?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02011",
+   "en": "Fighting? Whoa, whoa, don't get the wrong idea.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02012",
+   "en": "But Alto's always angry, isn't he?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02013",
+   "en": "He's the one who keeps picking on me.\nI'm just trying to treat him like a friend.",
+   "flags": [],
+   "notes": "aitsu ga karande kuru."
+  },
+  {
+   "id": "c02014",
+   "en": "You think so?\nYou two kinda seem like rivals, though...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02015",
+   "en": "If anyone thinks that, it's just him.\nI don't think anything of it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02016",
+   "en": "If you say so...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02017",
+   "en": "(Looks to me like he's getting worked up\nabout it, though...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02018",
+   "en": "Whoops, class is starting.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02019",
+   "en": "Yeah, see you.",
+   "flags": [],
+   "notes": "x30 partings across many scenes, both genders."
+  },
+  {
+   "id": "c02020",
+   "en": "Study hard, now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02021",
+   "en": "(Huh, so that's how it is...)",
+   "flags": [],
+   "notes": "naruhodo naa: shared m/f."
+  },
+  {
+   "id": "c02022",
+   "en": "(Hmm, I'm so bored.)",
+   "flags": [],
+   "notes": "Female player."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c01951/c01956/c01959: the bracketed sound effects for Michel's smile lesson rendered '(Sparkle☆)', '(Glooom...)', '(Sha-la-la-laaan)'.",
+   "c02008: the spoken mimetic niyaniya rendered '*grin grin*' (also used in ext_myk_002)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

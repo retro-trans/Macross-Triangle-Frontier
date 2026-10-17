@@ -1,0 +1,503 @@
+{
+ "slice": 24,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u3165",
+   "en": "Clear the \"Macross Frontier\"\nmissions in a row",
+   "flags": [],
+   "notes": "Japanese 'Macross F'; glossary work title 'Macross Frontier'."
+  },
+  {
+   "id": "u3166",
+   "en": "You will now take on the 23 \"Macross Frontier\" missions back to back.\nExpect long, fierce fighting. Steel yourself and go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3167",
+   "en": "Annihilate the returning Victors.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3168",
+   "en": "The Victors that struck Macross Frontier never left; they seem to be hiding\nin Island 3's foundation block. Annihilate them before they near Island 1.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3169",
+   "en": "Wipe out the Vajra that suddenly\nappeared during the survey of their nest.",
+   "flags": [],
+   "notes": "Prefilled; kept. Re-broken to the Japanese line sizes (40 / 44 bytes)."
+  },
+  {
+   "id": "u3170",
+   "en": "Wipe out the rioting\nZentradi.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3171",
+   "en": "A concert tour crew visiting planet Gallia 4 to boost morale has been taken\nhostage by rioting Zentradi. Wipe out the rioting Zentradi to rescue them.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3172",
+   "en": "Organized Vajra attacks have put the Frontier fleet in grave danger.\nHead for the giant Vajra ship believed to be giving orders. Destroy it at once.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3173",
+   "en": "Wipe out the deserters trying to escape\nin the stolen Macross Quarter.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3174",
+   "en": "Some S.M.S. members are trying to hijack the Macross Quarter and escape.\nAt this rate they'll fold away. You're authorized to shoot down the deserters.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3175",
+   "en": "Clear the \"False Songstress\"\nmissions in a row",
+   "flags": [],
+   "notes": "Glossary short form for tight UI ('The False Songstress' in full)."
+  },
+  {
+   "id": "u3176",
+   "en": "You will now take on the 6 \"False Songstress\" missions back to back.\nExpect long, fierce fighting. Steel yourself and go!",
+   "flags": [],
+   "notes": "Same short form as u3175 for consistency."
+  },
+  {
+   "id": "u3177",
+   "en": "Clear the \"Super Dimension Fortress\nMacross II\" missions in a row",
+   "flags": [],
+   "notes": "Japanese gives the full title of Macross II. Break moved: a 47-byte objective line was longer than any Japanese line (46)."
+  },
+  {
+   "id": "u3178",
+   "en": "You will now take on the 7 \"Super Dimension Fortress Macross II\" missions back to back.\nExpect long, fierce fighting. Steel yourself and go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3179",
+   "en": "Win consecutive battles\nagainst ace pilots",
+   "flags": [],
+   "notes": "x3. No final period, as in the Japanese and the other chain objectives."
+  },
+  {
+   "id": "u3180",
+   "en": "You will now fight ace pilots in battle after battle.\nExpect grueling, fierce combat. Steel yourself and go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3181",
+   "en": "Win consecutive\nbattles against bosses",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3182",
+   "en": "You will now fight the bosses in battle after battle.\nExpect grueling, fierce combat. Steel yourself and go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3183",
+   "en": "Seize victory from Roy Focker.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3184",
+   "en": "Roy Focker: the U.N. ace who loves booze, women, and above all the open sky.\nDefeat Focker, whose skills have made him the very model of a pilot.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3185",
+   "en": "Seize victory from Shin Kudo.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3186",
+   "en": "Shin Kudo washed up on Mayan Island and grew through the many people he met.\nDefeat Shin, the idiot who'd throw his life away for the woman he holds dear.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3187",
+   "en": "Seize victory from the duo\nof Ivanov and Nora.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3188",
+   "en": "D.D. Ivanov and Nora Polyansky: the aces of the Anti-U.N. Forces.\nDefeat this dangerous couple, whose skills ran the U.N. Forces ragged.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3189",
+   "en": "Seize victory from the Bird Human.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3190",
+   "en": "Sara Nome, Guide of the Wind, charged with stopping the Bird Human's revival.\nDefeat the Bird Human, revived in spite of all her efforts.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3191",
+   "en": "Seize victory from the genius Max\nand the ace Milia.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3192",
+   "en": "Genius pilot Max and ace Milia, who made the first-ever interstellar marriage.\nDefeat the Jenius couple, also a bridge to peace with the Zentradi.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3193",
+   "en": "Seize victory from\nQuamzin Kravshera.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3194",
+   "en": "Quamzin Kravshera, boss of the Quamzin family, notorious as the Ally Killer.\nDefeat Boss Quamzin, in such a fine mood he's riding a Destroid Monster.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3195",
+   "en": "Seize victory from Golg Boddole Zer.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3196",
+   "en": "Golg Boddole Zer: Zentradi Supreme Commander over a full 5 million ships.\nDefeat the ruthless Boddole Zer, who'd readily kill his own troops to win.",
+   "flags": [],
+   "notes": "Prefilled; kept. Shortened: briefing lines hold 78 bytes (2 lines). Shortened: briefing lines hold 78 bytes (2 lines)."
+  },
+  {
+   "id": "u3197",
+   "en": "Seize victory from the duo\nof Isamu and Guld.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3198",
+   "en": "Isamu and Guld: stuck together since childhood, they fight whenever they meet.\nDefeat the Dalmatian High School duo, seemingly at odds but friends at heart.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3199",
+   "en": "Seize victory from Captain Max.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3200",
+   "en": "Maximilian Jenius, space carrier Battle 7's captain and a commander of genius. Defeat the Battle 7, which fought its way through the fierce Protodeviln war.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Prefilled (MUF). Review: the Japanese has no real line break, only a full-width yen-n typo between the two sentences (MUF noted it would display literally and shipped an ASCII backslash-n break there). This cell is not a backslash-n cell (lit_nl false, no WRAP), and insert_text refuses a real newline in a CSV cell, so the English is one line. FOR THE BUILD LEAD: about 965 px on one line will not fit the 2-line briefing box; break it after 'genius.' (mark the occurrence lit_nl or WRAP) if the build should match MUF."
+  },
+  {
+   "id": "u3201",
+   "en": "Seize victory from Gavil and Glavil.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3202",
+   "en": "Gavil, a Protodeviln with a unique sense of beauty, and Glavil, a monster-like\nProtodeviln of immense combat power. Defeat the Beauty and the Monster.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3203",
+   "en": "Triumph over His Excellency Gepelnitchi.",
+   "flags": [],
+   "notes": "Prefilled; kept ('Triumph over' rather than 'Seize victory from', fine)."
+  },
+  {
+   "id": "u3204",
+   "en": "His Excellency Gepelnitchi: Varauta supreme commander, mightiest Protodeviln.\nDefeat His Excellency Gepelnitchi, who could drain the galaxy of its Spiritia.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3205",
+   "en": "Seize victory from Gamlin Kizaki.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3206",
+   "en": "Gamlin Kizaki, elite pilot of the U.N. Forces' Diamond Force.\nDefeat Gamlin, nicknamed \"Martian\" as a child for his wide forehead.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3207",
+   "en": "Seize victory from the duo\nof Basara and Graham.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3208",
+   "en": "Graham, who hates and would kill the Galaxy Whales, and Basara, who was\nmoved to sing to them. Defeat these men burning with passion for the whales.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3209",
+   "en": "Seize victory from Ozma Lee.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3210",
+   "en": "Ozma Lee: seasoned S.M.S. Skull Squadron leader, overprotective of his sister.\nDefeat Ozma, who smashed death flag after death flag throughout the story.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3211",
+   "en": "Seize victory from Jeffrey,\ncaptain of the Macross Quarter.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3212",
+   "en": "The Macross Quarter: ARMD-class in size, yet it bears the name Macross.\nDefeat the Macross Quarter, captained by Jeffrey Wilder.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3213",
+   "en": "Seize victory from Klan Klang.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3214",
+   "en": "Klan Klang, Pixie Team leader, clumsy not just in her genes but in love too.\nDefeat Klan, a maiden sunk in rage and grief after losing the one she loved.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3215",
+   "en": "Seize victory from the duo\nof Alto and Brera.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3216",
+   "en": "\"Being linked to you made it clear. However far you go, people are alone!\"\n\"That's why we...!\", \"But!!\", \"It's precisely because we're alone that...\",",
+   "flags": [],
+   "notes": "Prefilled; kept. Quotes exchanged in the Macross F finale; the Japanese ends on a comma and so does the English."
+  },
+  {
+   "id": "u3217",
+   "en": "Seize victory from Ranka Lee.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3218",
+   "en": "Manipulated by Grace, Ranka Lee guards the Vajra planet to atone for her sins.\nDefeat Ranka, who sings to protect the Vajra homeworld.",
+   "flags": [],
+   "notes": "Prefilled; kept. 'Vajra planet' then 'Vajra homeworld' follows the two different Japanese words."
+  },
+  {
+   "id": "u3219",
+   "en": "Seize victory from the Vajra Queen.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3220",
+   "en": "Even the Protoculture feared their power, envied it, and at last deified them,\ncopying their form: the super-dimensional Vajra. Defeat Grace's Vajra Queen.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3221",
+   "en": "Seize victory from the Mardook fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3222",
+   "en": "Seize victory from the Vajra fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3223",
+   "en": "Seize victory from the Hound Vajra.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary 'Hound Vajra' is provisional."
+  },
+  {
+   "id": "u3224",
+   "en": "Practice piloting in Fighter mode.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3225",
+   "en": "Ranka: \"I, Ranka Lee, am gonna explain the basic Fighter mode controls!\n        I'm nervous I won't explain it well, but I'll do my best. Kira☆\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3226",
+   "en": "Practice piloting in Battroid mode.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3227",
+   "en": "Sheryl: \"Oh, fine. I'll explain the basic Battroid mode controls for you.\n         Sheryl herself is explaining, so don't you dare miss a single word.\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3228",
+   "en": "Practice piloting in GERWALK mode.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3229",
+   "en": "Ranka: \"Okay! Next, I'll explain the basic GERWALK mode controls.\n        Listen to me and get the GERWALK mode controls down perfectly!\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3230",
+   "en": "Practice shooting attacks.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3231",
+   "en": "Sheryl: \"It's a pain, but next I'll explain the basics of shooting attacks.\n         You've got ME explaining, so if you don't learn it, you'll be sorry.\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3232",
+   "en": "Practice melee attacks.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3233",
+   "en": "Ranka: \"Umm... here I'll explain the basics of melee attacks.\n        It's tough with so much to learn, but I'll do my best explaining too!\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3234",
+   "en": "Practice Special Maneuvers 1.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3235",
+   "en": "Sheryl: \"Here I'll mostly explain the special maneuvers related to piloting.\n         If you're aiming to go pro, you'd better learn at least this much.\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3236",
+   "en": "Practice Special Maneuvers 2.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3237",
+   "en": "Ranka: \"Here I'll mainly explain the SP-related special maneuvers.\n        They look a bit hard, but listen closely and learn them well, okay?\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3238",
+   "en": "Practice container transport.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3239",
+   "en": "Sheryl: \"All right, next I'll explain container transport.\n         I'm the one explaining it. Of course you'll pick it up right away.\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3240",
+   "en": "Practice piloting in Real Flight Mode.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3241",
+   "en": "Ranka: \"Sheryl and I are going to show you how to fly in Real Flight Mode!\"\nSheryl: \"You don't get service like this very often, so be grateful.\"",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3242",
+   "en": "Practice Special Maneuvers 3.",
+   "flags": [],
+   "notes": "Matches the prefilled 'Practice Special Maneuvers 1/2' (u3234, u3236)."
+  },
+  {
+   "id": "u3243",
+   "en": "Sheryl: \"I'll explain the special controls for skills and support.\"\nRanka: \"Explaining with Sheryl makes me nervous, but I'll do my best!\"",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Ranka says 'Sheryl-san'; mission text follows the MUF style without honorifics, as the prefilled u3241 ('Sheryl and I')."
+  },
+  {
+   "id": "u3244",
+   "en": "Practice the Anti-Missile Action.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u3223: Glossary 'Hound Vajra' is provisional.",
+   "u3243: Ranka says 'Sheryl-san'; mission text follows the MUF style without honorifics, as the prefilled u3241 ('Sheryl and I').",
+   "u3200: Prefilled; kept. The Japanese has no real line break but a full-width yen-n (a literal backslash-n written in full-width) between the sentences; the English uses a real line break there. Check how the build handles this row."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

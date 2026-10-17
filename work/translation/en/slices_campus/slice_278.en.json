@@ -1,0 +1,430 @@
+{
+ "slice": 278,
+ "rows_in_slice": 69,
+ "rows_examined": 69,
+ "rows": [
+  {
+   "id": "c19943",
+   "en": "(I wonder what the Galactic Fairy, Sheryl,\nthinks of Ranka's talent?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19944",
+   "en": "Sheryl, got a minute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19945",
+   "en": "Oh, \\p.\nDo you need something from me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19946",
+   "en": "In the Galactic Fairy's eyes,\nhow good is Ranka, really?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19947",
+   "en": "Ranka-chan's talent?\nWhat, are you worried whether she'll make it?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19948",
+   "en": "There's no need to worry about that.\nRanka-chan has my seal of approval.\nHer talent is the real deal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19949",
+   "en": "Hearing that from the Galactic Fairy\nwould make Ranka really happy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19950",
+   "en": "It's nothing.\nI'll be taking my leave for today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19951",
+   "en": "(I wonder what the Galactic Fairy, Sheryl,\nthinks of Ranka-chan's talent?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19952",
+   "en": "Sheryl-san, do you have a minute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19953",
+   "en": "Oh, \\p-chan.\nDo you need something from me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19954",
+   "en": "In the Galactic Fairy's eyes,\nhow good is Ranka-chan, really?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19955",
+   "en": "Hearing that from the Galactic Fairy\nwould make Ranka-chan really happy, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19956",
+   "en": "(Ranka-chan's really amazing, getting\nrecognized by the Galactic Fairy herself.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19957",
+   "en": "(Come to think of it, Sheryl doesn't really\ntalk about her past much...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19958",
+   "en": "Hey, Sheryl, got a minute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19959",
+   "en": "Is there something you need\nfrom me, \\p?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19960",
+   "en": "I just had a question.\nSheryl, what were you like as a kid?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19961",
+   "en": "Were you always selfish and full of\nyourself... I mean, were you always cute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19962",
+   "en": "Um, Sheryl?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19963",
+   "en": "O-of course I was!\nI've been as cute as an angel\nsince the day I was born!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19964",
+   "en": "Oh, so I was right.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19965",
+   "en": "I'm Sheryl, so of course I was!\nWell, I have work soon, so I'll be going.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19966",
+   "en": "(Declaring flat out that she was cute as\nan angel... Sheryl's really something...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19967",
+   "en": "(But why did she look a little sad?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19968",
+   "en": "(Come to think of it, Sheryl-san doesn't\nreally talk about her past much...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19969",
+   "en": "Hey, Sheryl-san, got a minute?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19970",
+   "en": "Is there something you need\nfrom me, \\p-chan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19971",
+   "en": "I just had a question.\nSheryl-san, what were you like as a kid?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19972",
+   "en": "Um, Sheryl-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19973",
+   "en": "(Declaring flat out that she was cute as\nan angel... Sheryl-san's really something...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19974",
+   "en": "(But why did she look a little sad, I wonder?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19975",
+   "en": "(My homework's finally done. I'd better enjoy\nwhat's left of summer vacation while I can.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19976",
+   "en": "Oh-ho?\nIf it isn't \\p!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19977",
+   "en": "Oh, Hoshimura.\nWhat are you doing here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19978",
+   "en": "Summer vacation's almost over, right?\nSo I figured I'd have all the fun I can,\nand popped out for a spot of shopping, see.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19979",
+   "en": "Wow, if you're that relaxed, Hoshimura,\nyou must've finished your homework already.\nI took you for the last-minute type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19980",
+   "en": "Huh? I haven't even touched it yet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19981",
+   "en": "Homework's for the last day of vacation!\nEveryone knows that, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19982",
+   "en": "You're gonna be in for hell once vacation's\nover... Hoshimura...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19983",
+   "en": "(This is the one where she doesn't finish in\ntime and Yamashiro-sensei chews her out...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19984",
+   "en": "(My homework's finally done. I'd better enjoy\nwhat's left of summer vacation while I can!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19985",
+   "en": "Oh, Yui.\nWhat are you doing here?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19986",
+   "en": "Wow, if you're that relaxed, Yui,\nyou must've finished your homework already.\nAnd here I took you for the last-minute type.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19987",
+   "en": "You're going to be in for hell once vacation's\nover... Yui...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19988",
+   "en": "(This is the one where she doesn't finish in\ntime and Yamashiro-sensei chews her out...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19989",
+   "en": "(It may be for work, but I actually get to\nmeet the Sheryl. I can't wait!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19990",
+   "en": "Oh yeah, Sheryl's concert is coming up soon.\nI'd better give it my all too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19991",
+   "en": "Huh? You're that fired up about it...\nHoshimura, are you a Sheryl fan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19992",
+   "en": "It's not like I know nothing about her,\nbut I wouldn't really call myself a fan~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19993",
+   "en": "It's the equipment they use at the concert!\nI'm just dying to know about it~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19994",
+   "en": "Ahh~, I wonder what cutting-edge tech\nthey're using~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19995",
+   "en": "Hey, \\p...\nWould I get in trouble if I took it apart\nwithout asking, do you think?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19996",
+   "en": "Don't you dare take anything apart, Hoshimura.\nIf the concert can't start,\nthat'll be a huge problem...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19997",
+   "en": "(On the day, I'd better make sure\nI don't take my eyes off Hoshimura...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19998",
+   "en": "(It may be for work, but I actually get to\nmeet the Sheryl. I can't wait!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c19999",
+   "en": "Huh? You're that fired up about it...\nYui, are you a Sheryl fan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20000",
+   "en": "Don't you dare take anything apart, Yui.\nIf the concert can't start,\nit'll be a huge problem...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20001",
+   "en": "(On the day, I'd better make sure\nI don't take my eyes off Yui...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20002",
+   "en": "Woo-hoo! Yaaay~!\nThey found a new planet!! Yeahhh!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20003",
+   "en": "Hoshimura, aren't you worried at all\nabout the new planet?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20004",
+   "en": "Nobody can tell what's gonna happen\nuntil it happens anyway!\nNo use fretting over stuff like that, right?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20005",
+   "en": "I see... I guess you've got a point.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20006",
+   "en": "Yup, yup.\nAll we gotta do is wait and look forward to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20007",
+   "en": "(Hoshimura really is something.\nInstead of worrying, I should just\nlook forward to it too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20008",
+   "en": "(A new planet's been found, but\nI still can't help feeling uneasy...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20009",
+   "en": "Yui, aren't you worried at all\nabout the new planet?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20010",
+   "en": "I see... I guess you've got a point.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c20011",
+   "en": "(Yui really is something.\nInstead of worrying, I should just\nlook forward to it too.)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c19989/c19998: 'shigoto to wa ie' read as the students working at Sheryl's concert (Yui's line c19990 and the equipment talk support it); 'ano Sheryl' rendered 'the Sheryl'.",
+   "c19961: shared by both genders; 'wagamama de jishinka... ja nakute, kawaikatta no?' kept as the deliberate self-correction joke."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

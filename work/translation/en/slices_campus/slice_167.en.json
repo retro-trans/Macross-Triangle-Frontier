@@ -1,0 +1,493 @@
+{
+ "slice": 167,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c12223",
+   "en": "(Maybe she's still hung up\non what happened last time...)",
+   "flags": [],
+   "notes": "Female, frd_pnn_005; Pinon refuses to come to Central Park after the cat scene."
+  },
+  {
+   "id": "c12224",
+   "en": "(What should I do with Pinon-chan today?\nGoing to Folmo wouldn't be so ba...)",
+   "flags": [],
+   "notes": "Male, frd_pnn_006; cut off by Hoshimura."
+  },
+  {
+   "id": "c12225",
+   "en": "Heyyy, \\p!\nWhatcha doing in a place like this?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c12226",
+   "en": "Hey, Hoshimura.\nI promised to hang out with Pinon-chan,\nso I'm waiting here to meet her.",
+   "flags": [],
+   "notes": "Male (surname, as in the Japanese)."
+  },
+  {
+   "id": "c12227",
+   "en": "Whaaat, a date alone with Pino-Pino? No fair~\nI wanna hang out with Pino-Pino too~",
+   "flags": [],
+   "notes": "Hoshimura, both genders. Pino-Pino as in earlier slices."
+  },
+  {
+   "id": "c12228",
+   "en": "Hmm, then do you want to hang out with us?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12229",
+   "en": "Really? Really?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c12230",
+   "en": "Yaaay~~!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c12231",
+   "en": "...is what I'd like to say, but I've actually\ngot stuff to do after this, so I can't~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c12232",
+   "en": "So with that, I shall take my leave.\nGive Pino-Pino my regards.",
+   "flags": [],
+   "notes": "Hoshimura, both genders (her old-fashioned register)."
+  },
+  {
+   "id": "c12233",
+   "en": "Welp, see ya laterrr~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c12234",
+   "en": "See ya, Hoshimura.",
+   "flags": [],
+   "notes": "x2, male player: here and frd_yui_001."
+  },
+  {
+   "id": "c12235",
+   "en": "(Seriously, Hoshimura's always so hyper\nwhenever I run into her...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12236",
+   "en": "You seemed to be having a grand old time...",
+   "flags": [],
+   "notes": "Pinon, both genders; jealous."
+  },
+  {
+   "id": "c12237",
+   "en": "Whoa! Pinon-chan, you were here?!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12238",
+   "en": "I was already here\nwhile you were having your fun little chat.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12239",
+   "en": "Then you should've said something.",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12240",
+   "en": "You were chatting so happily you didn't even\nnotice me, so I figured it'd be rude to interrupt!",
+   "flags": [],
+   "notes": "Pinon, male scene."
+  },
+  {
+   "id": "c12241",
+   "en": "No, we were just talking normally...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12242",
+   "en": "Hmph! Likely story.",
+   "flags": [],
+   "notes": "Pinon, both genders (dou da ka)."
+  },
+  {
+   "id": "c12243",
+   "en": "(Pinon-chan seems kind of grumpy today.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12244",
+   "en": "What's wrong, Pinon-chan?\nAren't you awfully on edge today?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12245",
+   "en": "I am NOT on edge!\nJust come on, we're going!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12246",
+   "en": "Going? Going where?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12247",
+   "en": "What does it matter where?!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12248",
+   "en": "(Hmm, what should I do...)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12249",
+   "en": "I know! Let's eat something sweet and calm down.\nLike some ice cream at Folmo.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12250",
+   "en": "I am ALWAYS calm! And thinking a few sweets\nwill fix my mood... You're treating me\nlike a child...!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12251",
+   "en": "Haaah~, this is delicious~\nAlright, I'm going to buy another one!",
+   "flags": [],
+   "notes": "Pinon, male scene."
+  },
+  {
+   "id": "c12252",
+   "en": "(Looks like her mood's back to normal...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12253",
+   "en": "The ice cream here really is the best!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12254",
+   "en": "(Hmm... But why was Pinon-chan\nin such a bad mood...?)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12255",
+   "en": "(Did I do something\nto put Pinon-chan in a bad mood?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12256",
+   "en": "(What should I do with Pinon-chan today?\nGoing to Folmo wouldn't be so ba...)",
+   "flags": [],
+   "notes": "Female; cut off by Hoshimura."
+  },
+  {
+   "id": "c12257",
+   "en": "Oh, Yui.\nI promised to hang out with Pinon-chan,\nso I'm waiting here to meet her.",
+   "flags": [],
+   "notes": "Female (given name, as in the Japanese)."
+  },
+  {
+   "id": "c12258",
+   "en": "I don't mind.",
+   "flags": [],
+   "notes": "Female; same as the male twin c01302 'I don't mind.'"
+  },
+  {
+   "id": "c12259",
+   "en": "See you, Yui.",
+   "flags": [],
+   "notes": "x2, female player: here and frd_yui_001."
+  },
+  {
+   "id": "c12260",
+   "en": "(Seriously, Yui's always so hyper\nwhenever I run into her...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12261",
+   "en": "Whoa! Pinon-chan, you were here!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12262",
+   "en": "You were chatting so happily you didn't even\nnotice me, so I figured it'd be rude to interrupt.",
+   "flags": [],
+   "notes": "Pinon, female scene."
+  },
+  {
+   "id": "c12263",
+   "en": "(Pinon-chan seems kind of grumpy today.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12264",
+   "en": "I know! Let's eat something sweet and calm down.\nLike some ice cream at Folmo.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12265",
+   "en": "Haaah~, this is delicious~\nAlright, I'm going to buy another one.",
+   "flags": [],
+   "notes": "Pinon, female scene."
+  },
+  {
+   "id": "c12266",
+   "en": "(Looks like her mood's back to normal...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12267",
+   "en": "(Did I do something\nto put Pinon-chan in a bad mood?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12268",
+   "en": "(What should I do with Pinon-chan today?\nWell, I can decide once she gets here.)",
+   "flags": [],
+   "notes": "Male, frd_pnn_006 second visit."
+  },
+  {
+   "id": "c12269",
+   "en": "Looks like you were waiting alone today.",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12270",
+   "en": "Hey, Pinon-chan.\nWhat do you mean, 'alone'?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12271",
+   "en": "Last time we met up here,\nyou were having a lovely chat with Yui...",
+   "flags": [],
+   "notes": "Pinon, both genders (she calls Hoshimura 'Yui')."
+  },
+  {
+   "id": "c12272",
+   "en": "Oh, that. I just happened to run into Hoshimura\nand we talked for a bit, that's all.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12273",
+   "en": "Hmph! Well, whatever!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12274",
+   "en": "(For some reason, Pinon-chan always gets\ngrumpy when this comes up...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12275",
+   "en": "Right, there's no point standing around here.\nLet's hurry up and go have fun somewhere!",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12276",
+   "en": "(Well, she seems to be in a good mood today,\nso I'll just have fun with Pinon-chan.)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12277",
+   "en": "(What should I do with Pinon-chan today?\nWell, I can decide once she gets here.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12278",
+   "en": "Oh, Pinon-chan.\nWhat do you mean, 'alone'?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12279",
+   "en": "Oh, that. I just happened to run into Yui\nand we talked for a bit, that's all.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12280",
+   "en": "(For some reason, Pinon-chan always gets\ngrumpy when this comes up...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c12281",
+   "en": "(Today I'm going to enjoy a swim in the sea\nat the artificial island with Pinon-chan!)",
+   "flags": [],
+   "notes": "Male, frd_pnn_007."
+  },
+  {
+   "id": "c12282",
+   "en": "(Pinon-chan still can't swim,\nso I'd better give her plenty of support.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12283",
+   "en": "Sorry I kept you waiting.\nIt took me a little while to get ready...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12284",
+   "en": "No problem. So, shall we go have some fun?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12285",
+   "en": "Before that, can I ask just one thing?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12286",
+   "en": "Wh-what do you think\nwhen you see me in my swimsuit?",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12287",
+   "en": "Huh? I think it suits you, and you look cute.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12288",
+   "en": "Is there nothing besides 'cute'?\nLike... 'sexy'...?",
+   "flags": [],
+   "notes": "Pinon, both genders (iroppoi)."
+  },
+  {
+   "id": "c12289",
+   "en": "Hmm, I don't think you've grown up enough yet\nto be called sexy...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12290",
+   "en": "Mmmmmm!!\nI-I just look slimmer in clothes!\nMy chest is actually WAY bigger, you know!!",
+   "flags": [],
+   "notes": "Pinon, both genders (kiyase)."
+  },
+  {
+   "id": "c12291",
+   "en": "(Slimmer in clothes...\nShe's in a swimsuit right now...)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c12292",
+   "en": "You don't have to force yourself\nto act all grown up, Pinon-chan.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12293",
+   "en": "I'm not forcing anything!\nIt's just that you always treat me like a child, so...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12294",
+   "en": "So... so I......!",
+   "flags": [],
+   "notes": "Pinon, both genders; trails off."
+  },
+  {
+   "id": "c12295",
+   "en": "(I see...\nPinon-chan pushed herself so hard\nbecause I treated her like a kid...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12296",
+   "en": "You're you, Pinon-chan, so I don't think\nyou need to push yourself like that.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12297",
+   "en": "B-but...",
+   "flags": [],
+   "notes": "Pinon, both genders."
+  },
+  {
+   "id": "c12298",
+   "en": "You've still got lots of growing to do,\nso you'll be like Sheryl in no time.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12299",
+   "en": "Besides, you're cute just the way you are,\nPinon-chan.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12300",
+   "en": "Right!\nFrom now on I'll drink hippo-cow milk every day\nand get a knockout body like Sheryl's... no, Nanase's!",
+   "flags": [],
+   "notes": "Pinon, both genders. 'knockout body' for naisu badi as Klan's lines in finished slices."
+  },
+  {
+   "id": "c12301",
+   "en": "Haha, go for it, Pinon-chan.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c12302",
+   "en": "But before that...",
+   "flags": [],
+   "notes": "Pinon, both genders; continues in c12303 (slice 168): 'teach me to swim again'."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

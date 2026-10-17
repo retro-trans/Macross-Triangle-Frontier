@@ -1,0 +1,530 @@
+{
+ "slice": 23,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "u3085",
+   "en": "A dogfight against the variable fighters of every era now begins. As a Valkyrie\npilot, you must never lose. Win, whatever it takes.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3086",
+   "en": "Between sky and earth,\nshow your strength!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Flavor title. Line 1 is a little over the estimated box (the Japanese is only 7 characters); other objectives in this box run far wider."
+  },
+  {
+   "id": "u3087",
+   "en": "Ranka: \"I think this mission will be a tougher fight than any before...\nBut I'll cheer you on with all my heart! Please win... you have to win!\"",
+   "flags": [],
+   "notes": "Ranka speaks politely to the player here (watashi, desu/masu). Second sentence repeats 'zettai' with a pause: kept as a halting repetition."
+  },
+  {
+   "id": "u3088",
+   "en": "On the starlit stage,\nshow your strength!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3089",
+   "en": "Sheryl: \"This mission is going to be a tougher fight than ever before.\nBut I'm the one cheering you on, so you'd better win, no matter what!\"",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3090",
+   "en": "Win the battle against\nVermillion Flight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3091",
+   "en": "To put your combat experience to the test, you will now battle Vermillion Flight.\nTrust in your own skill and defeat Vermillion Flight.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3092",
+   "en": "Win the battle against\nthe Skull Leaders.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Skull Leaders = the Skull Squadron leaders of each era (Focker, Hikaru, Max in this mission). Plural of the glossary mission title 'Skull Leader'; the team name itself is not in the glossary."
+  },
+  {
+   "id": "u3093",
+   "en": "To put your combat experience to the test, you will now battle the Skull Leaders.\nTrust in your own skill and defeat the Skull Leaders.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "See u3092."
+  },
+  {
+   "id": "u3094",
+   "en": "Win the battle against\nthe 2090s ace pilots.",
+   "flags": [],
+   "notes": "2090s = Macross II era (Silvie Gena's team)."
+  },
+  {
+   "id": "u3095",
+   "en": "To put your combat experience to the test, you will now battle the ace pilots of the 2090s.\nTrust in your own skill and defeat the 2090s ace pilots.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3096",
+   "en": "Win the battle against Armored\nValkyries of every era.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary 'Armored Valkyrie' is provisional."
+  },
+  {
+   "id": "u3097",
+   "en": "To test your combat experience, you will now battle the Armored Valkyries of every era.\nTrust in your skill and defeat them all.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary 'Armored Valkyrie' is provisional. Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3098",
+   "en": "Win the battle against\nSound Force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3099",
+   "en": "To put your combat experience to the test, you will now battle Sound Force.\nTrust in your own skill and defeat Sound Force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3100",
+   "en": "Win the battle against\nthe Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3101",
+   "en": "To put your combat experience to the test, you will now battle the Protodeviln.\nTrust in your own skill and defeat the Protodeviln.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3102",
+   "en": "Win the battle against\nthe Sturmvogel IIs.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "The Japanese says only 'Sturmvogel'. The enemy team (Max, Milia, Gamlin) flies VF-22S Sturmvogel II, so 'Sturmvogel IIs' (glossary unit name)."
+  },
+  {
+   "id": "u3103",
+   "en": "To put your combat experience to the test, you will now battle the Sturmvogel IIs.\nTrust in your own skill and defeat the Sturmvogel IIs.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u3102."
+  },
+  {
+   "id": "u3104",
+   "en": "Win the battle against\nPixie Team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3105",
+   "en": "To put your combat experience to the test, you will now battle Pixie Team.\nTrust in your own skill and defeat Pixie Team.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3106",
+   "en": "Win the battle against\nthe Meltrandi aces.",
+   "flags": [],
+   "notes": "Japanese uses the short form 'Meltran' + gekitsuiou (flying ace); the team is Milia and Chlore, so plural."
+  },
+  {
+   "id": "u3107",
+   "en": "To put your combat experience to the test, you will now battle the Meltrandi aces.\nTrust in your own skill and defeat the Meltrandi aces.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3108",
+   "en": "Win the battle against\nSagittarius Squadron.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary 'Sagittarius Squadron' is provisional."
+  },
+  {
+   "id": "u3109",
+   "en": "To put your combat experience to the test, you will now battle Sagittarius Squadron.\nTrust in your own skill and defeat Sagittarius Squadron.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Glossary 'Sagittarius Squadron' is provisional."
+  },
+  {
+   "id": "u3110",
+   "en": "Win the battle against S.M.S.\nSkull Squadron.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3111",
+   "en": "To put your combat experience to the test, you will now battle S.M.S. Skull Squadron.\nTrust in your own skill and defeat S.M.S. Skull Squadron.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3112",
+   "en": "Win the battle against\nDiamond Force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3113",
+   "en": "To put your combat experience to the test, you will now battle Diamond Force.\nTrust in your own skill and defeat Diamond Force.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3114",
+   "en": "Win the battle against\nAntares Squadron.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3115",
+   "en": "To put your combat experience to the test, you will now battle Antares Squadron.\nTrust in your own skill and defeat Antares Squadron.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3116",
+   "en": "Win the battle against the\nMardook commander.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Japanese has no number; the mission's only named enemy is Feff, so singular."
+  },
+  {
+   "id": "u3117",
+   "en": "To put your combat experience to the test, you will now battle the Mardook commander.\nTrust in your own skill and defeat the Mardook commander.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "See u3116."
+  },
+  {
+   "id": "u3118",
+   "en": "Win the battle against the Destroid\nMonsters of every era.",
+   "flags": [],
+   "notes": "Konig Monster, Destroid Monster and Prototype Monster in this mission."
+  },
+  {
+   "id": "u3119",
+   "en": "To test your combat experience, you will now battle the Destroid Monsters.\nTrust in your skill and defeat the Destroid Monsters of every era.",
+   "flags": [],
+   "notes": "First mention has no 'rekidai' in the Japanese, the second has it; kept that way. Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3120",
+   "en": "Win the battle against\nMoon Island Platoon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3121",
+   "en": "To put your combat experience to the test, you will now battle Moon Island Platoon.\nTrust in your own skill and defeat Moon Island Platoon.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3122",
+   "en": "Win the battle against the\nnext-gen main VFs.",
+   "flags": [],
+   "notes": "Jiki shuryoku kahen sentouki = the next main variable fighters (Isamu's YF-19, Guld's YF-21 in Project Super Nova)."
+  },
+  {
+   "id": "u3123",
+   "en": "To test your combat experience, you will now battle the next-generation mainstay VFs.\nTrust in your skill and defeat them all.",
+   "flags": [],
+   "notes": "Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3124",
+   "en": "Win the battle against\nthe Bird Human.",
+   "flags": [],
+   "notes": "Line 1 is over its per-line estimate only because the Japanese line 1 is 5 characters; the row stays within the other objectives' width."
+  },
+  {
+   "id": "u3125",
+   "en": "To put your combat experience to the test, you will now battle the Bird Human.\nTrust in your own skill and defeat the Bird Human.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3126",
+   "en": "Win the battle against\nGolg Boddole Zer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3127",
+   "en": "To put your combat experience to the test, you will now battle Supreme Commander Golg Boddole Zer.\nTrust in your own skill and defeat Boddole Zer.",
+   "flags": [],
+   "notes": "Kantai shirei choukan = Supreme Commander (glossary alias). The Japanese repeats the full title; the second mention is shortened to 'Boddole Zer' to fit two lines."
+  },
+  {
+   "id": "u3128",
+   "en": "Win the battle against\nthe Mardook fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3129",
+   "en": "To put your combat experience to the test, you will now battle the Mardook fleet.\nTrust in your own skill and defeat the Mardook fleet.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3130",
+   "en": "Win the battle against\nSharon Apple.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3131",
+   "en": "To put your combat experience to the test, you will now battle Sharon Apple.\nTrust in your own skill and defeat Sharon Apple.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3132",
+   "en": "Win the battle against\nGepelnitchi.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3133",
+   "en": "To put your combat experience to the test, you will now battle His Excellency Gepelnitchi.\nTrust in your own skill and defeat His Excellency Gepelnitchi.",
+   "flags": [],
+   "notes": "Kakka = 'His Excellency', as in the prefilled MC_110 briefing (u3204)."
+  },
+  {
+   "id": "u3134",
+   "en": "Win the battle against\nthe Vajra Queen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3135",
+   "en": "To put your combat experience to the test, you will now battle the Vajra Queen.\nTrust in your own skill and defeat the Vajra Queen.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3136",
+   "en": "Win the fight against Hayao Kakizaki.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3137",
+   "en": "Hayao Kakizaki gripes that his machine is why he never gets to shine.\nTo shut him up, beat Kakizaki in mock battles in all sorts of units.",
+   "flags": [],
+   "notes": "Kanshou = win completely; rendered 'beat outright'. Refit: briefing lines hold 79 characters, 2 lines (MUF finding)."
+  },
+  {
+   "id": "u3138",
+   "en": "Fight wild with a burning heart!",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3139",
+   "en": "Basara: \"From here on, it's time for our FIRE BOMBER red-hot live show!\nAll right, let's go out with a bang! Listen to my song!!\"",
+   "flags": [],
+   "notes": "FIRE BOMBER in capitals as the Japanese writes it (glossary alias). Catchphrase per glossary note."
+  },
+  {
+   "id": "u3140",
+   "en": "Set your ecstasy ablaze\nin a one-of-a-kind fight!",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3141",
+   "en": "Sheryl: \"From here on, it's time for a special live show. Ready, Ranka?\"\nRanka: \"Yes! Everybody, hold me tight! To the ends of the galaxy!! Kira☆\"",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sheryl says 'Ranka-chan'; mission text follows the MUF style without honorifics (brief), so 'Ranka'. Ranka's catchphrase at full force. Shortened: briefing lines hold 78 bytes (2 lines). Shortened: briefing lines hold 78 bytes (2 lines)."
+  },
+  {
+   "id": "u3142",
+   "en": "You who trust your wings,\nrace beyond time and space!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3143",
+   "en": "Fold quartz, which can leap even time and causality, has brought pilots and\nmachines from across time and space. Win this dreamlike battle against them!",
+   "flags": [],
+   "notes": "Japanese: win the dreamlike battle against the many pilots and machines from beyond time and space who appeared through fold quartz's power. Shortened: briefing lines hold 78 bytes (2 lines). Shortened: briefing lines hold 78 bytes (2 lines)."
+  },
+  {
+   "id": "u3144",
+   "en": "Clear the \"Macross Zero\"\nmissions in a row",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3145",
+   "en": "You will now take on the 8 \"Macross Zero\" missions back to back.\nExpect long, fierce fighting. Steel yourself and go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3146",
+   "en": "Clear the \"Macross Zero\" missions in a row",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3147",
+   "en": "Find the Bird Human's head and\nretrieve it to the target area.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3148",
+   "en": "The Bird Human's head: another AFOS fragment, newly found on Mayan Island.\nFind it before the Anti-U.N. Forces do and bring it to the target area.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3149",
+   "en": "Clear the \"Super Dimension Fortress\nMacross\" missions in a row",
+   "flags": [],
+   "notes": "x2. Series title without the leading 'The' to fit the line. Re-broken to the Japanese line sizes (40 / 44 bytes)."
+  },
+  {
+   "id": "u3150",
+   "en": "You will now take on the 17 \"Super Dimension Fortress Macross\" missions back to back.\nExpect long, fierce fighting. Steel yourself and go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3151",
+   "en": "You will now take on the 8 \"Super Dimension Fortress Macross\" missions back to back.\nExpect long, fierce fighting. Steel yourself and go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3152",
+   "en": "Clear the \"Do You Remember Love?\"\nmissions in a row",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3153",
+   "en": "You will now take on the 8 \"Do You Remember Love?\" missions back to back.\nExpect long, fierce fighting. Steel yourself and go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3154",
+   "en": "Clear the \"Macross Plus\"\nmissions in a row",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3155",
+   "en": "You will now take on the 13 \"Macross Plus\" missions back to back.\nExpect long, fierce fighting. Steel yourself and go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3156",
+   "en": "Pass each waypoint as it is designated,\nas quickly as you can.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3157",
+   "en": "A flight test now begins to measure the prototype's thrust, agility and more.\nRun a time trial to measure how long you take to clear all the waypoints.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3158",
+   "en": "Subdue the U.N. soldiers who've run\namok at the anniversary ceremony.",
+   "flags": [],
+   "notes": "Prefilled line was over the box; compressed 'U.N. Forces soldiers who have' to 'U.N. soldiers who've'."
+  },
+  {
+   "id": "u3159",
+   "en": "U.N. troops have run amok at the anniversary ceremony in Macross City, Earth.\nTo end this crisis of unknown cause, subdue the rampaging soldiers at once.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3160",
+   "en": "Clear the \"Macross 7\"\nmissions in a row",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3161",
+   "en": "You will now take on the 14 \"Macross 7\" missions back to back.\nExpect long, fierce fighting. Steel yourself and go!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "u3162",
+   "en": "Just as City 7 is dragged toward a blazing star, the Varauta Army attacks.\nAnnihilate the Varauta Army at once and escape from the star.",
+   "flags": [],
+   "notes": "Prefilled; kept."
+  },
+  {
+   "id": "u3163",
+   "en": "Clear the \"Dynamite 7\"\nmissions in a row",
+   "flags": [],
+   "notes": "Japanese writes 'Dynamite 7' without 'Macross'; kept as written."
+  },
+  {
+   "id": "u3164",
+   "en": "You will now take on the 5 \"Dynamite 7\" missions back to back.\nExpect long, fierce fighting. Steel yourself and go!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "u3086: Flavor title. Line 1 is a little over the estimated box (the Japanese is only 7 characters); other objectives in this box run far wider.",
+   "u3096: Glossary 'Armored Valkyrie' is provisional.",
+   "u3097: Glossary 'Armored Valkyrie' is provisional.",
+   "u3102: The Japanese says only 'Sturmvogel'. The enemy team (Max, Milia, Gamlin) flies VF-22S Sturmvogel II, so 'Sturmvogel IIs' (glossary unit name).",
+   "u3103: See u3102.",
+   "u3108: Glossary 'Sagittarius Squadron' is provisional.",
+   "u3109: Glossary 'Sagittarius Squadron' is provisional.",
+   "u3116: Japanese has no number; the mission's only named enemy is Feff, so singular.",
+   "u3117: See u3116.",
+   "u3141: Sheryl says 'Ranka-chan'; mission text follows the MUF style without honorifics (brief), so 'Ranka'. Ranka's catchphrase at full force."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Skull Leaders (sukaru riidaazu, ME_510): used 'the Skull Leaders'"
+  ],
+  "unfinished": []
+ }
+}

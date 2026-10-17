@@ -1,0 +1,408 @@
+{
+ "slice": 140,
+ "rows_in_slice": 63,
+ "rows_examined": 63,
+ "rows": [
+  {
+   "id": "c10264",
+   "en": "(Maybe today I'll invite Michel\nto Silver Moon or something.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male. Silver Moon is provisional."
+  },
+  {
+   "id": "c10265",
+   "en": "Hey, Michel!\nIf you're free, want to stop by Silver Moon?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male. Silver Moon is provisional."
+  },
+  {
+   "id": "c10266",
+   "en": "Sorry, \\p.\nActually, I've got plans after this.",
+   "flags": [],
+   "notes": "x8: frd_mcl_103/104, both genders."
+  },
+  {
+   "id": "c10267",
+   "en": "I see. Then that can't be helped...\nBut what plans, exactly?",
+   "flags": [],
+   "notes": "Male, frd_mcl_103/104."
+  },
+  {
+   "id": "c10268",
+   "en": "Don't ask such a tactless question.\nA date, obviously.",
+   "flags": [],
+   "notes": "x8: frd_mcl_103/104, both genders."
+  },
+  {
+   "id": "c10269",
+   "en": "I-I see...",
+   "flags": [],
+   "notes": "x7, all the male player: Michel's date here, Ranka in frd_rnk_008, Luca in nml_luk_012, Shirakawa in nml_myk_012. Works for all."
+  },
+  {
+   "id": "c10270",
+   "en": "Whoa, I'd better get going or I'll be in trouble.\nSee you, \\p.",
+   "flags": [],
+   "notes": "x8: frd_mcl_103/104, both genders."
+  },
+  {
+   "id": "c10271",
+   "en": "(Haah~ I guess I'll go to Silver Moon by myself,\nthen.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Male. Silver Moon is provisional."
+  },
+  {
+   "id": "c10272",
+   "en": "(Maybe today I'll invite Michel-kun\nto Silver Moon or something.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female. Silver Moon is provisional."
+  },
+  {
+   "id": "c10273",
+   "en": "Hey, Michel-kun!\nIf you're free, want to stop by Silver Moon?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female. Silver Moon is provisional."
+  },
+  {
+   "id": "c10274",
+   "en": "I see. Then that can't be helped...\nBut what plans, exactly?",
+   "flags": [],
+   "notes": "Female, frd_mcl_103/104."
+  },
+  {
+   "id": "c10275",
+   "en": "(Haah~\nI guess I'll go to Silver Moon by myself, then.)",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female. Silver Moon is provisional."
+  },
+  {
+   "id": "c10276",
+   "en": "(Maybe today I'll invite Michel\nto Nyan-Nyan or something.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10277",
+   "en": "Hey, Michel!\nIf you're free, want to stop by Nyan-Nyan?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10278",
+   "en": "(Haah~ I guess I'll go to Nyan-Nyan by myself, then.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10279",
+   "en": "(Maybe today I'll invite Michel-kun\nto Nyan-Nyan or something.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10280",
+   "en": "Hey, Michel-kun!\nIf you're free, want to stop by Nyan-Nyan?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10281",
+   "en": "(Haah~ I guess I'll go to Nyan-Nyan by myself,\nthen.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10282",
+   "en": "(Hmm...\nI've got no plans for my next day off.\nI'm so bored...)",
+   "flags": [],
+   "notes": "Male, frd_mcl_105/106."
+  },
+  {
+   "id": "c10283",
+   "en": "(Oh, there's Michel. Perfect timing.)",
+   "flags": [],
+   "notes": "Male, frd_mcl_105/106."
+  },
+  {
+   "id": "c10284",
+   "en": "Hey, Michel, are you free on our next day off?\nIf you are, want to go see a movie or something?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10285",
+   "en": "Next day off, huh...\nSorry, I've got plans, so I can't.",
+   "flags": [],
+   "notes": "x8: frd_mcl_105/106, both genders."
+  },
+  {
+   "id": "c10286",
+   "en": "Let me guess. Your plans are a date?",
+   "flags": [],
+   "notes": "x8: the player, frd_mcl_105/106, both genders."
+  },
+  {
+   "id": "c10287",
+   "en": "Nah, something suddenly came up at my part-time job.\nI don't think I can get out of it.",
+   "flags": [],
+   "notes": "x8: frd_mcl_105/106, both genders."
+  },
+  {
+   "id": "c10288",
+   "en": "Huh~, that's rough.",
+   "flags": [],
+   "notes": "Male, frd_mcl_105/106."
+  },
+  {
+   "id": "c10289",
+   "en": "Sorry about that.\nAsk me again some other time.",
+   "flags": [],
+   "notes": "x8: frd_mcl_105/106, both genders."
+  },
+  {
+   "id": "c10290",
+   "en": "I'll do that.",
+   "flags": [],
+   "notes": "x5, all the male player: Michel's 'ask me again' here; Shirakawa's 'ask me anything' in frd_myk_103."
+  },
+  {
+   "id": "c10291",
+   "en": "(So Michel's got work, huh...\nOh well, guess I'll go see it by myself.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10292",
+   "en": "(Hmm...\nI've got no plans for my next day off.\nI'm so bored...)",
+   "flags": [],
+   "notes": "Female, frd_mcl_105/106."
+  },
+  {
+   "id": "c10293",
+   "en": "(Oh, there's Michel-kun. Perfect timing.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10294",
+   "en": "Hey, Michel-kun, are you free on our next day off?\nIf you are, want to go see a movie or something?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10295",
+   "en": "Huh~, that's rough.",
+   "flags": [],
+   "notes": "Female, frd_mcl_105/106."
+  },
+  {
+   "id": "c10296",
+   "en": "I'll do that.",
+   "flags": [],
+   "notes": "Female, frd_mcl_105/106."
+  },
+  {
+   "id": "c10297",
+   "en": "(So Michel-kun's got work, huh...\nOh well, maybe I'll go see it by myself.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10298",
+   "en": "Hey, Michel, are you free on our next day off?\nIf you are, want to go to Island 3?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10299",
+   "en": "(So Michel's got work, huh...\nOh well, maybe I'll go by myself.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10300",
+   "en": "(Oh, there's Michel-kun. Perfect timing.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10301",
+   "en": "Hey, Michel-kun, are you free on our next day off?\nIf you are, want to go to Island 3?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10302",
+   "en": "(So Michel-kun's got work, huh...\nOh well, maybe I'll go by myself.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10303",
+   "en": "(Today I'm going to have fun\nshopping at Folmo with Michel.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10304",
+   "en": "I'm not really in the mood\nfor shopping at Folmo...",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10305",
+   "en": "Huh? Why not, Michel?",
+   "flags": [],
+   "notes": "Male (both frd_mcl_107 sub-scenes)."
+  },
+  {
+   "id": "c10306",
+   "en": "Because I might run into Klan.\nThe Zentradi-sized one...",
+   "flags": [],
+   "notes": "Both genders. Klan in her full-size (macronized) form."
+  },
+  {
+   "id": "c10307",
+   "en": "The last time I ran into her here, I was on a date\nwith an older lady. It was the worst.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10308",
+   "en": "She came chasing after me at that size, you know?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10309",
+   "en": "Geez, it's no laughing matter\nwhen it actually happens to you.",
+   "flags": [],
+   "notes": "Both genders; answers the player's laugh."
+  },
+  {
+   "id": "c10310",
+   "en": "...Well, enough about Klan.\nShall we go enjoy some shopping?",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10311",
+   "en": "Sorry, \\p.\nI just remembered something I have to do...",
+   "flags": [],
+   "notes": "x4, both genders. He spots Klan (player 'Ah!', Michel 'Gah!') and bolts."
+  },
+  {
+   "id": "c10312",
+   "en": "I'll be taking my leave for today.",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c10313",
+   "en": "Ah, hey, Michel...",
+   "flags": [],
+   "notes": "x3: the player, both genders (the female scene uses it once too)."
+  },
+  {
+   "id": "c10314",
+   "en": "(Aww, Michel went home...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10315",
+   "en": "(He didn't have to run off like he was\nfleeing from Klan-senpai...)",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10316",
+   "en": "(Today I'm going to have fun\nshopping at Folmo with Michel-kun.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10317",
+   "en": "Huh? Why not, Michel-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10318",
+   "en": "Ah, hey, Michel-kun...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10319",
+   "en": "(Aww, Michel-kun went home...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10320",
+   "en": "(I came shopping at Folmo\nwith Michel, but...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10321",
+   "en": "Let's skip shopping at Folmo today, \\p.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10322",
+   "en": "I've got a feeling we'll run into Klan,\nlike last time.",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10323",
+   "en": "Come on, you're worrying way too much.\nC'mon, let's hurry up and go.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10324",
+   "en": "Ah, wait up, \\p!",
+   "flags": [],
+   "notes": "Both genders."
+  },
+  {
+   "id": "c10325",
+   "en": "(I came shopping at Folmo\nwith Michel-kun, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10326",
+   "en": "Come on, you're worrying way too much.\nC'mon, let's hurry up and go.",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c10264/c10265/c10271/c10272/c10273/c10275 use Silver Moon, provisional in locations.json.",
+   "c10269 'I-I see...' (x7) also the male player's reply to Ranka (frd_rnk_008), Luca (nml_luk_012) and Shirakawa (nml_myk_012).",
+   "c10290 'I'll do that.' (x5) also answers Shirakawa's 'ask me anything' in frd_myk_103.",
+   "c10306: 'Zentradi-sized' = Klan in her full-size form."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

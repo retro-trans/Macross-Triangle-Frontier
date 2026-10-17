@@ -1,0 +1,493 @@
+{
+ "slice": 37,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c02672",
+   "en": "That's enough! Stop!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02673",
+   "en": "*pant* *pant*...",
+   "flags": [],
+   "notes": "Also frd_kgr_004."
+  },
+  {
+   "id": "c02674",
+   "en": "You've got some real guts...\nI'm impressed, \\p.",
+   "flags": [],
+   "notes": "'Minaoshita' = see someone in a better light."
+  },
+  {
+   "id": "c02675",
+   "en": "Th-thang you bery buch...",
+   "flags": [],
+   "notes": "Japanese is slurred from exhaustion; kept the slur."
+  },
+  {
+   "id": "c02676",
+   "en": "Make sure you cool down properly!\nDismissed!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02677",
+   "en": "(...I thought I was gonna die...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02678",
+   "en": "Number 3, then...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02679",
+   "en": "The simulator, huh... In real combat, what you\nneed most is experience. Keep flying, and\nyou'll raise your odds of coming back alive!",
+   "flags": [],
+   "notes": "'Nare' = getting used to it; 'kisama' rough 'you'."
+  },
+  {
+   "id": "c02680",
+   "en": "Make sure you get plenty of rest!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02681",
+   "en": "(...I-I'm so sleepy I could die...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02682",
+   "en": "...Huh?\nWhere are Saotome-kun and the others?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02683",
+   "en": "(I've got nothing but a bad feeling about this...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02684",
+   "en": "(Today's training was rough too...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02685",
+   "en": "Alto, let's stop somewhere on the way home.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02686",
+   "en": "\\p...\nI-I've got something urgent to do today...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02687",
+   "en": "Oh, really? Too bad...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02688",
+   "en": "So anyway, see ya!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02689",
+   "en": "(What's he in such a hurry for?)",
+   "flags": [],
+   "notes": "Alto (male)."
+  },
+  {
+   "id": "c02690",
+   "en": "\\p!\nI'm heading out first!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02691",
+   "en": "Michel took off too...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02692",
+   "en": "(What's up with them?)",
+   "flags": [],
+   "notes": "Both left; 'them' = Alto and Michel."
+  },
+  {
+   "id": "c02693",
+   "en": "Hey, \\p.\nHeading home now?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02694",
+   "en": "Yes, I am...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02695",
+   "en": "Then come with me.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02696",
+   "en": "Huh, where to?\nI'd really rather skip any extra training...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02697",
+   "en": "You damn idiot! Who said anything about training?!\nQuit griping and follow me!",
+   "flags": [],
+   "notes": "Bakayarou at full strength."
+  },
+  {
+   "id": "c02698",
+   "en": "Y-yes, sir!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02699",
+   "en": "So today's target is\n\\p...",
+   "flags": [],
+   "notes": "Canaria."
+  },
+  {
+   "id": "c02700",
+   "en": "Canaria-san...\nWhat's going on?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02701",
+   "en": "Sorry, but keep him company for the night.",
+   "flags": [],
+   "notes": "'Him' = Ozma, who has just gone ahead."
+  },
+  {
+   "id": "c02702",
+   "en": "F-for the night?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02703",
+   "en": "Hey, \\p!\nCanaria!! Let's go!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02704",
+   "en": "W-wait for me!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02705",
+   "en": "C'mon, one more bar!",
+   "flags": [],
+   "notes": "'Mou ikken': one more place (drinking)."
+  },
+  {
+   "id": "c02706",
+   "en": "Eeek...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02707",
+   "en": "We're just getting started!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02708",
+   "en": "...Sorry, I need to make a phone call.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02709",
+   "en": "Relax, I'm not leaving.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02710",
+   "en": "...Guess they close up shop once the sun comes up...\nThat's it for today! Dismissed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02711",
+   "en": "Wh-what was all that about...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02712",
+   "en": "...Even Ozma has days when he needs a drink.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02713",
+   "en": "Still, I'm impressed you kept up with him.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02714",
+   "en": "I was basically just sitting there...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02715",
+   "en": "Not many people can manage even that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02716",
+   "en": "Pulling an all-nighter is bad for you.\nHurry home and get some sleep.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02717",
+   "en": "(...Now I know why Alto and the others ran off...)",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02718",
+   "en": "Saotome-kun, wanna stop somewhere\non the way home?",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02719",
+   "en": "Michel-kun took off too...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02720",
+   "en": "(...Now I know why Saotome-kun\nand the others ran off...)",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02721",
+   "en": "(What should I do today?)",
+   "flags": [],
+   "notes": "Also frd_cla_101."
+  },
+  {
+   "id": "c02722",
+   "en": "Captain Ozma!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02723",
+   "en": "\\p!\nWhat are you doing here...?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02724",
+   "en": "What do you mean? This is downtown.\nI just came to do some shopping...",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02725",
+   "en": "What are you so flustered about?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02726",
+   "en": "I-I'm not flustered!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02727",
+   "en": "That's... super suspicious...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02728",
+   "en": "There's nothing suspicious about it!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02729",
+   "en": "Just get lost already!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02730",
+   "en": "You know, when you say that,\nit makes me want to stick around.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02731",
+   "en": "Ozma, sorry! Did I keep you waiting?",
+   "flags": [],
+   "notes": "Name plate '???' (Cathy, revealed next row)."
+  },
+  {
+   "id": "c02732",
+   "en": "Huh, Cathy-san.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02733",
+   "en": "Huh? \\p-kun?\nWh-what are you doing here...?",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02734",
+   "en": "Cathy-san, you said the exact same thing\nas Captain Ozma.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02735",
+   "en": "Huh? Huh?? Wh-what do you mean?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02736",
+   "en": "Captain Ozma, if it's a date, just say so.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02737",
+   "en": "Sorry, looks like I got in the way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02738",
+   "en": "I-it's not a date!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02739",
+   "en": "I-it's NOT a date, okay!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02740",
+   "en": "You two really get along great.",
+   "flags": [],
+   "notes": "Male only."
+  },
+  {
+   "id": "c02741",
+   "en": "No, we don't!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02742",
+   "en": "Y-you don't have to deny it that hard...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02743",
+   "en": "Tch.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02744",
+   "en": "Cathy, let's go.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02745",
+   "en": "H-hey, wait!\nDon't drag me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02746",
+   "en": "Enjoy yourselves~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02747",
+   "en": "\\p,\nnext time I see you, you're in for it...",
+   "flags": [],
+   "notes": "'Oboetoke yo': you'd better remember this (a threat)."
+  },
+  {
+   "id": "c02748",
+   "en": "(But those two really do get along.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02749",
+   "en": "What do you mean? This is downtown.\nI just came to do some shopping...",
+   "flags": [],
+   "notes": "Female only."
+  },
+  {
+   "id": "c02750",
+   "en": "Huh? \\p-san?\nWh-what are you doing here...?",
+   "flags": [],
+   "notes": "Female only; Cathy uses -san here."
+  },
+  {
+   "id": "c02751",
+   "en": "Captain Ozma, if it's a date,\nyou should just say so!",
+   "flags": [],
+   "notes": "Female only."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

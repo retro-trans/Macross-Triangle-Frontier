@@ -1,0 +1,400 @@
+{
+ "slice": 200,
+ "rows_in_slice": 64,
+ "rows_examined": 64,
+ "rows": [
+  {
+   "id": "c14654",
+   "en": "Hmmmmm......",
+   "flags": [],
+   "notes": "Hoshimura, both genders. frd_yui_009 (male) / frd_yui_010 (female), her ending."
+  },
+  {
+   "id": "c14655",
+   "en": "You're really racking your brain.\nWhat's up, Hoshimura?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14656",
+   "en": "I can't come up with any good ideas...\nAt this rate, developing my own original\nValkyrie will stay a pipe dream...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14657",
+   "en": "A good idea, huh...\nI know, why don't you take a walk\nfor a change of pace?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14658",
+   "en": "Ooh! Nice ideaaa!\nThen I'll go take a little walk\nto clear my head.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14659",
+   "en": "Enjoy your walk.",
+   "flags": [],
+   "notes": "Player, both genders. (itterasshai)."
+  },
+  {
+   "id": "c14660",
+   "en": "(Say what you like, Hoshimura's got talent.\nGive her a little spark, and I bet she'll\ncome up with a good idea in no time.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14661",
+   "en": "(I've gotta do what I can, too, to support\nHoshimura's dream of building\nher own original Valkyrie.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14662",
+   "en": "Hey hey hey hey hey!\nI came up with a really great idea~!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14663",
+   "en": "What! That was fast!",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14664",
+   "en": "But hey, nice going!\nWhat kind of Valkyrie did you come up with?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14665",
+   "en": "Well, first, for a weapon, it gets a giant drill,\nand then the arms go flying off like rockets!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14666",
+   "en": "Sounds strong, right?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14667",
+   "en": "(I'm not sure that's a Valkyrie anymore...)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14668",
+   "en": "All right! I'm gonna start building it right away~!\nOooh, I'm getting all fired up~!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14669",
+   "en": "(Aaand Hoshimura's totally set on building it...\nOnce she gets like this, nobody can stop her.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14670",
+   "en": "Yeahhh!! Let's do thiiis~!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14671",
+   "en": "Affinity ending.\nFiller for Hoshimura (female).",
+   "flags": [],
+   "notes": "Developer placeholder under Alto's name plate, translated literally as c12399/c13990 and c08095."
+  },
+  {
+   "id": "c14672",
+   "en": "Affinity ending.\nFiller for Hoshimura (male).",
+   "flags": [],
+   "notes": "Developer placeholder, as c14671."
+  },
+  {
+   "id": "c14673",
+   "en": "You're really racking your brain.\nWhat's up, Yui?",
+   "flags": [],
+   "notes": "Female, frd_yui_010."
+  },
+  {
+   "id": "c14674",
+   "en": "A good idea, huh...\nI know, why don't you take a walk\nfor a change of pace?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14675",
+   "en": "(Say what you like, Yui's got talent.\nGive her a little spark, and I bet she'll\ncome up with a good idea in no time.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14676",
+   "en": "(I've gotta do what I can, too, to support\nYui's dream of building\nher own original Valkyrie.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14677",
+   "en": "What! That was fast!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14678",
+   "en": "But hey, nice going!\nWhat kind of Valkyrie did you come up with?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14679",
+   "en": "(Aaand Yui's totally set on building it...\nOnce she gets like this, nobody can stop her.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14680",
+   "en": "(Maybe I'll stop by Silver Moon for some tea.)",
+   "flags": [],
+   "notes": "Player, both genders, frd_yui_101 (outing)."
+  },
+  {
+   "id": "c14681",
+   "en": "(Hm? Isn't that Hoshimura...?)",
+   "flags": [],
+   "notes": "Male; x4 (frd_yui_101, frd_yui_102)."
+  },
+  {
+   "id": "c14682",
+   "en": "Hey, Hoshimura!",
+   "flags": [],
+   "notes": "Male; x5 (also nml_yui_019); as c03568."
+  },
+  {
+   "id": "c14683",
+   "en": "Oh-ho? Well, if it isn't \\p!\nYou've come at just the right moment.",
+   "flags": [],
+   "notes": "Hoshimura, both genders. (old-fashioned ja nai kai)."
+  },
+  {
+   "id": "c14684",
+   "en": "The right moment?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14685",
+   "en": "I got thirsty, so I came to Silver Moon\nfor some tea, but it's boring all alone,\nso I was kinda at a loss, see.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14686",
+   "en": "So how about an elegant tea time\nwith yours truly?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14687",
+   "en": "Sure, I'd be glad to join you.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14688",
+   "en": "So anyway, you should've seen Yuuto's face...",
+   "flags": [],
+   "notes": "Hoshimura, both genders. Yuuto = Yuuto Kagura (bare given name)."
+  },
+  {
+   "id": "c14689",
+   "en": "Whoa, look how late it got\nwithout me even noticing.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14690",
+   "en": "Shall we be off home, then?",
+   "flags": [],
+   "notes": "Hoshimura, both genders. (kaerimashou kai); as the end of c14284."
+  },
+  {
+   "id": "c14691",
+   "en": "Thanks for keeping me company today.\nSee ya.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14692",
+   "en": "(I had fun chatting with Hoshimura too.\nIt was a nice change of pace.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14693",
+   "en": "(Hm? Isn't that Yui...?)",
+   "flags": [],
+   "notes": "Female; x4."
+  },
+  {
+   "id": "c14694",
+   "en": "Hey, Yui!",
+   "flags": [],
+   "notes": "Female; x4."
+  },
+  {
+   "id": "c14695",
+   "en": "Sure, I'd be glad to join you.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14696",
+   "en": "(I had fun chatting with Yui too.\nIt was a nice change of pace.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14697",
+   "en": "(The weather's nice today.\nPerfect for a walk.)",
+   "flags": [],
+   "notes": "Male, frd_yui_102."
+  },
+  {
+   "id": "c14698",
+   "en": "Well now, if it ain't \\p!\nWhatcha doin' 'round these parts?",
+   "flags": [],
+   "notes": "Hoshimura, both genders. Kansai-dialect line (konaina, donaishita) rendered folksy."
+  },
+  {
+   "id": "c14699",
+   "en": "The weather's nice, so I'm taking a little walk.\nWhat about you, Hoshimura?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14700",
+   "en": "I'm out for a walk too.\nI figured some good idea for tinkering might\npop up, so I came out to clear my head.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14701",
+   "en": "I see.\nThen shall we walk together?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14702",
+   "en": "Okay, okay!\nWell then, shall we be off?",
+   "flags": [],
+   "notes": "Hoshimura, both genders. (ikimashou kai)."
+  },
+  {
+   "id": "c14703",
+   "en": "(Taking a walk and chatting with Hoshimura\nlike this isn't half bad.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14704",
+   "en": "And then, Miyuki suddenly...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14705",
+   "en": "Wait, AAAAAAAAAH!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14706",
+   "en": "Wh-what's wrong, Hoshimura?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14707",
+   "en": "I just came up with a great idea~!!\nSo I'm heading home for today!\nLater!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14708",
+   "en": "Huh!\nOh, see ya, Hoshimura.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14709",
+   "en": "(When she suddenly screamed like that,\nI thought something had happened...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14710",
+   "en": "(But if she came up with a good idea,\nI guess the walk was a nice change of pace\nfor Hoshimura too?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14711",
+   "en": "(The weather's nice today.\nPerfect for a walk.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14712",
+   "en": "The weather's nice, so I'm taking a little walk.\nWhat about you, Yui?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14713",
+   "en": "(Taking a walk and chatting with Yui\nlike this isn't half bad.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14714",
+   "en": "Wh-what's wrong, Yui?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14715",
+   "en": "Huh!\nOh, see you, Yui.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14716",
+   "en": "(When she suddenly screamed like that,\nI thought something had happened...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14717",
+   "en": "(But if she came up with a good idea,\nI guess the walk was a nice change of pace\nfor Yui too?)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c14698: Yui's Kansai-dialect line rendered with folksy English ('Whatcha doin' 'round these parts?').",
+   "c14645 / c14688: Yuu and Yuuto read as Yuu Akimizu and Yuuto Kagura (bare given names)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

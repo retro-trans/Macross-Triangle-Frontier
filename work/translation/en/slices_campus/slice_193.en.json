@@ -1,0 +1,493 @@
+{
+ "slice": 193,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c14120",
+   "en": "What!?\nTrouble...? Are you okay, Yui?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14121",
+   "en": "Huh! Oh, okay... sure......",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14122",
+   "en": "(She just blatantly changed the subject.\nI wonder what that trouble was about?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14123",
+   "en": "(When Yui's explanation is mostly\nsound effects, I can't understand a thing...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14124",
+   "en": "(Then tell me what I'm supposed to do\nwhen it goes WHOOSH...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14125",
+   "en": "(If I keep learning from Yui like this,\nI don't think I'll ever understand it...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14126",
+   "en": "You seem hungry too, Yui.\nWhy don't we stop studying here\nand go grab something to eat?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14127",
+   "en": "Let's go, let's go!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14128",
+   "en": "(Well, if Yui's this happy about it,\nmaybe treating her is fine...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14129",
+   "en": "Oh, by the way, Yui,\nwhat was that trouble this morning, anyway?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14130",
+   "en": "(Geez... So it wasn't trouble after all.\nYui just overslept...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14131",
+   "en": "(Honestly, Yui's always so full of it.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14132",
+   "en": "(Hmm, what am I going to do...)",
+   "flags": [],
+   "notes": "Male, frd_yui_001 second visit."
+  },
+  {
+   "id": "c14133",
+   "en": "Oho, \\p!\nWhat's with that face, sort of troubled,\nsort of not? Whatever's the matter?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14134",
+   "en": "Oh, Hoshimura.\nWell, I couldn't understand today's EX-Gear\nclass at all, so I was kind of stuck...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14135",
+   "en": "Oh, is that all?\nIf that's it, I'll teach you~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14136",
+   "en": "Huh! Oh, yeah...\nThat's a really kind offer, but...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14137",
+   "en": "(I learned last time that I can't understand\nHoshimura's explanations...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14138",
+   "en": "I'll pass this time. Your explanations are\ntoo advanced, Hoshimura. An ordinary guy\nlike me could never understand them...",
+   "flags": [],
+   "notes": "Male (bonjin no boku)."
+  },
+  {
+   "id": "c14139",
+   "en": "Aww, me, a genius far above ordinary folk...\nFlattery won't get you anything~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14140",
+   "en": "(I didn't mean it as a compliment...\nWell, if Hoshimura's happy, I guess it's fine.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14141",
+   "en": "So this time, I'll try my best\nto study on my own.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14142",
+   "en": "Ooh! What a splendid attitude!\nBut if you really can't figure it out,\ncome ask me, no holding back!",
+   "flags": [],
+   "notes": "Hoshimura, both genders (do-on to)."
+  },
+  {
+   "id": "c14143",
+   "en": "Yeah, I'll do that.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14144",
+   "en": "Mm, mm. So long as you understand.",
+   "flags": [],
+   "notes": "Hoshimura, both genders (old-fashioned wakareba yoi)."
+  },
+  {
+   "id": "c14145",
+   "en": "Well then, I'd better be heading home.\nSee ya laterrr~",
+   "flags": [],
+   "notes": "Hoshimura, both genders; as c12233."
+  },
+  {
+   "id": "c14146",
+   "en": "(For all that, Hoshimura really is kind.\nIf only her explanations were a little\neasier to follow, it'd be perfect...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14147",
+   "en": "(Hmm, what am I going to do...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14148",
+   "en": "Oh, Yui.\nWell, I couldn't understand today's EX-Gear\nclass at all, so I was kind of stuck...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14149",
+   "en": "(I learned last time that I can't understand\nYui's explanations...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14150",
+   "en": "I'll pass this time. Your explanations are\ntoo advanced, Yui. An ordinary girl\nlike me could never understand them...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14151",
+   "en": "(I didn't mean it as a compliment...\nWell, if Yui's happy, I guess it's fine.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14152",
+   "en": "So this time, I'll try my best\nto study on my own.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14153",
+   "en": "Yeah, I'll do that.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14154",
+   "en": "(For all that, Yui really is kind.\nIf only her explanations were a little\neasier to follow, it'd be perfect...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14155",
+   "en": "(I promised to go shopping\nwith Hoshimura at Folmo, but...)",
+   "flags": [],
+   "notes": "Male, frd_yui_002."
+  },
+  {
+   "id": "c14156",
+   "en": "Sorry I'm laaate!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14157",
+   "en": "(And Hoshimura is late again this time...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14158",
+   "en": "Just to be sure, what's your excuse\nfor being late?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14159",
+   "en": "I got caught up in some morning trouble...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14160",
+   "en": "In other words... you overslept, right?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14161",
+   "en": "Yes, one could put it that way...",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14162",
+   "en": "I'm really sorry! I'll treat you to ice cream,\nso forgive me~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14163",
+   "en": "Forgive you? I'm not even mad,\nso it's fine, really.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14164",
+   "en": "Uuu~, you're so sweet~\nI'm absolutely smitten with your kindness~",
+   "flags": [],
+   "notes": "Hoshimura, both genders (meromero)."
+  },
+  {
+   "id": "c14165",
+   "en": "Geez, you're so full of it...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14166",
+   "en": "By the way, is there anything in particular\nyou're after on this shopping trip?",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14167",
+   "en": "Nope, nothing in particular.\nBuying on the spur of the moment\nis the Yui-san way!",
+   "flags": [],
+   "notes": "Hoshimura, both genders; she calls herself Yui-san."
+  },
+  {
+   "id": "c14168",
+   "en": "Makes sense. That's Hoshimura for you.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14169",
+   "en": "Then off to the shops, away we go~!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14170",
+   "en": "Yeah, yeah, away we go~!",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14171",
+   "en": "(Haaah, I'm beat...\nSeriously, Hoshimura went around\nway too many shops...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14172",
+   "en": "Here you go, one ice cream~",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14173",
+   "en": "Oh, come on, did you forget?\nI promised to treat you to make up\nfor being late, remember?",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14174",
+   "en": "Oh, you really didn't have to...",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14175",
+   "en": "Now, now, don't worry about it and dig in.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14176",
+   "en": "Thanks. Well then, don't mind if I do.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14177",
+   "en": "Mm, it's sweet and tasty!\nSomething sweet when you're tired is the best.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14178",
+   "en": "Is yours tasty too, then?\nThen one bite for meee~!!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14179",
+   "en": "*Chomp!*",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14180",
+   "en": "Mm, yummy yummy...\nTruly, it is hard to say\nwhich of the two is the more delicious.",
+   "flags": [],
+   "notes": "Hoshimura, both genders (old-fashioned kouotsu tsukegatai desu naa)."
+  },
+  {
+   "id": "c14181",
+   "en": "Hey, Hoshimura!\nWhat are you doing eating my ice cream\nwithout asking!?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14182",
+   "en": "Awww, but I wanted to try it!\nSorry, sorry.",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14183",
+   "en": "(And besides, that's an indirect...)",
+   "flags": [],
+   "notes": "Male; trails off before 'kiss'."
+  },
+  {
+   "id": "c14184",
+   "en": "Well, well, we've done our shopping and had\nour ice cream, so shall we call it a day?",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14185",
+   "en": "Y-yeah...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14186",
+   "en": "No, it's nothing really...",
+   "flags": [],
+   "notes": "Male; answers 'Something wrong?' (c11005)."
+  },
+  {
+   "id": "c14187",
+   "en": "You're weird~ Well then, see ya laterrr~",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14188",
+   "en": "(Phew... Hoshimura's wild antics\nsurprise me every single time...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14189",
+   "en": "(But it's because Hoshimura's like that\nthat being with her is so much fun.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14190",
+   "en": "(I promised to go shopping\nwith Yui at Folmo, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14191",
+   "en": "(And Yui is late again this time...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14192",
+   "en": "Forgive you? I'm not even mad,\nso it's fine, really.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14193",
+   "en": "Makes sense. That's Yui for you.",
+   "flags": [],
+   "notes": "x2, female."
+  },
+  {
+   "id": "c14194",
+   "en": "(Haaah, I'm beat...\nSeriously, Yui went around\nway too many shops...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14195",
+   "en": "Thanks. Well then, don't mind if I do.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14196",
+   "en": "Mm, it's sweet and tasty!\nSomething sweet when you're tired is the best.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14197",
+   "en": "Yui...\nI'm not sure it's okay to eat other people's\nfood without asking...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14198",
+   "en": "Geez, Yui...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14199",
+   "en": "Well, well, we've done our shopping and had\nour ice cream, so let's call it a day here.",
+   "flags": [],
+   "notes": "Hoshimura, female scene (no question mark; player replies 'Let's do that.')."
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

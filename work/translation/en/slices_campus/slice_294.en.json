@@ -1,0 +1,506 @@
+{
+ "slice": 294,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c21105",
+   "en": "(It's all thanks to Saotome-kun and the others,\nRanka-chan... and Sheryl-san too.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21106",
+   "en": "(But no matter how you look at it, Frontier\ntook way too much damage this time...!)",
+   "flags": [],
+   "notes": "'But' carries the preceding row c21094 ('Demo...') into this thought."
+  },
+  {
+   "id": "c21107",
+   "en": "(The ship's in tatters, and the ecosystem can't\nbe sustained anymore... What are we supposed\nto do in a situation like this...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21108",
+   "en": "(The Vajra attacks have pushed Frontier\nclose to its limit...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21109",
+   "en": "(The only way for us to survive\nis to take the Vajra's planet for ourselves.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21110",
+   "en": "(Rumors are going around that Ranka betrayed us\nand that the S.M.S. crew deserted too, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21111",
+   "en": "(As long as we've got Alto and the others\nand Sheryl's song, we're sure to be okay!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21112",
+   "en": "My song...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21113",
+   "en": "LISTEN TO IIIIIIIT~~~!!!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Sheryl's catchphrase (watashi no uta wo kike) split across two rows: object 'my song' in c21112, verb 'listen' here. Cut at the matching point rather than reordering into the iconic 'Listen to my song!'. Shared male/female."
+  },
+  {
+   "id": "c21114",
+   "en": "(This is going to be the final battle!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21115",
+   "en": "(Alto, everyone, give it all you've got!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21116",
+   "en": "(The Vajra...\nThe Vajra protected Frontier...?)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21117",
+   "en": "(When Ranka showed up on the Vajra's side,\nI thought it was all over, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21118",
+   "en": "(So Ranka and the Vajra were both\njust being used by Grace.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21119",
+   "en": "(With the Vajra on our side too,\nthis time we can...!)",
+   "flags": [],
+   "notes": "Trailing 'kore nara...!' (with this...!) given a subject and modal; the verb stays cut off as in the Japanese."
+  },
+  {
+   "id": "c21120",
+   "en": "(Gooooooooo!!)",
+   "flags": [],
+   "notes": "Shared male/female; cheering the pilots on."
+  },
+  {
+   "id": "c21121",
+   "en": "(The only way for us to survive\nis to take the Vajra's planet for ourselves.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21122",
+   "en": "(Rumors are going around that Ranka-chan\nbetrayed us and that the S.M.S. crew\ndeserted too, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21123",
+   "en": "(As long as we've got Saotome-kun and the others\nand Sheryl-san's song, we're sure to be okay!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21124",
+   "en": "(This is going to be the final battle, after all!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21125",
+   "en": "(Saotome-kun, everyone, give it all you've got!!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21126",
+   "en": "(When Ranka-chan showed up on the Vajra's side,\nI thought it was all over, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21127",
+   "en": "(So Ranka-chan and the Vajra were both\njust being used by Grace.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21128",
+   "en": "(With the Vajra on our side too,\nthis time we can...!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21129",
+   "en": "(Phew, made it just in time...\nI almost ended up late for the entrance ceremony.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21130",
+   "en": "(Starting today, I'm a student at Mihoshi Academy\nHigh School, the Frontier fleet's top school for\nspecialists. I'd better stay on my toes.)",
+   "flags": [],
+   "notes": "Bisei Gakuen Koukou: 'Mihoshi Academy High School' (glossary Mihoshi Academy + High School)."
+  },
+  {
+   "id": "c21131",
+   "en": "(...Wait, this is no time to psych myself up\nat the school gate. I've gotta hurry to class!)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21132",
+   "en": "(Looks like this is the right classroom...\nbut where should I sit?)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21133",
+   "en": "Whoa, sorry about that.",
+   "flags": [],
+   "notes": "x6: Alto bumping into the player (name plate shows as PLAYER/none and '??? (woman)' in the parsed script; same speaker). Works for both genders."
+  },
+  {
+   "id": "c21134",
+   "en": "Whoa.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21135",
+   "en": "No, I'm the one who should be sor...",
+   "flags": [],
+   "notes": "Cut off mid-apology as in the Japanese (gome...)."
+  },
+  {
+   "id": "c21136",
+   "en": "(Wow...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21137",
+   "en": "(What a pretty girl...)",
+   "flags": [],
+   "notes": "The player mistakes Alto for a girl."
+  },
+  {
+   "id": "c21138",
+   "en": "Hey, you're spacing out. Are you really okay?",
+   "flags": [],
+   "notes": "Alto ('A Girl?' plate). Shared male/female."
+  },
+  {
+   "id": "c21139",
+   "en": "Y-yeah... I'm fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21140",
+   "en": "(I can't exactly admit I was staring at her...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21141",
+   "en": "(But why is she wearing\na boys' uniform?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21142",
+   "en": "...Well, now, this is a surprise.\nWho'd have thought I'd end up in the same\nclass as Princess Alto?",
+   "flags": [],
+   "notes": "Michel ('??? (man)'). Alto-hime = 'Princess Alto' (glossary nickname)."
+  },
+  {
+   "id": "c21143",
+   "en": "Tch, of all people to share a class with...!\nAnd stop calling me Princess, Michael.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Alto says Mihaeru: glossary en 'Michael Blanc', so 'Michael' (Michel only for Misheru). The parsed name plate for this speaker reads 'Mikhail'; check the plate is set to the same spelling."
+  },
+  {
+   "id": "c21144",
+   "en": "Aw, don't get so mad, Prin-cess Alto.",
+   "flags": [],
+   "notes": "Japanese spells out hi-me syllable by syllable to tease."
+  },
+  {
+   "id": "c21145",
+   "en": "Even that angry face of yours is lovely...\nHonestly, it's a waste for you to be a guy,\nPrincess Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21146",
+   "en": "(...............Huh?! This one's a GUY?!\nFrom every angle, I'd have sworn that\nwas a gorgeous girl...)",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21147",
+   "en": "That attitude of yours is exactly what I...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21148",
+   "en": "Come on, please don't fight in a place like this,\nAlto-senpai, Michel-senpai.",
+   "flags": [],
+   "notes": "Luca ('??? (man)')."
+  },
+  {
+   "id": "c21149",
+   "en": "Fight? Perish the thought.\nAlto and I were just getting a little touchy-feely.\nRight, Alto?",
+   "flags": [],
+   "notes": "sukinshippu (affectionate physical contact) -> 'touchy-feely'."
+  },
+  {
+   "id": "c21150",
+   "en": "Like I'd know!",
+   "flags": [],
+   "notes": "shiru ka! = dismissive refusal to play along."
+  },
+  {
+   "id": "c21151",
+   "en": "Sigh... Okay, I get that you two are close.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21152",
+   "en": "Um...\nAnd who might this be...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21153",
+   "en": "Oh right, I haven't even introduced myself yet.\nI'm \\p.\nNice to meet you all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21154",
+   "en": "Why, thank you for being so polite.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21155",
+   "en": "I'm Luca Angeloni.\nThe pleasure's all mine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21156",
+   "en": "And while I'm at it, Luca skipped a grade,\nso he's actually a year younger than us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21157",
+   "en": "(I see... No wonder he doesn't look our age.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21158",
+   "en": "On top of that, he's the rich boy of L.A.I.,\nthe huge corporation that makes everything\nfrom micromachines to fold engines.",
+   "flags": [],
+   "notes": "obocchan = rich man's son; 'rich boy' so Luca's protest in c21159 can quote it."
+  },
+  {
+   "id": "c21159",
+   "en": "Mmph... Please stop calling me \"rich boy,\"\nMichel-senpai.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21160",
+   "en": "Haha, don't pout like that, Luca.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21161",
+   "en": "Oh, come to think of it,\nI haven't introduced myself either.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21162",
+   "en": "Michael Blanc's the name.\nCall me Michel, nice and friendly.",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Mihaeru Buran -> 'Michael Blanc' (glossary); asks to be called Misheru -> 'Michel'. Name plate here already reads Michel."
+  },
+  {
+   "id": "c21163",
+   "en": "Nice to meet you, Michel.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21164",
+   "en": "Luca-kun, what are you all doing\nstanding in the classroom doorway?",
+   "flags": [],
+   "notes": "Nanase ('??? (woman)'); Ruka-kun-tachi = Luca-kun and the others."
+  },
+  {
+   "id": "c21165",
+   "en": "N-Nanase-san!\nUh, oh, yes... This person here\nis \\p-san, and, um...",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21166",
+   "en": "We were just introducing ourselves\nto each other, or, well, something like that...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21167",
+   "en": "Oh, I see.\nThen I'd better introduce myself too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21168",
+   "en": "I'm Nanase Matsuura.\nI'm in the Art Course, so I'm in a different\ncourse from you all, but it's nice to meet you.",
+   "flags": [
+    "name_missing"
+   ],
+   "notes": "Geijutsu-ka (art course) is not in the glossary; 'Art Course' by analogy with Pilot Course / Performing Arts Course (geinou-ka). Not the same as geinou-ka."
+  },
+  {
+   "id": "c21169",
+   "en": "Nice to meet you too, Nanase.",
+   "flags": [],
+   "notes": "Shared male/female."
+  },
+  {
+   "id": "c21170",
+   "en": "Hey, Alto, at least introduce yourself.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21171",
+   "en": "...Alto Saotome.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21172",
+   "en": "Alto-senpai, that's really not enough...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21173",
+   "en": "...Nice to meet you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21174",
+   "en": "Nice to meet you too, Alto.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21175",
+   "en": "...Yeah.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21176",
+   "en": "(I was a little nervous about school life,\nbut I'm glad I made friends right away...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21177",
+   "en": "(I've gotta keep this up and work hard\nto make school life a blast!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21178",
+   "en": "(Phew, made it just in time...\nI almost ended up late for the entrance ceremony.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21179",
+   "en": "(Starting today, I'm a student at Mihoshi Academy\nHigh School, the Frontier fleet's top school for\nspecialists. I'd better stay on my toes.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21180",
+   "en": "No, I'm the one who should be sor...",
+   "flags": [],
+   "notes": "Cut off mid-apology as in the Japanese."
+  },
+  {
+   "id": "c21181",
+   "en": "(What a pretty girl...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21182",
+   "en": "Y-yeah... I'm fine.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21183",
+   "en": "(I can't exactly admit I was staring at her...\nBut why is she wearing\na boys' uniform?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c21184",
+   "en": "Oh right, I haven't even introduced myself yet.\nI'm \\p.\nNice to meet you all!",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c21113: Sheryl's catchphrase split over c21112/c21113 kept in row order ('My song...' / 'LISTEN TO IIIIIIIT~~~!!!') instead of the iconic 'Listen to my song!'.",
+   "c21143/c21162: Mihaeru rendered 'Michael' per glossary (Michael Blanc); the parsed name plate for this speaker before the reveal reads 'Mikhail', which disagrees with the glossary."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [
+   "Geijutsu-ka (Nanase's course) -> 'Art Course' (c21168)"
+  ],
+  "unfinished": []
+ }
+}

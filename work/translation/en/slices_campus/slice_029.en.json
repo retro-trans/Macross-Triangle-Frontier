@@ -1,0 +1,448 @@
+{
+ "slice": 29,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c02103",
+   "en": "I'll let you know when I make the curry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02104",
+   "en": "Well then, see you at school.",
+   "flags": [],
+   "notes": "Also the player (frd_kgr_006) and Luca (frd_luk_006)."
+  },
+  {
+   "id": "c02105",
+   "en": "See ya.",
+   "flags": [],
+   "notes": "x14 partings, both genders."
+  },
+  {
+   "id": "c02106",
+   "en": "(Yeah, she really does walk gracefully.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02107",
+   "en": "(Huh? The one walking this way is...\nMiyuki.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02108",
+   "en": "(Looks like she noticed me too.\nWow, she always looks so lovely...)",
+   "flags": [],
+   "notes": "itsu mite mo kirei da naa."
+  },
+  {
+   "id": "c02109",
+   "en": "\\p-san,\ngrinning like that in the middle of town\nwill make people question your character.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02110",
+   "en": "Well, I was just admiring\nhow beautifully you walk, Miyuki.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02111",
+   "en": "Whoa~",
+   "flags": [],
+   "notes": "hohee~, impressed."
+  },
+  {
+   "id": "c02112",
+   "en": "I'd eat it every week, though. Curry, I mean.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02113",
+   "en": "I see. So is the meat chicken?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02114",
+   "en": "Whoa~\nThat sounds delicious!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02115",
+   "en": "(Wow, she sounds really confident...\nIt must be seriously good...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02116",
+   "en": "All right! Miyuki's curry!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02117",
+   "en": "Well, sure.\nI'll let you know when I make the curry.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02118",
+   "en": "See ya~!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02119",
+   "en": "(Yeah, she really does walk gracefully!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02120",
+   "en": "(Huh, it's Shirakawa... What's she up to?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02121",
+   "en": "Hey, Shirakawa.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02122",
+   "en": "\\p-kun!\nH-hello.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02123",
+   "en": "What are you doing in a place like this?",
+   "flags": [],
+   "notes": "Shared m/f."
+  },
+  {
+   "id": "c02124",
+   "en": "Um... well...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02125",
+   "en": "...Does it have something to do with what\nyou're holding? Looks like a letter...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02126",
+   "en": "Ugh, th-this is...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02127",
+   "en": "Ah-haaa...",
+   "flags": [],
+   "notes": "hahaan, the player catching on."
+  },
+  {
+   "id": "c02128",
+   "en": "I've got it! It's a love letter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02129",
+   "en": "Ah! N-no!\nI mean, well, um...\nYes...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02130",
+   "en": "Shirakawa with a love letter, huh...\nWell, well, well~~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02131",
+   "en": "I-I didn't write it, okay?!\nSomeone else just asked me to give it\nto a certain person!!",
+   "flags": [],
+   "notes": "betsu no ko (gender not given) and ano hito (Kagura, revealed later) kept neutral."
+  },
+  {
+   "id": "c02132",
+   "en": "Oh, I see.",
+   "flags": [],
+   "notes": "x10 across scenes; neutral."
+  },
+  {
+   "id": "c02133",
+   "en": "I-it's true, okay?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02134",
+   "en": "J-just kidding, kidding...\nSo somebody asked you to be their messenger girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02135",
+   "en": "That's right...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02136",
+   "en": "Who's it for?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02137",
+   "en": "...Yuuto Kagura.",
+   "flags": [],
+   "notes": "She gives the full name; glossary order (never 'Kagura Yuuto')."
+  },
+  {
+   "id": "c02138",
+   "en": "Huh? Why would they ask you, Shirakawa?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02139",
+   "en": "...He... Kagura-kun and I are childhood friends.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02140",
+   "en": "I didn't know that.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02141",
+   "en": "...Please don't go spreading it around.\nIt's embarrassing...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02142",
+   "en": "You don't sound too happy about it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02143",
+   "en": "It's a past I'd rather forget.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02144",
+   "en": "(Is it really that bad...?)",
+   "flags": [],
+   "notes": "soko made iu ka."
+  },
+  {
+   "id": "c02145",
+   "en": "So, sorry to ask, but could you give this\nto him for me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02146",
+   "en": "H-hey, wait, why me?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02147",
+   "en": "Please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02148",
+   "en": "Fine, if I have to...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02149",
+   "en": "\\p...\nAnd Shirakawa...",
+   "flags": [],
+   "notes": "??? (man) = Kagura."
+  },
+  {
+   "id": "c02150",
+   "en": "Oh, Yuuto...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02151",
+   "en": "No, I didn't mean to see anything...\nI'll get out of your way right now! Hahaha!!",
+   "flags": [],
+   "notes": "sugu kieru kara."
+  },
+  {
+   "id": "c02152",
+   "en": "No no no, it's nothing like that!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02153",
+   "en": "Don't go getting the wrong idea!",
+   "flags": [],
+   "notes": "nani kanchigai shiteru no yo."
+  },
+  {
+   "id": "c02154",
+   "en": "No need to be shy.\nAs her childhood friend, it's only natural\nthat I'd give you two my blessing, right?",
+   "flags": [],
+   "notes": "osananajimi to shite: he is Shirakawa's childhood friend; shared m/f."
+  },
+  {
+   "id": "c02155",
+   "en": "I think I kinda get why she hates it...",
+   "flags": [],
+   "notes": "Why Shirakawa wants to forget being his childhood friend; shared m/f."
+  },
+  {
+   "id": "c02156",
+   "en": "Here, this is for you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02157",
+   "en": "What's this?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02158",
+   "en": "See for yourself, okay?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02159",
+   "en": "H-hey!\nWait up!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02160",
+   "en": "(Ooh, it's Miyuki... What's she up to?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02161",
+   "en": "Yoo-hoo, Mi-yu-ki!",
+   "flags": [],
+   "notes": "Miiyuki, drawn out playfully."
+  },
+  {
+   "id": "c02162",
+   "en": "\\p-san!\nH-hello.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02163",
+   "en": "I've got it! It's a love letter!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02164",
+   "en": "Miyuki with a love letter, huh...\nWell, well, well~~",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02165",
+   "en": "O-oh, I see.",
+   "flags": [],
+   "notes": "Also ext_yui_002 (female)."
+  },
+  {
+   "id": "c02166",
+   "en": "J-just kidding, kidding...\nSo somebody asked you to be their messenger girl?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02167",
+   "en": "Huh? Why would they ask you, Miyuki?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02168",
+   "en": "I had no idea!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02169",
+   "en": "You don't sound too happy about it...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02170",
+   "en": "(Is it really that bad...?)",
+   "flags": [],
+   "notes": "soko made iu no."
+  },
+  {
+   "id": "c02171",
+   "en": "H-hey, wait, why me?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02172",
+   "en": "......Fine, if I have to...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02173",
+   "en": "Oh, Kagura-kun...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c02174",
+   "en": "See for yourself.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c02131: 'betsu no ko' (the letter writer) and 'ano hito' (Kagura, named three rows later) kept neutral: 'someone else', 'a certain person'.",
+   "c02154: 'osananajimi to shite' read as Kagura speaking as Shirakawa's childhood friend ('As her childhood friend')."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

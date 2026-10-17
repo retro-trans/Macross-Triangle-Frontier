@@ -1,0 +1,436 @@
+{
+ "slice": 116,
+ "rows_in_slice": 70,
+ "rows_examined": 70,
+ "rows": [
+  {
+   "id": "c08554",
+   "en": "(Luis-san...\nI don't know what's troubling you,\nbut I believe...)",
+   "flags": [],
+   "notes": "Inner monologue continues in c08555 (object of 'shinjitemasu'); cut at the matching point."
+  },
+  {
+   "id": "c08555",
+   "en": "(...that you'll show me that lively,\npassion-filled side of you again...)",
+   "flags": [],
+   "notes": "Shared by the male and female scenes."
+  },
+  {
+   "id": "c08556",
+   "en": "(The last time I ran into Luis-san here,\nhe seemed really down, but...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08557",
+   "en": "I know I can't keep moping around forever!\nI know that, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08558",
+   "en": "(Luis-san...\nI don't know what's troubling you,\nbut I believe...)",
+   "flags": [],
+   "notes": "Female twin of c08554."
+  },
+  {
+   "id": "c08559",
+   "en": "(Okay, school's over.\nWhere should I stop by on the way home today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08560",
+   "en": "(Huh? I think someone's in the pool...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08561",
+   "en": "Yo, Fresh Boy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08562",
+   "en": "W-wait, Luis-san?!\nWhy are you in the school pool?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08563",
+   "en": "You ask me \"why,\" but the reason is simple.\nI was waiting for you to show up!\nFresh Boy!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08564",
+   "en": "You were waiting for me...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08565",
+   "en": "Truth is, I came here to throw down\nthe gauntlet to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08566",
+   "en": "Here and now...\nI challenge you to a swimming showdown\nwith Luis Fernando!",
+   "flags": [],
+   "notes": "Luis names himself in full, as in the Japanese."
+  },
+  {
+   "id": "c08567",
+   "en": "Huh?! A showdown?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08568",
+   "en": "Why do I have to go up against you,\nLuis-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08569",
+   "en": "I'll tell you that if you can beat me,\nFresh Boy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08570",
+   "en": "Is that so...\nThen I can't afford to lose!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08571",
+   "en": "Oh, you've got a good look in your eyes now.\nThat fierce glint... I can't get enough of it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08572",
+   "en": "(All right! I don't really get it, but\nI'm definitely gonna beat Luis-san!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08573",
+   "en": "You ready?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08574",
+   "en": "Yes, I'm ready anytime.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08575",
+   "en": "Here we go...\nOn your marks......",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08576",
+   "en": "Get set...!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08577",
+   "en": "Hey! What do you two think you're doing here?",
+   "flags": [],
+   "notes": "Hilda addresses Luis and the player (omaetachi)."
+  },
+  {
+   "id": "c08578",
+   "en": "Huh?! Hilda-sensei!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08579",
+   "en": "What do we do, Luis-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08580",
+   "en": "...Wait, he's already gone?!",
+   "flags": [],
+   "notes": "He = Luis, in both scene variants."
+  },
+  {
+   "id": "c08581",
+   "en": "That's so mean, Luis-san...\nRunning off and leaving me behind...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08582",
+   "en": "\"Of the thirty-six stratagems, running away\nis the best,\" as they say.",
+   "flags": [],
+   "notes": "Proverb sanjuuroku-kei nigeru ni shikazu, kept with its stratagem image."
+  },
+  {
+   "id": "c08583",
+   "en": "Hilda-sensei chewed me out like crazy,\nyou know!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08584",
+   "en": "Getting scolded is just love in disguise.\nIt'll make a good memory, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08585",
+   "en": "I really don't see it that way...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08586",
+   "en": "Anyway, the contest got called off,\nbut why did you need to have a contest\nwith me in the first place?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08587",
+   "en": "Heh, it's nothin'...\nIt was just a push to help me\nshake off my past...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08588",
+   "en": "Shake off your past?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08589",
+   "en": "If I stay stuck in the past forever,\nthat guy's gonna laugh at me...",
+   "flags": [],
+   "notes": "'That guy' (aitsu) = Luis's late friend, revealed in frd_lis_008."
+  },
+  {
+   "id": "c08590",
+   "en": "That's all. I just finally realized\nsomething that simple.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08591",
+   "en": "Luis-san...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08592",
+   "en": "Don't you worry about it.\nThis is my problem.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08593",
+   "en": "Your passion today...\nwasn't half bad.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08594",
+   "en": "(Luis-san looked like a weight had been lifted...\nDoes that mean his troubles are over?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08595",
+   "en": "(Hmm... That's a good thing, but\nwhy a swimming showdown, of all things?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08596",
+   "en": "(Well, it's Luis-san. There probably\nwasn't any real meaning behind it.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08597",
+   "en": "Yo, Fresh Girl!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08598",
+   "en": "You ask me \"why,\" but the reason is simple.\nI was waiting for you to show up!\nFresh Girl!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08599",
+   "en": "You were waiting for me...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08600",
+   "en": "Why do I have to go up against you,\nLuis-san?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08601",
+   "en": "I'll tell you that if you can beat me,\nFresh Girl.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08602",
+   "en": "(All right! I don't really get it, but\nI'm definitely going to beat Luis-san!)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08603",
+   "en": "Anyway, the contest got called off,\nbut why did you need to have a contest\nwith me in the first place?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08604",
+   "en": "If I stay stuck in the past forever,\nthat guy's gonna laugh at me...",
+   "flags": [],
+   "notes": "As c08589."
+  },
+  {
+   "id": "c08605",
+   "en": "(Hmm... That's a good thing, but\nwhy a swimming showdown, I wonder?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08606",
+   "en": "(Well, it's Luis-san. I'm sure there\nwasn't any real meaning behind it.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08607",
+   "en": "(Okay, where should I stop by\non the way home today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08608",
+   "en": "Yo, Fresh Boy!\nYou're giving off some good passion today, too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08609",
+   "en": "Oh, Luis-san. Hello.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08610",
+   "en": "...Wait!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08611",
+   "en": "Why are you in a swimsuit?!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08612",
+   "en": "Well, our showdown got interrupted\nby Hilda the other day, right?",
+   "flags": [],
+   "notes": "Luis says bare 'Hilda', kept bare."
+  },
+  {
+   "id": "c08613",
+   "en": "So I was waiting at the pool to challenge you\nto a rematch, but Hilda caught me again\nand kicked me out. That's the story.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08614",
+   "en": "(Even so, that doesn't seem like a reason\nto still be in a swimsuit...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08615",
+   "en": "Oops, it's almost time for my gig.\nI'll take my leave for today,\nFresh Boy.",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c08616",
+   "en": "Oh, okay. See you...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08617",
+   "en": "(Luis-san went off still in his swimsuit...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08618",
+   "en": "(He could get arrested for that.\nWill he be okay...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08619",
+   "en": "(Okay, where should I stop by\non the way home today...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08620",
+   "en": "Yo, Fresh Girl!\nYou're giving off some good passion today, too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08621",
+   "en": "Oops, it's almost time for my gig.\nI'll take my leave for today,\nFresh Girl.",
+   "flags": [],
+   "notes": "Aligned: raibu 'concert' (Luis's street shows 'gig'), glossary 2026-10-17."
+  },
+  {
+   "id": "c08622",
+   "en": "(Luis-san went off still in his swimsuit...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c08623",
+   "en": "(He could get arrested for that.\nWill he be okay...?)",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c08589/c08604: 'aitsu' = Luis's late friend from frd_lis_008; rendered 'that guy' (Luis calls him like a little brother there).",
+   "c08582: proverb 'of the thirty-six stratagems, running away is best' kept as a quoted saying rather than an English equivalent."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

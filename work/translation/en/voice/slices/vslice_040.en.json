@@ -1,0 +1,520 @@
+{
+ "slice": 40,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "p0_om1/626",
+   "en": "But you never know what might happen. At least learn to move around freely.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/626",
+   "en": "Going around the markers adds bonus points, so if you trust your skills, give it a shot.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/627",
+   "en": "You must be getting used to the EX-Gear by now. This time, show me how much you've improved.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/627",
+   "en": "Some of you have barely touched an EX-Gear, and some of you can probably already fly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/628",
+   "en": "As for the test: carry the container here to the goal within the time limit, and you're done.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/628",
+   "en": "Do what you can with the skills you have now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/629",
+   "en": "Besides that, I've placed lots of checkpoint markers and targets again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/629",
+   "en": "Starting the test!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/630",
+   "en": "Pass the markers or destroy targets and you'll get bonus points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/630",
+   "en": "Don't dawdle! The test's started!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/631",
+   "en": "This is a review of everything so far. You don't need to do it all perfectly. Just do all you can right now.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/631",
+   "en": "All right! That'll do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/632",
+   "en": "The test starts now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/632",
+   "en": "All right! The test is over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/633",
+   "en": "Well then, shall we start?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/633",
+   "en": "There's still time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/634",
+   "en": "All right, that'll do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/634",
+   "en": "The time limit's closing in.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/635",
+   "en": "All right! The test is over!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/635",
+   "en": "All right! That's enough!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/636",
+   "en": "There's still time.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/636",
+   "en": "Time's up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/637",
+   "en": "Time's almost up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/637",
+   "en": "So far, so good.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/638",
+   "en": "All right! That's enough!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/638",
+   "en": "Try going for the bonus points.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/639",
+   "en": "Whoops, time's up.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/639",
+   "en": "Good! Keep it up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/640",
+   "en": "You're keeping a nice pace.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/640",
+   "en": "I'll explain the Walk mode controls.",
+   "flags": [],
+   "notes": "640-711 (Hilda): EX-Gear training-room tutorial. Button names as the voice tutorials already in voice.json (Cross button, D-pad, analog stick); mode names as the corpus (Walk / Hover / Flight mode)."
+  },
+  {
+   "id": "p0_om1/641",
+   "en": "Why not go for the bonus points?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "bonus pointo wo neratte miru ka: read as Gary suggesting it to the examinee; could also be 'Going for the bonus points, huh?' remarking on what the player does."
+  },
+  {
+   "id": "p0_of1/641",
+   "en": "Push the analog stick down to switch to Walk mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_om1/642",
+   "en": "Not bad at all.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/642",
+   "en": "Up, down, left and right on the D-pad move you forward, back, left and right.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has houkouki; read as houkou-kii ('D-pad')."
+  },
+  {
+   "id": "p0_om1/643",
+   "en": "There's a training machine set up with the targets. Balls fly out of it now and then. Dodge or block them, but deal with them.",
+   "flags": [],
+   "notes": "Same as row 3103 with 'training machine' for 'volleyball machine'."
+  },
+  {
+   "id": "p0_of1/643",
+   "en": "Special moves: press the D-pad twice quickly in one direction to step. Keep holding it at the end of a step to dash.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/644",
+   "en": "Press the Cross button to jump.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/645",
+   "en": "Hold the Cross button to float in the air for a short while.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/646",
+   "en": "While floating, press the D-pad to move through the air, too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/647",
+   "en": "While dashing, you move faster than normal.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/648",
+   "en": "You can dash while floating, too. Practice until you can use it well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/649",
+   "en": "I'll explain the Hover mode controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/650",
+   "en": "Push the analog stick left or right to switch to Hover mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/651",
+   "en": "In Hover mode, press left or right on the D-pad to turn, and press the L button to hover.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/652",
+   "en": "Pressing the D-pad twice in one direction to step works the same as in Walk mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/653",
+   "en": "Likewise, keep holding the D-pad at the end of a step to dash.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/654",
+   "en": "Hold the Cross button to boost upward.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/655",
+   "en": "Boosting up feels like jumping, but in Hover mode you can keep holding the altitude you're flying at.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript writes kankaku as 'interval'; read as kankaku 'feel'."
+  },
+  {
+   "id": "p0_of1/656",
+   "en": "That's the big difference from Walk mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/657",
+   "en": "To lose altitude, quickly press the Cross button twice and keep holding it to boost downward.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has kakou ('processing') boost; read as kakou 'downward' boost (as Ranka's pf_rnk/822)."
+  },
+  {
+   "id": "p0_of1/658",
+   "en": "Well, just keep drilling it until you're used to it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/659",
+   "en": "After that, switch modes and practice however you like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/660",
+   "en": "I'll explain the Flight mode controls.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/661",
+   "en": "Push the analog stick up to switch to Flight mode.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/662",
+   "en": "Left and right on the D-pad turn, as in Hover mode, but in Flight mode, up on the D-pad descends and down climbs.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/663",
+   "en": "Also, unique to Flight mode, press the Cross button to boost and speed up.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript reads 'press boost with the Cross button'; the Cross button is the boost button (corpus: 'Press the x button to boost and speed up')."
+  },
+  {
+   "id": "p0_of1/664",
+   "en": "Also, quickly press up, left or right on the D-pad twice in the same direction to roll that way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/665",
+   "en": "Flight mode is a bit harder, but practice it over and over until you can do it properly.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/666",
+   "en": "I'll explain shooting attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/667",
+   "en": "To attack, you first need to lock on to a target. Press the R button to lock on to the nearest enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/668",
+   "en": "While locked on, press the R button again to switch your lock to another enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/669",
+   "en": "Also, hold up on the D-pad and press the R button to lock on to enemy aces and such first.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has houkouki-ue; read as houkou-kii ue ('up on the D-pad')."
+  },
+  {
+   "id": "p0_of1/670",
+   "en": "While locked on, press the Square button to shoot the target you're locked on to.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/671",
+   "en": "When shooting, the more directly in front of you the target is, the better your accuracy. Don't forget it.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/672",
+   "en": "I'll explain melee attacks.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/673",
+   "en": "In Walk or Hover mode, press the Triangle button for a melee attack.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has howaa mode; read as hobaa ('Hover') mode."
+  },
+  {
+   "id": "p0_of1/674",
+   "en": "Press the Triangle button repeatedly to chain melee attacks. Melee only hits enemies near you, so use it carefully.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/675",
+   "en": "For melee, lock on to choose your target, then dash to close the distance.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/676",
+   "en": "Also, hold the L button in Walk mode to guard. Don't just attack blindly; watching the enemy and defending matters too.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/677",
+   "en": "Today, I've specially borrowed a receiving machine from the volleyball club.",
+   "flags": [],
+   "notes": "reshiibu mashin: a volleyball machine that fires balls to receive."
+  },
+  {
+   "id": "p0_of1/678",
+   "en": "It's perfect for practicing dodging and blocking incoming balls. Use it freely and practice.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/679",
+   "en": "I'll explain cargo hauling.",
+   "flags": [],
+   "notes": "busshi unpan: 'supply transport'; the corpus tutorial calls the act 'container transport'."
+  },
+  {
+   "id": "p0_of1/680",
+   "en": "You can pick up containers on the ground by locking on and getting close.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/681",
+   "en": "And press the Square button to set a container you're carrying down where you are.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/682",
+   "en": "But your EX-Gear has to be in Walk or Hover mode to pick up a container, so be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/683",
+   "en": "And while you're carrying a container, your hands are full, so you can't shoot or use melee. Be careful.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/684",
+   "en": "To work a door switch, you also need to lock on and get close, just like picking up a container.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/685",
+   "en": "Hold down on the D-pad and press the R button to lock on to containers and door switches first. Use it well.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "p0_of1/686",
+   "en": "This is the training room for practicing basic maneuvers.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "Transcript has toreeringu ('trailing') room; read as toreeningu ('training') room."
+  },
+  {
+   "id": "p0_of1/687",
+   "en": "First, I'll explain the EX-Gear's operating modes.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "row 3151 (p0_om1/641): bonus pointo wo neratte miru ka: read as Gary suggesting it to the examinee; could also be 'Going for the bonus points, huh?' remarking on what the player does."
+  ],
+  "whisper_doubt": [
+   "row 3154 (p0_of1/642): Transcript has houkouki; read as houkou-kii ('D-pad').",
+   "row 3168 (p0_of1/655): Transcript writes kankaku as 'interval'; read as kankaku 'feel'.",
+   "row 3170 (p0_of1/657): Transcript has kakou ('processing') boost; read as kakou 'downward' boost (as Ranka's pf_rnk/822).",
+   "row 3176 (p0_of1/663): Transcript reads 'press boost with the Cross button'; the Cross button is the boost button (corpus: 'Press the x button to boost and speed up').",
+   "row 3182 (p0_of1/669): Transcript has houkouki-ue; read as houkou-kii ue ('up on the D-pad').",
+   "row 3186 (p0_of1/673): Transcript has howaa mode; read as hobaa ('Hover') mode.",
+   "row 3199 (p0_of1/686): Transcript has toreeringu ('trailing') room; read as toreeningu ('training') room."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

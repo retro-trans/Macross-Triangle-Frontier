@@ -1,0 +1,497 @@
+{
+ "slice": 10,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "c00666",
+   "en": "Claire-senpai!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00667",
+   "en": "Oh, \\p-kun.\nHello.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00668",
+   "en": "What are you doing in front of\nNyan-Nyan?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00669",
+   "en": "Hmm...\nI was thinking of going in, but...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00670",
+   "en": "Then why don't you just go in?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00671",
+   "en": "Going in alone is a little lonely,\ndon't you think...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00672",
+   "en": "Well, I'd go in by myself, no problem.\nIf you like, why don't you come in\nwith me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00673",
+   "en": "Are you sure?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00674",
+   "en": "Sure, I've got nothing else to do.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00675",
+   "en": "Then let's go in!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00676",
+   "en": "Please don't push me!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00677",
+   "en": "It's my treat today,\nso eat as much as you like.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00678",
+   "en": "What!\nAre you sure!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00679",
+   "en": "Of course! And I'm going all out too!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00680",
+   "en": "Then it's an eating contest!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00681",
+   "en": "I won't lose to you!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00682",
+   "en": "Phew...\nI ate so much...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00683",
+   "en": "I'm done... I can't fit another bite...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00684",
+   "en": "You sure can put it away!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00685",
+   "en": "Maybe a little too much...\nBut it was a great way to blow off steam.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00686",
+   "en": "Excuse me! I'd like the check, please.\nHow much will it be?",
+   "flags": [],
+   "notes": "Calls out tenin-san (the server); left neutral as 'Excuse me!'."
+  },
+  {
+   "id": "c00687",
+   "en": "Here is your bill.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00688",
+   "en": "...Th-that's quite a price...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00689",
+   "en": "Let's see, my wallet, my wallet...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00690",
+   "en": "No way...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00691",
+   "en": "It's not here...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00692",
+   "en": "Huh?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00693",
+   "en": "My wallet's gone...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00694",
+   "en": "WHAAAT!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00695",
+   "en": "...I left it at home...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00696",
+   "en": "B-but I don't have any money on me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00697",
+   "en": "Is something the matter?",
+   "flags": [],
+   "notes": "o-kyaku-sama (customer) dropped as an address: the row is used 14 times with customers of unknown gender."
+  },
+  {
+   "id": "c00698",
+   "en": "Weeell, you see...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00699",
+   "en": "Could I maybe work here\nfor a temporary shift...?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00700",
+   "en": "Excuse me!?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00701",
+   "en": "Thank you very much!",
+   "flags": [],
+   "notes": "Claire now working as waitress."
+  },
+  {
+   "id": "c00702",
+   "en": "Welcome!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00703",
+   "en": "Just a moment, please!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00704",
+   "en": "Please come again!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00705",
+   "en": "...Sigh...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00706",
+   "en": "G-good work today.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00707",
+   "en": "I'm sorry things turned out like this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00708",
+   "en": "Hey, it was good after-dinner exercise.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00709",
+   "en": "Plus, I got to see the rare sight of\nClaire-senpai in a Nyan-Nyan uniform!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00710",
+   "en": "Did it suit me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00711",
+   "en": "Yes! Very much!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00712",
+   "en": "Hehe, thank you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00713",
+   "en": "Well then, let's head home together.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00714",
+   "en": "(I'm totally beat, but that was fun.)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00715",
+   "en": "\\p-chan.\nHello.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00716",
+   "en": "Well, I'd go in by myself, no problem.\nIn that case, why don't you come in\nwith me?",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00717",
+   "en": "Sure, I've got nothing else to do!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00718",
+   "en": "Pleeease don't push me!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00719",
+   "en": "B-but I don't have any money on me!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00720",
+   "en": "...I hear you've gotten awfully close\nwith that man lately?\nI heard the rumors...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Female-player counterpart of c00658 (ano otoko)."
+  },
+  {
+   "id": "c00721",
+   "en": "(Ugh, my head hurts...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00722",
+   "en": "(My joints ache too...\nDid I catch a cold...?)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00723",
+   "en": "Wh-whoa... Everything's spinning...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00724",
+   "en": "Hey! You! Are you all right!?",
+   "flags": [],
+   "notes": "Speaker plate ??? (Canaria, unrevealed)."
+  },
+  {
+   "id": "c00725",
+   "en": "(Doesn't look like it...)",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00726",
+   "en": "...Nn, nnn...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00727",
+   "en": "So you're awake...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00728",
+   "en": "Huh? Where am I... the park?\nNngh... my throat feels weird, too...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00729",
+   "en": "Here, drink this.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00730",
+   "en": "Thank you... Huh, Canaria-san?\nWhat are you doing he- *cough, cough*!!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00731",
+   "en": "Don't force yourself to talk.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00732",
+   "en": "Y-yes... I'b sorry...",
+   "flags": [],
+   "notes": "zubibazen: 'sumimasen' through a stuffed nose."
+  },
+  {
+   "id": "c00733",
+   "en": "Honestly...\nWho knows what would have happened\nif I hadn't been here.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00734",
+   "en": "...I've learned my lesson...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00735",
+   "en": "Open your mouth.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00736",
+   "en": "Aaah.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00737",
+   "en": "Your tonsils are swollen.\nThat'll give you a fever, so take\nthis fever reducer.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00738",
+   "en": "Okay...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00739",
+   "en": "Now, bare your chest.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00740",
+   "en": "Huh? My chest??",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00741",
+   "en": "I need to listen to your lungs.\nIf it's turned into pneumonia,\nthat's bad news.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00742",
+   "en": "I-I'm fine, really.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00743",
+   "en": "Don't be shy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00744",
+   "en": "I-I'm not being shy, it's just...\ndoing that here is kind of...",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "c00745",
+   "en": "It's fine. Nobody's looking.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c00720: 'that man' (female version of c00658), referent unidentified."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

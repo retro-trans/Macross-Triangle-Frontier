@@ -1,0 +1,573 @@
+{
+ "slice": 1,
+ "rows_in_slice": 80,
+ "rows_examined": 80,
+ "rows": [
+  {
+   "id": "o7_exd/000",
+   "en": "I am Exsedol Folmo, and I shall serve as your staff officer.",
+   "flags": [],
+   "notes": "sanbou = staff officer (his Macross 7 post)."
+  },
+  {
+   "id": "of_ktr/000",
+   "en": "This is bridge operator Lieutenant Catherine Glass. Please, call me Cathy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/001",
+   "en": "From now on, I shall relay the mission details and the situation to you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/001",
+   "en": "From now on, I'll brief you on the mission and the battle situation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/002",
+   "en": "We're starting the operation now!",
+   "flags": [],
+   "notes": "TF re-recording; the MUF clip said 'time to get to work'."
+  },
+  {
+   "id": "o7_exd/002",
+   "en": "We shall now commence the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/002",
+   "en": "Commencing the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/003",
+   "en": "Operation start. All squadrons, move to combat readiness.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/003",
+   "en": "Operation start. All squadrons, please move to combat readiness.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/004",
+   "en": "It has been a long while. I am counting on you.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/004",
+   "en": "It's been a while. I'm counting on you again.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/005",
+   "en": "We have entered the operation area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/005",
+   "en": "We're in the operation area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/006",
+   "en": "We have arrived at the operation area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/006",
+   "en": "We've arrived at the operation area.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/007",
+   "en": "Commence the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/007",
+   "en": "Operation start.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/008",
+   "en": "We shall begin the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/008",
+   "en": "Beginning the operation.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/009",
+   "en": "Hey, the operation's starting!",
+   "flags": [],
+   "notes": "TF re-recording; the MUF clip said 'time to get to work'."
+  },
+  {
+   "id": "o7_exd/009",
+   "en": "It seems the operation is about to begin.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/009",
+   "en": "The operation's about to start!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/016",
+   "en": "Target enemy battleship confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/016",
+   "en": "Target enemy battleship confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/017",
+   "en": "I have located what appears to be the enemy leader's unit.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/017",
+   "en": "Possible enemy leader unit located.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/018",
+   "en": "Unknown aircraft sighted. It is heading our way at tremendous speed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/018",
+   "en": "Unknown aircraft sighted! It's heading our way at incredible speed!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/019",
+   "en": "Unidentified aircraft detected. It appears to be heading our way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/019",
+   "en": "Unidentified aircraft detected. It's heading our way.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/022",
+   "en": "You are taking far too much damage.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/022",
+   "en": "You're taking too much damage!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/023",
+   "en": "You have pushed too far ahead on your own.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "tanki 'short term' heard for tanki 'single aircraft' (alone)."
+  },
+  {
+   "id": "of_ktr/023",
+   "en": "You're too far out on your own! Don't be reckless!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "tanki 'short term' heard for tanki 'single aircraft' (alone)."
+  },
+  {
+   "id": "o7_exd/024",
+   "en": "Carrying on like this would be dangerous.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/024",
+   "en": "What are you doing?! This is dangerous!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/025",
+   "en": "Damage spreading. Your aircraft will not hold much longer.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "kitai 'expectation' heard for kitai 'airframe'."
+  },
+  {
+   "id": "of_ktr/025",
+   "en": "Damage spreading. Your aircraft can't take any more!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "kitai 'expectation' heard for kitai 'airframe'."
+  },
+  {
+   "id": "o7_exd/026",
+   "en": "It would be best to eject at once.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/026",
+   "en": "Eject, now!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/027",
+   "en": "Wingman's damage increasing.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki 'both aircraft' kanji for ryouki 'wingman'."
+  },
+  {
+   "id": "of_ktr/027",
+   "en": "Wingman's damage increasing.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki 'both aircraft' kanji for ryouki 'wingman'."
+  },
+  {
+   "id": "o7_exd/028",
+   "en": "It would seem wise to cover your wingman.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki 'both aircraft' kanji for ryouki 'wingman'."
+  },
+  {
+   "id": "of_ktr/028",
+   "en": "Your wingman's heavily damaged!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki 'both aircraft' kanji for ryouki 'wingman'."
+  },
+  {
+   "id": "o7_exd/029",
+   "en": "Your wingman is in danger.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki 'bizarre' kanji for ryouki 'wingman'."
+  },
+  {
+   "id": "of_ktr/029",
+   "en": "Wingman in danger!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki 'bizarre' kanji for ryouki 'wingman'."
+  },
+  {
+   "id": "o7_exd/030",
+   "en": "Your wingman does not look able to hold out any longer.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki 'bizarre' kanji for ryouki 'wingman'."
+  },
+  {
+   "id": "of_ktr/030",
+   "en": "Your wingman can't hold out any longer!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "byouki 'illness' heard for ryouki 'wingman'."
+  },
+  {
+   "id": "o7_exd/031",
+   "en": "Your wingman has been shot down.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki 'bizarre' kanji for ryouki 'wingman'."
+  },
+  {
+   "id": "of_ktr/031",
+   "en": "Your wingman's been shot down!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "ryouki 'bizarre' kanji for ryouki 'wingman'."
+  },
+  {
+   "id": "o7_exd/032",
+   "en": "Friendly forces have come to support us.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/032",
+   "en": "Friendlies have come to back us up!",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/033",
+   "en": "Friendly forces engaging the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/033",
+   "en": "Friendly forces engaging the enemy.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/034",
+   "en": "A friendly aircraft is under attack.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "yuugun 'reserve force' kanji for yuugun 'friendly'."
+  },
+  {
+   "id": "of_ktr/034",
+   "en": "A friendly aircraft is under attack!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "yuugun 'reserve force' kanji for yuugun 'friendly'."
+  },
+  {
+   "id": "o7_exd/035",
+   "en": "A request for support from friendly forces, it seems.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/035",
+   "en": "Friendlies requesting support.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/036",
+   "en": "The friendly aircraft cannot hold out much longer.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "yuugun 'reserve force' kanji for yuugun 'friendly'."
+  },
+  {
+   "id": "of_ktr/036",
+   "en": "That friendly can't hold out any longer!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "yuugun-ki 'friendly aircraft' written with the kanji for 'flag'."
+  },
+  {
+   "id": "o7_exd/037",
+   "en": "Friendly aircraft damage is at its limit.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "yuugun 'reserve force' kanji for yuugun 'friendly'."
+  },
+  {
+   "id": "of_ktr/037",
+   "en": "Friendly aircraft damage at its limit!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "yuugun 'reserve force' kanji for yuugun 'friendly'."
+  },
+  {
+   "id": "o7_exd/038",
+   "en": "Friendly aircraft unable to continue the mission.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "yuugun 'reserve force' kanji for yuugun 'friendly'."
+  },
+  {
+   "id": "of_ktr/038",
+   "en": "Friendly aircraft unable to continue the mission.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "yuugun 'reserve force' kanji for yuugun 'friendly'."
+  },
+  {
+   "id": "o7_exd/039",
+   "en": "A friendly aircraft has been shot down.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "yuugun 'reserve force' kanji for yuugun 'friendly'."
+  },
+  {
+   "id": "of_ktr/039",
+   "en": "A friendly aircraft's been shot down!",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "yuugun 'reserve force' kanji for yuugun 'friendly'."
+  },
+  {
+   "id": "o7_exd/040",
+   "en": "Attack target acquired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/040",
+   "en": "Attack target acquired.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o0_of2/041",
+   "en": "Target confirmed in the combat zone!",
+   "flags": [],
+   "notes": "TF re-recording; the MUF clip said 'a target has appeared'."
+  },
+  {
+   "id": "o7_exd/041",
+   "en": "Attack target confirmed in the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/041",
+   "en": "Target confirmed in the combat zone.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/042",
+   "en": "Attack target acquired on radar.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/042",
+   "en": "Target acquired on radar.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/043",
+   "en": "Attack target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/043",
+   "en": "Target confirmed.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/044",
+   "en": "Attack target: damage light.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "keibi 'guard' kanji for keibi 'slight' (damage light)."
+  },
+  {
+   "id": "of_ktr/044",
+   "en": "Target's damage is light.",
+   "flags": [
+    "whisper_doubt"
+   ],
+   "notes": "keibi 'guard' kanji for keibi 'slight' (damage light)."
+  },
+  {
+   "id": "o7_exd/045",
+   "en": "Attack target still intact.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "of_ktr/045",
+   "en": "Target still intact.",
+   "flags": [],
+   "notes": ""
+  },
+  {
+   "id": "o7_exd/046",
+   "en": "You must not let up your attack.",
+   "flags": [],
+   "notes": ""
+  }
+ ],
+ "report": {
+  "uncertain": [],
+  "whisper_doubt": [
+   "row 33 o7_exd/023: tanki 'short term' heard for tanki 'single aircraft' (alone).",
+   "row 34 of_ktr/023: tanki 'short term' heard for tanki 'single aircraft' (alone).",
+   "row 37 o7_exd/025: kitai 'expectation' heard for kitai 'airframe'.",
+   "row 38 of_ktr/025: kitai 'expectation' heard for kitai 'airframe'.",
+   "row 41 o7_exd/027: ryouki 'both aircraft' kanji for ryouki 'wingman'.",
+   "row 42 of_ktr/027: ryouki 'both aircraft' kanji for ryouki 'wingman'.",
+   "row 43 o7_exd/028: ryouki 'both aircraft' kanji for ryouki 'wingman'.",
+   "row 44 of_ktr/028: ryouki 'both aircraft' kanji for ryouki 'wingman'.",
+   "row 45 o7_exd/029: ryouki 'bizarre' kanji for ryouki 'wingman'.",
+   "row 46 of_ktr/029: ryouki 'bizarre' kanji for ryouki 'wingman'.",
+   "row 47 o7_exd/030: ryouki 'bizarre' kanji for ryouki 'wingman'.",
+   "row 48 of_ktr/030: byouki 'illness' heard for ryouki 'wingman'.",
+   "row 49 o7_exd/031: ryouki 'bizarre' kanji for ryouki 'wingman'.",
+   "row 50 of_ktr/031: ryouki 'bizarre' kanji for ryouki 'wingman'.",
+   "row 55 o7_exd/034: yuugun 'reserve force' kanji for yuugun 'friendly'.",
+   "row 56 of_ktr/034: yuugun 'reserve force' kanji for yuugun 'friendly'.",
+   "row 59 o7_exd/036: yuugun 'reserve force' kanji for yuugun 'friendly'.",
+   "row 60 of_ktr/036: yuugun-ki 'friendly aircraft' written with the kanji for 'flag'.",
+   "row 61 o7_exd/037: yuugun 'reserve force' kanji for yuugun 'friendly'.",
+   "row 62 of_ktr/037: yuugun 'reserve force' kanji for yuugun 'friendly'.",
+   "row 63 o7_exd/038: yuugun 'reserve force' kanji for yuugun 'friendly'.",
+   "row 64 of_ktr/038: yuugun 'reserve force' kanji for yuugun 'friendly'.",
+   "row 65 o7_exd/039: yuugun 'reserve force' kanji for yuugun 'friendly'.",
+   "row 66 of_ktr/039: yuugun 'reserve force' kanji for yuugun 'friendly'.",
+   "row 76 o7_exd/044: keibi 'guard' kanji for keibi 'slight' (damage light).",
+   "row 77 of_ktr/044: keibi 'guard' kanji for keibi 'slight' (damage light)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

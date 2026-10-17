@@ -1,0 +1,452 @@
+{
+ "slice": 198,
+ "rows_in_slice": 72,
+ "rows_examined": 72,
+ "rows": [
+  {
+   "id": "c14502",
+   "en": "S-sorry...\nI've got something to do today... See ya.",
+   "flags": [],
+   "notes": "Hoshimura, both genders. frd_yui_007."
+  },
+  {
+   "id": "c14503",
+   "en": "Got it. See ya.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14504",
+   "en": "(Lately Hoshimura's been kind of\navoiding hanging out with me...)",
+   "flags": [],
+   "notes": "Male (tsukiai warui)."
+  },
+  {
+   "id": "c14505",
+   "en": "(Hmm... No use worrying about it.\nGuess I'll go grab a bite at Nyan-Nyan.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14506",
+   "en": "Welcome, welcome!\nA table for how ma......ny, aru~?",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hoshimura, both genders. She stalls mid-word on recognising the player. Fake-Chinese verbal tic (aru) kept as \"aru\"."
+  },
+  {
+   "id": "c14507",
+   "en": "What are you doing, Hoshimura?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14508",
+   "en": "Who is this Hoshimura you speak of, aru?\nMy name's not Yui or anything, aru~",
+   "flags": [],
+   "notes": "Hoshimura, male scene. The slip (denying a name nobody said) is the joke. Fake-Chinese verbal tic (aru) kept as \"aru\"."
+  },
+  {
+   "id": "c14509",
+   "en": "Now, now, now, dear customer,\nnever mind all that, your seat is this way, aru~",
+   "flags": [],
+   "notes": "Hoshimura, male scene. Fake-Chinese verbal tic (aru) kept as \"aru\"."
+  },
+  {
+   "id": "c14510",
+   "en": "(Hoshimura's determined to play dumb\nto the bitter end, huh...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14511",
+   "en": "Whoa! Hey, Hoshimura!",
+   "flags": [],
+   "notes": "Male; she bumps into something (see next row)."
+  },
+  {
+   "id": "c14512",
+   "en": "You'll get hurt if you don't watch\nwhere you're going...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14513",
+   "en": "(Hoshimura got let off her shift early,\nso we came to Central Park together, but...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14514",
+   "en": "(Neither of us has said a word\nthis whole time...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14515",
+   "en": "Uuu... Today's screwups and all...\nIt's all, all your fault......",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14516",
+   "en": "When you're around,\nI just can't be my usual self!\nEven the China dress is too embarrassing...!",
+   "flags": [],
+   "notes": "Hoshimura, male scene. (kimi no mae ja hazukashikute) \"in front of you\" folded into the context."
+  },
+  {
+   "id": "c14517",
+   "en": "Huh? But you were totally into wearing it\nat the Culture Fest, weren't you...?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14518",
+   "en": "That was then, this is now!!",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14519",
+   "en": "And you wore a nurse outfit when I was in the\nhospital... You even said, 'If you ever wanna\nsee me as a nurse, just say the word,' right?",
+   "flags": [],
+   "notes": "Male; quotes c14332."
+  },
+  {
+   "id": "c14520",
+   "en": "Aaah! Aaah!\nI don't know! I don't know anything!!",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14521",
+   "en": "Anyway, being around you makes me happy and\nit's fun, but it's even MORE embarrassing!\nAt this rate, it's like I... about you...!!",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "Hoshimura, male scene. Trails off before the confession, as in the Japanese (kimi no koto...)."
+  },
+  {
+   "id": "c14522",
+   "en": "...!?",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14523",
+   "en": "...Oh, I see... So that's what this is...",
+   "flags": [],
+   "notes": "Hoshimura, male scene. She realises her feelings."
+  },
+  {
+   "id": "c14524",
+   "en": "Hoshimura?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14525",
+   "en": "Yeah, sorry about all that.\nRanting away all by myself...\nI'm okay now... I'm okay, really.",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14526",
+   "en": "Don't you worry. Next time we meet,\nI'll be the usual, full-of-energy Yui-san!",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14527",
+   "en": "Are you really okay?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14528",
+   "en": "Yup! I'm okay!",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14529",
+   "en": "By next time, I'll definitely...",
+   "flags": [],
+   "notes": "Hoshimura, male scene. Trails off as in the Japanese."
+  },
+  {
+   "id": "c14530",
+   "en": "See you later, then!",
+   "flags": [],
+   "notes": "Hoshimura, male scene."
+  },
+  {
+   "id": "c14531",
+   "en": "(What was Hoshimura trying to say, anyway?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14532",
+   "en": "(Toward the end, she had a look on her face\nlike she'd made up her mind about something...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14533",
+   "en": "(Did I do something to upset Hoshimura...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14534",
+   "en": "Okay. See you.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14535",
+   "en": "(Lately Yui's been kind of\navoiding hanging out with me...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14536",
+   "en": "(Hmm... No use worrying about it.\nMaybe I'll go grab a bite at Nyan-Nyan.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14537",
+   "en": "What are you doing, Yui?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14538",
+   "en": "Who is this Yui you speak of, aru?\nMy name's not Yui or anything, aru~",
+   "flags": [],
+   "notes": "Hoshimura, female scene. Fake-Chinese verbal tic (aru) kept as \"aru\"."
+  },
+  {
+   "id": "c14539",
+   "en": "(Yui's determined to play dumb\nto the bitter end, huh...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14540",
+   "en": "Now, now, now, dear customer,\nnever mind all that, your seat is this way, aru~",
+   "flags": [],
+   "notes": "Hoshimura, female scene. Fake-Chinese verbal tic (aru) kept as \"aru\"."
+  },
+  {
+   "id": "c14541",
+   "en": "Whoa! Hey, Yui!",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14542",
+   "en": "You'll get hurt if you don't watch\nwhere you're going...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14543",
+   "en": "(Yui got let off her shift early,\nso we came to Central Park together, but...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14544",
+   "en": "Are you okay, Yui?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14545",
+   "en": "I'm okay...",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14546",
+   "en": "(She sure doesn't look it...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14547",
+   "en": "Hey, Yui, if something's bothering you......",
+   "flags": [],
+   "notes": "Female; cut off."
+  },
+  {
+   "id": "c14548",
+   "en": "......Right! Moping around like this\nisn't very Yui-san of me!",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14549",
+   "en": "Well, see, lately being around you has been\nso much fun that I couldn't be my usual self.",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14550",
+   "en": "Like, I'd get all hyped up\nand just end up spinning my wheels...",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14551",
+   "en": "So that's what it was...",
+   "flags": [],
+   "notes": "Female; x2 (also frd_yui_008 female)."
+  },
+  {
+   "id": "c14552",
+   "en": "That's why I was kinda avoiding you a bit too...",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14553",
+   "en": "So, give me a little time to sort out my feelings...\nNext time we meet, I'll be the usual,\nfull-of-energy Yui-san!",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14554",
+   "en": "Okay, got it.",
+   "flags": [],
+   "notes": "Female; x4 (also Valentine scenes); as c07131."
+  },
+  {
+   "id": "c14555",
+   "en": "Thanks! See you later, then!",
+   "flags": [],
+   "notes": "Hoshimura, female scene."
+  },
+  {
+   "id": "c14556",
+   "en": "(I'm glad Yui seems to be back to her old self.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14557",
+   "en": "(Being told I'm too much fun to be around\nmakes me happy, but it's a little embarrassing too.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14558",
+   "en": "(I came to Nyan-Nyan for lunch.\nI wonder if Hoshimura would come if I asked her?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14559",
+   "en": "(All right, I'll give her a call.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14560",
+   "en": "Hello, Yui here!",
+   "flags": [],
+   "notes": "Hoshimura, both genders. Voicemail greeting begins."
+  },
+  {
+   "id": "c14561",
+   "en": "Oh, Hoshimura.\nIt's \\p...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14562",
+   "en": "At the moment, I am...",
+   "flags": [],
+   "notes": "Hoshimura, both genders. Voicemail; continues in c14564."
+  },
+  {
+   "id": "c14563",
+   "en": "(Oh, it's her voicemail.\nThere's no point leaving a message...)",
+   "flags": [],
+   "notes": "Player, both genders."
+  },
+  {
+   "id": "c14564",
+   "en": "...off training in the mountains, or maybe not,\nto prepare for the coming battle with \\p.",
+   "flags": [],
+   "notes": "Hoshimura, both genders. Continues c14562."
+  },
+  {
+   "id": "c14565",
+   "en": "(What is with this voicemail greeting...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14566",
+   "en": "Next time we meet, I'll have a bang, squeeze,\nBAAANG! dynamite body,\nso look forward to it!",
+   "flags": [],
+   "notes": "Hoshimura, both genders. (bon, kyu, boon: bust-waist-hips)."
+  },
+  {
+   "id": "c14567",
+   "en": "If you have business with the new me,\nleave a message after the sound\nof a Valkyrie transforming!",
+   "flags": [],
+   "notes": "Hoshimura, both genders."
+  },
+  {
+   "id": "c14568",
+   "en": "(What on earth is Hoshimura up to...?)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c14569",
+   "en": "(I came to Nyan-Nyan for lunch.\nI wonder if Yui would come if I asked her?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14570",
+   "en": "(All right, I'll give her a call.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14571",
+   "en": "Oh, Yui.\nIt's \\p...",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14572",
+   "en": "(What is with this voicemail greeting...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c14573",
+   "en": "(What on earth is Yui up to...?)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c14506: Hoshimura, both genders. She stalls mid-word on recognising the player. Fake-Chinese verbal tic (aru) kept as \"aru\".",
+   "c14521: Hoshimura, male scene. Trails off before the confession, as in the Japanese (kimi no koto...)."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}

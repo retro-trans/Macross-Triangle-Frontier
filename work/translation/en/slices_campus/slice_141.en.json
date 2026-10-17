@@ -1,0 +1,462 @@
+{
+ "slice": 141,
+ "rows_in_slice": 74,
+ "rows_examined": 74,
+ "rows": [
+  {
+   "id": "c10327",
+   "en": "(Who'd have thought Michel would get scouted\nas a model while we were shopping\nin the Shibuya Area...)",
+   "flags": [],
+   "notes": "Male (x2), frd_mcl_108."
+  },
+  {
+   "id": "c10328",
+   "en": "But are you sure it was okay\nto turn them down, Michel?",
+   "flags": [],
+   "notes": "Male. Player to Michel about the model scout offer."
+  },
+  {
+   "id": "c10329",
+   "en": "It's no big deal, is it?",
+   "flags": [],
+   "notes": "x4, Michel to the player, both genders."
+  },
+  {
+   "id": "c10330",
+   "en": "Besides, if I did something like modeling,\nI'd get even more invitations\nfrom the older ladies than I already do.",
+   "flags": [],
+   "notes": "x4, both genders. onee-sama-gata = 'the older ladies' as in earlier slices."
+  },
+  {
+   "id": "c10331",
+   "en": "Then I wouldn't have any time left to hang out\nwith you and Alto and the others.",
+   "flags": [],
+   "notes": "x4, both genders (omae ya Aruto-tachi). The player answers 'What?' (surprised)."
+  },
+  {
+   "id": "c10332",
+   "en": "Come on, let's hurry up and go shopping.",
+   "flags": [],
+   "notes": "x4, both genders."
+  },
+  {
+   "id": "c10333",
+   "en": "(I kinda wanted to see Michel\nas a model, though...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10334",
+   "en": "(But I guess having fun shopping together\nlike this is better.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10335",
+   "en": "(Who'd have thought Michel-kun would get\nscouted as a model while we were shopping\nin the Shibuya Area...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10336",
+   "en": "But are you sure it was okay\nto turn them down, Michel-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10337",
+   "en": "(I kind of wanted to see Michel-kun\nas a model, though...)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10338",
+   "en": "(But having fun shopping together like this\nis better, isn't it?)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10339",
+   "en": "(Today I'm gonna enjoy some shopping\nwith Michel in the San Francisco Area!)",
+   "flags": [],
+   "notes": "Male, frd_mcl_109."
+  },
+  {
+   "id": "c10340",
+   "en": "Oh, you made it on time, \\p.",
+   "flags": [],
+   "notes": "x8: Michel, frd_mcl_109/110, both genders."
+  },
+  {
+   "id": "c10341",
+   "en": "Of course I did.\nCome on, let's hurry up and go shopping.",
+   "flags": [],
+   "notes": "x4: male player, frd_mcl_109/110."
+  },
+  {
+   "id": "c10342",
+   "en": "Yeah, let's do that.",
+   "flags": [],
+   "notes": "x8: Michel answering c10341/c10351, both genders."
+  },
+  {
+   "id": "c10343",
+   "en": "Come to think of it, word is\nthe chili dogs here are really good.",
+   "flags": [],
+   "notes": "x4, both genders. chili dog (glossary: chiri doggu alone)."
+  },
+  {
+   "id": "c10344",
+   "en": "I hear they're so spicy they're addictive.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10345",
+   "en": "I bet Klan would burst into tears if she ate one.\nOh, I know, I'll take one back for her.",
+   "flags": [],
+   "notes": "x4. miyage = take-home souvenir; Michel teasing Klan (female)."
+  },
+  {
+   "id": "c10346",
+   "en": "Michel...\nDon't pick on Klan-senpai like that...",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10347",
+   "en": "Haha, I'm just kidding.",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10348",
+   "en": "Well, since we're here, let's have one ourselves.",
+   "flags": [],
+   "notes": "x4, Michel: eat here before moving on."
+  },
+  {
+   "id": "c10349",
+   "en": "(Shopping with Michel was\na nice change of pace today.)",
+   "flags": [],
+   "notes": "x4: male player, frd_mcl_109/110. 'change of pace' as finished slices."
+  },
+  {
+   "id": "c10350",
+   "en": "(Today I'm going to enjoy some shopping\nwith Michel-kun in the San Francisco Area!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10351",
+   "en": "Of course I did.\nCome on, let's hurry and go shopping.",
+   "flags": [],
+   "notes": "x4: female player, frd_mcl_109/110."
+  },
+  {
+   "id": "c10352",
+   "en": "I hear they're so spicy they're addictive.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10353",
+   "en": "Michel-kun...\nDon't be so mean to poor Klan-senpai...",
+   "flags": [],
+   "notes": "Female (ijimenai de agete yo)."
+  },
+  {
+   "id": "c10354",
+   "en": "(Shopping with Michel-kun was\na nice change of pace today.)",
+   "flags": [],
+   "notes": "x4: female player, frd_mcl_109/110."
+  },
+  {
+   "id": "c10355",
+   "en": "(Today I'm gonna enjoy some shopping\nwith Michel at Folmo!)",
+   "flags": [],
+   "notes": "Male, frd_mcl_110. Folmo (glossary)."
+  },
+  {
+   "id": "c10356",
+   "en": "Come to think of it, word is\nthe ice cream here is really good.",
+   "flags": [],
+   "notes": "x4, Michel, both genders."
+  },
+  {
+   "id": "c10357",
+   "en": "Apparently it's made with hippo-cow milk,\nso it's sweet and rich.",
+   "flags": [],
+   "notes": "Male. hippo-cow (glossary)."
+  },
+  {
+   "id": "c10358",
+   "en": "Klan's got a sweet tooth.\nGuess I'll take some back for her.",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10359",
+   "en": "You can be nice to Klan-senpai\nsometimes, Michel.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10360",
+   "en": "Hmph. Well, this much is nothing.",
+   "flags": [],
+   "notes": "x4, Michel, brushing off the compliment."
+  },
+  {
+   "id": "c10361",
+   "en": "Well, since we're here, let's have some too.",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10362",
+   "en": "(Today I'm going to enjoy some shopping\nwith Michel-kun at Folmo!)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10363",
+   "en": "Apparently it's made with hippo-cow milk,\nso it's sweet and rich.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10364",
+   "en": "You can be nice to Klan-senpai\nsometimes, Michel-kun.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10365",
+   "en": "(I came to see a movie with Michel,\nbut we still haven't decided what to watch.)",
+   "flags": [],
+   "notes": "Male (x2), frd_mcl_111."
+  },
+  {
+   "id": "c10366",
+   "en": "Is there a movie you want to see,\n\\p?",
+   "flags": [],
+   "notes": "x4, Michel, both genders."
+  },
+  {
+   "id": "c10367",
+   "en": "Hmm, nothing in particular...\nHow about you, Michel?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10368",
+   "en": "Let's see...\nWhile we're at it, how about the revival\nscreening of \"Do You Remember Love?\"",
+   "flags": [],
+   "notes": "x2, Michel. Film title from the song/film glossary entry."
+  },
+  {
+   "id": "c10369",
+   "en": "...Come to think of it, Michel,\ndon't you kind of remind me of\nthe genius Maximilian Jenius?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10370",
+   "en": "Hm? You think so?\nThat's the first time anyone's told me that.",
+   "flags": [],
+   "notes": "x2, Michel."
+  },
+  {
+   "id": "c10371",
+   "en": "How do I put it... You've got the same vibe...\nOr, like, the same color, I guess...",
+   "flags": [
+    "uncertain"
+   ],
+   "notes": "x2, both genders. karaa ga niteru kept literal as 'color' (likely a nod to both being blue-themed pilots); deliberately vague, Michel answers 'What's that supposed to mean?'."
+  },
+  {
+   "id": "c10372",
+   "en": "What's that supposed to mean?",
+   "flags": [],
+   "notes": "x2, Michel."
+  },
+  {
+   "id": "c10373",
+   "en": "Well, whatever. More importantly, if we don't\nhurry, we'll be late for the showing.",
+   "flags": [],
+   "notes": "x2, Michel."
+  },
+  {
+   "id": "c10374",
+   "en": "Right, let's go, then.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10375",
+   "en": "Man~, that was a great movie, huh, Michel?",
+   "flags": [],
+   "notes": "Male (x2)."
+  },
+  {
+   "id": "c10376",
+   "en": "Well, it's kinda lame to talk about the movie\nstanding around on the street.\nLet's talk over some tea somewhere.",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10377",
+   "en": "(I hope Michel and I can come\nsee a movie together again.)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10378",
+   "en": "(I came to see a movie with Michel,\nbut we still haven't decided what to watch.)",
+   "flags": [],
+   "notes": "Female. The Japanese has bare Misheru here (no -kun), so no honorific added."
+  },
+  {
+   "id": "c10379",
+   "en": "Hmm, nothing in particular...\nHow about you, Michel-kun?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10380",
+   "en": "...Come to think of it, Michel-kun,\ndon't you kind of remind me of\nthe genius Maximilian Jenius?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10381",
+   "en": "Right, let's go, then.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10382",
+   "en": "Wow~, that was a great movie,\nwasn't it, Michel-kun?",
+   "flags": [],
+   "notes": "Female (x2)."
+  },
+  {
+   "id": "c10383",
+   "en": "(I hope Michel-kun and I can come\nsee a movie together again.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10384",
+   "en": "Yeah, there's nothing in particular\nI want to see either...\nLet's just head to the theater and decide there.",
+   "flags": [],
+   "notes": "x2, Michel, both genders, answering the player's 'nothing in particular'."
+  },
+  {
+   "id": "c10385",
+   "en": "(I promised to go see a movie with Michel-kun,\nbut we still haven't decided what to watch.)",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10386",
+   "en": "(Now then, what should I have for lunch...)",
+   "flags": [],
+   "notes": "Male (x2), frd_mcl_112."
+  },
+  {
+   "id": "c10387",
+   "en": "Phew, I finally got to wash off the sweat...",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10388",
+   "en": "Hey, Michel.\nDid you just take a shower or something?",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10389",
+   "en": "I came to school straight from my part-time job\ntoday, so I really wanted to wash off the sweat.",
+   "flags": [],
+   "notes": "x4, Michel. baito = part-time job."
+  },
+  {
+   "id": "c10390",
+   "en": "That must've been rough.",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10391",
+   "en": "Kinda.\nBut there's still one more problem...",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10392",
+   "en": "A problem?",
+   "flags": [],
+   "notes": "x4, player, both genders."
+  },
+  {
+   "id": "c10393",
+   "en": "Fresh out of the shower like this, my sex appeal\nshows even more than usual, so the older ladies\nwon't be able to leave me alone!",
+   "flags": [],
+   "notes": "x4, Michel. iroke = sex appeal; the player answers 'Yeah, yeah.'"
+  },
+  {
+   "id": "c10394",
+   "en": "Tch, you just brushed me right off...",
+   "flags": [],
+   "notes": "x4, Michel (suruu shiyagatte)."
+  },
+  {
+   "id": "c10395",
+   "en": "Oh well, let's go get something to eat.",
+   "flags": [],
+   "notes": "x4, Michel."
+  },
+  {
+   "id": "c10396",
+   "en": "(Michel's the same as ever.\nNow, what should I have for lunch...)",
+   "flags": [],
+   "notes": "Male."
+  },
+  {
+   "id": "c10397",
+   "en": "(Now then, what should I have for lunch...)",
+   "flags": [],
+   "notes": "Female (x2)."
+  },
+  {
+   "id": "c10398",
+   "en": "Oh, Michel-kun.\nDid you just take a shower or something?",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10399",
+   "en": "That must've been rough.",
+   "flags": [],
+   "notes": "Female."
+  },
+  {
+   "id": "c10400",
+   "en": "(Michel-kun's the same as ever.\nNow, what should I have for lunch...)",
+   "flags": [],
+   "notes": "Female."
+  }
+ ],
+ "report": {
+  "uncertain": [
+   "c10371: karaa ga niteru ('similar color') kept literal; the player is deliberately vague, probably a nod to Max and Michel both being blue-themed genius pilots.",
+   "c10378: female inner line has bare 'Michel' (no -kun) in the Japanese; kept bare per the honorific rule."
+  ],
+  "kept_omission": [],
+  "missing_glossary": [],
+  "unfinished": []
+ }
+}
