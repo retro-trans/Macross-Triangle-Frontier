@@ -15,10 +15,15 @@ The title screen shows the version (bottom right, `{version}` in the layout of `
 version itself:
 
 ```text
-python tools/build_iso.py <version> --images --voice-subs work/translation/en/voice/voice_subs.en.json
+python tools/build_iso.py <version> --images --in-place --voice-subs work/translation/en/voice/voice_subs.en.json
 ```
 
-`tools/build_iso.py` appends every file that outgrew its sectors at the end of the image (a 3.3 GB test ISO), and
+`--in-place` writes every changed file and rebuilt bundle that fits back into its own slot instead of appending
+it (`tools/muf_archive.py repack --in-place`). Without it macross.dat grows by 365 MB (every subtitled voice clip is
+copied to the end) and fileset.dat by 54 MB, the files after them move by more than xdelta's 64 MB source window,
+and the patch grows to over 1 GB. With it the 0.1.22 patch is 19.6 MB.
+
+`tools/build_iso.py` appends every file that outgrew its sectors at the end of the image (a 3.3 GB test ISO without `--in-place`), and
 the new data sits too far from the original bytes for xdelta to match. Release images are re-laid out first:
 
 ```text

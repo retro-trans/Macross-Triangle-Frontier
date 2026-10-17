@@ -70,7 +70,7 @@ Put your original ISO in the project root as `Macross - Triangle Frontier (Japan
 described in [the format notes](docs/formats.md). Then:
 
 ```text
-python tools/build_iso.py <version> --images --voice-subs work/translation/en/voice/voice_subs.en.json
+python tools/build_iso.py <version> --images --in-place --voice-subs work/translation/en/voice/voice_subs.en.json
 python tools/relayout_iso.py "Macross - Triangle Frontier (Japan).iso" "work/output/Macross Triangle Frontier (EN v<version>).iso" "work/output/Macross Triangle Frontier (EN <version>).iso" --write
 ```
 

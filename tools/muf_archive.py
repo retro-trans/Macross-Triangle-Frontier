@@ -296,7 +296,23 @@ def _encode_job(args):
         return muf_lzss.encode(f.read(), mode)
 
 
-def repack(src, out, base, jobs=None, overlay=None):
+def in_place_slots(manifest, container):
+    """For in-place writes: {("f", plain entry) or ("s", bundle record) -> bytes free from its offset to the next
+    occupied byte}. An entry is left out (always appended) when another entry or bundle shares its bytes."""
+    starts = sorted([(f["offset"], f["size"], "f", f["entry"]) for f in manifest["plain_files"] if f["container"] == container]
+                    + [(st["offset"], st["size"], "s", st["record"]) for st in manifest["sets"] if st["container"] == container])
+    room = {}
+    for i, (off, size, kind, key) in enumerate(starts):
+        shared = (i > 0 and starts[i - 1][0] + starts[i - 1][1] > off) or \
+                 (i + 1 < len(starts) and starts[i + 1][0] < off + size)
+        if shared:
+            continue
+        nxt = starts[i + 1][0] if i + 1 < len(starts) else align(off + size, DAT_ALIGN)
+        room[(kind, key)] = nxt - off
+    return room
+
+
+def repack(src, out, base, jobs=None, overlay=None, in_place=False):
     """Triangle Frontier repack: append, never move.
 
     Every container is copied from <base> (the original USRDIR) unchanged. A plain file
@@ -305,6 +321,12 @@ def repack(src, out, base, jobs=None, overlay=None):
     appended. The idx entry / fileset record and the container's own PIDX head are
     repointed. Nothing original is overwritten: original entries can overlap, so in-place
     writes are unsafe. With no changes the output is byte-identical to <base>.
+
+    in_place (release images): a changed plain file that fits in its own slot (up to the next
+    entry, no other entry sharing it, and the bytes it newly covers zero in the original) is
+    written over its original bytes instead, so the container barely grows and the data stays
+    where it was. xdelta (64 MB source window) can only match data that did not move far:
+    appending every subtitled voice clip grew macross.dat by 365 MB and the patch to 1.3 GB.
     """
     meta = os.path.join(src, "_meta")
     manifest = json.load(open(os.path.join(meta, "manifest.json"), encoding="utf-8"))
@@ -364,7 +386,22 @@ def repack(src, out, base, jobs=None, overlay=None):
                     break
                 fo.write(chunk)
             pos = fo.tell()
+            room = in_place_slots(manifest, c) if in_place else {}
+            n_inplace = n_inplace_sets = 0
             for _, f, data in mine:
+                slot = room.get(("f", f["entry"]), 0)
+                if len(data) <= slot:
+                    fi.seek(f["offset"] + f["size"])
+                    if not any(fi.read(max(0, len(data) - f["size"]))):  # newly covered bytes are free (zero)
+                        fo.seek(f["offset"])
+                        fo.write(data)
+                        size, stored = len(data), 0
+                        if data[:4] in (muf_lzss.MAGIC, muf_lzss.MAGIC_STORED):
+                            size, stored = struct.unpack_from("<I", data, 4)[0], len(data)
+                        struct.pack_into("<3I", idx, idx_p.entry_pos(f["entry"]) + 12, f["offset"], size, stored)
+                        struct.pack_into("<3I", head_buf, head.entry_pos(head_paths[f["path"]]) + 12, f["offset"], size, stored)
+                        n_inplace += 1
+                        continue
                 pos = align(pos, dat_align(f["path"]))
                 fo.seek(pos)
                 fo.write(data)
@@ -388,10 +425,19 @@ def repack(src, out, base, jobs=None, overlay=None):
                     else:
                         blobs.append((path, orig[moff:moff + csize]))
                 fsts = build_fsts(blobs)
+                key = (st["offset"], st["size"], len(st["members"]))
+                if len(fsts) <= room.get(("s", st["record"]), 0):
+                    fi.seek(st["offset"] + st["size"])
+                    if not any(fi.read(max(0, len(fsts) - st["size"]))):  # in place: the bundle's own slot
+                        fo.seek(st["offset"])
+                        fo.write(fsts)
+                        struct.pack_into("<3I", idx, idx_recs[st["record"]][0] + 8, st["offset"], len(fsts), len(blobs))
+                        struct.pack_into("<3I", head_buf, head_recs[key] + 8, st["offset"], len(fsts), len(blobs))
+                        n_inplace_sets += 1
+                        continue
                 pos = align(pos, DAT_ALIGN)
                 fo.seek(pos)
                 fo.write(fsts)
-                key = (st["offset"], st["size"], len(st["members"]))
                 struct.pack_into("<3I", idx, idx_recs[st["record"]][0] + 8, pos, len(fsts), len(blobs))
                 struct.pack_into("<3I", head_buf, head_recs[key] + 8, pos, len(fsts), len(blobs))
                 pos += len(fsts)
@@ -401,7 +447,9 @@ def repack(src, out, base, jobs=None, overlay=None):
                 fo.write(b"\0")  # pad to a whole sector, as the originals end
             fo.seek(0)
             fo.write(head_buf)
-        print("%-18s %5d plain files appended, %4d bundles rebuilt" % (c, len(mine), len(sets_here)))
+        print("%-18s %5d plain files appended, %4d bundles rebuilt%s" % (
+            c, len(mine) - n_inplace, len(sets_here),
+            ", in place: %d plain files, %d bundles" % (n_inplace, n_inplace_sets) if in_place else ""))
     with open(os.path.join(out, IDX_NAME), "wb") as f:
         f.write(idx)
 
@@ -438,6 +486,8 @@ def main():
     p.add_argument("--base", required=True, help="original USRDIR (all containers are copied from it)")
     p.add_argument("--jobs", type=int, default=None)
     p.add_argument("--overlay", help="tree whose data/... files replace the extracted ones")
+    p.add_argument("--in-place", action="store_true", help="release images: rewrite changed plain files in their own "
+                   "slot when they fit (keeps data where it was, so the xdelta patch stays small)")
     p = sub.add_parser("verify")
     p.add_argument("a")
     p.add_argument("b")
@@ -445,7 +495,7 @@ def main():
     if args.cmd == "extract":
         extract(args.usrdir, args.out)
     elif args.cmd == "repack":
-        repack(args.src, args.out, args.base, args.jobs, args.overlay)
+        repack(args.src, args.out, args.base, args.jobs, args.overlay, args.in_place)
     else:
         sys.exit(0 if verify(args.a, args.b) else 1)
 

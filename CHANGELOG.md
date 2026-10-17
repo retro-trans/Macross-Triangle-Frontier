@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.1.22] - 2026-10-17 (first public release)
+
+### Changed
+- **Release images keep the data where it was** (`tools/build_iso.py --in-place`, `tools/muf_archive.py repack
+  --in-place`): a changed file or rebuilt bundle that fits in its own slot (up to the next entry, no entry sharing
+  it, the newly covered bytes zero in the original) is written over its original bytes instead of appended. The
+  voice subtitle tails now fit after their clips (16,694 files in place, 1,307 appended; 428 of 518 bundles in
+  place), so macross.dat grows by 13 MB instead of 365 MB and fileset.dat by 14 MB instead of 54 MB. xdelta's
+  64 MB source window could not match the moved data: the release patch went from 1.33 GB to 19.6 MB.
+- First public release on GitHub (`retro-trans/Macross-Triangle-Frontier`), packaged with Retro Trans Tools.
+  Same content as 0.1.21.
+
+### Build
+- `python tools/build_iso.py 0.1.22 --images --in-place --voice-subs work/translation/en/voice/voice_subs.en.json`
+  (log `work/output/build_0.1.22.log`), then
+  `python tools/relayout_iso.py "Macross - Triangle Frontier (Japan).iso" "work/output/Macross Triangle Frontier (EN v0.1.22).iso" "work/output/Macross Triangle Frontier (EN 0.1.22).iso" --write`.
+- Release image: 1,704,689,664 bytes, SHA-256 in `docs/releases/0.1.22/BUILD-MANIFEST.json`.
+- Patch `MacrossTriangleFrontier-English-0.1.22.xdelta`: 19,654,323 bytes, built and validated with
+  `retro_trans.release`.
+
 ## [0.1.21] - 2026-10-17 (test build, not released)
 
 ### Added

@@ -3,6 +3,8 @@
 Usage:
   python tools/build_iso.py <version> [--iso "<original>.iso"] [--tr <insert.json> ...] [--no-hd]
                             [--images] [--work <dir>] [--voice-subs <subs.json> ...] [--voice-placeholder]
+                            [--in-place]   (release images: changed files rewritten in their own slot when they
+                                            fit, so the xdelta patch stays small; docs/RETRO_TRANS_RELEASES.md)
   e.g. python tools/build_iso.py 0.1.0
 
 Needs (once): the USRDIR files and the decrypted EBOOT extracted as in docs/formats.md,
@@ -51,7 +53,7 @@ def main():
     iso = "Macross - Triangle Frontier (Japan).iso"
     tr = []
     vwf_args, work, images = [], None, False
-    voice_subs, voice_placeholder = [], False
+    voice_subs, voice_placeholder, in_place = [], False, False
     while args:
         a = args.pop(0)
         if a == "--iso":
@@ -68,6 +70,8 @@ def main():
             voice_placeholder = True
         elif a == "--work":
             work = args.pop(0)
+        elif a == "--in-place":
+            in_place = True
         else:
             sys.exit("unknown argument " + a)
     if not tr:
@@ -105,7 +109,7 @@ def main():
         run("tools/voice_subs_at3.py", "--out", overlay, "--widths", os.path.join(vwf, "vwf_widths.json"),
             *(["--placeholder"] if voice_placeholder else voice_subs))
     run("tools/muf_archive.py", "repack", os.path.join("work", "source", "dat"), usrdir,
-        "--base", os.path.join("work", "source", "iso"), "--overlay", overlay)
+        "--base", os.path.join("work", "source", "iso"), "--overlay", overlay, *(["--in-place"] if in_place else []))
     run("tools/iso_patch.py", iso, out_iso,
         "PSP_GAME/SYSDIR/EBOOT.BIN=" + eboot,
         *["PSP_GAME/USRDIR/%s=%s" % (f, os.path.join(usrdir, f)) for f in CONTAINERS])
