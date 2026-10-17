@@ -16,7 +16,8 @@
 - `python tools/build_iso.py 0.1.22 --images --in-place --voice-subs work/translation/en/voice/voice_subs.en.json`
   (log `work/output/build_0.1.22.log`), then
   `python tools/relayout_iso.py "Macross - Triangle Frontier (Japan).iso" "work/output/Macross Triangle Frontier (EN v0.1.22).iso" "work/output/Macross Triangle Frontier (EN 0.1.22).iso" --write`.
-- Release image: 1,704,689,664 bytes, SHA-256 in `docs/releases/0.1.22/BUILD-MANIFEST.json`.
+- Release image: 1,704,689,664 bytes, SHA-256 `0b2bee48309c64a8e09342c9c13e56f189d7d08c4e28497634dbde02eabb5979`
+  (`docs/releases/0.1.22/BUILD-MANIFEST.json`); source commit `d08cbd153eca8cdfea5a6236b1d30639bb136ccc`.
 - Patch `MacrossTriangleFrontier-English-0.1.22.xdelta`: 19,654,323 bytes, built and validated with
   `retro_trans.release`.
 
