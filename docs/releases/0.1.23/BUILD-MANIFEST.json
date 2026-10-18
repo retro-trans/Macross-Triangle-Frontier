@@ -1,0 +1,38 @@
+{
+  "game_id": "macross-triangle-frontier",
+  "game_name": "Macross Triangle Frontier",
+  "platform": "PSP",
+  "version": "0.1.23",
+  "source_commit": "287c29c2d1737dcea07714ac91670ebea8514a17",
+  "schema_version": 1,
+  "patches": [
+    {
+      "patch": "MacrossTriangleFrontier-English-0.1.23.xdelta",
+      "edition": "ULJS00321",
+      "language": "en",
+      "source_version": "original",
+      "source_format": "iso",
+      "target_format": "iso",
+      "source_sha256": "ebfebecfdc0980c5d7a78baac9aee36a393019795bf376aaf4838fed07b9531c",
+      "source_bytes": 1676050432,
+      "target_sha256": "085d09a53dc606c96bf42bb0f52709dc7392175ef953ce4e3c05fc500bf8f311",
+      "target_bytes": 1704689664,
+      "patch_sha256": "d54479133ad4e33adaf3ee0964785b1e21a86538045ae8aea0fc08bfb1259c1d",
+      "patch_bytes": 19653553
+    },
+    {
+      "patch": "MacrossTriangleFrontier-English-0.1.22-to-0.1.23.xdelta",
+      "edition": "ULJS00321",
+      "language": "en",
+      "source_version": "0.1.22",
+      "source_format": "iso",
+      "target_format": "iso",
+      "source_sha256": "0b2bee48309c64a8e09342c9c13e56f189d7d08c4e28497634dbde02eabb5979",
+      "source_bytes": 1704689664,
+      "target_sha256": "085d09a53dc606c96bf42bb0f52709dc7392175ef953ce4e3c05fc500bf8f311",
+      "target_bytes": 1704689664,
+      "patch_sha256": "39ece970a619621c8225deb04ad45da09d95034da793021576df7639418ad345",
+      "patch_bytes": 84741
+    }
+  ]
+}

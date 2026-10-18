@@ -1,0 +1,4 @@
+b281983bfadbc426d48ebd21b936b0d9dd9166accf6f3988cb1f5449e7c5f7af  BUILD-MANIFEST.json
+39ece970a619621c8225deb04ad45da09d95034da793021576df7639418ad345  MacrossTriangleFrontier-English-0.1.22-to-0.1.23.xdelta
+d54479133ad4e33adaf3ee0964785b1e21a86538045ae8aea0fc08bfb1259c1d  MacrossTriangleFrontier-English-0.1.23.xdelta
+e4eb51e6d7a3a2210a6e1f3f84bd42296bf78307b08630836c38f860b11528a5  VALIDATION.json

@@ -19,6 +19,9 @@
 - `python tools/build_iso.py 0.1.23 --images --in-place --voice-subs work/translation/en/voice/voice_subs.en.json`
   (log `work/output/build_0.1.23.log`), then `tools/relayout_iso.py` as in the release guide. No file moved
   compared to 0.1.22; 54 scripts are a byte or so shorter or longer in place.
+- Release image: 1,704,689,664 bytes, SHA-256 `085d09a53dc606c96bf42bb0f52709dc7392175ef953ce4e3c05fc500bf8f311`;
+  source commit `287c29c2d1737dcea07714ac91670ebea8514a17`. Patches: full 19,653,553 bytes, 0.1.22 to 0.1.23
+  84,741 bytes (`docs/releases/0.1.23/`).
 
 ## [0.1.22] - 2026-10-17 (first public release)
 
