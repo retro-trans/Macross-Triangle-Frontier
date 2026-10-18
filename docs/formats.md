@@ -118,8 +118,8 @@ file size. Labels are 0x14 bytes: pool offset of the name, two flags, code offse
 `01 <u32>` pushes an immediate (numbers and string pool offsets alike); `29 <u32 fn> <u8 argc>` calls a
 built-in with argc pushed arguments; `21`/`22 <u32>` jump / jump if false; `27 <u32>`; `05 24 <n> <n×u32>` is the
 jump table after a choice, other `05 <4 bytes>` load a variable; `13 <2 bytes>` stores one; `00 02-04 06-0A 18
-1B-20 2B` have no operand. Every one of the 38,147 Japanese pool strings is an argument of a call: function 0x00
-shows a line, 0x01 offers 2-3 choices, others take variants of a line or the `　` placeholder. Function
+1B-20 2B` have no operand. Function 0x00 shows a line and 0x01 offers 2-3 choices; other built-ins take numbers
+(ids, flags, speaker ids), some of which equal a pool offset by chance (below). Function
 0x1D sets the **name plate**: its argument is a speaker id, the record index in `gop_char.gop` (0 = no plate:
 the player or narration, 1 Kagura, ... 11 Alto, ...).
 
