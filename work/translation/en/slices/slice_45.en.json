@@ -234,9 +234,9 @@
   },
   {
    "id": "u5594",
-   "en": "Core study of\ngeneral subjects",
+   "en": "Core study of\ngeneral\nsubjects",
    "flags": [],
-   "notes": ""
+   "notes": "Re-broken: the schedule description box wraps after 14 characters, 4 lines (0.1.24)."
   },
   {
    "id": "u5595",
@@ -246,7 +246,7 @@
   },
   {
    "id": "u5596",
-   "en": "Study how\nmachinery\nworks.",
+   "en": "Study how\nmachinery\nworks",
    "flags": [],
    "notes": ""
   },
@@ -260,7 +260,7 @@
   },
   {
    "id": "u5598",
-   "en": "Study the\nprinciples of\nflight.",
+   "en": "Study the\nprinciples of\nflight",
    "flags": [],
    "notes": ""
   },
@@ -272,9 +272,9 @@
   },
   {
    "id": "u5600",
-   "en": "Study the\nrules for\nnavigating space",
+   "en": "Study the\nrules for\nnavigating\nspace",
    "flags": [],
-   "notes": ""
+   "notes": "Re-broken: the schedule description box wraps after 14 characters, 4 lines (0.1.24)."
   },
   {
    "id": "u5601",
@@ -284,7 +284,7 @@
   },
   {
    "id": "u5602",
-   "en": "Study the\ntactics used\nin space.",
+   "en": "Study the\ntactics used\nin space",
    "flags": [],
    "notes": ""
   },
@@ -296,7 +296,7 @@
   },
   {
    "id": "u5604",
-   "en": "Learn to tune\nand repair\nEX-Gear.",
+   "en": "Learn to tune\nand repair\nEX-Gear",
    "flags": [],
    "notes": ""
   },
@@ -308,9 +308,9 @@
   },
   {
    "id": "u5606",
-   "en": "Learn the basic\nEX-Gear moves",
+   "en": "Learn the\nbasic EX-Gear\nmoves",
    "flags": [],
-   "notes": ""
+   "notes": "Re-broken: the schedule description box wraps after 14 characters, 4 lines (0.1.24)."
   },
   {
    "id": "u5607",
@@ -334,9 +334,9 @@
   },
   {
    "id": "u5610",
-   "en": "Learn\nbasic combat skills",
+   "en": "Learn basic\ncombat skills",
    "flags": [],
-   "notes": ""
+   "notes": "Re-broken: the schedule description box wraps after 14 characters, 4 lines (0.1.24)."
   },
   {
    "id": "u5611",
@@ -346,9 +346,9 @@
   },
   {
    "id": "u5612",
-   "en": "Team up for\nEX-Gear\nformation drills",
+   "en": "Team up for\nEX-Gear\nformation\ndrills",
    "flags": [],
-   "notes": ""
+   "notes": "Re-broken: the schedule description box wraps after 14 characters, 4 lines (0.1.24)."
   },
   {
    "id": "u5613",
@@ -358,9 +358,9 @@
   },
   {
    "id": "u5614",
-   "en": "Training to\nbuild base fitness",
+   "en": "Training to\nbuild base\nfitness",
    "flags": [],
-   "notes": ""
+   "notes": "Re-broken: the schedule description box wraps after 14 characters, 4 lines (0.1.24)."
   },
   {
    "id": "u5615",
@@ -382,9 +382,9 @@
   },
   {
    "id": "u5618",
-   "en": "Training to\nbuild endurance",
+   "en": "Training to\nbuild\nendurance",
    "flags": [],
-   "notes": ""
+   "notes": "Re-broken: the schedule description box wraps after 14 characters, 4 lines (0.1.24)."
   },
   {
    "id": "u5619",
@@ -406,9 +406,9 @@
   },
   {
    "id": "u5622",
-   "en": "Mentally picture\nthe feel of\nflying.",
+   "en": "Picture the\nfeel of\nflying in\nyour mind",
    "flags": [],
-   "notes": ""
+   "notes": "Re-broken: the schedule description box wraps after 14 characters, 4 lines (0.1.24)."
   },
   {
    "id": "u5623",

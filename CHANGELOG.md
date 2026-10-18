@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.1.24] - 2026-10-18 (test build, not released)
+
+### Fixed
+- **Academy schedule: class descriptions broken mid-word** ("Core st / udy of / ... / subjec / ts", running out
+  of the box). The box (code 0x254030) cuts a line every box width / (font size + spacing) bytes: one
+  Japanese character per cell, so about 7 English letters. `tools/vwf_build.py` now halves that divisor (half a
+  cell per byte, as the VWF draws ASCII), so a line holds 14 characters. The `bnez` that guarded the division
+  becomes the shift and the `break` behind it a nop. Found with a memory breakpoint on the description string in
+  PPSSPP; the only caller of the line cutter 0x130668 is this box.
+- The 15 subject descriptions (`gop_sjitem`) re-broken to at most 14 characters per line, 4 lines.
+- Checked in PPSSPP (an Academy save in November of year 2): Mech. Eng., EX-Gear Basics and Basic Training
+  descriptions wrap between words inside the box. Skill descriptions in Learn Abilities use another routine and
+  are unchanged.
+
+### Known
+- The Academy header on the New / Load screen is cut to "Academ"; on the Load screen the date of a save is drawn
+  over "Mihoshi Academy".
+
 ## [0.1.23] - 2026-10-18
 
 ### Fixed

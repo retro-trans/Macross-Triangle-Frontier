@@ -132,6 +132,7 @@ def move(rd, rs): return _r(rs, "zero", rd, 0, 0x21)
 def addu(rd, rs, rt): return _r(rs, rt, rd, 0, 0x21)
 def subu(rd, rs, rt): return _r(rs, rt, rd, 0, 0x23)
 def sll(rd, rt, sa): return _r("zero", rt, rd, sa, 0x00)
+def srl(rd, rt, sa): return _r("zero", rt, rd, sa, 0x02)
 def sra(rd, rt, sa): return _r("zero", rt, rd, sa, 0x03)
 def mult(rs, rt): return _r(rs, rt, "zero", 0, 0x18)
 def div(rs, rt): return _r(rs, rt, "zero", 0, 0x1A)
@@ -363,6 +364,13 @@ def code_patches(caves):
     at(0x130170, NOP, "andi $v1, $a0, 0x60")
     # int advance 0x1312A8 (string width 0x13150C, line truncation 0x1313FC; MUF 0x15917C, 0x1594FC)
     at(0x131338, b(0x131338, caves["adv_i"]), "mtc1 $a2, $f0")
+    # campus text box 0x254030 (schedule subject descriptions, gop_sjitem): it cuts a line every
+    # box width / (size + spacing) bytes, a Japanese character per cell, so an English line broke after
+    # 7 letters mid-word (0.1.23). Halve the divisor: half a cell per byte, as the VWF draws ASCII. The
+    # `bnez` that guarded the division by zero becomes the shift, the `break` behind it a nop (the
+    # divisor is the font size plus spacing, never 0).
+    at(0x254108, srl("v1", "v1", 1), "bnez $v1, 0x254114")
+    at(0x254110, NOP, "break 0, 7")
     # printer 0x131828: '(' '[' drawn at the pen, not half a cell to the left (MUF 0x159ED4)
     at(0x131E90, move("a2", "v1"), "subu $a2, $v1, $a0")
     # glyph-array drawer 0x133788 (lock-on labels; MUF 0x1586B8): half-width glyph drawn

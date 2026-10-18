@@ -74,6 +74,7 @@ text disappeared. The bearing routines are patched to use a table whenever the f
 | 0x13016C (0x130170 nop) | 0x159B84 | float advance 0x1300C8 (printer pen, float string width 0x1301EC): single-byte char of a font with a table → helper 0x130944 (15 words), which calls 0x130014; size × 0.75 otherwise, as before |
 | 0x131338 | 0x15917C, 0x1594FC | int advance 0x1312A8 (string width 0x13150C, widest line 0x131620, fit-to-width printers 0x132724 / 0x13260C / 0x1316C0): same, helper 0x13099C (14 words) calling 0x12FF40 |
 | 0x131E90 | 0x159ED4 | printer 0x131828: `(` `[` drawn at the pen, not half a cell to the left |
+| 0x254108, 0x254110 | — | campus text box 0x254030 (schedule subject descriptions): the line cutter 0x130668 gets box width / (size + spacing) bytes per line, one Japanese character per cell; `bnez`/`break` around the division become `srl v1,v1,1`/`nop`, so a line holds twice as many bytes (14 English characters) |
 | 0x1338A4, 0x1338B4, 0x1338C0, 0x1338CC–0x1338EC | 0x158818–0x158888 | glyph-array drawer 0x133788 (3D name labels): half-width glyph drawn at full size, advance from helper 0x130D64 (MUF's 22-word helper, cell read from the font) |
 
 All three helpers sit in unreferenced functions (`tools/find_caves.py`: 0x130944 and 0x130CDC), in
