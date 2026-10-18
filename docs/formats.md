@@ -123,6 +123,12 @@ shows a line, 0x01 offers 2-3 choices, others take variants of a line or the `ã€
 0x1D sets the **name plate**: its argument is a speaker id, the record index in `gop_char.gop` (0 = no plate:
 the player or narration, 1 Kagura, ... 11 Alto, ...).
 
+**Only the arguments of 0x00 (a line) and 0x01 (choices) are text.** Pushes are untyped, so a number passed to
+another built-in can equal the pool offset of a Japanese string by chance: 262 such pushes feed 0x15, 0x17, 0x1D
+(argument 1), 0x22, 0x23, 0x25, 0x31, 0x3E and 0x4F, which take ids and flags (0x23: values 0-108). Up to 0.1.22
+the insertion repointed them too; in `scd_skl_505` 0x23 got 0x902 instead of 0x6B and the scene after the EX-Gear
+practical test stayed black with only the date. Since 0.1.23 `patch_asb` repoints only text-function arguments.
+
 **Insertion** (`tools/insert_text.py`): the English is appended to the pool and the push operands are
 repointed. Code size and offsets do not change; the header's pool and file sizes are updated, and the script is
 re-encoded as RAIC. A test with dummy English for all 48,406 references in 1,016 scripts runs clean.

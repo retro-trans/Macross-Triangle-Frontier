@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.1.23] - 2026-10-18
+
+### Fixed
+- **Black screen with only the date after an Academy practical test** (reported on 0.1.22 with a save state, the
+  EX-Gear test of `scd_skl_505`): the campus script insertion repointed every push whose value was the pool
+  offset of a translated Japanese string, also numbers passed to non-text built-ins. 262 pushes in 54 scripts
+  were changed that way: built-ins 0x15, 0x17, 0x1D (argument 1), 0x22, 0x23, 0x25, 0x31, 0x3E, 0x4F, which take
+  ids and flags. In `scd_skl_505`, 0x23 got 0x902 instead of 0x6B (107) and the result scene never started.
+  `tools/insert_text.py` now repoints only the arguments of 0x00 (a line) and 0x01 (choices); the 262 pushes keep
+  their original values (`docs/formats.md`, "Campus event scripts").
+- Checked in PPSSPP: the reported save state, loaded on this build, finishes the test and plays the result
+  scene (the same state on 0.1.22 stays black).
+- Players on 0.1.22: load a save made before the practical test, or the same state with this build; the bad
+  value is only in the script on the disc.
+
+### Build
+- `python tools/build_iso.py 0.1.23 --images --in-place --voice-subs work/translation/en/voice/voice_subs.en.json`
+  (log `work/output/build_0.1.23.log`), then `tools/relayout_iso.py` as in the release guide. No file moved
+  compared to 0.1.22; 54 scripts are a byte or so shorter or longer in place.
+
 ## [0.1.22] - 2026-10-17 (first public release)
 
 ### Changed

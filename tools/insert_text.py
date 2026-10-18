@@ -152,13 +152,26 @@ def patch_gop(path_in, rows, notes):
     return g.rebuild(strings)
 
 
+ASB_TEXT_FNS = {0x00: (0,), 0x01: (0, 1, 2)}  # show a line (arg 0); show choices (args 0-2)
+asb_skipped = []
+
+
 def patch_asb(path_in, rows, notes):
+    """Only pushes that feed a text function are repointed. Other functions (0x15, 0x17, 0x22, 0x23, 0x25,
+    0x31, 0x3E, 0x4F, 0x1D arg 1...) take numbers (ids, flags); a number can equal the pool offset of a
+    Japanese string by chance, and repointing it broke the scene (0.1.22: function 0x23 in scd_skl_505 got
+    0x902 instead of 0x6B, the screen stayed black after the practical test)."""
     import asb
     s = asb.Script(open(path_in, "rb").read())
     st = s.strings()
+    text_push = {p for _, fn, args in s.calls() if fn in ASB_TEXT_FNS
+                 for k, p in enumerate(args) if p is not None and k in ASB_TEXT_FNS[fn]}
     english, repoint = {}, {}
     for r in rows:
         pool, push = r["ref"]["pool"], r["ref"]["push"]
+        if push not in text_push:
+            asb_skipped.append((path_in, push))
+            continue
         if st.get(pool) != r["jp"].encode(ENCODING):
             raise ValueError("%s: pool string does not match the Japanese in the work file" % r["id"])
         if s.push_value(push) != pool:
@@ -250,6 +263,8 @@ def main():
         n_rows = sum(len(v) for f, v in by_file.items() if f.endswith(ext))
         print("%s: %d rows in %d files" % (ext[1:].upper(), n_rows, n))
     print("total growth %d bytes; %d bundle copies written" % (grown, n_variants))
+    if asb_skipped:
+        print("ASB: %d pushes left as they are (a number for a non-text function, not a string)" % len(asb_skipped))
     for n in notes:
         print("replaced", n)
     print("dry run, nothing written" if dry else "wrote overlay to " + out)
