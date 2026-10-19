@@ -69,6 +69,12 @@ two pointers, so the corpus keeps them as `not_text` rows that are never written
 Japanese header. Translated (0.1.0-0.1.18), the column was lost and the unit rows misread, so friendly units
 came up as enemies in missions ("EN" tags, red on the radar). It is `NOT_TEXT` too since 0.1.19. Found by
 bisecting the EBOOT strings in PPSSPP (`.bss` gap alone, text without VWF, then string groups).
+Four strings are copied by inlined fixed-length `strcpy`s (`inline_copy`, edited in place, at most the Japanese
+length): 16-byte `lwl`/`lwr` chunks from the address built with lui/addiu, up to an end address. For the
+Survival Mode notice (vaddr 0x414F4C, copy at 0x202E68) that end comes from a literal (0x3EFE5C = 0x414F6C), for
+the Hangar tip (0x414EE8, copy at 0x200BE8) from a register set once (0x414F48): moved, the copy never ends.
+0.1.20-0.1.24 moved them; Campaign froze after clearing the Macross Zero era. The other two, 0x4084D0 and
+0x40CDC4, end at the string + a constant.
 `tools/eboot_insert.py
 --reserve 3072` relocates the rest; a test with dummy English for all 2,850 text strings passes its loader
 simulation (one 64 KB gap, reserve at vaddr 0x47A700).

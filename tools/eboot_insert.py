@@ -199,8 +199,9 @@ def plan_and_patch(elf, A, entries, tr, move_all, expand, gap_only=False, reserv
         in_place_only = not e["refs"] or e.get("inline_copy") or e.get("in_place")
         if in_place_only:
             if raw is not None:
-                if len(raw) + 1 > e["capacity"]:
-                    report["errors"].append("%s: %d bytes, only %d in place" % (e["id"], len(raw) + 1, e["capacity"]))
+                room = min(e["capacity"], e["bytes"] + 1) if e.get("inline_copy") else e["capacity"]
+                if len(raw) + 1 > room:
+                    report["errors"].append("%s: %d bytes, only %d in place" % (e["id"], len(raw) + 1, room))
                 else:
                     inplace.append((e, raw))
             continue

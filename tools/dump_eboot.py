@@ -31,7 +31,8 @@ Every entry has:
   in_place  a field of a struct array (pilot table) or a lookup table
             (`note` says which): edit in place only
   inline_copy  code reads the bytes directly (an inlined strcpy of fixed
-            length): moving or lengthening the string is not enough
+            length, ending at an address the code may hold as a literal):
+            edit in place only, at most the Japanese length
   tails     ids of the merged Japanese tails inside this string
   inner_refs  addresses referenced inside the string (merged tails of any
             kind, e.g. "B" = the last byte of a final 。): keep the old bytes
@@ -147,6 +148,26 @@ def written_reg(w):
         fn = w & 0x3F
         return (w >> 16) & 31 if fn in (0x00, 0x04) else (w >> 11) & 31  # ext/ins, seb/seh/...
     return None
+
+
+def reads_through(elf, a, window=120):
+    """True when the address the addiu at a builds is used as a load base before the
+    register is overwritten or control leaves: an inlined fixed-length strcpy (16-byte
+    lwl/lwr chunks up to an end address that can come from a literal, so moving the
+    string makes the loop never end)."""
+    reg = (elf.word(a) >> 16) & 31
+    for pc in range(a + 4, a + 4 + 4 * window, 4):
+        w = elf.word(pc)
+        if w is None:
+            return False
+        if 0x20 <= w >> 26 <= 0x26 and (w >> 21) & 31 == reg:
+            return True
+        if written_reg(w) == reg:
+            return False
+        k = branch_kind(w, pc)
+        if k and k[0] in ("jump", "call", "ijump", "icall"):
+            return False
+    return False
 
 
 def branch_kind(w, pc):
@@ -579,7 +600,8 @@ def dump(path):
     stats["strings_tail_merged"] = sum(1 for e in out if "tail_of" in e)
     stats["code_refs_hi_shared"] = sum(1 for e in out for r in e["refs"] if r.get("hi_shared"))
     for e in out:
-        if any(r["kind"] == "code" and r["insn"] not in ADDR_OPS.values() for r in e["refs"]):
+        if any(r["kind"] == "code" and (r["insn"] not in ADDR_OPS.values()
+                                        or r["insn"] == "addiu" and reads_through(elf, r["lo"])) for r in e["refs"]):
             e["inline_copy"] = True
         if e["vaddr"] in NOT_TEXT:
             e["in_place"] = True

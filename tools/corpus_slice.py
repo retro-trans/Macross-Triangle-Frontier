@@ -49,6 +49,9 @@ GROUP_LIMIT = {"campus": 420, "choice": 420,  # campus window, 16 px font: measu
                "stage_weapon": 322, "skill": 266, "sound_test": 402}
 # Briefing lines: TF holds a line in 79 bytes with its NUL (the Japanese first lines reach 78 bytes, never
 # more); a 79-character line ran into the next one in 0.1.19 (MK_010: the whole text on line 1). MUF had 80.
+# Occurrences that need other English than their row: the EBOOT copies these with a fixed length
+# (inline_copy, docs/formats.md), so they must fit the Japanese bytes.
+OCC_EN = {"eboot:40C6C0": "???"}  # 不明, copied as 5 bytes (4 + NUL) into a name field
 MAX_CHARS = {"briefing": 78}  # characters per wrapped line
 UI_SLACK = 1.25  # UI labels: warn above 125 % of the Japanese width (boxes are usually wider)
 
@@ -286,7 +289,7 @@ def main():
                     head, body = wrap(r, en)
                     en = "\n".join(head + body) + ("\n" if r["wrap"]["tail_newline"] else "")
                 for o in r["occ"]:
-                    row = {"id": o["id"], "jp": r["jp"], "ref": o["ref"], "en": en}
+                    row = {"id": o["id"], "jp": r["jp"], "ref": o["ref"], "en": OCC_EN.get(o["id"], en)}
                     if o.get("lit_nl"):  # CSV cells and .gop strings store a line break as backslash + n
                         row["lit_nl"] = True
                     if o.get("src_jp"):  # the source text differs from the row's Japanese (a mistyped break)

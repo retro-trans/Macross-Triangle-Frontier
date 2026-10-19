@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.1.25] - 2026-10-19 (test build, not released)
+
+### Fixed
+- **Campaign froze, then crashed, after clearing the Macross Zero era**, and every later attempt to play Campaign
+  froze (reported on 0.1.23 with a save). Clearing the era unlocks Survival Mode; the code copies the notice
+  ("Survival Mode has been unlocked.") into its message buffer with an inlined fixed-length copy: 16-byte chunks
+  from the string's address until an end address it loads from a literal (0x414F6C, the old string + 0x20).
+  The EBOOT insertion had moved the English string, so the copy never reached that end and ran through memory.
+  Found in PPSSPP with the save: the main thread was stuck in the copy loop at 0x202FD0.
+- The same kind of copy, with the end address held in a register, reads the Hangar tip ("When picking
+  units/characters in the Hangar…"), so it would have hung the same way. Two more strings are copied with a fixed
+  length (the "Standing by" network notice and the wireless-play confirmation): moved, they were cut off without
+  a terminator.
+- `tools/dump_eboot.py` now flags as `inline_copy` every string whose address code builds with lui/addiu and
+  then loads bytes from (4 strings); `tools/eboot_insert.py` keeps those in place and limits them to the
+  Japanese length. The Hangar tip and the wireless-play line were shortened to fit (92 and 48 bytes).
+- The 不明 name label at vaddr 0x40C6C0, copied as 5 bytes, showed "Unkno" without a terminator; it is now "???"
+  (`OCC_EN` in `tools/corpus_slice.py`: per-occurrence English, the other uses of the row keep "Unknown").
+- Checked in PPSSPP with the reported save: Campaign shows the pending prizes (new missions, a title), mission
+  select loads, and switching eras (Macross Zero, Extra, Survival, Tutorial) works.
+
 ## [0.1.24] - 2026-10-18 (test build, not released)
 
 ### Fixed

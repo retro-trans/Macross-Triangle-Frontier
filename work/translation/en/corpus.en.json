@@ -61375,9 +61375,9 @@
    "row": 2088,
    "slice": 17,
    "id": "u2088",
-   "en": "\nStart wireless play with this many players.\nAre you sure?",
+   "en": "\nStart wireless play with\nthis many players. OK?",
    "flags": [],
-   "notes": "",
+   "notes": "Shortened to the Japanese length: an inlined fixed-length copy reads it in place (0.1.25).",
    "status": "done",
    "occ": [
     {
@@ -74504,9 +74504,9 @@
    "row": 2608,
    "slice": 18,
    "id": "u2608",
-   "en": "When selecting units and characters in the Hangar,\npress the analog stick left/right to switch between each era's factions.",
+   "en": "When picking units/characters in the Hangar,\nanalog left/right switches each era's factions.",
    "flags": [],
-   "notes": "",
+   "notes": "Shortened to the Japanese length: an inlined fixed-length copy reads it in place (0.1.25).",
    "status": "done",
    "occ": [
     {

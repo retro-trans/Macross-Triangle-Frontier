@@ -197,9 +197,9 @@
   },
   {
    "id": "u2088",
-   "en": "\nStart wireless play with this many players.\nAre you sure?",
+   "en": "\nStart wireless play with\nthis many players. OK?",
    "flags": [],
-   "notes": ""
+   "notes": "Shortened to the Japanese length: an inlined fixed-length copy reads it in place (0.1.25)."
   },
   {
    "id": "u2089",
