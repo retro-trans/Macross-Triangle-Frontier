@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.1.25] - 2026-10-19 (test build, not released)
+## [0.1.25] - 2026-10-19
 
 ### Fixed
 - **Campaign froze, then crashed, after clearing the Macross Zero era**, and every later attempt to play Campaign
