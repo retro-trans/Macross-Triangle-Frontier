@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "manifest_sha256": "727008b2f4defec1cac5184eb9bffedb3770bdc11b66cd8626e586e9ea8814dd",
+  "patches": [
+    {
+      "patch": "MacrossTriangleFrontier-English-0.1.25.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "d76ddd1d33b91ba633e4bf0ff391b20761cbbef382277816edeb63dc6af9cd7b"
+    },
+    {
+      "patch": "MacrossTriangleFrontier-English-0.1.23-to-0.1.25.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "d76ddd1d33b91ba633e4bf0ff391b20761cbbef382277816edeb63dc6af9cd7b"
+    }
+  ]
+}
